@@ -162,6 +162,18 @@ def base_slide():
     draw_mixed(d, 40, 26, "अपना बिहार समाचार", 30, True, (255, 153, 51))
     t = "BPSC TRE 4.0"
     draw_mixed(d, W - 40 - text_w(d, t, 28, True), 28, t, 28, True, (255, 255, 255))
+    # Watermark — channel ka naam, halka tedha beech me + neeche kone me
+    wm = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    wd = ImageDraw.Draw(wm)
+    wtxt = "Apna Bihar Samachar"
+    wf = F("latin", 56, True)
+    wd.text(((W - wd.textlength(wtxt, font=wf)) / 2, H / 2 - 32), wtxt,
+            font=wf, fill=(255, 255, 255, 26))
+    wm = wm.rotate(24, resample=Image.BILINEAR, center=(W / 2, H / 2))
+    img = Image.alpha_composite(img.convert("RGBA"), wm).convert("RGB")
+    d = ImageDraw.Draw(img)
+    mk = "@ApnaBiharSamachar"
+    draw_mixed(d, W - 40 - text_w(d, mk, 20, True), H - 34, mk, 20, True, (130, 150, 205))
     return img, d
 
 def question_slide(q, idx, total, reveal):
@@ -224,9 +236,10 @@ def intro_slide(count, date_str):
 
 def outro_slide():
     img, d = base_slide()
-    center(d, "धन्यवाद!", 200, 60, True, (255, 153, 51))
-    center(d, "रोज़ ऐसे ही प्रश्नों के लिए चैनल से जुड़े रहें", 310, 34, False, (255, 255, 255))
-    center(d, "@ApnaBiharSamachar", 390, 38, True, (124, 252, 154))
+    center(d, "धन्यवाद!", 170, 60, True, (255, 153, 51))
+    center(d, "रोज़ ऐसे ही प्रश्नों के लिए चैनल से जुड़े रहें", 280, 34, False, (255, 255, 255))
+    center(d, "Like करें — Subscribe करें", 345, 40, True, (124, 252, 154))
+    center(d, "Apna Bihar Samachar — @ApnaBiharSamachar", 420, 36, True, (255, 153, 51))
     return img
 
 # ---------------- Segments ----------------
@@ -265,7 +278,7 @@ async def build(questions, workdir):
 
     p = os.path.join(workdir, "outro.png"); outro_slide().save(p)
     a = os.path.join(workdir, "outro.mp3")
-    await tts("धन्यवाद। रोज़ ऐसे ही प्रश्नों के लिए अपना बिहार समाचार चैनल से जुड़े रहें।", a)
+    await tts("धन्यवाद। अगर वीडियो पसंद आया हो तो लाइक ज़रूर करें, और रोज़ ऐसे ही प्रश्नों के लिए अपना बिहार समाचार चैनल को सब्सक्राइब करें।", a)
     s = os.path.join(workdir, "seg_999.mp4"); make_segment(p, a, s); segs.append(s)
 
     lst = os.path.join(workdir, "list.txt")
