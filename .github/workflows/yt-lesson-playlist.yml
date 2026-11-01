@@ -1,0 +1,54 @@
+name: YT Lesson Playlist Setup (one-time)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install google-api-python-client google-auth
+      - name: Lesson playlist banao
+        env:
+          YT_CLIENT_ID: <redacted>
+          YT_CLIENT_SECRET: <redacted>
+          YT_REFRESH_TOKEN: <redacted>
+        run: |
+          python3 - <<'EOF'
+          import os
+          from google.oauth2.credentials import Credentials
+          from googleapiclient.discovery import build
+
+          creds = Credentials(None, refresh_token=os.environ["YT_REFRESH_TOKEN"],
+              token_uri="https://oauth2.googleapis.com/token",
+              client_id=os.environ["YT_CLIENT_ID"], client_secret=os.environ["YT_CLIENT_SECRET"],
+              scopes=["https://www.googleapis.com/auth/youtube"])
+          yt = build("youtube", "v3", credentials=creds)
+
+          pid = ""
+          if os.path.exists("lesson_playlist_id.txt"):
+              pid = open("lesson_playlist_id.txt").read().strip()
+          if not pid:
+              r = yt.playlists().insert(part="snippet,status", body={
+                  "snippet": {"title": "NCERT Class Lessons",
+                              "description": "NCERT Class 6 to 12 — History, Civics, Geography, Economics, Science. Har chapter kahani ke saath, roz 1 chapter. Apna Bihar Samachar."},
+                  "status": {"privacyStatus": "public"}}).execute()
+              pid = r["id"]
+              open("lesson_playlist_id.txt", "w").write(pid)
+              print("PLAYLIST_CREATED")
+          print("LESSON_PLAYLIST_ID", pid)
+          EOF
+      - name: Playlist ID commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add lesson_playlist_id.txt || true
+          git diff --cached --quiet || git commit -m "lesson playlist id"
+          git push || true
