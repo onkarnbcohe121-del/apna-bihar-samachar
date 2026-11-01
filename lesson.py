@@ -18,29 +18,49 @@ IFILE = "lessons/index.json"
 UA = {"User-Agent": "ApnaBiharSamachar-LessonBot/1.0 (educational)"}
 
 
+def _commons_one(query, dest):
+    api = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
+           f"&gsrsearch={urllib.parse.quote(query)}&gsrnamespace=6&gsrlimit=8"
+           "&prop=imageinfo&iiprop=url|size&iiurlwidth=1200&format=json")
+    req = urllib.request.Request(api, headers=UA)
+    data = json.load(urllib.request.urlopen(req, timeout=25))
+    pages = sorted((data.get("query", {}).get("pages", {}) or {}).values(),
+                   key=lambda p: p.get("index", 99))
+    for p in pages:
+        ii = (p.get("imageinfo") or [{}])[0]
+        w, h, url = ii.get("width", 0), ii.get("height", 0), ii.get("thumburl") or ii.get("url")
+        if not url or w < 500 or h < 280:
+            continue
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+            blob = r.read()
+        if len(blob) < 10000:
+            continue
+        with open(dest, "wb") as f:
+            f.write(blob)
+        im = Image.open(dest); im.verify()
+        return True
+    return False
+
+
 def fetch_image(query, dest):
-    """Wikimedia Commons se sabse upyukt tasveer (mukt license) dhoondhkar lao."""
-    try:
-        api = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
-               f"&gsrsearch={urllib.parse.quote(query)}&gsrnamespace=6&gsrlimit=6"
-               "&prop=imageinfo&iiprop=url|size&iiurlwidth=1200&format=json")
-        req = urllib.request.Request(api, headers=UA)
-        data = json.load(urllib.request.urlopen(req, timeout=25))
-        pages = sorted((data.get("query", {}).get("pages", {}) or {}).values(),
-                       key=lambda p: p.get("index", 99))
-        for p in pages:
-            ii = (p.get("imageinfo") or [{}])[0]
-            w, h, url = ii.get("width", 0), ii.get("height", 0), ii.get("thumburl") or ii.get("url")
-            if not url or w < 500 or h < 300:
-                continue
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
-                blob = r.read()
-            with open(dest, "wb") as f:
-                f.write(blob)
-            im = Image.open(dest); im.verify()
-            return True
-    except Exception as e:
-        print(f"  tasveer nahi mili ({query}): {e}")
+    """Wikimedia Commons se tasveer (mukt license) — mazboot koshish:
+    429 par intezaar, phir chhoti query, taaki har scene ko asli tasveer mile."""
+    import time
+    words = query.split()
+    tries = [query]
+    if len(words) > 3:
+        tries.append(" ".join(words[:3]))
+    if len(words) > 2:
+        tries.append(" ".join(words[:2]))
+    for q in tries:
+        for attempt in range(2):
+            try:
+                if _commons_one(q, dest):
+                    return True
+            except Exception as e:
+                print(f"  tasveer koshish fail ({q}): {e}")
+            time.sleep(4 if attempt == 0 else 10)
+    print(f"  tasveer nahi mili (card chalega): {query}")
     return False
 
 
@@ -154,13 +174,9 @@ def lesson_thumb(lesson, photo_path=None):
 
 
 def seg_zoom(png, mp3, out):
-    dur = V.duration(mp3)
-    frames = max(int(dur * 25), 25)
-    fc = (f"[0:v]scale=2560:1440,zoompan=z='min(zoom+0.0007,1.12)'"
-          f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s=1280x720:fps=25,format=yuv420p[v]")
-    run(["ffmpeg", "-y", "-loop", "1", "-i", png, "-i", mp3, "-filter_complex", fc,
-         "-map", "[v]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast",
-         "-crf", "28", "-c:a", "aac", "-b:a", "128k", "-shortest", out], check=True)
+    # STHIR slide — zoom-in HATA diya (user ka nirdesh 2 Nov 03:55):
+    # zoompan se kinare kat-te the; ab slide bilkul sthir rahegi.
+    V.make_segment(png, mp3, out)
 
 
 def make_music(path, seconds):
