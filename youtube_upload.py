@@ -30,8 +30,11 @@ def main():
         "snippet": {
             "title": title,
             "description": desc,
-            "tags": ["BPSC TRE 4.0", "TRE 4.0", "Bihar Teacher", "MCQ",
-                     "Objective Questions", "SST", "Apna Bihar Samachar"],
+            "tags": ["BPSC TRE 4.0", "TRE 4.0", "BPSC TRE", "Bihar Teacher",
+                     "Bihar Teacher Vacancy", "Bihar Shikshak Bharti", "MCQ",
+                     "Objective Questions", "NCERT MCQ", "Class 6 to 12",
+                     "SST", "Social Science", "History MCQ", "Polity MCQ",
+                     "STET", "CTET", "Super TET", "Apna Bihar Samachar"],
             "categoryId": "27",  # Education
             "defaultLanguage": "hi",
         },
