@@ -13,9 +13,9 @@ jobs:
       - run: pip install google-api-python-client google-auth
       - name: Purana video delete karo
         env:
-          YT_CLIENT_ID: <redacted>
-          YT_CLIENT_SECRET: <redacted>
-          YT_REFRESH_TOKEN: <redacted>
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
           python3 - <<'PY'
           import os
