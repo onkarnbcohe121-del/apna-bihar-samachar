@@ -177,9 +177,10 @@ def base_slide():
     draw_mixed(d, W - 40 - text_w(d, mk, 20, True), H - 34, mk, 20, True, (130, 150, 205))
     return img, d
 
-def question_slide(q, idx, total, reveal):
+def question_slide(q, idx, total, reveal, start_no=1):
     img, d = base_slide()
-    badge = f"प्रश्न {idx} / {total}"
+    # Series ka serial number (user ka nirdesh 1 Nov: video ke andar bhi serially)
+    badge = f"प्रश्न {start_no + idx - 1} / {start_no + total - 1}"
     bw = text_w(d, badge, 26, True) + 36
     rrect(d, [40, 78, 40 + bw, 122], 22, fill=(255, 153, 51))
     draw_mixed(d, 58, 86, badge, 26, True, (11, 31, 74))
@@ -226,13 +227,15 @@ def question_slide(q, idx, total, reveal):
 def center(d, text, y, size, bold, fill):
     draw_mixed(d, (W - text_w(d, text, size, bold)) / 2, y, text, size, bold, fill)
 
-def intro_slide(count, date_str):
+def intro_slide(count, date_str, q_range=None):
     img, d = base_slide()
     center(d, "अपना बिहार समाचार", 140, 66, True, (255, 153, 51))
     center(d, "हर जिला, हर खबर — देश-दुनिया के साथ", 222, 30, False, (200, 215, 250))
     center(d, "BPSC TRE 4.0 — Practice Video", 285, 42, True, (255, 255, 255))
     center(d, f"{count} Objective Questions", 360, 48, True, (124, 252, 154))
-    center(d, "उत्तर + व्याख्या सहित", 435, 36, False, (255, 255, 255))
+    if q_range:
+        center(d, q_range, 425, 40, True, (255, 205, 90))
+    center(d, "उत्तर + व्याख्या सहित", 490, 36, False, (255, 255, 255))
     center(d, date_str, 560, 27, False, (170, 190, 235))
     return img
 
@@ -274,22 +277,25 @@ async def build(questions, workdir, q_start=None):
     today = datetime.now(IST).strftime("%d %B %Y")
     total = len(questions)
     # Intro
-    p = os.path.join(workdir, "intro.png"); intro_slide(total, today).save(p)
+    start_no = q_start or 1
+    q_range = f"Questions {start_no} - {start_no + total - 1}" if q_start else None
+    p = os.path.join(workdir, "intro.png"); intro_slide(total, today, q_range).save(p)
     a = os.path.join(workdir, "intro.mp3")
-    await tts(f"अपना बिहार समाचार में आपका स्वागत है। आज के वीडियो में शिक्षक भर्ती परीक्षा के {total} महत्वपूर्ण प्रश्न हैं — उत्तर और व्याख्या के साथ।", a)
+    range_line = f" इस वीडियो में प्रश्न {start_no} से {start_no + total - 1} तक हैं।" if q_start else ""
+    await tts(f"अपना बिहार समाचार में आपका स्वागत है। आज के वीडियो में शिक्षक भर्ती परीक्षा के {total} महत्वपूर्ण प्रश्न हैं — उत्तर और व्याख्या के साथ।{range_line}", a)
     s = os.path.join(workdir, "seg_000.mp4"); make_segment(p, a, s); segs.append(s)
 
     for i, q in enumerate(questions, 1):
         opts_speech = "; ".join(f"{LETTERS[j]}, {hi_part(o)}" for j, o in enumerate(q["options"]))
-        p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False).save(p)
+        p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, start_no).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
-        await tts(f"प्रश्न {i}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
+        await tts(f"प्रश्न {start_no + i - 1}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
         s = os.path.join(workdir, f"seg_{i:03d}a.mp4"); make_segment(p, a, s); segs.append(s)
 
         expl = q["explanation"]
         if len(expl) > 260:
             expl = expl[:260].rsplit("।", 1)[0] + "।"
-        p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True).save(p)
+        p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, start_no).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
         await tts(f"सही उत्तर है… {LETTERS[q['answer']]}, {hi_part(q['options'][q['answer']])}। {expl}", a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
