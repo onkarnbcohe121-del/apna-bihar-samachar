@@ -13,7 +13,7 @@ from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 VOICE = "hi-IN-SwaraNeural"   # Hindi female, natural (Microsoft Edge TTS)
-RATE = "-5%"                  # halki dheemi, aaram ki raftaar — tez awaaz robotic lagti hai (edge-tts ko sign wala rate chahiye, "0%" invalid hai)
+RATE = "+3%"                  # halki tez — natural (-5%) aur robotic (+10%) ke beech ki raftaar (user ka nirdesh 1 Nov: "agla video thora fast")
 PITCH = "-2Hz"                # halki gehraai — awaaz zyada insaani lagti hai
 W, H = 1280, 720
 LETTERS = ["A", "B", "C", "D"]
