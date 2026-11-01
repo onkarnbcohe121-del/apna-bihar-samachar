@@ -68,6 +68,25 @@ def run(cmd, **kw):
     return V.run(cmd, **kw)
 
 
+import re
+_FACT_RE = re.compile(r"[०-९0-9]")  # Devanagari/Latin ank = tathya (saal, taarikh, sankhya)
+
+
+def draw_rich(d, x, y, text, size, maxw):
+    """Bullet text: jin shabdon me ank (saal/taarikh/sankhya) hai, ve peeli
+    chamak + bold me — baaki aam rang me. Shabd-dar-shabd wrap."""
+    space_w = V.text_w(d, " ", size, False)
+    cx = x
+    for w in text.split():
+        hi = bool(_FACT_RE.search(w))
+        ww = V.text_w(d, w, size, hi)
+        if cx > x and cx + ww > x + maxw:
+            cx = x; y += size + 10
+        V.draw_mixed(d, cx, y, w, size, hi, (255, 205, 90) if hi else (225, 235, 250))
+        cx += ww + space_w
+    return y + size + 12
+
+
 def scene_slide(lesson, sc, idx, total):
     img, d = V.base_slide()
     # series line — base header ke NEECHE (upar overlap na ho)
@@ -79,12 +98,10 @@ def scene_slide(lesson, sc, idx, total):
     for ln in V.wrap_mixed(d, sc["head"], 44, True, 660)[:2]:
         V.draw_mixed(d, 88, y, ln, 44, True, (255, 255, 255)); y += 58
     y += 14
-    # bullets (left)
+    # bullets (left) — taarikh/sankhya wale tathya PEELI chamak me highlight
     for pt in sc.get("points", []):
-        lines = V.wrap_mixed(d, pt, 30, False, 620)
         V.draw_mixed(d, 88, y, "•", 30, True, (124, 252, 154))
-        for ln in lines:
-            V.draw_mixed(d, 122, y, ln, 30, False, (225, 235, 250)); y += 40
+        y = draw_rich(d, 122, y, pt, 30, 640)
         y += 12
     # visual (right) — asli tasveer mile to wahi, warna bana-hua card
     cap = sc.get("vcap", "")
