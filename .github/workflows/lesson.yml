@@ -48,9 +48,9 @@ jobs:
 
       - name: YouTube par upload karo
         env:
-          YT_CLIENT_ID: <redacted>
-          YT_CLIENT_SECRET: <redacted>
-          YT_REFRESH_TOKEN: <redacted>
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
         run: |
           VIDEO_FILE=$(ls tmpwork/treles_*/final.mp4 | head -1)
