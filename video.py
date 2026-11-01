@@ -8,7 +8,7 @@ Video Telegram channel + personal chat par bheja jata hai (bot se).
 Config (env): COUNT, SEND_TO=both|channel|personal|none, SAVE_STATE=1|0,
 START_INDEX (state ko override), QUESTIONS_FILE, STATE_FILE
 """
-import asyncio, json, os, subprocess, sys, tempfile, urllib.request
+import asyncio, json, os, re, subprocess, sys, tempfile, urllib.request
 from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -84,8 +84,37 @@ def duration(path):
 def hi_part(opt):
     return opt.split(" / ")[0].strip()
 
+# ---- Hindi sankhya bolne ka niyam (user ka nirdesh 1 Nov 2026) ----
+# Saal jaise 4-ank ke number "satrah sau" style me bole jayenge:
+# 1764 -> "सत्रह सौ चौंसठ" (NA ki "एक हज़ार सात सौ चौंसठ")
+HINDI_NUMS = ["", "एक", "दो", "तीन", "चार", "पाँच", "छह", "सात", "आठ", "नौ", "दस",
+    "ग्यारह", "बारह", "तेरह", "चौदह", "पंद्रह", "सोलह", "सत्रह", "अठारह", "उन्नीस", "बीस",
+    "इक्कीस", "बाईस", "तेईस", "चौबीस", "पच्चीस", "छब्बीस", "सत्ताईस", "अट्ठाईस", "उनतीस", "तीस",
+    "इकतीस", "बत्तीस", "तैंतीस", "चौंतीस", "पैंतीस", "छत्तीस", "सैंतीस", "अड़तीस", "उनतालीस", "चालीस",
+    "इकतालीस", "बयालीस", "तैंतालीस", "चवालीस", "पैंतालीस", "छियालीस", "सैंतालीस", "अड़तालीस", "उनचास", "पचास",
+    "इक्यावन", "बावन", "तिरपन", "चौवन", "पचपन", "छप्पन", "सत्तावन", "अट्ठावन", "उनसठ", "साठ",
+    "इकसठ", "बासठ", "तिरसठ", "चौंसठ", "पैंसठ", "छियासठ", "सड़सठ", "अड़सठ", "उनहत्तर", "सत्तर",
+    "इकहत्तर", "बहत्तर", "तिहत्तर", "चौहत्तर", "पचहत्तर", "छिहत्तर", "सतहत्तर", "अठहत्तर", "उनासी", "अस्सी",
+    "इक्यासी", "बयासी", "तिरासी", "चौरासी", "पचासी", "छियासी", "सत्तासी", "अट्ठासी", "नवासी", "नब्बे",
+    "इक्यानवे", "बानवे", "तिरानवे", "चौरानवे", "पचानवे", "छियानवे", "सत्तानवे", "अट्ठानवे", "निन्यानवे"]
+DEV_DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
+
+def _year_words(m):
+    n = int(m.group(0))
+    sau, rest = divmod(n, 100)
+    w = HINDI_NUMS[sau] + " सौ"
+    if rest:
+        w += " " + HINDI_NUMS[rest]
+    return w
+
+def speech_fix(text):
+    """Bolne wale text me saal-wale number sau-style me badlo (slide par asar nahi)."""
+    t = text.translate(DEV_DIGITS)
+    return re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", _year_words, t)
+
 async def tts(text, out):
     import edge_tts
+    text = speech_fix(text)
     proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy") or None
     for attempt in range(3):
         try:
