@@ -569,6 +569,26 @@ def remove_duplicates(articles):
 # CREATE NEWS BULLETIN
 # ==========================================
 
+LATEST_VIDEO_TXT = (
+    "https://raw.githubusercontent.com/onkarnbcohe121-del/"
+    "apna-bihar-samachar/main/latest_video.txt"
+)
+YOUTUBE_CHANNEL = "https://www.youtube.com/@ApnaBiharSamacharLive"
+
+
+def get_latest_video_url():
+    """Repo ke latest_video.txt se taaza TRE video ka YouTube link.
+    Na mile to khaali — news post bina link ke bhi chalegi."""
+    try:
+        with urllib.request.urlopen(LATEST_VIDEO_TXT, timeout=10) as r:
+            u = r.read().decode("utf-8", "ignore").strip()
+        if u.startswith("https://youtu.be/"):
+            return u
+    except Exception:
+        pass
+    return ""
+
+
 def create_message(bihar_news, national_news):
 
     now = datetime.now(IST)
@@ -623,11 +643,17 @@ def create_message(bihar_news, national_news):
                 message += f"🔗 Source: {link}\n"
         message += "\n"
 
-    message += (
+    # User ka nirdesh (1 Nov): Telegram news post me YouTube link bhi dalo
+    yt_latest = get_latest_video_url()
+    footer = (
         "━━━━━━━━━━━━━━━━━━\n"
         "Bihar First | India Next\n"
-        "Apna Bihar Samachar"
+        "Apna Bihar Samachar\n"
     )
+    if yt_latest:
+        footer += f"\n🎬 TRE 4.0 Latest Video: {yt_latest}"
+    footer += f"\n▶️ YouTube: {YOUTUBE_CHANNEL}"
+    message += footer
 
     return message
 
