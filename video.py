@@ -395,14 +395,14 @@ def main():
     if os.path.exists(SFILE):
         with open(SFILE, encoding="utf-8") as f:
             state = json.load(f)
-    start = int(os.environ.get("START_INDEX", state.get("next_index", 0)))
+    start = int(os.environ.get("START_INDEX") or state.get("next_index", 0))
     batch = bank[start:start + COUNT]
     if not batch:
         print("Bank me naye sawal nahi bache — video nahi banega.")
         return
     print(f"Kul {len(batch)} sawalon ka video ban raha hai (index {start} se)...")
     workdir = tempfile.mkdtemp(prefix="trevid_")
-    q_start = int(state.get("q_start", 1))
+    q_start = int(os.environ.get("QSTART") or state.get("q_start", 1))
     out, thumb = asyncio.run(build(batch, workdir, q_start))
     vno = state.get("video_no", 0) + 1
     today = datetime.now(IST).strftime("%d %b %Y")
