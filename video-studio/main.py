@@ -21,7 +21,7 @@ def build():
     (OUT / "sources.json").write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
     script = make_script(items, target_minutes=int(os.getenv("VIDEO_MINUTES", "17")))
     (OUT / "script.json").write_text(json.dumps(script, ensure_ascii=False, indent=2), encoding="utf-8")
-    render_video(script, items, OUT, voice=os.getenv("VOICE", "hi-IN-MadhurNeural"),
+    render_video(script, items, OUT, voice=os.getenv("VOICE", "hi-IN-SwaraNeural"),
                  channel=os.getenv("CHANNEL_NAME", "Apna Bihar Samachar"))
     print("\nREADY FOR REVIEW")
     print(f"Video: {OUT / 'final_video.mp4'}")
