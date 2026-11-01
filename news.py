@@ -1,7 +1,7 @@
-
 import os
 import json
 import hashlib
+import time
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -14,10 +14,40 @@ from zoneinfo import ZoneInfo
 
 # ==========================================
 # APNA BIHAR SAMACHAR - HOURLY EDITION
+# (Fixed version — Juno, 1 Nov 2026)
+#
+# Kya fix hua:
+# 1. CHAT_ID apne aap saaf ho jata hai — secret me galti se
+#    t.me/ wala link ya bina @ ka username dala ho to bhi
+#    sahi @username ban jayega ("chat not found" 400 khatm).
+# 2. Message split ab Telegram ke hisaab se (UTF-16 length)
+#    ginta hai — Hindi text + emoji me asal limit cross
+#    nahi hogi ("message is too long" 400 khatm).
+# 3. 429 (rate limit) aane par Telegram ke bataye samay
+#    ruk kar ek baar khud retry hota hai.
+# 4. Token secret missing ho to saaf error message aayega.
 # ==========================================
 
-BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+
+def normalize_chat_id(raw):
+    """Secret ki value jaisi bhi ho, sahi chat_id bana deta hai."""
+    cid = (raw or "").strip()
+    for prefix in ("https://t.me/", "http://t.me/", "t.me/"):
+        if cid.startswith(prefix):
+            cid = cid[len(prefix):]
+            break
+    cid = cid.strip().strip("/")
+    if not cid:
+        return "@ApnaBiharSamachar"
+    if cid.lstrip("-").isdigit():
+        return cid              # numeric id (-100...) jaisa hai waisa
+    if not cid.startswith("@"):
+        cid = "@" + cid         # username bina @ ke aaya ho to @ jodo
+    return cid
+
+
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+CHAT_ID = normalize_chat_id(os.environ.get("TELEGRAM_CHAT_ID", ""))
 
 IST = ZoneInfo("Asia/Kolkata")
 
@@ -284,37 +314,42 @@ def create_message(bihar_news, national_news):
 
 # ==========================================
 # SPLIT TELEGRAM MESSAGE
+# Telegram length UTF-16 units me ginta hai —
+# isliye split bhi usi hisaab se hoga.
 # ==========================================
+
+def telegram_len(text):
+    return len(text.encode("utf-16-le")) // 2
+
 
 def split_message(message):
 
     chunks = []
+    rest = message
 
-    while message:
+    while rest:
 
-        if len(message) <= MESSAGE_LIMIT:
-
-            chunks.append(message)
+        if telegram_len(rest) <= MESSAGE_LIMIT:
+            chunks.append(rest)
             break
 
-        cut = message.rfind(
-            "\n\n", 0, MESSAGE_LIMIT
-        )
+        # Limit ke andar aane wala takreeban cut point
+        approx = int(len(rest) * MESSAGE_LIMIT / telegram_len(rest))
+        approx = max(1, min(approx, len(rest) - 1))
+        window = rest[:approx + 200]
 
-        if cut == -1:
+        cut = window.rfind("\n\n", 0, approx + 1)
 
-            cut = message.rfind(
-                "\n", 0, MESSAGE_LIMIT
-            )
+        if cut < approx // 2:
+            cut = window.rfind("\n", 0, approx + 1)
 
-        if cut == -1:
-            cut = MESSAGE_LIMIT
+        if cut <= 0:
+            cut = approx
 
-        chunks.append(message[:cut])
+        chunks.append(rest[:cut])
+        rest = rest[cut:].lstrip("\n")
 
-        message = message[cut:].lstrip()
-
-    return chunks
+    return [c for c in chunks if c.strip()]
 
 
 # ==========================================
@@ -322,6 +357,13 @@ def split_message(message):
 # ==========================================
 
 def send_telegram(message):
+
+    if not BOT_TOKEN:
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN secret set nahi hai. "
+            "GitHub repo > Settings > Secrets and variables > "
+            "Actions me naya bot token daalo."
+        )
 
     url = (
         f"https://api.telegram.org/"
@@ -333,7 +375,7 @@ def send_telegram(message):
     for index, part in enumerate(chunks, 1):
 
         data = urllib.parse.urlencode({
-            "chat_id": CHAT_ID.strip(),
+            "chat_id": CHAT_ID,
             "text": part,
             "disable_web_page_preview": "true"
         }).encode()
@@ -347,40 +389,60 @@ def send_telegram(message):
             }
         )
 
-        try:
+        # 429 (rate limit) par ek baar retry
+        for attempt in (1, 2):
 
-            with urllib.request.urlopen(
-                request, timeout=30
-            ) as response:
+            try:
 
-                result = json.loads(
-                    response.read().decode()
-                )
+                with urllib.request.urlopen(
+                    request, timeout=30
+                ) as response:
 
-                print("Telegram API:", result)
-
-                if not result.get("ok"):
-
-                    raise RuntimeError(
-                        str(result)
+                    result = json.loads(
+                        response.read().decode()
                     )
 
-                print(
-                    f"Message {index}/"
-                    f"{len(chunks)} sent successfully."
+                    if not result.get("ok"):
+
+                        raise RuntimeError(
+                            str(result)
+                        )
+
+                    print(
+                        f"Message {index}/"
+                        f"{len(chunks)} sent successfully."
+                    )
+
+                break
+
+            except urllib.error.HTTPError as error:
+
+                details = error.read().decode(
+                    "utf-8",
+                    errors="replace"
                 )
 
-        except urllib.error.HTTPError as error:
+                if error.code == 429 and attempt == 1:
 
-            details = error.read().decode(
-                "utf-8",
-                errors="replace"
-            )
+                    wait = 5
+                    try:
+                        wait = int(json.loads(details)
+                                   .get("parameters", {})
+                                   .get("retry_after", 5))
+                    except Exception:
+                        pass
 
-            raise RuntimeError(
-                f"Telegram HTTP {error.code}: "
-                f"{details}"
-            ) from error
+                    print(
+                        f"Telegram rate limit — "
+                        f"{wait}s ruk kar retry..."
+                    )
+                    time.sleep(wait)
+                    continue
+
+                raise RuntimeError(
+                    f"Telegram HTTP {error.code}: "
+                    f"{details}"
+                ) from error
 
 
 # ==========================================
@@ -390,6 +452,7 @@ def send_telegram(message):
 def main():
 
     print("Starting Apna Bihar Samachar")
+    print("Chat ID:", CHAT_ID)
 
     print("Checking Bihar news...")
 
