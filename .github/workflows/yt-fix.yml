@@ -39,15 +39,16 @@ jobs:
           except Exception as e:
               print("THUMB_FIX_FAIL:", str(e)[:300])
 
-          # 2) Description English me (title/category/tags purane wale hi rakhenge)
+          # 2) Title me range + Description English me
           try:
               cur = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
+              cur["title"] = "BPSC TRE 4.0 | Questions 1-50 with Answers | 01 Nov 2026 | Apna Bihar Samachar"
               cur["description"] = (
                   "BPSC TRE 4.0 - 50 important objective questions with answers and explanations. "
                   "New videos daily at 7 AM, 1 PM and 7 PM.\n"
                   "All questions are based on NCERT Class 6 to 12.\n"
                   "Telegram: https://t.me/ApnaBiharSamachar\n"
-                  "#BPSCTRE #TRE4 #BiharTeacher #MCQ #ApnaBiharSamachar")
+                  "#BPSCTRE #TRE4 #BiharTeacher #BiharShikshakBharti #STET #CTET #SuperTET #NCERT #MCQ #SST #ApnaBiharSamachar")
               yt.videos().update(part="snippet", body={"id": vid, "snippet": cur}).execute()
               print("DESC_FIX_OK")
           except Exception as e:

@@ -73,7 +73,7 @@ jobs:
           export YT_DESC="BPSC TRE 4.0 — 50 important objective questions with answers and explanations. New videos daily at 7 AM, 1 PM and 7 PM.
           All questions are based on NCERT Class 6 to 12.
           Telegram: https://t.me/ApnaBiharSamachar
-          #BPSCTRE #TRE4 #BiharTeacher #MCQ #ApnaBiharSamachar"
+          #BPSCTRE #TRE4 #BiharTeacher #BiharShikshakBharti #STET #CTET #SuperTET #NCERT #MCQ #SST #ApnaBiharSamachar"
           python youtube_upload.py | tee upload.log
           grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > latest_video.txt || true
 
