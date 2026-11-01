@@ -55,14 +55,6 @@ jobs:
           mkdir -p tmpwork
           python video.py
 
-      - name: State wapas commit karo
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add video_state.json || true
-          git diff --cached --quiet || git commit -m "video state update"
-          git push || true
-
       - name: YouTube par upload karo
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
@@ -74,8 +66,19 @@ jobs:
           THUMB_FILE=$(ls tmpwork/trevid_*/thumb.jpg | head -1)
           DATE_STR=$(TZ=Asia/Kolkata date '+%d %b %Y')
           export VIDEO_FILE THUMB_FILE
+          export YT_PLAYLIST_ID=$(cat playlist_id.txt 2>/dev/null || echo "")
           export YT_TITLE="BPSC TRE 4.0 | Objective Questions with Answers | $DATE_STR | Apna Bihar Samachar"
-          export YT_DESC="BPSC TRE 4.0 ke mahatvapurn objective prashn — uttar aur vyakhya ke saath. Roz 3 video: subah 7, dopahar 1, shaam 7 baje.
+          export YT_DESC="BPSC TRE 4.0 — 50 important objective questions with answers and explanations. New videos daily at 7 AM, 1 PM and 7 PM.
+          All questions are based on NCERT Class 6 to 12.
           Telegram: https://t.me/ApnaBiharSamachar
           #BPSCTRE #TRE4 #BiharTeacher #MCQ #ApnaBiharSamachar"
-          python youtube_upload.py
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > latest_video.txt || true
+
+      - name: State wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add video_state.json latest_video.txt || true
+          git diff --cached --quiet || git commit -m "video state update"
+          git push || true
