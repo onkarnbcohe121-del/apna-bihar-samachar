@@ -10,6 +10,8 @@ import asyncio, json, os, subprocess, sys, tempfile, urllib.parse, urllib.reques
 from PIL import Image, ImageDraw, ImageOps
 import video as V
 
+V.RATE = "-8%"   # Lesson ki gati thodi dheere — samajhne ke liye (user: min 20 min/video)
+
 W, H = V.W, V.H
 SFILE = "lesson_state.json"
 IFILE = "lessons/index.json"
@@ -103,6 +105,19 @@ def lesson_intro(lesson):
     return img
 
 
+def revision_slide(lesson):
+    img, d = V.base_slide()
+    V.center(d, "दोहराव — पूरे अध्याय की झलक", 66, 40, True, (255, 205, 90))
+    heads = [sc["head"] for sc in lesson["scenes"]]
+    half = (len(heads) + 1) // 2
+    for col, part in enumerate((heads[:half], heads[half:])):
+        x = 70 if col == 0 else 660
+        y = 140
+        for j, h in enumerate(part):
+            V.draw_mixed(d, x, y, f"{col * half + j + 1}. {h}", 21, False, (225, 235, 250)); y += 34
+    return img
+
+
 def lesson_thumb(lesson, photo_path=None):
     img, d = V.base_slide()
     # right side — asli tasveer (ho to)
@@ -186,6 +201,15 @@ async def build(lesson, workdir):
         await V.tts(sc["text"], a)
         s = os.path.join(workdir, f"seg_{i:03d}.mp4"); seg_zoom(p, a, s); segs.append(s)
         print(f"  scene {i}/{total} taiyaar")
+    # revision — poora adhyay ek baar phir, tez jhalak me
+    p = os.path.join(workdir, "rev.png"); revision_slide(lesson).save(p)
+    a = os.path.join(workdir, "rev.mp3")
+    rev_parts = []
+    for i, sc in enumerate(scenes, 1):
+        pt = sc.get("points", [""])[0]
+        rev_parts.append(f"{sc['head']} — {pt}।")
+    await V.tts("आइए, पूरे अध्याय को एक बार फिर से दोहरा लेते हैं, ताकि सब कुछ पक्का हो जाए। " + " ".join(rev_parts), a)
+    s = os.path.join(workdir, "seg_998.mp4"); seg_zoom(p, a, s); segs.append(s)
     # outro
     p = os.path.join(workdir, "outro.png"); V.outro_slide().save(p)
     a = os.path.join(workdir, "outro.mp3")
