@@ -244,8 +244,9 @@ def thumbnail_slide(count, date_str):
     center(d, "BPSC TRE 4.0", 138, 58, True, (255, 255, 255))
     center(d, str(count), 205, 200, True, (124, 252, 154))
     center(d, "Objective Questions", 425, 62, True, (255, 255, 255))
-    center(d, "महत्वपूर्ण प्रश्न — उत्तर + व्याख्या सहित", 515, 44, True, (255, 205, 90))
-    center(d, date_str, 610, 32, False, (190, 205, 240))
+    center(d, "NCERT Class 6 to 12", 500, 46, True, (255, 153, 51))
+    center(d, "महत्वपूर्ण प्रश्न — उत्तर + व्याख्या सहित", 565, 40, True, (255, 205, 90))
+    center(d, date_str, 640, 30, False, (190, 205, 240))
     return img
 
 def outro_slide():
