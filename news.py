@@ -53,6 +53,8 @@ def normalize_chat_id(raw):
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHAT_ID = normalize_chat_id(os.environ.get("TELEGRAM_CHAT_ID", ""))
+# User ki personal copy (WhatsApp forward ke liye) — secret ho tabhi jayegi
+PERSONAL_CHAT_ID = os.environ.get("TELEGRAM_PERSONAL_CHAT_ID", "").strip()
 
 IST = ZoneInfo("Asia/Kolkata")
 
@@ -674,7 +676,9 @@ def split_message(message):
 # TELEGRAM SEND API
 # ==========================================
 
-def send_telegram(message):
+def send_telegram(message, chat_id=None):
+
+    target = chat_id or CHAT_ID
 
     if not BOT_TOKEN:
         raise RuntimeError(
@@ -693,7 +697,7 @@ def send_telegram(message):
     for index, part in enumerate(chunks, 1):
 
         data = urllib.parse.urlencode({
-            "chat_id": CHAT_ID,
+            "chat_id": target,
             "text": part,
             "disable_web_page_preview": "true"
         }).encode()
@@ -824,6 +828,14 @@ def main():
         )
 
     send_telegram(message)
+
+    # Personal copy — WhatsApp par forward karne ke liye
+    if PERSONAL_CHAT_ID and PERSONAL_CHAT_ID != CHAT_ID:
+        try:
+            send_telegram(message, PERSONAL_CHAT_ID)
+            print("Personal copy bhej di gayi.")
+        except Exception as error:
+            print("Personal copy nahi gayi:", error)
 
     print("Hourly bulletin completed successfully.")
 
