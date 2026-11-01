@@ -1,6 +1,6 @@
 # Apna Bihar Samachar — AI Video Studio
 
-Local-first Python pipeline for 15–20 minute Hindi news videos. It collects RSS headlines, drafts a Hindi script (Gemini optional), generates a Hindi male voice with Edge TTS, renders original news-card visuals with FFmpeg, creates captions and a thumbnail, then waits for manual review.
+Local-first Python pipeline for 15–20 minute Hindi news videos. It collects RSS headlines, drafts a Hindi script (Gemini optional), generates a Hindi female voice with Edge TTS (hi-IN-SwaraNeural), renders original news-card visuals with FFmpeg, creates captions and a thumbnail, then waits for manual review.
 
 **Safety default:** the upload command requires typing `UPLOAD PRIVATE VIDEO` and uploads as **Private**. It never publishes publicly automatically.
 
@@ -42,9 +42,9 @@ For best results, add a Gemini API key to `.env`:
 GEMINI_API_KEY=your_key_here
 GEMINI_MODEL=gemini-2.5-flash
 VIDEO_MINUTES=17
-VOICE=hi-IN-MadhurNeural
+VOICE=hi-IN-SwaraNeural
 ```
-Keep API keys private. Never commit `.env`, OAuth credentials, or token files. Without a Gemini key the project uses a basic RSS-based script; that fallback may not reach 15–20 minutes and requires more editorial work.
+The selected voice is Hindi female (Swara). Keep API keys private. Never commit `.env`, OAuth credentials, or token files. Without a Gemini key the project uses a basic RSS-based script; that fallback may not reach 15–20 minutes and requires more editorial work.
 
 ## 4. Build and review
 ```powershell
