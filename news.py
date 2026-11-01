@@ -85,6 +85,8 @@ BIHAR_QUERIES = [
     "Bihar CET B.Ed admission notification",
     "Bihar CET B.Ed counselling result",
     "LNMU CET B.Ed latest news",
+    "BRABU CET B.Ed admission notification",
+    "BRABU B.Ed entrance result counselling",
     "NCTE latest notification news",
     "NCTE ERC Eastern Regional Committee meeting",
     "NCTE ERC meeting minutes",
@@ -371,6 +373,9 @@ def fetch_detail(article):
             }
         )
         with urllib.request.urlopen(request, timeout=12) as resp:
+            final_url = resp.geturl()
+            if final_url and "news.google.com" not in final_url:
+                article["source_link"] = final_url
             page = resp.read(700000).decode("utf-8", "ignore")
     except Exception:
         return ""
@@ -420,6 +425,39 @@ def fetch_detail(article):
     return detail.strip()
 
 
+def resolve_source_link(article):
+    """Khabar ke asal page ka seedha link (source / PDF) nikalta hai."""
+
+    if article.get("source_link"):
+        return
+
+    link = article.get("link", "")
+
+    if "news.google.com" in link or "bing.com" not in link:
+        link = find_bing_link(article.get("title", "")) or link
+
+    if "bing.com" not in link:
+        return
+
+    try:
+        request = urllib.request.Request(
+            link,
+            headers={
+                "User-Agent":
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+            }
+        )
+        with urllib.request.urlopen(request, timeout=10) as resp:
+            final_url = resp.geturl()
+            resp.read(2000)
+
+        if (final_url and "news.google.com" not in final_url
+                and "bing.com" not in final_url):
+            article["source_link"] = final_url
+    except Exception:
+        pass
+
+
 def enrich_details(articles):
     """Final khabron ki summary ko detail summary se badlo."""
 
@@ -433,6 +471,8 @@ def enrich_details(articles):
         else:
             print("Detail nahi mila (RSS summary rahega):",
                   article["title"][:50])
+
+        resolve_source_link(article)
 
     return articles
 
@@ -551,6 +591,12 @@ def create_message(bihar_news, national_news):
         message += f"🗞️ {article['source']}\n"
         if article.get("summary"):
             message += f"{article['summary']}\n"
+        link = article.get("source_link", "")
+        if link:
+            if link.lower().split("?")[0].endswith(".pdf"):
+                message += f"📄 PDF: {link}\n"
+            else:
+                message += f"🔗 Source: {link}\n"
         message += "\n"
 
     message += (
@@ -567,6 +613,12 @@ def create_message(bihar_news, national_news):
         message += f"🗞️ {article['source']}\n"
         if article.get("summary"):
             message += f"{article['summary']}\n"
+        link = article.get("source_link", "")
+        if link:
+            if link.lower().split("?")[0].endswith(".pdf"):
+                message += f"📄 PDF: {link}\n"
+            else:
+                message += f"🔗 Source: {link}\n"
         message += "\n"
 
     message += (
