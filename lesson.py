@@ -6,13 +6,40 @@ Roz 1 chapter: narration (Swara, story-telling) + visual card + zoom effect
 + halka background music. video.py ke helpers reuse hote hain.
 Env: LESSON_FILE (khaali = index/state se agla), SAVE_STATE (1/0)
 """
-import asyncio, json, os, subprocess, sys, tempfile
-from PIL import Image, ImageDraw
+import asyncio, json, os, subprocess, sys, tempfile, urllib.parse, urllib.request
+from PIL import Image, ImageDraw, ImageOps
 import video as V
 
 W, H = V.W, V.H
 SFILE = "lesson_state.json"
 IFILE = "lessons/index.json"
+UA = {"User-Agent": "ApnaBiharSamachar-LessonBot/1.0 (educational)"}
+
+
+def fetch_image(query, dest):
+    """Wikimedia Commons se sabse upyukt tasveer (mukt license) dhoondhkar lao."""
+    try:
+        api = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
+               f"&gsrsearch={urllib.parse.quote(query)}&gsrnamespace=6&gsrlimit=6"
+               "&prop=imageinfo&iiprop=url|size&iiurlwidth=1200&format=json")
+        req = urllib.request.Request(api, headers=UA)
+        data = json.load(urllib.request.urlopen(req, timeout=25))
+        pages = sorted((data.get("query", {}).get("pages", {}) or {}).values(),
+                       key=lambda p: p.get("index", 99))
+        for p in pages:
+            ii = (p.get("imageinfo") or [{}])[0]
+            w, h, url = ii.get("width", 0), ii.get("height", 0), ii.get("thumburl") or ii.get("url")
+            if not url or w < 500 or h < 300:
+                continue
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+                blob = r.read()
+            with open(dest, "wb") as f:
+                f.write(blob)
+            im = Image.open(dest); im.verify()
+            return True
+    except Exception as e:
+        print(f"  tasveer nahi mili ({query}): {e}")
+    return False
 
 
 def run(cmd, **kw):
@@ -37,16 +64,27 @@ def scene_slide(lesson, sc, idx, total):
         for ln in lines:
             V.draw_mixed(d, 82, y, ln, 30, False, (225, 235, 250)); y += 40
         y += 12
-    # visual card (right)
-    V.rrect(d, [848, 150, 1240, 545], 18, fill=(16, 34, 78))
-    vw = sc.get("visual", "")
-    vlines = V.wrap_mixed(d, vw, 62, True, 340)[:3]
-    vy = 300 - len(vlines) * 42
-    for ln in vlines:
-        V.draw_mixed(d, 1044 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
+    # visual (right) — asli tasveer mile to wahi, warna bana-hua card
     cap = sc.get("vcap", "")
-    for ln in V.wrap_mixed(d, cap, 25, False, 340)[:2]:
-        V.draw_mixed(d, 1044 - V.text_w(d, ln, 25) / 2, 462, ln, 25, False, (190, 205, 235))
+    if sc.get("_img") and os.path.exists(sc["_img"]):
+        try:
+            photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (392, 322))
+            img.paste(photo, (848, 150))
+            d.rectangle([848, 150, 1240, 472], outline=(255, 153, 51), width=4)
+            V.rrect(d, [848, 478, 1240, 545], 10, fill=(16, 34, 78))
+            for ln in V.wrap_mixed(d, cap, 24, False, 356)[:2]:
+                V.draw_mixed(d, 1044 - V.text_w(d, ln, 24) / 2, 498, ln, 24, False, (255, 205, 90))
+        except Exception:
+            sc["_img"] = None
+    if not sc.get("_img"):
+        V.rrect(d, [848, 150, 1240, 545], 18, fill=(16, 34, 78))
+        vw = sc.get("visual", "")
+        vlines = V.wrap_mixed(d, vw, 62, True, 340)[:3]
+        vy = 300 - len(vlines) * 42
+        for ln in vlines:
+            V.draw_mixed(d, 1044 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
+        for ln in V.wrap_mixed(d, cap, 25, False, 340)[:2]:
+            V.draw_mixed(d, 1044 - V.text_w(d, ln, 25) / 2, 462, ln, 25, False, (190, 205, 235))
     # bottom strip
     foot = f"{lesson.get('chapter_title','')}  •  {idx}/{total}"
     V.draw_mixed(d, 40, H - 46, foot, 23, False, (150, 170, 210))
@@ -101,6 +139,14 @@ def make_music(path, seconds):
 async def build(lesson, workdir):
     scenes = lesson["scenes"]
     total = len(scenes)
+    # har scene ke liye asli tasveer (Commons, mukt license) — mile to use karo
+    for i, sc in enumerate(scenes, 1):
+        q = sc.get("img_query")
+        if q:
+            dest = os.path.join(workdir, f"img{i}.jpg")
+            if fetch_image(q, dest):
+                sc["_img"] = dest
+                print(f"  tasveer mili: scene {i}")
     segs = []
     # intro
     p = os.path.join(workdir, "intro.png"); lesson_intro(lesson).save(p)
