@@ -1,0 +1,34 @@
+name: Get My Chat ID
+
+on:
+  workflow_dispatch:
+
+jobs:
+  get-id:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print bot chat IDs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          url = f"https://api.telegram.org/bot{token}/getUpdates"
+          with urllib.request.urlopen(url, timeout=30) as r:
+              data = json.loads(r.read().decode())
+          seen = {}
+          for u in data.get("result", []):
+              msg = u.get("message") or {}
+              chat = msg.get("chat") or {}
+              if chat.get("id"):
+                  seen[chat["id"]] = (
+                      chat.get("type"),
+                      chat.get("first_name") or chat.get("title")
+                      or chat.get("username") or "",
+                  )
+          if not seen:
+              print("CHAT_ID_FOUND: none - pehle bot ko Start karo")
+          for cid, info in seen.items():
+              print("CHAT_ID_FOUND:", cid, info)
+          PY
