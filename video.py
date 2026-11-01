@@ -236,13 +236,17 @@ def intro_slide(count, date_str):
     center(d, date_str, 560, 27, False, (170, 190, 235))
     return img
 
-def thumbnail_slide(count, date_str):
+def thumbnail_slide(count, date_str, q_range=None):
     img = Image.new("RGB", (W, H), (11, 31, 74))
     d = ImageDraw.Draw(img)
     d.rectangle([0, 0, W, H], outline=(255, 153, 51), width=14)
     center(d, "अपना बिहार समाचार", 52, 44, True, (255, 153, 51))
     center(d, "BPSC TRE 4.0", 138, 58, True, (255, 255, 255))
-    center(d, str(count), 205, 200, True, (124, 252, 154))
+    if q_range:
+        # User ka nirdesh (1 Nov): badi sankhya ki jagah sawal-range likho, jaise "51 - 100"
+        center(d, q_range, 225, 150, True, (124, 252, 154))
+    else:
+        center(d, str(count), 205, 200, True, (124, 252, 154))
     center(d, "Objective Questions", 425, 62, True, (255, 255, 255))
     center(d, "NCERT Class 6 to 12", 500, 46, True, (255, 153, 51))
     center(d, "महत्वपूर्ण प्रश्न — उत्तर + व्याख्या सहित", 565, 40, True, (255, 205, 90))
@@ -265,7 +269,7 @@ def make_segment(png, mp3, out):
          "-c:a", "aac", "-b:a", "64k", "-ar", "44100", "-ac", "1",
          "-shortest", out])
 
-async def build(questions, workdir):
+async def build(questions, workdir, q_start=None):
     segs = []
     today = datetime.now(IST).strftime("%d %B %Y")
     total = len(questions)
@@ -310,7 +314,8 @@ async def build(questions, workdir):
         out = out2
         print(f"Chhota version: {os.path.getsize(out)/1e6:.1f} MB")
     thumb = os.path.join(workdir, "thumb.jpg")
-    thumbnail_slide(total, today).save(thumb, quality=88)
+    q_range = f"{q_start} - {q_start + total - 1}" if q_start else None
+    thumbnail_slide(total, today, q_range).save(thumb, quality=88)
     return out, thumb
 
 def send_photo(chat_id, path, caption):
@@ -362,7 +367,8 @@ def main():
         return
     print(f"Kul {len(batch)} sawalon ka video ban raha hai (index {start} se)...")
     workdir = tempfile.mkdtemp(prefix="trevid_")
-    out, thumb = asyncio.run(build(batch, workdir))
+    q_start = int(state.get("q_start", 1))
+    out, thumb = asyncio.run(build(batch, workdir, q_start))
     vno = state.get("video_no", 0) + 1
     today = datetime.now(IST).strftime("%d %b %Y")
     caption = (f"🎬 BPSC TRE 4.0 — {len(batch)} Objective Questions with Answers\n"
@@ -382,6 +388,7 @@ def main():
     if ok and SAVE_STATE:
         state["next_index"] = start + len(batch)
         state["video_no"] = vno
+        state["q_start"] = q_start + len(batch)
         with open(SFILE, "w", encoding="utf-8") as f:
             json.dump(state, f, ensure_ascii=False, indent=1)
         print("State update:", state)
