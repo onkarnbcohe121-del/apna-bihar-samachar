@@ -49,8 +49,14 @@ def main():
     print("YOUTUBE_VIDEO_ID:", vid)
     thumb = os.environ.get("THUMB_FILE", "")
     if thumb and os.path.exists(thumb):
-        yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb)).execute()
-        print("Thumbnail set")
+        try:
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb)).execute()
+            print("Thumbnail set")
+        except Exception as e:
+            # Channel par phone verification na ho to custom thumbnail
+            # allowed nahi hota (403). Video upload ho chuka hai — fail
+            # mat karo, bas warning do (1 Nov 2026 test run se seekha).
+            print("Thumbnail set NAHI hua (channel verification pending?):", str(e)[:200])
     print("YOUTUBE_URL: https://youtu.be/" + vid)
 
 if __name__ == "__main__":
