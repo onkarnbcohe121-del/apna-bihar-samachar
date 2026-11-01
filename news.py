@@ -58,7 +58,7 @@ PERSONAL_CHAT_ID = os.environ.get("TELEGRAM_PERSONAL_CHAT_ID", "").strip()
 
 IST = ZoneInfo("Asia/Kolkata")
 
-LOOKBACK_HOURS = 1
+LOOKBACK_HOURS = 2
 MAX_BIHAR_NEWS = 7
 MAX_NATIONAL_NEWS = 3
 MESSAGE_LIMIT = 3900
@@ -815,7 +815,7 @@ def main():
 
         message = (
             "📰 APNA BIHAR SAMACHAR\n\n"
-            "पिछले एक घंटे में कोई नई "
+            "पिछले 2 घंटे में कोई नई "
             "योग्य खबर RSS में नहीं मिली।\n\n"
             "अगली घंटे की जाँच जारी रहेगी।"
         )
