@@ -1,0 +1,36 @@
+name: YT Token Exchange (one-time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "One-time auth code"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  exchange:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Code ko token se badlo, encrypt karke repo me rakho
+        env:
+          CODE: ${{ inputs.code }}
+          CID: ${{ secrets.YT_CLIENT_ID }}
+          CSEC: ${{ secrets.YT_CLIENT_SECRET }}
+          KEY: ${{ secrets.YT_ENC_KEY }}
+        run: |
+          RESP=$(curl -s -X POST https://oauth2.googleapis.com/token -d "code=$CODE" -d "client_id=$CID" -d "client_secret=$CSEC" -d "redirect_uri=http://localhost:8765/" -d "grant_type=authorization_code")
+          RT=$(echo "$RESP" | python3 -c "import sys, json; print(json.load(sys.stdin).get('refresh_token',''))")
+          if [ -z "$RT" ]; then echo "REFRESH TOKEN NAHI MILA:"; echo "$RESP" | head -c 300; exit 1; fi
+          echo "$RT" | openssl enc -aes-256-cbc -salt -pbkdf2 -pass env:KEY | base64 -w0 > yt_token.enc
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add yt_token.enc
+          git commit -m "YT token (encrypted)"
+          git push
+          echo "TOKEN_ENC_SAVED"
