@@ -18,7 +18,7 @@ def main():
         token_uri="https://oauth2.googleapis.com/token",
         client_id=os.environ["YT_CLIENT_ID"],
         client_secret=os.environ["YT_CLIENT_SECRET"],
-        scopes=["https://www.googleapis.com/auth/youtube.upload"],
+        scopes=["https://www.googleapis.com/auth/youtube"],
     )
     yt = build("youtube", "v3", credentials=creds)
     video = os.environ["VIDEO_FILE"]
@@ -57,6 +57,15 @@ def main():
             # allowed nahi hota (403). Video upload ho chuka hai — fail
             # mat karo, bas warning do (1 Nov 2026 test run se seekha).
             print("Thumbnail set NAHI hua (channel verification pending?):", str(e)[:200])
+    pid = os.environ.get("YT_PLAYLIST_ID", "").strip()
+    if pid:
+        try:
+            yt.playlistItems().insert(part="snippet", body={"snippet": {
+                "playlistId": pid,
+                "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+            print("PLAYLIST_ADD_OK")
+        except Exception as e:
+            print("PLAYLIST_ADD_FAIL:", str(e)[:200])
     print("YOUTUBE_URL: https://youtu.be/" + vid)
 
 if __name__ == "__main__":
