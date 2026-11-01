@@ -1,6 +1,10 @@
 name: TRE Objective Video
 
 on:
+  schedule:
+    - cron: "30 1 * * *"   # subah 07:00 IST
+    - cron: "30 7 * * *"   # dopahar 13:00 IST
+    - cron: "30 13 * * *"  # shaam 19:00 IST
   workflow_dispatch:
     inputs:
       count:
