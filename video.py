@@ -13,7 +13,8 @@ from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 VOICE = "hi-IN-SwaraNeural"   # Hindi female, natural (Microsoft Edge TTS)
-RATE = "+10%"
+RATE = "0%"                   # aaram ki raftaar — tez awaaz robotic lagti hai
+PITCH = "-2Hz"                # halki gehraai — awaaz zyada insaani lagti hai
 W, H = 1280, 720
 LETTERS = ["A", "B", "C", "D"]
 
@@ -89,7 +90,7 @@ async def tts(text, out):
     for attempt in range(3):
         try:
             try:
-                c = edge_tts.Communicate(text, VOICE, rate=RATE, proxy=proxy)
+                c = edge_tts.Communicate(text, VOICE, rate=RATE, pitch=PITCH, proxy=proxy)
             except TypeError:
                 c = edge_tts.Communicate(text, VOICE, rate=RATE)
             await c.save(out)
@@ -277,7 +278,7 @@ async def build(questions, workdir):
         opts_speech = "; ".join(f"{LETTERS[j]}, {hi_part(o)}" for j, o in enumerate(q["options"]))
         p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
-        await tts(f"प्रश्न {i}। {q['q_hi']} विकल्प हैं — {opts_speech}।", a)
+        await tts(f"प्रश्न {i}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
         s = os.path.join(workdir, f"seg_{i:03d}a.mp4"); make_segment(p, a, s); segs.append(s)
 
         expl = q["explanation"]
@@ -285,7 +286,7 @@ async def build(questions, workdir):
             expl = expl[:260].rsplit("।", 1)[0] + "।"
         p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
-        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {hi_part(q['options'][q['answer']])}। {expl}", a)
+        await tts(f"सही उत्तर है… {LETTERS[q['answer']]}, {hi_part(q['options'][q['answer']])}। {expl}", a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 
