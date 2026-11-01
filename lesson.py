@@ -52,44 +52,44 @@ def scene_slide(lesson, sc, idx, total):
     img, d = V.base_slide()
     # series line — base header ke NEECHE (upar overlap na ho)
     lab = lesson.get("class_label", "")
-    V.draw_mixed(d, 56, 74, f"NCERT Class Lessons • {lab}", 24, True, (124, 252, 154))
-    d.line([56, 108, W - 56, 108], fill=(255, 153, 51), width=2)
+    V.draw_mixed(d, 88, 74, f"NCERT Class Lessons • {lab}", 24, True, (124, 252, 154))
+    d.line([88, 108, W - 88, 108], fill=(255, 153, 51), width=2)
     # heading
     y = 124
-    for ln in V.wrap_mixed(d, sc["head"], 44, True, 740)[:2]:
-        V.draw_mixed(d, 56, y, ln, 44, True, (255, 255, 255)); y += 58
+    for ln in V.wrap_mixed(d, sc["head"], 44, True, 660)[:2]:
+        V.draw_mixed(d, 88, y, ln, 44, True, (255, 255, 255)); y += 58
     y += 14
     # bullets (left)
     for pt in sc.get("points", []):
-        lines = V.wrap_mixed(d, pt, 30, False, 690)
-        V.draw_mixed(d, 58, y, "•", 30, True, (124, 252, 154))
+        lines = V.wrap_mixed(d, pt, 30, False, 620)
+        V.draw_mixed(d, 88, y, "•", 30, True, (124, 252, 154))
         for ln in lines:
-            V.draw_mixed(d, 92, y, ln, 30, False, (225, 235, 250)); y += 40
+            V.draw_mixed(d, 122, y, ln, 30, False, (225, 235, 250)); y += 40
         y += 12
     # visual (right) — asli tasveer mile to wahi, warna bana-hua card
     cap = sc.get("vcap", "")
     if sc.get("_img") and os.path.exists(sc["_img"]):
         try:
-            photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (400, 314))
-            img.paste(photo, (824, 168))
-            d.rectangle([824, 168, 1224, 482], outline=(255, 153, 51), width=4)
-            V.rrect(d, [824, 488, 1224, 552], 10, fill=(16, 34, 78))
+            photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (396, 314))
+            img.paste(photo, (796, 168))
+            d.rectangle([796, 168, 1192, 482], outline=(255, 153, 51), width=4)
+            V.rrect(d, [796, 488, 1192, 552], 10, fill=(16, 34, 78))
             for ln in V.wrap_mixed(d, cap, 24, False, 364)[:2]:
-                V.draw_mixed(d, 1024 - V.text_w(d, ln, 24) / 2, 508, ln, 24, False, (255, 205, 90))
+                V.draw_mixed(d, 994 - V.text_w(d, ln, 24) / 2, 508, ln, 24, False, (255, 205, 90))
         except Exception:
             sc["_img"] = None
     if not sc.get("_img"):
-        V.rrect(d, [824, 168, 1224, 552], 18, fill=(16, 34, 78))
+        V.rrect(d, [796, 168, 1192, 552], 18, fill=(16, 34, 78))
         vw = sc.get("visual", "")
         vlines = V.wrap_mixed(d, vw, 62, True, 356)[:3]
         vy = 316 - len(vlines) * 42
         for ln in vlines:
-            V.draw_mixed(d, 1024 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
+            V.draw_mixed(d, 994 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
         for ln in V.wrap_mixed(d, cap, 25, False, 356)[:2]:
-            V.draw_mixed(d, 1024 - V.text_w(d, ln, 25) / 2, 478, ln, 25, False, (190, 205, 235))
+            V.draw_mixed(d, 994 - V.text_w(d, ln, 25) / 2, 478, ln, 25, False, (190, 205, 235))
     # bottom strip
     foot = f"{lesson.get('chapter_title','')}  •  {idx}/{total}"
-    V.draw_mixed(d, 56, H - 44, foot, 23, False, (150, 170, 210))
+    V.draw_mixed(d, 88, H - 44, foot, 23, False, (150, 170, 210))
     return img
 
 
