@@ -16,6 +16,9 @@ on:
       save_state:
         description: "State aage badhana hai? 1 = haan, 0 = nahi (test ke liye 0)"
         default: "1"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
 
 permissions:
   contents: write
@@ -37,7 +40,7 @@ jobs:
       - name: Tools install karo
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install edge-tts pillow requests
+          pip install edge-tts pillow requests google-api-python-client google-auth
 
       - name: Video banao aur Telegram par bhejo
         env:
@@ -47,7 +50,10 @@ jobs:
           COUNT: ${{ inputs.count || '50' }}
           SEND_TO: ${{ inputs.send_to || 'both' }}
           SAVE_STATE: ${{ inputs.save_state || '1' }}
-        run: python video.py
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python video.py
 
       - name: State wapas commit karo
         run: |
@@ -56,3 +62,20 @@ jobs:
           git add video_state.json || true
           git diff --cached --quiet || git commit -m "video state update"
           git push || true
+
+      - name: YouTube par upload karo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/trevid_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/trevid_*/thumb.jpg | head -1)
+          DATE_STR=$(TZ=Asia/Kolkata date '+%d %b %Y')
+          export VIDEO_FILE THUMB_FILE
+          export YT_TITLE="BPSC TRE 4.0 | Objective Questions with Answers | $DATE_STR | Apna Bihar Samachar"
+          export YT_DESC="BPSC TRE 4.0 ke mahatvapurn objective prashn — uttar aur vyakhya ke saath. Roz 3 video: subah 7, dopahar 1, shaam 7 baje.
+          Telegram: https://t.me/ApnaBiharSamachar
+          #BPSCTRE #TRE4 #BiharTeacher #MCQ #ApnaBiharSamachar"
+          python youtube_upload.py
