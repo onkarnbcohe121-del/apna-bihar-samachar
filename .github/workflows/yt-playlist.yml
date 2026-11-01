@@ -1,0 +1,83 @@
+name: YT Playlist Setup (one-time)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install google-api-python-client google-auth
+      - name: Playlist banao aur aaj ka video jodo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_ID: yf7Cl2DNixs
+        run: |
+          python3 - <<'EOF'
+          import os
+          from google.oauth2.credentials import Credentials
+          from googleapiclient.discovery import build
+
+          creds = Credentials(token=None, refresh_token=os.environ["YT_REFRESH_TOKEN"],
+              token_uri="https://oauth2.googleapis.com/token",
+              client_id=os.environ["YT_CLIENT_ID"], client_secret=os.environ["YT_CLIENT_SECRET"],
+              scopes=["https://www.googleapis.com/auth/youtube"])
+          yt = build("youtube", "v3", credentials=creds)
+          vid = os.environ["VIDEO_ID"]
+
+          # Playlist — pehle se hai to wahi, nahi to nayi banao
+          pid = ""
+          if os.path.exists("playlist_id.txt"):
+              pid = open("playlist_id.txt").read().strip()
+          if not pid:
+              resp = yt.playlists().insert(part="snippet,status", body={
+                  "snippet": {"title": "NCERT BPSC TRE",
+                              "description": "BPSC TRE 4.0 objective questions based on NCERT Class 6 to 12 - with answers and explanations. New videos daily at 7 AM, 1 PM and 7 PM."},
+                  "status": {"privacyStatus": "public"}}).execute()
+              pid = resp["id"]
+              open("playlist_id.txt", "w").write(pid + "\n")
+              print("PLAYLIST_CREATED:", pid)
+          else:
+              print("PLAYLIST_EXISTS:", pid)
+
+          # Aaj ka video playlist me jodo
+          try:
+              yt.playlistItems().insert(part="snippet", body={"snippet": {
+                  "playlistId": pid,
+                  "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+              print("PLAYLIST_ADD_OK")
+          except Exception as e:
+              print("PLAYLIST_ADD_FAIL:", str(e)[:250])
+
+          # Description English fix (agar pehle scope se fail hua ho to ab ho jayega)
+          try:
+              cur = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
+              cur["description"] = (
+                  "BPSC TRE 4.0 - 50 important objective questions with answers and explanations. "
+                  "New videos daily at 7 AM, 1 PM and 7 PM.\n"
+                  "All questions are based on NCERT Class 6 to 12.\n"
+                  "Telegram: https://t.me/ApnaBiharSamachar\n"
+                  "#BPSCTRE #TRE4 #BiharTeacher #MCQ #ApnaBiharSamachar")
+              yt.videos().update(part="snippet", body={"id": vid, "snippet": cur}).execute()
+              print("DESC_FIX_OK")
+          except Exception as e:
+              print("DESC_FIX_FAIL:", str(e)[:250])
+          print("PLAYLIST_ID:", pid)
+          print("SETUP_DONE")
+          EOF
+      - name: Playlist ID commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add playlist_id.txt || true
+          git diff --cached --quiet || git commit -m "Playlist ID"
+          git push || true
