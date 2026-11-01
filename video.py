@@ -227,11 +227,24 @@ def center(d, text, y, size, bold, fill):
 
 def intro_slide(count, date_str):
     img, d = base_slide()
-    center(d, "अपना बिहार समाचार", 150, 66, True, (255, 153, 51))
-    center(d, "BPSC TRE 4.0 — Practice Video", 250, 42, True, (255, 255, 255))
-    center(d, f"{count} Objective Questions", 330, 48, True, (124, 252, 154))
-    center(d, "उत्तर + व्याख्या सहित", 410, 36, False, (255, 255, 255))
+    center(d, "अपना बिहार समाचार", 140, 66, True, (255, 153, 51))
+    center(d, "हर जिला, हर खबर — देश-दुनिया के साथ", 222, 30, False, (200, 215, 250))
+    center(d, "BPSC TRE 4.0 — Practice Video", 285, 42, True, (255, 255, 255))
+    center(d, f"{count} Objective Questions", 360, 48, True, (124, 252, 154))
+    center(d, "उत्तर + व्याख्या सहित", 435, 36, False, (255, 255, 255))
     center(d, date_str, 560, 27, False, (170, 190, 235))
+    return img
+
+def thumbnail_slide(count, date_str):
+    img = Image.new("RGB", (W, H), (11, 31, 74))
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, W, H], outline=(255, 153, 51), width=14)
+    center(d, "अपना बिहार समाचार", 52, 44, True, (255, 153, 51))
+    center(d, "BPSC TRE 4.0", 138, 58, True, (255, 255, 255))
+    center(d, str(count), 205, 200, True, (124, 252, 154))
+    center(d, "Objective Questions", 425, 62, True, (255, 255, 255))
+    center(d, "महत्वपूर्ण प्रश्न — उत्तर + व्याख्या सहित", 515, 44, True, (255, 205, 90))
+    center(d, date_str, 610, 32, False, (190, 205, 240))
     return img
 
 def outro_slide():
@@ -294,15 +307,39 @@ async def build(questions, workdir):
              "-preset", "veryfast", "-crf", "34", "-c:a", "copy", out2])
         out = out2
         print(f"Chhota version: {os.path.getsize(out)/1e6:.1f} MB")
-    return out
+    thumb = os.path.join(workdir, "thumb.jpg")
+    thumbnail_slide(total, today).save(thumb, quality=88)
+    return out, thumb
 
-def send_video(chat_id, path, caption):
+def send_photo(chat_id, path, caption):
     import requests
     with open(path, "rb") as f:
+        r = requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto",
+                          data={"chat_id": chat_id, "caption": caption},
+                          files={"photo": f}, timeout=300)
+    j = r.json()
+    if not j.get("ok"):
+        print("Telegram photo error:", j.get("description"))
+        return False
+    return True
+
+def send_video(chat_id, path, caption, thumb=None):
+    import requests
+    files = {}
+    f = open(path, "rb")
+    files["video"] = f
+    tf = None
+    if thumb:
+        tf = open(thumb, "rb")
+        files["thumb"] = tf
+    try:
         r = requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendVideo",
                           data={"chat_id": chat_id, "caption": caption,
                                 "supports_streaming": "true"},
-                          files={"video": f}, timeout=900)
+                          files=files, timeout=900)
+    finally:
+        f.close()
+        if tf: tf.close()
     j = r.json()
     if not j.get("ok"):
         print("Telegram error:", j.get("description"))
@@ -323,18 +360,21 @@ def main():
         return
     print(f"Kul {len(batch)} sawalon ka video ban raha hai (index {start} se)...")
     workdir = tempfile.mkdtemp(prefix="trevid_")
-    out = asyncio.run(build(batch, workdir))
+    out, thumb = asyncio.run(build(batch, workdir))
     vno = state.get("video_no", 0) + 1
     today = datetime.now(IST).strftime("%d %b %Y")
     caption = (f"🎬 BPSC TRE 4.0 — {len(batch)} Objective Questions with Answers\n"
                f"📚 Video #{vno} | {today}\n"
                f"हर सवाल का जवाब + व्याख्या वीडियो में ही है।\n— Apna Bihar Samachar")
+    vcaption = f"🎬 Video #{vno} | BPSC TRE 4.0 — {len(batch)} Questions with Answers"
     ok = True
     if SEND_TO in ("both", "channel"):
-        ok = send_video(CHAT_ID, out, caption) and ok
+        send_photo(CHAT_ID, thumb, caption)
+        ok = send_video(CHAT_ID, out, vcaption, thumb) and ok
         print("Channel par bheja:", ok)
     if SEND_TO in ("both", "personal") and PERSONAL_ID:
-        okp = send_video(PERSONAL_ID, out, caption)
+        send_photo(PERSONAL_ID, thumb, caption)
+        okp = send_video(PERSONAL_ID, out, vcaption, thumb)
         print("Personal copy bheja:", okp)
         ok = ok and okp
     if ok and SAVE_STATE:
