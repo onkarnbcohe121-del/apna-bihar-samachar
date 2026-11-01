@@ -2798,5 +2798,2805 @@
   "q_hi": "लोकसभा का सदस्य बनने के लिए न्यूनतम आयु कितनी है?",
   "subject": "Polity | Class 8",
   "n": 200
+ },
+ {
+  "n": 201,
+  "subject": "History",
+  "q_hi": "गौतम बुद्ध का जन्म कहाँ हुआ था?",
+  "q_en": "Where was Gautam Buddha born?",
+  "options": [
+   "लुम्बिनी / Lumbini",
+   "बोधगया / Bodh Gaya",
+   "सारनाथ / Sarnath",
+   "कुशीनगर / Kushinagar"
+  ],
+  "answer": 0,
+  "explanation": "गौतम बुद्ध का जन्म 563 ई.पू. लुम्बिनी (वर्तमान नेपाल) में हुआ था। बोधगया में उन्हें ज्ञान, सारनाथ में प्रथम उपदेश और कुशीनगर में महापरिनिर्वाण हुआ।"
+ },
+ {
+  "n": 202,
+  "subject": "History",
+  "q_hi": "जैन धर्म के 24वें तीर्थंकर महावीर का जन्म कहाँ हुआ था?",
+  "q_en": "Where was Mahavira, the 24th Tirthankara of Jainism, born?",
+  "options": [
+   "राजगीर / Rajgir",
+   "पाटलिपुत्र / Pataliputra",
+   "वैशाली (कुण्डग्राम) / Vaishali (Kundagram)",
+   "पावा / Pava"
+  ],
+  "answer": 2,
+  "explanation": "महावीर का जन्म वैशाली के निकट कुण्डग्राम में हुआ था। उनका निर्वाण बिहार के पावापुरी में हुआ, जो आज प्रमुख जैन तीर्थ है।"
+ },
+ {
+  "n": 203,
+  "subject": "History",
+  "q_hi": "प्रथम बौद्ध संगीति (परिषद) कहाँ आयोजित हुई थी?",
+  "q_en": "Where was the First Buddhist Council held?",
+  "options": [
+   "वैशाली / Vaishali",
+   "पाटलिपुत्र / Pataliputra",
+   "राजगृह / Rajgir",
+   "कश्मीर / Kashmir"
+  ],
+  "answer": 2,
+  "explanation": "बुद्ध के महापरिनिर्वाण के बाद प्रथम बौद्ध संगीति अजातशत्रु के समय राजगृह की सप्तपर्णि गुफा में हुई, जिसमें सुत्तपिटक व विनयपिटक का संकलन हुआ।"
+ },
+ {
+  "n": 204,
+  "subject": "History",
+  "q_hi": "सिकंदर और पोरस के बीच प्रसिद्ध युद्ध (326 ई.पू.) किस नदी के तट पर हुआ था?",
+  "q_en": "On the banks of which river was the famous battle between Alexander and Porus (326 BCE) fought?",
+  "options": [
+   "रावी / Ravi",
+   "चिनाब / Chenab",
+   "सतलुज / Sutlej",
+   "झेलम / Jhelum"
+  ],
+  "answer": 3,
+  "explanation": "326 ई.पू. में सिकंदर और पोरस के बीच झेलम (हाइडेस्पीज़) नदी के तट पर युद्ध हुआ। पराजय के बाद भी सिकंदर ने पोरस का राज्य लौटा दिया था।"
+ },
+ {
+  "n": 205,
+  "subject": "History",
+  "q_hi": "मगध महाजनपद की प्रारंभिक राजधानी कौन-सी थी?",
+  "q_en": "What was the earliest capital of the Magadha Mahajanapada?",
+  "options": [
+   "पाटलिपुत्र / Pataliputra",
+   "वैशाली / Vaishali",
+   "चंपा / Champa",
+   "राजगीर / Rajgir"
+  ],
+  "answer": 3,
+  "explanation": "मगध की प्रारंभिक राजधानी राजगीर (गिरिव्रज) थी। बाद में उदायिन ने पाटलिपुत्र की स्थापना करके उसे राजधानी बनाया।"
+ },
+ {
+  "n": 206,
+  "subject": "History",
+  "q_hi": "अशोक के अधिकांश अभिलेख किस भाषा में लिखे गए हैं?",
+  "q_en": "In which language are most of Ashoka's inscriptions written?",
+  "options": [
+   "संस्कृत / Sanskrit",
+   "प्राकृत / Prakrit",
+   "पाली / Pali",
+   "अरामी / Aramaic"
+  ],
+  "answer": 1,
+  "explanation": "अशोक के अधिकांश अभिलेख प्राकृत भाषा में हैं। उत्तर-पश्चिम क्षेत्र के कुछ अभिलेख खरोष्ठी व अरामी लिपियों में भी मिलते हैं।"
+ },
+ {
+  "n": 207,
+  "subject": "History",
+  "q_hi": "78 ई. में शक संवत का प्रारंभ किस शासक से जोड़ा जाता है?",
+  "q_en": "The beginning of the Shaka Era in 78 CE is associated with which ruler?",
+  "options": [
+   "विक्रमादित्य / Vikramaditya",
+   "चंद्रगुप्त प्रथम / Chandragupta I",
+   "कनिष्क / Kanishka",
+   "हर्षवर्धन / Harshavardhana"
+  ],
+  "answer": 2,
+  "explanation": "शक संवत का प्रारंभ 78 ई. में कुषाण शासक कनिष्क के सिंहासनारोहण से माना जाता है। यह भारत का राष्ट्रीय पंचांग भी है।"
+ },
+ {
+  "n": 208,
+  "subject": "History",
+  "q_hi": "चालुक्य शासक पुलकेशिन द्वितीय ने हर्षवर्धन को किस नदी के तट पर पराजित किया था?",
+  "q_en": "On the banks of which river did Chalukya ruler Pulakeshin II defeat Harshavardhana?",
+  "options": [
+   "नर्मदा / Narmada",
+   "तापी / Tapi",
+   "गोदावरी / Godavari",
+   "महानदी / Mahanadi"
+  ],
+  "answer": 0,
+  "explanation": "पुलकेशिन द्वितीय ने लगभग 618 ई. में नर्मदा नदी के तट पर हर्षवर्धन को पराजित किया, जिससे हर्ष का दक्षिण की ओर विस्तार रुक गया।"
+ },
+ {
+  "n": 209,
+  "subject": "History",
+  "q_hi": "चीनी यात्री ह्वेनसांग (श्वानज़ांग) किस भारतीय शासक के शासनकाल में भारत आया था?",
+  "q_en": "During the reign of which Indian ruler did the Chinese traveller Xuanzang (Hiuen Tsang) visit India?",
+  "options": [
+   "समुद्रगुप्त / Samudragupta",
+   "कुमारगुप्त / Kumaragupta",
+   "हर्षवर्धन / Harshavardhana",
+   "चंद्रगुप्त द्वितीय / Chandragupta II"
+  ],
+  "answer": 2,
+  "explanation": "ह्वेनसांग हर्षवर्धन के शासनकाल में भारत आया। उसके यात्रा-वृत्तांत 'सी-यू-की' से तत्कालीन भारत की जानकारी मिलती है।"
+ },
+ {
+  "n": 210,
+  "subject": "History",
+  "q_hi": "तंजावुर का बृहदीश्वर मंदिर किस चोल शासक ने बनवाया था?",
+  "q_en": "Which Chola ruler built the Brihadeeswara Temple at Thanjavur?",
+  "options": [
+   "राजराज चोल प्रथम / Rajaraja Chola I",
+   "राजेंद्र चोल / Rajendra Chola",
+   "कुलोत्तुंग चोल / Kulottunga Chola",
+   "करिकाल चोल / Karikala Chola"
+  ],
+  "answer": 0,
+  "explanation": "तंजावुर का बृहदीश्वर (राजराजेश्वर) मंदिर राजराज चोल प्रथम ने लगभग 1010 ई. में बनवाया। यह द्रविड़ वास्तुकला का उत्कृष्ट उदाहरण है।"
+ },
+ {
+  "n": 211,
+  "subject": "History",
+  "q_hi": "उत्तरमेरूर अभिलेख किस विषय की जानकारी देते हैं?",
+  "q_en": "The Uttaramerur inscriptions provide information about which subject?",
+  "options": [
+   "चोल सेना का संगठन / Chola army organisation",
+   "चोलकालीन स्थानीय स्वशासन / Chola local self-government",
+   "चोल नौसेना / Chola navy",
+   "चोल मुद्रा प्रणाली / Chola currency"
+  ],
+  "answer": 1,
+  "explanation": "उत्तरमेरूर अभिलेखों से चोलकालीन ग्राम सभाओं के चुनाव व स्थानीय स्वशासन की विस्तृत नियमावली की जानकारी मिलती है।"
+ },
+ {
+  "n": 212,
+  "subject": "History",
+  "q_hi": "राजेंद्र चोल प्रथम ने अपनी नौसेना से किस दक्षिण-पूर्व एशियाई साम्राज्य पर अभियान किया था?",
+  "q_en": "Against which South-East Asian empire did Rajendra Chola I launch a naval expedition?",
+  "options": [
+   "श्रीविजय साम्राज्य / Srivijaya Empire",
+   "चीन / China",
+   "अरब / Arabia",
+   "फ़ारस / Persia"
+  ],
+  "answer": 0,
+  "explanation": "राजेंद्र चोल प्रथम ने लगभग 1025 ई. में शक्तिशाली नौसेना द्वारा श्रीविजय साम्राज्य पर सफल अभियान किया, जिससे भारतीय समुद्री व्यापार मज़बूत हुआ।"
+ },
+ {
+  "n": 213,
+  "subject": "History",
+  "q_hi": "दरबार में सिजदा और पैबोस की प्रथा किस सुल्तान ने शुरू की थी?",
+  "q_en": "Which Sultan introduced the practices of sijda and paibos in the court?",
+  "options": [
+   "इल्तुतमिश / Iltutmish",
+   "रज़िया / Razia",
+   "बलबन / Balban",
+   "फ़िरोज़ शाह तुगलक / Firoz Shah Tughlaq"
+  ],
+  "answer": 2,
+  "explanation": "बलबन ने राजा के दैवीय अधिकार का सिद्धांत अपनाया और दरबार में सिजदा (साष्टांग प्रणाम) व पैबोस (पैर चूमना) की फ़ारसी प्रथाएँ शुरू कीं।"
+ },
+ {
+  "n": 214,
+  "subject": "History",
+  "q_hi": "सांकेतिक (टोकन) मुद्रा चलाने का प्रयोग किस सुल्तान ने किया था?",
+  "q_en": "Which Sultan experimented with token currency?",
+  "options": [
+   "अलाउद्दीन खिलजी / Alauddin Khalji",
+   "ग़यासुद्दीन तुगलक / Ghiyasuddin Tughlaq",
+   "शेर शाह / Sher Shah",
+   "मुहम्मद बिन तुगलक / Muhammad bin Tughlaq"
+  ],
+  "answer": 3,
+  "explanation": "मुहम्मद बिन तुगलक ने चाँदी के टंके के स्थान पर ताँबे-पीतल के सांकेतिक सिक्के चलाए, जो नकली सिक्कों की बाढ़ के कारण असफल रहे।"
+ },
+ {
+  "n": 215,
+  "subject": "History",
+  "q_hi": "प्रसिद्ध यात्री इब्न बतूता किस देश से भारत आया था?",
+  "q_en": "From which country did the famous traveller Ibn Battuta come to India?",
+  "options": [
+   "फ़ारस / Persia",
+   "तुर्की / Turkey",
+   "मिस्र / Egypt",
+   "मोरक्को / Morocco"
+  ],
+  "answer": 3,
+  "explanation": "मोरक्को का यात्री इब्न बतूता मुहम्मद बिन तुगलक के समय भारत आया और दिल्ली का काज़ी नियुक्त हुआ। उसकी यात्रा-पुस्तक 'रिहला' प्रसिद्ध है।"
+ },
+ {
+  "n": 216,
+  "subject": "History",
+  "q_hi": "सिंचाई के लिए विशाल नहरों का जाल बिछाने के लिए कौन-सा सुल्तान प्रसिद्ध है?",
+  "q_en": "Which Sultan is famous for building a large network of irrigation canals?",
+  "options": [
+   "ग़यासुद्दीन तुगलक / Ghiyasuddin Tughlaq",
+   "फ़िरोज़ शाह तुगलक / Firoz Shah Tughlaq",
+   "सिकंदर लोदी / Sikandar Lodi",
+   "बलबन / Balban"
+  ],
+  "answer": 1,
+  "explanation": "फ़िरोज़ शाह तुगलक ने सिंचाई हेतु नहरों का जाल बिछाया, बाग़ लगाए और फ़िरोज़ाबाद, हिसार व जौनपुर जैसे नगर बसाए।"
+ },
+ {
+  "n": 217,
+  "subject": "History",
+  "q_hi": "बाबर की आत्मकथा 'बाबरनामा' मूल रूप से किस भाषा में लिखी गई थी?",
+  "q_en": "In which language was Babur's autobiography 'Baburnama' originally written?",
+  "options": [
+   "फ़ारसी / Persian",
+   "अरबी / Arabic",
+   "तुर्की (चगताई) / Turkish (Chagatai)",
+   "उर्दू / Urdu"
+  ],
+  "answer": 2,
+  "explanation": "बाबरनामा (तुज़ुक-ए-बाबरी) बाबर की मातृभाषा चगताई तुर्की में लिखी गई है; बाद में अब्दुल रहीम खानखाना ने इसका फ़ारसी अनुवाद किया।"
+ },
+ {
+  "n": 218,
+  "subject": "History",
+  "q_hi": "पानीपत के द्वितीय युद्ध (1556 ई.) में अकबर की सेना का सामना किससे हुआ था?",
+  "q_en": "Whom did Akbar's army face in the Second Battle of Panipat (1556 CE)?",
+  "options": [
+   "इब्राहिम लोदी / Ibrahim Lodi",
+   "हेमू / Hemu",
+   "राणा सांगा / Rana Sanga",
+   "शेर शाह / Sher Shah"
+  ],
+  "answer": 1,
+  "explanation": "1556 ई. का पानीपत का द्वितीय युद्ध अकबर (संरक्षक बैरम खाँ) और हेमू के बीच हुआ। हेमू की पराजय से भारत में मुगल सत्ता पुनः स्थापित हुई।"
+ },
+ {
+  "n": 219,
+  "subject": "History",
+  "q_hi": "मनसबदारी व्यवस्था किस मुगल शासक ने प्रारंभ की थी?",
+  "q_en": "Which Mughal ruler introduced the Mansabdari system?",
+  "options": [
+   "अकबर / Akbar",
+   "बाबर / Babur",
+   "हुमायूँ / Humayun",
+   "औरंगज़ेब / Aurangzeb"
+  ],
+  "answer": 0,
+  "explanation": "अकबर ने प्रशासन व सेना के संगठन हेतु मनसबदारी व्यवस्था शुरू की, जिसमें अधिकारियों को 'ज़ात' और 'सवार' का दर्जा दिया जाता था।"
+ },
+ {
+  "n": 220,
+  "subject": "History",
+  "q_hi": "'आइन-ए-अकबरी' के रचयिता कौन थे?",
+  "q_en": "Who was the author of 'Ain-i-Akbari'?",
+  "options": [
+   "फ़ैज़ी / Faizi",
+   "बदायूँनी / Badauni",
+   "टोडरमल / Todar Mal",
+   "अबुल फ़ज़ल / Abul Fazl"
+  ],
+  "answer": 3,
+  "explanation": "'आइन-ए-अकबरी' अकबर के दरबारी अबुल फ़ज़ल की रचना है, जो 'अकबरनामा' का तीसरा भाग है और प्रशासन व समाज की जानकारी देता है।"
+ },
+ {
+  "n": 221,
+  "subject": "History",
+  "q_hi": "जज़िया कर पुनः (1679 ई. में) किस मुगल शासक ने लगाया था?",
+  "q_en": "Which Mughal ruler reimposed the jizya tax in 1679 CE?",
+  "options": [
+   "जहाँगीर / Jahangir",
+   "शाहजहाँ / Shah Jahan",
+   "औरंगज़ेब / Aurangzeb",
+   "बहादुर शाह / Bahadur Shah"
+  ],
+  "answer": 2,
+  "explanation": "अकबर ने 1564 ई. में जज़िया समाप्त किया था, किंतु औरंगज़ेब ने 1679 ई. में इसे पुनः लागू कर दिया, जिससे व्यापक असंतोष फैला।"
+ },
+ {
+  "n": 222,
+  "subject": "History",
+  "q_hi": "तेलुगु ग्रंथ 'अमुक्तमाल्यद' के रचयिता कौन थे?",
+  "q_en": "Who was the author of the Telugu work 'Amuktamalyada'?",
+  "options": [
+   "कृष्णदेवराय / Krishnadevaraya",
+   "हरिहर प्रथम / Harihara I",
+   "देवराय द्वितीय / Devaraya II",
+   "बुक्का राय / Bukka Raya"
+  ],
+  "answer": 0,
+  "explanation": "विजयनगर के शासक कृष्णदेवराय ने तेलुगु में 'अमुक्तमाल्यद' की रचना की। उनके दरबार के आठ महान कवि 'अष्टदिग्गज' कहलाते थे।"
+ },
+ {
+  "n": 223,
+  "subject": "History",
+  "q_hi": "गुरु नानक देव का जन्म (1469 ई.) कहाँ हुआ था?",
+  "q_en": "Where was Guru Nanak Dev born (1469 CE)?",
+  "options": [
+   "अमृतसर / Amritsar",
+   "तलवंडी (ननकाना साहिब) / Talwandi (Nankana Sahib)",
+   "करतारपुर / Kartarpur",
+   "लाहौर / Lahore"
+  ],
+  "answer": 1,
+  "explanation": "गुरु नानक देव का जन्म 1469 ई. में तलवंडी (वर्तमान पाकिस्तान का ननकाना साहिब) में हुआ था। उन्होंने 'इक ओंकार' और मानव-एकता का संदेश दिया।"
+ },
+ {
+  "n": 224,
+  "subject": "History",
+  "q_hi": "सूफ़ी संत ख़्वाजा मोइनुद्दीन चिश्ती की दरगाह किस नगर में है?",
+  "q_en": "In which city is the dargah of Sufi saint Khwaja Moinuddin Chishti located?",
+  "options": [
+   "दिल्ली / Delhi",
+   "लाहौर / Lahore",
+   "अजमेर / Ajmer",
+   "आगरा / Agra"
+  ],
+  "answer": 2,
+  "explanation": "चिश्ती सिलसिले के संत ख़्वाजा मोइनुद्दीन चिश्ती अजमेर में बस गए। उनकी दरगाह 'अजमेर शरीफ़' सभी धर्मों के लोगों की आस्था का केंद्र है।"
+ },
+ {
+  "n": 225,
+  "subject": "History",
+  "q_hi": "छत्रपति शिवाजी का जन्म (1630 ई.) किस दुर्ग में हुआ था?",
+  "q_en": "In which fort was Chhatrapati Shivaji born (1630 CE)?",
+  "options": [
+   "शिवनेरी / Shivneri",
+   "रायगढ़ / Raigad",
+   "तोरणा / Torna",
+   "प्रतापगढ़ / Pratapgad"
+  ],
+  "answer": 0,
+  "explanation": "छत्रपति शिवाजी का जन्म 1630 ई. में शिवनेरी दुर्ग (पुणे के निकट) में हुआ था। उनकी माता जीजाबाई और पिता शाहजी भोंसले थे।"
+ },
+ {
+  "n": 226,
+  "subject": "History",
+  "q_hi": "बंगाल के प्रथम गवर्नर-जनरल कौन बने थे?",
+  "q_en": "Who became the first Governor-General of Bengal?",
+  "options": [
+   "वॉरेन हेस्टिंग्स / Warren Hastings",
+   "रॉबर्ट क्लाइव / Robert Clive",
+   "लॉर्ड कॉर्नवालिस / Lord Cornwallis",
+   "लॉर्ड वेलेज़ली / Lord Wellesley"
+  ],
+  "answer": 0,
+  "explanation": "रेगुलेटिंग एक्ट 1773 के तहत वॉरेन हेस्टिंग्स बंगाल के प्रथम गवर्नर-जनरल बने। क्लाइव इससे पहले बंगाल के गवर्नर रहे थे।"
+ },
+ {
+  "n": 227,
+  "subject": "History",
+  "q_hi": "सहायक संधि (Subsidiary Alliance) की नीति किस गवर्नर-जनरल ने अपनाई थी?",
+  "q_en": "Which Governor-General adopted the policy of Subsidiary Alliance?",
+  "options": [
+   "लॉर्ड डलहौज़ी / Lord Dalhousie",
+   "लॉर्ड हेस्टिंग्स / Lord Hastings",
+   "लॉर्ड कैनिंग / Lord Canning",
+   "लॉर्ड वेलेज़ली / Lord Wellesley"
+  ],
+  "answer": 3,
+  "explanation": "सहायक संधि लॉर्ड वेलेज़ली की नीति थी — भारतीय राज्य कंपनी की सेना रखते और विदेश नीति कंपनी को सौंप देते थे। हैदराबाद ने इसे सर्वप्रथम स्वीकार किया।"
+ },
+ {
+  "n": 228,
+  "subject": "History",
+  "q_hi": "हड़प नीति (Doctrine of Lapse) के तहत सर्वप्रथम किस राज्य का विलय हुआ था?",
+  "q_en": "Which state was annexed first under the Doctrine of Lapse?",
+  "options": [
+   "झाँसी / Jhansi",
+   "नागपुर / Nagpur",
+   "सतारा / Satara",
+   "अवध / Awadh"
+  ],
+  "answer": 2,
+  "explanation": "डलहौज़ी की हड़प नीति के तहत सर्वप्रथम 1848 ई. में सतारा राज्य का विलय हुआ। अवध का विलय कुशासन के आरोप पर हुआ था।"
+ },
+ {
+  "n": 229,
+  "subject": "History",
+  "q_hi": "1854 ई. का वुड्स डिस्पैच किस विषय से संबंधित था?",
+  "q_en": "Wood's Despatch of 1854 was related to which subject?",
+  "options": [
+   "शिक्षा / Education",
+   "रेलवे / Railways",
+   "भूमि सुधार / Land reforms",
+   "सेना / Army"
+  ],
+  "answer": 0,
+  "explanation": "1854 का वुड्स डिस्पैच 'भारत में अंग्रेज़ी शिक्षा का मैग्ना कार्टा' कहलाता है — इसमें प्राथमिक से विश्वविद्यालय स्तर तक की शिक्षा-व्यवस्था की रूपरेखा दी गई।"
+ },
+ {
+  "n": 230,
+  "subject": "History",
+  "q_hi": "भारतीय राष्ट्रीय कांग्रेस का प्रथम अधिवेशन (1885 ई.) कहाँ हुआ था?",
+  "q_en": "Where was the first session of the Indian National Congress (1885) held?",
+  "options": [
+   "कलकत्ता / Calcutta",
+   "मद्रास / Madras",
+   "बंबई (मुंबई) / Bombay (Mumbai)",
+   "लाहौर / Lahore"
+  ],
+  "answer": 2,
+  "explanation": "कांग्रेस का प्रथम अधिवेशन 1885 ई. में बंबई में हुआ, जिसकी अध्यक्षता व्योमेश चंद्र बनर्जी ने की। इसकी स्थापना में ए.ओ. ह्यूम की भूमिका रही।"
+ },
+ {
+  "n": 231,
+  "subject": "History",
+  "q_hi": "कांग्रेस का नरम दल और गरम दल में विभाजन (सूरत विभाजन) किस वर्ष हुआ था?",
+  "q_en": "In which year did the Congress split into Moderates and Extremists (Surat Split)?",
+  "options": [
+   "1905 ई. / 1905 CE",
+   "1906 ई. / 1906 CE",
+   "1907 ई. / 1907 CE",
+   "1916 ई. / 1916 CE"
+  ],
+  "answer": 2,
+  "explanation": "1907 के सूरत अधिवेशन में कांग्रेस नरम दल और गरम दल में विभाजित हो गई। दोनों दल 1916 के लखनऊ अधिवेशन में पुनः एक हो गए।"
+ },
+ {
+  "n": 232,
+  "subject": "History",
+  "q_hi": "1916 ई. में होम रूल लीग की स्थापना से कौन प्रमुख रूप से जुड़े थे?",
+  "q_en": "Who was prominently associated with founding the Home Rule League in 1916?",
+  "options": [
+   "गोपाल कृष्ण गोखले / Gopal Krishna Gokhale",
+   "बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+   "दादाभाई नौरोजी / Dadabhai Naoroji",
+   "फ़िरोज़शाह मेहता / Pherozeshah Mehta"
+  ],
+  "answer": 1,
+  "explanation": "1916 ई. में तिलक ने पूना में और एनी बेसेंट ने मद्रास में होम रूल लीग स्थापित की — उद्देश्य भारत के लिए स्वशासन की माँग को जन-आंदोलन बनाना था।"
+ },
+ {
+  "n": 233,
+  "subject": "History",
+  "q_hi": "'काला कानून' कहलाने वाला रौलेट एक्ट किस वर्ष पारित हुआ था?",
+  "q_en": "In which year was the Rowlatt Act, called the 'Black Law', passed?",
+  "options": [
+   "1909 ई. / 1909 CE",
+   "1929 ई. / 1929 CE",
+   "1919 ई. / 1919 CE",
+   "1935 ई. / 1935 CE"
+  ],
+  "answer": 2,
+  "explanation": "1919 के रौलेट एक्ट में बिना मुकदमा चलाए गिरफ़्तारी व नज़रबंदी का प्रावधान था, इसलिए इसे 'काला कानून' कहा गया। गांधीजी ने इसके विरुद्ध सत्याग्रह शुरू किया।"
+ },
+ {
+  "n": 234,
+  "subject": "History",
+  "q_hi": "स्वराज पार्टी (1923 ई.) की स्थापना किन नेताओं ने की थी?",
+  "q_en": "Which leaders founded the Swaraj Party (1923)?",
+  "options": [
+   "जवाहरलाल नेहरू व सुभाष बोस / Nehru and Bose",
+   "चितरंजन दास व मोतीलाल नेहरू / C.R. Das and Motilal Nehru",
+   "सरदार पटेल व राजेंद्र प्रसाद / Patel and Rajendra Prasad",
+   "मदन मोहन मालवीय व लाजपत राय / Malaviya and Lajpat Rai"
+  ],
+  "answer": 1,
+  "explanation": "1923 में चितरंजन दास और मोतीलाल नेहरू ने स्वराज पार्टी बनाई, ताकि विधान परिषदों में प्रवेश कर सरकार की नीतियों का भीतर से विरोध किया जा सके।"
+ },
+ {
+  "n": 235,
+  "subject": "History",
+  "q_hi": "साइमन आयोग का भारत में सर्वत्र बहिष्कार क्यों हुआ था?",
+  "q_en": "Why was the Simon Commission boycotted all over India?",
+  "options": [
+   "इसमें कोई भारतीय सदस्य नहीं था / It had no Indian member",
+   "यह भारत कभी आया ही नहीं / It never came to India",
+   "इसका अध्यक्ष एक भारतीय था / Its chairman was an Indian",
+   "कांग्रेस ने इसका स्वागत किया था / Congress had welcomed it"
+  ],
+  "answer": 0,
+  "explanation": "1927 में गठित साइमन आयोग के सभी सात सदस्य अंग्रेज़ थे, इसलिए 'साइमन वापस जाओ' के नारों के साथ इसका सर्वत्र बहिष्कार हुआ।"
+ },
+ {
+  "n": 236,
+  "subject": "History",
+  "q_hi": "पूना समझौते (1932 ई.) का मुख्य परिणाम क्या था?",
+  "q_en": "What was the main outcome of the Poona Pact (1932)?",
+  "options": [
+   "दलितों को पृथक निर्वाचन मिला / Separate electorates for Dalits",
+   "संयुक्त निर्वाचन में दलितों हेतु आरक्षित सीटें / Reserved seats for Dalits in joint electorates",
+   "दलितों का आरक्षण समाप्त हुआ / Reservation for Dalits ended",
+   "सभी सीटें सामान्य घोषित हुईं / All seats declared general"
+  ],
+  "answer": 1,
+  "explanation": "1932 के पूना समझौते (गांधी–आंबेडकर) से पृथक निर्वाचन समाप्त हुआ और संयुक्त निर्वाचन क्षेत्र में दलित वर्गों के लिए सीटें आरक्षित की गईं।"
+ },
+ {
+  "n": 237,
+  "subject": "History",
+  "q_hi": "भारत सरकार अधिनियम, 1935 की प्रमुख विशेषता क्या थी?",
+  "q_en": "What was the main feature of the Government of India Act, 1935?",
+  "options": [
+   "भारत को पूर्ण स्वतंत्रता / Complete independence",
+   "केंद्र में द्वैध शासन / Dyarchy at the Centre",
+   "पृथक निर्वाचन की समाप्ति / End of separate electorates",
+   "प्रांतीय स्वायत्तता / Provincial Autonomy"
+  ],
+  "answer": 3,
+  "explanation": "1935 के अधिनियम से प्रांतों में द्वैध शासन समाप्त कर प्रांतीय स्वायत्तता दी गई और प्रांतों में उत्तरदायी सरकारें बनीं।"
+ },
+ {
+  "n": 238,
+  "subject": "History",
+  "q_hi": "फॉरवर्ड ब्लॉक की स्थापना (1939 ई.) किसने की थी?",
+  "q_en": "Who founded the Forward Bloc in 1939?",
+  "options": [
+   "जयप्रकाश नारायण / Jayaprakash Narayan",
+   "एम.एन. रॉय / M.N. Roy",
+   "सुभाष चंद्र बोस / Subhas Chandra Bose",
+   "आचार्य नरेंद्र देव / Acharya Narendra Deva"
+  ],
+  "answer": 2,
+  "explanation": "1939 में कांग्रेस अध्यक्ष पद से इस्तीफ़ा देने के बाद सुभाष चंद्र बोस ने फॉरवर्ड ब्लॉक की स्थापना की।"
+ },
+ {
+  "n": 239,
+  "subject": "History",
+  "q_hi": "सुभाष चंद्र बोस ने आज़ाद हिंद फ़ौज का पुनर्गठन (1943 ई.) कहाँ किया था?",
+  "q_en": "Where did Subhas Chandra Bose reorganise the Indian National Army in 1943?",
+  "options": [
+   "टोक्यो / Tokyo",
+   "सिंगापुर / Singapore",
+   "बर्लिन / Berlin",
+   "रंगून / Rangoon"
+  ],
+  "answer": 1,
+  "explanation": "1943 में सुभाष चंद्र बोस ने सिंगापुर में आज़ाद हिंद फ़ौज का पुनर्गठन किया और 'दिल्ली चलो' का नारा दिया।"
+ },
+ {
+  "n": 240,
+  "subject": "History",
+  "q_hi": "कैबिनेट मिशन भारत किस वर्ष आया था?",
+  "q_en": "In which year did the Cabinet Mission come to India?",
+  "options": [
+   "1942 ई. / 1942 CE",
+   "1945 ई. / 1945 CE",
+   "1946 ई. / 1946 CE",
+   "1947 ई. / 1947 CE"
+  ],
+  "answer": 2,
+  "explanation": "1946 में कैबिनेट मिशन (पैथिक लॉरेंस, स्टैफ़र्ड क्रिप्स, ए.वी. अलेक्ज़ेंडर) भारत आया, जिसने संविधान सभा व अंतरिम सरकार की योजना रखी।"
+ },
+ {
+  "n": 241,
+  "subject": "History",
+  "q_hi": "स्वतंत्र भारत के प्रथम भारतीय गवर्नर-जनरल कौन थे?",
+  "q_en": "Who was the first Indian Governor-General of independent India?",
+  "options": [
+   "लॉर्ड माउंटबेटन / Lord Mountbatten",
+   "सी. राजगोपालाचारी / C. Rajagopalachari",
+   "डॉ. राजेंद्र प्रसाद / Dr. Rajendra Prasad",
+   "सरदार पटेल / Sardar Patel"
+  ],
+  "answer": 1,
+  "explanation": "सी. राजगोपालाचारी 1948 में स्वतंत्र भारत के प्रथम भारतीय गवर्नर-जनरल बने। माउंटबेटन प्रथम गवर्नर-जनरल थे, किंतु वे अंग्रेज़ थे।"
+ },
+ {
+  "n": 242,
+  "subject": "History",
+  "q_hi": "नालंदा विश्वविद्यालय का विनाश किस आक्रमणकारी से जोड़ा जाता है?",
+  "q_en": "The destruction of Nalanda University is associated with which invader?",
+  "options": [
+   "महमूद ग़ज़नवी / Mahmud of Ghazni",
+   "मोहम्मद गोरी / Muhammad Ghori",
+   "बख़्तियार खिलजी / Bakhtiyar Khilji",
+   "तैमूर / Timur"
+  ],
+  "answer": 2,
+  "explanation": "लगभग 1193 ई. में बख़्तियार खिलजी के आक्रमण से नालंदा विश्वविद्यालय नष्ट हुआ। यह कभी विश्व प्रसिद्ध शिक्षा केंद्र था।"
+ },
+ {
+  "n": 243,
+  "subject": "History",
+  "q_hi": "प्राचीन वैशाली (बिहार) किसके लिए प्रसिद्ध है?",
+  "q_en": "What is ancient Vaishali (Bihar) famous for?",
+  "options": [
+   "लिच्छवि गणतंत्र / Licchavi Republic",
+   "मौर्य राजधानी / Mauryan capital",
+   "गुप्तकालीन बंदरगाह / Gupta-era port",
+   "मुगलकालीन किला / Mughal-era fort"
+  ],
+  "answer": 0,
+  "explanation": "वैशाली लिच्छवि गणतंत्र की राजधानी थी, जिसे विश्व के प्राचीनतम गणतंत्रों में गिना जाता है। यहाँ द्वितीय बौद्ध संगीति भी हुई थी।"
+ },
+ {
+  "n": 244,
+  "subject": "History",
+  "q_hi": "बिहार के केसरिया (पूर्वी चंपारण) स्थित स्तूप की विशेषता क्या है?",
+  "q_en": "What is special about the stupa at Kesariya (East Champaran) in Bihar?",
+  "options": [
+   "सबसे बड़ा बौद्ध स्तूप / Largest Buddhist stupa",
+   "सबसे पुराना हिंदू मंदिर / Oldest Hindu temple",
+   "अशोक का राजमहल / Ashoka's palace",
+   "प्रसिद्ध जैन तीर्थ / Famous Jain pilgrimage"
+  ],
+  "answer": 0,
+  "explanation": "केसरिया स्तूप विश्व के सबसे बड़े बौद्ध स्तूपों में से एक माना जाता है और यह बुद्ध की यात्रा से जुड़ा हुआ है।"
+ },
+ {
+  "n": 245,
+  "subject": "History",
+  "q_hi": "बिहार प्रांतीय किसान सभा (1929 ई.) की स्थापना किसने की थी?",
+  "q_en": "Who founded the Bihar Provincial Kisan Sabha (1929)?",
+  "options": [
+   "डॉ. राजेंद्र प्रसाद / Dr. Rajendra Prasad",
+   "जयप्रकाश नारायण / Jayaprakash Narayan",
+   "स्वामी सहजानंद सरस्वती / Swami Sahajanand Saraswati",
+   "श्रीकृष्ण सिंह / Shri Krishna Sinha"
+  ],
+  "answer": 2,
+  "explanation": "1929 में स्वामी सहजानंद सरस्वती ने बिहार प्रांतीय किसान सभा की स्थापना की। बाद में वे अखिल भारतीय किसान सभा (1936) के अध्यक्ष भी बने।"
+ },
+ {
+  "n": 246,
+  "subject": "History",
+  "q_hi": "महमूद ग़ज़नवी ने सोमनाथ मंदिर पर प्रसिद्ध आक्रमण किस वर्ष किया था?",
+  "q_en": "In which year did Mahmud of Ghazni launch his famous attack on the Somnath Temple?",
+  "options": [
+   "1001 ई. / 1001 CE",
+   "1025 ई. / 1025 CE",
+   "1178 ई. / 1178 CE",
+   "1191 ई. / 1191 CE"
+  ],
+  "answer": 1,
+  "explanation": "महमूद ग़ज़नवी ने 1025 ई. में गुजरात के सोमनाथ मंदिर पर आक्रमण कर अपार धन लूटा। उसने भारत पर कुल 17 बार आक्रमण किया।"
+ },
+ {
+  "n": 247,
+  "subject": "History",
+  "q_hi": "खानवा के युद्ध (1527 ई.) में बाबर ने किसे पराजित किया था?",
+  "q_en": "Whom did Babur defeat in the Battle of Khanwa (1527)?",
+  "options": [
+   "इब्राहिम लोदी / Ibrahim Lodi",
+   "मेदिनी राय / Medini Rai",
+   "राणा सांगा / Rana Sanga",
+   "हसन खाँ मेवाती / Hasan Khan Mewati"
+  ],
+  "answer": 2,
+  "explanation": "1527 ई. के खानवा युद्ध में बाबर ने मेवाड़ के राणा सांगा को पराजित किया। इस विजय से भारत में मुगल सत्ता की नींव मज़बूत हुई।"
+ },
+ {
+  "n": 248,
+  "subject": "History",
+  "q_hi": "मोहम्मद गोरी के संबंध में कौन-सा कथन सही नहीं है?",
+  "q_en": "Which statement about Muhammad Ghori is NOT correct?",
+  "options": [
+   "तराइन प्रथम युद्ध (1191) में पृथ्वीराज विजयी हुए / Prithviraj won First Tarain (1191)",
+   "1192 के तराइन द्वितीय युद्ध में गोरी ने पृथ्वीराज को हराया / Ghori defeated Prithviraj in 1192",
+   "चंदावर युद्ध (1194) में गोरी ने जयचंद को हराया / Ghori defeated Jaichand at Chandawar (1194)",
+   "पृथ्वीराज ने गोरी को खानवा के युद्ध में हराया / Prithviraj defeated Ghori at Khanwa"
+  ],
+  "answer": 3,
+  "explanation": "खानवा का युद्ध 1527 ई. में बाबर और राणा सांगा के बीच हुआ था, गोरी से इसका कोई संबंध नहीं है। शेष तीनों कथन सही हैं।"
+ },
+ {
+  "n": 249,
+  "subject": "History",
+  "q_hi": "महात्मा गांधी के संबंध में कौन-सा कथन सही नहीं है?",
+  "q_en": "Which statement about Mahatma Gandhi is NOT correct?",
+  "options": [
+   "गांधीजी 1915 में दक्षिण अफ्रीका से भारत लौटे / Gandhi returned from South Africa in 1915",
+   "असहयोग आंदोलन 1920 में प्रारंभ हुआ / Non-Cooperation Movement began in 1920",
+   "भारत छोड़ो आंदोलन अगस्त 1942 में शुरू हुआ / Quit India Movement began in August 1942",
+   "दांडी मार्च से असहयोग आंदोलन की शुरुआत हुई / Non-Cooperation began with the Dandi March"
+  ],
+  "answer": 3,
+  "explanation": "दांडी मार्च (1930) से सविनय अवज्ञा आंदोलन शुरू हुआ था, असहयोग आंदोलन से नहीं। शेष तीनों कथन सही हैं।"
+ },
+ {
+  "n": 250,
+  "subject": "History",
+  "q_hi": "चंपारण की 'तीनकठिया' प्रणाली में किसानों को अपनी भूमि के कितने भाग पर नील उगाना पड़ता था?",
+  "q_en": "Under Champaran's 'tinkathia' system, on what portion of their land did peasants have to grow indigo?",
+  "options": [
+   "3/20 भाग / 3/20th part",
+   "आधा भाग / Half part",
+   "1/4 भाग / 1/4th part",
+   "पूरी भूमि / Entire land"
+  ],
+  "answer": 0,
+  "explanation": "तीनकठिया प्रणाली में किसानों को भूमि के 3/20 भाग पर नील की खेती अनिवार्यतः करनी पड़ती थी। गांधीजी के 1917 के चंपारण सत्याग्रह से यह प्रथा समाप्त हुई।"
+ },
+ {
+  "n": 251,
+  "subject": "Polity",
+  "q_hi": "सर्वोच्च न्यायालय में मुख्य न्यायाधीश सहित न्यायाधीशों की अधिकतम संख्या कितनी हो सकती है?",
+  "q_en": "What is the maximum sanctioned strength of judges, including the Chief Justice, in the Supreme Court?",
+  "options": [
+   "कुल 31 / Total 31",
+   "कुल 30 / Total 30",
+   "कुल 34 / Total 34",
+   "कुल 26 / Total 26"
+  ],
+  "answer": 2,
+  "explanation": "सर्वोच्च न्यायालय में मुख्य न्यायाधीश सहित अधिकतम 34 न्यायाधीशों का प्रावधान है। प्रारंभ में केवल 8 न्यायाधीश थे।"
+ },
+ {
+  "n": 252,
+  "subject": "Polity",
+  "q_hi": "सर्वोच्च न्यायालय के न्यायाधीश को पद से कैसे हटाया जा सकता है?",
+  "q_en": "How can a judge of the Supreme Court be removed from office?",
+  "options": [
+   "केवल राष्ट्रपति के आदेश से / By President's order alone",
+   "मुख्य न्यायाधीश के आदेश से / By CJI's order",
+   "प्रधानमंत्री की सलाह से / On PM's advice",
+   "संसद के विशेष-बहुमत संबोधन द्वारा / By Parliament's special-majority address"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 124(4) के तहत न्यायाधीश को 'सिद्ध कदाचार या असमर्थता' पर दोनों सदनों के विशेष बहुमत से पारित संबोधन के बाद ही राष्ट्रपति हटा सकते हैं।"
+ },
+ {
+  "n": 253,
+  "subject": "Polity",
+  "q_hi": "'बंदी प्रत्यक्षीकरण' (Habeas Corpus) रिट का अर्थ है —",
+  "q_en": "The writ of 'Habeas Corpus' means —",
+  "options": [
+   "बंदी व्यक्ति को न्यायालय के समक्ष प्रस्तुत करना / Produce the detained person before the court",
+   "किसी की नियुक्ति रद्द करना / Cancel an appointment",
+   "निचली अदालत का निर्णय रोकना / Stay a lower court's order",
+   "अधिकारी को कर्तव्य पालन का आदेश / Order an official to perform duty"
+  ],
+  "answer": 0,
+  "explanation": "बंदी प्रत्यक्षीकरण रिट अवैध हिरासत के विरुद्ध जारी होती है — न्यायालय बंदी को प्रस्तुत करने का आदेश देता है। यह अनुच्छेद 32 व 226 के तहत मिलती है।"
+ },
+ {
+  "n": 254,
+  "subject": "Polity",
+  "q_hi": "राष्ट्रपति किस अनुच्छेद के तहत सर्वोच्च न्यायालय से परामर्श (सलाहकारी अधिकारिता) माँग सकते हैं?",
+  "q_en": "Under which Article can the President seek the advice (advisory jurisdiction) of the Supreme Court?",
+  "options": [
+   "अनुच्छेद 131 / Article 131",
+   "अनुच्छेद 143 / Article 143",
+   "अनुच्छेद 136 / Article 136",
+   "अनुच्छेद 226 / Article 226"
+  ],
+  "answer": 1,
+  "explanation": "अनुच्छेद 143 राष्ट्रपति को विधि या तथ्य के प्रश्न पर सर्वोच्च न्यायालय की राय माँगने का अधिकार देता है, यद्यपि यह राय बाध्यकारी नहीं होती।"
+ },
+ {
+  "n": 255,
+  "subject": "Polity",
+  "q_hi": "केंद्र और राज्यों के बीच विवादों की मूल अधिकारिता सर्वोच्च न्यायालय को किस अनुच्छेद से मिलती है?",
+  "q_en": "Under which Article does the Supreme Court get original jurisdiction over Centre-State disputes?",
+  "options": [
+   "अनुच्छेद 143 / Article 143",
+   "अनुच्छेद 134 / Article 134",
+   "अनुच्छेद 137 / Article 137",
+   "अनुच्छेद 131 / Article 131"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 131 के अंतर्गत केंद्र-राज्य या राज्यों के बीच के विवाद सीधे सर्वोच्च न्यायालय में आते हैं — यह उसकी मूल अधिकारिता है।"
+ },
+ {
+  "n": 256,
+  "subject": "Polity",
+  "q_hi": "लोक अदालत के संदर्भ में सही कथन कौन-सा है?",
+  "q_en": "Which statement about Lok Adalat is correct?",
+  "options": [
+   "इसका निर्णय अंतिम नहीं होता / Its award is not final",
+   "यह केवल आपराधिक मामले देखती है / It hears only criminal cases",
+   "इसका निर्णय अंतिम व बाध्यकारी होता है / Its award is final and binding",
+   "इसमें वकील रखना अनिवार्य है / Lawyers are compulsory in it"
+  ],
+  "answer": 2,
+  "explanation": "लोक अदालत समझौते द्वारा विवाद सुलझाती है; इसका निर्णय सिविल न्यायालय की डिक्री के समान अंतिम और बाध्यकारी होता है, इसके विरुद्ध अपील नहीं होती।"
+ },
+ {
+  "n": 257,
+  "subject": "Polity",
+  "q_hi": "'कॉलेजियम प्रणाली' से न्यायाधीशों की नियुक्ति में आशय है —",
+  "q_en": "In judicial appointments, the 'Collegium System' refers to —",
+  "options": [
+   "वरिष्ठ न्यायाधीशों के समूह की सिफ़ारिश / Recommendation by a group of senior judges",
+   "संसद की समिति की सिफ़ारिश / Parliamentary committee's recommendation",
+   "राष्ट्रपति का स्वतंत्र निर्णय / President's independent decision",
+   "राज्यपालों की समिति / Committee of Governors"
+  ],
+  "answer": 0,
+  "explanation": "कॉलेजियम में मुख्य न्यायाधीश व वरिष्ठतम न्यायाधीश होते हैं, जिनकी सिफ़ारिश पर उच्च न्यायालयों व सर्वोच्च न्यायालय के न्यायाधीश नियुक्त होते हैं।"
+ },
+ {
+  "n": 258,
+  "subject": "Polity",
+  "q_hi": "भारत की 'एकीकृत न्यायपालिका' का अर्थ है —",
+  "q_en": "The 'integrated judiciary' of India means —",
+  "options": [
+   "प्रत्येक राज्य का अलग सर्वोच्च न्यायालय / A separate apex court for each state",
+   "न्यायपालिका कार्यपालिका के अधीन है / Judiciary is under the executive",
+   "केवल केंद्रीय न्यायालयों की व्यवस्था / A system of only central courts",
+   "एक श्रृंखला — शीर्ष पर सर्वोच्च न्यायालय / A single hierarchy with the Supreme Court at the top"
+  ],
+  "answer": 3,
+  "explanation": "भारत में पृथक राज्य-न्यायालय प्रणाली नहीं है — सर्वोच्च न्यायालय शीर्ष पर, फिर उच्च न्यायालय व अधीनस्थ न्यायालय एक ही एकीकृत व्यवस्था में हैं।"
+ },
+ {
+  "n": 259,
+  "subject": "Polity",
+  "q_hi": "न्यायिक पुनरावलोकन (Judicial Review) की शक्ति से न्यायालय क्या कर सकता है?",
+  "q_en": "What can the judiciary do through the power of Judicial Review?",
+  "options": [
+   "नए कानून बना सकता है / Make new laws",
+   "असंवैधानिक कानून को अमान्य घोषित कर सकता है / Declare an unconstitutional law invalid",
+   "बजट पारित कर सकता है / Pass the budget",
+   "मंत्री को हटा सकता है / Remove a minister"
+  ],
+  "answer": 1,
+  "explanation": "न्यायिक पुनरावलोकन के तहत न्यायालय विधायिका व कार्यपालिका के कार्यों की संवैधानिकता जाँचकर असंवैधानिक कानून को शून्य घोषित कर सकता है।"
+ },
+ {
+  "n": 260,
+  "subject": "Polity",
+  "q_hi": "वित्त आयोग का गठन किस अनुच्छेद के तहत होता है?",
+  "q_en": "Under which Article is the Finance Commission constituted?",
+  "options": [
+   "अनुच्छेद 280 / Article 280",
+   "अनुच्छेद 263 / Article 263",
+   "अनुच्छेद 312 / Article 312",
+   "अनुच्छेद 368 / Article 368"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 280 के तहत राष्ट्रपति प्रत्येक पाँच वर्ष पर वित्त आयोग गठित करते हैं, जो केंद्र व राज्यों के बीच कर-आय के बँटवारे की सिफ़ारिश करता है।"
+ },
+ {
+  "n": 261,
+  "subject": "Polity",
+  "q_hi": "अंतर-राज्य परिषद का गठन किस अनुच्छेद के तहत किया जा सकता है?",
+  "q_en": "Under which Article can the Inter-State Council be established?",
+  "options": [
+   "अनुच्छेद 280 / Article 280",
+   "अनुच्छेद 312 / Article 312",
+   "अनुच्छेद 263 / Article 263",
+   "अनुच्छेद 324 / Article 324"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 263 के तहत राष्ट्रपति केंद्र-राज्य समन्वय हेतु अंतर-राज्य परिषद गठित कर सकते हैं; सरकारिया आयोग की सिफ़ारिश पर 1990 में इसका गठन हुआ।"
+ },
+ {
+  "n": 262,
+  "subject": "Polity",
+  "q_hi": "किसी राज्य में राष्ट्रपति शासन किस अनुच्छेद के तहत लगाया जाता है?",
+  "q_en": "Under which Article is President's Rule imposed in a state?",
+  "options": [
+   "अनुच्छेद 352 / Article 352",
+   "अनुच्छेद 360 / Article 360",
+   "अनुच्छेद 368 / Article 368",
+   "अनुच्छेद 356 / Article 356"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 356 के तहत यदि राज्य में संवैधानिक तंत्र विफल हो जाए तो राष्ट्रपति शासन लगाया जा सकता है; पहली बार इसका प्रयोग 1951 में पंजाब में हुआ था।"
+ },
+ {
+  "n": 263,
+  "subject": "Polity",
+  "q_hi": "भारत में अब तक कौन-सी आपात स्थिति कभी घोषित नहीं की गई है?",
+  "q_en": "Which emergency has never been proclaimed in India so far?",
+  "options": [
+   "राष्ट्रीय आपातकाल / National Emergency",
+   "वित्तीय आपातकाल / Financial Emergency",
+   "राष्ट्रपति शासन / President's Rule",
+   "इनमें से कोई नहीं / None of these"
+  ],
+  "answer": 1,
+  "explanation": "अनुच्छेद 360 का वित्तीय आपातकाल आज तक कभी लागू नहीं हुआ, जबकि राष्ट्रीय आपातकाल तीन बार (1962, 1971, 1975) घोषित हो चुका है।"
+ },
+ {
+  "n": 264,
+  "subject": "Polity",
+  "q_hi": "वस्तु एवं सेवा कर (GST) किस संविधान संशोधन द्वारा लागू किया गया?",
+  "q_en": "Through which constitutional amendment was the Goods and Services Tax (GST) introduced?",
+  "options": [
+   "97वाँ संशोधन / 97th Amendment",
+   "99वाँ संशोधन / 99th Amendment",
+   "101वाँ संशोधन / 101st Amendment",
+   "102वाँ संशोधन / 102nd Amendment"
+  ],
+  "answer": 2,
+  "explanation": "101वें संविधान संशोधन (2016) द्वारा GST का मार्ग प्रशस्त हुआ और 1 जुलाई 2017 से यह पूरे देश में लागू हुआ। GST परिषद अनुच्छेद 279A से गठित होती है।"
+ },
+ {
+  "n": 265,
+  "subject": "Polity",
+  "q_hi": "केंद्र-राज्य संबंधों की समीक्षा हेतु गठित आयोग कौन-सा था?",
+  "q_en": "Which commission was set up to review Centre-State relations?",
+  "options": [
+   "सरकारिया आयोग / Sarkaria Commission",
+   "मंडल आयोग / Mandal Commission",
+   "कोठारी आयोग / Kothari Commission",
+   "नानावटी आयोग / Nanavati Commission"
+  ],
+  "answer": 0,
+  "explanation": "1983 में गठित सरकारिया आयोग ने केंद्र-राज्य संबंधों की समीक्षा की और अंतर-राज्य परिषद के स्थायी गठन जैसी सिफ़ारिशें दीं।"
+ },
+ {
+  "n": 266,
+  "subject": "Polity",
+  "q_hi": "नई अखिल भारतीय सेवा का सृजन कैसे किया जा सकता है?",
+  "q_en": "How can a new All India Service be created?",
+  "options": [
+   "प्रधानमंत्री के आदेश से / By PM's order",
+   "मुख्य न्यायाधीश की सिफ़ारिश से / On CJI's recommendation",
+   "राष्ट्रपति के अध्यादेश से / By Presidential ordinance",
+   "राज्यसभा के प्रस्ताव के बाद संसद द्वारा / By Parliament after a Rajya Sabha resolution"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 312 के तहत राज्यसभा राष्ट्रीय हित में विशेष बहुमत से प्रस्ताव पारित करे तो संसद नई अखिल भारतीय सेवा बना सकती है। IAS व IPS इसी श्रेणी में आते हैं।"
+ },
+ {
+  "n": 267,
+  "subject": "Polity",
+  "q_hi": "ग्यारहवीं अनुसूची (पंचायतों के विषय) में कुल कितने विषय हैं?",
+  "q_en": "How many subjects are there in the Eleventh Schedule (subjects of Panchayats)?",
+  "options": [
+   "18 विषय / 18 subjects",
+   "29 विषय / 29 subjects",
+   "22 विषय / 22 subjects",
+   "33 विषय / 33 subjects"
+  ],
+  "answer": 1,
+  "explanation": "73वें संशोधन से जोड़ी गई ग्यारहवीं अनुसूची में पंचायतों के लिए 29 विषय हैं, जबकि बारहवीं अनुसूची (नगरपालिकाएँ) में 18 विषय हैं।"
+ },
+ {
+  "n": 268,
+  "subject": "Polity",
+  "q_hi": "बारहवीं अनुसूची में नगरपालिकाओं हेतु कितने विषय सूचीबद्ध हैं?",
+  "q_en": "How many subjects are listed for Municipalities in the Twelfth Schedule?",
+  "options": [
+   "18 विषय / 18 subjects",
+   "29 विषय / 29 subjects",
+   "12 विषय / 12 subjects",
+   "25 विषय / 25 subjects"
+  ],
+  "answer": 0,
+  "explanation": "74वें संशोधन (1992) से जोड़ी गई बारहवीं अनुसूची में नगरपालिकाओं के 18 विषय हैं, जैसे नगरीय नियोजन, जल आपूर्ति व सफ़ाई।"
+ },
+ {
+  "n": 269,
+  "subject": "Polity",
+  "q_hi": "नगरपालिकाओं (शहरी स्थानीय शासन) को संवैधानिक दर्जा किस संशोधन से मिला?",
+  "q_en": "Through which amendment did Municipalities (urban local governance) get constitutional status?",
+  "options": [
+   "73वाँ संशोधन / 73rd Amendment",
+   "64वाँ संशोधन / 64th Amendment",
+   "74वाँ संशोधन / 74th Amendment",
+   "86वाँ संशोधन / 86th Amendment"
+  ],
+  "answer": 2,
+  "explanation": "74वें संविधान संशोधन (1992) से संविधान में भाग IX-A जुड़ा और नगरपालिकाओं को संवैधानिक मान्यता मिली; यह 1993 से प्रभावी हुआ।"
+ },
+ {
+  "n": 270,
+  "subject": "Polity",
+  "q_hi": "बिहार के पंचायत चुनावों में महिलाओं के लिए कितनी सीटें आरक्षित हैं?",
+  "q_en": "What percentage of seats is reserved for women in Bihar's Panchayat elections?",
+  "options": [
+   "एक-तिहाई (33%) / One-third (33%)",
+   "एक-चौथाई (25%) / One-fourth (25%)",
+   "दो-तिहाई (66%) / Two-thirds (66%)",
+   "आधी (50%) / Half (50%)"
+  ],
+  "answer": 3,
+  "explanation": "बिहार 2006 में पंचायतों में महिलाओं को 50% आरक्षण देने वाला देश का पहला राज्य बना, जबकि संविधान में न्यूनतम प्रावधान एक-तिहाई है।"
+ },
+ {
+  "n": 271,
+  "subject": "Polity",
+  "q_hi": "राज्य वित्त आयोग का मुख्य कार्य क्या है?",
+  "q_en": "What is the main function of the State Finance Commission?",
+  "options": [
+   "राज्य का बजट बनाना / Prepare the state budget",
+   "स्थानीय निकायों के वित्त की समीक्षा व सिफ़ारिश / Review finances of local bodies and recommend",
+   "राज्य के चुनाव कराना / Conduct state elections",
+   "कर वसूली करना / Collect taxes"
+  ],
+  "answer": 1,
+  "explanation": "अनुच्छेद 243-I के तहत राज्यपाल प्रत्येक पाँच वर्ष पर राज्य वित्त आयोग गठित करते हैं, जो स्थानीय निकायों को राशि-वितरण की सिफ़ारिश करता है।"
+ },
+ {
+  "n": 272,
+  "subject": "Polity",
+  "q_hi": "त्रि-स्तरीय पंचायती राज में मध्य (प्रखंड) स्तर की संस्था कौन-सी है?",
+  "q_en": "Which is the middle (block) level institution in the three-tier Panchayati Raj?",
+  "options": [
+   "ग्राम पंचायत / Gram Panchayat",
+   "ज़िला परिषद / Zila Parishad",
+   "पंचायत समिति / Panchayat Samiti",
+   "ग्राम सभा / Gram Sabha"
+  ],
+  "answer": 2,
+  "explanation": "पंचायती राज के तीन स्तर हैं — ग्राम स्तर पर ग्राम पंचायत, प्रखंड स्तर पर पंचायत समिति और ज़िला स्तर पर ज़िला परिषद।"
+ },
+ {
+  "n": 273,
+  "subject": "Polity",
+  "q_hi": "संविधान संशोधन की प्रक्रिया किस अनुच्छेद में दी गई है?",
+  "q_en": "In which Article is the procedure for amending the Constitution given?",
+  "options": [
+   "अनुच्छेद 368 / Article 368",
+   "अनुच्छेद 352 / Article 352",
+   "अनुच्छेद 360 / Article 360",
+   "अनुच्छेद 395 / Article 395"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 368 (भाग XX) में संशोधन प्रक्रिया है — कुछ प्रावधान साधारण बहुमत, अधिकांश विशेष बहुमत तथा संघीय प्रावधान आधे राज्यों के अनुसमर्थन से बदलते हैं।"
+ },
+ {
+  "n": 274,
+  "subject": "Polity",
+  "q_hi": "'संविधान की मूल संरचना' (Basic Structure) का सिद्धांत किस वाद में प्रतिपादित हुआ?",
+  "q_en": "In which case was the 'Basic Structure of the Constitution' doctrine propounded?",
+  "options": [
+   "गोलकनाथ वाद / Golaknath Case",
+   "केशवानंद भारती वाद / Kesavananda Bharati Case",
+   "मिनर्वा मिल्स वाद / Minerva Mills Case",
+   "मेनका गांधी वाद / Maneka Gandhi Case"
+  ],
+  "answer": 1,
+  "explanation": "1973 के केशवानंद भारती वाद में 13 न्यायाधीशों की पीठ ने कहा कि संसद संविधान की मूल संरचना (जैसे लोकतंत्र, धर्मनिरपेक्षता) नहीं बदल सकती।"
+ },
+ {
+  "n": 275,
+  "subject": "Polity",
+  "q_hi": "प्रथम संविधान संशोधन किस वर्ष हुआ था?",
+  "q_en": "In which year was the First Constitutional Amendment made?",
+  "options": [
+   "1950 ई. / 1950 CE",
+   "1952 ई. / 1952 CE",
+   "1956 ई. / 1956 CE",
+   "1951 ई. / 1951 CE"
+  ],
+  "answer": 3,
+  "explanation": "प्रथम संविधान संशोधन 1951 में हुआ, जिससे नौवीं अनुसूची जोड़ी गई और भूमि-सुधार कानूनों को न्यायिक समीक्षा से संरक्षण मिला।"
+ },
+ {
+  "n": 276,
+  "subject": "Polity",
+  "q_hi": "44वें संशोधन (1978) द्वारा राष्ट्रीय आपातकाल का आधार 'आंतरिक अशांति' बदलकर क्या किया गया?",
+  "q_en": "By the 44th Amendment (1978), the ground of National Emergency 'internal disturbance' was replaced by what?",
+  "options": [
+   "विदेशी आक्रमण / External aggression",
+   "संवैधानिक विफलता / Constitutional breakdown",
+   "सशस्त्र विद्रोह / Armed rebellion",
+   "आर्थिक संकट / Economic crisis"
+  ],
+  "answer": 2,
+  "explanation": "1975 के अनुभव के बाद 44वें संशोधन ने आपातकाल के आधार को कठोर किया — 'आंतरिक अशांति' के स्थान पर 'सशस्त्र विद्रोह' शब्द रखा गया।"
+ },
+ {
+  "n": 277,
+  "subject": "Polity",
+  "q_hi": "दल-बदल विरोधी कानून किस संविधान संशोधन द्वारा बनाया गया था?",
+  "q_en": "Through which constitutional amendment was the anti-defection law made?",
+  "options": [
+   "42वाँ संशोधन / 42nd Amendment",
+   "52वाँ संशोधन / 52nd Amendment",
+   "44वाँ संशोधन / 44th Amendment",
+   "61वाँ संशोधन / 61st Amendment"
+  ],
+  "answer": 1,
+  "explanation": "52वें संविधान संशोधन (1985) द्वारा दसवीं अनुसूची जोड़ी गई, जिसमें दल-बदल करने वाले सदस्यों की अयोग्यता का प्रावधान है।"
+ },
+ {
+  "n": 278,
+  "subject": "Polity",
+  "q_hi": "आर्थिक रूप से कमज़ोर वर्गों (EWS) को 10% आरक्षण किस संशोधन से मिला?",
+  "q_en": "Through which amendment did the Economically Weaker Sections (EWS) get 10% reservation?",
+  "options": [
+   "101वाँ संशोधन / 101st Amendment",
+   "102वाँ संशोधन / 102nd Amendment",
+   "104वाँ संशोधन / 104th Amendment",
+   "103वाँ संशोधन / 103rd Amendment"
+  ],
+  "answer": 3,
+  "explanation": "103वें संशोधन (2019) द्वारा अनुच्छेद 15(6) व 16(6) जोड़े गए, जिनसे सामान्य वर्ग के आर्थिक रूप से कमज़ोर लोगों को शिक्षा व नौकरियों में 10% आरक्षण मिला।"
+ },
+ {
+  "n": 279,
+  "subject": "Polity",
+  "q_hi": "आठवीं अनुसूची में वर्तमान में कुल कितनी भाषाएँ शामिल हैं?",
+  "q_en": "How many languages are included in the Eighth Schedule at present?",
+  "options": [
+   "22 भाषाएँ / 22 languages",
+   "14 भाषाएँ / 14 languages",
+   "18 भाषाएँ / 18 languages",
+   "26 भाषाएँ / 26 languages"
+  ],
+  "answer": 0,
+  "explanation": "मूल संविधान की आठवीं अनुसूची में 14 भाषाएँ थीं; बाद में सिंधी, नेपाली, कोंकणी-मणिपुरी तथा बोडो-डोगरी-मैथिली-संथाली जुड़ने से अब 22 भाषाएँ हैं।"
+ },
+ {
+  "n": 280,
+  "subject": "Polity",
+  "q_hi": "नौवीं अनुसूची संविधान में किस संशोधन द्वारा जोड़ी गई थी?",
+  "q_en": "The Ninth Schedule was added to the Constitution by which amendment?",
+  "options": [
+   "42वाँ संशोधन / 42nd Amendment",
+   "44वाँ संशोधन / 44th Amendment",
+   "प्रथम संशोधन / First Amendment",
+   "सातवाँ संशोधन / Seventh Amendment"
+  ],
+  "answer": 2,
+  "explanation": "नौवीं अनुसूची 1951 के प्रथम संविधान संशोधन द्वारा जोड़ी गई, ताकि भूमि-सुधार कानूनों को मौलिक अधिकारों के आधार पर चुनौती से बचाया जा सके।"
+ },
+ {
+  "n": 281,
+  "subject": "Polity",
+  "q_hi": "मूल संविधान (1950) में कुल कितने अनुच्छेद थे?",
+  "q_en": "How many Articles were there in the original Constitution (1950)?",
+  "options": [
+   "448 अनुच्छेद / 448 Articles",
+   "395 अनुच्छेद / 395 Articles",
+   "365 अनुच्छेद / 365 Articles",
+   "470 अनुच्छेद / 470 Articles"
+  ],
+  "answer": 1,
+  "explanation": "26 जनवरी 1950 को लागू मूल संविधान में 395 अनुच्छेद, 22 भाग और 8 अनुसूचियाँ थीं। वर्तमान में अनुसूचियाँ 12 हो गई हैं।"
+ },
+ {
+  "n": 282,
+  "subject": "Polity",
+  "q_hi": "मौलिक कर्तव्यों को संविधान में जोड़ने की सिफ़ारिश किस समिति ने की थी?",
+  "q_en": "Which committee recommended adding Fundamental Duties to the Constitution?",
+  "options": [
+   "सरकारिया समिति / Sarkaria Committee",
+   "बलवंत राय मेहता समिति / Balwant Rai Mehta Committee",
+   "अशोक मेहता समिति / Ashok Mehta Committee",
+   "स्वर्ण सिंह समिति / Swaran Singh Committee"
+  ],
+  "answer": 3,
+  "explanation": "स्वर्ण सिंह समिति (1976) की सिफ़ारिश पर 42वें संशोधन द्वारा भाग IV-A में 10 मौलिक कर्तव्य जोड़े गए; 2002 में 11वाँ कर्तव्य जुड़ा।"
+ },
+ {
+  "n": 283,
+  "subject": "Polity",
+  "q_hi": "राज्य के नीति निर्देशक तत्व (DPSP) संविधान के किस भाग में हैं?",
+  "q_en": "In which Part of the Constitution are the Directive Principles of State Policy (DPSP)?",
+  "options": [
+   "भाग III / Part III",
+   "भाग IV-A / Part IV-A",
+   "भाग IV / Part IV",
+   "भाग V / Part V"
+  ],
+  "answer": 2,
+  "explanation": "नीति निर्देशक तत्व भाग IV (अनुच्छेद 36–51) में हैं। ये आयरलैंड के संविधान से प्रेरित हैं और न्यायालय द्वारा प्रवर्तनीय नहीं हैं।"
+ },
+ {
+  "n": 284,
+  "subject": "Polity",
+  "q_hi": "समान नागरिक संहिता (Uniform Civil Code) का उल्लेख किस अनुच्छेद में है?",
+  "q_en": "The Uniform Civil Code is mentioned in which Article?",
+  "options": [
+   "अनुच्छेद 44 / Article 44",
+   "अनुच्छेद 40 / Article 40",
+   "अनुच्छेद 48 / Article 48",
+   "अनुच्छेद 51 / Article 51"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 44 (नीति निर्देशक तत्व) राज्य को सभी नागरिकों के लिए समान नागरिक संहिता लागू करने का प्रयास करने का निर्देश देता है।"
+ },
+ {
+  "n": 285,
+  "subject": "Polity",
+  "q_hi": "भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) का प्रावधान किस अनुच्छेद में है?",
+  "q_en": "The provision for the Comptroller and Auditor General (CAG) of India is in which Article?",
+  "options": [
+   "अनुच्छेद 76 / Article 76",
+   "अनुच्छेद 280 / Article 280",
+   "अनुच्छेद 148 / Article 148",
+   "अनुच्छेद 315 / Article 315"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 148 के तहत CAG की नियुक्ति होती है, जो संघ व राज्यों के लेखों की परीक्षा करता है और लोक धन का संरक्षक माना जाता है।"
+ },
+ {
+  "n": 286,
+  "subject": "Polity",
+  "q_hi": "CAG अपनी लेखा-परीक्षा रिपोर्ट किसे सौंपता है?",
+  "q_en": "To whom does the CAG submit his audit report?",
+  "options": [
+   "प्रधानमंत्री / Prime Minister",
+   "राष्ट्रपति / President",
+   "मुख्य न्यायाधीश / Chief Justice",
+   "लोकसभा अध्यक्ष / Lok Sabha Speaker"
+  ],
+  "answer": 1,
+  "explanation": "CAG संघ के लेखों संबंधी रिपोर्ट राष्ट्रपति को सौंपता है, जो उसे संसद के दोनों सदनों के समक्ष रखवाते हैं; लोक लेखा समिति इसकी जाँच करती है।"
+ },
+ {
+  "n": 287,
+  "subject": "Polity",
+  "q_hi": "संघ लोक सेवा आयोग (UPSC) का प्रावधान किस अनुच्छेद में है?",
+  "q_en": "The provision for the Union Public Service Commission (UPSC) is in which Article?",
+  "options": [
+   "अनुच्छेद 312 / Article 312",
+   "अनुच्छेद 320 / Article 320",
+   "अनुच्छेद 324 / Article 324",
+   "अनुच्छेद 315 / Article 315"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 315 के तहत संघ के लिए UPSC और राज्यों के लिए राज्य लोक सेवा आयोग का प्रावधान है। UPSC सिविल सेवाओं की परीक्षा आयोजित करता है।"
+ },
+ {
+  "n": 288,
+  "subject": "Polity",
+  "q_hi": "UPSC के अध्यक्ष को 'कदाचार' के आधार पर पद से कौन हटा सकता है?",
+  "q_en": "Who can remove the UPSC Chairman on the ground of 'misbehaviour'?",
+  "options": [
+   "राष्ट्रपति — सर्वोच्च न्यायालय की जाँच के बाद / President — after Supreme Court inquiry",
+   "प्रधानमंत्री / Prime Minister",
+   "संसद साधारण बहुमत से / Parliament by simple majority",
+   "मुख्य न्यायाधीश / Chief Justice"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 317 के तहत UPSC अध्यक्ष/सदस्य को कदाचार पर सर्वोच्च न्यायालय की जाँच-रिपोर्ट के बाद ही राष्ट्रपति हटा सकते हैं।"
+ },
+ {
+  "n": 289,
+  "subject": "Polity",
+  "q_hi": "मुख्य निर्वाचन आयुक्त को हटाने की प्रक्रिया किसके समान है?",
+  "q_en": "The procedure for removing the Chief Election Commissioner is the same as that for whom?",
+  "options": [
+   "राज्यपाल / Governor",
+   "राज्य के मंत्री / State Minister",
+   "सर्वोच्च न्यायालय के न्यायाधीश / Supreme Court Judge",
+   "लोकसभा अध्यक्ष / Lok Sabha Speaker"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 324(5) के अनुसार मुख्य निर्वाचन आयुक्त को उसी प्रक्रिया से हटाया जा सकता है जिससे सर्वोच्च न्यायालय के न्यायाधीश को — इससे आयोग की स्वतंत्रता सुनिश्चित होती है।"
+ },
+ {
+  "n": 290,
+  "subject": "Polity",
+  "q_hi": "पंचायत व नगरपालिका चुनावों हेतु राज्य निर्वाचन आयोग का प्रावधान किस अनुच्छेद में है?",
+  "q_en": "The provision for the State Election Commission (for Panchayat and Municipality elections) is in which Article?",
+  "options": [
+   "अनुच्छेद 243K / Article 243K",
+   "अनुच्छेद 324 / Article 324",
+   "अनुच्छेद 280 / Article 280",
+   "अनुच्छेद 243A / Article 243A"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 243K के तहत राज्य निर्वाचन आयुक्त पंचायतों व नगरपालिकाओं के चुनाव कराता है; संसद व विधानसभा चुनाव भारत निर्वाचन आयोग (अनु. 324) कराता है।"
+ },
+ {
+  "n": 291,
+  "subject": "Polity",
+  "q_hi": "चुनावों में NOTA (इनमें से कोई नहीं) का विकल्प भारत में कब शुरू हुआ?",
+  "q_en": "When was the NOTA (None of the Above) option introduced in Indian elections?",
+  "options": [
+   "2009 ई. / 2009 CE",
+   "2019 ई. / 2019 CE",
+   "2013 ई. / 2013 CE",
+   "2004 ई. / 2004 CE"
+  ],
+  "answer": 2,
+  "explanation": "सर्वोच्च न्यायालय के 2013 के निर्णय के बाद चुनावों में NOTA का बटन जोड़ा गया; पहली बार यह 2013 के विधानसभा चुनावों में प्रयुक्त हुआ।"
+ },
+ {
+  "n": 292,
+  "subject": "Polity",
+  "q_hi": "परिसीमन आयोग (Delimitation Commission) का मुख्य कार्य क्या है?",
+  "q_en": "What is the main function of the Delimitation Commission?",
+  "options": [
+   "मतदाता सूची बनाना / Prepare voter lists",
+   "चुनाव चिह्न आवंटित करना / Allot election symbols",
+   "उम्मीदवारों की जाँच करना / Scrutinise candidates",
+   "निर्वाचन क्षेत्रों की सीमाएँ पुनः तय करना / Redraw constituency boundaries"
+  ],
+  "answer": 3,
+  "explanation": "परिसीमन आयोग जनगणना के आंकड़ों के आधार पर लोकसभा व विधानसभा क्षेत्रों की सीमाएँ पुनः निर्धारित करता है ताकि प्रतिनिधित्व संतुलित रहे।"
+ },
+ {
+  "n": 293,
+  "subject": "Polity",
+  "q_hi": "संसद का सत्र न चलने पर राष्ट्रपति किस अनुच्छेद के तहत अध्यादेश जारी करते हैं?",
+  "q_en": "Under which Article does the President issue an ordinance when Parliament is not in session?",
+  "options": [
+   "अनुच्छेद 72 / Article 72",
+   "अनुच्छेद 123 / Article 123",
+   "अनुच्छेद 213 / Article 213",
+   "अनुच्छेद 143 / Article 143"
+  ],
+  "answer": 1,
+  "explanation": "अनुच्छेद 123 राष्ट्रपति को अध्यादेश जारी करने की शक्ति देता है; संसद की पुनः बैठक से छह सप्ताह के भीतर स्वीकृत न हो तो यह समाप्त हो जाता है। राज्यपाल हेतु अनुच्छेद 213 है।"
+ },
+ {
+  "n": 294,
+  "subject": "Polity",
+  "q_hi": "मंत्रिपरिषद सामूहिक रूप से किसके प्रति उत्तरदायी होती है?",
+  "q_en": "To whom is the Council of Ministers collectively responsible?",
+  "options": [
+   "लोकसभा / Lok Sabha",
+   "राष्ट्रपति / President",
+   "राज्यसभा / Rajya Sabha",
+   "सर्वोच्च न्यायालय / Supreme Court"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 75(3) के अनुसार मंत्रिपरिषद सामूहिक रूप से लोकसभा के प्रति उत्तरदायी होती है — अविश्वास प्रस्ताव पारित होने पर पूरी सरकार को इस्तीफ़ा देना पड़ता है।"
+ },
+ {
+  "n": 295,
+  "subject": "Polity",
+  "q_hi": "भारत के महान्यायवादी (Attorney General) का प्रावधान किस अनुच्छेद में है?",
+  "q_en": "The provision for the Attorney General of India is in which Article?",
+  "options": [
+   "अनुच्छेद 148 / Article 148",
+   "अनुच्छेद 280 / Article 280",
+   "अनुच्छेद 76 / Article 76",
+   "अनुच्छेद 324 / Article 324"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 76 के तहत राष्ट्रपति महान्यायवादी की नियुक्ति करते हैं — वे भारत सरकार के सर्वोच्च विधि अधिकारी होते हैं और संसद की कार्यवाही में भाग ले सकते हैं, किंतु मतदान नहीं कर सकते।"
+ },
+ {
+  "n": 296,
+  "subject": "Polity",
+  "q_hi": "राज्यपाल अपने पद पर कब तक रहता है?",
+  "q_en": "How long does a Governor hold office?",
+  "options": [
+   "निश्चित 6 वर्ष / Fixed 6 years",
+   "मुख्यमंत्री की इच्छा तक / Till the CM's wish",
+   "65 वर्ष की आयु तक / Till the age of 65",
+   "राष्ट्रपति के प्रसादपर्यंत / During the pleasure of the President"
+  ],
+  "answer": 3,
+  "explanation": "अनुच्छेद 156 के अनुसार राज्यपाल राष्ट्रपति के प्रसादपर्यंत पद धारण करता है; सामान्य कार्यकाल 5 वर्ष माना जाता है। नियुक्ति अनुच्छेद 155 से राष्ट्रपति करते हैं।"
+ },
+ {
+  "n": 297,
+  "subject": "Polity",
+  "q_hi": "राज्यसभा के सदस्यों का चुनाव कौन करता है?",
+  "q_en": "Who elects the members of the Rajya Sabha?",
+  "options": [
+   "सीधे जनता / People directly",
+   "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+   "राज्यपाल / Governors",
+   "लोकसभा सदस्य / Lok Sabha members"
+  ],
+  "answer": 1,
+  "explanation": "राज्यसभा सदस्य राज्यों की विधानसभाओं के निर्वाचित सदस्यों द्वारा आनुपातिक प्रतिनिधित्व (एकल संक्रमणीय मत) प्रणाली से चुने जाते हैं।"
+ },
+ {
+  "n": 298,
+  "subject": "Polity",
+  "q_hi": "संसद में 'प्रश्नकाल' सामान्यतः कब होता है?",
+  "q_en": "When is the 'Question Hour' usually held in Parliament?",
+  "options": [
+   "बैठक के अंतिम घंटे में / In the last hour of the sitting",
+   "दोपहर भोजन के तुरंत बाद / Right after lunch break",
+   "बैठक के प्रथम घंटे में / In the first hour of the sitting",
+   "केवल शुक्रवार को / Only on Fridays"
+  ],
+  "answer": 2,
+  "explanation": "प्रश्नकाल बैठक का पहला घंटा होता है, जिसमें सदस्य मंत्रियों से प्रश्न पूछते हैं; इसके तुरंत बाद बिना पूर्व सूचना का 'शून्यकाल' होता है।"
+ },
+ {
+  "n": 299,
+  "subject": "Polity",
+  "q_hi": "अविश्वास प्रस्ताव किस सदन में लाया जा सकता है?",
+  "q_en": "In which House can a No-Confidence Motion be moved?",
+  "options": [
+   "राज्यसभा में / In Rajya Sabha",
+   "केवल लोकसभा में / Only in Lok Sabha",
+   "दोनों सदनों में / In both Houses",
+   "विधानसभा में / In State Assembly"
+  ],
+  "answer": 1,
+  "explanation": "चूँकि मंत्रिपरिषद सामूहिक रूप से केवल लोकसभा के प्रति उत्तरदायी है, अविश्वास प्रस्ताव भी केवल लोकसभा में लाया जा सकता है।"
+ },
+ {
+  "n": 300,
+  "subject": "Polity",
+  "q_hi": "कोई विधेयक 'धन विधेयक' है या नहीं — इसका अंतिम निर्णय कौन करता है?",
+  "q_en": "Who takes the final decision on whether a bill is a Money Bill or not?",
+  "options": [
+   "लोकसभा अध्यक्ष / Lok Sabha Speaker",
+   "राष्ट्रपति / President",
+   "वित्त मंत्री / Finance Minister",
+   "राज्यसभा सभापति / Rajya Sabha Chairman"
+  ],
+  "answer": 0,
+  "explanation": "अनुच्छेद 110(3) के अनुसार धन विधेयक होने का प्रश्न उठने पर लोकसभा अध्यक्ष का निर्णय अंतिम होता है और वे इस पर प्रमाणपत्र देते हैं।"
+ },
+ {
+  "n": 301,
+  "subject": "Geography | Class 9",
+  "q_hi": "भारत का देशांतरीय विस्तार कितना है?",
+  "q_en": "The longitudinal extent of India is —",
+  "options": [
+   "68°7' पूर्व – 97°25' पूर्व / 68°7'E – 97°25'E",
+   "82°30' पूर्व – 90° पूर्व / 82°30'E – 90°E",
+   "8°4' पूर्व – 37°6' पूर्व / 8°4'E – 37°6'E",
+   "60° पूर्व – 97°25' पूर्व / 60°E – 97°25'E"
+  ],
+  "answer": 0,
+  "explanation": "भारत 68°7' पू. से 97°25' पू. देशांतर के बीच फैला है — इस विस्तार के कारण पूर्व व पश्चिम में समय का लगभग 2 घंटे का अंतर होता है।"
+ },
+ {
+  "n": 302,
+  "subject": "Geography | Class 9",
+  "q_hi": "कर्क रेखा भारत के कितने राज्यों से होकर गुज़रती है?",
+  "q_en": "Through how many Indian states does the Tropic of Cancer pass?",
+  "options": [
+   "5 राज्य / 5 states",
+   "8 राज्य / 8 states",
+   "10 राज्य / 10 states",
+   "6 राज्य / 6 states"
+  ],
+  "answer": 1,
+  "explanation": "कर्क रेखा गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा व मिज़ोरम — कुल 8 राज्यों से गुज़रती है।"
+ },
+ {
+  "n": 303,
+  "subject": "Geography | Class 9",
+  "q_hi": "द्वीप समूहों सहित भारत की कुल तटरेखा की लंबाई कितनी है?",
+  "q_en": "What is the total length of India's coastline including islands?",
+  "options": [
+   "6,100 किमी / 6100 km",
+   "9,000 किमी / 9000 km",
+   "7,516.6 किमी / 7516.6 km",
+   "5,400 किमी / 5400 km"
+  ],
+  "answer": 2,
+  "explanation": "भारत की तटरेखा द्वीप समूहों सहित 7,516.6 किमी है — मुख्य भूमि की तटरेखा लगभग 6,100 किमी लंबी है।"
+ },
+ {
+  "n": 304,
+  "subject": "Geography | Class 9",
+  "q_hi": "मैकमोहन रेखा किन दो देशों के बीच की सीमा रेखा है?",
+  "q_en": "The McMahon Line is the boundary between —",
+  "options": [
+   "भारत-नेपाल / India-Nepal",
+   "भारत-पाकिस्तान / India-Pakistan",
+   "भारत-बांग्लादेश / India-Bangladesh",
+   "भारत-चीन / India-China"
+  ],
+  "answer": 3,
+  "explanation": "मैकमोहन रेखा भारत (अरुणाचल प्रदेश) और चीन के बीच सीमा बनाती है — भारत-पाकिस्तान सीमा रैडक्लिफ़ रेखा कहलाती है।"
+ },
+ {
+  "n": 305,
+  "subject": "Geography | Class 9",
+  "q_hi": "हिमालय की सबसे ऊँची व सबसे सतत पर्वत श्रेणी कौन-सी है?",
+  "q_en": "The highest and most continuous range of the Himalayas is —",
+  "options": [
+   "महान हिमालय (हिमाद्रि) / Greater Himalaya (Himadri)",
+   "लघु हिमालय (हिमाचल) / Lesser Himalaya (Himachal)",
+   "शिवालिक / Shivalik",
+   "काराकोरम / Karakoram"
+  ],
+  "answer": 0,
+  "explanation": "महान हिमालय (हिमाद्रि) सबसे ऊँची श्रेणी है — एवरेस्ट व कंचनजंगा इसी में हैं और यह सदा हिम से ढकी रहती है।"
+ },
+ {
+  "n": 306,
+  "subject": "Geography | Class 9",
+  "q_hi": "'खादर' मिट्टी की मुख्य विशेषता क्या है?",
+  "q_en": "The main feature of 'Khadar' soil is that it —",
+  "options": [
+   "पुरानी जलोढ़ मिट्टी है / Is older alluvium",
+   "इसमें कंकर अधिक होते हैं / Has more kankar",
+   "हर वर्ष नवीनीकृत होती है और अधिक उपजाऊ है / Is renewed yearly and is more fertile",
+   "केवल पर्वतों पर मिलती है / Is found only in mountains"
+  ],
+  "answer": 2,
+  "explanation": "बाढ़ के मैदान की नई जलोढ़ मिट्टी खादर कहलाती है — हर वर्ष नवीनीकृत होने से यह बांगर की तुलना में अधिक उपजाऊ होती है।"
+ },
+ {
+  "n": 307,
+  "subject": "Geography | Class 9",
+  "q_hi": "दक्षिण भारत की सबसे ऊँची चोटी 'अनाइमुडी' किस पहाड़ी में स्थित है?",
+  "q_en": "Anaimudi, the highest peak of South India, is located in —",
+  "options": [
+   "नीलगिरी पहाड़ियाँ / Nilgiri Hills",
+   "अन्नामलाई पहाड़ियाँ / Anaimalai Hills",
+   "अरावली पहाड़ियाँ / Aravali Hills",
+   "कार्डमम पहाड़ियाँ / Cardamom Hills"
+  ],
+  "answer": 1,
+  "explanation": "अनाइमुडी (2,695 मीटर) अन्नामलाई पहाड़ियों में स्थित पश्चिमी घाट की सबसे ऊँची चोटी है — यह केरल में है।"
+ },
+ {
+  "n": 308,
+  "subject": "Geography | Class 9",
+  "q_hi": "थार मरुस्थल की प्रमुख नदी कौन-सी है?",
+  "q_en": "The main river of the Thar Desert is —",
+  "options": [
+   "घग्घर / Ghaggar",
+   "बानस / Banas",
+   "लूणी / Luni",
+   "साबरमती / Sabarmati"
+  ],
+  "answer": 2,
+  "explanation": "लूणी अरावली से निकलकर थार में बहती है — आगे चलकर इसका जल खारा हो जाता है और यह कच्छ के रण में विलीन हो जाती है।"
+ },
+ {
+  "n": 309,
+  "subject": "Geography | Class 9",
+  "q_hi": "तमिलनाडु का तटीय मैदान किस नाम से जाना जाता है?",
+  "q_en": "The coastal plain of Tamil Nadu is known as the —",
+  "options": [
+   "मालाबार तट / Malabar Coast",
+   "कोंकण तट / Konkan Coast",
+   "उत्तरी सरकार तट / Northern Circar Coast",
+   "कोरोमंडल तट / Coromandel Coast"
+  ],
+  "answer": 3,
+  "explanation": "पूर्वी तट का दक्षिणी भाग (तमिलनाडु तट) कोरोमंडल तट कहलाता है — मालाबार तट केरल का पश्चिमी तट है।"
+ },
+ {
+  "n": 310,
+  "subject": "Geography | Class 9",
+  "q_hi": "भारत का एकमात्र सक्रिय ज्वालामुखी कहाँ स्थित है?",
+  "q_en": "India's only active volcano is located at —",
+  "options": [
+   "बैरन द्वीप (अंडमान सागर) / Barren Island (Andaman Sea)",
+   "लक्षद्वीप / Lakshadweep",
+   "मिनिकॉय द्वीप / Minicoy Island",
+   "पंबन द्वीप / Pamban Island"
+  ],
+  "answer": 0,
+  "explanation": "अंडमान सागर में स्थित बैरन द्वीप भारत का एकमात्र सक्रिय ज्वालामुखी है — इसमें समय-समय पर विस्फोट होते रहते हैं।"
+ },
+ {
+  "n": 311,
+  "subject": "Geography | Class 9",
+  "q_hi": "भारत का दक्षिणतम बिंदु कौन-सा है?",
+  "q_en": "The southernmost point of India is —",
+  "options": [
+   "कन्याकुमारी / Kanyakumari",
+   "रामेश्वरम / Rameshwaram",
+   "इंदिरा पॉइंट / Indira Point",
+   "धनुषकोडी / Dhanushkodi"
+  ],
+  "answer": 2,
+  "explanation": "ग्रेट निकोबार द्वीप पर स्थित इंदिरा पॉइंट भारत का दक्षिणतम बिंदु है — 2004 की सुनामी में यह आंशिक रूप से डूब गया था।"
+ },
+ {
+  "n": 312,
+  "subject": "Geography | Class 9",
+  "q_hi": "गंगा की सबसे लंबी सहायक नदी कौन-सी है?",
+  "q_en": "The longest tributary of the Ganga is —",
+  "options": [
+   "घाघरा / Ghaghara",
+   "गंडक / Gandak",
+   "सोन / Son",
+   "यमुना / Yamuna"
+  ],
+  "answer": 3,
+  "explanation": "यमुना गंगा की सबसे लंबी सहायक नदी है — यह यमुनोत्री हिमनद से निकलकर प्रयागराज में गंगा से मिलती है।"
+ },
+ {
+  "n": 313,
+  "subject": "Geography | Class 9",
+  "q_hi": "किस नदी को 'बिहार का शोक' कहा जाता है?",
+  "q_en": "Which river is called the 'Sorrow of Bihar'?",
+  "options": [
+   "गंडक / Gandak",
+   "कोसी / Kosi",
+   "बागमती / Bagmati",
+   "सोन / Son"
+  ],
+  "answer": 1,
+  "explanation": "कोसी नदी बार-बार मार्ग बदलने और भयंकर बाढ़ लाने के कारण 'बिहार का शोक' कहलाती है — यह नेपाल से बिहार में प्रवेश करती है।"
+ },
+ {
+  "n": 314,
+  "subject": "Geography | Class 9",
+  "q_hi": "नर्मदा की भाँति अमरकंटक पठार से निकलने वाली दूसरी प्रमुख नदी कौन-सी है?",
+  "q_en": "Besides the Narmada, which major river also rises from the Amarkantak plateau?",
+  "options": [
+   "सोन / Son",
+   "चंबल / Chambal",
+   "बेतवा / Betwa",
+   "केन / Ken"
+  ],
+  "answer": 0,
+  "explanation": "सोन नदी अमरकंटक से निकलती है और पटना के निकट गंगा के दक्षिण तट से मिलती है — यह गंगा की प्रमुख दक्षिणी सहायक नदी है।"
+ },
+ {
+  "n": 315,
+  "subject": "Geography | Class 10",
+  "q_hi": "'बंगाल का शोक' किस नदी को कहा जाता है?",
+  "q_en": "Which river is called the 'Sorrow of Bengal'?",
+  "options": [
+   "महानंदा / Mahananda",
+   "दामोदर / Damodar",
+   "हुगली / Hooghly",
+   "स्वर्णरेखा / Subarnarekha"
+  ],
+  "answer": 1,
+  "explanation": "बार-बार आने वाली विनाशकारी बाढ़ों के कारण दामोदर को 'बंगाल का शोक' कहा जाता था — DVC परियोजना से बाढ़ पर काफ़ी नियंत्रण हुआ।"
+ },
+ {
+  "n": 316,
+  "subject": "Geography | Class 10",
+  "q_hi": "हीराकुड बांध किस नदी पर बनाया गया है?",
+  "q_en": "The Hirakud Dam is built on the river —",
+  "options": [
+   "गोदावरी / Godavari",
+   "कृष्णा / Krishna",
+   "महानदी / Mahanadi",
+   "कावेरी / Kaveri"
+  ],
+  "answer": 2,
+  "explanation": "ओडिशा में महानदी पर बना हीराकुड विश्व के सबसे लंबे बांधों में से एक है — इसका उद्देश्य बाढ़ नियंत्रण, सिंचाई व बिजली है।"
+ },
+ {
+  "n": 317,
+  "subject": "Geography | Class 10",
+  "q_hi": "टिहरी बांध किस नदी पर स्थित है?",
+  "q_en": "The Tehri Dam is located on the river —",
+  "options": [
+   "अलकनंदा / Alaknanda",
+   "भागीरथी / Bhagirathi",
+   "मंदाकिनी / Mandakini",
+   "यमुना / Yamuna"
+  ],
+  "answer": 1,
+  "explanation": "उत्तराखंड में भागीरथी नदी पर बना टिहरी बांध भारत का सबसे ऊँचा बांध है — यह भिलंगना नदी के संगम के निकट स्थित है।"
+ },
+ {
+  "n": 318,
+  "subject": "Geography | Class 10",
+  "q_hi": "जोग जलप्रपात किस नदी पर स्थित है?",
+  "q_en": "Jog Falls is situated on the river —",
+  "options": [
+   "शरावती / Sharavati",
+   "नेत्रावती / Netravati",
+   "काली / Kali",
+   "तुंगभद्रा / Tungabhadra"
+  ],
+  "answer": 0,
+  "explanation": "कर्नाटक में शरावती नदी पर स्थित जोग (गेरसोप्पा) जलप्रपात भारत के सबसे ऊँचे जलप्रपातों में गिना जाता है।"
+ },
+ {
+  "n": 319,
+  "subject": "Geography | Class 9",
+  "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन-सी है?",
+  "q_en": "The largest freshwater lake of India is —",
+  "options": [
+   "डल झील / Dal Lake",
+   "लोकटक झील / Loktak Lake",
+   "वुलर झील / Wular Lake",
+   "नक्की झील / Nakki Lake"
+  ],
+  "answer": 2,
+  "explanation": "जम्मू-कश्मीर की वुलर झील भारत की सबसे बड़ी मीठे पानी की झील है — झेलम नदी इससे होकर बहती है।"
+ },
+ {
+  "n": 320,
+  "subject": "Geography | Class 9",
+  "q_hi": "चिल्का झील के बारे में सही कथन कौन-सा है?",
+  "q_en": "Which statement about Chilika Lake is correct?",
+  "options": [
+   "यह मीठे पानी की झील है / It is a freshwater lake",
+   "यह भारत की सबसे बड़ी खारे पानी की लैगून झील है / It is India's largest brackish water lagoon",
+   "यह राजस्थान में है / It is in Rajasthan",
+   "यह एक कृत्रिम झील है / It is an artificial lake"
+  ],
+  "answer": 1,
+  "explanation": "ओडिशा तट पर स्थित चिल्का भारत की सबसे बड़ी खारे पानी की लैगून झील है — यह प्रवासी पक्षियों का प्रसिद्ध रामसर स्थल है।"
+ },
+ {
+  "n": 321,
+  "subject": "Geography | Class 9",
+  "q_hi": "ग्रीष्म ऋतु में उत्तर भारत में चलने वाली गर्म व शुष्क पवन को क्या कहते हैं?",
+  "q_en": "The hot and dry wind blowing over North India in summer is called —",
+  "options": [
+   "कालबैशाखी / Kalbaisakhi",
+   "मैंगो शावर / Mango shower",
+   "पश्चिमी विक्षोभ / Western disturbance",
+   "लू / Loo"
+  ],
+  "answer": 3,
+  "explanation": "मई-जून में दोपहर को चलने वाली अत्यंत गर्म व शुष्क पवन 'लू' कहलाती है — यह पंजाब से बिहार तक के मैदानी भाग में महसूस होती है।"
+ },
+ {
+  "n": 322,
+  "subject": "Geography | Class 9",
+  "q_hi": "'मैंगो शावर' पूर्व-मानसून वर्षा मुख्यतः किन राज्यों में होती है?",
+  "q_en": "Mango showers, the pre-monsoon rains, mainly occur in —",
+  "options": [
+   "पंजाब-हरियाणा / Punjab-Haryana",
+   "बिहार-झारखंड / Bihar-Jharkhand",
+   "केरल-कर्नाटक / Kerala-Karnataka",
+   "गुजरात-राजस्थान / Gujarat-Rajasthan"
+  ],
+  "answer": 2,
+  "explanation": "ग्रीष्म के अंत में केरल और तटीय कर्नाटक में होने वाली पूर्व-मानसून बौछारें आम को जल्दी पकाने में सहायक होती हैं।"
+ },
+ {
+  "n": 323,
+  "subject": "Geography | Class 9",
+  "q_hi": "दक्षिण-पश्चिम मानसून भारत में सबसे पहले किस राज्य के तट पर पहुँचता है?",
+  "q_en": "The South-West Monsoon first reaches the coast of which state in India?",
+  "options": [
+   "केरल / Kerala",
+   "तमिलनाडु / Tamil Nadu",
+   "कर्नाटक / Karnataka",
+   "गोवा / Goa"
+  ],
+  "answer": 0,
+  "explanation": "मानसून का आगमन सामान्यतः 1 जून के आसपास केरल तट से होता है — फिर यह धीरे-धीरे पूरे देश में फैलता है।"
+ },
+ {
+  "n": 324,
+  "subject": "Geography | Class 10",
+  "q_hi": "लैटेराइट मिट्टी बनने का मुख्य कारण क्या है?",
+  "q_en": "Laterite soil is formed mainly due to —",
+  "options": [
+   "ज्वालामुखी लावा / Volcanic lava",
+   "अधिक वर्षा में तीव्र निक्षालन (लीचिंग) / Intense leaching in heavy rainfall",
+   "नदी की बाढ़ / River floods",
+   "रेत का जमाव / Sand deposition"
+  ],
+  "answer": 1,
+  "explanation": "उच्च ताप व भारी वर्षा में निक्षालन से सिलिका बह जाती है और लैटेराइट मिट्टी बनती है — यह कर्नाटक, केरल व तमिलनाडु की पहाड़ियों में मिलती है।"
+ },
+ {
+  "n": 325,
+  "subject": "Geography | Class 10",
+  "q_hi": "भारत में सबसे अधिक क्षेत्र में फैली हुई मिट्टी कौन-सी है?",
+  "q_en": "The most widely spread soil in India is —",
+  "options": [
+   "काली मिट्टी / Black soil",
+   "लैटेराइट मिट्टी / Laterite soil",
+   "जलोढ़ मिट्टी / Alluvial soil",
+   "लाल मिट्टी / Red soil"
+  ],
+  "answer": 2,
+  "explanation": "जलोढ़ मिट्टी देश के लगभग 43% क्षेत्र में फैली है — उत्तर के मैदान व नदी घाटियों की यह सबसे उपजाऊ मिट्टी है।"
+ },
+ {
+  "n": 326,
+  "subject": "Geography | Class 9",
+  "q_hi": "भारत में सर्वाधिक क्षेत्र में फैले वन कौन-से हैं?",
+  "q_en": "The most widespread forests in India are —",
+  "options": [
+   "उष्णकटिबंधीय सदाबहार वन / Tropical evergreen forests",
+   "कंटीले वन / Thorn forests",
+   "मैंग्रोव वन / Mangrove forests",
+   "उष्णकटिबंधीय पर्णपाती (मानसूनी) वन / Tropical deciduous (monsoon) forests"
+  ],
+  "answer": 3,
+  "explanation": "मानसूनी (पर्णपाती) वन भारत में सबसे अधिक फैले हैं — 70–200 सेमी वर्षा वाले क्षेत्रों में ये शुष्क ऋतु में पत्ते गिरा देते हैं।"
+ },
+ {
+  "n": 327,
+  "subject": "Geography | Class 9",
+  "q_hi": "विश्व के सबसे बड़े मैंग्रोव वन कहाँ स्थित हैं?",
+  "q_en": "The largest mangrove forests of the world are located in —",
+  "options": [
+   "सुंदरबन डेल्टा / Sundarbans Delta",
+   "कच्छ की खाड़ी / Gulf of Kachchh",
+   "कावेरी डेल्टा / Kaveri Delta",
+   "अंडमान तट / Andaman coast"
+  ],
+  "answer": 0,
+  "explanation": "गंगा-ब्रह्मपुत्र डेल्टा में स्थित सुंदरबन विश्व का सबसे बड़ा मैंग्रोव वन है — यह रॉयल बंगाल टाइगर का प्रमुख आवास है।"
+ },
+ {
+  "n": 328,
+  "subject": "Geography | Class 9",
+  "q_hi": "गीर राष्ट्रीय उद्यान किस वन्य जीव के लिए प्रसिद्ध है?",
+  "q_en": "Gir National Park is famous for —",
+  "options": [
+   "एक सींग वाला गैंडा / One-horned rhino",
+   "एशियाई शेर / Asiatic lion",
+   "हिम तेंदुआ / Snow leopard",
+   "जंगली भैंसा / Wild buffalo"
+  ],
+  "answer": 1,
+  "explanation": "गुजरात का गीर एशियाई शेरों का एकमात्र प्राकृतिक आवास है — संरक्षण से यहाँ शेरों की संख्या लगातार बढ़ रही है।"
+ },
+ {
+  "n": 329,
+  "subject": "Geography | Class 9",
+  "q_hi": "काज़ीरंगा राष्ट्रीय उद्यान (असम) मुख्यतः किसके लिए प्रसिद्ध है?",
+  "q_en": "Kaziranga National Park (Assam) is mainly famous for —",
+  "options": [
+   "बंगाल टाइगर / Bengal tiger",
+   "हाथी / Elephants",
+   "एक सींग वाला गैंडा / One-horned rhinoceros",
+   "लाल पांडा / Red panda"
+  ],
+  "answer": 2,
+  "explanation": "ब्रह्मपुत्र के तट पर स्थित काज़ीरंगा में विश्व के दो-तिहाई से अधिक एक सींग वाले गैंडे पाए जाते हैं।"
+ },
+ {
+  "n": 330,
+  "subject": "Geography | Class 10",
+  "q_hi": "झरिया (झारखंड) किस खनिज के भंडारों के लिए प्रसिद्ध है?",
+  "q_en": "Jharia (Jharkhand) is famous for the deposits of —",
+  "options": [
+   "लौह अयस्क / Iron ore",
+   "कोयला / Coal",
+   "बॉक्साइट / Bauxite",
+   "ताँबा / Copper"
+  ],
+  "answer": 1,
+  "explanation": "झरिया भारत का प्रमुख कोयला क्षेत्र है — यहाँ उच्च गुणवत्ता का कोकिंग कोयला मिलता है; धनबाद को 'कोयला नगरी' कहते हैं।"
+ },
+ {
+  "n": 331,
+  "subject": "Geography | Class 10",
+  "q_hi": "बैलाडीला (छत्तीसगढ़) की खानें किस खनिज के लिए जानी जाती हैं?",
+  "q_en": "The Bailadila mines (Chhattisgarh) are known for —",
+  "options": [
+   "मैंगनीज़ / Manganese",
+   "सोना / Gold",
+   "लौह अयस्क / Iron ore",
+   "चूना पत्थर / Limestone"
+  ],
+  "answer": 2,
+  "explanation": "बैलाडीला से उच्च कोटि का हेमेटाइट लौह अयस्क मिलता है — इसका निर्यात विशाखापत्तनम बंदरगाह से जापान आदि देशों को होता है।"
+ },
+ {
+  "n": 332,
+  "subject": "Geography | Class 10",
+  "q_hi": "भारत का सबसे पुराना तेल क्षेत्र डिगबोई किस राज्य में है?",
+  "q_en": "Digboi, India's oldest oil field, is in the state of —",
+  "options": [
+   "असम / Assam",
+   "गुजरात / Gujarat",
+   "राजस्थान / Rajasthan",
+   "महाराष्ट्र / Maharashtra"
+  ],
+  "answer": 0,
+  "explanation": "असम का डिगबोई भारत का सबसे पुराना तेल क्षेत्र है — यहाँ 1901 में तेलशोधनी (रिफ़ाइनरी) भी स्थापित हुई थी।"
+ },
+ {
+  "n": 333,
+  "subject": "Geography | Class 10",
+  "q_hi": "भारत में पहली रेलगाड़ी (1853) किन दो स्थानों के बीच चली थी?",
+  "q_en": "The first train in India (1853) ran between —",
+  "options": [
+   "दिल्ली-आगरा / Delhi-Agra",
+   "मुंबई-ठाणे / Mumbai-Thane",
+   "कोलकाता-हावड़ा / Kolkata-Howrah",
+   "चेन्नई-अरकोणम / Chennai-Arakkonam"
+  ],
+  "answer": 1,
+  "explanation": "1853 में पहली ट्रेन मुंबई से ठाणे के बीच 34 किमी चली — यहीं से भारतीय रेल के इतिहास की शुरुआत हुई।"
+ },
+ {
+  "n": 334,
+  "subject": "Geography | Class 10",
+  "q_hi": "राष्ट्रीय जलमार्ग-1 (NW-1) किन दो स्थानों को जोड़ता है?",
+  "q_en": "National Waterway-1 (NW-1) connects —",
+  "options": [
+   "प्रयागराज-हल्दिया / Prayagraj-Haldia",
+   "दिल्ली-कानपुर / Delhi-Kanpur",
+   "पटना-कोलकाता / Patna-Kolkata",
+   "वाराणसी-बांग्लादेश / Varanasi-Bangladesh"
+  ],
+  "answer": 0,
+  "explanation": "NW-1 गंगा-भागीरथी-हुगली नदी तंत्र पर प्रयागराज से हल्दिया (1,620 किमी) तक है — यह भारत का सबसे लंबा जलमार्ग है।"
+ },
+ {
+  "n": 335,
+  "subject": "Geography | Class 10",
+  "q_hi": "स्वर्णिम चतुर्भुज (Golden Quadrilateral) किन चार महानगरों को जोड़ता है?",
+  "q_en": "The Golden Quadrilateral connects the four metros —",
+  "options": [
+   "दिल्ली-जयपुर-इंदौर-पुणे / Delhi-Jaipur-Indore-Pune",
+   "दिल्ली-मुंबई-चेन्नई-कोलकाता / Delhi-Mumbai-Chennai-Kolkata",
+   "दिल्ली-लखनऊ-पटना-कोलकाता / Delhi-Lucknow-Patna-Kolkata",
+   "मुंबई-पुणे-बेंगलुरु-चेन्नई / Mumbai-Pune-Bengaluru-Chennai"
+  ],
+  "answer": 1,
+  "explanation": "स्वर्णिम चतुर्भुज दिल्ली, मुंबई, चेन्नई और कोलकाता को उच्च-गुणवत्ता वाले राष्ट्रीय राजमार्गों से जोड़ने की परियोजना है।"
+ },
+ {
+  "n": 336,
+  "subject": "Geography | Class 9",
+  "q_hi": "जनगणना 2011 के अनुसार सबसे अधिक जनसंख्या घनत्व वाला राज्य कौन-सा है?",
+  "q_en": "As per Census 2011, the state with the highest population density is —",
+  "options": [
+   "पश्चिम बंगाल / West Bengal",
+   "केरल / Kerala",
+   "उत्तर प्रदेश / Uttar Pradesh",
+   "बिहार / Bihar"
+  ],
+  "answer": 3,
+  "explanation": "2011 में बिहार का जनघनत्व 1,106 व्यक्ति प्रति वर्ग किमी था — यह सभी राज्यों में सबसे अधिक है; अरुणाचल प्रदेश का सबसे कम (17) है।"
+ },
+ {
+  "n": 337,
+  "subject": "Geography | Bihar",
+  "q_hi": "बिहार का पहला रामसर स्थल घोषित 'काँवर झील' किस ज़िले में स्थित है?",
+  "q_en": "Kanwar Lake, Bihar's first Ramsar site, is located in which district?",
+  "options": [
+   "बेगूसराय / Begusarai",
+   "दरभंगा / Darbhanga",
+   "सारण / Saran",
+   "मधुबनी / Madhubani"
+  ],
+  "answer": 0,
+  "explanation": "बेगूसराय की काँवर झील बिहार की सबसे बड़ी गोखुर (ऑक्सबो) झील है — 2020 में इसे राज्य का पहला रामसर स्थल घोषित किया गया।"
+ },
+ {
+  "n": 338,
+  "subject": "Geography | Bihar",
+  "q_hi": "बिहार का एकमात्र बाघ अभयारण्य (टाइगर रिज़र्व) कौन-सा है?",
+  "q_en": "The only Tiger Reserve of Bihar is —",
+  "options": [
+   "राजगीर अभयारण्य / Rajgir Sanctuary",
+   "वाल्मीकि टाइगर रिज़र्व / Valmiki Tiger Reserve",
+   "कैमूर अभयारण्य / Kaimur Sanctuary",
+   "उदयपुर अभयारण्य / Udaipur Sanctuary"
+  ],
+  "answer": 1,
+  "explanation": "पश्चिमी चंपारण में गंडक नदी के किनारे स्थित वाल्मीकि राज्य का एकमात्र टाइगर रिज़र्व व राष्ट्रीय उद्यान है।"
+ },
+ {
+  "n": 339,
+  "subject": "Geography | Class 7",
+  "q_hi": "जल प्रवाह की मात्रा की दृष्टि से विश्व की सबसे बड़ी नदी कौन-सी है?",
+  "q_en": "In terms of water discharge, the largest river of the world is —",
+  "options": [
+   "नील / Nile",
+   "यांग्त्ज़ी / Yangtze",
+   "अमेज़न / Amazon",
+   "मिसिसिपी / Mississippi"
+  ],
+  "answer": 2,
+  "explanation": "दक्षिण अमेरिका की अमेज़न जल-प्रवाह की दृष्टि से विश्व की सबसे बड़ी नदी है — लंबाई में नील नदी सबसे आगे है।"
+ },
+ {
+  "n": 340,
+  "subject": "Geography | Class 7",
+  "q_hi": "विश्व की सबसे लंबी नदी कौन-सी है?",
+  "q_en": "The longest river of the world is —",
+  "options": [
+   "नील / Nile",
+   "अमेज़न / Amazon",
+   "यांग्त्ज़ी / Yangtze",
+   "मिसिसिपी / Mississippi"
+  ],
+  "answer": 0,
+  "explanation": "अफ़्रीका की नील नदी लगभग 6,650 किमी लंबी है — यह विश्व की सबसे लंबी नदी मानी जाती है।"
+ },
+ {
+  "n": 341,
+  "subject": "Science | Class 10",
+  "q_hi": "विद्युत धारा का SI मात्रक क्या है?",
+  "q_en": "The SI unit of electric current is —",
+  "options": [
+   "वोल्ट / Volt",
+   "वाट / Watt",
+   "एम्पीयर / Ampere",
+   "ओम / Ohm"
+  ],
+  "answer": 2,
+  "explanation": "विद्युत धारा का SI मात्रक एम्पीयर है — धारा मापने का यंत्र एमीटर कहलाता है, जो परिपथ में श्रेणी क्रम में जुड़ता है।"
+ },
+ {
+  "n": 342,
+  "subject": "Science | Class 10",
+  "q_hi": "बिजली के बिल में '1 यूनिट' से क्या तात्पर्य है?",
+  "q_en": "In an electricity bill, '1 unit' means —",
+  "options": [
+   "1 जूल / 1 Joule",
+   "1 किलोवाट-घंटा / 1 kilowatt hour",
+   "1 वाट / 1 Watt",
+   "1 किलोजूल / 1 kilojoule"
+  ],
+  "answer": 1,
+  "explanation": "1 यूनिट = 1 किलोवाट-घंटा (kWh) ऊर्जा होती है — यह 3.6 × 10⁶ जूल के बराबर है; घरेलू बिल इसी यूनिट से बनता है।"
+ },
+ {
+  "n": 343,
+  "subject": "Science | Class 8",
+  "q_hi": "ध्वनि निर्वात (वैक्यूम) में गमन क्यों नहीं कर सकती?",
+  "q_en": "Why can sound not travel through vacuum?",
+  "options": [
+   "निर्वात बहुत ठंडा होता है / Vacuum is too cold",
+   "ध्वनि केवल सीधी रेखा में जाती है / Sound travels only straight",
+   "ध्वनि को माध्यम के कणों की आवश्यकता होती है / Sound needs particles of a medium",
+   "निर्वात में गुरुत्व नहीं होता / There is no gravity in vacuum"
+  ],
+  "answer": 2,
+  "explanation": "ध्वनि एक यांत्रिक तरंग है — इसके संचरण के लिए ठोस, द्रव या गैस जैसा माध्यम अनिवार्य है; निर्वात में कोई कण नहीं होता।"
+ },
+ {
+  "n": 344,
+  "subject": "Science | Class 9",
+  "q_hi": "स्पष्ट प्रतिध्वनि (Echo) सुनने के लिए परावर्तक सतह से न्यूनतम दूरी कितनी होनी चाहिए?",
+  "q_en": "For a distinct echo, the minimum distance of the reflecting surface should be —",
+  "options": [
+   "1.7 मीटर / 1.7 m",
+   "10 मीटर / 10 m",
+   "34 मीटर / 34 m",
+   "17.2 मीटर / 17.2 m"
+  ],
+  "answer": 3,
+  "explanation": "ध्वनि का प्रभाव मस्तिष्क में लगभग 0.1 सेकंड रहता है — इसलिए स्पष्ट प्रतिध्वनि हेतु न्यूनतम दूरी लगभग 17.2 मीटर चाहिए।"
+ },
+ {
+  "n": 345,
+  "subject": "Science | Class 10",
+  "q_hi": "प्रिज़्म से गुज़रने पर सूर्य का प्रकाश सात रंगों में बँट जाता है — यह घटना कहलाती है —",
+  "q_en": "Splitting of sunlight into seven colours by a prism is called —",
+  "options": [
+   "वर्ण विक्षेपण / Dispersion",
+   "परावर्तन / Reflection",
+   "ध्रुवण / Polarisation",
+   "विवर्तन / Diffraction"
+  ],
+  "answer": 0,
+  "explanation": "प्रिज़्म में प्रत्येक रंग का अपवर्तन भिन्न होता है — श्वेत प्रकाश के इस विभाजन को वर्ण विक्षेपण और रंगों की पट्टी को स्पेक्ट्रम कहते हैं।"
+ },
+ {
+  "n": 346,
+  "subject": "Science | Class 10",
+  "q_hi": "वाहनों में पीछे देखने के लिए (रियर-व्यू मिरर) कौन-सा दर्पण लगाया जाता है?",
+  "q_en": "Which mirror is used as a rear-view mirror in vehicles?",
+  "options": [
+   "अवतल दर्पण / Concave mirror",
+   "समतल दर्पण / Plane mirror",
+   "परवलयिक दर्पण / Parabolic mirror",
+   "उत्तल दर्पण / Convex mirror"
+  ],
+  "answer": 3,
+  "explanation": "उत्तल दर्पण सीधा व छोटा प्रतिबिंब देते हुए विस्तृत क्षेत्र दिखाता है — इसलिए यह वाहनों के साइड मिरर के लिए उपयुक्त है।"
+ },
+ {
+  "n": 347,
+  "subject": "Science | Class 10",
+  "q_hi": "दूर दृष्टि दोष (Hypermetropia) में प्रतिबिंब कहाँ बनता है?",
+  "q_en": "In hypermetropia (far sight), the image is formed —",
+  "options": [
+   "रेटिना पर ठीक से / Exactly on the retina",
+   "रेटिना के आगे / In front of the retina",
+   "रेटिना के पीछे / Behind the retina",
+   "कॉर्निया पर / On the cornea"
+  ],
+  "answer": 2,
+  "explanation": "दूर दृष्टि दोष में प्रतिबिंब रेटिना के पीछे बनता है — उत्तल (अभिसारी) लेंस प्रकाश को अधिक मोड़कर इसे ठीक करता है।"
+ },
+ {
+  "n": 348,
+  "subject": "Science | Class 10",
+  "q_hi": "विद्युत मोटर किस ऊर्जा रूपांतरण पर कार्य करती है?",
+  "q_en": "An electric motor works on the conversion of —",
+  "options": [
+   "यांत्रिक ऊर्जा को विद्युत में / Mechanical to electrical",
+   "ऊष्मा को विद्युत में / Heat to electrical",
+   "विद्युत ऊर्जा को यांत्रिक में / Electrical to mechanical",
+   "प्रकाश को विद्युत में / Light to electrical"
+  ],
+  "answer": 2,
+  "explanation": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलती है — विद्युत जनित्र (डायनमो) इसका ठीक उल्टा कार्य करता है।"
+ },
+ {
+  "n": 349,
+  "subject": "Science | Class 9",
+  "q_hi": "सोडियम का रासायनिक प्रतीक 'Na' किस लैटिन नाम से लिया गया है?",
+  "q_en": "The symbol 'Na' of sodium is derived from the Latin name —",
+  "options": [
+   "नेट्रियम / Natrium",
+   "निकेलम / Niccolum",
+   "नोवम / Novum",
+   "न्यूट्रियम / Neutrium"
+  ],
+  "answer": 0,
+  "explanation": "सोडियम का प्रतीक Na उसके लैटिन नाम 'Natrium' से आया है — इसी प्रकार पोटेशियम का प्रतीक K 'Kalium' से लिया गया है।"
+ },
+ {
+  "n": 350,
+  "subject": "Science | Class 9",
+  "q_hi": "आवोगाद्रो संख्या (Avogadro Number) का मान कितना है?",
+  "q_en": "The value of Avogadro's number is —",
+  "options": [
+   "6.022 × 10²²",
+   "3.011 × 10²³",
+   "6.022 × 10²³",
+   "1.602 × 10⁻¹⁹"
+  ],
+  "answer": 2,
+  "explanation": "एक मोल पदार्थ में 6.022 × 10²³ कण (परमाणु या अणु) होते हैं — इसे आवोगाद्रो स्थिरांक कहते हैं।"
+ },
+ {
+  "n": 351,
+  "subject": "Science | Class 9",
+  "q_hi": "समस्थानिक (Isotopes) वे परमाणु होते हैं जिनमें —",
+  "q_en": "Isotopes are atoms having —",
+  "options": [
+   "प्रोटॉन समान, न्यूट्रॉन भिन्न / Same protons, different neutrons",
+   "न्यूट्रॉन समान, प्रोटॉन भिन्न / Same neutrons, different protons",
+   "प्रोटॉन व न्यूट्रॉन दोनों भिन्न / Both protons and neutrons different",
+   "इलेक्ट्रॉन नहीं होते / No electrons"
+  ],
+  "answer": 0,
+  "explanation": "समस्थानिकों का परमाणु क्रमांक (प्रोटॉन संख्या) समान परंतु द्रव्यमान संख्या भिन्न होती है — जैसे हाइड्रोजन के ¹H, ²H व ³H।"
+ },
+ {
+  "n": 352,
+  "subject": "Science | Class 9",
+  "q_hi": "पृथ्वी की भूपर्पटी (क्रस्ट) में सबसे अधिक मात्रा में पाया जाने वाला तत्त्व कौन-सा है?",
+  "q_en": "The most abundant element in the Earth's crust is —",
+  "options": [
+   "सिलिकॉन / Silicon",
+   "एल्युमिनियम / Aluminium",
+   "लोहा / Iron",
+   "ऑक्सीजन / Oxygen"
+  ],
+  "answer": 3,
+  "explanation": "भूपर्पटी में ऑक्सीजन लगभग 46.6% है — इसके बाद सिलिकॉन (27.7%) आता है; एल्युमिनियम सबसे अधिक पाई जाने वाली धातु है।"
+ },
+ {
+  "n": 353,
+  "subject": "Science | Class 10",
+  "q_hi": "कौन-सी अधातु कमरे के ताप पर द्रव अवस्था में पाई जाती है?",
+  "q_en": "Which non-metal is found in liquid state at room temperature?",
+  "options": [
+   "ब्रोमीन / Bromine",
+   "आयोडीन / Iodine",
+   "क्लोरीन / Chlorine",
+   "सल्फर / Sulphur"
+  ],
+  "answer": 0,
+  "explanation": "ब्रोमीन एकमात्र अधातु है जो सामान्य ताप पर द्रव होती है — धातुओं में मरकरी (पारा) द्रव अवस्था में पाई जाती है।"
+ },
+ {
+  "n": 354,
+  "subject": "Science | Class 10",
+  "q_hi": "पीतल (Brass) किन धातुओं की मिश्रधातु है?",
+  "q_en": "Brass is an alloy of —",
+  "options": [
+   "ताँबा + टिन / Copper + Tin",
+   "ताँबा + ज़िंक (जस्ता) / Copper + Zinc",
+   "लोहा + क्रोमियम / Iron + Chromium",
+   "सीसा + टिन / Lead + Tin"
+  ],
+  "answer": 1,
+  "explanation": "पीतल ताँबे और ज़िंक की मिश्रधातु है — ताँबा + टिन से कांस्य (Bronze) और सीसा + टिन से सोल्डर बनता है।"
+ },
+ {
+  "n": 355,
+  "subject": "Science | Class 10",
+  "q_hi": "सोडियम धातु को मिट्टी के तेल (केरोसीन) में क्यों रखा जाता है?",
+  "q_en": "Sodium metal is stored in kerosene because it —",
+  "options": [
+   "तेल में घुल जाती है / Dissolves in oil",
+   "चमकदार बनी रहती है / Keeps shining",
+   "हवा व नमी से तीव्र अभिक्रिया करती है / Reacts vigorously with air and moisture",
+   "इसका भार बढ़ जाता है / Gains weight"
+  ],
+  "answer": 2,
+  "explanation": "सोडियम अत्यंत क्रियाशील धातु है — हवा व नमी से तेज़ अभिक्रिया करके यह आग पकड़ सकती है, इसलिए केरोसीन में रखी जाती है।"
+ },
+ {
+  "n": 356,
+  "subject": "Science | Class 10",
+  "q_hi": "उदासीन (Neutral) विलयन का pH मान कितना होता है?",
+  "q_en": "The pH of a neutral solution is —",
+  "options": [
+   "0",
+   "1",
+   "14",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "pH पैमाना 0 से 14 तक होता है — 7 से कम मान अम्लीय, 7 उदासीन और 7 से अधिक मान क्षारकीय विलयन को दर्शाता है।"
+ },
+ {
+  "n": 357,
+  "subject": "Science | Class 10",
+  "q_hi": "अपच (एसिडिटी) में प्रयुक्त 'मिल्क ऑफ़ मैग्नीशिया' में कौन-सा क्षारक होता है?",
+  "q_en": "'Milk of Magnesia' used for indigestion contains —",
+  "options": [
+   "सोडियम हाइड्रॉक्साइड / Sodium hydroxide",
+   "मैग्नीशियम हाइड्रॉक्साइड / Magnesium hydroxide",
+   "अमोनियम हाइड्रॉक्साइड / Ammonium hydroxide",
+   "पोटेशियम हाइड्रॉक्साइड / Potassium hydroxide"
+  ],
+  "answer": 1,
+  "explanation": "मिल्क ऑफ़ मैग्नीशिया में मैग्नीशियम हाइड्रॉक्साइड होता है — यह पेट के अतिरिक्त अम्ल को उदासीन करके राहत देता है।"
+ },
+ {
+  "n": 358,
+  "subject": "Science | Class 10",
+  "q_hi": "धोने के सोडा (Washing Soda) का रासायनिक सूत्र क्या है?",
+  "q_en": "The chemical formula of washing soda is —",
+  "options": [
+   "NaHCO₃",
+   "Na₂CO₃·10H₂O",
+   "CaOCl₂",
+   "NaOH"
+  ],
+  "answer": 1,
+  "explanation": "धोने का सोडा सोडियम कार्बोनेट का हाइड्रेट (Na₂CO₃·10H₂O) है — यह काँच, साबुन व काग़ज़ उद्योगों में काम आता है।"
+ },
+ {
+  "n": 359,
+  "subject": "Science | Class 10",
+  "q_hi": "लोहे पर लगने वाला जंग (Rust) रासायनिक रूप से क्या है?",
+  "q_en": "Rust formed on iron is chemically —",
+  "options": [
+   "जलयोजित फेरिक ऑक्साइड / Hydrated ferric oxide",
+   "फेरस सल्फेट / Ferrous sulphate",
+   "कैल्शियम कार्बोनेट / Calcium carbonate",
+   "ज़िंक ऑक्साइड / Zinc oxide"
+  ],
+  "answer": 0,
+  "explanation": "जंग Fe₂O₃·xH₂O अर्थात् जलयोजित आयरन (III) ऑक्साइड है — यह नमी व ऑक्सीजन की उपस्थिति में धीरे-धीरे बनता है।"
+ },
+ {
+  "n": 360,
+  "subject": "Science | Class 10",
+  "q_hi": "'यशदीकरण' (Galvanisation) में लोहे पर किस धातु की परत चढ़ाई जाती है?",
+  "q_en": "In galvanisation, iron is coated with —",
+  "options": [
+   "ताँबा / Copper",
+   "एल्युमिनियम / Aluminium",
+   "ज़िंक (जस्ता) / Zinc",
+   "टिन / Tin"
+  ],
+  "answer": 2,
+  "explanation": "लोहे को जंग से बचाने हेतु उस पर ज़िंक की परत चढ़ाई जाती है — परत टूटने पर भी ज़िंक पहले स्वयं संक्षारित होकर लोहे की रक्षा करता है।"
+ },
+ {
+  "n": 361,
+  "subject": "Science | Class 8",
+  "q_hi": "रसोई गैस (LPG) का मुख्य घटक कौन-सी गैस है?",
+  "q_en": "The main component of LPG is —",
+  "options": [
+   "ब्यूटेन / Butane",
+   "मीथेन / Methane",
+   "कार्बन मोनोऑक्साइड / Carbon monoxide",
+   "हाइड्रोजन / Hydrogen"
+  ],
+  "answer": 0,
+  "explanation": "LPG मुख्यतः ब्यूटेन व प्रोपेन का मिश्रण है, जिसमें ब्यूटेन प्रमुख है — मीथेन CNG का मुख्य घटक होती है।"
+ },
+ {
+  "n": 362,
+  "subject": "Science | Class 8",
+  "q_hi": "किस किस्म के कोयले में कार्बन की मात्रा सबसे अधिक होती है?",
+  "q_en": "Which variety of coal has the highest carbon content?",
+  "options": [
+   "पीट / Peat",
+   "लिग्नाइट / Lignite",
+   "बिटुमिनस / Bituminous",
+   "एंथ्रासाइट / Anthracite"
+  ],
+  "answer": 3,
+  "explanation": "एंथ्रासाइट सर्वोत्तम कोयला है — इसमें लगभग 90% तक कार्बन होता है और यह सबसे अधिक ऊष्मा देता है; पीट में कार्बन सबसे कम होता है।"
+ },
+ {
+  "n": 363,
+  "subject": "Science | Class 7",
+  "q_hi": "भोजन का पूर्ण पाचन और पोषक तत्त्वों का अवशोषण मुख्यतः कहाँ होता है?",
+  "q_en": "Complete digestion and absorption of food mainly takes place in the —",
+  "options": [
+   "बड़ी आंत / Large intestine",
+   "आमाशय / Stomach",
+   "ग्रासनली / Oesophagus",
+   "छोटी आंत / Small intestine"
+  ],
+  "answer": 3,
+  "explanation": "छोटी आंत में पाचन पूर्ण होता है — इसकी भित्ति के अंगुलीनुमा उभार (विली) रक्त में पोषक तत्त्वों का अवशोषण करते हैं।"
+ },
+ {
+  "n": 364,
+  "subject": "Science | Class 7",
+  "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है?",
+  "q_en": "The largest gland of the human body is —",
+  "options": [
+   "अग्न्याशय / Pancreas",
+   "थायरॉइड / Thyroid",
+   "यकृत (लीवर) / Liver",
+   "पीयूष ग्रंथि / Pituitary gland"
+  ],
+  "answer": 2,
+  "explanation": "यकृत शरीर की सबसे बड़ी ग्रंथि है — इसका पित्त रस पित्ताशय में संचित रहता है और वसा के पाचन में सहायता करता है।"
+ },
+ {
+  "n": 365,
+  "subject": "Science | Class 10",
+  "q_hi": "मस्तिष्क का कौन-सा भाग हृदय गति, रक्तचाप व उल्टी जैसी अनैच्छिक क्रियाएँ नियंत्रित करता है?",
+  "q_en": "Which part of the brain controls involuntary actions like heartbeat, blood pressure and vomiting?",
+  "options": [
+   "प्रमस्तिष्क (सेरेब्रम) / Cerebrum",
+   "अनुमस्तिष्क (सेरेबेलम) / Cerebellum",
+   "मध्य मस्तिष्क / Mid brain",
+   "मेडुला / Medulla"
+  ],
+  "answer": 3,
+  "explanation": "पश्च मस्तिष्क का मेडुला भाग लार स्राव, उल्टी, रक्तचाप व हृदय गति जैसी अनैच्छिक क्रियाओं का नियंत्रण केंद्र है।"
+ },
+ {
+  "n": 366,
+  "subject": "Science | Class 10",
+  "q_hi": "वृक्क (किडनी) की संरचनात्मक व क्रियात्मक इकाई क्या है?",
+  "q_en": "The structural and functional unit of the kidney is —",
+  "options": [
+   "न्यूरॉन / Neuron",
+   "नेफ्रॉन / Nephron",
+   "एल्वियोलस / Alveolus",
+   "विलस / Villus"
+  ],
+  "answer": 1,
+  "explanation": "प्रत्येक वृक्क में लगभग दस लाख नेफ्रॉन होते हैं — यही रक्त छानकर मूत्र बनाने का वास्तविक कार्य करते हैं।"
+ },
+ {
+  "n": 367,
+  "subject": "Science | Class 10",
+  "q_hi": "इंसुलिन हार्मोन किस ग्रंथि से स्रावित होता है?",
+  "q_en": "Insulin hormone is secreted by the —",
+  "options": [
+   "अग्न्याशय / Pancreas",
+   "अधिवृक्क ग्रंथि / Adrenal gland",
+   "थायरॉइड / Thyroid",
+   "यकृत / Liver"
+  ],
+  "answer": 0,
+  "explanation": "अग्न्याशय की लैंगरहांस द्वीपिकाओं की बीटा कोशिकाएँ इंसुलिन बनाती हैं — इसकी कमी से मधुमेह (डायबिटीज़) रोग होता है।"
+ },
+ {
+  "n": 368,
+  "subject": "Science | Class 10",
+  "q_hi": "किस अंतःस्रावी ग्रंथि को 'मास्टर ग्रंथि' (Master Gland) कहा जाता है?",
+  "q_en": "Which endocrine gland is called the 'Master Gland'?",
+  "options": [
+   "थायरॉइड / Thyroid",
+   "अधिवृक्क / Adrenal",
+   "अग्न्याशय / Pancreas",
+   "पीयूष ग्रंथि (पिट्यूटरी) / Pituitary gland"
+  ],
+  "answer": 3,
+  "explanation": "पीयूष ग्रंथि वृद्धि हार्मोन स्रावित करने के साथ अन्य ग्रंथियों के कार्य को भी नियंत्रित करती है — अतः इसे मास्टर ग्रंथि कहते हैं।"
+ },
+ {
+  "n": 369,
+  "subject": "Science | Class 8",
+  "q_hi": "दलहनी पौधों की जड़ ग्रंथियों में रहकर नाइट्रोजन स्थिरीकरण करने वाला जीवाणु कौन-सा है?",
+  "q_en": "The bacterium that fixes nitrogen in the root nodules of leguminous plants is —",
+  "options": [
+   "लैक्टोबैसिलस / Lactobacillus",
+   "एज़ोटोबैक्टर / Azotobacter",
+   "राइज़ोबियम / Rhizobium",
+   "ई. कोलाई / E. coli"
+  ],
+  "answer": 2,
+  "explanation": "राइज़ोबियम दलहनी फ़सलों की जड़ ग्रंथियों में रहता है — यह वायुमंडलीय नाइट्रोजन को पौधों के उपयोग योग्य रूप में बदलता है।"
+ },
+ {
+  "n": 370,
+  "subject": "Science | Class 8",
+  "q_hi": "मलेरिया रोग किस सूक्ष्मजीव से होता है और यह किससे फैलता है?",
+  "q_en": "Malaria is caused by which microbe and spread by —",
+  "options": [
+   "वायरस — क्यूलेक्स मच्छर / Virus – Culex mosquito",
+   "जीवाणु — घरेलू मक्खी / Bacteria – Housefly",
+   "प्रोटोज़ोआ (प्लाज़्मोडियम) — मादा एनोफ़ेलीज़ / Protozoa (Plasmodium) – Female Anopheles",
+   "कवक — एडीज़ मच्छर / Fungus – Aedes mosquito"
+  ],
+  "answer": 2,
+  "explanation": "मलेरिया प्लाज़्मोडियम नामक प्रोटोज़ोआ से होता है और मादा एनोफ़ेलीज़ मच्छर इसका वाहक है — डेंगू एडीज़ मच्छर से फैलता है।"
+ },
+ {
+  "n": 371,
+  "subject": "Science | Class 8",
+  "q_hi": "पहली प्रतिजैविक (एंटीबायोटिक) पेनिसिलिन की खोज किसने की थी?",
+  "q_en": "The first antibiotic, penicillin, was discovered by —",
+  "options": [
+   "लुई पाश्चर / Louis Pasteur",
+   "एडवर्ड जेनर / Edward Jenner",
+   "रॉबर्ट कोच / Robert Koch",
+   "अलेक्ज़ेंडर फ्लेमिंग / Alexander Fleming"
+  ],
+  "answer": 3,
+  "explanation": "1928 में अलेक्ज़ेंडर फ्लेमिंग ने पेनिसिलियम कवक से पेनिसिलिन की खोज की — यह पहली प्रतिजैविक औषधि थी।"
+ },
+ {
+  "n": 372,
+  "subject": "Science | Class 8",
+  "q_hi": "जल की सबसे अधिक बचत करने वाली सिंचाई विधि कौन-सी है?",
+  "q_en": "The irrigation method that saves the maximum water is —",
+  "options": [
+   "नहर सिंचाई / Canal irrigation",
+   "फ़व्वारा सिंचाई / Sprinkler irrigation",
+   "बूंद-बूंद (ड्रिप) सिंचाई / Drip irrigation",
+   "बाढ़ सिंचाई / Flood irrigation"
+  ],
+  "answer": 2,
+  "explanation": "ड्रिप सिंचाई में जल बूंद-बूंद करके सीधे पौधों की जड़ों तक पहुँचता है — वाष्पीकरण से क्षति न्यूनतम होती है।"
+ },
+ {
+  "n": 373,
+  "subject": "Science | Class 10",
+  "q_hi": "तारे टिमटिमाते क्यों दिखाई देते हैं?",
+  "q_en": "Stars appear to twinkle due to —",
+  "options": [
+   "प्रकाश के प्रकीर्णन से / Scattering of light",
+   "वायुमंडलीय अपवर्तन से / Atmospheric refraction",
+   "तारों की चमक घटती-बढ़ती रहती है / Stars keep changing brightness",
+   "चंद्रमा के प्रकाश से / Moonlight"
+  ],
+  "answer": 1,
+  "explanation": "तारों का प्रकाश कई वायुमंडलीय परतों से अपवर्तित होता है — पथ के निरंतर बदलाव से वे टिमटिमाते प्रतीत होते हैं; ग्रह नहीं टिमटिमाते।"
+ },
+ {
+  "n": 374,
+  "subject": "Science | Class 6",
+  "q_hi": "सौरमंडल का सबसे गर्म ग्रह कौन-सा है?",
+  "q_en": "The hottest planet of the Solar System is —",
+  "options": [
+   "बुध / Mercury",
+   "मंगल / Mars",
+   "शुक्र / Venus",
+   "बृहस्पति / Jupiter"
+  ],
+  "answer": 2,
+  "explanation": "शुक्र के घने CO₂ वायुमंडल का ग्रीनहाउस प्रभाव उसे सबसे गर्म (लगभग 464°C) बनाता है — सूर्य के सबसे निकट बुध भी इससे ठंडा है।"
+ },
+ {
+  "n": 375,
+  "subject": "Science | Class 9",
+  "q_hi": "चलती बस के अचानक रुकने पर यात्री आगे की ओर झुक जाते हैं — यह किसका उदाहरण है?",
+  "q_en": "Passengers fall forward when a moving bus stops suddenly — this is an example of —",
+  "options": [
+   "गुरुत्वाकर्षण / Gravitation",
+   "घर्षण / Friction",
+   "जड़त्व / Inertia",
+   "अपकेंद्रीय बल / Centrifugal force"
+  ],
+  "answer": 2,
+  "explanation": "शरीर का निचला भाग बस के साथ रुक जाता है, पर ऊपरी भाग गति के जड़त्व से आगे बढ़ता रहता है — यही न्यूटन का प्रथम नियम दर्शाता है।"
+ },
+ {
+  "n": 376,
+  "subject": "Economics | Class 9",
+  "q_hi": "उत्पादन के लिए आवश्यक चार कारक (आवश्यकताएँ) कौन-से हैं?",
+  "q_en": "The four requirements for production of goods and services are —",
+  "options": [
+   "भूमि, श्रम, भौतिक पूंजी, मानव पूंजी / Land, labour, physical capital, human capital",
+   "केवल भूमि व श्रम / Only land and labour",
+   "बैंक, बाज़ार, सरकार, किसान / Bank, market, government, farmer",
+   "मशीन, बिजली, सड़क, पानी / Machine, electricity, road, water"
+  ],
+  "answer": 0,
+  "explanation": "उत्पादन हेतु भूमि, श्रम, भौतिक पूंजी (औज़ार-मशीन व धन) और मानव पूंजी (ज्ञान-कौशल) चाहिए — यह पालमपुर गाँव के अध्ययन में बताया गया है।"
+ },
+ {
+  "n": 377,
+  "subject": "Economics | Class 9",
+  "q_hi": "'बहुफ़सली खेती' (Multiple Cropping) का अर्थ है —",
+  "q_en": "'Multiple cropping' means —",
+  "options": [
+   "केवल एक फ़सल बार-बार उगाना / Growing one crop repeatedly",
+   "एक वर्ष में एक ही खेत में एक से अधिक फ़सलें / More than one crop on same land in a year",
+   "कई खेतों में एक ही फ़सल उगाना / One crop in many fields",
+   "बिना सिंचाई के खेती करना / Farming without irrigation"
+  ],
+  "answer": 1,
+  "explanation": "सिंचाई की सुविधा से पालमपुर के किसान एक ही खेत में वर्ष में दो-तीन फ़सलें उगाते हैं — यही बहुफ़सली खेती उत्पादन बढ़ाने का एक तरीका है।"
+ },
+ {
+  "n": 378,
+  "subject": "Economics | Class 9",
+  "q_hi": "हरित क्रांति में उत्पादन बढ़ाने का मुख्य आधार क्या था?",
+  "q_en": "The Green Revolution mainly relied on —",
+  "options": [
+   "अधिक भूमि पर खेती / Bringing more land under farming",
+   "उच्च उपज वाली (HYV) बीज किस्में / High Yielding Variety (HYV) seeds",
+   "केवल जैविक खाद / Only organic manure",
+   "मज़दूरों की संख्या बढ़ाना / Increasing labourers"
+  ],
+  "answer": 1,
+  "explanation": "HYV बीज, रासायनिक उर्वरक व सिंचाई से गेहूँ-चावल का उत्पादन तेज़ी से बढ़ा — पंजाब, हरियाणा व पश्चिमी उ.प्र. सबसे पहले लाभान्वित हुए।"
+ },
+ {
+  "n": 379,
+  "subject": "Economics | Class 9",
+  "q_hi": "अल्पपोषण ज्ञात करने हेतु प्रयुक्त 'BMI' कैसे निकाला जाता है?",
+  "q_en": "BMI, used to find undernourishment, is calculated as —",
+  "options": [
+   "ऊँचाई ÷ भार / Height ÷ Weight",
+   "भार × ऊँचाई / Weight × Height",
+   "भार ÷ आयु / Weight ÷ Age",
+   "भार (किग्रा) ÷ ऊँचाई² (मीटर) / Weight (kg) ÷ Height² (m)"
+  ],
+  "answer": 3,
+  "explanation": "BMI = भार (किग्रा) भागा ऊँचाई का वर्ग (मीटर में) — यदि मान 18.5 से कम हो तो व्यक्ति अल्पपोषित माना जाता है।"
+ },
+ {
+  "n": 380,
+  "subject": "Economics | Class 10",
+  "q_hi": "निम्नलिखित में से प्राथमिक क्षेत्रक (Primary Sector) की गतिविधि कौन-सी है?",
+  "q_en": "Which of the following is an activity of the Primary Sector?",
+  "options": [
+   "कपड़ा बुनना / Weaving cloth",
+   "बैंकिंग सेवा / Banking service",
+   "मछली पकड़ना / Fishing",
+   "परिवहन सेवा / Transport service"
+  ],
+  "answer": 2,
+  "explanation": "प्राथमिक क्षेत्रक प्राकृतिक संसाधनों का प्रत्यक्ष उपयोग करता है — कृषि, मछली पालन व खनन इसके उदाहरण हैं; इसे कृषि एवं सहायक क्षेत्र भी कहते हैं।"
+ },
+ {
+  "n": 381,
+  "subject": "Economics | Class 10",
+  "q_hi": "द्वितीयक क्षेत्रक (Secondary Sector) की मुख्य क्रिया क्या है?",
+  "q_en": "The main activity of the Secondary Sector is —",
+  "options": [
+   "प्राकृतिक उत्पादों का विनिर्माण करना / Manufacturing of natural products",
+   "केवल सेवाएँ प्रदान करना / Providing only services",
+   "केवल व्यापार करना / Only trading",
+   "केवल कृषि करना / Only farming"
+  ],
+  "answer": 0,
+  "explanation": "द्वितीयक क्षेत्रक में उद्योगों द्वारा प्राथमिक उत्पाद बदले जाते हैं — जैसे गन्ने से चीनी और कपास से धागा व कपड़ा बनाना।"
+ },
+ {
+  "n": 382,
+  "subject": "Economics | Class 10",
+  "q_hi": "भारत के GDP में सबसे बड़ा योगदान किस क्षेत्रक का होता है?",
+  "q_en": "Which sector contributes the most to India's GDP?",
+  "options": [
+   "प्राथमिक क्षेत्रक / Primary sector",
+   "द्वितीयक क्षेत्रक / Secondary sector",
+   "तीनों का बराबर योगदान है / All contribute equally",
+   "तृतीयक (सेवा) क्षेत्रक / Tertiary (service) sector"
+  ],
+  "answer": 3,
+  "explanation": "सेवा क्षेत्रक GDP में आधे से अधिक का योगदान देता है — परंतु रोज़गार में आज भी सबसे अधिक लोग प्राथमिक क्षेत्रक में लगे हैं।"
+ },
+ {
+  "n": 383,
+  "subject": "Economics | Class 10",
+  "q_hi": "GDP की गणना में केवल 'अंतिम वस्तुएँ व सेवाएँ' ही क्यों गिनी जाती हैं?",
+  "q_en": "Why are only 'final goods and services' counted in GDP?",
+  "options": [
+   "वे अधिक महँगी होती हैं / They are costlier",
+   "मध्यवर्ती वस्तुएँ गिनने से दोहरी गणना हो जाएगी / Counting intermediates would cause double counting",
+   "वे केवल निर्यात के लिए होती हैं / They are meant for export only",
+   "मध्यवर्ती वस्तुएँ बिकती नहीं हैं / Intermediates are not sold"
+  ],
+  "answer": 1,
+  "explanation": "मध्यवर्ती वस्तुओं का मूल्य अंतिम वस्तु में पहले से शामिल होता है — दोनों गिनने से GDP बढ़ा-चढ़ाकर दिखेगा।"
+ },
+ {
+  "n": 384,
+  "subject": "Economics | Class 10",
+  "q_hi": "NCERT के अनुसार भारत में GDP का आकलन करने का कार्य किस संस्था का है?",
+  "q_en": "According to NCERT, GDP estimation in India is done by —",
+  "options": [
+   "भारतीय रिज़र्व बैंक / RBI",
+   "योजना आयोग / Planning Commission",
+   "वित्त आयोग / Finance Commission",
+   "केंद्रीय सांख्यिकी कार्यालय (CSO) / Central Statistical Office (CSO)"
+  ],
+  "answer": 3,
+  "explanation": "केंद्र सरकार का केंद्रीय सांख्यिकी कार्यालय सभी क्षेत्रकों के उत्पादन का मूल्य जोड़कर GDP का आकलन करता है।"
+ },
+ {
+  "n": 385,
+  "subject": "Economics | Class 10",
+  "q_hi": "संगठित क्षेत्रक (Organised Sector) की पहचान क्या है?",
+  "q_en": "The organised sector is identified by —",
+  "options": [
+   "नौकरी की सुरक्षा व नियमित वेतन जैसे लाभ / Job security and benefits like regular salary",
+   "कोई नियम लागू नहीं होता / No rules are followed",
+   "केवल मौसमी काम मिलता है / Only seasonal work",
+   "केवल दैनिक नकद मज़दूरी मिलती है / Only daily cash wages"
+  ],
+  "answer": 0,
+  "explanation": "संगठित क्षेत्रक सरकार के नियमों के तहत पंजीकृत होता है — कर्मचारियों को नियत कार्यकाल, अवकाश व भविष्य निधि (PF) जैसी सुविधाएँ मिलती हैं।"
+ },
+ {
+  "n": 386,
+  "subject": "Economics | Class 10",
+  "q_hi": "सार्वजनिक क्षेत्रक (Public Sector) का मुख्य उद्देश्य क्या होता है?",
+  "q_en": "The main aim of the Public Sector is —",
+  "options": [
+   "केवल लाभ कमाना / Only earning profit",
+   "जन-कल्याण / Public welfare",
+   "निर्यात बढ़ाना / Increasing exports",
+   "निजी कंपनियों से प्रतिस्पर्धा करना / Competing with private companies"
+  ],
+  "answer": 1,
+  "explanation": "रेलवे व AIIMS जैसे सार्वजनिक उपक्रमों में सरकार स्वामी होती है और उद्देश्य लाभ से अधिक समाज कल्याण व आवश्यक सेवा देना होता है।"
+ },
+ {
+  "n": 387,
+  "subject": "Economics | Class 10",
+  "q_hi": "वस्तु-विनिमय (Barter) प्रणाली की सबसे बड़ी कठिनाई क्या है?",
+  "q_en": "The biggest difficulty of the barter system is —",
+  "options": [
+   "वस्तुएँ भारी होती हैं / Goods are heavy",
+   "आवश्यकताओं का दोहरा संयोग चाहिए / It needs double coincidence of wants",
+   "लोग व्यापार नहीं करते / People do not trade",
+   "मूल्य बहुत अधिक होता है / Prices are very high"
+  ],
+  "answer": 1,
+  "explanation": "विनिमय तभी संभव है जब दोनों पक्ष एक-दूसरे की ही वस्तु चाहें — मुद्रा ने 'आवश्यकताओं के दोहरे संयोग' की इस कठिनाई को दूर किया।"
+ },
+ {
+  "n": 388,
+  "subject": "Economics | Class 10",
+  "q_hi": "औपचारिक ऋण स्रोतों (बैंकों आदि) की कार्यप्रणाली पर नज़र कौन रखता है?",
+  "q_en": "The functioning of formal sources of loans (banks etc.) is supervised by —",
+  "options": [
+   "वित्त मंत्रालय / Finance Ministry",
+   "सेबी / SEBI",
+   "राज्य सरकार / State Government",
+   "भारतीय रिज़र्व बैंक / RBI"
+  ],
+  "answer": 3,
+  "explanation": "RBI यह सुनिश्चित करता है कि बैंक केवल लाभ कमाने वालों को नहीं, बल्कि छोटे किसानों व छोटे उद्यमियों को भी उचित दर पर ऋण दें।"
+ },
+ {
+  "n": 389,
+  "subject": "Economics | Class 10",
+  "q_hi": "'ऋण का जाल' (Debt Trap) किस स्थिति को कहते हैं?",
+  "q_en": "'Debt trap' refers to a situation where —",
+  "options": [
+   "कम ब्याज़ पर ऋण मिलता है / Loan is available at low interest",
+   "ऋण उधारकर्ता की स्थिति बदतर कर देता है / Credit pushes borrower into worse situation",
+   "बैंक ऋण अस्वीकार कर देता है / Bank rejects the loan",
+   "ऋण समय पर चुका दिया जाता है / Loan is repaid on time"
+  ],
+  "answer": 1,
+  "explanation": "फ़सल बर्बाद होने पर किसान ऋण चुकाने हेतु और ऋण लेता है — ब्याज़ बढ़ता जाता है और वह ऋण के जाल में फँसता चला जाता है।"
+ },
+ {
+  "n": 390,
+  "subject": "Economics | Class 10",
+  "q_hi": "बहुराष्ट्रीय कंपनी (MNC) से क्या तात्पर्य है?",
+  "q_en": "A Multinational Corporation (MNC) is a company that —",
+  "options": [
+   "केवल निर्यात करती है / Only exports goods",
+   "एक से अधिक देशों में उत्पादन पर नियंत्रण रखती है / Controls production in more than one country",
+   "सरकार के स्वामित्व में होती है / Is owned by the government",
+   "केवल सेवाएँ देती है / Provides only services"
+  ],
+  "answer": 1,
+  "explanation": "MNC अपने कारख़ाने व कार्यालय कई देशों में स्थापित करती है — जहाँ सस्ता श्रम व संसाधन उपलब्ध होते हैं, ताकि लागत घटे और लाभ बढ़े।"
+ },
+ {
+  "n": 391,
+  "subject": "Economics | Class 10",
+  "q_hi": "विदेश व्यापार का मुख्य परिणाम क्या होता है?",
+  "q_en": "The main result of foreign trade is that —",
+  "options": [
+   "बाज़ार अलग-थलग रहते हैं / Markets remain isolated",
+   "उत्पादक केवल घरेलू बाज़ार तक सीमित रहते हैं / Producers remain limited to domestic market",
+   "विभिन्न देशों के बाज़ार आपस में जुड़ जाते हैं / Markets of different countries integrate",
+   "कीमतें हमेशा घटती हैं / Prices always decrease"
+  ],
+  "answer": 2,
+  "explanation": "विदेश व्यापार उत्पादकों को घरेलू बाज़ार से बाहर पहुँचने व प्रतिस्पर्धा का अवसर देता है — इससे देशों के बाज़ारों का एकीकरण होता है।"
+ },
+ {
+  "n": 392,
+  "subject": "Economics | Class 10",
+  "q_hi": "'व्यापार अवरोधक' (Trade Barrier) का प्रमुख उदाहरण क्या है?",
+  "q_en": "A major example of a 'trade barrier' is —",
+  "options": [
+   "आयात पर लगने वाला कर / Tax on imports",
+   "मुक्त व्यापार समझौता / Free trade agreement",
+   "बंदरगाह का निर्माण / Building a port",
+   "विदेशी निवेश को आमंत्रित करना / Inviting foreign investment"
+  ],
+  "answer": 0,
+  "explanation": "सरकार आयात पर कर लगाकर विदेशी वस्तुएँ महँगी कर सकती है — इससे घरेलू उत्पादकों की रक्षा होती है; यही व्यापार अवरोधक कहलाता है।"
+ },
+ {
+  "n": 393,
+  "subject": "Economics | Class 10",
+  "q_hi": "विश्व व्यापार संगठन (WTO) की स्थापना का वर्ष और उद्देश्य क्या है?",
+  "q_en": "WTO was set up in which year and with what aim?",
+  "options": [
+   "1947 — विश्व शांति स्थापित करना / 1947 – Establish world peace",
+   "1995 — अंतर्राष्ट्रीय व्यापार का उदारीकरण / 1995 – Liberalise international trade",
+   "2000 — मुद्रा स्थिरता बनाए रखना / 2000 – Maintain currency stability",
+   "1991 — विदेशी सहायता देना / 1991 – Provide foreign aid"
+  ],
+  "answer": 1,
+  "explanation": "WTO की स्थापना 1995 में हुई — यह देशों के बीच व्यापार के नियम बनाकर अंतर्राष्ट्रीय व्यापार को उदार बनाने का प्रयास करता है; मुख्यालय जिनेवा में है।"
+ },
+ {
+  "n": 394,
+  "subject": "Economics | Class 10",
+  "q_hi": "विशेष आर्थिक क्षेत्र (SEZ) में इकाइयों को कौन-सी मुख्य सुविधा मिलती है?",
+  "q_en": "The main facility provided to units in a Special Economic Zone (SEZ) is —",
+  "options": [
+   "श्रमिकों को मुफ़्त मकान / Free houses to workers",
+   "प्रारंभिक वर्षों में कर छूट व अच्छी सुविधाएँ / Tax holiday and good facilities initially",
+   "केवल कृषि की अनुमति / Only agriculture is allowed",
+   "बिजली-पानी की कोई सुविधा नहीं / No power and water facility"
+  ],
+  "answer": 1,
+  "explanation": "SEZ में सरकार बिजली, पानी, सड़क, परिवहन व कर-छूट जैसी सुविधाएँ देती है ताकि विदेशी कंपनियाँ निवेश के लिए आकर्षित हों।"
+ },
+ {
+  "n": 395,
+  "subject": "Economics | Class 10",
+  "q_hi": "टाटा मोटर्स द्वारा जगुआर-लैंड रोवर (ब्रिटेन) का अधिग्रहण किसका उदाहरण है?",
+  "q_en": "Tata Motors' acquisition of Jaguar-Land Rover (UK) is an example of —",
+  "options": [
+   "निजीकरण का / Privatisation",
+   "भारतीय कंपनी का बहुराष्ट्रीय विस्तार / An Indian company expanding as an MNC",
+   "राष्ट्रीयकरण का / Nationalisation",
+   "वैश्वीकरण विरोध का / Opposition to globalisation"
+  ],
+  "answer": 1,
+  "explanation": "टाटा मोटर्स व इंफ़ोसिस जैसी भारतीय कंपनियाँ विदेशों में उत्पादन व अधिग्रहण कर बहुराष्ट्रीय बन रही हैं — यह वैश्वीकरण का परिणाम है।"
+ },
+ {
+  "n": 396,
+  "subject": "Economics | Class 10",
+  "q_hi": "'हॉलमार्क' (Hallmark) प्रमाण चिह्न किन उत्पादों की शुद्धता के लिए दिया जाता है?",
+  "q_en": "The 'Hallmark' certification is given for the purity of —",
+  "options": [
+   "खाद्य तेल / Edible oil",
+   "विद्युत उपकरण / Electrical appliances",
+   "सोने के आभूषण / Gold jewellery",
+   "दवाइयाँ / Medicines"
+  ],
+  "answer": 2,
+  "explanation": "हॉलमार्क BIS द्वारा सोने-चाँदी के आभूषणों की शुद्धता का प्रमाण है — आभूषण खरीदते समय यह चिह्न अवश्य देखना चाहिए।"
+ },
+ {
+  "n": 397,
+  "subject": "Economics | Class 10",
+  "q_hi": "उपभोक्ता का 'सुरक्षा का अधिकार' (Right to Safety) किससे संबंधित है?",
+  "q_en": "The consumer's 'Right to Safety' is related to —",
+  "options": [
+   "किसी भी दुकान से खरीदने से / Buying from any shop",
+   "खतरनाक वस्तुओं/सेवाओं से सुरक्षा / Protection against hazardous goods and services",
+   "सबसे सस्ता दाम पाने से / Getting the cheapest price",
+   "विज्ञापन देखने से / Watching advertisements"
+  ],
+  "answer": 1,
+  "explanation": "दोषयुक्त प्रेशर कुकर या असुरक्षित दवा से हानि होने पर उपभोक्ता सुरक्षा के अधिकार के तहत निर्माता से मुआवज़ा माँग सकता है।"
+ },
+ {
+  "n": 398,
+  "subject": "Economics | Class 10",
+  "q_hi": "राष्ट्रीय उपभोक्ता दिवस कब मनाया जाता है?",
+  "q_en": "National Consumer Day is celebrated on —",
+  "options": [
+   "15 मार्च / 15 March",
+   "2 अक्टूबर / 2 October",
+   "24 दिसंबर / 24 December",
+   "26 जनवरी / 26 January"
+  ],
+  "answer": 2,
+  "explanation": "24 दिसंबर 1986 को उपभोक्ता संरक्षण अधिनियम को राष्ट्रपति की स्वीकृति मिली थी — इसलिए यह दिन राष्ट्रीय उपभोक्ता दिवस है; 15 मार्च विश्व उपभोक्ता दिवस है।"
+ },
+ {
+  "n": 399,
+  "subject": "Economics | Class 9",
+  "q_hi": "खाद्य सुरक्षा के तीन आयाम कौन-से हैं?",
+  "q_en": "The three dimensions of food security are —",
+  "options": [
+   "उत्पादन, निर्यात, भंडारण / Production, export, storage",
+   "उपलब्धता, पहुँच, सामर्थ्य (खरीद क्षमता) / Availability, accessibility, affordability",
+   "खेती, सिंचाई, बाज़ार / Farming, irrigation, market",
+   "मूल्य, गुणवत्ता, पैकेजिंग / Price, quality, packaging"
+  ],
+  "answer": 1,
+  "explanation": "खाद्य सुरक्षा तभी सुनिश्चित होती है जब अनाज उपलब्ध हो, हर व्यक्ति तक उसकी पहुँच हो और उसे खरीदने का सामर्थ्य भी हो — केवल उत्पादन पर्याप्त नहीं है।"
+ },
+ {
+  "n": 400,
+  "subject": "Economics | Class 10",
+  "q_hi": "GDP में घरेलू अवैतनिक कार्य (मुख्यतः महिलाओं द्वारा) क्यों नहीं गिने जाते?",
+  "q_en": "Why is unpaid household work (mostly done by women) not counted in GDP?",
+  "options": [
+   "वे महत्वपूर्ण नहीं होते / It is not important",
+   "वे बाज़ार गतिविधि नहीं हैं — भुगतान नहीं होता / Non-market activities with no payment",
+   "उनकी गिनती संभव ही नहीं है / They cannot be counted at all",
+   "वे केवल गाँवों में होते हैं / They happen only in villages"
+  ],
+  "answer": 1,
+  "explanation": "राष्ट्रीय आय में केवल बाज़ार में भुगतान वाली गतिविधियाँ गिनी जाती हैं — इसलिए महिलाओं के अवैतनिक घरेलू कार्यों का मूल्यांकन कम हो जाता है।"
  }
 ]
