@@ -19,6 +19,12 @@ on:
       yt_privacy:
         description: "YouTube privacy: public / unlisted / private"
         default: "public"
+      start_index:
+        description: "Bank index jahan se shuru karna hai (khaali = state wala)"
+        default: ""
+      qstart:
+        description: "Serial number jahan se ginna hai (khaali = state wala)"
+        default: ""
 
 permissions:
   contents: write
@@ -50,6 +56,8 @@ jobs:
           COUNT: ${{ inputs.count || '50' }}
           SEND_TO: ${{ inputs.send_to || 'none' }}
           SAVE_STATE: ${{ inputs.save_state || '1' }}
+          START_INDEX: ${{ inputs.start_index }}
+          QSTART: ${{ inputs.qstart }}
           TMPDIR: ${{ github.workspace }}/tmpwork
         run: |
           mkdir -p tmpwork
@@ -67,8 +75,14 @@ jobs:
           DATE_STR=$(TZ=Asia/Kolkata date '+%d %b %Y')
           export VIDEO_FILE THUMB_FILE
           export YT_PLAYLIST_ID=$(cat playlist_id.txt 2>/dev/null || echo "")
-          QSTART=$(python3 -c "import json; print(json.load(open('video_state.json')).get('q_start', 1))")
-          QEND=$(python3 -c "import json; s=json.load(open('video_state.json')); b=json.load(open('questions.json')); n=min(${{ inputs.count || '50' }}, len(b)-s.get('next_index', 0)); print(s.get('q_start', 1) + max(n, 1) - 1)")
+          QSTART="${{ inputs.qstart }}"
+          if [ -z "$QSTART" ]; then QSTART=$(python3 -c "import json; print(json.load(open('video_state.json')).get('q_start', 1))"); fi
+          QEND=$(QS="$QSTART" SI="${{ inputs.start_index }}" python3 -c "
+          import json, os
+          s = json.load(open('video_state.json')); b = json.load(open('questions.json'))
+          start = int(os.environ.get('SI') or s.get('next_index', 0))
+          n = min(${{ inputs.count || '50' }}, len(b) - start)
+          print(int(os.environ['QS']) + max(n, 1) - 1)")
           export YT_TITLE="BPSC TRE 4.0 | Questions $QSTART-$QEND with Answers | $DATE_STR | Apna Bihar Samachar"
           export YT_DESC="BPSC TRE 4.0 — 50 important objective questions with answers and explanations. New videos daily at 7 AM, 1 PM and 7 PM.
           All questions are based on NCERT Class 6 to 12.
