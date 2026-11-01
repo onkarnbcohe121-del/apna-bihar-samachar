@@ -12,7 +12,7 @@ on:
         default: "50"
       send_to:
         description: "both / channel / personal / none"
-        default: "both"
+        default: "none"
       save_state:
         description: "State aage badhana hai? 1 = haan, 0 = nahi (test ke liye 0)"
         default: "1"
@@ -48,7 +48,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_PERSONAL_CHAT_ID: ${{ secrets.TELEGRAM_PERSONAL_CHAT_ID }}
           COUNT: ${{ inputs.count || '50' }}
-          SEND_TO: ${{ inputs.send_to || 'both' }}
+          SEND_TO: ${{ inputs.send_to || 'none' }}
           SAVE_STATE: ${{ inputs.save_state || '1' }}
           TMPDIR: ${{ github.workspace }}/tmpwork
         run: |
