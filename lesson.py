@@ -48,46 +48,46 @@ def run(cmd, **kw):
 
 def scene_slide(lesson, sc, idx, total):
     img, d = V.base_slide()
-    # top strip
-    V.draw_mixed(d, 40, 30, "NCERT Class Lessons", 26, True, (255, 153, 51))
+    # series line — base header ke NEECHE (upar overlap na ho)
     lab = lesson.get("class_label", "")
-    V.draw_mixed(d, W - 40 - V.text_w(d, lab, 24), 32, lab, 24, False, (170, 190, 235))
+    V.draw_mixed(d, 56, 74, f"NCERT Class Lessons • {lab}", 24, True, (124, 252, 154))
+    d.line([56, 108, W - 56, 108], fill=(255, 153, 51), width=2)
     # heading
-    y = 92
-    for ln in V.wrap_mixed(d, sc["head"], 44, True, 800)[:2]:
-        V.draw_mixed(d, 40, y, ln, 44, True, (255, 255, 255)); y += 58
-    y += 16
+    y = 124
+    for ln in V.wrap_mixed(d, sc["head"], 44, True, 740)[:2]:
+        V.draw_mixed(d, 56, y, ln, 44, True, (255, 255, 255)); y += 58
+    y += 14
     # bullets (left)
     for pt in sc.get("points", []):
-        lines = V.wrap_mixed(d, pt, 30, False, 730)
-        V.draw_mixed(d, 46, y, "•", 30, True, (124, 252, 154))
+        lines = V.wrap_mixed(d, pt, 30, False, 690)
+        V.draw_mixed(d, 58, y, "•", 30, True, (124, 252, 154))
         for ln in lines:
-            V.draw_mixed(d, 82, y, ln, 30, False, (225, 235, 250)); y += 40
+            V.draw_mixed(d, 92, y, ln, 30, False, (225, 235, 250)); y += 40
         y += 12
     # visual (right) — asli tasveer mile to wahi, warna bana-hua card
     cap = sc.get("vcap", "")
     if sc.get("_img") and os.path.exists(sc["_img"]):
         try:
-            photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (392, 322))
-            img.paste(photo, (848, 150))
-            d.rectangle([848, 150, 1240, 472], outline=(255, 153, 51), width=4)
-            V.rrect(d, [848, 478, 1240, 545], 10, fill=(16, 34, 78))
-            for ln in V.wrap_mixed(d, cap, 24, False, 356)[:2]:
-                V.draw_mixed(d, 1044 - V.text_w(d, ln, 24) / 2, 498, ln, 24, False, (255, 205, 90))
+            photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (400, 314))
+            img.paste(photo, (824, 168))
+            d.rectangle([824, 168, 1224, 482], outline=(255, 153, 51), width=4)
+            V.rrect(d, [824, 488, 1224, 552], 10, fill=(16, 34, 78))
+            for ln in V.wrap_mixed(d, cap, 24, False, 364)[:2]:
+                V.draw_mixed(d, 1024 - V.text_w(d, ln, 24) / 2, 508, ln, 24, False, (255, 205, 90))
         except Exception:
             sc["_img"] = None
     if not sc.get("_img"):
-        V.rrect(d, [848, 150, 1240, 545], 18, fill=(16, 34, 78))
+        V.rrect(d, [824, 168, 1224, 552], 18, fill=(16, 34, 78))
         vw = sc.get("visual", "")
-        vlines = V.wrap_mixed(d, vw, 62, True, 340)[:3]
-        vy = 300 - len(vlines) * 42
+        vlines = V.wrap_mixed(d, vw, 62, True, 356)[:3]
+        vy = 316 - len(vlines) * 42
         for ln in vlines:
-            V.draw_mixed(d, 1044 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
-        for ln in V.wrap_mixed(d, cap, 25, False, 340)[:2]:
-            V.draw_mixed(d, 1044 - V.text_w(d, ln, 25) / 2, 462, ln, 25, False, (190, 205, 235))
+            V.draw_mixed(d, 1024 - V.text_w(d, ln, 62, True) / 2, vy, ln, 62, True, (255, 205, 90)); vy += 84
+        for ln in V.wrap_mixed(d, cap, 25, False, 356)[:2]:
+            V.draw_mixed(d, 1024 - V.text_w(d, ln, 25) / 2, 478, ln, 25, False, (190, 205, 235))
     # bottom strip
     foot = f"{lesson.get('chapter_title','')}  •  {idx}/{total}"
-    V.draw_mixed(d, 40, H - 46, foot, 23, False, (150, 170, 210))
+    V.draw_mixed(d, 56, H - 44, foot, 23, False, (150, 170, 210))
     return img
 
 
@@ -103,17 +103,38 @@ def lesson_intro(lesson):
     return img
 
 
-def lesson_thumb(lesson):
+def lesson_thumb(lesson, photo_path=None):
     img, d = V.base_slide()
+    # right side — asli tasveer (ho to)
+    if photo_path and os.path.exists(photo_path):
+        try:
+            photo = ImageOps.fit(Image.open(photo_path).convert("RGB"), (470, H))
+            img.paste(photo, (W - 470, 0))
+            d = ImageDraw.Draw(img)
+            d.rectangle([W - 470, 0, W - 6, H - 6], outline=(255, 153, 51), width=8)
+        except Exception:
+            pass
     d.rectangle([6, 6, W - 6, H - 6], outline=(255, 153, 51), width=10)
-    V.center(d, "अपना बिहार समाचार", 66, 40, True, (255, 255, 255))
-    V.center(d, "NCERT Class Lessons", 122, 32, True, (124, 252, 154))
-    V.center(d, lesson.get("class_label", ""), 200, 58, True, (255, 205, 90))
-    V.center(d, f"Chapter {lesson.get('chapter_no','')}", 280, 62, True, (124, 252, 154))
-    y = 372
-    for ln in V.wrap_mixed(d, lesson.get("chapter_title", ""), 56, True, 1140)[:2]:
-        V.center(d, ln, y, 56, True, (255, 255, 255)); y += 74
-    V.center(d, "कहानी के साथ पूरा अध्याय", y + 18, 34, False, (255, 153, 51))
+    cx = (W - 470) // 2 + 10 if photo_path else W // 2
+    def ctext(text, y, size, bold, fill, maxw=740):
+        tw = V.text_w(d, text, size, bold)
+        V.draw_mixed(d, cx - tw / 2, y, text, size, bold, fill)
+    ctext("अपना बिहार समाचार", 56, 38, True, (255, 255, 255))
+    # badge
+    badge = "Class 6–12 • COMBINED"
+    bw = V.text_w(d, badge, 34, True) + 44
+    V.rrect(d, [cx - bw / 2, 118, cx + bw / 2, 172], 26, fill=(30, 122, 52))
+    V.draw_mixed(d, cx - V.text_w(d, badge, 34, True) / 2, 128, badge, 34, True, (255, 255, 255))
+    ctext("NCERT History", 196, 40, True, (124, 252, 154))
+    y = 268
+    for ln in V.wrap_mixed(d, lesson.get("chapter_title", ""), 64, True, 720)[:3]:
+        ctext(ln, y, 64, True, (255, 205, 90)); y += 82
+    # bottom band
+    d.rectangle([24, H - 108, (W - 470 if photo_path else W) - 24, H - 36], fill=(255, 153, 51))
+    band = f"Chapter {lesson.get('chapter_no','')} • कहानी के साथ पूरा अध्याय"
+    btw = V.text_w(d, band, 34, True)
+    bx = (24 + ((W - 470 if photo_path else W) - 24)) / 2
+    V.draw_mixed(d, bx - btw / 2, H - 92, band, 34, True, (11, 31, 74))
     return img
 
 
@@ -140,13 +161,19 @@ async def build(lesson, workdir):
     scenes = lesson["scenes"]
     total = len(scenes)
     # har scene ke liye asli tasveer (Commons, mukt license) — mile to use karo
+    import time
     for i, sc in enumerate(scenes, 1):
         q = sc.get("img_query")
         if q:
             dest = os.path.join(workdir, f"img{i}.jpg")
-            if fetch_image(q, dest):
+            ok = fetch_image(q, dest)
+            if not ok:
+                time.sleep(3)
+                ok = fetch_image(q, dest)
+            if ok:
                 sc["_img"] = dest
                 print(f"  tasveer mili: scene {i}")
+            time.sleep(0.7)
     segs = []
     # intro
     p = os.path.join(workdir, "intro.png"); lesson_intro(lesson).save(p)
@@ -179,7 +206,8 @@ async def build(lesson, workdir):
          "-filter_complex", "[1:a]volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:dropout_transition=2[a]",
          "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k", final], check=True)
     thumb = os.path.join(workdir, "thumb.jpg")
-    lesson_thumb(lesson).save(thumb, quality=88)
+    photo = next((sc.get("_img") for sc in scenes if sc.get("_img")), None)
+    lesson_thumb(lesson, photo).save(thumb, quality=88)
     with open(os.path.join(workdir, "title.txt"), "w", encoding="utf-8") as f:
         f.write(lesson.get("yt_title", ""))
     with open(os.path.join(workdir, "desc.txt"), "w", encoding="utf-8") as f:
