@@ -67,7 +67,9 @@ jobs:
           DATE_STR=$(TZ=Asia/Kolkata date '+%d %b %Y')
           export VIDEO_FILE THUMB_FILE
           export YT_PLAYLIST_ID=$(cat playlist_id.txt 2>/dev/null || echo "")
-          export YT_TITLE="BPSC TRE 4.0 | Objective Questions with Answers | $DATE_STR | Apna Bihar Samachar"
+          QSTART=$(python3 -c "import json; print(json.load(open('video_state.json')).get('q_start', 1))")
+          QEND=$(python3 -c "import json; s=json.load(open('video_state.json')); b=json.load(open('questions.json')); n=min(${{ inputs.count || '50' }}, len(b)-s.get('next_index', 0)); print(s.get('q_start', 1) + max(n, 1) - 1)")
+          export YT_TITLE="BPSC TRE 4.0 | Questions $QSTART-$QEND with Answers | $DATE_STR | Apna Bihar Samachar"
           export YT_DESC="BPSC TRE 4.0 — 50 important objective questions with answers and explanations. New videos daily at 7 AM, 1 PM and 7 PM.
           All questions are based on NCERT Class 6 to 12.
           Telegram: https://t.me/ApnaBiharSamachar
