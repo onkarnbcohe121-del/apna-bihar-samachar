@@ -1,0 +1,534 @@
+[
+ {
+  "n": 1,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "भारत का संविधान कब लागू हुआ?",
+  "q_en": "When did the Constitution of India come into force?",
+  "options": [
+   "26 नवंबर 1949 / 26 November 1949",
+   "26 जनवरी 1950 / 26 January 1950",
+   "15 अगस्त 1947 / 15 August 1947",
+   "9 दिसंबर 1946 / 9 December 1946"
+  ],
+  "answer": 1,
+  "explanation": "संविधान 26 नवंबर 1949 को अपनाया गया था, लेकिन यह लागू 26 जनवरी 1950 को हुआ — इसीलिए यही दिन गणतंत्र दिवस है।"
+ },
+ {
+  "n": 2,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "संविधान सभा के अध्यक्ष कौन थे?",
+  "q_en": "Who was the President of the Constituent Assembly?",
+  "options": [
+   "डॉ. बी.आर. अंबेडकर / Dr. B.R. Ambedkar",
+   "पं. जवाहरलाल नेहरू / Pt. Jawaharlal Nehru",
+   "डॉ. राजेंद्र प्रसाद / Dr. Rajendra Prasad",
+   "सरदार पटेल / Sardar Patel"
+  ],
+  "answer": 2,
+  "explanation": "संविधान सभा के अध्यक्ष डॉ. राजेंद्र प्रसाद थे; प्रारूप समिति के अध्यक्ष डॉ. अंबेडकर थे।"
+ },
+ {
+  "n": 3,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे?",
+  "q_en": "Who chaired the Drafting Committee of the Constitution?",
+  "options": [
+   "डॉ. राजेंद्र प्रसाद / Dr. Rajendra Prasad",
+   "डॉ. बी.आर. अंबेडकर / Dr. B.R. Ambedkar",
+   "के.एम. मुंशी / K.M. Munshi",
+   "अल्लादि कृष्णास्वामी / Alladi Krishnaswami"
+  ],
+  "answer": 1,
+  "explanation": "प्रारूप समिति 29 अगस्त 1947 को बनी और इसके अध्यक्ष डॉ. बी.आर. अंबेडकर नियुक्त हुए।"
+ },
+ {
+  "n": 4,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "संविधान सभा की पहली बैठक कब हुई?",
+  "q_en": "When was the first meeting of the Constituent Assembly held?",
+  "options": [
+   "9 दिसंबर 1946 / 9 December 1946",
+   "26 जनवरी 1950 / 26 January 1950",
+   "15 अगस्त 1947 / 15 August 1947",
+   "13 दिसंबर 1946 / 13 December 1946"
+  ],
+  "answer": 0,
+  "explanation": "संविधान सभा की पहली बैठक 9 दिसंबर 1946 को हुई; उद्देश्य प्रस्ताव नेहरू ने 13 दिसंबर 1946 को पेश किया।"
+ },
+ {
+  "n": 5,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "उद्देश्य प्रस्ताव (Objectives Resolution) किसने पेश किया?",
+  "q_en": "Who moved the Objectives Resolution?",
+  "options": [
+   "डॉ. अंबेडकर / Dr. Ambedkar",
+   "महात्मा गांधी / Mahatma Gandhi",
+   "पं. जवाहरलाल नेहरू / Pt. Jawaharlal Nehru",
+   "डॉ. राजेंद्र प्रसाद / Dr. Rajendra Prasad"
+  ],
+  "answer": 2,
+  "explanation": "उद्देश्य प्रस्ताव 13 दिसंबर 1946 को नेहरू ने पेश किया; यही बाद में प्रस्तावना की नींव बना।"
+ },
+ {
+  "n": 6,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "भारतीय संविधान विश्व का कैसा संविधान माना जाता है?",
+  "q_en": "The Indian Constitution is considered to be the world's —",
+  "options": [
+   "सबसे छोटा लिखित संविधान / Shortest written Constitution",
+   "सबसे लंबा लिखित संविधान / Longest written Constitution",
+   "अलिखित संविधान / Unwritten Constitution",
+   "सबसे पुराना संविधान / Oldest Constitution"
+  ],
+  "answer": 1,
+  "explanation": "भारतीय संविधान विश्व का सबसे लंबा लिखित संविधान है — कई देशों के संविधानों से विशेषताएँ लेकर इसे बनाया गया।"
+ },
+ {
+  "n": 7,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "संविधान सभा में कुल कितने सदस्य थे (विभाजन से पहले)?",
+  "q_en": "How many members did the Constituent Assembly have before Partition?",
+  "options": [
+   "299",
+   "389",
+   "545",
+   "250"
+  ],
+  "answer": 1,
+  "explanation": "विभाजन से पहले संविधान सभा में 389 सदस्य थे; विभाजन के बाद यह संख्या 299 रह गई।"
+ },
+ {
+  "n": 8,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द किस संशोधन से जुड़े?",
+  "q_en": "By which amendment were 'Socialist' and 'Secular' added to the Preamble?",
+  "options": [
+   "44वाँ संशोधन 1978 / 44th Amendment 1978",
+   "42वाँ संशोधन 1976 / 42nd Amendment 1976",
+   "52वाँ संशोधन 1985 / 52nd Amendment 1985",
+   "73वाँ संशोधन 1992 / 73rd Amendment 1992"
+  ],
+  "answer": 1,
+  "explanation": "42वें संविधान संशोधन 1976 से प्रस्तावना में 'समाजवादी', 'धर्मनिरपेक्ष' और 'अखंडता' शब्द जुड़े।"
+ },
+ {
+  "n": 9,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "भारत के संविधान में संघीय व्यवस्था की प्रेरणा किस देश से ली गई?",
+  "q_en": "The federal system in India's Constitution was inspired mainly by —",
+  "options": [
+   "ब्रिटेन / Britain",
+   "अमेरिका / USA",
+   "कनाडा / Canada",
+   "आयरलैंड / Ireland"
+  ],
+  "answer": 2,
+  "explanation": "केंद्र में मज़बूत सरकार वाली संघीय व्यवस्था कनाडा से ली गई; मूल अधिकार अमेरिका से लिए गए।"
+ },
+ {
+  "n": 10,
+  "subject": "Polity | Class 11 Ch 1",
+  "q_hi": "मौलिक अधिकार किस देश के संविधान से प्रेरित हैं?",
+  "q_en": "Fundamental Rights were inspired by the Constitution of —",
+  "options": [
+   "कनाडा / Canada",
+   "अमेरिका / USA",
+   "ब्रिटेन / Britain",
+   "ऑस्ट्रेलिया / Australia"
+  ],
+  "answer": 1,
+  "explanation": "मौलिक अधिकार अमेरिका के संविधान (Bill of Rights) से प्रेरित हैं।"
+ },
+ {
+  "n": 11,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "मौलिक अधिकार संविधान के किस भाग में हैं?",
+  "q_en": "Fundamental Rights are given in which Part of the Constitution?",
+  "options": [
+   "भाग II / Part II",
+   "भाग III / Part III",
+   "भाग IV / Part IV",
+   "भाग V / Part V"
+  ],
+  "answer": 1,
+  "explanation": "मौलिक अधिकार भाग III (अनुच्छेद 12–35) में हैं; राज्य के नीति निर्देशक तत्व भाग IV में हैं।"
+ },
+ {
+  "n": 12,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "समानता का अधिकार किन अनुच्छेदों में है?",
+  "q_en": "Right to Equality is covered under which Articles?",
+  "options": [
+   "अनु. 14–18 / Art. 14–18",
+   "अनु. 19–22 / Art. 19–22",
+   "अनु. 23–24 / Art. 23–24",
+   "अनु. 25–28 / Art. 25–28"
+  ],
+  "answer": 0,
+  "explanation": "समानता का अधिकार अनुच्छेद 14 से 18 तक है — अनु. 14 कानून के समक्ष समानता, अनु. 17 अस्पृश्यता का अंत।"
+ },
+ {
+  "n": 13,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "अस्पृश्यता का उन्मूलन किस अनुच्छेद में है?",
+  "q_en": "Abolition of untouchability is under which Article?",
+  "options": [
+   "अनुच्छेद 15 / Article 15",
+   "अनुच्छेद 16 / Article 16",
+   "अनुच्छेद 17 / Article 17",
+   "अनुच्छेद 18 / Article 18"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 17 अस्पृश्यता को समाप्त करता है और इसका आचरण दंडनीय अपराध बनाता है।"
+ },
+ {
+  "n": 14,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "अनुच्छेद 19 में मूलतः कितनी स्वतंत्रताएँ थीं?",
+  "q_en": "Originally, how many freedoms were guaranteed under Article 19?",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "मूल रूप से अनुच्छेद 19 में 7 स्वतंत्रताएँ थीं; संपत्ति की स्वतंत्रता 44वें संशोधन (1978) से हटी — अब 6 रह गईं।"
+ },
+ {
+  "n": 15,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "संवैधानिक उपचारों का अधिकार किस अनुच्छेद में है?",
+  "q_en": "Right to Constitutional Remedies is under which Article?",
+  "options": [
+   "अनुच्छेद 30 / Article 30",
+   "अनुच्छेद 31 / Article 31",
+   "अनुच्छेद 32 / Article 32",
+   "अनुच्छेद 35 / Article 35"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 32 से नागरिक सीधे सर्वोच्च न्यायालय जा सकता है; अंबेडकर ने इसे संविधान की 'आत्मा और हृदय' कहा।"
+ },
+ {
+  "n": 16,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "शिक्षा का अधिकार (RTE) किस अनुच्छेद से जुड़ा है?",
+  "q_en": "Right to Education (RTE) is linked to which Article?",
+  "options": [
+   "अनुच्छेद 19 / Article 19",
+   "अनुच्छेद 21 / Article 21",
+   "अनुच्छेद 21A / Article 21A",
+   "अनुच्छेद 45 / Article 45"
+  ],
+  "answer": 2,
+  "explanation": "86वें संशोधन (2002) से अनुच्छेद 21A जुड़ा — 6 से 14 वर्ष के बच्चों को निःशुल्क व अनिवार्य शिक्षा का अधिकार मिला।"
+ },
+ {
+  "n": 17,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार किस अनुच्छेद में है?",
+  "q_en": "Right to Life and Personal Liberty is under —",
+  "options": [
+   "अनुच्छेद 14 / Article 14",
+   "अनुच्छेद 19 / Article 19",
+   "अनुच्छेद 21 / Article 21",
+   "अनुच्छेद 22 / Article 22"
+  ],
+  "answer": 2,
+  "explanation": "अनुच्छेद 21 कहता है कि किसी को भी कानून द्वारा स्थापित प्रक्रिया के सिवा जीवन/स्वतंत्रता से वंचित नहीं किया जाएगा।"
+ },
+ {
+  "n": 18,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "मूल रूप से संपत्ति का अधिकार कहाँ था?",
+  "q_en": "Originally, Right to Property was a —",
+  "options": [
+   "कानूनी अधिकार / Legal right only",
+   "मौलिक अधिकार / Fundamental Right",
+   "नीति निर्देशक / Directive Principle",
+   "मौलिक कर्तव्य / Fundamental Duty"
+  ],
+  "answer": 1,
+  "explanation": "संपत्ति का अधिकार मूलतः मौलिक अधिकार था; 44वें संशोधन 1978 से यह अनु. 300A में कानूनी अधिकार बन गया।"
+ },
+ {
+  "n": 19,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "बाल श्रम पर प्रतिबंध (कारखानों में 14 वर्ष से कम) किस अनुच्छेद में है?",
+  "q_en": "Prohibition of child labour in factories (below 14 years) is under —",
+  "options": [
+   "अनुच्छेद 23 / Article 23",
+   "अनुच्छेद 24 / Article 24",
+   "अनुच्छेद 29 / Article 29",
+   "अनुच्छेद 39 / Article 39"
+  ],
+  "answer": 1,
+  "explanation": "अनुच्छेद 24 कहता है कि 14 वर्ष से कम आयु का बच्चा कारखाने या खतरनाक काम में नहीं लगाया जाएगा।"
+ },
+ {
+  "n": 20,
+  "subject": "Polity | Class 11 Ch 2",
+  "q_hi": "धार्मिक स्वतंत्रता का अधिकार किन अनुच्छेदों में है?",
+  "q_en": "Right to Freedom of Religion is under which Articles?",
+  "options": [
+   "अनु. 25–28 / Art. 25–28",
+   "अनु. 29–30 / Art. 29–30",
+   "अनु. 14–18 / Art. 14–18",
+   "अनु. 32–35 / Art. 32–35"
+  ],
+  "answer": 0,
+  "explanation": "धार्मिक स्वतंत्रता अनुच्छेद 25–28 में है; अल्पसंख्यकों के सांस्कृतिक-शैक्षिक अधिकार अनु. 29–30 में हैं।"
+ },
+ {
+  "n": 21,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "हड़प्पा सभ्यता की खोज सबसे पहले किस स्थल से शुरू हुई?",
+  "q_en": "The Harappan civilisation was first identified at which site?",
+  "options": [
+   "मोहनजोदड़ो / Mohenjodaro",
+   "हड़प्पा / Harappa",
+   "लोथल / Lothal",
+   "कालीबंगन / Kalibangan"
+  ],
+  "answer": 1,
+  "explanation": "1921 में रायबहादुर दयाराम साहनी के उत्खनन से हड़प्पा स्थल सामने आया — इसीलिए सभ्यता का नाम 'हड़प्पा' पड़ा।"
+ },
+ {
+  "n": 22,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "मोहनजोदड़ो का प्रसिद्ध 'महास्नानागार' (Great Bath) किस काम आता था?",
+  "q_en": "The Great Bath of Mohenjodaro was probably used for —",
+  "options": [
+   "अनाज रखने के लिए / Storing grain",
+   "विशेष स्नान/अनुष्ठान के लिए / Ritual bathing",
+   "सभा के लिए / Assembly",
+   "मुहरें बनाने के लिए / Making seals"
+  ],
+  "answer": 1,
+  "explanation": "महास्नानागार ईंटों से बना जलरोधी कुंड था — विद्वान इसे अनुष्ठानिक स्नान से जोड़ते हैं।"
+ },
+ {
+  "n": 23,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "हड़प्पा की मुहरें अधिकतर किस पत्थर से बनी थीं?",
+  "q_en": "Most Harappan seals were made of —",
+  "options": [
+   "ताँबा / Copper",
+   "स्टीटाइट / Steatite",
+   "लोहा / Iron",
+   "संगमरमर / Marble"
+  ],
+  "answer": 1,
+  "explanation": "अधिकांश मुहरें स्टीटाइट (मुलायम पत्थर) से बनी थीं, जिन पर पशु आकृतियाँ और लिपि के चिह्न मिलते हैं।"
+ },
+ {
+  "n": 24,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "लोथल (गुजरात) क्यों प्रसिद्ध है?",
+  "q_en": "Lothal (Gujarat) is famous for —",
+  "options": [
+   "महास्नानागार / Great Bath",
+   "बंदरगाह (गोदी) / Dockyard",
+   "अन्नागार / Granary",
+   "मंदिर / Temple"
+  ],
+  "answer": 1,
+  "explanation": "लोथल में ईंटों से बना गोदी (dockyard) मिला है — यह समुद्री व्यापार का केंद्र माना जाता है।"
+ },
+ {
+  "n": 25,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "हड़प्पा लिपि की सबसे बड़ी विशेषता क्या है?",
+  "q_en": "The most notable feature of the Harappan script is that it —",
+  "options": [
+   "बाएँ से दाएँ लिखी जाती थी / Written left to right",
+   "अभी तक पढ़ी नहीं जा सकी / Remains undeciphered",
+   "संस्कृत में थी / Was in Sanskrit",
+   "चित्रहीन थी / Had no signs"
+  ],
+  "answer": 1,
+  "explanation": "हड़प्पा लिपि में लगभग 375–400 चिह्न हैं, पर यह आज तक पढ़ी (decipher) नहीं जा सकी है।"
+ },
+ {
+  "n": 26,
+  "subject": "History | Class 12 Ch 1",
+  "q_hi": "कालीबंगन से किसका प्रमाण मिला है?",
+  "q_en": "Kalibangan has provided evidence of —",
+  "options": [
+   "जुते हुए खेत का / A ploughed field",
+   "जहाज़ का / A ship",
+   "लोहे के औज़ार का / Iron tools",
+   "मंदिर का / A temple"
+  ],
+  "answer": 0,
+  "explanation": "कालीबंगन (राजस्थान) से जुते हुए खेत के निशान मिले हैं — दो फसलें एक साथ बोने के संकेत भी मिलते हैं।"
+ },
+ {
+  "n": 27,
+  "subject": "History | Class 6/12",
+  "q_hi": "मौर्य साम्राज्य का संस्थापक कौन था?",
+  "q_en": "Who founded the Mauryan Empire?",
+  "options": [
+   "अशोक / Ashoka",
+   "बिंदुसार / Bindusara",
+   "चंद्रगुप्त मौर्य / Chandragupta Maurya",
+   "धनानंद / Dhanananda"
+  ],
+  "answer": 2,
+  "explanation": "चंद्रगुप्त मौर्य ने चाणक्य के मार्गदर्शन में नंद वंश को हराकर लगभग 321 ई.पू. मौर्य साम्राज्य खड़ा किया।"
+ },
+ {
+  "n": 28,
+  "subject": "History | Class 6/12",
+  "q_hi": "'अर्थशास्त्र' के रचयिता कौन माने जाते हैं?",
+  "q_en": "The 'Arthashastra' is attributed to —",
+  "options": [
+   "अशोक / Ashoka",
+   "कौटिल्य (चाणक्य) / Kautilya (Chanakya)",
+   "मेगास्थनीज़ / Megasthenes",
+   "बाणभट्ट / Banabhatta"
+  ],
+  "answer": 1,
+  "explanation": "अर्थशास्त्र कौटिल्य (चाणक्य/विष्णुगुप्त) की रचना मानी जाती है — यह शासन और प्रशासन की विस्तृत पुस्तक है।"
+ },
+ {
+  "n": 29,
+  "subject": "History | Class 6/12",
+  "q_hi": "मेगास्थनीज़ की पुस्तक का नाम क्या है?",
+  "q_en": "Megasthenes wrote the book —",
+  "options": [
+   "अर्थशास्त्र / Arthashastra",
+   "इंडिका / Indica",
+   "मुद्राराक्षस / Mudrarakshasa",
+   "हर्षचरित / Harshacharita"
+  ],
+  "answer": 1,
+  "explanation": "मेगास्थनीज़ सेल्यूकस का दूत था; उसकी 'इंडिका' से पाटलिपुत्र और मौर्य प्रशासन की जानकारी मिलती है।"
+ },
+ {
+  "n": 30,
+  "subject": "History | Class 6/12",
+  "q_hi": "अशोक ने कलिंग युद्ध के बाद क्या निर्णय लिया?",
+  "q_en": "After the Kalinga war, Ashoka decided to —",
+  "options": [
+   "और युद्ध करने का / Wage more wars",
+   "धम्म की नीति अपनाने का / Follow the policy of Dhamma",
+   "साम्राज्य छोड़ने का / Abdicate the throne",
+   "राजधानी बदलने का / Shift the capital"
+  ],
+  "answer": 1,
+  "explanation": "कलिंग युद्ध (लग. 261 ई.पू.) की भारी हिंसा देखकर अशोक ने युद्ध त्यागकर धम्म-विजय की नीति अपनाई।"
+ },
+ {
+  "n": 31,
+  "subject": "History | Class 6/12",
+  "q_hi": "अशोक के अभिलेख मुख्यतः किस लिपि में हैं?",
+  "q_en": "Most of Ashoka's inscriptions are in which script?",
+  "options": [
+   "खरोष्ठी / Kharoshthi",
+   "ब्राह्मी / Brahmi",
+   "देवनागरी / Devanagari",
+   "यूनानी / Greek"
+  ],
+  "answer": 1,
+  "explanation": "अशोक के अधिकांश अभिलेख प्राकृत भाषा और ब्राह्मी लिपि में हैं; उत्तर-पश्चिम में खरोष्ठी लिपि भी मिली है।"
+ },
+ {
+  "n": 32,
+  "subject": "History | Class 6/12",
+  "q_hi": "अशोक के अभिलेखों को सबसे पहले किसने पढ़ा?",
+  "q_en": "Ashoka's inscriptions were first deciphered by —",
+  "options": [
+   "जेम्स प्रिंसेप / James Prinsep",
+   "जॉन मार्शल / John Marshall",
+   "दयाराम साहनी / Daya Ram Sahni",
+   "अलेक्ज़ेंडर कनिंघम / Alexander Cunningham"
+  ],
+  "answer": 0,
+  "explanation": "1837 में जेम्स प्रिंसेप ने ब्राह्मी लिपि पढ़ी, जिससे अशोक के अभिलेखों का अर्थ खुला।"
+ },
+ {
+  "n": 33,
+  "subject": "History | Class 12",
+  "q_hi": "पानीपत का प्रथम युद्ध कब हुआ?",
+  "q_en": "The First Battle of Panipat was fought in —",
+  "options": [
+   "1526",
+   "1556",
+   "1576",
+   "1761"
+  ],
+  "answer": 0,
+  "explanation": "1526 में बाबर ने इब्राहिम लोदी को हराया — इसी जीत से भारत में मुग़ल साम्राज्य की नींव पड़ी।"
+ },
+ {
+  "n": 34,
+  "subject": "History | Class 12",
+  "q_hi": "अकबर ने 'दीन-ए-इलाही' कब प्रारंभ किया?",
+  "q_en": "Akbar started 'Din-i-Ilahi' in —",
+  "options": [
+   "1564",
+   "1575",
+   "1582",
+   "1605"
+  ],
+  "answer": 2,
+  "explanation": "अकबर ने 1582 में दीन-ए-इलाही (तौहीद-ए-इलाही) प्रारंभ किया; इबादत खाना 1575 में बना था।"
+ },
+ {
+  "n": 35,
+  "subject": "History | Class 12",
+  "q_hi": "भक्ति आंदोलन के प्रसिद्ध संत कबीर किसके शिष्य कहे जाते हैं?",
+  "q_en": "Kabir is said to be a disciple of —",
+  "options": [
+   "गुरु नानक / Guru Nanak",
+   "रामानंद / Ramananda",
+   "वल्लभाचार्य / Vallabhacharya",
+   "चैतन्य / Chaitanya"
+  ],
+  "answer": 1,
+  "explanation": "परंपरा के अनुसार कबीर संत रामानंद के शिष्य थे; कबीर के पद गुरु ग्रंथ साहिब में भी संकलित हैं।"
+ },
+ {
+  "n": 36,
+  "subject": "History | Class 12",
+  "q_hi": "विजयनगर साम्राज्य की स्थापना किसने की?",
+  "q_en": "The Vijayanagara Empire was founded by —",
+  "options": [
+   "कृष्णदेवराय / Krishnadevaraya",
+   "हरिहर और बुक्का / Harihara and Bukka",
+   "देवराय II / Deva Raya II",
+   "रामराय / Ramaraya"
+  ],
+  "answer": 1,
+  "explanation": "1336 में हरिहर और बुक्का ने विजयनगर साम्राज्य की स्थापना की; कृष्णदेवराय इसके सबसे प्रसिद्ध राजा हुए।"
+ },
+ {
+  "n": 37,
+  "subject": "History | Class 12",
+  "q_hi": "तालीकोटा का युद्ध कब हुआ?",
+  "q_en": "The Battle of Talikota was fought in —",
+  "options": [
+   "1526",
+   "1556",
+   "1565",
+   "1576"
+  ],
+  "answer": 2,
+  "explanation": "1565 के तालीकोटा युद्ध में दक्कन की सल्तनतों के गठबंधन ने विजयनगर को हराया — साम्राज्य का पतन शुरू हुआ।"
+ },
+ {
+  "n": 38,
+  "subject": "History | Class 12",
+  "q_hi": "शिवाजी का राज्याभिषेक कब हुआ?",
+  "q_en": "Shivaji's coronation took place in —",
+  "options": [
+   "1674",
+   "1659",
+   "1680",
+   "1665"
+  ],
+  "answer": 0,
+  "explanation": "शिवाजी का राज्याभिषेक 1674 में रायगढ़ में हुआ; 1659 में उन्होंने अफ़ज़ल ख़ान को परास्त किया था।"
+ }
+]
