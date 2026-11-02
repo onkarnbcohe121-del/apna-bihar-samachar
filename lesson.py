@@ -8,12 +8,12 @@ tathya (saal/taarikh/sankhya) LAAL marker me. Thumbnail + outro purane
 navy style hi rehte hain. Narration Swara (story-telling) + halka music.
 Env: LESSON_FILE (khaali = index/state se agla), SAVE_STATE (1/0)
 """
-import asyncio, json, os, random, re, subprocess, sys, tempfile, urllib.parse, urllib.request
+import asyncio, base64, json, os, random, re, subprocess, sys, tempfile, time, urllib.parse, urllib.request
 from PIL import Image, ImageDraw, ImageOps
 import video as V
 
-V.RATE = "+5%"    # 2 Nov FINAL config (user): lessons rate +5%
-V.PITCH = "+0Hz"   # 2 Nov FINAL config: lessons pitch +0Hz (MCQ se alag)
+V.RATE = "+5%"    # lessons: Swara rate +5%
+V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
 
 W, H = V.W, V.H
 SFILE = "lesson_state.json"
@@ -40,6 +40,26 @@ def run(cmd, **kw):
 
 
 # ---------------- Tasveerein (Commons) ----------------
+def fetch_pinned(fname, dest):
+    """Scene me img_file diya ho to wahi pakki Commons file lao — search par
+    bharosa nahi (2 Nov: galat tasveerein aayi thi)."""
+    url = ("https://commons.wikimedia.org/wiki/Special:FilePath/"
+           + urllib.parse.quote(fname) + "?width=1200")
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            blob = r.read()
+        if len(blob) < 10000:
+            return False
+        with open(dest, "wb") as f:
+            f.write(blob)
+        im = Image.open(dest); im.verify()
+        return True
+    except Exception as e:
+        print(f"  pinned tasveer fail ({fname}): {e}")
+        return False
+
+
 def _commons_one(query, dest):
     api = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
            f"&gsrsearch={urllib.parse.quote(query)}&gsrnamespace=6&gsrlimit=8"
@@ -474,15 +494,21 @@ async def build(lesson, workdir):
     import time
     for i, sc in enumerate(scenes, 1):
         q = sc.get("img_query")
-        if q:
-            dest = os.path.join(workdir, f"img{i}.jpg")
+        dest = os.path.join(workdir, f"img{i}.jpg")
+        ok = False
+        if sc.get("img_file"):
+            ok = fetch_pinned(sc["img_file"], dest)
+            if not ok:
+                print(f"  scene {i}: pinned fail, search se koshish")
+        if q and not ok:
             ok = fetch_image(q, dest)
             if not ok:
                 time.sleep(3)
                 ok = fetch_image(q, dest)
-            if ok:
-                sc["_img"] = dest
-                print(f"  tasveer mili: scene {i}")
+        if ok:
+            sc["_img"] = dest
+            print(f"  tasveer mili: scene {i}")
+        if q or sc.get("img_file"):
             time.sleep(0.7)
     hand = None  # 2 Nov user nirdesh: haath NAHI (content chhipta hai) —
     # sirf typing-style reveal chalega; fetch_hand band rakha hai
