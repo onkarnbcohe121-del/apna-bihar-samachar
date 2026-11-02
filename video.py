@@ -114,7 +114,8 @@ def speech_fix(text):
 
 async def tts(text, out):
     import edge_tts
-    text = speech_fix(text)
+    from hindi_pronunciation import prepare_tts_text
+    text = prepare_tts_text(text)
     proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy") or None
     for attempt in range(3):
         try:
