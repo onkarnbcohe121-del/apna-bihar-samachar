@@ -73,7 +73,7 @@ jobs:
             tmpwork/treles_*/title.txt
             tmpwork/treles_*/desc.txt
         retention-days: 3
-        if-no-files-found: warn
+          if-no-files-found: warn
 - name: State wapas commit karo
 run: |
 git config user.name "github-actions"
