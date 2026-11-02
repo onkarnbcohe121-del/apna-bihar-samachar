@@ -53,7 +53,7 @@ def apply_dictionary(text: str, dictionary: Dict[str, str]) -> str:
     # Longest terms first, and replace complete terms only.
     for original in sorted(dictionary, key=len, reverse=True):
         replacement = dictionary[original]
-        pattern = rf"(?<![\\w]){re.escape(original)}(?![\\w])"
+        pattern = rf"(?<![\w]){re.escape(original)}(?![\w])"
         text = re.sub(pattern, lambda _m, value=replacement: value, text, flags=re.IGNORECASE)
     return text
 
@@ -65,10 +65,10 @@ def prepare_tts_text(text: str, dictionary_path: Path = DEFAULT_DICTIONARY) -> s
     spoken = text.translate(DEV_DIGITS)
     spoken = apply_dictionary(spoken, load_dictionary(dictionary_path))
     # Keep the established 1100–1999 year-reading rule.
-    spoken = re.sub(r"(?<![\\d])(1[1-9]\\d{2})(?![\\d])", year_to_sau_style, spoken)
+    spoken = re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", year_to_sau_style, spoken)
     # Give TTS clean spacing without changing the words or their meaning.
-    spoken = re.sub(r"[ \\t]+", " ", spoken)
-    spoken = re.sub(r" *([,;:!?।]) *", r"\\1 ", spoken)
+    spoken = re.sub(r"[ \t]+", " ", spoken)
+    spoken = re.sub(r" *([,;:!?।]) *", r"\1 ", spoken)
     return spoken.strip()
 
 
