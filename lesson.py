@@ -12,7 +12,7 @@ import asyncio, json, os, random, re, subprocess, sys, tempfile, urllib.parse, u
 from PIL import Image, ImageDraw, ImageOps
 import video as V
 
-V.RATE = "-8%"   # Lesson ki gati thodi dheere — samajhne ke liye (user: min 20 min/video)
+V.RATE = "+3%"   # Lesson ki gati thodi dheere — samajhne ke liye (user: min 20 min/video)
 
 W, H = V.W, V.H
 SFILE = "lesson_state.json"
@@ -315,6 +315,8 @@ def scene_frames(lesson, sc, idx, total, hand):
         states.append((dict(head_words="full", bullet_words=full_bullets, img_frac=1), 0.06))
     hold_w = max(1.0 - sum(w for _, w in states), 0.05)
     states.append((dict(head_words="full", bullet_words=full_bullets, img_frac=1), hold_w))
+            _rev = sum(w for _, w in states[:-1])
+states = [(st, w * 0.55) for st, w in states[:-1]] + [(states[-1][0], 1.0 - _rev * 0.55)]
 
     frames = []
     for si, (st, w) in enumerate(states):
