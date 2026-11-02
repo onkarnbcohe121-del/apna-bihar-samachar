@@ -63,7 +63,7 @@ jobs:
           grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > lesson_latest.txt || true
 
       - name: Video file artifact me bachao (upload fail ho to bhi file yahi mile)
-      if: always()
+        if: ${{ always() }}
       uses: actions/upload-artifact@v4
       with:
       name: lesson-video
