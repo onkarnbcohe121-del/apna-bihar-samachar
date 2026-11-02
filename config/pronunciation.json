@@ -1,0 +1,12 @@
+{
+  "_instructions": "Only add a term here after listening to SwaraNeural and confirming its mispronunciation. The left side is the exact text in your script; the right side is a pronunciation-friendly spelling used ONLY for audio. On-screen text and subtitles remain unchanged.",
+  "exact": {
+    "NCERT": "एन सी ई आर टी",
+    "BPSC": "बी पी एस सी",
+    "CTET": "सी टी ई टी",
+    "TRE": "टी आर ई",
+    "GDP": "जी डी पी",
+    "UGC": "यू जी सी",
+    "UNESCO": "यूनेस्को"
+  }
+}
