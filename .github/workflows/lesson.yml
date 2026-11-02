@@ -14,29 +14,23 @@ on:
       yt_privacy:
         description: "YouTube privacy: public / unlisted / private"
         default: "public"
-
 permissions:
   contents: write
-
 concurrency:
   group: tre-lesson
-
 jobs:
   make-lesson:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Tools install karo
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install edge-tts pillow requests google-api-python-client google-auth
-
       - name: Lesson video banao
         env:
           LESSON_FILE: ${{ inputs.lesson_file }}
@@ -45,7 +39,6 @@ jobs:
         run: |
           mkdir -p tmpwork
           python lesson.py
-
       - name: YouTube par upload karo
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
@@ -60,12 +53,18 @@ jobs:
           export YT_TITLE=$(cat tmpwork/treles_*/title.txt)
           export YT_DESC=$(cat tmpwork/treles_*/desc.txt)
           python youtube_upload.py | tee upload.log
-            grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > lesson_latest.txt || true
-  
-        - name: State wapas commit karo
-          run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > lesson_latest.txt || true
+      - name: Video file artifact me bachao
+        uses: actions/upload-artifact@v4
+        with:
+          name: lesson-video
+          path: tmpwork/treles_*/final.mp4
+          if-no-files-found: warn
+      - name: State wapas commit karo
+        if: inputs.save_state == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add lesson_state.json lesson_latest.txt || true
-          git diff --cached --quiet || git commit -m "lesson state update"
-          git push || true
+          git commit -m "Update lesson state" || echo "nothing to commit"
+          git push || echo "push failed"
