@@ -1,0 +1,40 @@
+name: Gemini Voice Samples
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install --quiet requests
+      - name: Samples banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python voice_gemini_sample.py
+      - name: Samples artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: voice-samples
+          path: voice_samples/*.mp3
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Samples repo me commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add voice_samples/ || true
+          git diff --cached --quiet || git commit -m "gemini voice samples"
+          git push || true
