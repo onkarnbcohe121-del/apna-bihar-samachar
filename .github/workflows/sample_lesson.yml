@@ -1,0 +1,37 @@
+name: Documentary Lesson Sample
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lesson-sample
+  cancel-in-progress: false
+
+jobs:
+  make-sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
+          pip install --quiet pillow edge-tts requests
+      - name: Documentary lesson sample banao
+        run: python sample_lesson.py
+      - name: Sample files artifact me bachao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lesson-doc-sample
+          path: |
+            sample_out/lesson_sample.mp4
+            sample_out/contact_sheet.jpg
+          retention-days: 3
+          if-no-files-found: warn
