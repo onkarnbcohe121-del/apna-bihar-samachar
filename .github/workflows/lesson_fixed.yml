@@ -1,0 +1,84 @@
+name: NCERT Class Lesson
+
+on:
+  schedule:
+    - cron: "30 2 * * *"   # roz subah 08:00 IST
+  workflow_dispatch:
+    inputs:
+      lesson_file:
+        description: "Lesson JSON ka path (khaali = agla lesson)"
+        default: ""
+      save_state:
+        description: "State aage badhana hai? 1 = haan, 0 = nahi"
+        default: "1"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tre-lesson
+
+jobs:
+  make-lesson:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow requests google-api-python-client google-auth
+
+      - name: Lesson video banao
+        env:
+          LESSON_FILE: ${{ inputs.lesson_file }}
+          SAVE_STATE: ${{ inputs.save_state || '1' }}
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python lesson.py
+
+      - name: YouTube par upload karo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/treles_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/treles_*/thumb.jpg | head -1)
+          export VIDEO_FILE THUMB_FILE
+          export YT_PLAYLIST_ID=$(cat lesson_playlist_id.txt 2>/dev/null || echo "")
+          export YT_TITLE=$(cat tmpwork/treles_*/title.txt)
+          export YT_DESC=$(cat tmpwork/treles_*/desc.txt)
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > lesson_latest.txt || true
+
+      - name: Video file artifact me bachao (upload fail ho to bhi file yahi mile)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lesson-video
+          path: |
+            tmpwork/treles_*/final.mp4
+            tmpwork/treles_*/thumb.jpg
+            tmpwork/treles_*/title.txt
+            tmpwork/treles_*/desc.txt
+          retention-days: 3
+          if-no-files-found: warn
+
+      - name: State wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add lesson_state.json lesson_latest.txt || true
+          git diff --cached --quiet || git commit -m "lesson state update"
+          git push || true
