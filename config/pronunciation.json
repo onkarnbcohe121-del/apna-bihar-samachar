@@ -1,1 +1,22 @@
-{"_instructions":"Only add a term here after listening to SwaraNeural and confirming its mispronunciation. The left side is the exact text in your script; the right side is a pronunciation-friendly spelling used ONLY for audio. On-screen text and subtitles remain unchanged.","exact":{"BPSC":"बी पी एस सी","CTET":"सी टी ई टी","GDP":"जी डी पी","NCERT":"एन सी ई आर टी","TRE":"टी आर ई","UGC":"यू जी सी","UNESCO":"यूनेस्को","अर्थव्यवस्था":"अर्थव्यवस्था","औपनिवेशिक":"औपनिवेशिक","पुरातत्व":"पुरातत्त्व","प्रश्नावली":"प्रश्नावली","भौगोलिक":"भौगोलिक","संविधान":"संविधान","सभ्यता":"सभ्यता","स्वाधीनता":"स्वाधीनता"}}
+{
+ "_instructions": "Only add a term here after listening to SwaraNeural and confirming its mispronunciation. The left side is the exact text in your script; the right side is a pronunciation-friendly spelling used ONLY for audio. On-screen text and subtitles remain unchanged.",
+ "exact": {
+  "BPSC": "बी पी एस सी",
+  "CTET": "सी टी ई टी",
+  "GDP": "जी डी पी",
+  "NCERT": "एन सी ई आर टी",
+  "TRE": "टी आर ई",
+  "UGC": "यू जी सी",
+  "UNESCO": "यूनेस्को",
+  "अर्थव्यवस्था": "अर्थव्यवस्था",
+  "औपनिवेशिक": "औपनिवेशिक",
+  "पुरातत्व": "पुरातत्त्व",
+  "प्रश्नावली": "प्रश्नावली",
+  "भौगोलिक": "भौगोलिक",
+  "संविधान": "संविधान",
+  "सभ्यता": "सभ्यता",
+  "स्वाधीनता": "स्वाधीनता",
+  "मोहनजोदड़ो": "मोहन-जो-दड़ो",
+  "हड़प्पा": "हड़-प्पा"
+ }
+}
