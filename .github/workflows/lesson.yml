@@ -74,10 +74,10 @@ jobs:
             tmpwork/treles_*/desc.txt
         retention-days: 3
         if-no-files-found: warn
-              - name: State wapas commit karo
-  run: |
-    git config user.name "github-actions"
-    git config user.email "actions@github.com"
-    git add lesson_state.json lesson_latest.txt || true
-    git diff --cached --quiet || git commit -m "lesson state update"
-    git push || true
+            - name: State wapas commit karo
+run: |
+  git config user.name "github-actions"
+  git config user.email "actions@github.com"
+  git add lesson_state.json lesson_latest.txt || true
+  git diff --cached --quiet || git commit -m "lesson state update"
+  git push || true
