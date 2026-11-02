@@ -63,17 +63,17 @@ jobs:
           grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > lesson_latest.txt || true
 
       - name: Video file artifact me bachao (upload fail ho to bhi file yahi mile)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: lesson-video
-          path: |
-            tmpwork/treles_*/final.mp4
-            tmpwork/treles_*/thumb.jpg
-            tmpwork/treles_*/title.txt
-            tmpwork/treles_*/desc.txt
-        retention-days: 3
-          if-no-files-found: warn
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+      name: lesson-video
+      path: |
+        tmpwork/treles_*/final.mp4
+        tmpwork/treles_*/thumb.jpg
+        tmpwork/treles_*/title.txt
+        tmpwork/treles_*/desc.txt
+      retention-days: 3
+      if-no-files-found: warn
 - name: State wapas commit karo
 run: |
 git config user.name "github-actions"
