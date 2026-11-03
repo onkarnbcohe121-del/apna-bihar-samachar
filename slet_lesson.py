@@ -553,7 +553,8 @@ async def build(lesson, workdir):
     photo = next((sc.get("_img") for sc in scenes if sc.get("_img")), None)
     lesson_thumb(lesson, photo).save(thumb, quality=88)
     with open(os.path.join(workdir, "title.txt"), "w", encoding="utf-8") as f:
-        f.write(lesson.get("yt_title", ""))
+        # YouTube title limit 100 chars — 3 Nov 2026 ko lambe title (114/122) se upload 400 par fail hua tha
+        f.write(lesson.get("yt_title", "")[:100])
     with open(os.path.join(workdir, "desc.txt"), "w", encoding="utf-8") as f:
         f.write(lesson.get("yt_desc", ""))
     print(f"Video taiyaar: {final} ({os.path.getsize(final)/1e6:.1f} MB, {dur/60:.1f} min)")
