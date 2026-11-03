@@ -59,6 +59,17 @@ jobs:
           TMPDIR: ${{ github.workspace }}/tmpwork
         run: |
           mkdir -p tmpwork
+          QS="${{ inputs.qstart }}"
+          if [ -z "$QS" ]; then QS=$(python3 -c "import json; print(json.load(open('video_state.json')).get('q_start', 1))"); fi
+          QE=$(QS="$QS" SI="${{ inputs.start_index }}" python3 -c "
+          import json, os
+          s = json.load(open('video_state.json')); b = json.load(open('questions.json'))
+          start = int(os.environ.get('SI') or s.get('next_index', 0))
+          n = min(${{ inputs.count || '100' }}, len(b) - start)
+          print(int(os.environ['QS']) + max(n, 1) - 1)")
+          echo "TITLE_QSTART=$QS" >> "$GITHUB_ENV"
+          echo "TITLE_QEND=$QE" >> "$GITHUB_ENV"
+          echo "Title range (build se pehle pakda): $QS-$QE"
           python video.py
 
       - name: YouTube par upload karo
@@ -73,14 +84,16 @@ jobs:
           DATE_STR=$(TZ=Asia/Kolkata date '+%d %b %Y')
           export VIDEO_FILE THUMB_FILE
           export YT_PLAYLIST_ID=$(cat playlist_id.txt 2>/dev/null || echo "")
-          QSTART="${{ inputs.qstart }}"
+          QSTART="$TITLE_QSTART"
+          if [ -z "$QSTART" ]; then QSTART="${{ inputs.qstart }}"; fi
           if [ -z "$QSTART" ]; then QSTART=$(python3 -c "import json; print(json.load(open('video_state.json')).get('q_start', 1))"); fi
-          QEND=$(QS="$QSTART" SI="${{ inputs.start_index }}" python3 -c "
+          QEND="$TITLE_QEND"
+          if [ -z "$QEND" ]; then QEND=$(QS="$QSTART" SI="${{ inputs.start_index }}" python3 -c "
           import json, os
           s = json.load(open('video_state.json')); b = json.load(open('questions.json'))
           start = int(os.environ.get('SI') or s.get('next_index', 0))
           n = min(${{ inputs.count || '100' }}, len(b) - start)
-          print(int(os.environ['QS']) + max(n, 1) - 1)")
+          print(int(os.environ['QS']) + max(n, 1) - 1)"); fi
           export YT_TITLE="BPSC TRE 4.0 | Questions $QSTART-$QEND with Answers | Apna Bihar Samachar"
           export YT_DESC="BPSC TRE 4.0 — 100 important objective questions with answers and explanations. New video daily at 7:15 PM.
           All questions are based on NCERT Class 6 to 12.
