@@ -146,7 +146,7 @@ def wb_base(lesson, idx=None, total=None):
     img = Image.new("RGB", (W, H), PAPER)
     d = ImageDraw.Draw(img)
     d.rectangle([10, 10, W - 10, H - 10], outline=BORDER, width=3)
-    x = V.draw_mixed(d, 70, 28, "अपना बिहार समाचार", 29, True, BLUE)
+    x = V.draw_mixed(d, 70, 28, "अपना बिहार समाचार Live", 29, True, BLUE)
     cx = x + 18
     d.ellipse([cx, 42, cx + 13, 55], fill=RED)
     V.draw_mixed(d, cx + 30, 28, "BSEB SLET 2026", 29, True, BLUE)
@@ -361,7 +361,7 @@ def intro_frames(lesson, hand):
     frames = []
     for step, upto in enumerate((part, tw, tw)):
         img, d = wb_base(lesson)
-        V.center(d, "अपना बिहार समाचार", 108, 52, True, BLUE)
+        V.center(d, "अपना बिहार समाचार Live", 108, 52, True, BLUE)
         V.center(d, "BSEB SLET 2026", 182, 32, True, GREEN)
         V.center(d, lesson.get("class_label", ""), 238, 36, True, INK)
         frontier = draw_partial(d, xs, 330, tlines, 56, upto, INK, line_h=76)
@@ -422,7 +422,7 @@ def lesson_thumb(lesson, photo_path=None):
     def ctext(text, y, size, bold, fill, maxw=740):
         tw = V.text_w(d, text, size, bold)
         V.draw_mixed(d, cx - tw / 2, y, text, size, bold, fill)
-    ctext("अपना बिहार समाचार", 56, 38, True, (255, 255, 255))
+    ctext("अपना बिहार समाचार Live", 56, 38, True, (255, 255, 255))
     badge = "BSEB \u2022 SLET 2026"
     bw = V.text_w(d, badge, 34, True) + 44
     V.rrect(d, [cx - bw / 2, 118, cx + bw / 2, 172], 26, fill=(30, 122, 52))
@@ -512,7 +512,7 @@ async def build(lesson, workdir):
     segs = []
     # intro (whiteboard — chapter title haath se likhte hue)
     a = os.path.join(workdir, "intro.mp3")
-    await V.tts(f"अपना बिहार समाचार में आपका स्वागत है। {lesson.get('class_label','')} — अध्याय {lesson.get('chapter_no','')}, {lesson.get('chapter_title','')}। चलिए, पूरी तैयारी आसान भाषा में समझते हैं।", a)
+    await V.tts(f"अपना बिहार समाचार लाइव में आपका स्वागत है। {lesson.get('class_label','')} — अध्याय {lesson.get('chapter_no','')}, {lesson.get('chapter_title','')}। चलिए, पूरी तैयारी आसान भाषा में समझते हैं।", a)
     segs += reveal_segments(workdir, "intro", a, intro_frames(lesson, hand))
     for i, sc in enumerate(scenes, 1):
         a = os.path.join(workdir, f"s{i}.mp3")
@@ -530,7 +530,7 @@ async def build(lesson, workdir):
     # outro (purana navy slide hi)
     p = os.path.join(workdir, "outro.png"); V.outro_slide().save(p)
     a = os.path.join(workdir, "outro.mp3")
-    await V.tts("आज का lesson यहीं पूरा हुआ। अगले lesson के साथ फिर मिलेंगे। वीडियो अच्छा लगा हो तो लाइक कीजिए और चैनल को सब्सक्राइब कीजिए — अपना बिहार समाचार। धन्यवाद!", a)
+    await V.tts("आज का lesson यहीं पूरा हुआ। अगले lesson के साथ फिर मिलेंगे। वीडियो अच्छा लगा हो तो लाइक कीजिए और चैनल को सब्सक्राइब कीजिए — अपना बिहार समाचार लाइव। धन्यवाद!", a)
     s = os.path.join(workdir, "seg_999.mp4"); V.make_segment(p, a, s); segs.append(s)
     # concat
     lst = os.path.join(workdir, "list.txt")

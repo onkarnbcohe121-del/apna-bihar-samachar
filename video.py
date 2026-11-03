@@ -197,14 +197,14 @@ def base_slide():
     # Watermark — channel ka naam, halka tedha beech me + neeche kone me
     wm = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     wd = ImageDraw.Draw(wm)
-    wtxt = "Apna Bihar Samachar"
+    wtxt = "Apna Bihar Samachar Live"
     wf = F("latin", 56, True)
     wd.text(((W - wd.textlength(wtxt, font=wf)) / 2, H / 2 - 32), wtxt,
             font=wf, fill=(255, 255, 255, 26))
     wm = wm.rotate(24, resample=Image.BILINEAR, center=(W / 2, H / 2))
     img = Image.alpha_composite(img.convert("RGBA"), wm).convert("RGB")
     d = ImageDraw.Draw(img)
-    mk = "@ApnaBiharSamachar"
+    mk = "@ApnaBiharSamacharLive"
     draw_mixed(d, W - 40 - text_w(d, mk, 20, True), H - 34, mk, 20, True, (130, 150, 205))
     return img, d
 
@@ -292,7 +292,7 @@ def outro_slide():
     center(d, "धन्यवाद!", 170, 60, True, (255, 153, 51))
     center(d, "रोज़ ऐसे ही प्रश्नों के लिए चैनल से जुड़े रहें", 280, 34, False, (255, 255, 255))
     center(d, "Like करें — Subscribe करें", 345, 40, True, (124, 252, 154))
-    center(d, "Apna Bihar Samachar — @ApnaBiharSamachar", 420, 36, True, (255, 153, 51))
+    center(d, "Apna Bihar Samachar Live — @ApnaBiharSamacharLive", 420, 36, True, (255, 153, 51))
     return img
 
 # ---------------- Segments ----------------
@@ -410,7 +410,7 @@ def main():
     today = datetime.now(IST).strftime("%d %b %Y")
     caption = (f"🎬 BPSC TRE 4.0 — {len(batch)} Objective Questions with Answers\n"
                f"📚 Video #{vno} | {today}\n"
-               f"हर सवाल का जवाब + व्याख्या वीडियो में ही है।\n— Apna Bihar Samachar")
+               f"हर सवाल का जवाब + व्याख्या वीडियो में ही है।\n— Apna Bihar Samachar Live")
     vcaption = f"🎬 Video #{vno} | BPSC TRE 4.0 — {len(batch)} Questions with Answers"
     ok = True
     if SEND_TO in ("both", "channel"):
