@@ -305,7 +305,7 @@ def make_segment(png, mp3, out):
 
 async def build(questions, workdir, q_start=None):
     segs = []
-    today = datetime.now(IST).strftime("%d %B %Y")
+    today = ""  # User rule (3 Nov 2026): MCQ thumbnail/intro me date NAHI
     total = len(questions)
     # Intro
     start_no = q_start or 1
