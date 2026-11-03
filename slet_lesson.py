@@ -499,12 +499,9 @@ async def build(lesson, workdir):
         if sc.get("img_file"):
             ok = fetch_pinned(sc["img_file"], dest)
             if not ok:
-                print(f"  scene {i}: pinned fail, search se koshish")
-        if q and not ok:
-            ok = fetch_image(q, dest)
-            if not ok:
-                time.sleep(3)
-                ok = fetch_image(q, dest)
+                print(f"  scene {i}: pinned photo NAHI mili — slide photo ke bina banegi")
+        # User rule (3 Nov 2026): search se andhi photo NAHI lagegi — sirf pehle se
+        # jaanch karke pin ki gayi photo hi use hogi; galat photo se behtar hai photo na ho.
         if ok:
             sc["_img"] = dest
             print(f"  tasveer mili: scene {i}")
