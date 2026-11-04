@@ -563,7 +563,7 @@ async def build(lesson, workdir):
     photo = next((sc.get("_img") for sc in scenes if sc.get("_img")), None)
     lesson_thumb(lesson, photo).save(thumb, quality=88)
     with open(os.path.join(workdir, "title.txt"), "w", encoding="utf-8") as f:
-        f.write(lesson.get("yt_title", ""))
+        f.write(lesson.get("yt_title", "")[:100])
     with open(os.path.join(workdir, "desc.txt"), "w", encoding="utf-8") as f:
         f.write(lesson.get("yt_desc", ""))
     with open(os.path.join(workdir, "playlist.txt"), "w", encoding="utf-8") as f:
