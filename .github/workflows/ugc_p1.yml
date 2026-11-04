@@ -1,0 +1,84 @@
+name: UGC NET Paper 1 Lesson
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 09:00 IST
+  workflow_dispatch:
+    inputs:
+      lesson_file:
+        description: "UGC script JSON ka path (khaali = pointer file se agli script)"
+        default: ""
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ugc-p1
+
+jobs:
+  make-lesson:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow requests google-api-python-client google-auth
+
+      - name: UGC Lesson video banao
+        env:
+          LESSON_FILE_IN: ${{ inputs.lesson_file }}
+          SAVE_STATE: "0"
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          LF="$LESSON_FILE_IN"
+          if [ -z "$LF" ]; then LF=$(cat ugc_p1_next.txt); fi
+          echo "Script: $LF"
+          LESSON_FILE="$LF" python ugc_lesson.py
+
+      - name: YouTube par upload karo (Paper 1 playlist)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/treles_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/treles_*/thumb.jpg | head -1)
+          export VIDEO_FILE THUMB_FILE
+          export YT_PLAYLIST_ID=$(cat ugc_p1_playlist_id.txt 2>/dev/null || echo "")
+          export YT_TITLE=$(cat tmpwork/treles_*/title.txt)
+          export YT_DESC=$(cat tmpwork/treles_*/desc.txt)
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > ugc_p1_latest.txt || true
+
+      - name: Video file artifact me bachao (upload fail ho to bhi file yahi mile)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ugc-p1-video
+          path: |
+            tmpwork/treles_*/final.mp4
+            tmpwork/treles_*/thumb.jpg
+            tmpwork/treles_*/title.txt
+            tmpwork/treles_*/desc.txt
+          retention-days: 3
+          if-no-files-found: warn
+
+      - name: Latest wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add ugc_p1_latest.txt || true
+          git diff --cached --quiet || git commit -m "ugc-p1 latest update"
+          git push || true
