@@ -332,8 +332,22 @@ def synth(text, idx):
     req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8"),
                                  headers={"Content-Type": "application/json",
                                           "x-goog-api-key": KEY}, method="POST")
-    with urllib.request.urlopen(req, timeout=180) as r:
-        data = json.load(r)
+    import time
+    import urllib.error
+    data = None
+    for attempt, wait in enumerate([0, 25, 50, 90, 120]):
+        if wait:
+            print(f"seg{idx}: 429/5xx ke baad {wait}s ruk kar retry {attempt}")
+            time.sleep(wait)
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                data = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503) and attempt < 4:
+                continue
+            raise
+    time.sleep(5)
     pcm = base64.b64decode(data["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
     raw = os.path.join(OUT, f"seg{idx}.pcm")
     wav = os.path.join(OUT, f"seg{idx}.wav")
