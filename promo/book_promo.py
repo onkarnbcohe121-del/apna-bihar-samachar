@@ -193,9 +193,9 @@ def slide_cover():
     img, d = base_slide()
     paste_fit(img, os.path.join(ASSETS, "cover.png"), (90, 60, 620, 900))
     ctext(d, 1245, 185, "एक ही किताब में पूरी तैयारी", 74, GOLD, maxw=1060)
-    bullets(d, 800, 380, ["269 Pages की सम्पूर्ण किताब",
+    bullets(d, 800, 380, ["272 Pages की सम्पूर्ण किताब",
                           "Library Science Theory — 8 Units",
-                          "860 Practice Questions (Bilingual)",
+                          "868 Practice Questions (Bilingual)",
                           "2 Full Mock Tests + Rapid Revision"], size=54, gap=36)
     return img
 
@@ -218,7 +218,7 @@ def slide_units():
 
 def slide_mcq():
     img, d = base_slide()
-    ctext(d, W // 2, 110, "860 Practice Questions", 92, GOLD)
+    ctext(d, W // 2, 110, "868 Practice Questions", 92, GOLD)
     ctext(d, W // 2, 255, "हर सवाल — हिंदी + English (Bilingual)", 58, CREAM)
     bullets(d, 170, 440, ["हर Unit के बाद 45-45 अभ्यास प्रश्न",
                           "हर सवाल के साथ उत्तर और आसान व्याख्या",
@@ -280,7 +280,7 @@ def slide_price():
     ctext(d, W // 2, 300, "पूरी किताब — सिर्फ़", 64, WHITE)
     price = "₹49" if RUPEE_IN else "49 रुपये"
     ctext(d, W // 2, 400, price, 300, CREAM)
-    ctext(d, W // 2, 800, "269 Pages • PDF • तुरंत Download", 58, WHITE)
+    ctext(d, W // 2, 800, "272 Pages • PDF • तुरंत Download", 58, WHITE)
     ctext(d, W // 2, 905, "खरीदने का Link — इस Video के Description में", 52, GOLD)
     return img
 
@@ -308,9 +308,9 @@ SLIDES = {
 
 SEGMENTS = [
     ("title", "नमस्कार दोस्तों! क्या आप BSEB SLET 2026, यानी विद्यालय पुस्तकालयाध्यक्ष पात्रता परीक्षा की तैयारी कर रहे हैं? तो यह video आपके लिए ही है। परीक्षा 22 नवंबर से शुरू हो रही है — और अब घबराने का नहीं, सही दिशा में तैयारी करने का समय है।"),
-    ("cover", "Apna Bihar Samachar Live आपके लिए लेकर आया है — BSEB SLET 2026 की सम्पूर्ण तैयारी पुस्तक। 269 pages की इस एक ही किताब में आपकी पूरी तैयारी आ गई है — सम्पूर्ण Theory, 860 अभ्यास प्रश्न और Full Mock Tests। अब अलग-अलग किताबों के पीछे भागने की ज़रूरत नहीं।"),
+    ("cover", "Apna Bihar Samachar Live आपके लिए लेकर आया है — BSEB SLET 2026 की सम्पूर्ण तैयारी पुस्तक। 272 pages की इस एक ही किताब में आपकी पूरी तैयारी आ गई है — सम्पूर्ण Theory, 868 अभ्यास प्रश्न और Full Mock Tests। अब अलग-अलग किताबों के पीछे भागने की ज़रूरत नहीं।"),
     ("units", "किताब के भाग A में Library Science के पूरे 8 Units की विस्तृत Theory है — Library and Society, Classification, Cataloguing, Management, Reference Services, IT in Libraries, Networks और Research। हर विषय हिंदी में, English technical terms के साथ, ताकि हर concept जड़ से साफ़ हो जाए।"),
-    ("mcq", "हर Unit के साथ हैं 45-45 अभ्यास प्रश्न — पूरी किताब में कुल 860 Practice Questions। ख़ास बात यह है कि हर सवाल हिंदी और English दोनों भाषाओं में है, और हर सवाल के साथ उसका उत्तर और आसान व्याख्या भी दी गई है, ताकि गलती वहीं सुधर जाए।"),
+    ("mcq", "हर Unit के साथ हैं 45-45 अभ्यास प्रश्न — पूरी किताब में कुल 868 Practice Questions। ख़ास बात यह है कि हर सवाल हिंदी और English दोनों भाषाओं में है, और हर सवाल के साथ उसका उत्तर और आसान व्याख्या भी दी गई है, ताकि गलती वहीं सुधर जाए।"),
     ("gk", "भाग B में है GK के पूरे 50 अंकों की तैयारी — Bihar GK, India GK और Current Affairs, Computer Awareness और Reasoning — हल किए हुए उदाहरणों के साथ।"),
     ("mock", "भाग C में हैं 2 Full Mock Tests — 150-150 सवाल, बिल्कुल असली परीक्षा के pattern पर, अलग Answer Key के साथ। और साथ में Rapid Revision — सभी Full Forms, प्रसिद्ध पुस्तकें और उनके लेखक, महत्वपूर्ण वर्ष और 200 लघु प्रश्नोत्तर।"),
     ("page_mcq", "यह देखिए — किताब के अंदर का एक असली page। हर सवाल पहले हिंदी में, फिर English में, और नीचे उसका सही उत्तर हरे निशान के साथ — बिल्कुल साफ़ और आसान।"),
