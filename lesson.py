@@ -406,6 +406,19 @@ def revision_frames(lesson, hand):
     return frames
 
 
+def subject_of(lesson):
+    """Thumbnail par asli subject — JSON ke 'subject' field se; na mile to
+    class_label/yt_title me khojo; phir bhi na mile to 'Class Lessons'."""
+    s = (lesson.get("subject") or "").strip()
+    if s:
+        return s
+    hay = (lesson.get("class_label", "") + " " + lesson.get("yt_title", "")).lower()
+    for name in ("History", "Polity", "Geography", "Economics", "Science"):
+        if name.lower() in hay:
+            return name
+    return "Class Lessons"
+
+
 # ---------------- Thumbnail (purana navy style hi) ----------------
 def lesson_thumb(lesson, photo_path=None):
     img, d = V.base_slide()
@@ -427,7 +440,7 @@ def lesson_thumb(lesson, photo_path=None):
     bw = V.text_w(d, badge, 34, True) + 44
     V.rrect(d, [cx - bw / 2, 118, cx + bw / 2, 172], 26, fill=(30, 122, 52))
     V.draw_mixed(d, cx - V.text_w(d, badge, 34, True) / 2, 128, badge, 34, True, (255, 255, 255))
-    ctext("NCERT History", 196, 40, True, (124, 252, 154))
+    ctext("NCERT " + subject_of(lesson), 196, 40, True, (124, 252, 154))
     y = 268
     for ln in V.wrap_mixed(d, lesson.get("chapter_title", ""), 64, True, 720)[:3]:
         ctext(ln, y, 64, True, (255, 205, 90)); y += 82
@@ -553,6 +566,8 @@ async def build(lesson, workdir):
         f.write(lesson.get("yt_title", ""))
     with open(os.path.join(workdir, "desc.txt"), "w", encoding="utf-8") as f:
         f.write(lesson.get("yt_desc", ""))
+    with open(os.path.join(workdir, "playlist.txt"), "w", encoding="utf-8") as f:
+        f.write(lesson.get("playlist_id", ""))
     print(f"Video taiyaar: {final} ({os.path.getsize(final)/1e6:.1f} MB, {dur/60:.1f} min)")
     return final, thumb
 
