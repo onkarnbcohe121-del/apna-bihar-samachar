@@ -16,8 +16,8 @@ V.RATE = "+5%"    # lessons: Swara rate +5%
 V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
 
 W, H = V.W, V.H
-SFILE = "lesson_state.json"
-IFILE = "lessons/index.json"
+SFILE = "slet_state.json"
+IFILE = "lessons/slet_index.json"
 UA = {"User-Agent": "ApnaBiharSamachar-LessonBot/1.0 (educational)"}
 HAND_URL = ("https://commons.wikimedia.org/wiki/Special:FilePath/"
             "Hand%20Writingwith%20Pencil%20(NIH%20BioArt%20192).png?width=900")
