@@ -10,6 +10,8 @@ import json
 import os
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 
 from PIL import Image, ImageDraw, ImageFont
@@ -332,8 +334,6 @@ def synth(text, idx):
     req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8"),
                                  headers={"Content-Type": "application/json",
                                           "x-goog-api-key": KEY}, method="POST")
-    import time
-    import urllib.error
     data = None
     for attempt, wait in enumerate([0, 25, 50, 90, 120]):
         if wait:
