@@ -208,7 +208,7 @@ def get_news(query, category):
 # wahi queries Bing News par bhi chalti hain,
 # jahan har khabar ke saath asal summary milti hai.
 # Bulletin me ab LAMBA LINK NAHI jayega —
-# headline + source + summary jayega.
+# headline + summary jayega. (User ka nirdesh 4 Nov 2026: Telegram post me source ka naam/link NAHI jayega.)
 # ==========================================
 
 def clean_text(text):
@@ -610,15 +610,11 @@ def create_message(bihar_news, national_news):
     for i, article in enumerate(bihar_news, 1):
 
         message += f"{i}. {article['title']}\n"
-        message += f"🗞️ {article['source']}\n"
         if article.get("summary"):
             message += f"{article['summary']}\n"
         link = article.get("source_link", "")
-        if link:
-            if link.lower().split("?")[0].endswith(".pdf"):
-                message += f"📄 PDF: {link}\n"
-            else:
-                message += f"🔗 Source: {link}\n"
+        if link and link.lower().split("?")[0].endswith(".pdf"):
+            message += f"📄 PDF: {link}\n"
         message += "\n"
 
     message += (
@@ -632,15 +628,11 @@ def create_message(bihar_news, national_news):
     for i, article in enumerate(national_news, 1):
 
         message += f"{i}. {article['title']}\n"
-        message += f"🗞️ {article['source']}\n"
         if article.get("summary"):
             message += f"{article['summary']}\n"
         link = article.get("source_link", "")
-        if link:
-            if link.lower().split("?")[0].endswith(".pdf"):
-                message += f"📄 PDF: {link}\n"
-            else:
-                message += f"🔗 Source: {link}\n"
+        if link and link.lower().split("?")[0].endswith(".pdf"):
+            message += f"📄 PDF: {link}\n"
         message += "\n"
 
     # User ka nirdesh (1 Nov): Telegram news post me YouTube link bhi dalo
