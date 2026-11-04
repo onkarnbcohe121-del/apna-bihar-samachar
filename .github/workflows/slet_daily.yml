@@ -1,0 +1,84 @@
+name: BSEB SLET Daily Lesson
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 11:00 IST
+    - cron: "30 10 * * *"  # 16:00 IST
+  workflow_dispatch:
+    inputs:
+      lesson_file:
+        description: "SLET Lesson JSON ka path (khaali = slet_index/state se agla)"
+        default: ""
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: slet-lesson
+
+jobs:
+  make-lesson:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow requests google-api-python-client google-auth
+
+      - name: SLET Lesson video banao
+        env:
+          LESSON_FILE: ${{ inputs.lesson_file }}
+          SAVE_STATE: "1"
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python slet_lesson.py
+
+      - name: YouTube par upload karo (SLET playlist)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}}}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}}}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}}}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: |
+          set -o pipefail
+          VIDEO_FILE=$(ls tmpwork/treles_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/treles_*/thumb.jpg | head -1)
+          export VIDEO_FILE THUMB_FILE
+          export YT_PLAYLIST_ID=$(cat slet_playlist_id.txt 2>/dev/null || echo "")
+          export YT_TITLE=$(cat tmpwork/treles_*/title.txt)
+          export YT_DESC=$(cat tmpwork/treles_*/desc.txt)
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > slet_latest.txt || true
+          test -s slet_latest.txt
+
+      - name: Video file artifact me bachao (upload fail ho to bhi file yahi mile)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: slet-lesson-video
+          path: |
+            tmpwork/treles_*/final.mp4
+            tmpwork/treles_*/thumb.jpg
+            tmpwork/treles_*/title.txt
+            tmpwork/treles_*/desc.txt
+          retention-days: 3
+          if-no-files-found: warn
+
+      - name: State wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add slet_latest.txt slet_state.json || true
+          git diff --cached --quiet || git commit -m "slet daily update"
+          git push || true
