@@ -39,6 +39,8 @@ jobs:
           LESSON_FILE_IN: ${{ inputs.lesson_file }}
           SAVE_STATE: "0"
           TMPDIR: ${{ github.workspace }}/tmpwork
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          UGC_VOICE: "leda"
         run: |
           mkdir -p tmpwork
           LF="$LESSON_FILE_IN"
