@@ -560,7 +560,14 @@ async def build(lesson, workdir):
          "-filter_complex", "[1:a]volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:dropout_transition=2[a]",
          "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k", final], check=True)
     thumb = os.path.join(workdir, "thumb.jpg")
-    photo = next((sc.get("_img") for sc in scenes if sc.get("_img")), None)
+    photo = None
+    _tf = lesson.get("thumb_file")
+    if _tf:
+        _td = os.path.join(workdir, "thumb_photo.jpg")
+        if fetch_pinned(_tf, _td):
+            photo = _td
+    if not photo:
+        photo = next((sc.get("_img") for sc in scenes if sc.get("_img")), None)
     lesson_thumb(lesson, photo).save(thumb, quality=88)
     with open(os.path.join(workdir, "title.txt"), "w", encoding="utf-8") as f:
         f.write(lesson.get("yt_title", "")[:100])
