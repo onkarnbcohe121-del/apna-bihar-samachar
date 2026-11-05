@@ -224,6 +224,27 @@ def total_words(lines):
 # ---------------- Scene (whiteboard) ----------------
 HEAD_X, HEAD_Y, HEAD_SIZE, HEAD_MAXW, HEAD_LH = 70, 96, 44, 660, 56
 BUL_X, BUL_SIZE, BUL_MAXW, BUL_LH = 112, 30, 640, 42
+
+BUL_WIDE = W - BUL_X - 70          # photo na ho to text zyada chaudi jagah le sakta hai
+BUL_BOTTOM = H - 58                # footer ke upar ki surakshit seema
+
+def fit_bullets(d, sc, has_photo):
+    """Bullet block frame ke andar hi rahe — photo na ho to pehle chaudi
+    jagah, phir dheere-dheere chhota akshar. (size, lh, maxw, lines_list)."""
+    points = sc.get("points", [])
+    head_lines = layout_words(d, sc["head"], HEAD_SIZE, True, HEAD_MAXW)
+    start_y = HEAD_Y + len(head_lines) * HEAD_LH + 24
+    widths = [BUL_MAXW] if has_photo else [BUL_WIDE, BUL_MAXW]
+    for size in (30, 28, 26, 24, 22, 20, 18):
+        lh = max(25, round(size * 1.4))
+        for maxw in widths:
+            lines_list = [layout_words(d, pt, size, False, maxw, fact=True) for pt in points]
+            total = sum(len(ls) * lh + 12 for ls in lines_list)
+            if start_y + total - 12 <= BUL_BOTTOM:
+                return size, lh, maxw, lines_list
+    size, lh, maxw = 18, 25, widths[0]
+    return size, lh, maxw, [layout_words(d, pt, size, False, maxw, fact=True) for pt in points]
+
 FX, FY, FW, FH = 796, 168, 396, 314
 
 
@@ -246,21 +267,23 @@ def render_scene_state(lesson, sc, idx, total, hand, photo,
             wobble_line(d, HEAD_X, HEAD_X + lw,
                         HEAD_Y + (len(head_lines) - 1) * HEAD_LH + HEAD_SIZE + 6,
                         seed=idx * 7 + 1)
-    # bullets
+    # bullets — frame ke andar fit karke (akshar zarurat par chhota)
+    has_photo = photo is not None or bool(sc.get("visual"))
+    bsize, blh, bmaxw, blines = fit_bullets(d, sc, has_photo)
     y = HEAD_Y + len(head_lines) * HEAD_LH + 24
     for bi, pt in enumerate(points):
         bw = bullet_words[bi] if bi < len(bullet_words) else "full"
         if bw == 0:
             continue
-        lines = layout_words(d, pt, BUL_SIZE, False, BUL_MAXW, fact=True)
+        lines = blines[bi]
         tw = total_words(lines)
         n = tw if bw == "full" else int(bw)
         if n <= 0:
             continue
         d.ellipse([77, y + 8, 91, y + 22], fill=BLUE)
         frontier = draw_partial(d, [BUL_X] * len(lines), y, lines,
-                                BUL_SIZE, n, GRAY, fact=True, line_h=BUL_LH)
-        y += len(lines) * BUL_LH + 12
+                                bsize, n, GRAY, fact=True, line_h=blh)
+        y += len(lines) * blh + 12
     # tasveer / visual shabd
     cap = sc.get("vcap", "")
     if img_frac and img_frac > 0:
@@ -301,10 +324,9 @@ def scene_frames(lesson, sc, idx, total, hand):
     head_lines = layout_words(probe, sc["head"], HEAD_SIZE, True, HEAD_MAXW)
     head_total = total_words(head_lines)
     head_part = max(1, int(round(head_total * 0.45))) if head_total > 1 else head_total
-    bullet_info = []
-    for pt in points:
-        lines = layout_words(probe, pt, BUL_SIZE, False, BUL_MAXW, fact=True)
-        bullet_info.append(total_words(lines))
+    _hv = bool(sc.get("visual")) or bool(sc.get("_img") and os.path.exists(sc["_img"]))
+    _bs, _blh, _bmw, _blines = fit_bullets(probe, sc, _hv)
+    bullet_info = [total_words(ls) for ls in _blines]
     total_chars = sum(len(pt) for pt in points) or 1
     photo = None
     if sc.get("_img") and os.path.exists(sc["_img"]):
