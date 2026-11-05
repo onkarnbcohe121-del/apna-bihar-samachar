@@ -46,4 +46,4 @@ jobs:
         run: |
           export YT_TITLE="$(cat promo_out/title.txt)"
           export YT_DESC="$(cat promo_out/desc.txt)"
-          python youtube/youtube_upload.py
+          python youtube_upload.py
