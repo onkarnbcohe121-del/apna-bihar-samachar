@@ -53,8 +53,38 @@ def apply_dictionary(text: str, dictionary: Dict[str, str]) -> str:
     # Longest terms first, and replace complete terms only.
     for original in sorted(dictionary, key=len, reverse=True):
         replacement = dictionary[original]
-        pattern = rf"(?<![\w]){re.escape(original)}(?![\w])"
+        pattern = rf"(?<![\w\u0900-\u097F]){re.escape(original)}(?![\w\u0900-\u097F])"
         text = re.sub(pattern, lambda _m, value=replacement: value, text, flags=re.IGNORECASE)
+    return text
+
+
+# ---------------- Vyakaran niyam (dictionary ke baad lagte hain) ----------------
+# Niyam 1 — '-आलय' ant wale shabd: aakhri awaaz band (halant).
+# विद्यालय / पुस्तकालय / सचिवालय / न्यायालय / शौचालय jaise shabdon ko TTS
+# aksar '...laye' padh deta hai; halant lagne se sahi '...lay' banta hai.
+# Dictionary wale shabd pehle hi badal chuke hote hain — ye niyam un
+# shabdon ko pakadta hai jo dictionary me hain hi nahi.
+_AALAY_RE = re.compile(r"([\u0900-\u097F]{2,}ालय)(?![\u0900-\u097F])")
+
+# Niyam 2 — dictionary me na mila ALL-CAPS English sankshep (MCQ, BSTET,
+# IGNOU...) akshar-dar-akshar Hindi me padha jaye, English shabd ki tarah
+# galat na padha jaye.
+_LETTER_NAMES = {
+    "A": "ए", "B": "बी", "C": "सी", "D": "डी", "E": "ई", "F": "एफ़",
+    "G": "जी", "H": "एच", "I": "आई", "J": "जे", "K": "के", "L": "एल",
+    "M": "एम", "N": "एन", "O": "ओ", "P": "पी", "Q": "क्यू", "R": "आर",
+    "S": "एस", "T": "टी", "U": "यू", "V": "वी", "W": "डब्ल्यू", "X": "एक्स",
+    "Y": "वाई", "Z": "ज़ेड",
+}
+_ACRONYM_RE = re.compile(r"\b[A-Z]{2,}\b")
+
+
+def apply_pronunciation_rules(text: str) -> str:
+    """Hindi uchchaaran ke aam niyam — sirf un shabdon par jo dictionary
+    se nahi badle. Dictionary hamesha pehle lagta hai aur jeet-ta hai."""
+    text = _AALAY_RE.sub(lambda m: m.group(1) + "्", text)
+    text = _ACRONYM_RE.sub(
+        lambda m: " ".join(_LETTER_NAMES[ch] for ch in m.group(0)), text)
     return text
 
 
@@ -64,6 +94,7 @@ def prepare_tts_text(text: str, dictionary_path: Path = DEFAULT_DICTIONARY) -> s
         raise TypeError("TTS input must be a string")
     spoken = text.translate(DEV_DIGITS)
     spoken = apply_dictionary(spoken, load_dictionary(dictionary_path))
+    spoken = apply_pronunciation_rules(spoken)
     # Keep the established 1100–1999 year-reading rule.
     spoken = re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", year_to_sau_style, spoken)
     # Give TTS clean spacing without changing the words or their meaning.
