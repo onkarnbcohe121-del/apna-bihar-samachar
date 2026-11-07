@@ -328,20 +328,22 @@ BUL_WIDE = W - BUL_X - 70          # photo na ho to text zyada chaudi jagah le s
 BUL_BOTTOM = H - 58                # footer ke upar ki surakshit seema
 
 def fit_bullets(d, sc, has_photo):
-    """Bullet block frame ke andar hi rahe — photo na ho to pehle chaudi
-    jagah, phir dheere-dheere chhota akshar. (size, lh, maxw, lines_list)."""
+    """Bullet block frame ke andar hi rahe — photo/visual ho to pehle
+    saki jagah (BUL_MAXW); wahan fit na ho to visual ki jagah chhodkar
+    poori chaudi jagah (BUL_WIDE). Akshar 30 se 14 tak — kisi bhi haal
+    me block BUL_BOTTOM ke andar hi rahega. (size, lh, maxw, lines_list)."""
     points = sc.get("points", [])
     head_lines = layout_words(d, sc["head"], HEAD_SIZE, True, HEAD_MAXW)
     start_y = HEAD_Y + len(head_lines) * HEAD_LH + 24
-    widths = [BUL_MAXW] if has_photo else [BUL_WIDE, BUL_MAXW]
-    for size in (30, 28, 26, 24, 22, 20, 18):
-        lh = max(25, round(size * 1.4))
+    widths = [BUL_MAXW, BUL_WIDE] if has_photo else [BUL_WIDE, BUL_MAXW]
+    for size in (30, 28, 26, 24, 22, 20, 18, 16, 14):
+        lh = max(22, round(size * 1.4))
         for maxw in widths:
             lines_list = [layout_words(d, pt, size, False, maxw, fact=True) for pt in points]
             total = sum(len(ls) * lh + 12 for ls in lines_list)
             if start_y + total - 12 <= BUL_BOTTOM:
                 return size, lh, maxw, lines_list
-    size, lh, maxw = 18, 25, widths[0]
+    size, lh, maxw = 14, 22, BUL_WIDE
     return size, lh, maxw, [layout_words(d, pt, size, False, maxw, fact=True) for pt in points]
 
 FX, FY, FW, FH = 796, 168, 396, 314
@@ -369,6 +371,7 @@ def render_scene_state(lesson, sc, idx, total, hand, photo,
     # bullets — frame ke andar fit karke (akshar zarurat par chhota)
     has_photo = photo is not None or bool(sc.get("visual"))
     bsize, blh, bmaxw, blines = fit_bullets(d, sc, has_photo)
+    wide_override = has_photo and bmaxw > BUL_MAXW
     y = HEAD_Y + len(head_lines) * HEAD_LH + 24
     for bi, pt in enumerate(points):
         bw = bullet_words[bi] if bi < len(bullet_words) else "full"
@@ -385,7 +388,7 @@ def render_scene_state(lesson, sc, idx, total, hand, photo,
         y += len(lines) * blh + 12
     # tasveer / visual shabd
     cap = sc.get("vcap", "")
-    if img_frac and img_frac > 0:
+    if img_frac and img_frac > 0 and not wide_override:
         if photo is not None:
             d.rectangle([FX - 5, FY - 5, FX + FW + 5, FY + FH + 5], outline=(90, 95, 110), width=2)
             d.rectangle([FX, FY, FX + FW, FY + FH], outline=(90, 95, 110), width=2)
