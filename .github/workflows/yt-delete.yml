@@ -11,11 +11,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install google-api-python-client google-auth
-      - name: Purana video delete karo
+      - name: Duplicate videos delete karo
         env:
-          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
-          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
-          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}}}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}}}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}}}
         run: |
           python3 - <<'PY'
           import os
@@ -27,6 +27,11 @@ jobs:
                               client_secret=os.environ["YT_CLIENT_SECRET"],
                               scopes=["https://www.googleapis.com/auth/youtube"])
           yt = build("youtube", "v3", credentials=creds)
-          yt.videos().delete(id="yf7Cl2DNixs").execute()
-          print("DELETE_OK")
+          IDS = ['C36UmwQzW4k', '_ybR6fXLSA0', '9l__1nugRis', '9a5A4ezBE44', 'NjsdZgxi9wE', 'kKgYWUijo10']
+          for vid in IDS:
+              try:
+                  yt.videos().delete(id=vid).execute()
+                  print("DELETE_OK", vid)
+              except Exception as e:
+                  print("DELETE_FAIL", vid, repr(e)[:200])
           PY
