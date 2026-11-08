@@ -11,7 +11,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install google-api-python-client google-auth
-      - name: Duplicate videos delete karo
+      - name: Duplicate video + playlist safai
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
@@ -27,11 +27,25 @@ jobs:
                               client_secret=os.environ["YT_CLIENT_SECRET"],
                               scopes=["https://www.googleapis.com/auth/youtube"])
           yt = build("youtube", "v3", credentials=creds)
-          IDS = ['704PicBaPnM']
-          for vid in IDS:
+          for vid in ["yQA3Xrnl-vg"]:
               try:
                   yt.videos().delete(id=vid).execute()
                   print("DELETE_OK", vid)
               except Exception as e:
                   print("DELETE_FAIL", vid, repr(e)[:200])
+          REMOVE = {"yQA3Xrnl-vg", "704PicBaPnM", "_ybR6fXLSA0"}
+          token = None
+          while True:
+              resp = yt.playlistItems().list(part="snippet", playlistId="PLPSqiuQaJy9c", maxResults=50, pageToken=token).execute()
+              for it in resp.get("items", []):
+                  vid = it["snippet"]["resourceId"]["videoId"]
+                  if vid in REMOVE:
+                      try:
+                          yt.playlistItems().delete(id=it["id"]).execute()
+                          print("PLAYLIST_REMOVE_OK", vid)
+                      except Exception as e:
+                          print("PLAYLIST_REMOVE_FAIL", vid, repr(e)[:200])
+              token = resp.get("nextPageToken")
+              if not token:
+                  break
           PY
