@@ -23,6 +23,8 @@ jobs:
           pip install edge-tts pillow
 
       - name: Do sample Shorts banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python shorts_maker.py 1 shorts_samples/sample_short_q1.mp4
           python shorts_maker.py 21 shorts_samples/sample_short_q21.mp4
