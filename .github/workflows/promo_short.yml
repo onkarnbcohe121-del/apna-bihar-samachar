@@ -1,0 +1,45 @@
+name: Promo Short Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      voice:
+        description: "Awaaz: leda ya swara"
+        required: false
+        default: "leda"
+
+permissions:
+  contents: write
+
+jobs:
+  build-promo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow
+
+      - name: Vertical promo Short banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PROMO_VOICE: ${{ inputs.voice }}
+        run: |
+          mkdir -p shorts_samples
+          python promo_short_maker.py shorts_samples/slet_promo_vertical.mp4
+          ls -la shorts_samples/
+
+      - name: Short wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add shorts_samples/
+          git diff --cached --quiet || git commit -m "SLET promo vertical short"
+          git push || true
