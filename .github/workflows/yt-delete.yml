@@ -27,16 +27,16 @@ jobs:
                               client_secret=os.environ["YT_CLIENT_SECRET"],
                               scopes=["https://www.googleapis.com/auth/youtube"])
           yt = build("youtube", "v3", credentials=creds)
-          for vid in ["rHlxUeDGzo0", "aAMr_Qfl1gE"]:
+          for vid in ["WfCg7w-CDUw"]:
               try:
                   yt.videos().delete(id=vid).execute()
                   print("DELETE_OK", vid)
               except Exception as e:
                   print("DELETE_FAIL", vid, repr(e)[:200])
-          REMOVE = {"yQA3Xrnl-vg", "704PicBaPnM", "_ybR6fXLSA0"}
+          REMOVE = {"WfCg7w-CDUw"}
           token = None
           while True:
-              resp = yt.playlistItems().list(part="snippet", playlistId="PLPSqiuQaJy9c", maxResults=50, pageToken=token).execute()
+              resp = yt.playlistItems().list(part="snippet", playlistId="PLcdNKhIFEMC0", maxResults=50, pageToken=token).execute()
               for it in resp.get("items", []):
                   vid = it["snippet"]["resourceId"]["videoId"]
                   if vid in REMOVE:
