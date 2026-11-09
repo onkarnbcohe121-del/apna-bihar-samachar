@@ -27,7 +27,7 @@ jobs:
                               client_secret=os.environ["YT_CLIENT_SECRET"],
                               scopes=["https://www.googleapis.com/auth/youtube"])
           yt = build("youtube", "v3", credentials=creds)
-          for vid in ["yQA3Xrnl-vg"]:
+          for vid in ["rHlxUeDGzo0", "aAMr_Qfl1gE"]:
               try:
                   yt.videos().delete(id=vid).execute()
                   print("DELETE_OK", vid)
