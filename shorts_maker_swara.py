@@ -120,7 +120,7 @@ def frame_hook(q):
     t2 = 'सवाल'
     tw = V.text_w(d, t2, 210)
     V.draw_mixed(d, (W - tw) / 2, 730, t2, 210, True, RED)
-    t3 = 'क्या आप तैयार हैं?'
+    t3 = 'सवाल सुनिए, जवाब सोचिए'
     tw = V.text_w(d, t3, 56)
     V.draw_mixed(d, (W - tw) / 2, 1080, t3, 56, False, GRAY)
     return img
@@ -195,7 +195,7 @@ def main():
 
     opts_speech = '। '.join(f"{LETTERS[i]} — {hindi_part(o)}" for i, o in enumerate(q['options']))
     texts = {
-        'hook': 'BPSC TRE 4.0 — आज का सवाल! क्या आप तैयार हैं?',
+        'hook': 'आज का question है!',
         'ques': q['q_hi'] + ' विकल्प हैं। ' + opts_speech,
         'ans': 'सही जवाब है — ' + hindi_part(q['options'][q['answer']]) + '। ' + q['explanation'],
         'end': 'ऐसे ही रोज़ दस Shorts के लिए, अपना बिहार समाचार लाइव को सब्सक्राइब कीजिए।',
