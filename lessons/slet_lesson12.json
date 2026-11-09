@@ -1,0 +1,484 @@
+{
+ "chapter_no": 12,
+ "chapter_title": "द्रुत दोहराव (Rapid Revision) भाग 1 — पुस्तकालय एवं समाज, प्रबंधन, ज्ञान संगठन, संदर्भ स्रोत (Units 1–4)",
+ "class_label": "BSEB SLET 2026 • संपूर्ण तैयारी — Rapid Revision भाग 1",
+ "series": "BSEB SLET 2026",
+ "thumb_file": "Khuda Bakhsh Oriental Public Library - Patna (3).jpg",
+ "yt_title": "BSEB SLET 2026 | Rapid Revision Part 1 | Units 1-4 | Apna Bihar Samachar Live",
+ "yt_desc": "BSEB SLET 2026 Rapid Revision Part 1 in Hindi - last-days fast recap of Library Science Units 1-4 for the Bihar School Librarian Eligibility Test (exam from 23 November 2026, 150 questions, NO negative marking). Unit 1 Library and Society: Ranganathan's Five Laws (1931), types of libraries (public, academic, special, National Library Kolkata 1953), library movement in India (Baroda 1910), first library legislation (Madras Public Libraries Act 1948), RRRLF (1972), UGC (1953/1956), ILA (1933), IASLIC (1955). Unit 2 Library Management: Henri Fayol's 14 principles and POCCC functions (1916), Taylor's Scientific Management (1911), Gulick's POSDCORB, Maslow, McGregor, ZBB and PPBS. Unit 3 Knowledge Organisation: DDC (Dewey, 1876, 10 main classes, 23rd edition), Colon Classification (Ranganathan, 1933, PMEST), UDC (Otlet and La Fontaine, 1905), CCC (1934), AACR2 (1978), RDA (2010), Cutter (1876), catalogue forms and standard card size 12.5 x 7.5 cm. Unit 4 Reference and Information Sources and Services: dictionaries, Encyclopaedia Britannica (1768), yearbooks, directories, gazetteers, CAS (Current Awareness Service), SDI (Selective Dissemination of Information, H. P. Luhn, 1958), referral service. Ends with one-line fact drills for all four units, 12 practice questions with answers, common exam mistakes and a year-name matching revision table. Rapid Revision Part 2 (Units 5-7 + GK) follows.\n📚 BSEB SLET 2026 Complete Book — Diwali Offer, only ₹49!\n272 pages | 868 MCQs (Hindi + English) with answers & explanations | 2 Full Mock Tests | Rapid Revision + 200 Short Q&A\n👉 Buy & instant download: https://apnabiharsamacharlive.myinstamojo.com/product/bseb-slet-2026-complete-book-diwali-offer/\nTelegram: https://t.me/ApnaBiharSamachar\nPlaylist: https://www.youtube.com/playlist?list=PLcdNKhIFEMC0\n#BSEBSLET2026 #RapidRevision #LibraryScience #SLET2026 #ApnaBiharSamacharLive",
+ "scenes": [
+  {
+   "head": "स्वागत — Rapid Revision भाग 1: अंतिम दोहराव शुरू",
+   "img_file": "Khuda Bakhsh Oriental Public Library - Patna (3).jpg",
+   "img_query": "",
+   "points": [
+    "परीक्षा 23 नवंबर 2026 से — BSEB SLET (Bihar School Librarian Eligibility Test) 2026: कुल 150 प्रश्न, 150 अंक",
+    "पुस्तकालय विज्ञान 100 प्रश्न + सामान्य ज्ञान (Section B) 50 प्रश्न, समय 150 मिनट",
+    "Negative Marking बिल्कुल नहीं — हर सवाल attempt करना ही सीधा फायदा है",
+    "आज Rapid Revision भाग 1: Units 1–4 का तेज़ recap — परिभाषा, वर्ष और नाम पर ख़ास जोर",
+    "हर scene में 5–6 चुने हुए उच्च-उपज (high-yield) तथ्य; बीच में 12 अभ्यास प्रश्न भी",
+    "अगला भाग: Rapid Revision भाग 2 — Units 5–7 + Section B GK का दोहराव"
+   ],
+   "text": "अपना बिहार समाचार में आपका स्वागत है। BSEB SLET 2026 की परीक्षा तेईस नवंबर से शुरू हो रही है, इसलिए आज से हम Rapid Revision श्रृंखला ला रहे हैं। इस भाग एक में हम पुस्तकालय विज्ञान की पहली चार इकाइयों का तेज़ दोहराव करेंगे — पुस्तकालय एवं समाज, प्रबंधन, ज्ञान संगठन और संदर्भ स्रोत व सेवाएँ। याद रखिए, इस परीक्षा में negative marking बिल्कुल नहीं है, इसलिए कोई भी सवाल खाली छोड़ना घाटे का सौदा है। हर scene में सिर्फ़ वही तथ्य हैं जिनसे सीधे प्रश्न बनते हैं — वर्ष, नाम और परिभाषा। अंत में बारह अभ्यास प्रश्न और एक वर्ष-मिलान तालिका भी मिलेगी। तो कॉपी तैयार रखिए और शुरू करते हैं।",
+   "vcap": "परीक्षा 23 नवंबर से — तैयारी अंतिम दौर में",
+   "visual": "Revision का plan"
+  },
+  {
+   "head": "Unit 1 — पंच सूत्र (Five Laws): परीक्षा की नींव",
+   "img_file": "PORTRAIT OF SR RANGANATHAN.jpg",
+   "img_query": "",
+   "points": [
+    "पंच सूत्र — Dr. S. R. Ranganathan; पुस्तक 'Five Laws of Library Science', 1931",
+    "पहला सूत्र — Books are for use (पुस्तकें उपयोग के लिए हैं)",
+    "दूसरा सूत्र — Every reader his/her book (हर पाठक को उसकी पुस्तक)",
+    "तीसरा सूत्र — Every book its reader (हर पुस्तक को उसका पाठक)",
+    "चौथा सूत्र — Save the time of the reader (पाठक का समय बचाओ)",
+    "पाँचवाँ सूत्र — Library is a growing organism (पुस्तकालय बढ़ता हुआ जीव है)"
+   ],
+   "text": "Unit एक की सबसे पहली और सबसे पक्की कमाई है Ranganathan के पंच सूत्र। याद रखो, पुस्तक Five Laws of Library Science उन्नीस सौ इकतीस में आई थी। पहला सूत्र कहता है — पुस्तकें उपयोग के लिए हैं, अलमारी में बंद रखने के लिए नहीं। दूसरा कहता है — हर पाठक को उसकी पुस्तक मिले; तीसरा इसका उल्टा पहलू है — हर पुस्तक को उसका पाठक मिले। चौथा सूत्र पाठक का समय बचाने की बात करता है — यही आधुनिक सूचना सेवाओं की जड़ है। और पाँचवाँ सूत्र पुस्तकालय को बढ़ता हुआ जीव मानता है — इमारत, संग्रह और पाठक, तीनों बढ़ते हैं। प्रश्न में सूत्र का क्रम भी पूछा जाता है, क्रम से रट लो।",
+   "vcap": "1931 — Ranganathan के पंच सूत्र",
+   "visual": "Five Laws एक नज़र में"
+  },
+  {
+   "head": "Unit 1 — पुस्तकालय के प्रकार: कौन कहाँ",
+   "img_file": "National Library Kolkata 2017.jpg",
+   "img_query": "",
+   "points": [
+    "Public Library — आम जनता के लिए निःशुल्क; उदाहरण: Delhi Public Library, 1951 (UNESCO — United Nations Educational, Scientific and Cultural Organization — सहायता)",
+    "Academic Library — विद्यालय, महाविद्यालय और विश्वविद्यालय से जुड़ी पुस्तकालय",
+    "Special Library — विशेष विषय या संस्था की: अस्पताल, उद्योग, शोध संस्थान, विभागीय",
+    "National Library — देश की प्रमुख पुस्तकालय; भारत की: राष्ट्रीय पुस्तकालय, Kolkata (Belvedere Estate)",
+    "राष्ट्रीय पुस्तकालय की जड़ — Calcutta Public Library, 1836; उद्घाटन 1 फरवरी 1953, Maulana Abul Kalam Azad द्वारा",
+    "पहचान का नियम: प्रकार पूछा जाए तो पहले उपयोगकर्ता-वर्ग देखो — जनता, छात्र या विशेषज्ञ"
+   ],
+   "text": "अब पुस्तकालय के प्रकार झटपट दोहरा लो। सार्वजनिक पुस्तकालय जनता के लिए होती है — Delhi Public Library उन्नीस सौ इक्यावन में UNESCO की सहायता से बनी थी। शैक्षणिक पुस्तकालय स्कूल, कॉलेज और विश्वविद्यालय से जुड़ी होती है। विशेष पुस्तकालय किसी संस्था या विषय की सेवा करती है — जैसे अस्पताल या शोध संस्थान की। और राष्ट्रीय पुस्तकालय देश की सर्वोच्च पुस्तकालय है — भारत की राष्ट्रीय पुस्तकालय Kolkata में है, जिसकी शुरुआत अठारह सौ छत्तीस में Calcutta Public Library के रूप में हुई और उद्घाटन एक फरवरी उन्नीस सौ तिरपन को Maulana Abul Kalam Azad ने किया। याद रखो — प्रकार की पहचान उपयोगकर्ता से होती है।",
+   "vcap": "राष्ट्रीय पुस्तकालय — Kolkata, 1953",
+   "visual": "पुस्तकालय के 4 प्रकार"
+  },
+  {
+   "head": "Unit 1 — पुस्तकालय और समाज: भूमिका एक नज़र में",
+   "img_file": "Rows of Bookshelves.jpg",
+   "img_query": "",
+   "points": [
+    "पुस्तकालय — 'जनता का विश्वविद्यालय' (People's University) कहलाता है",
+    "चार स्तंभ कार्य: शिक्षा, सूचना, मनोरंजन और सांस्कृतिक संरक्षण",
+    "UNESCO Public Library Manifesto — सार्वजनिक पुस्तकालय का प्रमुख घोषणा-पत्र (1949; नवीनतम संशोधन IFLA — International Federation of Library Associations and Institutions — के साथ 2022)",
+    "चल-पुस्तकालय (Mobile Library) — दूरदराज़ और ग्रामीण पाठकों तक सेवा",
+    "विस्तार सेवाएँ (Extension Services): व्याख्यान, प्रदर्शनी, बाल-पठन, सामुदायिक कार्यक्रम",
+    "साक्षरता और आजीवन शिक्षा (Lifelong Learning) का केंद्र — पुस्तकालय"
+   ],
+   "text": "समाज में पुस्तकालय की भूमिका भी प्रश्न बनती है। पुस्तकालय को जनता का विश्वविद्यालय कहा जाता है, क्योंकि यहाँ बिना दाख़िले और बिना फीस के जीवनभर पढ़ाई चलती है। इसके चार स्तंभ कार्य याद रखो — शिक्षा, सूचना, मनोरंजन और सांस्कृतिक धरोहर का संरक्षण। UNESCO का Public Library Manifesto उन्नीस सौ उनचास में आया था और इसका नवीनतम संशोधन दो हज़ार बाईस में हुआ — यह सार्वजनिक पुस्तकालयों का सबसे बड़ा दस्तावेज़ है। गाँवों तक किताब पहुँचाने का साधन है चल-पुस्तकालय, और व्याख्यान-प्रदर्शनी जैसी विस्तार सेवाएँ नए पाठक बनाती हैं। एक पंक्ति में कहो तो — पुस्तकालय साक्षरता और आजीवन शिक्षा का केंद्र है।",
+   "vcap": "जनता का विश्वविद्यालय — पुस्तकालय",
+   "visual": "समाज में पुस्तकालय"
+  },
+  {
+   "head": "Unit 1 — भारत में पुस्तकालय आंदोलन और कानून",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "भारत में पुस्तकालय आंदोलन की शुरुआत — Baroda, 1910; Maharaja Sayajirao Gaekwad III, मार्गदर्शक W. A. Borden",
+    "पहला पुस्तकालय कानून — Madras Public Libraries Act, 1948",
+    "Library Cess (पुस्तकालय उपकर) की व्यवस्था — सर्वप्रथम Madras अधिनियम से जुड़ी",
+    "इसके बाद के कानून: Andhra Pradesh 1960, Karnataka 1965, Maharashtra 1967, West Bengal 1979",
+    "वर्तमान में लगभग 19 राज्यों में पुस्तकालय विधान लागू है",
+    "ILA (Indian Library Association) — स्थापना 1933, मुख्यालय Delhi"
+   ],
+   "text": "अब दो तारीखें पक्की कर लो — आंदोलन और कानून। भारत में पुस्तकालय आंदोलन की शुरुआत सन् उन्नीस सौ दस में Baroda राज्य से हुई; वहाँ के Maharaja Sayajirao Gaekwad तृतीय ने अमेरिकी विशेषज्ञ W. A. Borden को बुलाकर मुफ्त सार्वजनिक पुस्तकालयों का जाल बिछाया। दूसरी ओर देश का पहला पुस्तकालय कानून है Madras Public Libraries Act, उन्नीस सौ अड़तालीस — इसी से पुस्तकालय उपकर यानी Library Cess की व्यवस्था शुरू हुई। इसके बाद Andhra Pradesh, Karnataka, Maharashtra और West Bengal में कानून बने। एक और तथ्य — Indian Library Association की स्थापना उन्नीस सौ तैंतीस में हुई थी। वर्ष और स्थान, दोनों साथ याद रखो।",
+   "vcap": "आंदोलन 1910 Baroda — कानून 1948 Madras",
+   "visual": "आंदोलन + विधान"
+  },
+  {
+   "head": "Unit 1 — संस्थाएँ: RRRLF, UGC और संघ",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "RRRLF (Raja Rammohun Roy Library Foundation) — 1972, Kolkata; संस्कृति मंत्रालय, भारत सरकार की स्वायत्त संस्था",
+    "RRRLF का कार्य — सार्वजनिक पुस्तकालयों को आर्थिक सहायता (समानुपाती और गैर-समानुपाती अनुदान)",
+    "UGC (University Grants Commission) — गठन 1953, सांविधिक दर्जा 1956; विश्वविद्यालय पुस्तकालयों का विकास",
+    "IASLIC (Indian Association of Special Libraries and Information Centres) — 1955, Kolkata",
+    "IFLA (International Federation of Library Associations and Institutions) — 1927, मुख्यालय The Hague, Netherlands",
+    "ALA (American Library Association) — 1876; LIBRARY JOURNAL भी Dewey से जुड़ा स्मरणीय तथ्य है"
+   ],
+   "text": "संस्थाओं वाले प्रश्न हर बार आते हैं, इसलिए इन्हें एक साथ बाँध लो। Raja Rammohun Roy Library Foundation यानी RRRLF — स्थापना उन्नीस सौ बहत्तर, मुख्यालय Kolkata; यह संस्कृति मंत्रालय की संस्था है और सार्वजनिक पुस्तकालयों को अनुदान देती है। UGC का गठन उन्नीस सौ तिरपन में हुआ और सांविधिक दर्जा उन्नीस सौ छप्पन में मिला — विश्वविद्यालय पुस्तकालयों के विकास की ज़िम्मेदारी इसी की है। विशेष पुस्तकालयों का संघ IASLIC उन्नीस सौ पचपन में बना। अंतरराष्ट्रीय स्तर पर IFLA उन्नीस सौ सत्ताईस से है और American Library Association अठारह सौ छिहत्तर की — उसी वर्ष जब DDC आया। संख्या-वर्ष का यह खेल ही इस unit के अंक हैं।",
+   "vcap": "RRRLF 1972 • UGC 1953/1956 • ILA 1933",
+   "visual": "प्रमुख संस्थाएँ"
+  },
+  {
+   "head": "Unit 2 — Fayol: 14 सिद्धांत, 5 कार्य",
+   "img_file": "Henri Fayol, 1900.jpg",
+   "img_query": "",
+   "points": [
+    "Henri Fayol — फ्रांसीसी खनन अभियंता; पुस्तक 'Industrial and General Administration', 1916",
+    "14 सिद्धांत: कार्य-विभाजन, अधिकार-दायित्व, अनुशासन, आदेश की एकता (Unity of Command), निर्देशन की एकता (Unity of Direction)",
+    "...केन्द्रीकरण (Centralisation), स्केलर शृंखला (Scalar Chain), व्यवस्था, समानता (Equity), कार्यकाल-स्थायित्व, पहल (Initiative), Esprit de Corps",
+    "5 प्रशासनिक कार्य (POCCC): Planning (योजना), Organising (संगठन), Commanding (आदेश), Coordinating (समन्वय), Controlling (नियंत्रण)",
+    "Unity of Command — आदेश केवल एक अधिकारी से; Unity of Direction — एक योजना, एक नेता",
+    "Fayol — प्रशासनिक प्रबंधन (Administrative Management) का जनक, दृष्टि शीर्ष-स्तर से"
+   ],
+   "text": "Unit दो की शुरुआत Fayol से। Henri Fayol फ्रांस के खनन अभियंता थे; उनकी पुस्तक उन्नीस सौ सोलह में आई। दो संख्याएँ गाँठ बाँध लो — चौदह सिद्धांत और पाँच कार्य। पाँच कार्य हैं POCCC — योजना, संगठन, आदेश, समन्वय और नियंत्रण। सिद्धांतों में सबसे ज़्यादा पूछे जाते हैं आदेश की एकता और निर्देशन की एकता — अंतर समझ लो: आदेश की एकता में कर्मचारी आदेश एक ही अधिकारी से लेता है, जबकि निर्देशन की एकता में एक ही उद्देश्य के लिए एक योजना और एक नेता होता है। Scalar Chain का अर्थ है अधिकार की सोपान-शृंखला। Fayol की दृष्टि ऊपर से नीचे की है — यही Taylor से अंतर है।",
+   "vcap": "Fayol — 14 सिद्धांत, 5 कार्य (POCCC)",
+   "visual": "Fayol के सिद्धांत"
+  },
+  {
+   "head": "Unit 2 — Taylor: वैज्ञानिक प्रबंधन",
+   "img_file": "Fredrick Winslow Taylor c1907 original.jpg",
+   "img_query": "",
+   "points": [
+    "Frederick Winslow Taylor — पुस्तक 'The Principles of Scientific Management', 1911",
+    "Taylor — वैज्ञानिक प्रबंधन (Scientific Management) के जनक; अमेरिका के अभियंता",
+    "तकनीकें: Time Study (समय अध्ययन), Motion Study (गति अध्ययन), कार्य का मानकीकरण",
+    "Differential Piece-Rate System — लक्ष्य से अधिक उत्पादन पर ऊँची दर से मज़दूरी",
+    "Functional Foremanship — कार्य को 8 विशेषज्ञ नायकों (foremen) में बाँटना",
+    "दृष्टि नीचे से ऊपर: Taylor = कार्यशाला की दक्षता; Fayol = शीर्ष प्रशासन"
+   ],
+   "text": "अब Taylor। Frederick Winslow Taylor की पुस्तक The Principles of Scientific Management उन्नीस सौ ग्यारह में आई और Taylor वैज्ञानिक प्रबंधन के जनक कहलाए। उनकी विधियाँ हैं — समय अध्ययन, गति अध्ययन और काम का मानकीकरण; अर्थात हर काम का सबसे अच्छा और सबसे तेज़ तरीका तय करना। मज़दूरी के लिए उन्होंने Differential Piece-Rate व्यवस्था दी — लक्ष्य पूरा करो तो ऊँची दर। Functional Foremanship में आठ विशेषज्ञ नायक काम बाँटते हैं। परीक्षा की कुंजी यह है: Taylor कार्यशाला के स्तर से ऊपर देखते हैं, Fayol प्रबंधन के शीर्ष से नीचे — प्रश्न में 'दक्षता' दिखे तो Taylor, 'प्रशासन' दिखे तो Fayol।",
+   "vcap": "Taylor, 1911 — वैज्ञानिक प्रबंधन",
+   "visual": "Taylor की विधियाँ"
+  },
+  {
+   "head": "Unit 2 — POSDCORB, प्रेरणा और बजट",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "POSDCORB — Luther Gulick (1937): Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting",
+    "Maslow — आवश्यकता-पदानुक्रम (Hierarchy of Needs), 1943: शारीरिक से आत्म-सिद्धि तक 5 स्तर",
+    "McGregor — Theory X (कर्मचारी आलसी) और Theory Y (कर्मचारी उत्तरदायित्व-प्रिय), 1960",
+    "ZBB (Zero-Based Budgeting) — हर वर्ष शून्य आधार से बजट; जनक Peter Pyhrr",
+    "PPBS (Planning Programming Budgeting System) — कार्यक्रम-आधारित बजट प्रणाली",
+    "पुस्तकालय बजट की परंपरागत विधियाँ: Line Budget, Lump Sum, Formula Method"
+   ],
+   "text": "प्रबंधन के बचे हुए नाम एक साथ समेट लो। Luther Gulick ने उन्नीस सौ सैंतीस में POSDCORB दिया — इसमें Fayol के कार्यों में Staffing, Reporting और Budgeting जुड़े हैं। प्रेरणा में दो नाम: Maslow का आवश्यकता-पदानुक्रम उन्नीस सौ तैंतालीस — पाँच स्तर, नीचे शारीरिक आवश्यकता और सबसे ऊपर आत्म-सिद्धि; और McGregor की Theory X और Theory Y उन्नीस सौ साठ से। बजट में दो आधुनिक नाम पक्के करो — Zero-Based Budgeting, जिसके जनक Peter Pyhrr हैं, जिसमें हर मद हर साल नए सिरे से सही ठहराई जाती है; और PPBS, जो योजना और कार्यक्रम से बजट जोड़ती है। इन तीनों क्षेत्रों से एक-एक प्रश्न लगभग तय है।",
+   "vcap": "Gulick • Maslow • McGregor • ZBB",
+   "visual": "प्रबंधन के अन्य स्तंभ"
+  },
+  {
+   "head": "Unit 3 — DDC: दशमलव वर्गीकरण",
+   "img_file": "The Dewey Decimal System Chart.png",
+   "img_query": "",
+   "points": [
+    "DDC (Dewey Decimal Classification) — Melvil Dewey; प्रथम संस्करण 1876, अमेरिका",
+    "10 मुख्य वर्ग: 000 सामान्य/ज्ञान, 100 दर्शन, 200 धर्म, 300 सामाजिक विज्ञान, 400 भाषा, 500 विज्ञान",
+    "शेष वर्ग: 600 प्रौद्योगिकी, 700 कला, 800 साहित्य, 900 इतिहास और भूगोल",
+    "अंकन — शुद्ध दशमलव (Pure Decimal Notation), केवल 0–9 अंक",
+    "नवीनतम पूर्ण संस्करण: 23वाँ (2011); वर्तमान प्रकाशक/स्वामी — OCLC (Online Computer Library Center)",
+    "विश्व में सर्वाधिक प्रयुक्त वर्गीकरण प्रणाली — छोटे पुस्तकालयों की पहली पसंद"
+   ],
+   "text": "Unit तीन की जान है वर्गीकरण, और उसकी पहली प्रणाली DDC। Melvil Dewey ने इसका पहला संस्करण अठारह सौ छिहत्तर में निकाला — वही वर्ष जब ALA बना और Cutter के नियम आए। DDC ज्ञान को दस मुख्य वर्गों में बाँटती है — शून्य शून्य शून्य से नौ सौ तक; क्रम याद रखो — दर्शन, धर्म, सामाजिक विज्ञान, भाषा, विज्ञान, प्रौद्योगिकी, कला, साहित्य और अंत में इतिहास-भूगोल। इसका अंकन शुद्ध दशमलव है — सिर्फ़ अंक। नवीनतम पूर्ण संस्करण तेईसवाँ है, दो हज़ार ग्यारह का, और आज इसका स्वामित्व OCLC के पास है। दसों वर्गों का क्रम ही सबसे बड़ा प्रश्न है — उंगलियों पर गिनकर अभ्यास करो।",
+   "vcap": "DDC — 1876, Dewey, 10 वर्ग",
+   "visual": "Dewey के 10 मुख्य वर्ग"
+  },
+  {
+   "head": "Unit 3 — Colon Classification और UDC",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "CC (Colon Classification) — Dr. S. R. Ranganathan; प्रथम संस्करण 1933",
+    "पक्षात्मक (Faceted) प्रणाली — मूल सूत्र PMEST: Personality, Matter, Energy, Space, Time",
+    "मिश्रित अंकन (Mixed Notation) — अंक, रोमन अक्षर और चिह्न; नाम ':' कोलन चिह्न से पड़ा",
+    "CC का 7वाँ संस्करण — 1987 (संपादक M. A. Gopinath, Ranganathan के निधन के बाद)",
+    "UDC (Universal Decimal Classification) — Paul Otlet व Henri La Fontaine, Belgium; प्रथम संस्करण 1905",
+    "UDC की नींव DDC पर — परंतु सहायक तालिकाओं और चिह्नों से अधिक लचीली, अंतरराष्ट्रीय प्रयोग"
+   ],
+   "text": "अब भारतीय गर्व — Colon Classification। Ranganathan ने इसका पहला संस्करण उन्नीस सौ तैंतीस में निकाला। यह पक्षात्मक प्रणाली है: हर विषय पाँच मूल पक्षों में टूटता है — PMEST यानी Personality, Matter, Energy, Space और Time। नाम 'कोलन' इसके प्रमुख संयोजक चिह्न से पड़ा है, और इसका अंकन मिश्रित है — अंक, अक्षर और चिह्न तीनों। दूसरी ओर UDC है — Belgium के Paul Otlet और Henri La Fontaine की देन, उन्नीस सौ पाँच; यह DDC पर आधारित है लेकिन सहायक तालिकाओं से ज़्यादा फैल सकती है। तीनों का क्रम पक्का करो: DDC अठारह सौ छिहत्तर, UDC उन्नीस सौ पाँच, CC उन्नीस सौ तैंतीस।",
+   "vcap": "CC 1933 — PMEST; UDC 1905",
+   "visual": "Colon बनाम UDC"
+  },
+  {
+   "head": "Unit 3 — सूचीकरण संहिताएँ: CCC बनाम AACR2",
+   "img_file": "CharlesAmmiCutter BostonAthenaeum.png",
+   "img_query": "",
+   "points": [
+    "CCC (Classified Catalogue Code) — Ranganathan, 1934; भारत की प्रथम सूचीकरण संहिता",
+    "AACR (Anglo-American Cataloguing Rules) — प्रथम संस्करण 1967; AACR2 — 1978 (संशोधन 1988)",
+    "AACR2 का उत्तराधिकारी — RDA (Resource Description and Access), 2010",
+    "Cutter — Charles Ammi Cutter: 'Rules for a Dictionary Catalog', 1876",
+    "मुख्य प्रविष्टि (Main Entry) — AACR2 परंपरा में सामान्यतः प्रमुख लेखक के नाम से",
+    "CCC की विशेषता — वर्गीकृत सूची (Classified Catalogue) की संपूर्ण व्यवस्था"
+   ],
+   "text": "वर्गीकरण के बाद सूचीकरण की संहिताएँ। भारत की पहली संहिता है Ranganathan की Classified Catalogue Code — उन्नीस सौ चौंतीस, ध्यान दो CC से सिर्फ़ एक वर्ष बाद। अंतरराष्ट्रीय मानक रहा AACR — पहला संस्करण उन्नीस सौ सरसठ और दूसरा यानी AACR2 उन्नीस सौ अठहत्तर में आया। आज AACR2 की जगह RDA ने ली है, जो दो हज़ार दस में प्रकाशित हुआ। सबसे पुराने नियम Cutter के हैं — Rules for a Dictionary Catalog, अठारह सौ छिहत्तर। गड़बड़ी से बचने का तरीका: CC तैंतीस वर्गीकरण, CCC चौंतीस सूचीकरण — लगातार दो वर्ष, एक ही जनक। यही जोड़ी परीक्षा में सबसे ज़्यादा उलझाती है, इसलिए सबसे ज़्यादा दोहराई जाती है।",
+   "vcap": "CCC 1934 बनाम AACR2 1978",
+   "visual": "सूचीकरण संहिताएँ"
+  },
+  {
+   "head": "Unit 3 — सूची के रूप और विषय-शीर्षक",
+   "img_file": "Card Catolog01.jpg",
+   "img_query": "",
+   "points": [
+    "सूची के आंतरिक रूप: वर्णानुक्रम सूची, वर्गीकृत सूची, शब्दकोश सूची (Dictionary Catalogue — लेखक+विषय एक ही क्रम)",
+    "भौतिक रूप: पुस्तक सूची, पत्रक सूची (Card Catalogue), आधुनिक — OPAC (Online Public Access Catalogue)",
+    "मानक सूची-पत्रक का आकार: 12.5 × 7.5 सेमी (5 × 3 इंच) — अत्यंत पूछा जाने वाला तथ्य",
+    "विषय-शीर्षक सूचियाँ: Sears List of Subject Headings; LCSH (Library of Congress Subject Headings)",
+    "Chain Procedure (शृंखला प्रक्रिया) — Ranganathan की विषय-शीर्षक प्राप्त करने की विधि",
+    "सहायक प्रविष्टियाँ (Added Entries): सह-लेखक, संपादक, शीर्षक, श्रृंखला के नाम से"
+   ],
+   "text": "सूची के रूप भी अंक देते हैं। आंतरिक रूप तीन हैं — वर्णानुक्रम, वर्गीकृत और शब्दकोश सूची, जिसमें लेखक, शीर्षक और विषय एक ही वर्णक्रम में मिलते हैं। भौतिक रूप में पत्रक सूची सबसे प्रसिद्ध है, और उसका मानक आकार है साढ़े बारह गुणा साढ़े सात सेंटीमीटर — यह संख्या हर हाल में याद रखो। आज के समय में यही सूची OPAC के रूप में कंप्यूटर पर है। विषय-शीर्षक के लिए Sears List और Library of Congress की सूची प्रयुक्त होती है। और एक भारतीय योगदान — Chain Procedure, Ranganathan की वह विधि जिससे वर्ग संख्या से विषय-शीर्षक की शृंखला बनती है। आकार और विधि — दो पक्के अंक।",
+   "vcap": "पत्रक आकार 12.5 × 7.5 सेमी",
+   "visual": "सूची के रूप"
+  },
+  {
+   "head": "Unit 4 — संदर्भ स्रोत: शब्दकोश और विश्वकोश",
+   "img_file": "Doe Memorial Library Reference Desk.JPG",
+   "img_query": "",
+   "points": [
+    "शब्दकोश (Dictionary) — अर्थ, उच्चारण, वर्तनी, व्युत्पत्ति; प्रकार: सामान्य, विशेष, द्विभाषी, ऐतिहासिक",
+    "OED (Oxford English Dictionary) — अंग्रेज़ी भाषा का सर्वमान्य ऐतिहासिक शब्दकोश",
+    "विश्वकोश (Encyclopaedia) — सभी विषयों का सारबद्ध ज्ञान; सामान्य और विषय-विशेष दो प्रकार",
+    "Encyclopaedia Britannica — प्रथम प्रकाशन 1768–71, Edinburgh (Scotland)",
+    "संदर्भ स्रोत की पहचान — पढ़ने के लिए नहीं, परामर्श (Consultation) के लिए रखा जाता है",
+    "Ranganathan की सेवा-जोड़ी: Ready Reference Service (त्वरित तथ्य) और Long-Range Reference Service"
+   ],
+   "text": "Unit चार संदर्भ स्रोतों की है। शब्दकोश शब्दों का अर्थ, उच्चारण और इतिहास देता है — अंग्रेज़ी में Oxford English Dictionary सर्वोच्च माना जाता है। विश्वकोश सभी विषयों का सार देता है — और सबसे प्रसिद्ध है Encyclopaedia Britannica, जिसका पहला संस्करण सत्रह सौ अड़सठ में Edinburgh से निकला था। एक मूल बात: संदर्भ स्रोत शुरू से अंत तक पढ़े नहीं जाते, ज़रूरत पर परामर्श किए जाते हैं — इसलिए ये निर्गम (issue) नहीं होते। Ranganathan ने संदर्भ सेवा को दो भागों में देखा — तुरंत तथ्य देने वाली Ready Reference Service और समय लेकर खोज करने वाली Long-Range सेवा। स्रोत का नाम सुनकर उसका काम बताना ही इस unit का प्रश्न है।",
+   "vcap": "Britannica 1768 • OED — Oxford",
+   "visual": "शब्दकोश + विश्वकोश"
+  },
+  {
+   "head": "Unit 4 — वार्षिकी, निर्देशिका और भौगोलिक स्रोत",
+   "img_file": "Volumes of the Encyclædia Britannica (9th edition, 1875–1889).jpg",
+   "img_query": "",
+   "points": [
+    "वार्षिकी (Yearbook) — एक वर्ष की घटनाओं व आँकड़ों का सार; उदाहरण: India: A Reference Annual",
+    "India: A Reference Annual — प्रकाशन: Publications Division (प्रकाशन विभाग), सूचना एवं प्रसारण मंत्रालय, भारत सरकार",
+    "The Statesman's Year-Book — 1864 से प्रकाशित; Whitaker's Almanack — 1868 से",
+    "निर्देशिका (Directory) — व्यक्तियों और संस्थाओं के नाम-पते व संपर्क की सूची",
+    "Gazetteer — भौगोलिक शब्दकोश (स्थानों का वर्णन); Almanac (पंचांग) — वार्षिक खगोलीय व सामान्य जानकारी",
+    "जीवनी स्रोत (Biographical Sources): Who's Who, Dictionary of National Biography"
+   ],
+   "text": "अब वार्षिक और सूची-रूपी स्रोत। वार्षिकी हर साल निकलती है और पिछले वर्ष का पूरा लेखा देती है — भारत के लिए सबसे महत्वपूर्ण है India: A Reference Annual, जिसे भारत सरकार का प्रकाशन विभाग निकालता है। विश्व स्तर पर Statesman's Year-Book अठारह सौ चौंसठ से और Whitaker's Almanack अठारह सौ अड़सठ से चल रहे हैं — दोनों वर्ष जोड़कर याद करो। निर्देशिका नाम-पतों की सूची है, Gazetteer स्थानों का भौगोलिक शब्दकोश है, और Almanac पंचांग-रूपी वार्षिक जानकारी देता है। व्यक्ति के बारे में पूछा जाए तो स्रोत है जीवनी-कोश — Who's Who। स्रोत पहचानने का सरल नियम: प्रश्न में जो चाहिए — घटना, पता, स्थान या व्यक्ति — वही स्रोत तय करता है।",
+   "vcap": "Yearbook 1864/1868 • Gazetteer • Directory",
+   "visual": "वार्षिक व सूची स्रोत"
+  },
+  {
+   "head": "Unit 4 — सूचना सेवाएँ: CAS, SDI, Referral",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "CAS (Current Awareness Service) — नवीन प्रकाशनों की सूचना पाठक तक पहुँचाना: सूची, बुलेटिन, विषय-सूची सेवा",
+    "SDI (Selective Dissemination of Information) — अवधारणा H. P. Luhn की, 1958 (IBM — International Business Machines)",
+    "SDI की क्रियाविधि — User Profile (पाठक की रुचि) का Document Profile से मिलान, मेल खाने पर ही सूचना",
+    "Referral Service — सूचना स्वयं नहीं देती; पाठक को सही स्रोत, संस्था या विशेषज्ञ तक पहुँचाती है",
+    "अन्य सेवाएँ: सारांश (Abstracting) सेवा, अनुवाद सेवा, दस्तावेज़-सुपुर्दगी (Document Delivery Service)",
+    "अंतर-सूत्र: Reference Service माँग पर चलती है; CAS/SDI बिना माँगे जागरूक रखती हैं"
+   ],
+   "text": "सेवाओं में तीन नाम सबसे बड़े हैं। Current Awareness Service पाठक को नए साहित्य से जागरूक रखती है — नई किताबों की सूची या बुलेटिन। इससे आगे की सीढ़ी है SDI — Selective Dissemination of Information, जिसका विचार H. P. Luhn ने उन्नीस सौ अट्ठावन में IBM में दिया था; इसमें पाठक की रुचि की प्रोफ़ाइल से दस्तावेज़ों की प्रोफ़ाइल मिलाई जाती है, और सूचना सिर्फ़ उसी पाठक को जाती है जिसे चाहिए। तीसरी है Referral Service — यह सूचना नहीं देती, बल्कि बताती है कि सूचना कहाँ और किसके पास मिलेगी। याद रखो — Luhn और SDI की जोड़ी इस unit का सबसे पक्का प्रश्न है।",
+   "vcap": "SDI — Luhn, 1958",
+   "visual": "CAS • SDI • Referral"
+  },
+  {
+   "head": "द्रुत Drill — Unit 1 के एक-पंक्ति तथ्य",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "पंच सूत्र की पुस्तक — Five Laws of Library Science, 1931, Ranganathan",
+    "भारत का प्रथम पुस्तकालय कानून — Madras Public Libraries Act, 1948",
+    "पुस्तकालय आंदोलन का राजनीतिक प्रारंभ — Baroda, 1910 (Sayajirao Gaekwad III)",
+    "RRRLF — 1972, Kolkata; UGC — 1953, सांविधिक 1956",
+    "राष्ट्रीय पुस्तकालय — Kolkata; उद्घाटन 1 फरवरी 1953",
+    "Delhi Public Library — 1951, UNESCO परियोजना से"
+   ],
+   "text": "अब गति बढ़ाते हैं — एक पंक्ति, एक तथ्य। Unit एक से सुनो और मन में दोहराओ। पंच सूत्र की पुस्तक — उन्नीस सौ इकतीस, Ranganathan। भारत का पहला पुस्तकालय कानून — Madras, उन्नीस सौ अड़तालीस। पुस्तकालय आंदोलन की शुरुआत — Baroda, उन्नीस सौ दस। RRRLF — उन्नीस सौ बहत्तर, Kolkata। UGC — गठन तिरपन, सांविधिक छप्पन। राष्ट्रीय पुस्तकालय — Kolkata, उद्घाटन एक फरवरी उन्नीस सौ तिरपन। Delhi Public Library — उन्नीस सौ इक्यावन, UNESCO सहायता। अगर ये सात पंक्तियाँ बिना रुके बोल सकते हो, तो Unit एक के तथ्यात्मक प्रश्न तुम्हारे पक्के हैं। आगे Unit दो की drill।",
+   "vcap": "Unit 1 — 7 तथ्य, 7 अंक",
+   "visual": "Drill: Unit 1"
+  },
+  {
+   "head": "द्रुत Drill — Unit 2 के एक-पंक्ति तथ्य",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "Fayol — 14 सिद्धांत, 5 कार्य (POCCC); पुस्तक 1916",
+    "वैज्ञानिक प्रबंधन — Taylor, 1911; Time Study व Piece-Rate",
+    "POSDCORB — Luther Gulick, 1937",
+    "आवश्यकता-पदानुक्रम — Maslow, 1943; Theory X–Y — McGregor, 1960",
+    "ZBB (Zero-Based Budgeting) के जनक — Peter Pyhrr",
+    "Fayol ऊपर से (प्रशासन), Taylor नीचे से (दक्षता) — दिशा ही पहचान"
+   ],
+   "text": "Unit दो की drill। Fayol — चौदह सिद्धांत, पाँच कार्य, पुस्तक उन्नीस सौ सोलह। Taylor — वैज्ञानिक प्रबंधन, उन्नीस सौ ग्यारह। POSDCORB — Luther Gulick, उन्नीस सौ सैंतीस। Maslow — आवश्यकता-पदानुक्रम, उन्नीस सौ तैंतालीस। McGregor — Theory X और Y, उन्नीस सौ साठ। Zero-Based Budgeting — Peter Pyhrr। और दिशा का नियम — Fayol प्रशासन को ऊपर से देखते हैं, Taylor कार्यशाला की दक्षता को नीचे से। प्रबंधन के प्रश्नों में आधा खेल नाम और वर्ष का है, बाकी आधा इस दिशा-पहचान का। ये छह पंक्तियाँ रोज़ सोने से पहले एक बार बोलो — नींद में भी याद रहेंगी। अब Unit तीन की बारी।",
+   "vcap": "Unit 2 — नाम + वर्ष की drill",
+   "visual": "Drill: Unit 2"
+  },
+  {
+   "head": "द्रुत Drill — Unit 3 के एक-पंक्ति तथ्य",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "DDC — 1876, Melvil Dewey, 10 मुख्य वर्ग, 23वाँ संस्करण 2011",
+    "CC — 1933, Ranganathan; सूत्र PMEST; अंकन मिश्रित",
+    "UDC — 1905, Otlet व La Fontaine, Belgium",
+    "CCC — 1934 (सूचीकरण); AACR2 — 1978; RDA — 2010",
+    "सूची-पत्रक का मानक आकार — 12.5 × 7.5 सेमी",
+    "Chain Procedure — Ranganathan; Cutter's Rules — 1876"
+   ],
+   "text": "Unit तीन — सबसे तथ्य-घनी इकाई, इसलिए drill धीमी और साफ़। DDC — अठारह सौ छिहत्तर, Dewey, दस वर्ग। UDC — उन्नीस सौ पाँच, Otlet और La Fontaine। CC — उन्नीस सौ तैंतीस, Ranganathan, सूत्र PMEST। CCC — उन्नीस सौ चौंतीस, सूचीकरण की संहिता। AACR2 — उन्नीस सौ अठहत्तर; RDA — दो हज़ार दस। पत्रक का आकार — साढ़े बारह गुणा साढ़े सात सेंटीमीटर। Chain Procedure — Ranganathan; Cutter के नियम — अठारह सौ छिहत्तर। गौर करो: तीन व्यवस्थाएँ अठारह सौ छिहत्तर में एक साथ आईं — DDC, Cutter और ALA। ऐसी जोड़ियाँ बनाकर याद करना ही revision की असली तकनीक है।",
+   "vcap": "Unit 3 — 1876, 1905, 1933, 1934",
+   "visual": "Drill: Unit 3"
+  },
+  {
+   "head": "द्रुत Drill — Unit 4 के एक-पंक्ति तथ्य",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "Encyclopaedia Britannica — प्रथम संस्करण 1768, Edinburgh",
+    "SDI — H. P. Luhn, 1958; CAS — Current Awareness Service",
+    "India: A Reference Annual — Publications Division, भारत सरकार",
+    "Statesman's Year-Book — 1864; Whitaker's Almanack — 1868",
+    "Referral Service — सूचना नहीं, स्रोत का पता देती है",
+    "Gazetteer — स्थानों का शब्दकोश; Directory — नाम-पतों की सूची"
+   ],
+   "text": "Unit चार की अंतिम drill। Britannica — सत्रह सौ अड़सठ, Edinburgh। SDI — Luhn, उन्नीस सौ अट्ठावन। CAS का पूरा नाम — Current Awareness Service। India: A Reference Annual — प्रकाशन विभाग, भारत सरकार। Statesman's Year-Book — अठारह सौ चौंसठ; Whitaker's Almanack — अठारह सौ अड़सठ। Referral सेवा — सूचना नहीं, सूचना का पता। Gazetteer — स्थान; Directory — नाम-पता। चारों units की drill पूरी हुई। अब असली परीक्षा की झलक — आगे बारह अभ्यास प्रश्न हैं। जवाब पहले मन में चुनो, फिर सुनो; और गलत हो तो भी घबराना नहीं — गलती यहीं होगी तो परीक्षा में नहीं होगी। तैयार हो जाओ।",
+   "vcap": "Unit 4 — स्रोत + सेवा drill",
+   "visual": "Drill: Unit 4"
+  },
+  {
+   "head": "हमारी किताब — BSEB SLET 2026 Complete Book",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "पूरी तैयारी एक ही किताब में: Library Science के 8 units — theory + MCQ",
+    "कुल 868 MCQ — हर सवाल Hindi + English, उत्तर और व्याख्या सहित",
+    "Bihar GK, India GK, Computer और Reasoning भी शामिल",
+    "2 Full Mock Test (150-150 सवाल) + Rapid Revision + 200 Short Q&A",
+    "Diwali Offer — सिर्फ़ ₹49 | खरीद लिंक नीचे description में है"
+   ],
+   "text": "रुकिए, एक ज़रूरी जानकारी। इस पूरी series की तैयारी के लिए हमने एक संपूर्ण किताब तैयार की है — BSEB SLET 2026 Complete Book। इसमें Library Science के आठों units की theory और कुल आठ सौ अड़सठ MCQ हैं, हर सवाल Hindi और English दोनों में, उत्तर और व्याख्या सहित। साथ में Bihar GK, Computer, Reasoning, दो full mock test और rapid revision भी है। Diwali Offer में यह किताब सिर्फ़ उनचास रुपये में मिल रही है। खरीदने का link नीचे description में दिया है।",
+   "vcap": "Complete Book — सिर्फ़ ₹49",
+   "visual": "किताब का परिचय"
+  },
+  {
+   "head": "अभ्यास प्रश्न 1–2 — Unit 1 से",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 1: 'Five Laws of Library Science' पुस्तक का प्रकाशन वर्ष कौन-सा है? (A) 1925 (B) 1931 (C) 1934 (D) 1948",
+    "प्रश्न 2: भारत का प्रथम पुस्तकालय अधिनियम कौन-सा है? (A) Andhra Pradesh Act (B) Karnataka Act (C) Madras Public Libraries Act (D) West Bengal Act",
+    "उत्तर-कुंजी सुनने से पहले दोनों उत्तर मन में पक्के करो",
+    "संकेत: प्रश्न 1 का जनक भी Ranganathan हैं; प्रश्न 2 का वर्ष 1948 है",
+    "दोनों प्रश्न पिछले सभी SLET/NET पैटर्न के सबसे दोहराए जाने वाले तथ्यों से हैं"
+   ],
+   "text": "अब अभ्यास की परीक्षा-घड़ी शुरू। प्रश्न एक: Five Laws of Library Science पुस्तक किस वर्ष प्रकाशित हुई? विकल्प हैं — उन्नीस सौ पच्चीस, इकतीस, चौंतीस और अड़तालीस। सही उत्तर है विकल्प B — उन्नीस सौ इकतीस, Ranganathan की अमर रचना। चौंतीस वाला विकल्प CCC का जाल था, संभल गए तो अच्छा। प्रश्न दो: भारत का प्रथम पुस्तकालय अधिनियम कौन-सा है? सही उत्तर है विकल्प C — Madras Public Libraries Act, उन्नीस सौ अड़तालीस। ध्यान दो, कानून की शुरुआत Madras से हुई, आंदोलन की Baroda से — दोनों जगहें अलग-अलग याद रखनी हैं। दो में से दो सही हुए तो Unit एक तैयार है; आगे बढ़ते हैं।",
+   "vcap": "उत्तर: 1-(B) 1931, 2-(C) Madras 1948",
+   "visual": "अभ्यास 1–2"
+  },
+  {
+   "head": "अभ्यास प्रश्न 3–4 — संस्थाएँ",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 3: भारत की राष्ट्रीय पुस्तकालय (National Library) कहाँ स्थित है? (A) Delhi (B) Mumbai (C) Kolkata (D) Chennai",
+    "प्रश्न 4: RRRLF (Raja Rammohun Roy Library Foundation) की स्थापना किस वर्ष हुई? (A) 1953 (B) 1965 (C) 1972 (D) 1985",
+    "संकेत: प्रश्न 3 का उत्तर वह शहर है जहाँ Calcutta Public Library 1836 में बनी थी",
+    "संकेत: प्रश्न 4 की संस्था सार्वजनिक पुस्तकालयों को अनुदान देती है",
+    "वर्ष-जाल से सावधान: 1953 UGC का वर्ष है, RRRLF का नहीं"
+   ],
+   "text": "प्रश्न तीन: भारत की राष्ट्रीय पुस्तकालय कहाँ है? सही उत्तर है विकल्प C — Kolkata, Belvedere Estate में। Delhi वाला विकल्प Delhi Public Library का भ्रम है, उसी में अधिकांश अभ्यर्थी फँसते हैं। प्रश्न चार: RRRLF की स्थापना किस वर्ष हुई? उत्तर है विकल्प C — उन्नीस सौ बहत्तर। देखो, विकल्प A में उन्नीस सौ तिरपन दिया था, जो UGC के गठन का वर्ष है — परीक्षक जानबूझकर पास-पास के वर्ष रखता है। इससे बचने का एक ही उपाय है: हर संस्था को उसके काम के साथ जोड़ो — RRRLF यानी सार्वजनिक पुस्तकालयों का अनुदान, तो वर्ष बहत्तर खुद याद रहेगा। आगे प्रबंधन के प्रश्न।",
+   "vcap": "उत्तर: 3-(C) Kolkata, 4-(C) 1972",
+   "visual": "अभ्यास 3–4"
+  },
+  {
+   "head": "अभ्यास प्रश्न 5–6 — Unit 2 प्रबंधन",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 5: 'आदेश की एकता' (Unity of Command) सिद्धांत किसने दिया? (A) Taylor (B) Fayol (C) Gulick (D) Maslow",
+    "प्रश्न 6: POSDCORB सूत्र के प्रतिपादक कौन हैं? (A) Fayol (B) Luther Gulick (C) Peter Pyhrr (D) McGregor",
+    "संकेत: प्रश्न 5 — 14 सिद्धांतों वाले विचारक को याद करो",
+    "संकेत: प्रश्न 6 में 'B' अक्षर Budgeting का है — बजट जोड़ने वाले Gulick ही हैं",
+    "याद रखो: POCCC — Fayol; POSDCORB — Gulick (1937)"
+   ],
+   "text": "प्रश्न पाँच: आदेश की एकता का सिद्धांत किसका है? उत्तर है विकल्प B — Henri Fayol; यह उनके चौदह सिद्धांतों की पहचान है। Taylor का नाम दक्षता के साथ जोड़ो, सिद्धांतों के साथ नहीं। प्रश्न छह: POSDCORB किसने दिया? उत्तर है विकल्प B — Luther Gulick, उन्नीस सौ सैंतीस। यहाँ दो समान सूत्रों की लड़ाई है — POCCC Fayol का है और POSDCORB Gulick का; POSDCORB में Staffing, Reporting और Budgeting अतिरिक्त हैं। परीक्षा में सूत्र देखकर नाम चुनना हो तो अक्षर गिन लो: सात अक्षर वाला Gulick, पाँच अक्षर वाला Fayol। चार प्रश्न बचे हैं प्रबंधन के हिस्से से आगे — अब वर्गीकरण की कसौटी।",
+   "vcap": "उत्तर: 5-(B) Fayol, 6-(B) Gulick",
+   "visual": "अभ्यास 5–6"
+  },
+  {
+   "head": "अभ्यास प्रश्न 7–8 — Unit 3 वर्गीकरण",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 7: DDC (Dewey Decimal Classification) का प्रथम संस्करण किस वर्ष आया? (A) 1876 (B) 1905 (C) 1933 (D) 1951",
+    "प्रश्न 8: CC (Colon Classification) के PMEST सूत्र में 'E' का अर्थ क्या है? (A) Entity (B) Element (C) Energy (D) Environment",
+    "संकेत: प्रश्न 7 — Dewey, Cutter और ALA, तीनों का एक ही वर्ष है",
+    "संकेत: प्रश्न 8 का क्रम है — Personality, Matter, ?, Space, Time",
+    "PMEST Ranganathan का है — यह जोड़ कभी मत तोड़ना"
+   ],
+   "text": "प्रश्न सात: DDC का पहला संस्करण कब आया? उत्तर है विकल्प A — अठारह सौ छिहत्तर। विकल्प में उन्नीस सौ तैंतीस CC का और उन्नीस सौ पाँच UDC का वर्ष था — तीनों एक ही प्रश्न में छिपे थे। प्रश्न आठ: PMEST में E का अर्थ क्या है? उत्तर है विकल्प C — Energy। पूरा क्रम एक साँस में बोलो — Personality, Matter, Energy, Space, Time। यह सूत्र Colon Classification की आत्मा है और हर परीक्षा में किसी न किसी रूप में आता है — कभी अक्षर पूछकर, कभी क्रम पूछकर। अब तक आठ प्रश्न हो गए; शेष चार में सूचीकरण और सेवाएँ परखी जाएँगी।",
+   "vcap": "उत्तर: 7-(A) 1876, 8-(C) Energy",
+   "visual": "अभ्यास 7–8"
+  },
+  {
+   "head": "अभ्यास प्रश्न 9–10 — सूचीकरण",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 9: CCC (Classified Catalogue Code) का प्रकाशन वर्ष क्या है? (A) 1933 (B) 1934 (C) 1967 (D) 1978",
+    "प्रश्न 10: सूची-पत्रक (Catalogue Card) का मानक आकार क्या है? (A) 10 × 5 सेमी (B) 12.5 × 7.5 सेमी (C) 15 × 10 सेमी (D) 7.5 × 5 सेमी",
+    "संकेत: प्रश्न 9 — CC के ठीक एक वर्ष बाद, वही जनक",
+    "संकेत: प्रश्न 10 का आकार इंच में 5 × 3 है",
+    "जाल-चेतावनी: 1967 AACR-1 और 1978 AACR2 के वर्ष हैं"
+   ],
+   "text": "प्रश्न नौ इस पूरी revision का सबसे चालाक प्रश्न है: CCC किस वर्ष आई? विकल्प में तैंतीस भी है — जो CC का वर्ष है — लेकिन सही उत्तर है विकल्प B, उन्नीस सौ चौंतीस। नियम बना लो: वर्गीकरण तैंतीस, सूचीकरण चौंतीस; पहले पेटी, फिर उसकी सूची। प्रश्न दस: सूची-पत्रक का मानक आकार? उत्तर है विकल्प B — साढ़े बारह गुणा साढ़े सात सेंटीमीटर, यानी पाँच गुणा तीन इंच। यह आकार AACR के युग से चला आ रहा है और OPAC के युग में भी तथ्य के रूप में पूछा जाता है। अंतिम दो प्रश्न बाकी हैं — संदर्भ सेवाओं से।",
+   "vcap": "उत्तर: 9-(B) 1934, 10-(B) 12.5×7.5",
+   "visual": "अभ्यास 9–10"
+  },
+  {
+   "head": "अभ्यास प्रश्न 11–12 — Unit 4 सेवाएँ",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "प्रश्न 11: SDI (Selective Dissemination of Information) सेवा की अवधारणा किसने दी? (A) Ranganathan (B) Melvil Dewey (C) H. P. Luhn (D) Paul Otlet",
+    "प्रश्न 12: Encyclopaedia Britannica का प्रथम प्रकाशन किस वर्ष/स्थान से हुआ? (A) 1768, Edinburgh (B) 1864, London (C) 1905, Brussels (D) 1776, Philadelphia",
+    "संकेत: प्रश्न 11 — IBM से जुड़ा नाम, वर्ष 1958",
+    "संकेत: प्रश्न 12 — 1864 Statesman's Year-Book का वर्ष है, Britannica का नहीं",
+    "12 प्रश्नों के बाद अपना स्कोर गिनो — 10+ हो तो revision सफल"
+   ],
+   "text": "अंतिम जोड़ी। प्रश्न ग्यारह: SDI की अवधारणा किसने दी? उत्तर है विकल्प C — H. P. Luhn, उन्नीस सौ अट्ठावन, IBM में कार्यरत थे। Ranganathan वाला विकल्प सबसे बड़ा जाल है — भारत का हर सिद्धांत उन्हीं का नहीं होता; Chain Procedure और CC-CCC उन्हीं के हैं, SDI नहीं। प्रश्न बारह: Britannica पहली बार कब और कहाँ छपी? उत्तर है विकल्प A — सत्रह सौ अड़सठ, Edinburgh, Scotland। अब अपना स्कोर गिन लो — बारह में से दस या अधिक सही हैं तो चारों units की revision पूरी तरह सफल रही। कम हुए हों तो संबंधित scene फिर सुनो — वही सबसे तेज़ इलाज है।",
+   "vcap": "उत्तर: 11-(C) Luhn, 12-(A) 1768",
+   "visual": "अभ्यास 11–12"
+  },
+  {
+   "head": "आम गलतियाँ — इन्हें मत दोहराना",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "गड़बड़ी 1: CC (1933 — वर्गीकरण) बनाम CCC (1934 — सूचीकरण) का उलटफेर",
+    "गड़बड़ी 2: DDC के जनक Dewey की जगह Ranganathan लिखना — Ranganathan CC/CCC के जनक हैं",
+    "गड़बड़ी 3: SDI को Ranganathan से जोड़ना — SDI H. P. Luhn (1958) की है",
+    "गड़बड़ी 4: आंदोलन (Baroda 1910) और कानून (Madras 1948) की जगहें बदलना",
+    "गड़बड़ी 5: Fayol के POCCC को Gulick का POSDCORB समझना",
+    "गड़बड़ी 6: AACR2 का वर्ष 1967 लिखना — 1967 AACR-1 है, AACR2 1978 का है"
+   ],
+   "text": "अब उन गलतियों की सूची जो हर साल सैकड़ों अभ्यर्थियों के अंक काटती हैं। पहली — CC और CCC की अदला-बदली: तैंतीस वर्गीकरण, चौंतीस सूचीकरण। दूसरी — DDC के जनक की जगह Ranganathan लिख देना; Dewey DDC के, Ranganathan CC और CCC के जनक हैं। तीसरी — SDI को भारतीय योगदान समझना; वह Luhn की है। चौथी — Baroda और Madras की जगहें: आंदोलन Baroda से, कानून Madras से। पाँचवीं — POCCC और POSDCORB का भ्रम; सात अक्षर Gulick के। और छठी — AACR2 का वर्ष: सरसठ पहला संस्करण था, अठहत्तर दूसरा। ये छह जोड़े रट लो — प्रश्न-पत्र इन्हीं के इर्द-गिर्द घूमता है।",
+   "vcap": "6 जोड़ियाँ — 6 पक्के अंक",
+   "visual": "गलती-सूची"
+  },
+  {
+   "head": "दोहराव तालिका — वर्ष ↔ नाम मिलान",
+   "img_file": "",
+   "img_query": "",
+   "points": [
+    "1876 — DDC (Dewey) • Cutter's Rules • ALA (American Library Association) की स्थापना",
+    "1905 — UDC (Otlet–La Fontaine) • 1911 — Taylor • 1916 — Fayol",
+    "1931 — Five Laws • 1933 — CC व ILA • 1934 — CCC",
+    "1948 — Madras Act • 1953 — राष्ट्रीय पुस्तकालय उद्घाटन व UGC गठन • 1958 — SDI (Luhn)",
+    "1972 — RRRLF • 1978 — AACR2 • 2010 — RDA",
+    "याद-युक्ति: एक वर्ष = एक कहानी — '1876 में Dewey ने तीनों मोर्चे खोले' जैसी पंक्तियाँ बनाओ"
+   ],
+   "text": "अब पूरे भाग की आत्मा — वर्ष और नाम की मिलान तालिका। अठारह सौ छिहत्तर — DDC, Cutter और ALA, तीनों एक साथ। उन्नीस सौ पाँच — UDC; ग्यारह — Taylor; सोलह — Fayol। उन्नीस सौ इकतीस — Five Laws; तैंतीस — CC और ILA; चौंतीस — CCC। अड़तालीस — Madras कानून; तिरपन — राष्ट्रीय पुस्तकालय और UGC; अट्ठावन — SDI। उन्नीस सौ बहत्तर — RRRLF; अठहत्तर — AACR2; और दो हज़ार दस — RDA। इस तालिका को बोलकर तीन बार दोहराओ। मिलान-प्रश्नों की यही कुंजी है — वर्ष दिखा नहीं कि नाम सामने खड़ा हो जाए, इतनी मज़बूत जोड़ी बनानी है।",
+   "vcap": "वर्ष ↔ नाम — अंतिम तालिका",
+   "visual": "Revision तालिका"
+  },
+  {
+   "head": "समापन — और आगे: Rapid Revision भाग 2",
+   "img_file": "Khuda Bakhsh Oriental Public Library - Patna (3).jpg",
+   "img_query": "",
+   "points": [
+    "आज पूर्ण: Units 1–4 का द्रुत दोहराव — पंच सूत्र, प्रबंधन, वर्गीकरण-सूचीकरण, संदर्भ स्रोत व सेवाएँ",
+    "अगला भाग (Part 2): Unit 5 (IT व कंप्यूटर), Unit 6 (नेटवर्क), Unit 7 (अनुसंधान) + Section B GK",
+    "परीक्षा 23 नवंबर 2026 से — 150 प्रश्न, Negative Marking नहीं: एक भी सवाल खाली न छूटे",
+    "अंतिम-दिन नियम: रोज़ 30 मिनट सिर्फ़ वर्ष-नाम तालिका और drill दोहराओ",
+    "Complete Book (₹49) में यही सम्पूर्ण theory + 868 MCQ — लिंक description में",
+    "शुभकामनाएँ! चयन उन्हीं का होता है जो अंतिम दिन तक दोहराते हैं"
+   ],
+   "text": "तो साथियों, Rapid Revision भाग एक यहाँ पूरा होता है। आज हमने चार इकाइयों के सबसे ज़रूरी तथ्य, बारह अभ्यास प्रश्न, छह आम गलतियाँ और पूरी वर्ष-तालिका दोहरा ली। अगले भाग में Units पाँच, छह और सात — सूचना प्रौद्योगिकी, पुस्तकालय नेटवर्क और अनुसंधान विधियाँ — साथ ही Section B सामान्य ज्ञान का दोहराव होगा। याद रखिए, परीक्षा तेईस नवंबर से है और negative marking नहीं है — इसलिए प्रश्न-पत्र में हर सवाल को छूना है, अंदाज़ा भी खाली पर्ची से बेहतर है। अंतिम दिनों में नई चीज़ें मत उठाओ, बस यही तालिका रोज़ आधा घंटा दोहराओ। आपकी मेहनत ज़रूर रंग लाएगी — अपना बिहार समाचार की ओर से ढेरों शुभकामनाएँ!",
+   "vcap": "Part 2 में मिलते हैं — शुभकामनाएँ!",
+   "visual": "समापन + Part 2 झलक"
+  }
+ ]
+}
