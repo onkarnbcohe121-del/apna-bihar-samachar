@@ -1,0 +1,40 @@
+name: Gemini 3.8 Voice Samples
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  samples38:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+      - name: 5 awaazon ke sample banao (3.8 Flash TTS)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python voice_38_samples.py
+      - name: Samples artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: voice-38-samples
+          path: voice_samples/sample_*_38.mp3
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Samples repo me commit karo
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add voice_samples/ || true
+          git diff --cached --quiet || git commit -m "gemini 3.8 voice samples (5 voices)"
+          git push || true
