@@ -158,6 +158,10 @@ def scene(kind):
         for p in pts:
             y = draw_lines(d, 110, y, wrap(d, p, 58, True, W - 220), 58, True, INK, 82) + 40
         center(d, y + 60, 'किताब तुरंत आपके पास!', 54, False, GREEN)
+        t2 = 'apnabiharsamacharlive.myinstamojo.com'
+        tw2 = V.text_w(d, t2, 40)
+        d.rounded_rectangle([(W - tw2) / 2 - 24, 1560, (W + tw2) / 2 + 24, 1650], radius=24, fill=NAVY)
+        V.draw_mixed(d, (W - tw2) / 2, 1584, t2, 40, True, (255, 255, 255))
     elif kind == 'end':
         img2 = Image.new('RGB', (W, H), NAVY)
         d = ImageDraw.Draw(img2)
@@ -176,6 +180,9 @@ def scene(kind):
         d.rounded_rectangle([(W - tw) / 2 - 36, y + 30, (W + tw) / 2 + 36, y + 168], radius=32, fill=RED)
         V.draw_mixed(d, (W - tw) / 2, y + 58, t, 84, True, (255, 255, 255))
         center(d, y + 260, 'All The Best!', 64, True, GOLD)
+        t3 = 'Books: apnabiharsamacharlive.myinstamojo.com'
+        tw3 = V.text_w(d, t3, 40)
+        V.draw_mixed(d, (W - tw3) / 2, 1620, t3, 40, False, (190, 205, 255))
         return img2
     return img
 
