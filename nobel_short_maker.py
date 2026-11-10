@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Nobel Prize 2026 Short — informative khabar Short, Swara awaaz (nayi setting), music 12.5%.
+"""Nobel Prize 2026 Short — informative khabar Short, Swara awaaz (nayi setting), music 25%.
 Usage: python3 nobel_short_maker.py <out.mp4>"""
 import asyncio, os, subprocess, sys, tempfile
 
@@ -16,7 +16,10 @@ GRAY = (90, 95, 105)
 GOLD = (255, 190, 40)
 GREEN = (20, 140, 60)
 ROOT = os.path.dirname(os.path.abspath(__file__))
-MUSIC = os.path.join(ROOT, 'promo', 'music_loop.mp3')
+MUSIC_DIR = os.path.join(ROOT, 'shorts_music')
+_TRACKS = sorted(f for f in os.listdir(MUSIC_DIR)) if os.path.isdir(MUSIC_DIR) else []
+_pick = os.environ.get('MUSIC_FILE', '').strip()
+MUSIC = os.path.join(MUSIC_DIR, _pick) if _pick else (os.path.join(MUSIC_DIR, _TRACKS[0]) if _TRACKS else os.path.join(ROOT, 'promo', 'music_loop.mp3'))
 CARTOON = os.path.join(ROOT, 'nobel_cartoon.png')
 
 VOICE = "hi-IN-SwaraNeural"
@@ -158,7 +161,7 @@ def main():
     if os.path.exists(MUSIC):
         subprocess.run(['ffmpeg', '-y', '-i', joined, '-stream_loop', '-1', '-i', MUSIC,
                         '-filter_complex',
-                        '[1:a]loudnorm=I=-15:TP=-1.5:LRA=11,volume=0.125[m];[0:a][m]amix=inputs=2:duration=first[a]',
+                        '[1:a]loudnorm=I=-15:TP=-1.5:LRA=11,volume=0.25[m];[0:a][m]amix=inputs=2:duration=first[a]',
                         '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac',
                         '-shortest', out], capture_output=True, check=True)
     else:
