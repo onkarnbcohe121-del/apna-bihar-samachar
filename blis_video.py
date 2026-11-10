@@ -19,8 +19,8 @@ import asyncio, json, os, re, subprocess, sys, tempfile, urllib.request
 
 
 VOICE = "hi-IN-SwaraNeural"   # Hindi female, natural (Microsoft Edge TTS) — video.py jaisa
-RATE = "+5%"                  # MCQ video wala rate (video.py jaisa)
-PITCH = "-1Hz"                # MCQ video wala pitch (video.py jaisa)
+RATE = "+8%"                  # MCQ video wala rate (video.py jaisa)
+PITCH = "-8Hz"                # MCQ video wala pitch (video.py jaisa)
 W, H = 1280, 720
 LETTERS = ["A", "B", "C", "D"]
 
