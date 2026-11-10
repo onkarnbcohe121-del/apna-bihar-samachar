@@ -1,0 +1,56 @@
+name: TRE Promo Short
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tre-promo-short
+  cancel-in-progress: false
+
+jobs:
+  make-short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
+          pip install --quiet pillow fonttools google-api-python-client google-auth
+      - name: Promo video banao (Leda voice)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python promo/tre_promo.py
+      - name: Padded Shorts banao (speed 1.18 + dhundli seema + music)
+        run: |
+          ffprobe -v error -show_entries format=duration -of csv=p=0 promo_out/tre_books_promo.mp4
+          ffmpeg -y -i promo_out/tre_books_promo.mp4 -stream_loop -1 -i promo/music_loop.mp3 -filter_complex "[0:v]setpts=PTS/1.18,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=24:6[bg];[b]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p[v];[0:a]atempo=1.18[n];[1:a]volume=0.14[m];[n][m]amix=inputs=2:duration=first[a]" -map "[v]" -map "[a]" -c:v libx264 -c:a aac -shortest promo_out/tre_promo_short.mp4
+          ffprobe -v error -show_entries format=duration -of csv=p=0 promo_out/tre_promo_short.mp4
+      - name: Files artifact me bachao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tre-promo-short
+          path: |
+            promo_out/tre_promo_short.mp4
+            promo_out/tre_books_promo.mp4
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Short YouTube par upload karo (Public)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_FILE: promo_out/tre_promo_short.mp4
+          THUMB_FILE: promo_out/tre_thumb.png
+          YT_PRIVACY: public
+        run: |
+          export YT_TITLE="BPSC TRE 4.0 Book Series — Middle, TGT, GS, Language | ₹99 से शुरू #Shorts"
+          export YT_DESC="$(cat tre_short_desc.txt)"
+          python youtube_upload.py
