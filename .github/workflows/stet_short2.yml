@@ -1,0 +1,49 @@
+name: STET Short Leda
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: stet-short-leda
+  cancel-in-progress: false
+
+jobs:
+  make-short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
+          pip install --quiet pillow fonttools google-api-python-client google-auth
+      - name: STET Short banao (Leda + music)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python stet_short_maker2.py stet_out/stet_short2.mp4
+      - name: File artifact me bachao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stet-short-leda
+          path: stet_out/stet_short2.mp4
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Short YouTube par upload karo (Public)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_FILE: stet_out/stet_short2.mp4
+          THUMB_FILE: stet_cartoon_thumb.jpg
+          YT_PRIVACY: public
+        run: |
+          export YT_TITLE="Bihar STET 2026 — परीक्षा 22 नवंबर को | Admit Card 12 Nov से #Shorts"
+          export YT_DESC="$(cat stet_short_desc.txt)"
+          python youtube_upload.py
