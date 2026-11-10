@@ -12,7 +12,7 @@ import asyncio, base64, json, os, random, re, subprocess, sys, tempfile, time, u
 from PIL import Image, ImageDraw, ImageOps
 import video as V
 
-V.RATE = "-2%"    # Swara rate -2% (Speed 0.98x — user ka faisla 10 Nov 2026, Demo B)
+V.RATE = "+8%"    # Swara rate -2% (Speed 0.98x — user ka faisla 10 Nov 2026, Demo B)
 V.PITCH = "-8Hz"   # Swara pitch -8Hz (Pitch -4% — user ka faisla 10 Nov 2026, Demo B)
 
 W, H = V.W, V.H
