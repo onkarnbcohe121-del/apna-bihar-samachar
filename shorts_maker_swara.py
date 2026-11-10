@@ -152,7 +152,7 @@ def frame_end():
 
 
 async def tts(text, out):
-    c = edge_tts.Communicate(text, 'hi-IN-SwaraNeural', rate='+5%', pitch='-1Hz')
+    c = edge_tts.Communicate(text, 'hi-IN-SwaraNeural', rate='+8%', pitch='-8Hz')
     await c.save(out)
 
 
