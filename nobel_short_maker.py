@@ -158,7 +158,7 @@ def main():
     if os.path.exists(MUSIC):
         subprocess.run(['ffmpeg', '-y', '-i', joined, '-stream_loop', '-1', '-i', MUSIC,
                         '-filter_complex',
-                        '[1:a]volume=0.125[m];[0:a][m]amix=inputs=2:duration=first[a]',
+                        '[1:a]loudnorm=I=-15:TP=-1.5:LRA=11,volume=0.125[m];[0:a][m]amix=inputs=2:duration=first[a]',
                         '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac',
                         '-shortest', out], capture_output=True, check=True)
     else:
