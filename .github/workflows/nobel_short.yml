@@ -1,0 +1,47 @@
+name: Nobel Short Swara
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nobel-short-swara
+  cancel-in-progress: false
+
+jobs:
+  make-short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
+          pip install --quiet edge-tts pillow fonttools google-api-python-client google-auth
+      - name: Nobel Short banao (Swara + music 12.5%)
+        run: python nobel_short_maker.py nobel_out/nobel_short.mp4
+      - name: File artifact me bachao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nobel-short-swara
+          path: nobel_out/nobel_short.mp4
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Short YouTube par upload karo (Public)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_FILE: nobel_out/nobel_short.mp4
+          THUMB_FILE: nobel_cartoon_thumb.jpg
+          YT_PRIVACY: public
+        run: |
+          export YT_TITLE="Nobel Prize 2026 Winners | नोबेल पुरस्कार 2026 — सभी 6 विजेता #Shorts"
+          export YT_DESC="$(cat nobel_short_desc.txt)"
+          python youtube_upload.py
