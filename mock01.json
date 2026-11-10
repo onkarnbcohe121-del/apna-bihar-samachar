@@ -1,0 +1,556 @@
+{
+  "mock_no": 1,
+  "subject": "BLIS",
+  "questions": [
+    {
+      "q": "पुस्तकालय विज्ञान के पाँच सूत्र (Five Laws) किसने दिए थे? / Who propounded the Five Laws of Library Science?",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "डब्ल्यू. सी. बी. सेयर्स / W. C. B. Sayers",
+        "C": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "D": "सी. ए. कटर / C. A. Cutter"
+      },
+      "answer": "C",
+      "explanation": "पाँच सूत्र डॉ. एस. आर. रंगनाथन ने 1931 में प्रकाशित अपनी पुस्तक 'Five Laws of Library Science' में दिए थे।"
+    },
+    {
+      "q": "पुस्तकालय विज्ञान का प्रथम सूत्र क्या है? / What is the First Law of Library Science?",
+      "options": {
+        "A": "पुस्तकें उपयोग के लिए हैं / Books are for use",
+        "B": "हर पाठक को उसकी पुस्तक / Every reader his/her book",
+        "C": "हर पुस्तक को उसका पाठक / Every book its reader",
+        "D": "पाठक का समय बचाओ / Save the time of the reader"
+      },
+      "answer": "A",
+      "explanation": "प्रथम सूत्र 'पुस्तकें उपयोग के लिए हैं' कहता है कि पुस्तकें केवल संग्रह व संरक्षण के लिए नहीं, बल्कि उपयोग के लिए होती हैं।"
+    },
+    {
+      "q": "पुस्तकालय विज्ञान का पाँचवाँ सूत्र क्या है? / What is the Fifth Law of Library Science?",
+      "options": {
+        "A": "हर पाठक को उसकी पुस्तक / Every reader his/her book",
+        "B": "पुस्तकालय एक बढ़ता हुआ जीव है / Library is a growing organism",
+        "C": "पाठक का समय बचाओ / Save the time of the reader",
+        "D": "पुस्तकें उपयोग के लिए हैं / Books are for use"
+      },
+      "answer": "B",
+      "explanation": "पाँचवाँ सूत्र 'पुस्तकालय एक बढ़ता हुआ जीव है' — पुस्तकालय में पुस्तकें, पाठक और कर्मचारी, ये तीनों घटक निरंतर बढ़ते रहते हैं।"
+    },
+    {
+      "q": "IFLA की स्थापना किस वर्ष हुई थी? / In which year was IFLA founded?",
+      "options": {
+        "A": "1925",
+        "B": "1930",
+        "C": "1927",
+        "D": "1947"
+      },
+      "answer": "C",
+      "explanation": "IFLA (International Federation of Library Associations and Institutions) की स्थापना 1927 में एडिनबर्ग (स्कॉटलैंड) में हुई थी।"
+    },
+    {
+      "q": "भारतीय पुस्तकालय संघ (ILA) की स्थापना किस वर्ष हुई? / Indian Library Association (ILA) was founded in:",
+      "options": {
+        "A": "1933",
+        "B": "1920",
+        "C": "1948",
+        "D": "1955"
+      },
+      "answer": "A",
+      "explanation": "भारतीय पुस्तकालय संघ (ILA) की स्थापना 1933 में हुई थी और इसका मुख्यालय नई दिल्ली में है।"
+    },
+    {
+      "q": "IASLIC की स्थापना 1955 में कहाँ हुई थी? / IASLIC was founded in 1955 at:",
+      "options": {
+        "A": "दिल्ली / Delhi",
+        "B": "मुंबई / Mumbai",
+        "C": "चेन्नई / Chennai",
+        "D": "कोलकाता / Kolkata"
+      },
+      "answer": "D",
+      "explanation": "IASLIC (Indian Association of Special Libraries and Information Centres) की स्थापना 1955 में कोलकाता में हुई थी।"
+    },
+    {
+      "q": "भारत में प्रथम सार्वजनिक पुस्तकालय अधिनियम किस राज्य में पारित हुआ? / The first Public Libraries Act in India was enacted in:",
+      "options": {
+        "A": "आंध्र प्रदेश / Andhra Pradesh",
+        "B": "मद्रास (तमिलनाडु) / Madras (Tamil Nadu)",
+        "C": "कर्नाटक / Karnataka",
+        "D": "महाराष्ट्र / Maharashtra"
+      },
+      "answer": "B",
+      "explanation": "मद्रास सार्वजनिक पुस्तकालय अधिनियम 1948 भारत का प्रथम पुस्तकालय अधिनियम है; इसी में पुस्तकालय उपकर (library cess) का प्रावधान भी हुआ।"
+    },
+    {
+      "q": "अमेरिकन लाइब्रेरी एसोसिएशन (ALA) की स्थापना किस वर्ष हुई? / American Library Association (ALA) was founded in:",
+      "options": {
+        "A": "1857",
+        "B": "1901",
+        "C": "1927",
+        "D": "1876"
+      },
+      "answer": "D",
+      "explanation": "ALA की स्थापना 1876 में फिलाडेल्फिया (अमेरिका) में हुई थी; यह विश्व का सबसे पुराना और बड़ा पुस्तकालय संघ है।"
+    },
+    {
+      "q": "कर्नाटक सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ? / Karnataka Public Libraries Act was passed in:",
+      "options": {
+        "A": "1948",
+        "B": "1960",
+        "C": "1965",
+        "D": "1967"
+      },
+      "answer": "C",
+      "explanation": "कर्नाटक सार्वजनिक पुस्तकालय अधिनियम 1965 में पारित हुआ, जबकि आंध्र प्रदेश का अधिनियम 1960 का है।"
+    },
+    {
+      "q": "भारत में पुस्तकालय विज्ञान के जनक किसे माना जाता है? / Who is regarded as the Father of Library Science in India?",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "मेल्विल डेवी / Melvil Dewey",
+        "C": "एस. आर. रामास्वामी / S. R. Ramaswamy",
+        "D": "एच. ई. ब्लिस / H. E. Bliss"
+      },
+      "answer": "A",
+      "explanation": "डॉ. एस. आर. रंगनाथन को पाँच सूत्र, द्विबिंदु वर्गीकरण और CCC जैसे योगदानों के कारण भारत में पुस्तकालय विज्ञान का जनक माना जाता है; उनका जन्मदिन 12 अगस्त राष्ट्रीय पुस्तकालयाध्यक्ष दिवस के रूप में मनाया जाता है।"
+    },
+    {
+      "q": "डेवी दशमलव वर्गीकरण (DDC) के प्रवर्तक कौन हैं? / Who devised the Dewey Decimal Classification (DDC)?",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "मेल्विल डेवी / Melvil Dewey",
+        "C": "एच. ई. ब्लिस / H. E. Bliss",
+        "D": "पॉल ऑटलेट / Paul Otlet"
+      },
+      "answer": "B",
+      "explanation": "DDC का प्रतिपादन मेल्विल डेवी ने किया था और इसका प्रथम संस्करण 1876 में प्रकाशित हुआ।"
+    },
+    {
+      "q": "DDC का प्रथम संस्करण किस वर्ष प्रकाशित हुआ? / The first edition of DDC was published in:",
+      "options": {
+        "A": "1876",
+        "B": "1885",
+        "C": "1933",
+        "D": "1951"
+      },
+      "answer": "A",
+      "explanation": "DDC का प्रथम संस्करण 1876 में केवल 44 पृष्ठों में प्रकाशित हुआ था; वर्तमान में यह विश्व की सबसे अधिक प्रयुक्त वर्गीकरण योजना है।"
+    },
+    {
+      "q": "द्विबिंदु वर्गीकरण (Colon Classification) का प्रथम संस्करण किस वर्ष प्रकाशित हुआ? / The first edition of Colon Classification was published in:",
+      "options": {
+        "A": "1925",
+        "B": "1937",
+        "C": "1950",
+        "D": "1933"
+      },
+      "answer": "D",
+      "explanation": "एस. आर. रंगनाथन द्वारा रचित द्विबिंदु वर्गीकरण (CC) का प्रथम संस्करण 1933 में प्रकाशित हुआ; इसमें योजक चिह्न के रूप में कोलन (:) का प्रयोग हुआ था।"
+    },
+    {
+      "q": "सार्वभौमिक दशमलव वर्गीकरण (UDC) किनके द्वारा विकसित किया गया? / UDC was developed by:",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "C": "पॉल ऑटलेट और हेनरी ला फॉन्टेन / Paul Otlet and Henri La Fontaine",
+        "D": "सी. ए. कटर / C. A. Cutter"
+      },
+      "answer": "C",
+      "explanation": "UDC को बेल्जियम के पॉल ऑटलेट और हेनरी ला फॉन्टेन ने DDC के आधार पर विकसित किया था; इसका प्रथम संस्करण 1905 में फ्रेंच भाषा में आया।"
+    },
+    {
+      "q": "Colon Classification में मूलभूत श्रेणियों (PMEST) का सही क्रम क्या है? / What is the correct sequence of the PMEST fundamental categories in CC?",
+      "options": {
+        "A": "Personality, Matter, Energy, Space, Time",
+        "B": "Personality, Energy, Matter, Space, Time",
+        "C": "Matter, Personality, Energy, Time, Space",
+        "D": "Personality, Matter, Space, Energy, Time"
+      },
+      "answer": "A",
+      "explanation": "रंगनाथन के अनुसार प्रत्येक विषय पाँच मूलभूत श्रेणियों — Personality (व्यक्तित्व), Matter (पदार्थ), Energy (ऊर्जा), Space (स्थान), Time (समय) — में विश्लेषित होता है।"
+    },
+    {
+      "q": "DDC में मुख्य वर्गों (Main Classes) की संख्या कितनी है? / How many Main Classes are there in DDC?",
+      "options": {
+        "A": "9",
+        "B": "12",
+        "C": "10",
+        "D": "100"
+      },
+      "answer": "C",
+      "explanation": "DDC में समस्त ज्ञान को 000 से 900 तक के 10 मुख्य वर्गों में बाँटा गया है, जैसे 500 = विज्ञान, 900 = इतिहास।"
+    },
+    {
+      "q": "Colon Classification की अंकन (Notation) प्रणाली कैसी है? / The notation of Colon Classification is:",
+      "options": {
+        "A": "शुद्ध अंकन / Pure notation",
+        "B": "मिश्रित अंकन / Mixed notation",
+        "C": "केवल अंक / Digits only",
+        "D": "केवल रोमन अक्षर / Roman letters only"
+      },
+      "answer": "B",
+      "explanation": "CC का अंकन मिश्रित है — इसमें अंक, बड़े व छोटे अक्षर तथा योजक चिह्नों का संयोजन होता है, जबकि DDC का अंकन शुद्ध (केवल अंक) है।"
+    },
+    {
+      "q": "वर्गीकरण के सिद्धांतों (Canons of Classification) का प्रतिपादन किसने किया? / Who formulated the Canons of Classification?",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "सी. ए. कटर / C. A. Cutter",
+        "C": "डब्ल्यू. सी. बी. सेयर्स / W. C. B. Sayers",
+        "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+      },
+      "answer": "D",
+      "explanation": "रंगनाथन ने अपनी पुस्तक 'Prolegomena to Library Classification' (1937) में वर्गीकरण के सिद्धांतों (canons) का विस्तृत प्रतिपादन किया।"
+    },
+    {
+      "q": "DDC का 23वाँ संस्करण किस वर्ष प्रकाशित हुआ? / The 23rd edition of DDC was published in:",
+      "options": {
+        "A": "2003",
+        "B": "2011",
+        "C": "2015",
+        "D": "2019"
+      },
+      "answer": "B",
+      "explanation": "DDC का 23वाँ (अद्यतन पूर्ण) संस्करण 2011 में OCLC द्वारा प्रकाशित हुआ; इससे पहले 22वाँ संस्करण 2003 में आया था।"
+    },
+    {
+      "q": "Colon Classification किस प्रकार की वर्गीकरण योजना है? / Colon Classification is which type of classification scheme?",
+      "options": {
+        "A": "गणनात्मक / Enumerative",
+        "B": "विश्लेषणात्मक-संश्लेषणात्मक (पक्षात्मक) / Analytico-synthetic (faceted)",
+        "C": "केवल दशमलव / Purely decimal",
+        "D": "केवल वर्णक्रमानुसार / Purely alphabetical"
+      },
+      "answer": "B",
+      "explanation": "CC एक पक्षात्मक (faceted) योजना है — विषय को पक्षों में विश्लेषित करके अंकन का संश्लेषण किया जाता है, इसलिए इसे analytico-synthetic कहते हैं।"
+    },
+    {
+      "q": "AACR-2 किस वर्ष प्रकाशित हुआ? / AACR-2 was published in:",
+      "options": {
+        "A": "1967",
+        "B": "1988",
+        "C": "1978",
+        "D": "2002"
+      },
+      "answer": "C",
+      "explanation": "Anglo-American Cataloguing Rules का दूसरा संस्करण (AACR-2) 1978 में प्रकाशित हुआ; AACR-1 1967 में आया था।"
+    },
+    {
+      "q": "वर्गीकृत सूची संहिता (CCC) के लेखक कौन हैं? / Who authored the Classified Catalogue Code (CCC)?",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "सी. ए. कटर / C. A. Cutter",
+        "C": "मेल्विल डेवी / Melvil Dewey",
+        "D": "माइकेल गॉर्मन / Michael Gorman"
+      },
+      "answer": "A",
+      "explanation": "CCC की रचना एस. आर. रंगनाथन ने की थी और इसका प्रथम संस्करण 1934 में प्रकाशित हुआ।"
+    },
+    {
+      "q": "MARC परियोजना किस संस्था से जुड़ी है? / The MARC project is associated with:",
+      "options": {
+        "A": "ब्रिटिश लाइब्रेरी / British Library",
+        "B": "लाइब्रेरी ऑफ कांग्रेस / Library of Congress",
+        "C": "IFLA",
+        "D": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata"
+      },
+      "answer": "B",
+      "explanation": "MARC (Machine Readable Cataloguing) का विकास 1960 के दशक में अमेरिका की Library of Congress में Henriette Avram के नेतृत्व में हुआ।"
+    },
+    {
+      "q": "13 अंकों वाला ISBN कब से लागू हुआ? / The 13-digit ISBN came into effect from:",
+      "options": {
+        "A": "2000",
+        "B": "2005",
+        "C": "2010",
+        "D": "2007"
+      },
+      "answer": "D",
+      "explanation": "1 जनवरी 2007 से ISBN 10 अंकों से बढ़ाकर 13 अंकों का कर दिया गया; भारत में ISBN आवंटन का कार्य राजा राम मोहन राय राष्ट्रीय एजेंसी करती है।"
+    },
+    {
+      "q": "ISSN में कुल कितने अंक होते हैं? / An ISSN consists of how many digits?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "13",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "ISSN (International Standard Serial Number) 8 अंकों का होता है जो पत्रिकाओं/धारावाहिक प्रकाशनों को दिया जाता है, जबकि ISBN पुस्तकों के लिए होता है।"
+    },
+    {
+      "q": "AACR-2 के अनुसार मुख्य प्रविष्टि (Main Entry) सामान्यतः किसके अंतर्गत बनाई जाती है? / Under AACR-2, the main entry is generally made under:",
+      "options": {
+        "A": "केवल शीर्षक / Title only",
+        "B": "केवल प्रकाशक / Publisher only",
+        "C": "लेखक, अथवा लेखक न हो तो शीर्षक / The author, or the title if there is no author",
+        "D": "विषय / Subject"
+      },
+      "answer": "C",
+      "explanation": "AACR-2 में मुख्य प्रविष्टि व्यक्तिगत लेखक के नाम से बनती है; यदि लेखक ज्ञात न हो या कृति संपादक के अंतर्गत हो तो शीर्षक से प्रविष्टि बनती है।"
+    },
+    {
+      "q": "शब्दकोश सूची (Dictionary Catalogue) में प्रविष्टियाँ किस क्रम में व्यवस्थित होती हैं? / In a Dictionary Catalogue, entries are arranged:",
+      "options": {
+        "A": "वर्गीकृत क्रम में / In classified order",
+        "B": "शब्दकोश की भाँति वर्णक्रम में / Alphabetically, like a dictionary",
+        "C": "परिग्रहण संख्या के क्रम में / By accession number",
+        "D": "आकार के क्रम में / By size"
+      },
+      "answer": "B",
+      "explanation": "Dictionary Catalogue में लेखक, शीर्षक और विषय — सभी प्रविष्टियाँ एक ही वर्णक्रम (alphabetical) अनुक्रम में मिलती हैं।"
+    },
+    {
+      "q": "ISBD का पूर्ण रूप क्या है? / ISBD stands for:",
+      "options": {
+        "A": "International Standard Bibliographic Description",
+        "B": "Indian Standard Book Description",
+        "C": "International System for Book Data",
+        "D": "International Standard Book Description"
+      },
+      "answer": "A",
+      "explanation": "ISBD (International Standard Bibliographic Description) IFLA द्वारा विकसित ग्रंथात्मक विवरण का अंतरराष्ट्रीय मानक है, जिसका प्रयोग AACR-2 में भी हुआ है।"
+    },
+    {
+      "q": "विषय शीर्षक प्राप्त करने की शृंखला प्रक्रिया (Chain Procedure) किसने विकसित की? / Who devised the Chain Procedure for deriving subject headings?",
+      "options": {
+        "A": "सी. ए. कटर / C. A. Cutter",
+        "B": "मेल्विल डेवी / Melvil Dewey",
+        "C": "डब्ल्यू. सी. बी. सेयर्स / W. C. B. Sayers",
+        "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+      },
+      "answer": "D",
+      "explanation": "शृंखला प्रक्रिया रंगनाथन ने विकसित की, जिसमें वर्ग संख्या की शृंखला से वर्गीकृत सूची के विषय शीर्षक यांत्रिक रूप से निकाले जाते हैं।"
+    },
+    {
+      "q": "अतिरिक्त प्रविष्टि (Added Entry) का मुख्य उद्देश्य क्या है? / The main purpose of an added entry is to provide:",
+      "options": {
+        "A": "पुस्तक की कीमत की जानकारी / Price information of the book",
+        "B": "अतिरिक्त अभिगम बिंदु — संयुक्त लेखक, संपादक, शीर्षक आदि / Additional access points — joint author, editor, title etc.",
+        "C": "जिल्द की जानकारी / Binding information",
+        "D": "पुस्तक का आकार / Size of the book"
+      },
+      "answer": "B",
+      "explanation": "मुख्य प्रविष्टि के अतिरिक्त संयुक्त लेखक, संपादक, अनुवादक और शीर्षक आदि से अतिरिक्त प्रविष्टियाँ बनाई जाती हैं ताकि पाठक अनेक मार्गों से पुस्तक तक पहुँच सके।"
+    },
+    {
+      "q": "SDI सेवा की अवधारणा किसने दी थी? / Who conceived the SDI service?",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "C": "एच. पी. लुह्न / H. P. Luhn",
+        "D": "सी. ए. कटर / C. A. Cutter"
+      },
+      "answer": "C",
+      "explanation": "SDI (Selective Dissemination of Information) की अवधारणा 1950 के दशक में IBM के H. P. Luhn ने दी; इसमें प्रत्येक उपयोगकर्ता की रुचि-प्रोफ़ाइल के अनुसार चुनिंदा सूचना भेजी जाती है।"
+    },
+    {
+      "q": "CAS का पूर्ण रूप क्या है? / CAS stands for:",
+      "options": {
+        "A": "Current Awareness Service",
+        "B": "Cataloguing and Searching Service",
+        "C": "Centralised Acquisition Service",
+        "D": "Computer Aided Service"
+      },
+      "answer": "A",
+      "explanation": "CAS (Current Awareness Service) उपयोगकर्ताओं को उनके विषय की नवीनतम जानकारी/प्रकाशनों से अवगत कराने की सेवा है, जैसे नवीन आगमन सूची।"
+    },
+    {
+      "q": "Encyclopaedia Britannica का प्रथम संस्करण किस वर्ष प्रकाशित हुआ? / The first edition of Encyclopaedia Britannica was published in:",
+      "options": {
+        "A": "1801",
+        "B": "1768",
+        "C": "1876",
+        "D": "1911"
+      },
+      "answer": "B",
+      "explanation": "Encyclopaedia Britannica का प्रथम संस्करण 1768 में एडिनबर्ग (स्कॉटलैंड) से प्रकाशित हुआ था; इसका प्रसिद्ध 11वाँ संस्करण 1911 में आया।"
+    },
+    {
+      "q": "सार (Abstract) किसे कहते हैं? / An abstract is:",
+      "options": {
+        "A": "किसी पुस्तक की आलोचना / A criticism of a book",
+        "B": "लेखक की जीवनी / Biography of the author",
+        "C": "केवल शीर्षकों की सूची / A list of titles only",
+        "D": "किसी दस्तावेज़ की सामग्री की संक्षिप्त व सटीक प्रस्तुति / A concise and accurate representation of a document's content"
+      },
+      "answer": "D",
+      "explanation": "Abstract किसी लेख/दस्तावेज़ का संक्षिप्त सारांश होता है जिससे पाठक बिना पूरा दस्तावेज़ पढ़े उसकी उपयोगिता जाँच सकता है; Chemical Abstracts प्रसिद्ध सारकरण सेवा है।"
+    },
+    {
+      "q": "तैयार संदर्भ सेवा (Ready Reference Service) में उत्तर सामान्यतः कितने समय में दिया जाता है? / Ready Reference Service usually provides an answer within:",
+      "options": {
+        "A": "बहुत कम समय में — कुछ ही मिनटों में / A very short time — within a few minutes",
+        "B": "एक सप्ताह में / One week",
+        "C": "एक माह में / One month",
+        "D": "छह माह में / Six months"
+      },
+      "answer": "A",
+      "explanation": "रंगनाथन के अनुसार तैयार संदर्भ सेवा में तथ्यात्मक प्रश्नों का उत्तर तैयार संदर्भ स्रोतों से बहुत कम समय, सामान्यतः कुछ मिनटों में दिया जाता है; दीर्घकालीन खोज वाली सेवा Long Range Reference Service कहलाती है।"
+    },
+    {
+      "q": "INSDOC की स्थापना किस वर्ष हुई? / INSDOC was established in:",
+      "options": {
+        "A": "1947",
+        "B": "1961",
+        "C": "1952",
+        "D": "1975"
+      },
+      "answer": "C",
+      "explanation": "INSDOC (Indian National Scientific Documentation Centre) की स्थापना 1952 में CSIR के अंतर्गत नई दिल्ली में हुई; बाद में इसका विलय NISCAIR में हुआ।"
+    },
+    {
+      "q": "ग्रंथसूची (Bibliography) से क्या अभिप्राय है? / A bibliography is:",
+      "options": {
+        "A": "पुस्तकों की जिल्द बनाने की विधि / A method of book binding",
+        "B": "पुस्तकों/दस्तावेज़ों की व्यवस्थित सूची / A systematic list of books/documents",
+        "C": "पुस्तकालय की नियमावली / Rules of a library",
+        "D": "पाठकों की सूची / A list of readers"
+      },
+      "answer": "B",
+      "explanation": "Bibliography किसी विषय, लेखक या देश से संबंधित पुस्तकों व दस्तावेज़ों की व्यवस्थित सूची होती है, जैसे Indian National Bibliography (1957 से प्रकाशित)।"
+    },
+    {
+      "q": "निम्न में से कौन-सी एक सारकरण सेवा (Abstracting Service) है? / Which of the following is an abstracting service?",
+      "options": {
+        "A": "Chemical Abstracts",
+        "B": "Books in Print",
+        "C": "Ulrich's Periodicals Directory",
+        "D": "Cumulative Book Index"
+      },
+      "answer": "A",
+      "explanation": "Chemical Abstracts (1907 से, American Chemical Society) रसायन विज्ञान की विश्वप्रसिद्ध सारकरण सेवा है; Books in Print एक व्यापारिक ग्रंथसूची है।"
+    },
+    {
+      "q": "परिग्रहण पंजी (Accession Register) में प्रत्येक पुस्तक को क्या प्रदान किया जाता है? / Each book recorded in the Accession Register is assigned a:",
+      "options": {
+        "A": "वर्ग संख्या / Class number",
+        "B": "परिग्रहण संख्या / Accession number",
+        "C": "ISBN",
+        "D": "कॉल नंबर / Call number"
+      },
+      "answer": "B",
+      "explanation": "पुस्तकालय में आने वाली प्रत्येक पुस्तक को परिग्रहण पंजी में क्रम से एक परिग्रहण संख्या (accession number) दी जाती है — यह पुस्तक का स्थायी अभिलेख होता है।"
+    },
+    {
+      "q": "ब्राउन निर्गम प्रणाली (Browne Charging System) किस कार्य से संबंधित है? / The Browne Charging System is related to:",
+      "options": {
+        "A": "अधिग्रहण / Acquisition",
+        "B": "सूचीकरण / Cataloguing",
+        "C": "परिसंचरण — पुस्तक निर्गम व वापसी / Circulation — issue and return of books",
+        "D": "जिल्दबंदी / Binding"
+      },
+      "answer": "C",
+      "explanation": "Browne प्रणाली परिसंचरण की एक विधि है जिसमें पाठक के टिकट में पुस्तक का बुक-पॉकेट/कार्ड रखकर निर्गम दर्ज किया जाता है।"
+    },
+    {
+      "q": "त्रि-पत्रक प्रणाली (Three Card System) का प्रयोग किसके अभिलेख हेतु किया जाता है? / The Three Card System is used for maintaining records of:",
+      "options": {
+        "A": "पत्रिकाओं/धारावाहिकों के / Periodicals/serials",
+        "B": "संदर्भ पुस्तकों के / Reference books",
+        "C": "पाठकों के / Readers",
+        "D": "कर्मचारियों के / Staff"
+      },
+      "answer": "A",
+      "explanation": "रंगनाथन की त्रि-पत्रक प्रणाली में प्रत्येक पत्रिका के लिए Register Card, Check Card और Classified Index Card बनाए जाते हैं ताकि अंक आने-न आने का अभिलेख रहे।"
+    },
+    {
+      "q": "भौतिक/स्टॉक सत्यापन (Stock Verification) का मुख्य उद्देश्य क्या है? / The main purpose of stock verification is:",
+      "options": {
+        "A": "पुरानी पुस्तकें बेचना / To sell old books",
+        "B": "नई पुस्तकें खरीदना / To buy new books",
+        "C": "पाठकों की संख्या बढ़ाना / To increase readers",
+        "D": "खोई हुई/गुम पुस्तकों का पता लगाना / To find out lost/missing books"
+      },
+      "answer": "D",
+      "explanation": "Stock Verification में शेल्फ की पुस्तकों का अभिलेख से मिलान किया जाता है ताकि गुम, खोई या गलत रखी पुस्तकों का पता लगाकर संग्रह अद्यतन किया जा सके।"
+    },
+    {
+      "q": "नेवार्क निर्गम प्रणाली (Newark Charging System) में मुख्यतः किसका प्रयोग होता है? / The Newark Charging System mainly uses:",
+      "options": {
+        "A": "केवल रजिस्टर / Register only",
+        "B": "पाठक का कार्ड/टिकट / Borrower's (reader's) card/ticket",
+        "C": "धातु के टोकन / Metal tokens",
+        "D": "मुहर / Rubber stamp only"
+      },
+      "answer": "B",
+      "explanation": "Newark प्रणाली (अमेरिका के Newark Public Library से विकसित) में पाठक के कार्ड पर पुस्तक का विवरण व देय तिथि अंकित करके निर्गम किया जाता है।"
+    },
+    {
+      "q": "अधिग्रहण विभाग (Acquisition Section) का मुख्य कार्य क्या है? / The main function of the Acquisition Section is:",
+      "options": {
+        "A": "पुस्तकों की खरीद/प्राप्ति करना / Procurement of books and documents",
+        "B": "पुस्तकें जारी करना / Issuing books",
+        "C": "पुस्तकों की मरम्मत करना / Repairing books",
+        "D": "पुस्तकें शेल्फ पर रखना / Shelving books"
+      },
+      "answer": "A",
+      "explanation": "अधिग्रहण विभाग पुस्तक चयन के बाद आदेश देना, पुस्तकें प्राप्त करना, बिल सत्यापन और परिग्रहण (accessioning) का कार्य करता है।"
+    },
+    {
+      "q": "OPAC का पूर्ण रूप क्या है? / OPAC stands for:",
+      "options": {
+        "A": "Online Private Access Catalogue",
+        "B": "Open Public Access Card",
+        "C": "Online Public Access Catalogue",
+        "D": "Offline Public Access Catalogue"
+      },
+      "answer": "C",
+      "explanation": "OPAC पुस्तकालय सूची का ऑनलाइन रूप है जिससे पाठक कंप्यूटर/इंटरनेट पर लेखक, शीर्षक व विषय से पुस्तकें खोज सकता है।"
+    },
+    {
+      "q": "SOUL पुस्तकालय सॉफ़्टवेयर किस संस्था द्वारा विकसित किया गया? / SOUL library software was developed by:",
+      "options": {
+        "A": "NISCAIR",
+        "B": "INFLIBNET",
+        "C": "NISSAT",
+        "D": "DRTC"
+      },
+      "answer": "B",
+      "explanation": "SOUL (Software for University Libraries) का विकास INFLIBNET Centre, गांधीनगर ने विश्वविद्यालय पुस्तकालयों के स्वचालन हेतु किया है।"
+    },
+    {
+      "q": "कोहा (Koha) क्या है? / Koha is:",
+      "options": {
+        "A": "मुक्त स्रोत एकीकृत पुस्तकालय सॉफ़्टवेयर / An open-source Integrated Library System (ILS)",
+        "B": "एक वर्गीकरण योजना / A classification scheme",
+        "C": "एक संदर्भ पुस्तक / A reference book",
+        "D": "एक पुस्तकालय संघ / A library association"
+      },
+      "answer": "A",
+      "explanation": "Koha विश्व का प्रथम मुक्त स्रोत (open source) एकीकृत पुस्तकालय सॉफ़्टवेयर है, जो मूलतः न्यूज़ीलैंड में विकसित हुआ।"
+    },
+    {
+      "q": "वर्ल्ड वाइड वेब (WWW) का आविष्कार किसने किया? / Who invented the World Wide Web (WWW)?",
+      "options": {
+        "A": "बिल गेट्स / Bill Gates",
+        "B": "विंट सर्फ / Vint Cerf",
+        "C": "चार्ल्स बैबेज / Charles Babbage",
+        "D": "टिम बर्नर्स-ली / Tim Berners-Lee"
+      },
+      "answer": "D",
+      "explanation": "WWW का आविष्कार टिम बर्नर्स-ली ने 1989 में CERN में किया था; इंटरनेट और वेब अलग अवधारणाएँ हैं — वेब इंटरनेट पर चलने वाली एक सेवा है।"
+    },
+    {
+      "q": "DSpace सॉफ़्टवेयर का प्रयोग मुख्यतः किसके लिए होता है? / DSpace software is mainly used for:",
+      "options": {
+        "A": "केवल सूचीकरण के लिए / Cataloguing only",
+        "B": "डिजिटल/संस्थागत भंडार (Institutional Repository) बनाने के लिए / Building digital/institutional repositories",
+        "C": "केवल परिसंचरण के लिए / Circulation only",
+        "D": "लेखा-जोखा के लिए / Accounting only"
+      },
+      "answer": "B",
+      "explanation": "DSpace एक मुक्त स्रोत सॉफ़्टवेयर है जिससे संस्थान शोध-पत्र, थीसिस आदि का डिजिटल भंडार (repository) बनाकर ऑनलाइन उपलब्ध कराते हैं।"
+    },
+    {
+      "q": "आधुनिक पुस्तकालयों में RFID तकनीक का मुख्य उपयोग क्या है? / The main use of RFID technology in modern libraries is:",
+      "options": {
+        "A": "केवल सूची बनाने के लिए / For cataloguing only",
+        "B": "केवल जिल्दबंदी के लिए / For binding only",
+        "C": "तीव्र निर्गम-वापसी, सुरक्षा व स्टॉक प्रबंधन के लिए / Fast issue-return, security and stock management",
+        "D": "केवल इंटरनेट खोज के लिए / For internet searching only"
+      },
+      "answer": "C",
+      "explanation": "RFID टैग से एक साथ कई पुस्तकों का निर्गम-वापसी, चोरी-रोकथाम (security gate) और स्टॉक सत्यापन तीव्र गति से होता है; यह बारकोड से उन्नत तकनीक है।"
+    }
+  ]
+}
