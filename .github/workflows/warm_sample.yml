@@ -1,0 +1,32 @@
+name: Swara Warm Sample
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: swara-warm-sample
+  cancel-in-progress: false
+
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Edge TTS install karo
+        run: pip install --quiet edge-tts
+      - name: Warm sample banao
+        run: python warm_sample.py
+      - name: Sample artifact me bachao
+        uses: actions/upload-artifact@v4
+        with:
+          name: swara-warm-sample
+          path: warm_out/*.mp3
+          retention-days: 3
+          if-no-files-found: error
