@@ -14,8 +14,8 @@ from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 VOICE = "hi-IN-SwaraNeural"   # Hindi female, natural (Microsoft Edge TTS)
-RATE = "+5%"                  # halki tez — natural (-5%) aur robotic (+10%) ke beech ki raftaar (user ka nirdesh 1 Nov: "agla video thora fast")
-PITCH = "-1Hz"                # halki gehraai — awaaz zyada insaani lagti hai
+RATE = "+8%"                  # halki tez — natural (-5%) aur robotic (+10%) ke beech ki raftaar (user ka nirdesh 1 Nov: "agla video thora fast")
+PITCH = "-8Hz"                # halki gehraai — awaaz zyada insaani lagti hai
 W, H = 1280, 720
 LETTERS = ["A", "B", "C", "D"]
 
