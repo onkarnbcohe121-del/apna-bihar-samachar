@@ -19,5 +19,6 @@
  "minerals_energy.json",
  "light_reflection_refraction.json",
  "manufacturing_industries.json",
- "electricity.json"
+ "electricity.json",
+ "transport_communication.json"
 ]
