@@ -20,6 +20,8 @@ MUSIC_DIR = os.path.join(ROOT, 'shorts_music')
 _TRACKS = sorted(f for f in os.listdir(MUSIC_DIR)) if os.path.isdir(MUSIC_DIR) else []
 _pick = os.environ.get('MUSIC_FILE', '').strip()
 MUSIC = os.path.join(MUSIC_DIR, _pick) if _pick else (os.path.join(MUSIC_DIR, _TRACKS[0]) if _TRACKS else os.path.join(ROOT, 'promo', 'music_loop.mp3'))
+if os.environ.get('MUSIC_OFF') == '1':
+    MUSIC = ''
 CARTOON = os.path.join(ROOT, 'nobel_cartoon.png')
 
 VOICE = "hi-IN-SwaraNeural"
