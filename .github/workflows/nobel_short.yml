@@ -23,9 +23,9 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
           pip install --quiet edge-tts pillow fonttools google-api-python-client google-auth
-      - name: Nobel Short banao (Swara + music 25%)
+      - name: Nobel Short banao (Swara, bina music)
         env:
-          MUSIC_FILE: track1_exes.mp3
+          MUSIC_OFF: "1"
         run: python nobel_short_maker.py nobel_out/nobel_short.mp4
       - name: File artifact me bachao
         if: always()
