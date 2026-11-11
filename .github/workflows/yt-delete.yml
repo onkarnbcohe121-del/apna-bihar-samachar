@@ -1,7 +1,9 @@
 name: YT Delete (one-time)
 
+
 on:
   workflow_dispatch:
+
 
 jobs:
   del:
@@ -27,13 +29,13 @@ jobs:
                               client_secret=os.environ["YT_CLIENT_SECRET"],
                               scopes=["https://www.googleapis.com/auth/youtube"])
           yt = build("youtube", "v3", credentials=creds)
-          for vid in ["WfCg7w-CDUw"]:
+          for vid in ["Qnhuvjfyc0Y"]:
               try:
                   yt.videos().delete(id=vid).execute()
                   print("DELETE_OK", vid)
               except Exception as e:
                   print("DELETE_FAIL", vid, repr(e)[:200])
-          REMOVE = {"WfCg7w-CDUw"}
+          REMOVE = {"Qnhuvjfyc0Y"}
           token = None
           while True:
               resp = yt.playlistItems().list(part="snippet", playlistId="PLcdNKhIFEMC0", maxResults=50, pageToken=token).execute()
