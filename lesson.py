@@ -504,7 +504,6 @@ def full_slide_segment(workdir, prefix, audio, frames):
     frame_segment(png, audio, out)
     return [out]
 
-
 def reveal_segments(workdir, prefix, audio, frames):
     """frames = [(img, weight), ...]. Scene ki audio ko weights ke anupaat me
     kaatkar har frame ka segment banao — kul samay audio ke barabar (±0.3s)."""
