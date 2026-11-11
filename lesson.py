@@ -12,8 +12,8 @@ import asyncio, base64, json, os, random, re, subprocess, sys, tempfile, time, u
 from PIL import Image, ImageDraw, ImageOps
 import video as V
 
-V.RATE = "+5%"    # lessons: Swara rate +5%
-V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
+V.RATE = "+8%"    # Swara rate -2% (Speed 0.98x — user ka faisla 10 Nov 2026, Demo B)
+V.PITCH = "-8Hz"   # Swara pitch -8Hz (Pitch -4% — user ka faisla 10 Nov 2026, Demo B)
 
 W, H = V.W, V.H
 SFILE = "lesson_state.json"
@@ -496,9 +496,7 @@ def frame_segment(png, mp3, out):
 
 
 def full_slide_segment(workdir, prefix, audio, frames):
-    """⭐ FULL-SLIDE mode (user, 11 Nov 2026 — 'Ab se kisi vedio me typing mt use karna'):
-    reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold
-    image) poori awaaz tak sthir dikhegi. Segment = frame_segment (apad ke bina)."""
+    """FULL-SLIDE mode (user, 11 Nov 2026): reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold image) poori awaaz tak sthir dikhegi. Segment = frame_segment (apad ke bina)."""
     img = frames[-1][0]
     png = os.path.join(workdir, f"{prefix}_full.png")
     img.save(png)
