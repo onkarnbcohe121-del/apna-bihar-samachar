@@ -1,0 +1,73 @@
+name: One Shot Join & Upload
+
+on:
+  workflow_dispatch:
+    inputs:
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: oneshot-join
+  cancel-in-progress: false
+
+jobs:
+  join-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Install step MAJBOOT (11 Nov raat ka fix): apt mirror hang/fail par
+      # timeout + retry loop; output chhupaya nahi jayega taaki wajah dikhe.
+      - name: Tools install karo
+        run: |
+          for i in 1 2 3 4; do
+            if sudo timeout 240 apt-get update -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25; then break; fi
+            echo "apt-get update try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          for i in 1 2 3; do
+            if sudo timeout 300 apt-get install -y ffmpeg; then break; fi
+            echo "apt-get install try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          ffmpeg -version | head -1
+          pip install --quiet google-api-python-client google-auth
+
+      - name: Chunks jodo aur YouTube par upload karo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: python oneshot-history/oneshot_join.py
+
+      - name: Merged video artifact me bachao (safety copy)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oneshot-merged
+          path: |
+            oneshot_out/oneshot_history_full.mp4
+            oneshot_out/desc.txt
+            oneshot_out/title.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Latest link commit karo
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add oneshot_latest.txt || true
+          git diff --cached --quiet || git commit -m "oneshot latest update"
+          git push || true
