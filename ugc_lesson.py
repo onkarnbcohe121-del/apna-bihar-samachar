@@ -21,8 +21,8 @@ V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
 # chalega; env na ho tab bhi default = Leda hai. Dono raaston me text pehle
 # shabdkosh (prepare_tts_text) se guzarta hai — Leda ko bhi wahi sudhra text
 # milta hai jo Swara ko milta hai (V.tts bhi andar wahi karta hai).
-GEMINI_MODEL = "gemini-2.5-flash-preview-tts"
-GEMINI_VOICE_NAME = "Leda"
+GEMINI_MODEL = "gemini-3.8-flash-tts"
+GEMINI_VOICE_NAME = "Sulafat"
 
 
 def ugc_voice():
@@ -582,16 +582,13 @@ def frame_segment(png, mp3, out):
 
 
 def full_slide_segment(workdir, prefix, audio, frames):
-    """⭐ FULL-SLIDE mode (user, 11 Nov 2026 — 'Ab se kisi vedio me typing mt use karna'):
-    reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold
-    image) poori awaaz tak sthir dikhegi. Segment = frame_segment (apad ke bina)."""
+    """FULL-SLIDE mode (user, 11 Nov 2026): reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold image) poori awaaz tak sthir dikhegi. Segment = frame_segment (apad ke bina)."""
     img = frames[-1][0]
     png = os.path.join(workdir, f"{prefix}_full.png")
     img.save(png)
     out = os.path.join(workdir, f"{prefix}_seg0.mp4")
     frame_segment(png, audio, out)
     return [out]
-
 
 def reveal_segments(workdir, prefix, audio, frames):
     """frames = [(img, weight), ...]. Scene ki audio ko weights ke anupaat me
