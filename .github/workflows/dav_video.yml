@@ -1,0 +1,83 @@
+name: DAV CBT Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      script_file:
+        description: "Script JSON file (khaali = dav_state.json ke next wala script)"
+        default: ""
+      save_state:
+        description: "State aage badhana hai? 1 = haan, 0 = nahi (test ke liye 0)"
+        default: "1"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dav-video
+
+jobs:
+  make-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow google-api-python-client google-auth
+
+      - name: DAV CBT video banao
+        env:
+          SCRIPT_FILE: ${{ inputs.script_file }}
+          SAVE_STATE: ${{ inputs.save_state }} || '1'
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python dav_video.py
+
+      - name: Video file artifact me bachao (upload fail ho to bhi)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dav-video
+          path: |
+            tmpwork/dav_*/final.mp4
+            tmpwork/dav_*/thumb.jpg
+            tmpwork/dav_*/title.txt
+            tmpwork/dav_*/desc.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: YouTube par upload karo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy }} || 'public'
+          YT_PLAYLIST_ID: PLJhMgG0q334E
+        run: |
+          VIDEO_FILE=$(ls tmpwork/dav_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/dav_*/thumb.jpg | head -1)
+          YT_TITLE=$(cat tmpwork/dav_*/title.txt)
+          YT_DESC=$(cat tmpwork/dav_*/desc.txt)
+          export VIDEO_FILE THUMB_FILE YT_TITLE YT_DESC
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > dav_latest.txt || true
+
+      - name: State wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dav_state.json || true
+          git add dav_latest.txt || true
+          git diff --cached --quiet || git commit -m "dav state update"
+          git push || true
