@@ -38,6 +38,30 @@ def year_to_sau_style(match: re.Match) -> str:
     return spoken
 
 
+def year_to_hazaar_style(match: re.Match) -> str:
+    """2000-2099 ke saal: 'दो हज़ार' + baaki ank shabdon me.
+    (User ka pakka niyam, 11 Nov 2026: video me saal kabhi digits/English
+    style me nahi bolna — 2027 = 'दो हज़ार सत्ताइस'.)"""
+    number = int(match.group(0))
+    remainder = number - 2000
+    spoken = "दो हज़ार"
+    if remainder:
+        spoken += " " + HINDI_NUMS[remainder]
+    return spoken
+
+
+def year_range_to_hazaar_style(match: re.Match) -> str:
+    """'2027–28' jaisi session-range: dono hisse shabdon me bolna hai —
+    'दो हज़ार सत्ताइस–अट्ठाईस'. Sirf 20xx wali range par lagu."""
+    year = int(match.group(1))
+    tail = int(match.group(2))
+    spoken = "दो हज़ार"
+    remainder = year - 2000
+    if remainder:
+        spoken += " " + HINDI_NUMS[remainder]
+    return spoken + "–" + HINDI_NUMS[tail]
+
+
 def load_dictionary(path: Path = DEFAULT_DICTIONARY) -> Dict[str, str]:
     if not path.exists():
         return {}
@@ -95,6 +119,10 @@ def prepare_tts_text(text: str, dictionary_path: Path = DEFAULT_DICTIONARY) -> s
     spoken = text.translate(DEV_DIGITS)
     spoken = apply_dictionary(spoken, load_dictionary(dictionary_path))
     spoken = apply_pronunciation_rules(spoken)
+    # Pehle session-range (2027–28), phir akele saal — dono shabdon me.
+    spoken = re.sub(r"(?<![\d])(20\d{2})[–-](\d{2})(?![\d])", year_range_to_hazaar_style, spoken)
+    # 2000–2099 ke saal 'दो हज़ार ...' shabdon me (11 Nov 2026 ka niyam).
+    spoken = re.sub(r"(?<![\d])(20\d{2})(?![\d])", year_to_hazaar_style, spoken)
     # Keep the established 1100–1999 year-reading rule.
     spoken = re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", year_to_sau_style, spoken)
     # Give TTS clean spacing without changing the words or their meaning.
