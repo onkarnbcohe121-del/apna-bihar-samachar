@@ -21,8 +21,8 @@ V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
 # chalega; env na ho tab bhi default = Leda hai. Dono raaston me text pehle
 # shabdkosh (prepare_tts_text) se guzarta hai — Leda ko bhi wahi sudhra text
 # milta hai jo Swara ko milta hai (V.tts bhi andar wahi karta hai).
-GEMINI_MODEL = "gemini-3.8-flash-tts"
-GEMINI_VOICE_NAME = "Sulafat"
+GEMINI_MODEL = "gemini-2.5-flash-preview-tts"
+GEMINI_VOICE_NAME = "Leda"
 
 
 def ugc_voice():
@@ -581,6 +581,18 @@ def frame_segment(png, mp3, out):
          "-t", f"{dur:.2f}", out], check=True)
 
 
+def full_slide_segment(workdir, prefix, audio, frames):
+    """⭐ FULL-SLIDE mode (user, 11 Nov 2026 — 'Ab se kisi vedio me typing mt use karna'):
+    reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold
+    image) poori awaaz tak sthir dikhegi. Segment = frame_segment (apad ke bina)."""
+    img = frames[-1][0]
+    png = os.path.join(workdir, f"{prefix}_full.png")
+    img.save(png)
+    out = os.path.join(workdir, f"{prefix}_seg0.mp4")
+    frame_segment(png, audio, out)
+    return [out]
+
+
 def reveal_segments(workdir, prefix, audio, frames):
     """frames = [(img, weight), ...]. Scene ki audio ko weights ke anupaat me
     kaatkar har frame ka segment banao — kul samay audio ke barabar (±0.3s)."""
@@ -638,11 +650,11 @@ async def build(lesson, workdir):
     # intro (whiteboard — chapter title haath se likhte hue)
     a = os.path.join(workdir, "intro.mp3")
     await narrate(f"अपना बिहार समाचार लाइव में आपका स्वागत है। {lesson.get('class_label','').replace('•', ',')} — {lesson.get('chapter_no','').replace('•', ',')}, {lesson.get('chapter_title','')}। चलिए, पूरी तैयारी आसान भाषा में समझते हैं।", a)
-    segs += reveal_segments(workdir, "intro", a, intro_frames(lesson, hand))
+    segs += full_slide_segment(workdir, "intro", a, intro_frames(lesson, hand))
     for i, sc in enumerate(scenes, 1):
         a = os.path.join(workdir, f"s{i}.mp3")
         await narrate(sc["text"], a)
-        segs += reveal_segments(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total, hand))
+        segs += full_slide_segment(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total, hand))
         print(f"  scene {i}/{total} taiyaar")
     # revision — poora adhyay ek baar phir, tez jhalak me (whiteboard)
     a = os.path.join(workdir, "rev.mp3")
@@ -651,7 +663,7 @@ async def build(lesson, workdir):
         pt = sc.get("points", [""])[0]
         rev_parts.append(f"{sc['head']} — {pt}।")
     await narrate("आइए, पूरे पाठ को एक बार फिर से दोहरा लेते हैं, ताकि सब कुछ पक्का हो जाए। " + " ".join(rev_parts), a)
-    segs += reveal_segments(workdir, "rev", a, revision_frames(lesson, hand))
+    segs += full_slide_segment(workdir, "rev", a, revision_frames(lesson, hand))
     # outro (purana navy slide hi)
     p = os.path.join(workdir, "outro.png"); V.outro_slide().save(p)
     a = os.path.join(workdir, "outro.mp3")
