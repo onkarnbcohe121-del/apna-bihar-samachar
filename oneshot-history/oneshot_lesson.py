@@ -500,7 +500,7 @@ def frame_segment(png, mp3, out):
     dur = V.duration(mp3)
     run(["ffmpeg", "-y", "-loop", "1", "-framerate", "25", "-i", png, "-i", mp3,
          "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-crf", "30",
-         "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "64k", "-ar", "44100", "-ac", "1",
+         "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-ac", "1",
          "-t", f"{dur:.2f}", out], check=True)
 
 
@@ -589,8 +589,8 @@ async def build(lesson, workdir):
     mus = os.path.join(workdir, "music.wav"); make_music(mus, int(dur) + 2)
     final = os.path.join(workdir, "final.mp4")
     run(["ffmpeg", "-y", "-i", raw, "-stream_loop", "-1", "-i", mus,
-         "-filter_complex", "[1:a]volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:dropout_transition=2[a]",
-         "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k", final], check=True)
+         "-filter_complex", "[0:a]loudnorm=I=-14:TP=-1:LRA=11[n];[1:a]volume=0.045[m];[n][m]amix=inputs=2:duration=first:dropout_transition=2[a]",
+         "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", final], check=True)
     thumb = os.path.join(workdir, "thumb.jpg")
     photo = None
     _tf = lesson.get("thumb_file")
