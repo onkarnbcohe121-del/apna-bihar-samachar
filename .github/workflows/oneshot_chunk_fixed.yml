@@ -1,0 +1,77 @@
+name: One Shot Chunk Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      chunk:
+        description: "Chunk number (1-8)"
+        required: true
+        type: choice
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+          - "5"
+          - "6"
+          - "7"
+          - "8"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: oneshot-chunk
+  cancel-in-progress: false
+
+jobs:
+  make-chunk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Install step MAJBOOT (11 Nov raat ka fix): apt mirror hang/fail par
+      # timeout + retry loop; output chhupaya nahi jayega taaki wajah dikhe.
+      - name: Tools install karo
+        run: |
+          for i in 1 2 3 4; do
+            if sudo timeout 240 apt-get update -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25; then break; fi
+            echo "apt-get update try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          for i in 1 2 3; do
+            if sudo timeout 300 apt-get install -y ffmpeg fonts-noto-core fonts-noto-extra; then break; fi
+            echo "apt-get install try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          ffmpeg -version | head -1
+          pip install --quiet edge-tts pillow requests google-api-python-client google-auth
+
+      # Chunk build — koi YouTube upload NAHI, koi secret NAHI (Edge TTS public).
+      # Intro sirf chunk 1 me, outro sirf chunk 8 me (bash me hisaab — koi
+      # expression jugad nahi). SAVE_STATE=0: lesson state kabhi aage nahi badhega.
+      - name: Chunk video banao (One Shot engine)
+        env:
+          CHUNK: ${{ inputs.chunk }}
+          SAVE_STATE: "0"
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork oneshot_out
+          if [ "$CHUNK" = "1" ]; then export ONESHOT_FIRST=1; else export ONESHOT_FIRST=0; fi
+          if [ "$CHUNK" = "8" ]; then export ONESHOT_LAST=1; else export ONESHOT_LAST=0; fi
+          export LESSON_FILE="oneshot-history/chunks/chunk${CHUNK}.json"
+          export ONESHOT_OUT="${{ github.workspace }}/oneshot_out/chunk$CHUNK.mp4"
+          echo "Build: chunk $CHUNK | FIRST=$ONESHOT_FIRST LAST=$ONESHOT_LAST | $LESSON_FILE"
+          python oneshot-history/oneshot_lesson.py
+          ls -la oneshot_out/
+
+      - name: Chunk file artifact me bachao
+        uses: actions/upload-artifact@v4
+        with:
+          name: oneshot-chunk-${{ inputs.chunk }}
+          path: oneshot_out/chunk${{ inputs.chunk }}.mp4
+          retention-days: 7
+          if-no-files-found: error
