@@ -38,7 +38,7 @@ jobs:
       - name: DAV CBT video banao
         env:
           SCRIPT_FILE: ${{ inputs.script_file }}
-          SAVE_STATE: ${{ inputs.save_state }} || '1'
+          SAVE_STATE: ${{ inputs.save_state || '1' }}
           TMPDIR: ${{ github.workspace }}/tmpwork
         run: |
           mkdir -p tmpwork
@@ -62,7 +62,7 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-          YT_PRIVACY: ${{ inputs.yt_privacy }} || 'public'
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
           YT_PLAYLIST_ID: PLJhMgG0q334E
         run: |
           VIDEO_FILE=$(ls tmpwork/dav_*/final.mp4 | head -1)
