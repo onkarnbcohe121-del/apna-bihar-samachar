@@ -1,0 +1,84 @@
+name: Shorts Upload
+
+on:
+  workflow_dispatch:
+    inputs:
+      script_file:
+        description: "Short script JSON (repo root par padi file, jaise ignou_hallticket_short.json)"
+        required: true
+        type: string
+      privacy:
+        description: "Video privacy"
+        required: false
+        default: "public"
+        type: choice
+        options:
+          - public
+          - unlisted
+          - private
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shorts-upload
+  cancel-in-progress: false
+
+jobs:
+  upload-short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
+          pip install --quiet edge-tts pillow google-api-python-client google-auth
+      - name: Short banao (Swara, bina music)
+        run: |
+          python shorts_upload.py "${{ inputs.script_file }}" shorts_out
+          ls -la shorts_out/
+      - name: File artifact me bachao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-upload
+          path: shorts_out/short.mp4
+          retention-days: 3
+          if-no-files-found: warn
+      - name: Short YouTube par upload karo
+        id: upload
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_FILE: shorts_out/short.mp4
+          THUMB_FILE: shorts_out/thumb.png
+          YT_PRIVACY: ${{ inputs.privacy || 'public' }}
+        run: |
+          TITLE="$(cat shorts_out/title.txt)"
+          case "$TITLE" in *"#Shorts"*) ;; *) if [ ${#TITLE} -le 92 ]; then TITLE="$TITLE #Shorts"; fi;; esac
+          DESC="$(cat shorts_out/desc.txt)"
+          case "$DESC" in *"#Shorts"*) ;; *) DESC="$DESC"$'\n'"#Shorts";; esac
+          export YT_TITLE="$TITLE"
+          export YT_DESC="$DESC"
+          python youtube_upload.py | tee upload_log.txt
+          URL="$(grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload_log.txt | head -1)"
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
+      - name: Latest link state file me darj karo
+        if: steps.upload.outputs.url != ''
+        env:
+          SCRIPT_FILE: ${{ inputs.script_file }}
+          VIDEO_URL: ${{ steps.upload.outputs.url }}
+          VIDEO_TITLE: ${{ steps.upload.outputs.title }}
+        run: |
+          echo "$VIDEO_URL | $SCRIPT_FILE | $VIDEO_TITLE | $(date -u +%F)" >> shorts_latest.txt
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add shorts_latest.txt
+          git commit -m "Shorts latest: $SCRIPT_FILE"
+          git push || true
