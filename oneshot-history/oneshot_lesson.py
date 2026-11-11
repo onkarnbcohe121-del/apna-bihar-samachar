@@ -504,6 +504,19 @@ def frame_segment(png, mp3, out):
          "-t", f"{dur:.2f}", out], check=True)
 
 
+def full_slide_segment(workdir, prefix, audio, frames):
+    """⭐ FULL-SLIDE mode (user, 11 Nov 2026 — 'Typing wala mt use karo'):
+    reveal/typing ki jagah scene ki POORI slide (frames ki aakhiri = full hold
+    image) poori awaaz tak sthir dikhegi — DAV/Spoken English wali shaili.
+    Segment ki lambai = poori scene audio (frame_segment, apad ke bina)."""
+    img = frames[-1][0]
+    png = os.path.join(workdir, f"{prefix}_full.png")
+    img.save(png)
+    out = os.path.join(workdir, f"{prefix}_seg0.mp4")
+    frame_segment(png, audio, out)
+    return [out]
+
+
 def reveal_segments(workdir, prefix, audio, frames):
     """frames = [(img, weight), ...]. Scene ki audio ko weights ke anupaat me
     kaatkar har frame ka segment banao — kul samay audio ke barabar (±0.3s)."""
@@ -561,11 +574,11 @@ async def build(lesson, workdir):
     if os.environ.get("ONESHOT_FIRST", "0") == "1":
         a = os.path.join(workdir, "intro.mp3")
         await V.tts("अपना बिहार समाचार लाइव में आपका स्वागत है। BPSC TRE 4.0 के लिए One Shot History — NCERT Class 6 से 12 और बिहार विशेष, पूरा syllabus एक ही video में। चलिए शुरू करते हैं।", a)
-        segs += reveal_segments(workdir, "intro", a, intro_frames(lesson, hand))
+        segs += full_slide_segment(workdir, "intro", a, intro_frames(lesson, hand))
     for i, sc in enumerate(scenes, 1):
         a = os.path.join(workdir, f"s{i}.mp3")
         await V.tts(sc["text"], a)
-        segs += reveal_segments(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total, hand))
+        segs += full_slide_segment(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total, hand))
         print(f"  scene {i}/{total} taiyaar")
     # revision segment One Shot me BAND hai — bina revision ke hi video
     # ~10.5 ghante ka hai; revision jodne se YouTube ki 12-ghante seema
