@@ -5851,6 +5851,22 @@
   "Apna": "अपना",
   "Bihar": "बिहार",
   "Samachar": "समाचार",
-  "Live": "लाइव"
+  "Live": "लाइव",
+  "Sem-I": "First Semester",
+  "Sem-II": "Second Semester",
+  "Sem-III": "Third Semester",
+  "Sem-IV": "Fourth Semester",
+  "Sem I": "First Semester",
+  "Sem II": "Second Semester",
+  "Sem III": "Third Semester",
+  "Sem IV": "Fourth Semester",
+  "Semester I": "First Semester",
+  "Semester II": "Second Semester",
+  "Semester III": "Third Semester",
+  "Semester IV": "Fourth Semester",
+  "Semester 1": "First Semester",
+  "Semester 2": "Second Semester",
+  "Semester 3": "Third Semester",
+  "Semester 4": "Fourth Semester"
  }
 }
