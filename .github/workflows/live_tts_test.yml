@@ -29,13 +29,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           set +e
-          python live-tts-test/live_tts_test.py
-          echo "script exit: $?"
-          if [ -f live-tts-test/output/sulafat_live_test.wav ]; then
-            ffmpeg -y -i live-tts-test/output/sulafat_live_test.wav -codec:a libmp3lame -b:a 128k live-tts-test/output/sulafat_live_test.mp3
-            ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 live-tts-test/output/sulafat_live_test.mp3
-            ffmpeg -i live-tts-test/output/sulafat_live_test.mp3 -af volumedetect -f null /dev/null 2>&1 | grep -E "mean_volume|max_volume" || true
+          if [ -f live-tts-test/live_tts_test_multi.py ]; then
+            python live-tts-test/live_tts_test_multi.py
+          else
+            python live-tts-test/live_tts_test.py
           fi
+          echo "script exit: $?"
+          for w in live-tts-test/output/*_live_test.wav; do
+            [ -f "$w" ] || continue
+            ffmpeg -y -i "$w" -codec:a libmp3lame -b:a 128k "${w%.wav}.mp3"
+            ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 "${w%.wav}.mp3"
+          done
           ls -la live-tts-test/output/ || true
 
       - name: Result repo me commit karo
