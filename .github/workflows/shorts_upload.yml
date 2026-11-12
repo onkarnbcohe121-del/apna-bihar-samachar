@@ -36,8 +36,10 @@ jobs:
       - name: Tools install karo
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
-          pip install --quiet edge-tts pillow google-api-python-client google-auth
+          pip install --quiet edge-tts pillow google-api-python-client google-auth google-genai
       - name: Short banao (Swara, bina music)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python shorts_upload.py "${{ inputs.script_file }}" shorts_out
           ls -la shorts_out/
