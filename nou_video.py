@@ -14,10 +14,13 @@ desc.txt, playlist.txt
 Script JSON format: {"subject": "..", "paper": "MHIS-01", "chapter_no": 1,
   "chapter_title": "..", "yt_title": "..", "playlist_id": "..",
   "scenes": [{"head": "..", "points": ["..", ..], "text": ".."}]}
+Scene me optional "img_file" (exact Wikimedia Commons filename) pin ho to
+slide par dayein taraf usi ki photo lagti hai (lesson.py wala pakka
+pattern); download fail/invalid ho to slide photo ke bina banti hai.
 Sab kuchh script-driven hai — koi subject/paper/title hardcode nahi.
 NIYAM: video/thumbnail/title me DATE NAHI; green tick NAHI.
 """
-import asyncio, json, os, subprocess, tempfile, urllib.request
+import asyncio, hashlib, json, os, subprocess, tempfile, urllib.parse, urllib.request
 
 
 VOICE = "hi-IN-SwaraNeural"   # Hindi female, natural (Microsoft Edge TTS) — backup route
@@ -223,7 +226,7 @@ def make_desc(script):
     return desc
 
 # ---------------- Slides ----------------
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 INDIGO = (26, 35, 126)
 GOLD = (255, 170, 0)
@@ -303,7 +306,55 @@ def fit_lines(d, text, start, bold, maxw, max_lines, min_size=22):
         lines[-1] = lines[-1].rstrip("।, —-") + "…"
     return size, lines
 
-def scene_slide(scene, idx, total, script):
+# ---------------- Tasveerein (Commons) — lesson.py wala pakka pattern ----
+# Scene me "img_file" (exact Wikimedia Commons filename) pin ho to wahi photo
+# Special:FilePath se download hoti hai — search fallback bilkul NAHI (galat
+# photo se behtar hai photo na ho). Download fail / invalid image / img_file
+# na ho -> slide photo ke bina, bilkul pehle jaisi; photo kabhi build NAHI rokti.
+UA = {"User-Agent": "ApnaBiharSamachar-LessonBot/1.0 (educational)"}
+
+# Photo layout (photo ho tab): photo dayein taraf fixed box me — header band
+# (118+6) ke neeche, points ke top (186) se shuru, footer (H-44) ke upar khatm
+# (186+464 = 650 = H-70). Text column saki ho jati hai: point lines x=84 se
+# PHOTO_X-24 tak hi jati hain, isliye wrap-chaudi 746-84 = 662.
+PHOTO_X, PHOTO_Y, PHOTO_W, PHOTO_H = 770, 186, 470, 464
+PHOTO_WRAP_W = PHOTO_X - 24 - 84
+_img_cache = {}
+
+def fetch_scene_photo(scene, workdir):
+    """Scene ke img_file ki photo workdir me cache karke download karo aur
+    box-size (PHOTO_W x PHOTO_H) par center-fit karke PIL Image wapas karo.
+    Koi bhi galti (download fail, bahut chhoti file, invalid image) -> None,
+    taaki slide photo ke bina ban jaye — build kabhi fail nahi hota."""
+    fname = str(scene.get("img_file") or "").strip()
+    if not fname:
+        return None
+    if fname in _img_cache:
+        return _img_cache[fname]
+    photo = None
+    try:
+        dest = os.path.join(workdir, "img_" +
+                            hashlib.md5(fname.encode("utf-8")).hexdigest()[:12] + ".bin")
+        if not os.path.exists(dest):
+            url = ("https://commons.wikimedia.org/wiki/Special:FilePath/"
+                   + urllib.parse.quote(fname) + "?width=1200")
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=30) as r:
+                blob = r.read()
+            if len(blob) < 10000:
+                raise ValueError("photo bahut chhoti hai")
+            with open(dest, "wb") as f:
+                f.write(blob)
+            _chk = Image.open(dest); _chk.verify()
+        photo = ImageOps.fit(Image.open(dest).convert("RGB"), (PHOTO_W, PHOTO_H))
+        print(f"  pinned photo lagi: {fname}")
+    except Exception as e:
+        print(f"  pinned photo NAHI lagi ({fname}): {e} — slide photo ke bina banegi")
+        photo = None
+    _img_cache[fname] = photo
+    return photo
+
+def scene_slide(scene, idx, total, script, photo=None):
     """Whiteboard slide: safed background, indigo header band me scene ka
     head, neeche points. POORI slide ek saath banti hai — koi typing /
     reveal nahi; slide poori awaaz tak sthir rehti hai."""
@@ -331,11 +382,16 @@ def scene_slide(scene, idx, total, script):
     # frame ke andar (neeche ki seema H-70) na aa jayen
     points = [str(p) for p in scene.get("points", [])][:5]
     top, bottom_limit = 186, H - 70
+    # Photo ho to text column saki (PHOTO_WRAP_W) aur font 18px tak ghata
+    # sakte hain; photo na ho to purani poori chaudi (W-128) aur purani hi
+    # size-range — photo-less layout bilkul pehle jaisa (bit-identical).
+    wrap_w = PHOTO_WRAP_W if photo is not None else W - 128
+    size_range = range(34, 16, -2) if photo is not None else range(34, 20, -2)
     chosen = None
-    for size in range(34, 20, -2):
+    for size in size_range:
         step = int(size * 1.36)
         gap = 16 if size >= 28 else 12
-        wrapped = [wrap_mixed(d, p, size, False, W - 128) for p in points]
+        wrapped = [wrap_mixed(d, p, size, False, wrap_w) for p in points]
         total_h = sum(len(wl) * step for wl in wrapped) + gap * max(0, len(wrapped) - 1)
         chosen = (size, step, gap, wrapped)
         if top + total_h <= bottom_limit:
@@ -348,6 +404,15 @@ def scene_slide(scene, idx, total, script):
             draw_mixed(d, 84, y, ln, size, False, DARK)
             y += step
         y += gap
+
+    # Photo (pin ki hui, download safal) — dayein taraf fixed box me, patli
+    # kinari ke saath (lesson.py ki tarz). Text column pehle hi saki hai,
+    # isliye photo se koi takraav nahi; footer bhi box ke neeche surakshit.
+    if photo is not None:
+        img.paste(photo, (PHOTO_X, PHOTO_Y))
+        d.rectangle([PHOTO_X - 2, PHOTO_Y - 2,
+                     PHOTO_X + PHOTO_W + 2, PHOTO_Y + PHOTO_H + 2],
+                    outline=(90, 95, 110), width=2)
 
     # Footer
     draw_mixed(d, 40, H - 44, CHANNEL_NAME, 22, True, GRAY)
@@ -390,7 +455,8 @@ async def build(script, workdir):
     segs = []
     for i, scene in enumerate(scenes, 1):
         p = os.path.join(workdir, f"s{i:03d}.png")
-        scene_slide(scene, i, total, script).save(p)
+        photo = fetch_scene_photo(scene, workdir)
+        scene_slide(scene, i, total, script, photo=photo).save(p)
         a = os.path.join(workdir, f"s{i:03d}.mp3")
         await tts(scene["text"], a)
         s = os.path.join(workdir, f"seg_{i:03d}.mp4")
