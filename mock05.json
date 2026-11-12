@@ -1,0 +1,556 @@
+{
+  "mock_no": 5,
+  "questions": [
+    {
+      "answer": "B",
+      "explanation": "इफ्ला का मुख्यालय नीदरलैंड के द हेग नगर में राष्ट्रीय पुस्तकालय परिसर में स्थित है। यह विश्व के पुस्तकालय संघों का सबसे बड़ा अंतरराष्ट्रीय संगठन है।",
+      "options": {
+        "A": "पेरिस, फ्रांस / Paris, France",
+        "B": "द हेग, नीदरलैंड / The Hague, Netherlands",
+        "C": "लंदन, ब्रिटेन / London, UK",
+        "D": "न्यूयॉर्क, अमेरिका / New York, USA"
+      },
+      "q": "इफ्ला (IFLA) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of IFLA located?"
+    },
+    {
+      "answer": "A",
+      "explanation": "एस्लिब की स्थापना 1924 में ब्रिटेन में विशेष पुस्तकालयों तथा सूचना ब्यूरो के संघ के रूप में हुई थी। बाद में इसका नाम सूचना प्रबंधन संघ हो गया।",
+      "options": {
+        "A": "1924 / 1924",
+        "B": "1933 / 1933",
+        "C": "1909 / 1909",
+        "D": "1947 / 1947"
+      },
+      "q": "एस्लिब (ASLIB) की स्थापना किस वर्ष हुई थी? / In which year was ASLIB founded?"
+    },
+    {
+      "answer": "C",
+      "explanation": "भारत का कॉपीराइट अधिनियम 1957 में पारित हुआ और 21 जनवरी 1958 से लागू हुआ। यह लेखकों तथा रचनाकारों के अधिकारों की रक्षा करता है।",
+      "options": {
+        "A": "1914 / 1914",
+        "B": "1947 / 1947",
+        "C": "1957 / 1957",
+        "D": "1972 / 1972"
+      },
+      "q": "भारत का कॉपीराइट अधिनियम किस वर्ष पारित हुआ था? / In which year was the Indian Copyright Act passed?"
+    },
+    {
+      "answer": "D",
+      "explanation": "पॉल ऑटलेट तथा हेनरी ला फॉन्टेन ने 1895 में ब्रसेल्स में अंतरराष्ट्रीय ग्रंथसूची संस्थान की स्थापना की थी। यही संस्था आगे चलकर अंतरराष्ट्रीय प्रलेखन संघ कहलाई।",
+      "options": {
+        "A": "1876 / 1876",
+        "B": "1905 / 1905",
+        "C": "1927 / 1927",
+        "D": "1895 / 1895"
+      },
+      "q": "अंतरराष्ट्रीय प्रलेखन संघ (FID) की मूल संस्था, अंतरराष्ट्रीय ग्रंथसूची संस्थान, की स्थापना किस वर्ष हुई थी? / In which year was the International Institute of Bibliography, the original body of FID, founded?"
+    },
+    {
+      "answer": "A",
+      "explanation": "1957 में विश्वविद्यालय अनुदान आयोग ने डॉ. एस. आर. रंगनाथन की अध्यक्षता में पुस्तकालय समिति गठित की थी। इस समिति ने विश्वविद्यालय पुस्तकालयों के विकास हेतु महत्वपूर्ण सिफारिशें दीं।",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "बी. एस. केशवन / B. S. Kesavan",
+        "C": "एस. बशीरुद्दीन / S. Bashiruddin",
+        "D": "के. पी. सिन्हा / K. P. Sinha"
+      },
+      "q": "विश्वविद्यालय अनुदान आयोग द्वारा 1957 में गठित पुस्तकालय समिति के अध्यक्ष कौन थे? / Who was the chairman of the Library Committee appointed by UGC in 1957?"
+    },
+    {
+      "answer": "B",
+      "explanation": "केरल सार्वजनिक पुस्तकालय अधिनियम 1989 में पारित हुआ। इसके अंतर्गत राज्य पुस्तकालय परिषद का गठन किया गया तथा ग्रंथशाला आंदोलन को कानूनी रूप मिला।",
+      "options": {
+        "A": "1979 / 1979",
+        "B": "1989 / 1989",
+        "C": "1965 / 1965",
+        "D": "1993 / 1993"
+      },
+      "q": "केरल सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ? / In which year was the Kerala Public Libraries Act passed?"
+    },
+    {
+      "answer": "D",
+      "explanation": "यूनेस्को की स्थापना 16 नवंबर 1945 को लंदन में हुई थी। यह शिक्षा, विज्ञान तथा संस्कृति के क्षेत्र में अंतरराष्ट्रीय सहयोग बढ़ाने वाला संगठन है।",
+      "options": {
+        "A": "1919 / 1919",
+        "B": "1927 / 1927",
+        "C": "1952 / 1952",
+        "D": "1945 / 1945"
+      },
+      "q": "यूनेस्को (UNESCO) की स्थापना किस वर्ष हुई थी? / In which year was UNESCO founded?"
+    },
+    {
+      "answer": "C",
+      "explanation": "आंध्र देश पुस्तकालय संघ की स्थापना 1914 में हुई थी और यह भारत का प्रथम पुस्तकालय संघ माना जाता है। इसने आंध्र क्षेत्र में पुस्तकालय आंदोलन को गति दी।",
+      "options": {
+        "A": "1933 / 1933",
+        "B": "1925 / 1925",
+        "C": "1914 / 1914",
+        "D": "1928 / 1928"
+      },
+      "q": "भारत का प्रथम पुस्तकालय संघ, आंध्र देश पुस्तकालय संघ, किस वर्ष स्थापित हुआ था? / In which year was India's first library association, the Andhra Desa Library Association, founded?"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारत में प्रतिवर्ष 14 से 20 नवंबर तक राष्ट्रीय पुस्तकालय सप्ताह मनाया जाता है। इस दौरान पुस्तकालयों में पठन-संस्कृति बढ़ाने के कार्यक्रम आयोजित होते हैं।",
+      "options": {
+        "A": "14 से 20 नवंबर / 14 to 20 November",
+        "B": "12 से 18 अगस्त / 12 to 18 August",
+        "C": "1 से 7 सितंबर / 1 to 7 September",
+        "D": "23 से 29 अप्रैल / 23 to 29 April"
+      },
+      "q": "भारत में राष्ट्रीय पुस्तकालय सप्ताह प्रतिवर्ष कब मनाया जाता है? / When is National Library Week celebrated in India every year?"
+    },
+    {
+      "answer": "B",
+      "explanation": "लॉर्ड कर्ज़न ने 30 जनवरी 1903 को इंपीरियल पुस्तकालय को जनता के लिए खोला था। स्वतंत्रता के बाद 1953 में इसी का नाम राष्ट्रीय पुस्तकालय कर दिया गया।",
+      "options": {
+        "A": "1836 / 1836",
+        "B": "1903 / 1903",
+        "C": "1948 / 1948",
+        "D": "1953 / 1953"
+      },
+      "q": "कोलकाता के इंपीरियल पुस्तकालय को जनता के लिए किस वर्ष खोला गया था? / In which year was the Imperial Library, Kolkata opened to the public?"
+    },
+    {
+      "answer": "C",
+      "explanation": "डेवी दशमलव वर्गीकरण में 300 सामाजिक विज्ञान का वर्ग है। इसके अंतर्गत समाजशास्त्र, अर्थशास्त्र, राजनीति विज्ञान, शिक्षा तथा विधि जैसे विषय आते हैं।",
+      "options": {
+        "A": "दर्शन / Philosophy",
+        "B": "धर्म / Religion",
+        "C": "सामाजिक विज्ञान / Social Sciences",
+        "D": "भाषा / Language"
+      },
+      "q": "DDC में मुख्य वर्ग 300 किस विषय को दर्शाता है? / In DDC, Main Class 300 represents which subject?"
+    },
+    {
+      "answer": "D",
+      "explanation": "डेवी दशमलव वर्गीकरण में 600 प्रौद्योगिकी अर्थात व्यावहारिक विज्ञान का वर्ग है। इसमें इंजीनियरिंग, चिकित्सा, कृषि तथा प्रबंधन जैसे उपयोगी विषय सम्मिलित हैं।",
+      "options": {
+        "A": "कला / Arts",
+        "B": "विज्ञान / Science",
+        "C": "साहित्य / Literature",
+        "D": "प्रौद्योगिकी (व्यावहारिक विज्ञान) / Technology (Applied Sciences)"
+      },
+      "q": "DDC में मुख्य वर्ग 600 किस विषय को दर्शाता है? / In DDC, Main Class 600 represents which subject?"
+    },
+    {
+      "answer": "A",
+      "explanation": "डेवी दशमलव वर्गीकरण की तालिका 5 में जातीय तथा राष्ट्रीय समूहों की संख्याएँ दी गई हैं। इनका प्रयोग भाषा तथा साहित्य आदि के साथ आवश्यकता अनुसार होता है।",
+      "options": {
+        "A": "जातीय तथा राष्ट्रीय समूह / Ethnic and National Groups",
+        "B": "मानक उपविभाजन / Standard Subdivisions",
+        "C": "भौगोलिक क्षेत्र / Geographic Areas",
+        "D": "साहित्य के रूप / Literary Forms"
+      },
+      "q": "DDC की तालिका 5 (Table 5) किससे संबंधित है? / DDC Table 5 is related to:"
+    },
+    {
+      "answer": "B",
+      "explanation": "द्विबिंदु वर्गीकरण में मुख्य वर्ग एल चिकित्सा को दर्शाता है। इसी प्रकार मुख्य वर्ग के रसायन विज्ञान तथा मुख्य वर्ग एक्स अर्थशास्त्र के लिए है।",
+      "options": {
+        "A": "विधि / Law",
+        "B": "चिकित्सा / Medicine",
+        "C": "साहित्य / Literature",
+        "D": "भाषा विज्ञान / Linguistics"
+      },
+      "q": "द्विबिंदु वर्गीकरण (Colon Classification) में मुख्य वर्ग 'L' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'L' represents which subject?"
+    },
+    {
+      "answer": "C",
+      "explanation": "द्विबिंदु वर्गीकरण में स्थान पक्ष को बिंदु चिह्न से जोड़ा जाता है। उदाहरण के लिए भारत के लिए स्थान अंक इसी चिह्न के बाद लिखा जाता है।",
+      "options": {
+        "A": "कोलन (:) / Colon (:)",
+        "B": "अर्धविराम (;) / Semicolon (;)",
+        "C": "बिंदु (.) / Dot (.)",
+        "D": "अल्पविराम (,) / Comma (,)"
+      },
+      "q": "द्विबिंदु वर्गीकरण में Space (स्थान) पक्ष का योजक चिह्न कौन-सा है? / In Colon Classification, the connecting symbol for the Space facet is:"
+    },
+    {
+      "answer": "D",
+      "explanation": "द्विबिंदु वर्गीकरण में समय पक्ष का योजक चिह्न एकल उल्टा अल्पविराम है। पाँच मूलभूत श्रेणियों में समय सबसे अंत में आने वाला पक्ष है।",
+      "options": {
+        "A": "बिंदु (.) / Dot (.)",
+        "B": "कोलन (:) / Colon (:)",
+        "C": "अल्पविराम (,) / Comma (,)",
+        "D": "एकल उल्टा अल्पविराम (') / Single Inverted Comma (')"
+      },
+      "q": "द्विबिंदु वर्गीकरण में Time (समय) पक्ष का योजक चिह्न कौन-सा है? / In Colon Classification, the connecting symbol for the Time facet is:"
+    },
+    {
+      "answer": "A",
+      "explanation": "सार्वभौमिक दशमलव वर्गीकरण का प्रथम संस्करण 1905 में फ्रेंच भाषा में प्रकाशित हुआ था। यह डेवी दशमलव वर्गीकरण के पाँचवें संस्करण पर आधारित था।",
+      "options": {
+        "A": "1905 / 1905",
+        "B": "1876 / 1876",
+        "C": "1933 / 1933",
+        "D": "1895 / 1895"
+      },
+      "q": "सार्वभौमिक दशमलव वर्गीकरण (UDC) का प्रथम संस्करण किस वर्ष प्रकाशित हुआ था? / In which year was the first edition of UDC published?"
+    },
+    {
+      "answer": "B",
+      "explanation": "कांग्रेस पुस्तकालय वर्गीकरण में वर्ग ज़ेड ग्रंथसूची, पुस्तकालय विज्ञान तथा सूचना संसाधनों के लिए निर्धारित है। यह योजना मुख्य रूप से बड़े शोध पुस्तकालयों में प्रयुक्त होती है।",
+      "options": {
+        "A": "सैन्य विज्ञान / Military Science",
+        "B": "ग्रंथसूची तथा पुस्तकालय विज्ञान / Bibliography and Library Science",
+        "C": "चिकित्सा / Medicine",
+        "D": "कृषि / Agriculture"
+      },
+      "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) में वर्ग 'Z' किस विषय के लिए है? / In Library of Congress Classification (LCC), Class 'Z' is for which subject?"
+    },
+    {
+      "answer": "C",
+      "explanation": "द्विबिंदु वर्गीकरण का छठा संस्करण 1960 में प्रकाशित हुआ था। इसमें कई नए मुख्य वर्गों तथा पक्षों का समावेश किया गया था।",
+      "options": {
+        "A": "1952 / 1952",
+        "B": "1939 / 1939",
+        "C": "1960 / 1960",
+        "D": "1987 / 1987"
+      },
+      "q": "द्विबिंदु वर्गीकरण (Colon Classification) का छठा संस्करण किस वर्ष प्रकाशित हुआ था? / In which year was the 6th edition of Colon Classification published?"
+    },
+    {
+      "answer": "D",
+      "explanation": "रंगनाथन की ग्रंथ संख्या पद्धति में पुस्तक के प्रकाशन वर्ष को कालक्रमिक युक्ति से अंकित किया जाता है। इससे एक ही वर्ग की पुस्तकें कालक्रम से व्यवस्थित हो जाती हैं।",
+      "options": {
+        "A": "पुस्तक की कीमत पर / Price of the book",
+        "B": "पुस्तक के आकार पर / Size of the book",
+        "C": "प्रकाशक के नाम पर / Name of the publisher",
+        "D": "प्रकाशन वर्ष पर (कालक्रमिक युक्ति) / Year of publication (chronological device)"
+      },
+      "q": "द्विबिंदु वर्गीकरण में ग्रंथ संख्या (Book Number) मुख्यतः किस आधार पर बनाई जाती है? / In Colon Classification, the Book Number is mainly based on:"
+    },
+    {
+      "answer": "A",
+      "explanation": "आंग्ल-अमेरिकी सूचीकरण नियमों का प्रथम संस्करण 1967 में प्रकाशित हुआ था। इसके उत्तरी अमेरिकी तथा ब्रिटिश — दो पाठ संस्करण निकले थे।",
+      "options": {
+        "A": "1967 / 1967",
+        "B": "1949 / 1949",
+        "C": "1978 / 1978",
+        "D": "1908 / 1908"
+      },
+      "q": "AACR का प्रथम संस्करण (AACR-1) किस वर्ष प्रकाशित हुआ था? / In which year was the first edition of AACR (AACR-1) published?"
+    },
+    {
+      "answer": "B",
+      "explanation": "रंगनाथन की वर्गीकृत सूची संहिता का प्रथम संस्करण 1934 में प्रकाशित हुआ था। इसका पाँचवाँ तथा अंतिम संस्करण 1964 में आया।",
+      "options": {
+        "A": "1931 / 1931",
+        "B": "1934 / 1934",
+        "C": "1945 / 1945",
+        "D": "1964 / 1964"
+      },
+      "q": "वर्गीकृत सूची संहिता (CCC) का प्रथम संस्करण किस वर्ष प्रकाशित हुआ था? / In which year was the first edition of the Classified Catalogue Code (CCC) published?"
+    },
+    {
+      "answer": "C",
+      "explanation": "दूसरे संस्करण के नियमों में विवरण आठ क्षेत्रों में बँटा है — शीर्षक, संस्करण, प्रकाशन, भौतिक विवरण, शृंखला, टिप्पणी तथा मानक संख्या आदि। पहला क्षेत्र शीर्षक तथा उत्तरदायित्व कथन का है।",
+      "options": {
+        "A": "छह / Six",
+        "B": "सात / Seven",
+        "C": "आठ / Eight",
+        "D": "दस / Ten"
+      },
+      "q": "AACR-2 में ग्रंथात्मक विवरण कुल कितने क्षेत्रों (Areas) में विभाजित है? / Into how many areas is the bibliographic description divided in AACR-2?"
+    },
+    {
+      "answer": "D",
+      "explanation": "जी.एम.डी. का पूर्ण रूप जनरल मटेरियल डेज़िग्नेशन है। यह शीर्षक के बाद वर्ग कोष्ठक में लिखा जाता है और सामग्री के सामान्य वर्ग, जैसे ध्वनि अभिलेख या चित्र, को दर्शाता है।",
+      "options": {
+        "A": "General Metadata Description / General Metadata Description",
+        "B": "Grouped Material Data / Grouped Material Data",
+        "C": "General Media Designation / General Media Designation",
+        "D": "General Material Designation / General Material Designation"
+      },
+      "q": "सूचीकरण में GMD का पूर्ण रूप क्या है? / What is the full form of GMD in cataloguing?"
+    },
+    {
+      "answer": "A",
+      "explanation": "मशीन पठनीय सूचीकरण की प्रायोगिक परियोजना 1966 में लाइब्रेरी ऑफ कांग्रेस में शुरू हुई थी। इसके सफल परीक्षण के बाद विकसित रूप को द्वितीय चरण के रूप में अपनाया गया।",
+      "options": {
+        "A": "1966 / 1966",
+        "B": "1978 / 1978",
+        "C": "1985 / 1985",
+        "D": "1960 / 1960"
+      },
+      "q": "लाइब्रेरी ऑफ कांग्रेस में MARC की प्रायोगिक (पायलट) परियोजना किस वर्ष शुरू हुई थी? / In which year was the MARC pilot project launched at the Library of Congress?"
+    },
+    {
+      "answer": "B",
+      "explanation": "यूनिमार्क का प्रथम प्रकाशन 1977 में इफ्ला द्वारा हुआ था। यह विभिन्न राष्ट्रीय मार्क प्रारूपों के बीच ग्रंथात्मक अभिलेखों के आदान-प्रदान हेतु बनाया गया था।",
+      "options": {
+        "A": "1967 / 1967",
+        "B": "1977 / 1977",
+        "C": "1987 / 1987",
+        "D": "1997 / 1997"
+      },
+      "q": "UNIMARC का प्रथम प्रकाशन किस वर्ष हुआ था? / In which year was UNIMARC first published?"
+    },
+    {
+      "answer": "C",
+      "explanation": "ग्रंथात्मक अभिलेखों की कार्यात्मक आवश्यकताओं पर इफ्ला अध्ययन समूह की अंतिम रिपोर्ट 1998 में प्रकाशित हुई। इसी रिपोर्ट में कार्य, अभिव्यक्ति, अभिव्यंजन तथा इकाई की अवधारणाएँ दी गईं।",
+      "options": {
+        "A": "1978 / 1978",
+        "B": "2010 / 2010",
+        "C": "1998 / 1998",
+        "D": "2004 / 2004"
+      },
+      "q": "FRBR मॉडल की अंतिम रिपोर्ट (Final Report) किस वर्ष प्रकाशित हुई थी? / In which year was the final report of the FRBR model published?"
+    },
+    {
+      "answer": "D",
+      "explanation": "तीन के नियम के अनुसार तीन से अधिक समान उत्तरदायी व्यक्तियों वाली कृति की मुख्य प्रविष्टि शीर्षक के अंतर्गत बनती है। शेष व्यक्तियों में से केवल पहले का नाम विवरण में लिखा जाता है।",
+      "options": {
+        "A": "प्रथम लेखक के / The first author",
+        "B": "प्रकाशक के / The publisher",
+        "C": "संपादक के / The editor",
+        "D": "शीर्षक के / The title"
+      },
+      "q": "AACR-2 के 'तीन का नियम' (Rule of Three) के अनुसार, यदि किसी कृति का उत्तरदायित्व तीन से अधिक व्यक्तियों में समान रूप से बँटा हो और कोई प्रमुख न हो, तो मुख्य प्रविष्टि किसके अंतर्गत बनेगी? / According to AACR-2's 'Rule of Three', if responsibility for a work is shared by more than three persons with no one principal, the main entry is made under:"
+    },
+    {
+      "answer": "A",
+      "explanation": "देखिए निर्देश पाठक को उस नाम या विषय के अप्रयुक्त रूप से उस रूप की ओर भेजता है जो सूची में वास्तव में प्रयुक्त हुआ है। इससे पाठक भ्रमित हुए बिना सही प्रविष्टि तक पहुँचता है।",
+      "options": {
+        "A": "पाठक को अप्रयुक्त रूप से प्रयुक्त शीर्षक की ओर निर्देशित करना / To direct the user from an unused form to the used heading",
+        "B": "पुस्तक की कीमत बताना / To show the price of the book",
+        "C": "संबंधित विषयों को जोड़ना / To link related subjects",
+        "D": "खोई पुस्तक दर्शाना / To indicate a lost book"
+      },
+      "q": "सूची में 'देखिए' निर्देश (See Reference) का कार्य क्या है? / What is the function of a 'See' reference in a catalogue?"
+    },
+    {
+      "answer": "B",
+      "explanation": "सामान्य संचार प्रारूप का प्रथम संस्करण 1984 में यूनेस्को द्वारा प्रकाशित हुआ था। इसका दूसरा संस्करण 1988 में आया।",
+      "options": {
+        "A": "1977 / 1977",
+        "B": "1984 / 1984",
+        "C": "1992 / 1992",
+        "D": "1971 / 1971"
+      },
+      "q": "CCF (सामान्य संचार प्रारूप) का प्रथम संस्करण किस वर्ष प्रकाशित हुआ था? / In which year was the first edition of CCF published?"
+    },
+    {
+      "answer": "C",
+      "explanation": "दीर्घकालीन संदर्भ सेवा में जटिल प्रश्नों पर विस्तृत खोज की जाती है, जिसमें कई घंटे या दिन भी लग सकते हैं। इसमें पुस्तकालय के भीतर तथा बाहर के अनेक स्रोतों से सूचना एकत्र की जाती है।",
+      "options": {
+        "A": "उत्तर कुछ ही मिनटों में दिया जाता है / The answer is given within a few minutes",
+        "B": "केवल शब्दकोश का प्रयोग होता है / Only a dictionary is used",
+        "C": "खोज में अधिक समय लगता है तथा अनेक स्रोतों का प्रयोग होता है / The search takes longer and many sources are consulted",
+        "D": "केवल एक ही स्रोत देखा जाता है / Only one source is consulted"
+      },
+      "q": "दीर्घकालीन संदर्भ सेवा (Long Range Reference Service) की विशेषता क्या है? / What is the characteristic of Long Range Reference Service?"
+    },
+    {
+      "answer": "D",
+      "explanation": "विश्वकोश, शब्दकोश, निर्देशिका तथा ग्रंथसूचियों की ग्रंथसूची को तृतीयक स्रोत माना जाता है। ये प्राथमिक तथा द्वितीयक स्रोतों तक पहुँचने में मार्गदर्शन करते हैं।",
+      "options": {
+        "A": "प्राथमिक स्रोत / Primary Source",
+        "B": "द्वितीयक स्रोत / Secondary Source",
+        "C": "पत्रिका / Periodical",
+        "D": "तृतीयक स्रोत / Tertiary Source"
+      },
+      "q": "विश्वकोश (Encyclopaedia) को सूचना स्रोतों के वर्गीकरण में किस श्रेणी में रखा जाता है? / In the classification of information sources, an Encyclopaedia is placed in which category?"
+    },
+    {
+      "answer": "A",
+      "explanation": "ऑक्सफोर्ड इंग्लिश डिक्शनरी का प्रथम पूर्ण संस्करण 1928 में दस खंडों में पूर्ण हुआ था। इसका कार्य 1884 में प्रथम खंड से प्रारंभ हुआ था।",
+      "options": {
+        "A": "1928 / 1928",
+        "B": "1884 / 1884",
+        "C": "1933 / 1933",
+        "D": "1989 / 1989"
+      },
+      "q": "ऑक्सफोर्ड इंग्लिश डिक्शनरी (OED) का प्रथम पूर्ण संस्करण किस वर्ष पूर्ण हुआ था? / In which year was the first complete edition of the Oxford English Dictionary (OED) completed?"
+    },
+    {
+      "answer": "B",
+      "explanation": "हस्तपुस्तिका किसी विषय या व्यवसाय की आवश्यक जानकारी, तथ्य, सूत्र तथा निर्देश संक्षेप में एक ही स्थान पर देती है। यह त्वरित संदर्भ हेतु बनाई जाती है।",
+      "options": {
+        "A": "केवल कविताओं का संग्रह / A collection of poems only",
+        "B": "किसी विषय की संक्षिप्त तथ्यात्मक जानकारी तथा निर्देश देने वाली संदर्भ पुस्तक / A reference book giving concise factual information and instructions on a subject",
+        "C": "मानचित्रों का संग्रह / A collection of maps",
+        "D": "जीवनियों का कोश / A dictionary of biographies"
+      },
+      "q": "हस्तपुस्तिका (Handbook) से क्या अभिप्राय है? / What is a Handbook?"
+    },
+    {
+      "answer": "C",
+      "explanation": "मेडलाइन डेटाबेस अमेरिका के राष्ट्रीय चिकित्सा पुस्तकालय द्वारा तैयार किया जाता है। इसमें विश्व की चिकित्सा पत्रिकाओं के लेखों का ग्रंथात्मक विवरण तथा सार मिलता है।",
+      "options": {
+        "A": "ब्रिटिश लाइब्रेरी / British Library",
+        "B": "विश्व स्वास्थ्य संगठन / World Health Organization",
+        "C": "अमेरिका का राष्ट्रीय चिकित्सा पुस्तकालय / US National Library of Medicine",
+        "D": "इफ्ला / IFLA"
+      },
+      "q": "MEDLINE डेटाबेस किस संस्था द्वारा तैयार किया जाता है? / The MEDLINE database is produced by which institution?"
+    },
+    {
+      "answer": "D",
+      "explanation": "अलरिच पत्रिका निर्देशिका का प्रकाशन मूलतः आर. आर. बॉकर कंपनी ने प्रारंभ किया था। यह विश्व की पत्रिकाओं तथा धारावाहिक प्रकाशनों की सबसे बड़ी निर्देशिका है।",
+      "options": {
+        "A": "एच. डब्ल्यू. विल्सन / H. W. Wilson",
+        "B": "ऑक्सफोर्ड विश्वविद्यालय प्रेस / Oxford University Press",
+        "C": "इफ्ला / IFLA",
+        "D": "आर. आर. बॉकर / R. R. Bowker"
+      },
+      "q": "Ulrich's Periodicals Directory का मूल प्रकाशक कौन था? / Who was the original publisher of Ulrich's Periodicals Directory?"
+    },
+    {
+      "answer": "A",
+      "explanation": "बुक्स इन प्रिंट एक व्यापारिक ग्रंथसूची है, जिसमें बिक्री हेतु उपलब्ध पुस्तकों का विवरण मिलता है। ऐसी ग्रंथसूचियाँ पुस्तक चयन तथा क्रय में सहायक होती हैं।",
+      "options": {
+        "A": "व्यापारिक ग्रंथसूची / Trade Bibliography",
+        "B": "राष्ट्रीय ग्रंथसूची / National Bibliography",
+        "C": "विषय ग्रंथसूची / Subject Bibliography",
+        "D": "विश्लेषणात्मक ग्रंथसूची / Analytical Bibliography"
+      },
+      "q": "'Books in Print' किस प्रकार की ग्रंथसूची है? / 'Books in Print' is which type of bibliography?"
+    },
+    {
+      "q": "ग्रंथात्मक युग्मन (Bibliographic Coupling) की अवधारणा किसने दी थी? / Who introduced the concept of Bibliographic Coupling?",
+      "options": {
+        "A": "यूजीन गारफील्ड / Eugene Garfield",
+        "B": "एम. एम. केस्लर / M. M. Kessler",
+        "C": "एलन प्रिचर्ड / Alan Pritchard",
+        "D": "हेनरी स्मॉल / Henry Small"
+      },
+      "answer": "B",
+      "explanation": "ग्रंथात्मक युग्मन की अवधारणा एम. एम. केस्लर ने 1963 में दी थी। जब दो दस्तावेज़ किसी एक ही दस्तावेज़ को उद्धृत करते हैं तो वे आपस में ग्रंथात्मक रूप से युग्मित कहलाते हैं।"
+    },
+    {
+      "answer": "C",
+      "explanation": "वेबोमेट्रिक्स शब्द 1997 में टॉमस अल्माइंड तथा पीटर इंगवर्सन ने दिया था। इसके अंतर्गत जाल-आधारित सूचना तथा वेबसाइटों का मात्रात्मक अध्ययन किया जाता है।",
+      "options": {
+        "A": "यूजीन गारफील्ड / Eugene Garfield",
+        "B": "एलन प्रिचर्ड / Alan Pritchard",
+        "C": "टॉमस अल्माइंड तथा पीटर इंगवर्सन / Tomas Almind and Peter Ingwersen",
+        "D": "एस. सी. ब्रैडफोर्ड / S. C. Bradford"
+      },
+      "q": "'Webometrics' (वेबोमेट्रिक्स) शब्द किसने दिया था? / Who coined the term 'Webometrics'?"
+    },
+    {
+      "answer": "D",
+      "explanation": "प्रभाव गुणांक की अवधारणा यूजीन गारफील्ड ने दी थी। यह किसी पत्रिका के लेखों को मिलने वाले औसत उद्धरणों के आधार पर उसकी महत्ता मापता है।",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "जॉर्ज हिर्श / Jorge Hirsch",
+        "C": "अल्फ्रेड लोटका / Alfred Lotka",
+        "D": "यूजीन गारफील्ड / Eugene Garfield"
+      },
+      "q": "पत्रिकाओं के 'Impact Factor' (प्रभाव गुणांक) की अवधारणा किससे जुड़ी है? / The concept of journal 'Impact Factor' is associated with:"
+    },
+    {
+      "answer": "A",
+      "explanation": "कार्डेक्स प्रणाली रेमिंग्टन रैंड कंपनी ने बनाई थी और इसका प्रयोग पत्रिकाओं के आगमन का दृश्य अभिलेख रखने में होता है। इसमें प्रत्येक पत्रिका का पत्रक अलग दिखाई देता है, जिससे लापता अंक तुरंत पता चलता है।",
+      "options": {
+        "A": "पत्रिकाओं/धारावाहिकों के / Periodicals/Serials",
+        "B": "पाठकों के / Readers",
+        "C": "कर्मचारियों के / Staff",
+        "D": "दुर्लभ पुस्तकों के / Rare books"
+      },
+      "q": "कार्डेक्स (Kardex) प्रणाली का प्रयोग पुस्तकालय में मुख्यतः किसके अभिलेख हेतु होता है? / The Kardex system is mainly used in a library for maintaining records of:"
+    },
+    {
+      "answer": "B",
+      "explanation": "फ्रेडरिक हर्ज़बर्ग के अनुसार कार्य-संतुष्टि दो कारकों से प्रभावित होती है — वेतन व कार्य-दशा जैसे स्वास्थ्य कारक तथा उपलब्धि व मान्यता जैसे अभिप्रेरक कारक। स्वास्थ्य कारक असंतोष रोकते हैं, जबकि अभिप्रेरक संतुष्टि बढ़ाते हैं।",
+      "options": {
+        "A": "थ्योरी एक्स तथा थ्योरी वाई / Theory X and Theory Y",
+        "B": "स्वास्थ्य (हाइजीन) कारक तथा अभिप्रेरक कारक / Hygiene factors and Motivator factors",
+        "C": "नियोजन तथा नियंत्रण / Planning and Controlling",
+        "D": "माँग तथा आपूर्ति / Demand and Supply"
+      },
+      "q": "हर्ज़बर्ग के द्वि-कारक सिद्धांत (Two-Factor Theory) के दो कारक कौन-से हैं? / What are the two factors in Herzberg's Two-Factor Theory?"
+    },
+    {
+      "answer": "C",
+      "explanation": "गुड ऑफिसेज़ कमेटी पुस्तक व्यापार तथा पुस्तकालय संघों के बीच का समझौता मंच है। यह विदेशी मुद्राओं में मूल्य वाली पुस्तकों के भारतीय मूल्य हेतु रूपांतरण दर तय करती है।",
+      "options": {
+        "A": "पुस्तकालय भवन निर्माण से / Library building construction",
+        "B": "कर्मचारी भर्ती से / Staff recruitment",
+        "C": "विदेशी पुस्तकों के मूल्य हेतु रूपांतरण दर तय करने से / Fixing conversion rates for pricing of foreign books",
+        "D": "परीक्षा आयोजन से / Conducting examinations"
+      },
+      "q": "भारत में 'Good Offices Committee' (GOC) का संबंध किससे है? / In India, the Good Offices Committee (GOC) is related to:"
+    },
+    {
+      "answer": "D",
+      "explanation": "बंद अभिगम प्रणाली में पाठकों को संग्रह-कक्ष की शेल्फों तक जाने की अनुमति नहीं होती। पाठक सूची देखकर माँग-पर्ची देता है और कर्मचारी पुस्तक लाकर देता है।",
+      "options": {
+        "A": "पाठक सीधे शेल्फ तक जा सकते हैं / Readers can go directly to the shelves",
+        "B": "पुस्तकालय चौबीस घंटे खुला रहता है / The library remains open round the clock",
+        "C": "केवल सदस्य ही प्रवेश कर सकते हैं / Only members can enter",
+        "D": "पाठक शेल्फ तक नहीं जा सकते; कर्मचारी पुस्तक लाकर देते हैं / Readers cannot go to the shelves; staff fetch the books"
+      },
+      "q": "'बंद अभिगम' (Closed Access) प्रणाली का अर्थ है— / 'Closed Access' system means:"
+    },
+    {
+      "answer": "A",
+      "explanation": "चल पुस्तकालय विस्तार सेवा का प्रमुख रूप है, जिसमें वाहन में पुस्तकें भरकर दूर-दराज़ तथा ग्रामीण क्षेत्रों के पाठकों तक पहुँचाई जाती हैं। इससे पुस्तकालय की सेवा अपने भवन से बाहर तक फैलती है।",
+      "options": {
+        "A": "विस्तार सेवा / Extension Service",
+        "B": "संदर्भ सेवा / Reference Service",
+        "C": "सूचीकरण सेवा / Cataloguing Service",
+        "D": "जिल्दबंदी सेवा / Binding Service"
+      },
+      "q": "चल पुस्तकालय (Mobile Library) किस सेवा का रूप है? / Mobile Library is a form of which service?"
+    },
+    {
+      "answer": "B",
+      "explanation": "ईप्रिंट्स सॉफ़्टवेयर ब्रिटेन के साउथेम्प्टन विश्वविद्यालय में विकसित किया गया था। यह मुक्त स्रोत सॉफ़्टवेयर संस्थागत भंडार बनाने के लिए व्यापक रूप से प्रयुक्त होता है।",
+      "options": {
+        "A": "ऑक्सफोर्ड विश्वविद्यालय / Oxford University",
+        "B": "साउथेम्प्टन विश्वविद्यालय, ब्रिटेन / University of Southampton, UK",
+        "C": "दिल्ली विश्वविद्यालय / University of Delhi",
+        "D": "वाइकाटो विश्वविद्यालय / University of Waikato"
+      },
+      "q": "EPrints संस्थागत भंडार सॉफ़्टवेयर किस विश्वविद्यालय द्वारा विकसित किया गया था? / EPrints repository software was developed by which university?"
+    },
+    {
+      "answer": "C",
+      "explanation": "ओ.ए.आई.-पी.एम.एच. का पूर्ण रूप ओपन आर्काइव्ज़ इनिशिएटिव प्रोटोकॉल फॉर मेटाडेटा हार्वेस्टिंग है। इसके द्वारा विभिन्न डिजिटल भंडारों से मेटाडेटा एकत्र करके साझा खोज संभव होती है।",
+      "options": {
+        "A": "Open Access Information Protocol / Open Access Information Protocol",
+        "B": "Online Archives Index / Online Archives Index",
+        "C": "Open Archives Initiative Protocol for Metadata Harvesting / Open Archives Initiative Protocol for Metadata Harvesting",
+        "D": "Open Article Indexing Programme / Open Article Indexing Programme"
+      },
+      "q": "OAI-PMH का पूर्ण रूप क्या है? / What is the full form of OAI-PMH?"
+    },
+    {
+      "answer": "D",
+      "explanation": "एच.टी.एम.एल. का पूर्ण रूप हाइपरटेक्स्ट मार्कअप लैंग्वेज है। यह जाल-पृष्ठ बनाने की मानक भाषा है, जिसका विकास टिम बर्नर्स-ली के कार्य से जुड़ा है।",
+      "options": {
+        "A": "HighText Machine Language / HighText Machine Language",
+        "B": "Hyperlink Text Mode Language / Hyperlink Text Mode Language",
+        "C": "Host Text Markup Language / Host Text Markup Language",
+        "D": "HyperText Markup Language / HyperText Markup Language"
+      },
+      "q": "HTML का पूर्ण रूप क्या है? / What is the full form of HTML?"
+    },
+    {
+      "answer": "A",
+      "explanation": "शिक्षा एवं अनुसंधान नेटवर्क की शुरुआत भारत में 1986 में इलेक्ट्रॉनिकी विभाग की परियोजना के रूप में हुई थी। यह देश के शैक्षणिक तथा शोध संस्थानों को जोड़ने वाला प्रारंभिक नेटवर्क था।",
+      "options": {
+        "A": "1986 / 1986",
+        "B": "1995 / 1995",
+        "C": "1977 / 1977",
+        "D": "2002 / 2002"
+      },
+      "q": "भारत में ERNET (शिक्षा एवं अनुसंधान नेटवर्क) की शुरुआत किस वर्ष हुई थी? / In which year was ERNET started in India?"
+    },
+    {
+      "answer": "B",
+      "explanation": "राष्ट्रीय विज्ञान संचार तथा सूचना संसाधन संस्थान का गठन 30 सितंबर 2002 को इंसडॉक तथा निस्कॉम के विलय से हुआ था। यह वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद के अंतर्गत कार्य करता था।",
+      "options": {
+        "A": "डेलनेट तथा कैलिबनेट / DELNET and CALIBNET",
+        "B": "इंसडॉक तथा निस्कॉम / INSDOC and NISCOM",
+        "C": "इन्फ्लिबनेट तथा निस्सात / INFLIBNET and NISSAT",
+        "D": "डी.आर.टी.सी. तथा नैस्डॉक / DRTC and NASSDOC"
+      },
+      "q": "NISCAIR का गठन 2002 में किन दो संस्थाओं के विलय से हुआ था? / NISCAIR was formed in 2002 by the merger of which two institutions?"
+    }
+  ],
+  "subject": "BLIS"
+}
