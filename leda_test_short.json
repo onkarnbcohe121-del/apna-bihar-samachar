@@ -1,0 +1,31 @@
+{
+ "series": "Apna Bihar Samachar Live — TRE MCQ Shorts",
+ "voice": "Swara",
+ "music": "none",
+ "yt_title": "Leda Voice Test | Apna Bihar Samachar Live #Shorts",
+ "yt_desc": "Internal voice test - Leda Live API route check.",
+ "scenes": [
+  {
+   "head": "आवाज़ परीक्षण",
+   "points": [
+    "Leda Voice Test"
+   ],
+   "text": "नमस्कार! यह Leda आवाज़ का परीक्षण है। अपना बिहार समाचार लाइव में आपका स्वागत है।"
+  },
+  {
+   "head": "आज का प्रश्न",
+   "points": [
+    "हड़प्पा सभ्यता की खोज"
+   ],
+   "text": "आज का question है — हड़प्पा सभ्यता की खोज किस वर्ष हुई थी? सही उत्तर है — उन्नीस सौ इक्कीस में।"
+  },
+  {
+   "head": "परीक्षण पूरा",
+   "points": [
+    "Test Complete"
+   ],
+   "text": "यह परीक्षण यहीं पूरा हुआ। आवाज़ साफ़ आई हो तो परीक्षण सफल है। धन्यवाद!"
+  }
+ ],
+ "format": "9:16"
+}
