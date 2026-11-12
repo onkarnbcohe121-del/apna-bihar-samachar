@@ -44,10 +44,11 @@ jobs:
       - name: Tools install karo
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install edge-tts pillow requests google-api-python-client google-auth
+          pip install edge-tts pillow requests google-api-python-client google-auth google-genai
 
       - name: Video banao aur Telegram par bhejo
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_PERSONAL_CHAT_ID: ${{ secrets.TELEGRAM_PERSONAL_CHAT_ID }}
