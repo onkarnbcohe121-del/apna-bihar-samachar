@@ -120,7 +120,71 @@ def speech_fix(text):
     t = text.translate(DEV_DIGITS)
     return re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", _year_words, t)
 
+
+try:
+    import live_tts
+except Exception:
+    live_tts = None
+
+LIVE_VOICE_NAME = "Leda"
+_ROUTE = {"mode": None}
+
+
+def _tts_chunks(text, limit=1000):
+    import re as _re
+    if len(text) <= limit:
+        return [text]
+    parts, cur = [], ""
+    for piece in _re.split(r"(?<=।)", text):
+        if cur and len(cur) + len(piece) > limit:
+            parts.append(cur)
+            cur = piece
+        else:
+            cur += piece
+        while len(cur) > limit:
+            parts.append(cur[:limit])
+            cur = cur[limit:]
+    if cur.strip():
+        parts.append(cur)
+    return parts
+
+
+def _live_synth(text, out):
+    """Leda - Live API wala rasta (primary, user ka nirdesh 12 Nov). Fail ho to
+    Exception - caller poore video ke liye Swara (backup) par chala jayega."""
+    import tempfile
+    from hindi_pronunciation import prepare_tts_text
+    text = speech_fix(prepare_tts_text(text))
+    tmpdir = tempfile.mkdtemp(prefix="livetts_")
+    wavs = []
+    for i, chunk in enumerate(_tts_chunks(text)):
+        w = os.path.join(tmpdir, f"c{i}.wav")
+        if live_tts is None or not live_tts.speak(chunk, LIVE_VOICE_NAME, w):
+            raise RuntimeError("Live-Leda synth fail")
+        wavs.append(w)
+    lst = os.path.join(tmpdir, "list.txt")
+    with open(lst, "w") as f:
+        for w in wavs:
+            f.write(f"file '{w}'\n")
+    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst,
+                    "-c:a", "libmp3lame", "-q:a", "4", out],
+                   check=True, capture_output=True)
+    if not (os.path.exists(out) and os.path.getsize(out) > 1000):
+        raise RuntimeError("Live-Leda output khaali hai")
+
 async def tts(text, out):
+    if _ROUTE["mode"] != "swara":
+        try:
+            await asyncio.to_thread(_live_synth, text, out)
+            _ROUTE["mode"] = "live"
+            return
+        except Exception as e:
+            print(f"Live-Leda fail ({e}) - poora video Swara (backup) se banega")
+            _ROUTE["mode"] = "swara"
+    await _tts_swara(text, out)
+
+
+async def _tts_swara(text, out):
     import edge_tts
     from hindi_pronunciation import prepare_tts_text
     text = speech_fix(prepare_tts_text(text))
