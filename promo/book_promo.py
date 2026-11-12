@@ -26,6 +26,15 @@ KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODEL = "gemini-2.5-flash-preview-tts"
 VOICE = "Leda"
 
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+try:
+    import live_tts
+except Exception:
+    live_tts = None
+
+_ROUTE = {"mode": None}
+
 W, H = 1920, 1080
 NAVY = (27, 42, 74)
 NAVY2 = (18, 28, 51)
@@ -322,7 +331,30 @@ SEGMENTS = [
 
 
 # ---------------------------------------------------------------- audio
+def synth_live(text, idx):
+    """Leda — Live API wala rasta (primary, user ka nirdesh 12 Nov). live_tts.speak
+    24kHz WAV likhta hai; fail ho to Exception, taaki synth() purane Gemini-Leda
+    (generateContent) raste par chala jaye."""
+    wav = os.path.join(OUT, f"seg{idx}.wav")
+    if live_tts is None:
+        raise RuntimeError("live_tts module nahi mila")
+    if not live_tts.speak(text, VOICE, wav):
+        raise RuntimeError("Live-Leda synth fail")
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                "-of", "csv=p=0", wav], capture_output=True, text=True).stdout.strip())
+    print(f"seg{idx} OK (Live-Leda): {dur:.1f}s")
+    return wav, dur
+
+
 def synth(text, idx):
+    if _ROUTE["mode"] != "gen":
+        try:
+            r = synth_live(text, idx)
+            _ROUTE["mode"] = "live"
+            return r
+        except Exception as e:
+            print(f"seg{idx}: Live-Leda fail ({e}) - poora promo Gemini-Leda (generateContent) se banega")
+            _ROUTE["mode"] = "gen"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
         "contents": [{"parts": [{"text": text}]}],
