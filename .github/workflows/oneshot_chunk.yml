@@ -48,13 +48,14 @@ jobs:
             echo "apt-get install try $i fail — 15 sec baad phir koshish"; sleep 15
           done
           ffmpeg -version | head -1
-          pip install --quiet edge-tts pillow requests google-api-python-client google-auth
+          pip install --quiet edge-tts pillow requests google-api-python-client google-auth google-genai
 
       # Chunk build — koi YouTube upload NAHI, koi secret NAHI (Edge TTS public).
       # Intro sirf chunk 1 me, outro sirf chunk 8 me (bash me hisaab — koi
       # expression jugad nahi). SAVE_STATE=0: lesson state kabhi aage nahi badhega.
       - name: Chunk video banao (One Shot engine)
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CHUNK: ${{ inputs.chunk }}
           SAVE_STATE: "0"
           TMPDIR: ${{ github.workspace }}/tmpwork
