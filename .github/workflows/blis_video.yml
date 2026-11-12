@@ -33,10 +33,11 @@ jobs:
       - name: Tools install karo
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install edge-tts pillow google-api-python-client google-auth
+          pip install edge-tts pillow google-api-python-client google-auth google-genai
 
       - name: BLIS Mock Test video banao
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MOCK_FILE: ${{ inputs.mock_file }}
           SAVE_STATE: ${{ inputs.save_state || '1' }}
           TMPDIR: ${{ github.workspace }}/tmpwork
