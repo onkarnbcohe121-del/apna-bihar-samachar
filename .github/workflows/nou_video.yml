@@ -1,0 +1,94 @@
+name: NOU PG Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      script_file:
+        description: "NOU PG script JSON (repo path, jaise nou/mhis01_ch01.json)"
+        required: true
+        type: string
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nou-video
+
+jobs:
+  make-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Install step majboot: apt mirror hang/fail par timeout + retry loop
+      # (oneshot_chunk.yml wala pattern).
+      - name: Tools install karo
+        run: |
+          for i in 1 2 3 4; do
+            if sudo timeout 240 apt-get update -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25; then break; fi
+            echo "apt-get update try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          for i in 1 2 3; do
+            if sudo timeout 300 apt-get install -y ffmpeg; then break; fi
+            echo "apt-get install try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+          ffmpeg -version | head -1
+          for i in 1 2 3; do
+            if pip install edge-tts pillow google-api-python-client google-auth google-genai; then break; fi
+            echo "pip install try $i fail — 15 sec baad phir koshish"; sleep 15
+          done
+
+      - name: NOU PG video banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SCRIPT_FILE: ${{ inputs.script_file }}
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python nou_video.py
+
+      - name: Video file artifact me bachao (upload fail ho to bhi)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nou-video
+          path: |
+            tmpwork/nou_*/final.mp4
+            tmpwork/nou_*/thumb.jpg
+            tmpwork/nou_*/title.txt
+            tmpwork/nou_*/desc.txt
+            tmpwork/nou_*/playlist.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: YouTube par upload karo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/nou_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/nou_*/thumb.jpg | head -1)
+          YT_TITLE=$(cat tmpwork/nou_*/title.txt)
+          YT_DESC=$(cat tmpwork/nou_*/desc.txt)
+          YT_PLAYLIST_ID=$(cat tmpwork/nou_*/playlist.txt | head -1 | tr -d '[:space:]')
+          export VIDEO_FILE THUMB_FILE YT_TITLE YT_DESC YT_PLAYLIST_ID
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > nou_latest.txt || true
+
+      - name: Latest link commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add nou_latest.txt || true
+          git diff --cached --quiet || git commit -m "nou latest video update"
+          git push || true
