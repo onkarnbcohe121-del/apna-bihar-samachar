@@ -23,6 +23,8 @@ V.PITCH = "+0Hz"   # lessons: Swara pitch +0Hz (MCQ se alag)
 # milta hai jo Swara ko milta hai (V.tts bhi andar wahi karta hai).
 GEMINI_MODEL = "gemini-3.8-flash-tts"
 GEMINI_VOICE_NAME = "Sulafat"
+LIVE_VOICE_NAME = "Leda"  # 12 Nov 2026: user ka faisla — Leda sab me primary (Live API, alag quota)
+_ROUTE = {"mode": None}  # None = pehle narrate par faisla; "live" ya "gemini" — poora video ek hi rasta
 
 
 def ugc_voice():
@@ -106,13 +108,53 @@ def gemini_tts(text, out_path):
         raise SystemExit("Leda TTS fail ho gaya (audio file nahi bani)")
 
 
+def live_leda_tts(text, out_path):
+    """Live API (alag quota-khaata) se Leda awaaz — chunk-wise PCM jodkar mp3.
+    Koi chunk fail ho to Exception uthao, taaki narrate() poore video ke liye
+    Sulafat (generateContent) par chala jaye."""
+    import wave as _wave
+    import live_tts
+    if not os.environ.get("GEMINI_API_KEY", "").strip():
+        raise RuntimeError("GEMINI_API_KEY missing")
+    from hindi_pronunciation import prepare_tts_text
+    text = prepare_tts_text(text)
+    pcm = b""
+    for chunk in _tts_chunks(text):
+        tmp = out_path + ".live.wav"
+        if not live_tts.speak(chunk, LIVE_VOICE_NAME, tmp):
+            raise RuntimeError("Live TTS chunk fail")
+        with _wave.open(tmp, "rb") as wf:
+            pcm += wf.readframes(wf.getnframes())
+        os.remove(tmp)
+    raw = out_path + ".pcm"
+    with open(raw, "wb") as f:
+        f.write(pcm)
+    try:
+        run(["ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1",
+             "-i", raw, "-c:a", "libmp3lame", "-q:a", "4", out_path], check=True)
+    finally:
+        if os.path.exists(raw):
+            os.remove(raw)
+    if not (os.path.exists(out_path) and os.path.getsize(out_path) > 1000):
+        raise RuntimeError("Live TTS fail ho gaya (audio file nahi bani)")
+
+
 async def narrate(text, out_path):
-    """Narration ka ekmatra pravesh-dwaar: default Leda (Gemini);
-    UGC_VOICE=swara ho tabhi purana V.tts (Edge TTS Swara)."""
+    """Narration ka ekmatra pravesh-dwaar (12 Nov 2026 se): pehle Live API se
+    Leda (alag quota); Live fail ho to poora video Sulafat (generateContent
+    Gemini) se. UGC_VOICE=swara ho tabhi purana V.tts (Edge TTS Swara)."""
     if ugc_voice() == "swara":
         await V.tts(text, out_path)
-    else:
-        await asyncio.to_thread(gemini_tts, text, out_path)
+        return
+    if _ROUTE["mode"] != "gemini":
+        try:
+            await asyncio.to_thread(live_leda_tts, text, out_path)
+            _ROUTE["mode"] = "live"
+            return
+        except Exception as e:
+            print(f"  Live-Leda fail ({e}) — poora video Sulafat (Gemini) se banega")
+            _ROUTE["mode"] = "gemini"
+    await asyncio.to_thread(gemini_tts, text, out_path)
 
 W, H = V.W, V.H
 SFILE = "ugc_state.json"
