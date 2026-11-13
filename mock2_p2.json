@@ -1,0 +1,752 @@
+[
+ {
+  "n": 51,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कितने गलत मिलान हैं ? (a) कोल विद्रोह - 1831-32 (b) संथाल विद्रोह - 1855 (c) बस्तर विद्रोह - 1920 (d) वारली विद्रोह - 1939",
+  "q_en": "In the following, how many have been matched incorrectly ? (a) Kol rebellion - 1831-32 (b) Santhal revolt - 1855 (c) Bastar rebellion - 1920 (d) Warli revolt - 1939",
+  "options": [
+   "केवल एक गलत",
+   "केवल दो गलत",
+   "केवल तीन गलत",
+   "उपरोक्त कोई नहीं"
+  ],
+  "answer": 1,
+  "exp_hi": "केवल दो मिलान गलत हैं — बस्तर विद्रोह 1910 में और वारली विद्रोह 1945-47 में हुआ था।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q51"
+ },
+ {
+  "n": 52,
+  "subject": "Social Studies",
+  "q_hi": "मसूलीपट्टनम के संदर्भ में, जिसका व्यापार के लिए दूरस्थ स्थानों से संपर्क था, उपयुक्त विकल्पों का चयन कीजिए : (a) सत्रहवीं शताब्दी में हॉलैंड और इंग्लैंड दोनों देशों की ईस्ट इंडिया कंपनी ने मसूलीपट्टनम पर नियंत्रण प्राप्त करने का प्रयत्न किया, क्योंकि तब तक वह आंध्र तट का सबसे महत्वपूर्ण पत्तन बन गया था। (b) हॉलैंडवासी (डच), डेनमार्क और स्पेन के दूरस्थ स्थानों के लोग थे। (c) विभिन्न व्यापारी समूहों जैसे गोलकोंडा के कुलीन वर्गों, फ़ारसी सौदागरों, तेलुगु कोमटी चेट्टियार और यूरोपीय व्यापारियों की प्रतिस्पर्धा ने नगर को समृद्धिशाली बना दिया। (d) मीर जुमला और मुगल सूबेदार ने हॉलैंडवासियों और अंग्रेजों को आपस में भिड़ाना शुरू कर दिया।",
+  "q_en": "In the context of Masulipatnam, which had contacts with distant lands for trade, choose the appropriate options : (a) In the 17th Century, both the Dutch and English East India Companies attempted to control Masulipatnam as it became the most important port on the Andhra Coast. (b) Dutch were people from distant lands of Denmark and Spain. (c) The competition between trading groups such as the Golconda nobler, Persian merchants, Telugu Komati Chettis and European traders made the city prosperous. (d) Mir Jumla, the Mughal governor began to play off the Dutch and the English against each other.",
+  "options": [
+   "केवल (a), (b)",
+   "केवल (c), (d)",
+   "केवल (a), (b), (c)",
+   "केवल (c), (d), (a)"
+  ],
+  "answer": 3,
+  "exp_hi": "कथन (c), (d) और (a) सही हैं; डच हॉलैंड के थे, डेनमार्क-स्पेन के नहीं, अतः (b) गलत है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q53"
+ },
+ {
+  "n": 53,
+  "subject": "Social Studies",
+  "q_hi": "जेम्स मिल ने अपनी तीन खंडों वाली पुस्तक “ए हिस्ट्री ऑफ़ ब्रिटिश इंडिया” किस वर्ष प्रकाशित की थी ?",
+  "q_en": "In which year did James Mill publish his three volumes book titled “A History of British India” ?",
+  "options": [
+   "1815",
+   "1816",
+   "1817",
+   "1818"
+  ],
+  "answer": 2,
+  "exp_hi": "जेम्स मिल की 'ए हिस्ट्री ऑफ़ ब्रिटिश इंडिया' 1817 में तीन खंडों में प्रकाशित हुई थी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q54"
+ },
+ {
+  "n": 54,
+  "subject": "Social Studies",
+  "q_hi": "(A) : पृथ्वी की ठोस पर्पटी या कठोर ऊपरी परत को स्थलमंडल कहते हैं। (R) : यह चट्टानों एवं खनिजों से बना होता है एवं मिट्टी की पतली परत से ढ़का होता है। निम्नलिखित में से सही उत्तर को चुनें :",
+  "q_en": "(A) : Lithosphere is the solid crust or the hard top layer of the earth. (R) : It is made up of rocks and minerals and covered by a thin layer of soil. Choose the correct option of the following :",
+  "options": [
+   "दोनों (A) तथा (R) सही हैं एवं (R), (A) की सही व्याख्या करता है।",
+   "दोनों (A) एवं (R) सही हैं तथा (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है किन्तु (R) गलत है।",
+   "(A) गलत है किन्तु (R) सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं और (R) स्थलमंडल की संरचना बताकर (A) की सही व्याख्या करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q55"
+ },
+ {
+  "n": 55,
+  "subject": "Social Studies",
+  "q_hi": "बंगाल मंदिर निर्माण के निम्नलिखित कथनों पर विचार कीजिए और उपयुक्त विकल्प चुनिये : (a) मंदिर भक्ति प्रदर्शित करने के लिये निर्मित किए जाते थे। (b) मंदिर शक्ति प्रदर्शित करने के लिये निर्मित किए जाते थे। (c) मंदिरों ने दो मंजिली छप्पर की झोंपड़ियों की संरचना की प्रतिकृति करना आरंभ कर दिया। (d) मंदिरों ने चार छत वाली छप्पर की झोंपड़ियों की संरचना की प्रतिकृति करना आरंभ कर दिया।",
+  "q_en": "Consider the following statements of Bengal temple - building and choose the appropriate option : (a) Temples were built to demonstrate piety. (b) Temples were built to demonstrate power. (c) Temples began to copy the double-roofed structure of the thatched huts. (d) Temples began to copy the four-roofed structure of the thatched huts.",
+  "options": [
+   "केवल (a), (b) और (c) उपयुक्त हैं।",
+   "केवल (b), (c) और (d) उपयुक्त हैं।",
+   "केवल (c), (d) और (a) उपयुक्त हैं।",
+   "सभी (a), (b), (c) और (d) उपयुक्त हैं।"
+  ],
+  "answer": 3,
+  "exp_hi": "बंगाल के मंदिर भक्ति व शक्ति प्रदर्शन हेतु बने और दो-छत तथा चार-छत दोनों संरचनाएँ अपनाई गईं — सभी कथन उपयुक्त हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q56"
+ },
+ {
+  "n": 56,
+  "subject": "Social Studies",
+  "q_hi": "एक-एक घंटे वाला पृथ्वी का एक समय-क्षेत्र कितना देशांतरीय विस्तार घेरता है ?",
+  "q_en": "How much longitudinal extent does one Time Zone of Earth of one Hour each cover ?",
+  "options": [
+   "45°",
+   "30°",
+   "15°",
+   "60°"
+  ],
+  "answer": 2,
+  "exp_hi": "पृथ्वी 24 घंटे में 360° घूमती है, अतः एक घंटे का समय-क्षेत्र 15° देशांतर घेरता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q57"
+ },
+ {
+  "n": 57,
+  "subject": "Social Studies",
+  "q_hi": "पर्वतों (पहाड़ों) में बहते समय नदी जलप्रपात बनाती है। जलप्रपात के लिए दो मुख्य कारणों का चुनाव कीजिए : (a) नदी पेड़ों के मध्य से गुजरती है। (b) नदी अत्यधिक कठोर शैलों के ऊपर बहती है। (c) नदी नर्म शैलों के ऊपर से गुजरती है। (d) नदी खड़ी ढाल वाली घाटी में गिरती है।",
+  "q_en": "A river makes waterfalls while flowing in the mountains. Select the two main reasons for the waterfalls : (a) River moves in between trees. (b) River flows over very hard rocks. (c) River moves over soft rocks. (d) River flows down a steep valley. Choices :",
+  "options": [
+   "(a) और (c) सही हैं।",
+   "(b) और (d) सही हैं।",
+   "(a) और (d) सही हैं।",
+   "(b) और (c) सही हैं।"
+  ],
+  "answer": 1,
+  "exp_hi": "जलप्रपात तब बनते हैं जब नदी कठोर शैलों के ऊपर से बहकर खड़ी ढाल वाली घाटी में गिरती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q58"
+ },
+ {
+  "n": 58,
+  "subject": "Social Studies",
+  "q_hi": "भारत में पहली कपास मिल (स्पिनिंग मील) बॉम्बे में किस वर्ष स्थापित हुई थी ?",
+  "q_en": "The first cotton mill in India was set up as a spinning mill in Bombay in the year :",
+  "options": [
+   "1852",
+   "1853",
+   "1854",
+   "1855"
+  ],
+  "answer": 2,
+  "exp_hi": "भारत की पहली कपास कताई मिल 1854 में बॉम्बे (मुंबई) में स्थापित हुई थी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q59"
+ },
+ {
+  "n": 59,
+  "subject": "Social Studies",
+  "q_hi": "औपनिवेशिक कृषि संबंधी नीतियों में परिवर्तनों के संबंध में उपयुक्त निष्कर्षों पर पहुँचने के लिए भ्रान्तियों को दूर कीजिए। (a) दीवान के रूप में, कंपनी अपने नियंत्रण के क्षेत्र की मुख्य प्रशासक बन गई। (b) 1765 के पश्चात् कंपनी को भूमि की व्यवस्था और उसके राजस्व के संसाधनों की व्यवस्था करने के विषय में सोचना पड़ा। (c) 1765 से पूर्व, कंपनी ने ब्रिटेन से विशाल मात्रा में अनाज का आयात करके भारत में वस्तुएँ खरीदीं। (d) 1765 के बाद, बंगाल में इकट्ठा किये गये राजस्व से निर्यात के लिए खरीदी वस्तुओं/माल का वित्तीय प्रबंध किया जा सका।",
+  "q_en": "Dispel the misconceptions to arrive at appropriate conclusions with regard to changes in the colonial agrarian policies. (a) As Diwan, the Company became the chief administrator of the territory under its control. (b) After 1765 Company had to think of administering the land and organising its revenue resources. (c) Before 1765, the Company purchased goods in India by importing huge quantities of grain from Britain. (d) After 1765, the revenue collected in Bengal could finance the purchase of goods for export.",
+  "options": [
+   "केवल (a), (b)",
+   "केवल (b), (c)",
+   "केवल (a), (d)",
+   "केवल (b), (d)"
+  ],
+  "answer": 0,
+  "exp_hi": "केवल (b) और (d) सही निष्कर्ष हैं; (a) और (c) भ्रान्तिपूर्ण कथन हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q60"
+ },
+ {
+  "n": 60,
+  "subject": "Social Studies",
+  "q_hi": "ग्रामीण भारत में ऋण के संस्थागत स्रोत निम्नलिखित में से कौन से हैं ? (a) साहूकार (b) सहकारी संस्थाएँ (c) सरकारी बैंक (d) ज़मींदार",
+  "q_en": "Which of the following are institutional sources of debts in rural India ? (a) Moneylenders (b) Cooperatives (c) Government Banks (d) Landlords Options :",
+  "options": [
+   "केवल (a) और (c)",
+   "केवल (b) और (c)",
+   "केवल (a) और (d)",
+   "केवल (a), (b) और (d)"
+  ],
+  "answer": 1,
+  "exp_hi": "ग्रामीण ऋण के संस्थागत स्रोत केवल सहकारी संस्थाएँ और सरकारी बैंक हैं; साहूकार व ज़मींदार अनौपचारिक स्रोत हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q61"
+ },
+ {
+  "n": 61,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से क्या राज्य द्वारा धर्म में हस्तक्षेप है जैसा कि भारतीय संविधान में लिखा गया है ? (a) अस्पृश्यता का उन्मूलन (b) बाल मज़दूरी पर प्रतिषेध (c) बाल विवाह पर प्रतिबंध (d) विशाखा मार्गदर्शिका को तैयार करना विकल्प :",
+  "q_en": "Which of the following are examples of intervention in religion by state as laid out in the Indian Constitution ? (a) Abolition of untouchability (b) Prohibition of child labour (c) Ban on child marriage (d) Laying out Vishakha guidelines Options :",
+  "options": [
+   "केवल (a) और (b)",
+   "केवल (b) और (c)",
+   "केवल (a) और (c)",
+   "केवल (b) और (d)"
+  ],
+  "answer": 2,
+  "exp_hi": "अस्पृश्यता का उन्मूलन और बाल विवाह पर प्रतिबंध धर्म में राज्य के हस्तक्षेप के उदाहरण हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q62"
+ },
+ {
+  "n": 62,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : सामाजिक विज्ञान के अध्ययन-अध्यापन का मुख्य आधार क्षेत्रकार्य, प्रोजेक्ट कार्य और समूह गतिविधियाँ होनी चाहिए। कथन II : सामाजिक विज्ञान के अध्ययन-अध्यापन को रूचिकर बनाने के लिए स्थानीय समुदाय से सीधे जुड़ी परियोजना को प्रेरित करना चाहिए।",
+  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Fieldwork, project work and group activities should form the basis of teaching- learning in Social Sciences. Statement II : Projects having direct link with the local community may be encouraged to develop curiosity in Social Sciences teaching-learning.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं — क्षेत्रकार्य व परियोजना आधारित शिक्षण और स्थानीय समुदाय से जुड़ी परियोजनाएँ सामाजिक विज्ञान में वांछनीय हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q63"
+ },
+ {
+  "n": 63,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित कथनों को पढ़िये और सही विकल्प चुनिये : कथन (A) : सरकार के लोक निर्माण विभाग द्वारा किए गए कार्य के लिए विधान सभा के सदस्यों की स्वीकृति आवश्यक नहीं है। कथन (B) : लोग विधान सभा के सदस्यों को अपने प्रतिनिधियों के रूप में चुनते हैं। विकल्प :",
+  "q_en": "Read the following statements and choose the correct option : Statement (A) : The work done by the public works department of the government do not need the approval of the members of the legislative assembly. Statement (B) : People elect the members of the legislative assembly as their representatives. Options :",
+  "options": [
+   "(A) सत्य है, (B) असत्य है।",
+   "(A) असत्य है, (B) सत्य है।",
+   "(A) और (B) दोनों सत्य हैं और (B), (A) का कारण है।",
+   "(A) और (B) दोनों सत्य हैं लेकिन (B), (A) का कारण नहीं है।"
+  ],
+  "answer": 1,
+  "exp_hi": "कथन (A) असत्य है और कथन (B) सत्य है — लोग ही विधान सभा सदस्यों को अपने प्रतिनिधि चुनते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q64"
+ },
+ {
+  "n": 64,
+  "subject": "Social Studies",
+  "q_hi": "सामाजिक विज्ञान के एक शिक्षक/शिक्षिका के रूप में, लैंगिक भेदभाव और जातिगत भेदभाव जैसे मुद्दों पर चर्चा करते समय आप निम्नलिखित में से किसका ध्यान रखेंगे ? (a) कक्षा में बोलने के लिए प्रोत्साहित करना। (b) विद्यार्थियों को दूसरों की बात सुनना सिखाना। (c) कक्षा में संघर्षों की गैर-स्वीकृति। (d) कक्षा में विश्वास का वातावरण विकसित करना।",
+  "q_en": "As a teacher of Social Science, which of the following will you be careful about while discussing issues like gender discrimination and caste discrimination ? (a) Encouraging speaking up in the class. (b) Making students learn to listen to the others. (c) Non-acceptance of conflicts in the classroom. (d) Developing an atmosphere of trust in the classroom.",
+  "options": [
+   "(a), (b), (c)",
+   "(b), (c), (d)",
+   "(a), (c), (d)",
+   "(a), (b), (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "शिक्षक को बोलने हेतु प्रोत्साहन, सुनना सिखाना और विश्वास का वातावरण बनाना चाहिए; संघर्षों की गैर-स्वीकृति उचित नहीं है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q65"
+ },
+ {
+  "n": 65,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : स्कूल में योगात्मक आँकलन में ज्यादा प्रत्यक्षता होती है। कथन II : योगात्मक आंकलन एक ग्रेड या इकाई या सत्र के अन्त में अधिगम के परिणामों की जाँच करता है।",
+  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : In school, summative assessment has more visibility. Statement II : Summative assessment checks the learning outcomes at the end of a grade or unit or a term.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं — योगात्मक आँकलन की दृश्यता अधिक होती है और वह सत्र के अंत में परिणामों की जाँच करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q66"
+ },
+ {
+  "n": 66,
+  "subject": "Social Studies",
+  "q_hi": "शहरी प्रशासन पर दिए गए पाठ में निम्नलिखित पाठ्य प्रश्न ‘रिक्त स्थान की पूर्ति कीजिए’ पर विचार कीजिए : किसी नगर निगम में निर्वाचित सदस्यों को __________ कहते हैं। यहाँ पर निम्नलिखित में से कौन सी योग्यताओं/कौशलों का परीक्षण हो रहा है ?",
+  "q_en": "Consider the following in-text question “Fill in the blank” given in the chapter on urban administration : In a Municipal Corporation, the elected members are called __________. Which of the following abilities/skills is being tested here ?",
+  "options": [
+   "सारांश करना",
+   "वर्गीकरण करना",
+   "समझाना/व्याख्या करना",
+   "स्मरण रखना"
+  ],
+  "answer": 3,
+  "exp_hi": "'रिक्त स्थान की पूर्ति' जैसा प्रश्न केवल स्मरण रखने की क्षमता का परीक्षण करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q67"
+ },
+ {
+  "n": 67,
+  "subject": "Social Studies",
+  "q_hi": "लड़के खेल खेलते हैं जबकि लड़कियाँ कला एवं कारीगरी अपनाती हैं। यह कथन क्या विचार प्रकट करता है ? Qa) परंपरा (2) अवधारणाएँ/पूर्वाग्रह (3) रूढ़िबद्धताएँ (4) अंतर",
+  "q_en": "‘Boys are into sports whereas girls are into arts and crafts’. What does this statement reflect ?",
+  "options": [
+   "परंपरा",
+   "अवधारणाएँ/पूर्वाग्रह",
+   "रूढ़िबद्धताएँ",
+   "अंतर"
+  ],
+  "answer": 2,
+  "exp_hi": "'लड़के खेल, लड़कियाँ कला' जैसी धारणा लैंगिक रूढ़िबद्धता (स्टीरियोटाइप) को दर्शाती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q68"
+ },
+ {
+  "n": 68,
+  "subject": "Social Studies",
+  "q_hi": "सामाजिक विज्ञान की कक्षा में एक महत्वपूर्ण तत्व भारत की विविधता को स्वीकार करना है। सामाजिक विज्ञान के एक शिक्षक के रूप में निम्नलिखित में से कौन से लक्षण आपको विकसित करने चाहिए और उन्हें विद्यार्थियों में शुद्ध अंतःकरण से आत्मसात करना चाहिए जिससे कि विविधता का सही मायनों में महत्व हो सके ? (a) एकता के विषय में नारे लगाना (b) अपने से भिन्न संस्कृतियों के विषय में बात करते हुए संवेदनशील और सम्माननीय रहना (c) किसी की अवधारणाओं पर निरन्तर विचार करना जो समाज में किसी की सामाजिक अवस्थिति से उत्पन्न हो सकती हैं। सर्वाधिक उपयुक्त विकल्प चुनिए :",
+  "q_en": "An important element in the Social Science classroom is the acknowledgement of India’s diversity. Which of the following traits should you develop as a Social Science teacher and also consciously inculcate in students so that this diversity is truly appreciated ? (a) Reciting slogans about unity (b) Being sensitive and respectful while talking about cultures which are different from one’s own (c) Constantly reflecting on one’s prejudices which might arise from one’s social location in society Choose the most appropriate option :",
+  "options": [
+   "केवल (a)",
+   "केवल (a) और (b)",
+   "केवल (a) और (c)",
+   "केवल (b) और (c)"
+  ],
+  "answer": 3,
+  "exp_hi": "विविधता की सराहना हेतु भिन्न संस्कृतियों के प्रति संवेदनशीलता और अपने पूर्वाग्रहों पर निरन्तर चिंतन आवश्यक है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q69"
+ },
+ {
+  "n": 69,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कौन से उद्देश्य का भारतीय संविधान निर्वाह नहीं करता है ?",
+  "q_en": "Which of the following purpose Indian Constitution does not serve to ?",
+  "options": [
+   "उन आदर्शों का निरूपण जिनका किसी देश को पालन करना है",
+   "अपने आप को स्थैतिक रखना जिससे समाज की संरचनाएँ अपरिवर्तित रह सकें",
+   "विभिन्‍न समुदायों में साथ रहने के लिये सामंजस्य बैठाना",
+   "व्यक्तियों एवं समुदायों के विरुद्ध नागरिकों को अधिकार देना"
+  ],
+  "answer": 1,
+  "exp_hi": "संविधान का उद्देश्य समाज की संरचनाओं को अपरिवर्तित रखना नहीं है — वह स्वयं को स्थैतिक नहीं रखता।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q70"
+ },
+ {
+  "n": 70,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : शैक्षिक संरचना में आकलन सतत किया जाता है। कथन II : आकलन एक ऐसी प्रक्रिया है जिसमें अलग-अलग समय पर कई चीजें की जाती हैं।",
+  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Assessment is made continuously in educational settings. Statement II : Assessment is a process that involves doing a number of things at different times.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं — आकलन सतत प्रक्रिया है जिसमें अलग-अलग समय पर अनेक कार्य किए जाते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q71"
+ },
+ {
+  "n": 71,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। अभिकथन (A) : बाकी विषयों की तरह ही सामाजिक विज्ञान में भी ज्ञान का सृजन करने के लिए बच्चों का सक्रिय जुड़ाव होना चाहिए। तर्क (R) : सक्रिय जुड़ाव का अर्थ शरीर एवं दिमाग का गतिविधियों के साथ जुड़ाव है।",
+  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : Like other subjects, in Social Science also learners need to be actively engaged in order to construct their own knowledge. Reason (R) : Active engagement refers to engagement of body and mind.",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है परन्तु (R) गलत है।",
+   "(A) गलत है परन्तु (R) सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — सक्रिय जुड़ाव से ही ज्ञान का सृजन होता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q72"
+ },
+ {
+  "n": 72,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। कथन I : राजनीति शास्त्र परिवर्तन का परिचायक है जिसमें सत्ता की प्रभुतासंपन्न संरचनाएँ और सामाजिक बलों द्वारा उनके विरोध की प्रक्रियाएँ शामिल हैं। कथन II : राजनीति शास्त्र एक ऐसे सभ्य समाज की कल्पना करता है जो अधिक संवेदनशील, अवगत और उत्तरदायी नागरिकों का निर्माण कर सके।",
+  "q_en": "Below are two statements. Read them carefully and choose the correct answer with the help of given options : Statement I : Political Science suggests dynamism that engages with processes that produces structures of domination and their contestations by social forces. Statement II : Political Science imagines civil society as the sphere where more informed, receptive and responsible citizens could be produced.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं — राजनीति शास्त्र प्रभुत्व की संरचनाओं, उनके विरोध और जागरूक नागरिक निर्माण से जुड़ा है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q73"
+ },
+ {
+  "n": 73,
+  "subject": "Social Studies",
+  "q_hi": "आप अपनी कक्षा में मथुरा (मथुरा शैली ) और तक्षशिला (गांधार शैली) में बनी बुद्ध की प्रतिमाओं में अंतर के बारे में बच्चों को अवगत करवाना चाहते हैं, इसके लिए सबसे उपयुक्त विधि होगी :",
+  "q_en": "If you want to introduce your students about the difference between the Buddha statues made in Mathura (Mathura style) and Takshashila (Gandhara style), the most appropriate method would be :",
+  "options": [
+   "पाठ्यपुस्तक में दी गई तस्वीर पर आधारित चर्चा",
+   "राष्ट्रीय संग्रहालय की यात्रा करवाना",
+   "उपर्युक्त शैलियों पर आधारित पॉवर पॉइंट प्रेजेंटेशन की प्रस्तुति",
+   "एक वास्तुकार के साथ साक्षात्कार"
+  ],
+  "answer": 0,
+  "exp_hi": "दो शैलियों की मूर्तियों का अंतर पाठ्यपुस्तक में दिए गए चित्र पर चर्चा करके सबसे उपयुक्त ढंग से समझाया जा सकता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q74"
+ },
+ {
+  "n": 74,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कौन से प्रबंध सामाजिक न्याय को प्रोन्नत नहीं करते ?",
+  "q_en": "Which of the following provisions does not promote social justice ?",
+  "options": [
+   "सरकारी विद्यालयों में लड़कियों के लिए विशेष योजनाएँ",
+   "विशेष पुलिस थाने",
+   "समान कार्य के लिए समान वेतन",
+   "मानव तस्करी पर प्रतिबंध"
+  ],
+  "answer": 1,
+  "exp_hi": "विशेष पुलिस थाने सामाजिक न्याय को प्रोन्नत करने वाला प्रबंध नहीं हैं; शेष तीनों विकल्प न्याय को बढ़ावा देते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q75"
+ },
+ {
+  "n": 75,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : अभिकथन (A) : भारत में, सामाजिक विज्ञान को लड़कों की अपेक्षा लड़कियों के पढ़ने से ज्यादा जोड़ा जाता है। तर्क (R) : सामाजिक विज्ञान को लेकर इस प्रकार का दृष्टिकोण एक तरह से पितृसत्तात्मक और लैंगिक भेदभाव रखने वाले समाज का द्योतक है।",
+  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : In India, studying Social Science is associated more with girls than boys. Reason (R) : This type of approach to Social Sciences is indicative of a ‘patriarchal and gender biased’ society.",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है परन्तु (R) गलत है।",
+   "(A) गलत है परन्तु (R) सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — सामाजिक विज्ञान को लड़कियों से जोड़ना ही पितृसत्तात्मक सोच का द्योतक है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q76"
+ },
+ {
+  "n": 76,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। अभिकथन (A) : परीक्षण (टेस्ट) आंकलन का एक रूप है। तर्क (R) : यह प्रश्न का उत्तर देता है, या तो दूसरों की तुलना में या प्रदर्शन कार्यों के एक ज्ञानक्षेत्र की तुलना में।",
+  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : A test is a form of assessment. Reason (R) : It answers the question, either in comparison with others or in comparison with a domain of performance task.",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है परन्तु (R) गलत है।",
+   "(A) गलत है परन्तु (R) सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — परीक्षण आंकलन का वह रूप है जो प्रदर्शन की तुलना करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q77"
+ },
+ {
+  "n": 77,
+  "subject": "Social Studies",
+  "q_hi": "सरकार की आरोग्य अनुरक्षण प्रदान करने के उत्तरदायित्व के विषय में अपनी कक्षा में शिक्षण करते हुए, आपने विद्यार्थियों के दो समूहों में इस विषय पर चर्चा/वाद विवाद करवाने का निर्णय लिया कि देश में आरोग्य अनुरक्षण तंत्र भली भाँति कार्य कर रहा है या नहीं ? कक्षा में वाद विवाद आयोजित करने का निम्नलिखित में से क्या एक वांछनीय लक्ष्य नहीं है ?",
+  "q_en": "While teaching your class about the government’s responsibility of providing healthcare, you decide to conduct a debate between two groups of students on whether the healthcare system in the country is functioning properly or not. Which of the following is not a desirable goal of organizing a classroom debate ?",
+  "options": [
+   "कक्षा में विद्यार्थी की आविष्टता और सहभागिता को बढ़ावा देना।",
+   "अपने दावों के लिए समर्थित प्रमाणों के उपयोग में विद्यार्थियों को प्रशिक्षित करना।",
+   "किसी विषय को विभिन्न परिप्रेक्ष्यों में देखने की विद्यार्थियों की योग्यताओं को बेहतर करना।",
+   "विद्यार्थियों को प्रतियोगी बनने और किसी भी मूल्य पर जीतने का प्रशिक्षण देना।"
+  ],
+  "answer": 3,
+  "exp_hi": "विद्यार्थियों को प्रतियोगी बनाकर किसी भी मूल्य पर जीतना सिखाना वाद-विवाद का वांछनीय लक्ष्य नहीं है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q78"
+ },
+ {
+  "n": 78,
+  "subject": "Social Studies",
+  "q_hi": "वैश्विक प्रतिस्पर्धा की चुनौतियों का सामना करने के लिए सामाजिक विज्ञान शिक्षा के राष्ट्रीय मानकों में सुधार के लिए निम्नलिखित में से किस पद्धति का उपयोग किया जा सकता है ? (a) अधिगम परिणामों का निर्धारण करना। (b) नवाचारी और बेहतर मूल्यांकन उपकरणों का विकास करना। (c) केंद्रीकृत, मानकीकृत और एकल पाठ्यक्रम का निर्माण करना। (d) श्रव्य-दृश्य और मल्टीमिडिया आधारित संवादात्मक अध्ययन सामग्री का निर्माण करना।",
+  "q_en": "Which of the following methods may be used for improving the national standards of Social Science education to meet the challenges of global competition ? (a) Identifying learning outcomes. (b) Developing innovative and improved evaluation tools. (c) Designing centralized, standardized and singular courses. (d) Developing audio-visual and multimedia based interactive study material.",
+  "options": [
+   "(a), (b), (c)",
+   "(b), (c), (d)",
+   "(a), (c), (d)",
+   "(a), (b), (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "अधिगम परिणामों का निर्धारण, बेहतर मूल्यांकन उपकरण और मल्टीमिडिया सामग्री मानक सुधारेंगे; केंद्रीकृत एकल पाठ्यक्रम नहीं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q79"
+ },
+ {
+  "n": 79,
+  "subject": "Social Studies",
+  "q_hi": "परीक्षण के संदर्भ में निम्न में से क्या सही है/हैं ? (a) यह किसी विशेष विषय से संबंधित कौशल पर किया जाता है। (b) यह आमतौर पर प्रश्नों के समूह को एकसार रूप से प्रस्तुत करके किया जाता है। (c) यह किसी विशेष सामग्री या विषय के बारे में छात्रों की समझ को मापने के लिए एक अव्यवस्थित प्रक्रिया है।",
+  "q_en": "Which of the following is/are correct in the context of testing ? (a) It is carried out on skills related to a particular subject. (b) It is usually done by posing a set of questions in a uniform manner. (c) It is an unsystematic procedure for measuring the students’ understanding of a particular content or subject.",
+  "options": [
+   "केवल (a)",
+   "केवल (c)",
+   "केवल (a) और (b)",
+   "केवल (b) और (c)"
+  ],
+  "answer": 2,
+  "exp_hi": "परीक्षण के बारे में (a) और (b) सही हैं; यह एक व्यवस्थित प्रक्रिया है, अव्यवस्थित नहीं — अतः (c) गलत है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q80"
+ },
+ {
+  "n": 80,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : सामाजिक (अध्ययन) विज्ञान आधुनिक भारत के आधिकारिक पाठ्यक्रम का हिस्सा गाँधीजी के बुनियादी शिक्षा कार्यक्रम के साथ ही बना। कथन II : माध्यमिक शिक्षा आयोग ने सामाजिक (अध्ययन) विज्ञान विषय को अखिल भारतीय स्तर पर आधिकारिक मान्यता प्रदान की।",
+  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Social (Studies) Science became part of the official curriculum in modern India only with the Basic Education programme of Gandhiji. Statement II : The Secondary Education Commission provided the official recognition to the subject Social (Studies) Science at an all India level.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन गलत हैं — सामाजिक विज्ञान का पाठ्यक्रम में स्थान और मान्यता का इतिहास इन कथनों से भिन्न है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q81"
+ },
+ {
+  "n": 81,
+  "subject": "Social Studies",
+  "q_hi": "लोकतंत्र या समता को पढ़ाया जाना चाहिए :",
+  "q_en": "Democracy or equity should be taught :",
+  "options": [
+   "सिर्फ इन्हें ज्ञान के क्षेत्रों के रूप में पढ़कर।",
+   "सिर्फ इन्हें कक्षागत प्रक्रिया के रूप में शामिल करके।",
+   "इन्हें ज्ञान के क्षेत्रों के रूप में शामिल करके, न कि इन्हें कक्षा प्रक्रिया का हिस्सा बनाकर।",
+   "इन्हें ज्ञान के क्षेत्रों के साथ-साथ कक्षा प्रक्रिया के रूप में शामिल करके।"
+  ],
+  "answer": 3,
+  "exp_hi": "लोकतंत्र या समता को ज्ञान के क्षेत्रों के रूप में पढ़ाने के साथ-साथ कक्षा प्रक्रिया का हिस्सा बनाकर भी पढ़ाया जाना चाहिए।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q82"
+ },
+ {
+  "n": 82,
+  "subject": "Social Studies",
+  "q_hi": "बाज़ारों पर निम्नलिखित में से कौन से कथन सत्य हैं ? (a) साप्ताहिक बाज़ारों में, वस्तुएँ सस्ते दामों पर उपलब्ध होती हैं क्योंकि दुकानदार इन्हें सीधे उत्पादकों से खरीदते हैं। (b) फोन तथा इंटरनेट से की गई खरीदारी ने स्थानीय/पास-पड़ोस दुकानों को नुकसान पहुँचाया है। (c) स्थायी दुकानों में बेची जाने वाली वस्तुएँ प्रायः महंगी होती हैं क्योंकि दुकानदारों को किराये, बिजली, सरकार की फीस इत्यादि का खर्चा उठाना पड़ता है। विकल्प :",
+  "q_en": "Which of the following statements on markets are true ? (a) In weekly markets, things are available in cheaper rates because the shop owners purchase directly from the producers. (b) Phone and internet shopping have caused losses to the neighbourhood shops. (c) The goods sold in permanent shops are often costly because the shop owners have to bear the expenditure of rent, electricity, government fees etc. Options :",
+  "options": [
+   "केवल (a) और (b)",
+   "केवल (b) और (c)",
+   "केवल (a) और (c)",
+   "(a), (b) और (c)"
+  ],
+  "answer": 3,
+  "exp_hi": "बाज़ारों पर तीनों कथन सत्य हैं — साप्ताहिक बाज़ार सस्ते होते हैं, ऑनलाइन खरीदारी से पड़ोस की दुकानों को नुकसान हुआ और स्थायी दुकानें खर्चों के कारण महंगी होती हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q83"
+ },
+ {
+  "n": 83,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कौन सी कार्रवाई किसी समुदाय के हाशिएकरण को संबोधित करने में सहायक नहीं होगी ?",
+  "q_en": "Which of the following actions would not be helpful in addressing the marginalisation of certain community ?",
+  "options": [
+   "सामाजिक आंदोलन",
+   "सरकारी नीति",
+   "मुख्य धारा में समाहितीकरण",
+   "सांस्कृतिक विविधता का रक्षण"
+  ],
+  "answer": 2,
+  "exp_hi": "मुख्य धारा में समाहितीकरण हाशिएकरण को दूर करने में सहायक नहीं होता।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q84"
+ },
+ {
+  "n": 84,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : अभिकथन (A) : पारम्परिक सामाजिक विज्ञान शिक्षण, बच्चे के वास्तविक जीवन के अनुभवों का कोई संदर्भ दिए बगैर, समाजों और कालों के बारे में सीखने पर जोर देता है। तर्क (R) : ‘सामाजिक विज्ञान के तथ्यों’ को सामाजिक जाँच-पड़ताल की प्रक्रियाओं में बदलना पाठ्यपुस्तकों (NCF - 2005 पर आधारित) का एक प्रमुख मजबूत पहलू रहा है।",
+  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : Conventional Social Science teaching emphasizes learning about societies and times without reference to the child’s actual lived experiences. Reason (R) : Converting sets of ‘Social Science facts’ into processes of social inquiry has been a major strength of the texts (based on NCF - 2005).",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है परन्तु (R) गलत है।",
+   "(A) गलत है परन्तु (R) सही है।"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों कथन सही हैं परंतु (R), (A) की सही व्याख्या नहीं करता।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q85"
+ },
+ {
+  "n": 85,
+  "subject": "Social Studies",
+  "q_hi": "भारत में प्रतिनिधिक लोकतंत्र के संदर्भ में निम्नलिखित में से क्या सत्य है ?",
+  "q_en": "Which of the following is true in context of representative democracy in India ?",
+  "options": [
+   "लोगों द्वारा मताधिकार का प्रयोग",
+   "लोगों की सीधी/प्रत्यक्ष सहभागिता",
+   "प्रतिनिधियों की अप्रत्यक्ष सहभागिता",
+   "दोहरी नागरिकता"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रतिनिधिक लोकतंत्र में लोग मताधिकार का प्रयोग करके अपने प्रतिनिधि चुनते हैं — यही सत्य है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q86"
+ },
+ {
+  "n": 86,
+  "subject": "Social Studies",
+  "q_hi": "निम्न में से क्या सामाजिक विज्ञान की कक्षा में एक बेहतर पठन-पाठन परिवेश के निर्माण में सहायक होगी ? (a) संदर्भ पुस्तकालयों का निर्माण (b) लचीले स्कूल समय का निर्माण (c) केवल प्रसार तकनीक तक पहुँच (d) क्षेत्रीय भाषाओं में पठन सामग्री का निर्माण",
+  "q_en": "Which of the following will help in developing better teaching learning environment in Social Science classrooms ? (a) Development of reference libraries. (b) Creation of flexible school timings. (c) Accessibility to disseminative technologies only. (d) Development of study material in regional languages.",
+  "options": [
+   "(a), (b), (c)",
+   "(b), (c), (d)",
+   "(a), (c), (d)",
+   "(a), (b), (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "संदर्भ पुस्तकालय, लचीला स्कूल समय और क्षेत्रीय भाषाओं की अध्ययन सामग्री बेहतर परिवेश बनाएँगे; केवल प्रसार तकनीक तक पहुँच पर्याप्त नहीं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q87"
+ },
+ {
+  "n": 87,
+  "subject": "Social Studies",
+  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : ऐसी कक्षा में समता एवं लोकतंत्र को बढ़ावा देने में आसानी होगी जिसमें अध्यापिका बच्चों को प्रश्न नहीं पूछने देती। कथन II : ऐसी कक्षा में समता एवं लोकतंत्र को बढ़ावा देने में समस्या होगी जिसमें विभिन्न विचारों को चर्चा एवं वाद-विवाद के लिए प्रोत्साहित किया जाता हो।",
+  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : It would be easy to promote equity and democracy through a classroom where teachers do not allow children to ask question. Statement II : It would be difficult to promote equity and democracy through a classroom where varying opinions are encouraged to be voiced and debated.",
+  "options": [
+   "कथन I और कथन II दोनों सही हैं।",
+   "कथन I और कथन II दोनों गलत हैं।",
+   "कथन I सही है परन्तु कथन II गलत है।",
+   "कथन I गलत है परन्तु कथन II सही है।"
+  ],
+  "answer": 1,
+  "exp_hi": "दोनों कथन गलत हैं — प्रश्न पूछने देने और विभिन्न विचारों पर बहस से ही समता व लोकतंत्र को बढ़ावा मिलता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q88"
+ },
+ {
+  "n": 88,
+  "subject": "Social Studies",
+  "q_hi": "सामाजिक विज्ञान की पाठ्यपुस्तकों में समुदाय में “लोगों के अनेकत्व' से जुड़े अनुभवों को साझा करना जरूरी है क्योंकि :",
+  "q_en": "It is important to share examples of ‘plurality of people’ in a community in the Social Science textbooks because :",
+  "options": [
+   "यह समुदाय के अतिसरलीकरण को सुनिश्चित करता है।",
+   "यह समुदाय के ठप्पाकरण को सुनिश्चित करता है।",
+   "यह समुदाय के संबंध में निर्णय लेने या धारणा सुनिश्चित करने में मदद करता है।",
+   "यह स्थानीय समुदाय के चित्र निर्माण में मदद करता है।"
+  ],
+  "answer": 3,
+  "exp_hi": "लोगों के अनेकत्व के उदाहरण साझा करने से स्थानीय समुदाय के चित्र निर्माण में मदद मिलती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q89"
+ },
+ {
+  "n": 89,
+  "subject": "Social Studies",
+  "q_hi": "भारतीय संविधान की निम्नलिखित में से कौन सी विशिष्टता विधानमण्डल और कार्यपालिका को न्यायपालिका के कार्य में हस्तक्षेप करने की अनुमति नहीं देती ?",
+  "q_en": "Which of the following feature of the Indian Constitution does not allow the legislature and the executive to interfere in the work of the judiciary ?",
+  "options": [
+   "स्वतंत्रता का अधिकार",
+   "शोषण के विरूद्ध अधिकार",
+   "संघवाद",
+   "शक्तियों का पृथक्करण"
+  ],
+  "answer": 3,
+  "exp_hi": "शक्तियों का पृथक्करण ही विधानमण्डल और कार्यपालिका को न्यायपालिका के कार्य में हस्तक्षेप से रोकता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q90"
+ },
+ {
+  "n": 90,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: 'लिख' में कौन-सा प्रत्यय लगाकर सार्थक शब्द बनाया जा सकता है ?",
+  "q_en": "Which suffix can be added to 'लिख' to form a meaningful word?",
+  "options": [
+   "आवट",
+   "आरी",
+   "आनी",
+   "आहट"
+  ],
+  "answer": 0,
+  "exp_hi": "'लिख' में 'आवट' प्रत्यय लगने से 'लिखावट' सार्थक शब्द बनता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q91"
+ },
+ {
+  "n": 91,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: गद्यांश के अनुसार किताब का सबसे पहला स्वरूप कौन-सा है ?",
+  "q_en": "According to the passage, which is the earliest form of a book?",
+  "options": [
+   "मशीन से छपी किताब।",
+   "ताल के पत्तों पर लिखी किताब।",
+   "पपाइरस पर मशीन से छपी किताब।",
+   "पपाइरस पर हाथ से लिखी किताब।"
+  ],
+  "answer": 3,
+  "exp_hi": "गद्यांश के अनुसार किताब की शुरुआत ताल के पत्तों पर लिखकर, उन्हें धागों से बाँधने के साथ हुई।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q92"
+ },
+ {
+  "n": 92,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: किन लोगों को ताल पत्तों पर चित्रकारी करने का काम दिया जाता था ?",
+  "q_en": "Which people were given the work of painting on palm leaves?",
+  "options": [
+   "जिन्हें छपाई का काम आता था।",
+   "जिन्हें ताल पत्तों की पहचान थी।",
+   "जिनकी चित्रकारी बहुत सुंदर थी।",
+   "जिनकी लिखावट बहुत सुंदर थी।"
+  ],
+  "answer": 2,
+  "exp_hi": "गद्यांश के अनुसार सुंदर चित्रकारी करने वालों को ही ताल पत्तों पर चित्र बनाने का काम दिया जाता था।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q93"
+ },
+ {
+  "n": 93,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: पपाइरस नाम का पौधा किस काम आता था ?",
+  "q_en": "What was the papyrus plant used for?",
+  "options": [
+   "छपाई की मशीन बनाने के लिए।",
+   "पतला कागज बनाने के लिए।",
+   "स्याही बनाने के लिए।",
+   "वस्त्र बनाने के लिए।"
+  ],
+  "answer": 1,
+  "exp_hi": "मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता था।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q94"
+ },
+ {
+  "n": 94,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: भिन्न वाक्य की पहचान करें।",
+  "q_en": "Identify the odd sentence.",
+  "options": [
+   "किताब की कोई कल्पना नहीं होती।",
+   "किताब की शुरुआत हुई ताल के पत्तों पर लिखकर उन्हें बाँधने से।",
+   "समस्त संसार किताबें पढ़ता है।",
+   "किताबें मशीन से छपने लगीं।"
+  ],
+  "answer": 2,
+  "exp_hi": "'समस्त संसार किताबें पढ़ता है' वाक्य गद्यांश की बातों से भिन्न है, अतः यही भिन्न वाक्य है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q95"
+ },
+ {
+  "n": 95,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: पतले कागजों पर किस लिपि में लिखा जाता था ?",
+  "q_en": "In which script was writing done on the thin papers?",
+  "options": [
+   "हाइरोग्लाइफ",
+   "देवनागरी",
+   "रोमन",
+   "ब्राह्मी"
+  ],
+  "answer": 0,
+  "exp_hi": "गद्यांश के अनुसार पतले कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q96"
+ },
+ {
+  "n": 96,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: सामान्यतः मनुष्य का किताब से परिचय किस अवस्था में होने लगता है ?",
+  "q_en": "Generally, at what stage does a person begin to get acquainted with books?",
+  "options": [
+   "विद्यालयी शिक्षा प्रारंभ होने पर।",
+   "जीवन के शुरुआती एक-दो वर्ष के बाद।",
+   "किशोरावस्था तक आते-आते।",
+   "लगभग तीन वर्ष की अवस्था में।"
+  ],
+  "answer": 1,
+  "exp_hi": "गद्यांश के अनुसार शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती, उसके बाद परिचय होने लगता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q97"
+ },
+ {
+  "n": 97,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: कौन-सा शब्द समूह से भिन्न है ?",
+  "q_en": "Which word pair is different from the group?",
+  "options": [
+   "पतले - पतले",
+   "धीरे - धीरे",
+   "ऊँचे - ऊँचे",
+   "ऊँचे - नीचे"
+  ],
+  "answer": 3,
+  "exp_hi": "'ऊँचे-नीचे' में दो भिन्न शब्द हैं, जबकि अन्य समूहों में एक ही शब्द की पुनरावृत्ति है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q98"
+ },
+ {
+  "n": 98,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: ताल पत्तों को किताब का स्वरूप देने के लिए कौन-से लोग लिख सकते थे ?",
+  "q_en": "Which people could write on palm leaves to give them the form of a book?",
+  "options": [
+   "जिनका हस्तलेखन बहुत सुंदर था।",
+   "जिनके विचार बहुत सुंदर थे।",
+   "जिनकी चित्रकारी बहुत सुंदर थी।",
+   "जिनके पास सुंदर ताल पत्र थे।"
+  ],
+  "answer": 0,
+  "exp_hi": "ताल पत्तों पर केवल वे लोग लिख सकते थे जिनकी लिखाई (हस्तलेखन) बहुत सुंदर होती थी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q99"
+ },
+ {
+  "n": 99,
+  "subject": "Hindi",
+  "q_hi": "कविता: यह धरती कितना देती है! धरती माता कितना देती है अपनी संतान को! नहीं समझ पाया था मैं उसके महत्त्व को! बचपन में, छिः, स्वार्थ लोभवश पैसे बोकर! रत्न प्रसविनी है वसुधा, अब समझ सका हूँ! इसमें सच्ची समता के दाने बोने हैं, इसमें जन की क्षमता के दाने बोने हैं, इसमें मानव ममता के दाने बोने हैं, जिससे उगल सके फिर धूल सुनहली फसलें मानवता की – जीवन श्रम से हँसें दिशाएँ हम जैसा बोएँगे वैसा ही पाएँगे। प्रश्न: 'वसुधा' का समानार्थी है :",
+  "q_en": "What is the synonym of 'वसुधा'?",
+  "options": [
+   "अंबा",
+   "समीर",
+   "सरिता",
+   "धरा"
+  ],
+  "answer": 3,
+  "exp_hi": "'वसुधा' का समानार्थी 'धरा' है — दोनों का अर्थ पृथ्वी है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q100"
+ },
+ {
+  "n": 100,
+  "subject": "Hindi",
+  "q_hi": "कविता: यह धरती कितना देती है! धरती माता कितना देती है अपनी संतान को! नहीं समझ पाया था मैं उसके महत्त्व को! बचपन में, छिः, स्वार्थ लोभवश पैसे बोकर! रत्न प्रसविनी है वसुधा, अब समझ सका हूँ! इसमें सच्ची समता के दाने बोने हैं, इसमें जन की क्षमता के दाने बोने हैं, इसमें मानव ममता के दाने बोने हैं, जिससे उगल सके फिर धूल सुनहली फसलें मानवता की – जीवन श्रम से हँसें दिशाएँ हम जैसा बोएँगे वैसा ही पाएँगे। प्रश्न: 'रत्न प्रसविनी' का क्या अर्थ है ?",
+  "q_en": "What is the meaning of 'रत्न प्रसविनी'?",
+  "options": [
+   "रत्नों को धारण करना।",
+   "रत्नों का क्रय-विक्रय करना।",
+   "रत्नों का संरक्षण करना।",
+   "रत्नों को जन्म देना।"
+  ],
+  "answer": 3,
+  "exp_hi": "'प्रसविनी' का अर्थ है जन्म देने वाली, अतः 'रत्न प्रसविनी' का अर्थ है रत्नों को जन्म देने वाली।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q101"
+ }
+]

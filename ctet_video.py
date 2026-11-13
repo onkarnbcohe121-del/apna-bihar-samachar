@@ -32,6 +32,10 @@ TELEGRAM_URL = "https://t.me/ApnaBiharSamachar"
 INSTAGRAM_URL = "https://www.instagram.com/apnabiharsamacharlive"
 TOPICS_LINE = ("Child Development & Pedagogy, Hindi, English, Mathematics, "
                "Environmental Studies (EVS)")
+TOPICS_LINES = {1: TOPICS_LINE,
+                2: "Child Development & Pedagogy, Social Studies, Hindi"}
+NEXT_LINE = {1: "अगला Mock Test — रोज़ दोपहर 12 बजे",
+             2: "अगला Mock Test — रोज़ शाम 6:30 बजे"}
 CLASSES_LINE = {1: "Class 1 to 5", 2: "Class 6 to 8"}
 
 MOCK_ENV = os.environ.get("MOCK_FILE", "").strip()
@@ -140,6 +144,18 @@ def speech_fix(text):
     return re.sub(r"(?<![\d])(1[1-9]\d{2})(?![\d])", _year_words, t)
 
 
+ROMAN_MARKERS = {"i": "एक", "ii": "दो", "iii": "तीन", "iv": "चार", "v": "पाँच",
+                 "vi": "छह", "vii": "सात", "viii": "आठ", "ix": "नौ", "x": "दस"}
+_ROMAN_RE = re.compile(r"\((viii|vii|iii|vi|iv|ix|ii|x|v|i)\)", re.IGNORECASE)
+
+def _roman_marker_fix(text):
+    """Kathan wale (i)/(ii)/(iii) marker ko bolne me number-shabd banao —
+    warna awaaz (iii) ko 'i i i' akshar-akshar padhti hai. Sirf TTS wale
+    text par lagta hai; slide par (iii) vaisa hi dikhega. Bina bracket ke
+    Roman akshar (jaise English 'I') bilkul nahi chhute."""
+    return _ROMAN_RE.sub(lambda m: ROMAN_MARKERS[m.group(1).lower()], text)
+
+
 try:
     import live_tts
 except Exception:
@@ -192,6 +208,7 @@ def _live_synth(text, out):
         raise RuntimeError("Live-Leda output khaali hai")
 
 async def tts(text, out):
+    text = _roman_marker_fix(text)
     if _ROUTE["mode"] != "swara":
         try:
             await asyncio.to_thread(_live_synth, text, out)
@@ -256,7 +273,7 @@ def make_desc(mock, total):
         f"explanations, for CTET Paper {paper} ({CLASSES_LINE[paper]}) aspirants. "
         f"A new mock test video comes every day.\n"
         f"\n"
-        f"Topics covered: {TOPICS_LINE}.\n"
+        f"Topics covered: {TOPICS_LINES.get(paper, TOPICS_LINE)}.\n"
         f"\n"
         f"CTET Paper {paper} Mock Test Series - Full Playlist: {playlist_url}\n"
         f"Channel: {CHANNEL_URL}\n"
@@ -479,13 +496,13 @@ def thumbnail_slide(mock, total):
     center(d, "CTET Mock Test Series", 622, 30, False, (190, 205, 240))
     return img
 
-def outro_slide():
+def outro_slide(paper=1):
     img, d = base_slide()
     center(d, "धन्यवाद!", 150, 60, True, (255, 153, 51))
     center(d, "CTET Mock Test Series की पूरी Playlist देखें", 255, 36, False, (255, 255, 255))
     center(d, "Like करें — Subscribe करें", 330, 40, True, (124, 252, 154))
     center(d, "Apna Bihar Samachar Live — @ApnaBiharSamacharLive", 415, 36, True, (255, 153, 51))
-    center(d, "अगला Mock Test — रोज़ दोपहर 12 बजे", 480, 30, False, (200, 215, 250))
+    center(d, NEXT_LINE.get(paper, NEXT_LINE[1]), 480, 30, False, (200, 215, 250))
     return img
 
 # ---------------- Segments ----------------
@@ -526,7 +543,7 @@ async def build(mock, workdir):
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 
-    p = os.path.join(workdir, "outro.png"); outro_slide().save(p)
+    p = os.path.join(workdir, "outro.png"); outro_slide(paper).save(p)
     a = os.path.join(workdir, "outro.mp3")
     await tts("धन्यवाद। अगर वीडियो पसंद आया हो तो लाइक ज़रूर करें, और सीटेट मॉक टेस्ट "
               "सीरीज़ के बाकी वीडियो playlist में देखें। रोज़ ऐसे ही वीडियो के लिए "

@@ -1,0 +1,752 @@
+[
+ {
+  "n": 1,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : यदि बच्चों के शारीरिक विकास में देरी होती है तो उनका सामाजिक और भावनात्मक विकास प्रभावित होता है। कारण (R) : बच्चों के विकास में विकासात्मक निरंतरता है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : If physical development of children is delayed then their social and emotional development gets affected. Reason (R) : There is developmental continuity in the course of children’s development. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "विकास के सभी आयाम परस्पर जुड़े होते हैं, इसलिए शारीरिक विकास की देरी सामाजिक-भावनात्मक विकास को भी प्रभावित करती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q1"
+ },
+ {
+  "n": 2,
+  "subject": "Child Development",
+  "q_hi": "जीन पियाजे के अनुसार संज्ञानात्मक विकास :",
+  "q_en": "According to Jean Piaget, cognitive development :",
+  "options": [
+   "जानकारी के मौजूदा भंडार में नए तथ्यों और विचारों का सरल जोड़ है।",
+   "भाषा क्षमताओं के विकास पर निर्भर है।",
+   "सांस्कृतिक उपकरणों का उपयोग करने की योग्यता प्राप्त करने की प्रक्रिया है।",
+   "किसी के स्कीमा को बदलकर पर्यावरण के अनुकूलन की प्रक्रिया है।"
+  ],
+  "answer": 3,
+  "exp_hi": "पियाजे के अनुसार बच्चा पर्यावरण से अंतःक्रिया कर अपनी स्कीमाओं को बदलकर (अनुकूलन द्वारा) संज्ञानात्मक विकास करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q2"
+ },
+ {
+  "n": 3,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : शिक्षकों को विद्यार्थियों के बीच सहयोग, समूह कार्य और अंतःक्रिया करने से बचना चाहिए। कारण (R) : सीखना एक निष्क्रिय प्रक्रिया है जो कि रटने और नकल करने के माध्यम से सबसे प्रभावी ढंग से होता है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Teachers should avoid collaborations, group work and interactions among students. Reason (R) : Learning is a passive process and occurs most effectively through memorization and imitation. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 3,
+  "exp_hi": "अभिकथन और कारण दोनों गलत हैं — सीखना एक सक्रिय प्रक्रिया है और सहयोग व समूह कार्य अधिगम को बढ़ावा देते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q3"
+ },
+ {
+  "n": 4,
+  "subject": "Child Development",
+  "q_hi": "किशोरावस्था के दौरान लम्बाई और वजन में बढ़त जो आमतौर पर यौन परिपक्वता से पहले होती है, क्या कहलाती है ?",
+  "q_en": "Rapid increase in height and weight during adolescence that usually precedes sexual maturity is referred to as :",
+  "options": [
+   "वृद्धि में तेज़ी",
+   "विकासात्मक प्रकार्य",
+   "मासिक धर्म",
+   "यौवन"
+  ],
+  "answer": 0,
+  "exp_hi": "किशोरावस्था में यौन परिपक्वता से पहले लम्बाई-वज़न में होने वाली तीव्र वृद्धि 'वृद्धि में तेज़ी' (ग्रोथ स्पर्ट) कहलाती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q4"
+ },
+ {
+  "n": 5,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : मतभेदों के बारे में बात करते समय उन अभिव्यक्तियों का उपयोग करना चाहिए जो व्यक्ति को आगे रखती हैं बजाए उनके अंतर को – जैसे ‘विकलांग छात्र’ के बजाय ‘छात्र जो विकलांग है’। कारण (R) : विभिन्न आवश्यकताओं वाले शिक्षार्थियों के बारे में बात करते समय हम जिस भाषा का उपयोग करते हैं, वह परिप्रेक्ष्य और दृष्टिकोण को दर्शाती है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : When talking about differences, expressions that put the person ahead of the difference should be used such as using ‘the student with disabilities’ rather than ‘the disabled student’. Reason (R) : The language we use when talking about learners with differing needs shapes the perspective and attitudes. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "व्यक्ति-प्रथम भाषा सम्मानजनक होती है और भाषा ही दृष्टिकोण बनाती है, अतः दोनों कथन सही हैं और कारण सही व्याख्या है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q5"
+ },
+ {
+  "n": 6,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : माध्यमिक विद्यालयों के बच्चों को दैनिक/साप्ताहिक आधार पर अपनी भावनाओं के बारे में लिखने और उन पर चिंतन करने के लिए प्रोत्साहित किया जाना चाहिए। कारण (R) : अपनी भावनाओं को समझना एक संज्ञानात्मक प्रक्रिया है जो क्रिया को सुसाधित करती है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Children in middle schools should be encouraged to write about their emotions on a daily/weekly basis and reflect upon them. Reason (R) : Understanding one’s emotions is a cognitive process that can lead to action. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "भावनाओं को लिखकर चिंतन करना भावनात्मक समझ विकसित करता है, अतः दोनों कथन सही हैं और कारण सही व्याख्या है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q6"
+ },
+ {
+  "n": 7,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सी समस्या-समाधान की एक प्रभावी रणनीति नहीं है ?",
+  "q_en": "Which of the following is not an effective strategy in problem-solving ?",
+  "options": [
+   "पैटर्न और संबंधों को पहचानना",
+   "समस्याओं को हल करने के लिए तार्किक तर्कशक्ति का प्रयोग करना",
+   "प्रासंगिक जानकारी को अनदेखा करना",
+   "जटिल समस्याओं को सरल भागों में विभाजित करना"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रासंगिक जानकारी को अनदेखा करना समस्या-समाधान में बाधा है, प्रभावी रणनीति नहीं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q7"
+ },
+ {
+  "n": 8,
+  "subject": "Child Development",
+  "q_hi": "पियाजे के अनुसार जब बच्चे निगमन के बारे में सोच कर और उन्हें अपने दिमाग में परीक्षण करके सामान्यीकरण करने और मानसिक परीक्षण और प्रयत्न त्रुटि विधि में संलग्न होने में सक्षम होने के बिंदु तक पहुँच जाते हैं, तो वे किस अवस्था में होते हैं ?",
+  "q_en": "According to Piaget when children reach the point of being able to generalize and engage in mental trial and error by thinking up hypothesis and testing them in their heads they are in :",
+  "options": [
+   "संवेदी चालक अवस्था",
+   "पूर्व-संक्रियात्मक अवस्था",
+   "मूर्त संक्रियात्मक अवस्था",
+   "औपचारिक संक्रियात्मक अवस्था"
+  ],
+  "answer": 3,
+  "exp_hi": "परिकल्पना बनाकर मानसिक रूप से परीक्षण करना औपचारिक संक्रियात्मक अवस्था की विशेषता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q8"
+ },
+ {
+  "n": 9,
+  "subject": "Child Development",
+  "q_hi": "विद्यार्थी कुशलतापूर्वक और सार्थक तरीके से तब सीखते हैं जब :",
+  "q_en": "Students learn efficiently and in meaningful ways when :",
+  "options": [
+   "विषय-वस्तु को उन्हें जानकारी के असंगत टुकड़ों के रूप में प्रस्तुत किया जाता है।",
+   "निपुणता हासिल करने के बजाय असफलता से बचने पर ध्यान दिया जाता है।",
+   "नई अवधारणा पहले सीखी गई विषय-वस्तु से पूरी तरह से अलग होती है।",
+   "उनकी प्रतिक्रियाओं और व्यक्तिपरक अनुभवों पर ध्यान दिया जाता है और महत्व दिया जाता है।"
+  ],
+  "answer": 3,
+  "exp_hi": "जब विद्यार्थियों की प्रतिक्रियाओं और अनुभवों को महत्व मिलता है तो अधिगम सार्थक और कुशल होता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q9"
+ },
+ {
+  "n": 10,
+  "subject": "Child Development",
+  "q_hi": "कोहलबर्ग के अनुसार बहुत छोटे बच्चों की नैतिक तर्कशक्ति किस नैतिकता के इर्द-गिर्द घूमती है ?",
+  "q_en": "According to Lawrence Kohlberg around which ethics do very young children’s moral reasoning revolve ?",
+  "options": [
+   "अहंकार की नैतिकता",
+   "देखभाल की नैतिकता",
+   "दूसरों का परिप्रेक्ष्य लेने की नैतिकता",
+   "कानूनों की नैतिकता"
+  ],
+  "answer": 0,
+  "exp_hi": "कोहलबर्ग के अनुसार छोटे बच्चों की नैतिकता अहंकेंद्रित होती है — वे अपने दृष्टिकोण से सही-गलत तय करते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q10"
+ },
+ {
+  "n": 11,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : विविधता और समावेशन द्वारा शिक्षण और अधिगम में सुधार होता है। कारण (R) : विविध परिस्थितियों में संवाद में संलग्न होना बच्चों की समालोचनात्मक और रचनात्मक रूप से सोचने की क्षमता में बाधा डालता है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Diversity and inclusion improve teaching and learning. Reason (R) : Engaging in conversations across differences hinders children’s ability to think critically and creatively. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 2,
+  "exp_hi": "विविधता और समावेशन अधिगम सुधारते हैं, जबकि दूसरा कथन गलत है क्योंकि मतभेदों पर संवाद आलोचनात्मक चिंतन बढ़ाता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q11"
+ },
+ {
+  "n": 12,
+  "subject": "Child Development",
+  "q_hi": "कक्षा में शिक्षार्थियों की विविध आवश्यकताओं को पूरा करने के लिए निम्नलिखित में से कौन सी प्रभावी शिक्षण रणनीतियाँ हैं ? (a) विभेदित निर्देश (b) मानकीकृत पाठ्यचर्या (c) व्यक्तिगत शिक्षा योजनाएँ",
+  "q_en": "Which of the following are effective teaching strategies to cater to diverse needs of learners in a classroom ? (a) Differentiated Instruction (b) Standardized Curriculum (c) Individualized Education Plans",
+  "options": [
+   "(a), (b)",
+   "(b), (c)",
+   "(a), (c)",
+   "(a), (b), (c)"
+  ],
+  "answer": 2,
+  "exp_hi": "विविध आवश्यकताओं के लिए विभेदित निर्देश और व्यक्तिगत शिक्षा योजनाएँ प्रभावी हैं, मानकीकृत पाठ्यचर्या नहीं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q12"
+ },
+ {
+  "n": 13,
+  "subject": "Child Development",
+  "q_hi": "संरचनावादी सिद्धांतकारों के अनुसार :",
+  "q_en": "According to constructivist theorists :",
+  "options": [
+   "बच्चों में दुनिया को 'समझने' की स्वाभाविक प्रवृत्ति होती है।",
+   "बच्चे तभी सीखते हैं जब बाहरी रूप से प्रेरित हों।",
+   "बच्चे सबसे अच्छा तब सीखते हैं जब उनके सामने जानकारी अंतिम रूप से पूर्ण रूप में प्रस्तुत की जाती है।",
+   "बच्चों में अनियंत्रित व्यवहार करने की प्रवृत्ति होती है जिसे सुधारने की आवश्यकता होती है।"
+  ],
+  "answer": 0,
+  "exp_hi": "संरचनावाद के अनुसार बच्चों में संसार को स्वयं 'समझने' की स्वाभाविक प्रवृत्ति होती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q13"
+ },
+ {
+  "n": 14,
+  "subject": "Child Development",
+  "q_hi": "प्रभावी समस्या-समाधान के लिए आमतौर पर इस्तेमाल की जाने वाली दो प्रभावी रणनीतियाँ कौन सी हैं ?",
+  "q_en": "Two commonly used strategies for effective problem-solving are :",
+  "options": [
+   "स्वानुभविक और कलन विधि",
+   "स्वानुभविक और कार्यात्मक स्थिरता",
+   "कलन विधि और अनुक्रिया समुच्चय",
+   "स्वानुभविक और अनुक्रिया समुच्चय"
+  ],
+  "answer": 0,
+  "exp_hi": "समस्या-समाधान की दो प्रमुख रणनीतियाँ स्वानुभविक (ह्यूरिस्टिक्स) और कलन विधि (एल्गोरिथ्म) हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q14"
+ },
+ {
+  "n": 15,
+  "subject": "Child Development",
+  "q_hi": "एक शिक्षिका एक पाठ की समझ के अलग-अलग स्तर पर विद्यार्थियों के एक समूह के लिए एक पाठ योजना तैयार कर रही है। लेव वायगोत्स्की के सिद्धांत के अनुसार, इस पाठ योजना को बनाते समय शिक्षिका को निम्नलिखित में से किस बात पर विचार करना चाहिए ?",
+  "q_en": "A teacher is designing a lesson plan for a group of students with varying levels of understanding of a topic. According to Vygotsky’s theory, which of the following should the teacher consider when designing the lesson ?",
+  "options": [
+   "शिक्षिका को प्रत्येक विद्यार्थी से निर्दिष्ट समस्या पर व्यक्तिगत रूप से कार्य करने के लिए कहना चाहिए।",
+   "शिक्षिका को सभी विद्यार्थियों को समान स्तर की चुनौती देनी चाहिए।",
+   "शिक्षिका को प्रत्येक विद्यार्थी के समझ के वर्तमान स्तर को ध्यान में रखते हुए उन्हें अगले स्तर तक पहुँचने में मदद करने के लिए उचित सहायता प्रदान करनी चाहिए।",
+   "शिक्षिका को केवल उन विद्यार्थियों पर ध्यान देना चाहिए जो पहले से ही समझ के एक उन्नत स्तर पर हैं, और उन्हें और अधिक चुनौतीपूर्ण कार्य देना चाहिए।"
+  ],
+  "answer": 2,
+  "exp_hi": "वायगोत्स्की के अनुसार शिक्षिका को बच्चे के वर्तमान स्तर से आगे बढ़ने हेतु उचित सहायता (स्कैफोल्डिंग) देनी चाहिए।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q15"
+ },
+ {
+  "n": 16,
+  "subject": "Child Development",
+  "q_hi": "“पढ़ने में प्रवाह की कमी ', 'शब्दों का प्रत्यावर्तन', ' अन्यमनस्कता की प्रवृत्ति' जैसे विशिष्ट लक्षण किसकी पहचान के लक्षण हैं?",
+  "q_en": "Characteristics such as ‘lacking reading fluency’, ‘reversion of words’, ‘tendency towards distraction’ are typical identifying characteristics of :",
+  "options": [
+   "पठन वैकल्यता",
+   "स्वलीनता स्पेक्ट्रम विकार",
+   "मनोभ्रंश",
+   "ध्यान न्यूनता अतिक्रियाशीलता विकार"
+  ],
+  "answer": 0,
+  "exp_hi": "पढ़ने में अप्रवाह, शब्दों का प्रत्यावर्तन और ध्यान भटकना पठन वैकल्यता (डिस्लेक्सिया) के लक्षण हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q16"
+ },
+ {
+  "n": 17,
+  "subject": "Child Development",
+  "q_hi": "विद्यार्थी एक ऐसे वातावरण में सीखने के लिए अधिक अभिप्रेरित महसूस करते हैं जो सुनिश्चित करता है : (a) अपनापन (b) डर (c) अस्वीकृति (d) सुरक्षा",
+  "q_en": "Students feel more motivated to learn in an environment which ensures : (a) Belongingness (b) Fear (c) Rejection (d) Safety",
+  "options": [
+   "(a), (b)",
+   "(a), (d)",
+   "(b), (c)",
+   "(b), (d)"
+  ],
+  "answer": 1,
+  "exp_hi": "अपनापन और सुरक्षा का वातावरण विद्यार्थियों को सीखने के लिए सबसे अधिक अभिप्रेरित करता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q17"
+ },
+ {
+  "n": 18,
+  "subject": "Child Development",
+  "q_hi": "रूढ़िवादी शिक्षा से प्रगतिशील शिक्षा की ओर बढ़ने के लिए किसकी आवश्यकता है ?",
+  "q_en": "Moving from conservative education towards progressive education requires shift from __________.",
+  "options": [
+   "रचनात्मक आकलन के स्थान पर नैदानिक आकलन का पालन",
+   "एकीकृत पाठ्यक्रम के स्थान पर मानकीकृत पाठ्यक्रम का पालन",
+   "प्रदर्शन-उन्मुख लक्ष्य के स्थान पर दक्षता-उन्मुख लक्ष्य बनाना",
+   "शिक्षक-केंद्रित शिक्षाशास्त्र के स्थान पर परीक्षा-केंद्रित शिक्षाशास्त्र को लागू करना"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रगतिशील शिक्षा में प्रदर्शन-उन्मुख लक्ष्यों के स्थान पर दक्षता-उन्मुख लक्ष्य अपनाए जाते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q18"
+ },
+ {
+  "n": 19,
+  "subject": "Child Development",
+  "q_hi": "नई जानकारी सीखते समय, बच्चों के लिए यह सुनिश्चित करने के लिए कि वे विषय-वस्तु को समझते हैं, निम्नलिखित में से कौन सी एक सहायक रणनीति है ? (a) जानकारी को एक बार फिर से पढ़ना (b) प्रश्न पूछना और स्पष्टीकरण माँगना (c) समझने का नाटक करना (d) अपरिचित शब्दों के लिए अपना अर्थ बनाना",
+  "q_en": "When learning new information, which of the following is a helpful strategy for children to use to ensure they understand the content material ? (a) Rereading the information once (b) Asking questions and seeking clarification (c) Pretending to understand (d) Making up their own meanings for unfamiliar terms",
+  "options": [
+   "(a), (b)",
+   "(a), (c)",
+   "(c), (d)",
+   "(a), (b), (c)"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रश्न पूछना और स्पष्टीकरण माँगना ही समझ सुनिश्चित करने की सहायक रणनीति है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q19"
+ },
+ {
+  "n": 20,
+  "subject": "Child Development",
+  "q_hi": "एक शिक्षक को ऐसे कक्षा वातावरण का निर्माण करना चाहिए जहाँ छात्रों को सीखने की अभिप्रेरणा मुख्य रूप से किस पर केंद्रित हो ?",
+  "q_en": "A teacher should create a classroom culture where students’ motivation to learn is primarily focused to :",
+  "options": [
+   "अज्ञानी दिखने की शर्म से बचने पर",
+   "एक दूसरे के साथ प्रतिस्पर्धा करने पर",
+   "सीखने की प्रक्रिया को समझने व उसकी सराहना करने पर",
+   "दूसरों के सामने अपनी काबिलियत साबित करने पर"
+  ],
+  "answer": 2,
+  "exp_hi": "कक्षा संस्कृति में अभिप्रेरणा का केंद्र सीखने की प्रक्रिया को समझना और उसकी सराहना करना होना चाहिए।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q20"
+ },
+ {
+  "n": 21,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : कहानियों और किताबों में पुरुष पात्रों को अक्सर ताकतवर और साहसी के रूप में प्रस्तुत किया जाता है जबकि महिला पात्रों को स्नेही और संवेदनशील के रूप में दिखाया जाता है। कारण (R) : स्कूल और पाठ्यचर्या जेंडर-भूमिका पहचान को प्रभावित करते हैं क्योंकि वे द्वितीयक सामाजीकरण के शक्तिशाली माध्यम हैं। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Male characters in stories and books are often presented as strong and adventurous while female characters are shown as warm and sensitive. Reason (R) : Schools and curriculum influence gender-role identity as they are powerful agents of secondary socialization. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "विद्यालय द्वितीयक सामाजीकरण के माध्यम से जेंडर-भूमिका पहचान को आकार देते हैं, अतः कारण सही व्याख्या है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q21"
+ },
+ {
+  "n": 22,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : पठन वैकल्य से जूझ रहे बच्चों को ध्वन्यात्मक प्रसंस्करण में परेशानी होती है जिससे शब्दों को डिकोड करना मुश्किल हो जाता है। कारण (R) : सभी बच्चों को उनकी रुचि और क्षमता के क्षेत्रों में प्रोत्साहित किए जाने से लाभ होता है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Children who are struggling with dyslexia have trouble in phonological processing that makes it hard to decode words. Reason (R) : All children benefit from being encouraged in their areas of interest and ability. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 1,
+  "exp_hi": "दोनों कथन सही हैं परंतु कारण, अभिकथन की व्याख्या नहीं करता — दोनों स्वतंत्र सत्य हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q22"
+ },
+ {
+  "n": 23,
+  "subject": "Child Development",
+  "q_hi": "सामाजीकरण की प्रक्रिया में समकक्षियों की क्या भूमिका है ?",
+  "q_en": "What is the role of peers in the socialization process ?",
+  "options": [
+   "समकक्षियों का सामाजीकरण पर कोई बड़ा प्रभाव नहीं है।",
+   "विकास के सभी चरणों में माता-पिता और अन्य वयस्कों की तुलना में समकक्षियों का सामाजीकरण पर बहुत कम प्रभाव पड़ता है।",
+   "समकक्षी बच्चों के सामाजीकरण की प्राथमिक संस्था हैं।",
+   "बचपन की तुलना में किशोरावस्था के दौरान समकक्षियों का सामाजीकरण पर अधिक प्रभाव पड़ता है।"
+  ],
+  "answer": 3,
+  "exp_hi": "समकक्षियों (साथियों) का प्रभाव प्रारंभिक बाल्यावस्था की तुलना में किशोरावस्था में अधिक होता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q23"
+ },
+ {
+  "n": 24,
+  "subject": "Child Development",
+  "q_hi": "सीखने के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है ?",
+  "q_en": "Which of the following statements about learning is not correct ?",
+  "options": [
+   "शिक्षार्थी उस ज्ञान की रचना करते हैं जो उनके लिए मायने रखता है।",
+   "नई सीख वर्तमान समझ पर निर्भर करती है।",
+   "सामाजिक संपर्क सीखने में बाधा डालता है।",
+   "सबसे सार्थक सीख दुनिया के प्रामाणिक कार्यों में होती है।"
+  ],
+  "answer": 2,
+  "exp_hi": "सामाजिक अंतःक्रिया अधिगम में सहायक होती है, बाधा नहीं — अतः यही कथन गलत है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q24"
+ },
+ {
+  "n": 25,
+  "subject": "Child Development",
+  "q_hi": "सीखने के संरचनावादी उपागम के अनुसार, सीखना तब सुगम होता है जब :",
+  "q_en": "As per constructivist approaches of learning, learning is facilitated when :",
+  "options": [
+   "गतिविधियाँ परस्पर संवादात्मक और सहयोगी होती हैं।",
+   "विषय-वस्तु पृथक और उत्केन्द्री होता है।",
+   "शिक्षाशास्त्र शिक्षक-केंद्रित और सांस्कृतिक रूप से पृथक होता है।",
+   "कार्य असंगत और अव्यवस्थित होते हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "संरचनावादी उपागम में अंतःक्रियात्मक और सहयोगी गतिविधियों से अधिगम सुगम होता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q25"
+ },
+ {
+  "n": 26,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : हालाँकि लम्बाई और शारीरिक संरचना मुख्य रूप से विरासत में मिली विशेषताएँ हैं, अच्छे पोषण और व्यायाम से भी इनमें फर्क पड़ता है। कारण (R) : आनुवंशिकता और पर्यावरण की परस्पर अंतःक्रिया का विकास पर प्रभाव पड़ता है। सही विकल्प चुनें :",
+  "q_en": "Assertion (A) : Though height and body build are primarily inherited characteristics, good nutrition and exercise also make a difference. Reason (R) : Heredity and environment interact in their effects on development. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "आनुवंशिकता और पर्यावरण की अंतःक्रिया ही विकास को प्रभावित करती है, अतः कारण सही व्याख्या है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q26"
+ },
+ {
+  "n": 27,
+  "subject": "Child Development",
+  "q_hi": "एक समावेशी कक्षा में अनुकूलन किसमें किया जाना चाहिए ? (a) अधिगम के लक्ष्य में (b) शिक्षण-अधिगम की रणनीतियों में (c) सहायता के प्रावधान में (d) मूल्यांकन में",
+  "q_en": "In an inclusive classroom, adaptations should be made in : (a) Learning goals (b) Teaching-learning strategies (c) Provisioning of support (d) Assessment",
+  "options": [
+   "(a), (b), (d)",
+   "(a), (c), (d)",
+   "(b), (c), (d)",
+   "(a), (b), (c), (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "समावेशी कक्षा में लक्ष्यों, रणनीतियों, सहायता और मूल्यांकन — सभी में अनुकूलन आवश्यक है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q27"
+ },
+ {
+  "n": 28,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सी अक्षमता संवेदी बाधिता के अंतर्गत नहीं आती है ?",
+  "q_en": "Which of the following does not come under the category of sensory impairments ?",
+  "options": [
+   "रंग दृष्टिहीनता",
+   "लेखन वैकल्य",
+   "श्रवण में कठिनाई",
+   "दृष्टि की आंशिक हानि"
+  ],
+  "answer": 1,
+  "exp_hi": "लेखन वैकल्य (डिस्ग्राफिया) संवेदी बाधिता नहीं, अधिगम संबंधी अक्षमता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q28"
+ },
+ {
+  "n": 29,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (एनईपी) 2020 आकलन में क्या बदलाव करने की सिफारिश करती है ?",
+  "q_en": "National Education Policy (NEP) 2020 emphasizes on transforming assessment by :",
+  "options": [
+   "छात्रों के सामाजिक-सांस्कृतिक संदर्भ का अवमूल्यन करने की",
+   "आकलन के योगात्मक रूप को क्रियान्वित करने की",
+   "स्व-मूल्यांकन और सहकर्मी-मूल्यांकन को शामिल करने की",
+   "बुद्धि की एकात्मक धारणा को लागू करने की"
+  ],
+  "answer": 2,
+  "exp_hi": "राष्ट्रीय शिक्षा नीति 2020 स्व-मूल्यांकन और सहकर्मी-मूल्यांकन को शामिल कर आकलन में बदलाव की सिफारिश करती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q29"
+ },
+ {
+  "n": 30,
+  "subject": "Child Development",
+  "q_hi": "लेव वायगोत्स्की के विचारों का पालन करते हुए, एक शिक्षक ने उन छात्रों को सुझाव और संकेत देने का फैसला किया जो किसी समस्या पर अटके हुए थे, और उन्हें उस समस्या को फिर से हल करने का प्रयास करने का मौका दिया। ऐसा करके, शिक्षक __________ की अवधारणा का अभ्यास कर रहा है।",
+  "q_en": "Following Lev Vygotsky’s ideas, a teacher decided to give hints and cues to the students who were stuck on a given problem and let the students try to solve that problem again. By doing so, teacher is practicing the concept of __________.",
+  "options": [
+   "आत्मसातीकरण",
+   "सामूहिक एकालाप",
+   "कार्यात्मक स्थिरता",
+   "आलंबन"
+  ],
+  "answer": 3,
+  "exp_hi": "अटके हुए विद्यार्थियों को संकेत देकर सहायता करना वायगोत्स्की की 'आलंबन' (स्कैफोल्डिंग) अवधारणा है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q30"
+ },
+ {
+  "n": 31,
+  "subject": "Social Studies",
+  "q_hi": "आज के समय की सांस्कृतिक एकता और विविधता को निम्नलिखित दिए गए, हम्पी से संबंधित ऐतिहासिक तथ्यों में से किसके लिए प्रयुक्त किया जा सकता है ? (a) हम्पी के मंदिर सांस्कृतिक गतिविधियों के केंद्र होते थे। (b) देवदासियाँ (मंदिर नृत्यांगनाएँ) देव प्रतिमा, राजा के समक्ष नृत्य किया करती थीं किन्तु प्रजाजनों के सामने नहीं। (c) महानवमी पर्व, जो आज दक्षिण में नवरात्रि पर्व कहलाता है, उन दिनों हम्पी में एक अत्यंत महत्वपूर्ण पर्व माना जाता था।",
+  "q_en": "The cultural unity and diversity of the present time could be applied to which of the following historical facts related to Hampi ? (a) Hampi temples were the hub of cultural activities. (b) Devadasis (temple dancers) performed before the deity, royalty, but NOT before the masses. (c) The Mahanavami festival, known today as Navaratri in the south, was one of the most important festivals celebrated at Hampi.",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(a) और (c)",
+   "केवल (a)"
+  ],
+  "answer": 2,
+  "exp_hi": "हम्पी के मंदिर सांस्कृतिक केंद्र थे और महानवमी प्रमुख पर्व था — अतः (a) और (c) सही हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q31"
+ },
+ {
+  "n": 32,
+  "subject": "Social Studies",
+  "q_hi": "उपयुक्त विकल्प चुनने के लिए निम्नलिखित अभिकथन और कारणों पर विचार कीजिए : अभिकथन : 17वीं और 18वीं शताब्दियों में यूरोपीय बाजार में नील की माँग उच्च थी। कारण 1 : 17वीं सदी तक, यूरोपीय कपड़ा उत्पादकों ने नील के आयात पर लगी पाबंदी में ढील देने के लिए अपनी सरकारों को राजी कर लिया। कारण 2 : 17वीं सदी के अंत तक ब्रिटेन में औद्योगिकीकरण शुरू हो गया।",
+  "q_en": "Consider the following Assertion and Reasons to choose the appropriate option : Assertion : There was a huge demand for Indigo in the European Market in 17th and 18th Centuries. Reason 1 : By the 17th Century, European cloth producers persuaded their governments to relax the ban on indigo import. Reason 2 : By the end of the 17th Century Britain began to industrialise.",
+  "options": [
+   "अभिकथन और कारण 1 सही है।",
+   "अभिकथन और कारण 2 सही है।",
+   "अभिकथन और दोनों कारण सही हैं।",
+   "अभिकथन गलत है, कारण अपने आप में सही हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "अभिकथन और कारण 1 दोनों सही हैं; कारण 2 गलत है क्योंकि ब्रिटेन में औद्योगिकीकरण बाद में शुरू हुआ।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q32"
+ },
+ {
+  "n": 33,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित कारकों द्वारा जल का अभाव होता है : (a) जल संग्रहण (b) वर्षा में विविधता (c) जल का संदूषण (d) अति उपयोग",
+  "q_en": "Water scarcity is caused by the following given factors : (a) Water Harvesting (b) Variation in Rainfall (c) Contamination of water (d) Over exploitation",
+  "options": [
+   "(b), (c), (d)",
+   "(a), (b), (d)",
+   "(a), (b), (c)",
+   "(a), (c), (d)"
+  ],
+  "answer": 0,
+  "exp_hi": "वर्षा में विविधता, जल संदूषण और अति उपयोग जल-अभाव के कारण हैं; जल संग्रहण तो इसका समाधान है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q33"
+ },
+ {
+  "n": 34,
+  "subject": "Social Studies",
+  "q_hi": "तमिल महाकाव्य मणिमेकलै की रचना किसने की थी ?",
+  "q_en": "Tamil Epic Manimekalai was composed by :",
+  "options": [
+   "इलांगो",
+   "सत्तानार",
+   "कालिदास",
+   "माधवी"
+  ],
+  "answer": 1,
+  "exp_hi": "तमिल महाकाव्य 'मणिमेकलै' की रचना सत्तानार (सीतलै सत्तानार) ने की थी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q34"
+ },
+ {
+  "n": 35,
+  "subject": "Social Studies",
+  "q_hi": "जब ग्रीनविच याम्योत्तर पर दोपहर के 12:00 बजे हो तब 90° पूर्व में क्या समय होगा ?",
+  "q_en": "What will be the time at 90° East when it is 12.00 noon at Greenwich Meridian ?",
+  "options": [
+   "शाम के 7:00 बजे",
+   "सुबह के 6:00 बजे",
+   "शाम के 6:00 बजे",
+   "रात के 9:00 बजे"
+  ],
+  "answer": 2,
+  "exp_hi": "90° पूर्व का देशांतर ग्रीनविच से 6 घंटे आगे है, इसलिए दोपहर 12 बजे वहाँ शाम के 6 बजे होंगे।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q35"
+ },
+ {
+  "n": 36,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित युगलों का मिलान कीजिए : फसल – जलवायु (a) कॉफ़ी (i) उच्च तापमान, भारी वर्षा (b) पटसन (ii) ठंडी जलवायु (c) चाय (iii) मध्यम तापमान एवं वर्षा (d) गेहूँ (iv) गर्म एवं आर्द्र जलवायु विकल्प : (a) (b) (c) (d)",
+  "q_en": "Match the following pairs : Crop Climate (a) Coffee (i) high temperature, heavy rainfall (b) Jute (ii) cool climate (c) Tea (iii) moderate temperature and rainfall (d) Wheat (iv) warm and wet climate Choices : (a) (b) (c) (d)",
+  "options": [
+   "(i) (iv) (iii) (ii)",
+   "(ii) (iii) (iv) (i)",
+   "(iii) (ii) (i) (iv)",
+   "(iv) (i) (ii) (iii)"
+  ],
+  "answer": 3,
+  "exp_hi": "कॉफ़ी–उच्च तापमान व भारी वर्षा, पटसन–गर्म व आर्द्र, चाय–मध्यम तापमान व वर्षा, गेहूँ–ठंडी जलवायु — सही क्रम (i)(iv)(iii)(ii) है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q36"
+ },
+ {
+  "n": 37,
+  "subject": "Social Studies",
+  "q_hi": "‘संयुक्त राज्य अमेरिका में किसान एक व्यवसायी की तरह काम करता है’। कथन को उचित सिद्ध कीजिए। सही कारणों का चयन कीजिए : (a) ट्रेक्टरों, हार्वेस्टरों का उपयोग (b) फार्म का छोटा आकार (c) स्वचालित अन्न भंडार (d) रासायनिक उर्वरकों का प्रयोग",
+  "q_en": "‘The farmer in USA works like a businessman’. Justify the statement. Choose the correct reasons : (a) Use of Tractors, harvesters (b) Farm size is small (c) Automated Grain storage (d) Use of chemical fertilizers",
+  "options": [
+   "(a), (b), (c)",
+   "(b), (c), (d)",
+   "(a), (b), (d)",
+   "(a), (c), (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "अमेरिका के किसान ट्रैक्टर-हार्वेस्टर, स्वचालित भंडारण और रासायनिक उर्वरक प्रयोग करते हैं; वहाँ फार्म बड़े होते हैं, छोटे नहीं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q37"
+ },
+ {
+  "n": 38,
+  "subject": "Social Studies",
+  "q_hi": "मौर्य काल की “रामपुरवा बैल' की बारीक पॉलिश की गई पत्थर की मूर्ति कहाँ मिली ?",
+  "q_en": "‘Rampurva Bull’, a finely polished stone sculpture of Mauryan period has been found from :",
+  "options": [
+   "मध्य प्रदेश में",
+   "उत्तर प्रदेश में",
+   "बिहार में",
+   "झारखंड में"
+  ],
+  "answer": 2,
+  "exp_hi": "रामपुरवा बैल की प्रसिद्ध मौर्यकालीन मूर्ति बिहार के रामपुरवा से मिली है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q38"
+ },
+ {
+  "n": 39,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कौन एक स्थायी पवन नहीं है ? सही उत्तर चुनें :",
+  "q_en": "Which one of the following is NOT a permanent wind ? Choose the correct answer :",
+  "options": [
+   "व्यापारिक पवनें",
+   "मानसूनी पवनें",
+   "पश्चिमी पवनें",
+   "पूर्वी पवनें"
+  ],
+  "answer": 1,
+  "exp_hi": "मानसूनी पवनें ऋतु के साथ दिशा बदलती हैं, अतः वे स्थायी पवनें नहीं हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q39"
+ },
+ {
+  "n": 40,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित ऐतिहासिक दावों का जनजातियों, खानाबदोशों और एक जगह बसे हुए समुदायों के संदर्भ में विश्लेषण कीजिए। उपयुक्त विकल्प चुनिये। (a) वर्ण-आधारित समाज का जनजातीय लोगों से कोई संपर्क नहीं था। यह सख्ती जाति प्रथा के कारण थी। (b) ऐसी जनजातियाँ थीं जिन्होंने जाति व्यवस्था और सनातनी हिंदू धर्म दोनों को नकार दिया था। (c) कुछ जनजातियों ने सुसंगठित प्रशासनिक व्यवस्था वाले विस्तृत राज्यों की स्थापना की। (d) राजनीतिक ताकत ने उन्हें बृहत्तर राज्यों के साथ संघर्ष की स्थिति में ला खड़ा किया।",
+  "q_en": "Analyze the following historical claims with reference to the relation between Tribes, Nomads and settled communities. Choose the appropriate option. (a) Varna based society did not interact with the tribal people at all. The rigidity was due to caste system. (b) There were tribes that rejected both the caste system and orthodox Hinduism. (c) Some tribes established extensive states with well organised systems of administration. (d) Political power brought them in conflict with larger Kingdoms.",
+  "options": [
+   "(a), (b) और (c) वैध हैं।",
+   "(b), (c) और (d) वैध हैं।",
+   "(c), (d) और (a) वैध हैं।",
+   "(d), (a) और (b) वैध हैं।"
+  ],
+  "answer": 1,
+  "exp_hi": "कथन (b), (c) और (d) वैध हैं; वर्ण-आधारित समाज का जनजातीय लोगों से संपर्क होता था, अतः (a) गलत है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q40"
+ },
+ {
+  "n": 41,
+  "subject": "Social Studies",
+  "q_hi": "पंचायती राज के संदर्भ में, निम्नलिखित में से कौन सा क्रम सही सोपानिक क्रम है ?",
+  "q_en": "In reference to Panchayati Raj, which of the following sequence is in correct hierarchical order ?",
+  "options": [
+   "पंचायत समिति - ग्राम पंचायत - ग्राम सभा - ज़िला परिषद्",
+   "ग्राम सभा - पंचायत समिति - ग्राम पंचायत - ज़िला परिषद्‌",
+   "ग्राम पंचायत - पंचायत समिति - ग्राम सभा - ज़िला परिषद्‌",
+   "ग्राम सभा - ग्राम पंचायत - पंचायत समिति - ज़िला परिषद्‌"
+  ],
+  "answer": 3,
+  "exp_hi": "पंचायती राज का सही सोपानिक क्रम है — ग्राम सभा → ग्राम पंचायत → पंचायत समिति → ज़िला परिषद्।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q41"
+ },
+ {
+  "n": 42,
+  "subject": "Social Studies",
+  "q_hi": "हमारे सौरमंडल में वह खगोलीय पिंड जिनके पास अपनी ऊष्मा तथा प्रकाश होता है :",
+  "q_en": "Celestial bodies in our solar system having their own heat and light are :",
+  "options": [
+   "ग्रह",
+   "उपग्रह",
+   "उल्कापिंड",
+   "तारा"
+  ],
+  "answer": 3,
+  "exp_hi": "तारों के पास अपनी ऊष्मा और प्रकाश होता है; ग्रह और उपग्रह सूर्य का प्रकाश परावर्तित करते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q42"
+ },
+ {
+  "n": 43,
+  "subject": "Social Studies",
+  "q_hi": "“किसी भी राष्ट्र की प्रगति उसके विभिन्न सामाजिक और राजनीतिक समूहों की एकता पर निर्भर होती है। राजनीतिक पार्टियों को प्रतिस्पर्धी चुनावी राजनीति में इस एकता को संज्ञान में लेना चाहिए।” निम्नलिखित में से राष्ट्रीय आंदोलन में कौन सी बृहत् प्रगति उपरोक्त अभिकथन पर मुहर लगाती है ? (a) रॉलेट सत्याग्रह के दौरान, प्रतिभागियों ने यह सुनिश्चित करने का प्रयत्न किया कि ब्रिटिश शासन के विरुद्ध हिन्दू और मुस्लिम एकजुट/संगठित हों। (b) 1930 के दशक के आखिरी सालों से लीग मुसलमानों और हिंदुओं को अलग-अलग राष्ट्र मानने लगी थी। (c) 1937 में मुस्लिम लीग संयुक्त प्रांत में काँग्रेस के साथ मिलकर सरकार बनाना चाहती थी जिसे काँग्रेस ने स्वीकार नहीं किया।",
+  "q_en": "“The progress of any nation is dependent upon the unity of different social and political groups. Political parties should be mindful of this unity during the competitive electoral politics.” Which of the following major development/s within the national movement attest the above mentioned assertion ? (a) During the Rowlatt Satyagraha, the participants tried to ensure that Hindus and Muslims were united in the fight against British rule. (b) From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. (c) The Congress’s rejection of the League’s desire to form a joint Congress - League government in the United Provinces in 1937.",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(c) और (a)",
+   "केवल (c)"
+  ],
+  "answer": 0,
+  "exp_hi": "कथन (a) और (b) उपरोक्त अभिकथन को प्रमाणित करते हैं — रॉलेट सत्याग्रह में एकता का प्रयास हुआ और लीग की अलगाववादी सोच ने एकता की आवश्यकता उजागर की।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q43"
+ },
+ {
+  "n": 44,
+  "subject": "Social Studies",
+  "q_hi": "विश्व को एक बृहद्‌ विश्व समाज बनाने में संचार के किस माध्यम की अति महत्त्वपूर्ण भूमिका है ?",
+  "q_en": "Which means of communication has the most important role in making world a large global society ?",
+  "options": [
+   "जनसंपर्क माध्यम",
+   "कबूतरों के माध्यम से संदेश",
+   "सेटेलाइट से संचार",
+   "डाक सेवा"
+  ],
+  "answer": 0,
+  "exp_hi": "जनसंपर्क (जनसंचार) माध्यमों ने विश्व को एक बृहद् वैश्विक समाज बनाने में सबसे महत्वपूर्ण भूमिका निभाई है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q44"
+ },
+ {
+  "n": 45,
+  "subject": "Social Studies",
+  "q_hi": "मध्य भारत में सतनामी आंदोलन की स्थापना की गई थी :",
+  "q_en": "The Satnami movement in Central India was founded by :",
+  "options": [
+   "हरिदास ठाकुर द्वारा",
+   "श्री नारायण गुरु द्वारा",
+   "घासीदास द्वारा",
+   "ज्योतिराव फुले द्वारा"
+  ],
+  "answer": 2,
+  "exp_hi": "मध्य भारत में सतनामी आंदोलन की स्थापना संत घासीदास ने की थी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q45"
+ },
+ {
+  "n": 46,
+  "subject": "Social Studies",
+  "q_hi": "पृथ्वी पर पाई जाने वाली जीवीय एवं अजीवीय परिस्थितियाँ बनाती हैं : (उपयुक्त वर्ग का चयन कीजिए) :",
+  "q_en": "Biotic and Abiotic conditions existing on the earth form : (Choose the appropriate category) :",
+  "options": [
+   "प्राकृतिक पर्यावरण",
+   "पर्यावरण प्रबंधन",
+   "मानव निर्मित पर्यावरण",
+   "मानव पर्यावरण"
+  ],
+  "answer": 0,
+  "exp_hi": "पृथ्वी की जीवीय और अजीवीय परिस्थितियाँ मिलकर प्राकृतिक पर्यावरण बनाती हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q46"
+ },
+ {
+  "n": 47,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित में से कौन विभेदीकरण का एक उदाहरण नहीं है ?",
+  "q_en": "Which of the following is not an example of discrimination ?",
+  "options": [
+   "एक सार्वजनिक कुएँ से जल लेने के लिये लोगों के एक समूह को रोकना",
+   "लोगों के एक समूह को, अन्य की भाँति, उन्हीं प्यालों में चाय पीने की अनुमति ना देना",
+   "किसी को एक खास स्थान/पास पड़ोस में रहने से रोकना",
+   "एक लड़के को रोने से मना करना क्योंकि लड़के रोते नहीं हैं"
+  ],
+  "answer": 3,
+  "exp_hi": "लड़के को रोने से रोकना लैंगिक रूढ़िवादिता है, विभेदीकरण का उदाहरण नहीं है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q47"
+ },
+ {
+  "n": 48,
+  "subject": "Social Studies",
+  "q_hi": "अभिकथन : भारत के एक राष्ट्र बनने की प्रक्रिया एक लंबी प्रक्रिया थी। राजनीतिक चेतना का उदय और परिणामी राजनीतिक संगठनों में समय लगा। भारत अचानक से एक दिन में ही 1947 में स्वतंत्र नहीं हो गया। उपयुक्त प्रमाण/कारण का चयन कीजिए। (a) भारत के संसाधनों के ऊपर अँग्रेजों के नियंत्रण के विषय में चेतना 1850 के बाद राजनीतिक संगठनों में साफ दिखाई देने लगी थी। (b) राजनीतिक संगठन इस सोच के साथ काम कर रहे थे कि लोग सम्प्रभु हों। (c) पूना सार्वजनिक सभा, मद्रास महाजन सभा ने देश के विशेष (खास) भागों में काम किया और एक खास इलाके, समुदाय और वर्ग के लिये काम किया। (d) इल्बर्ट विधेयक ने पढ़े-लिखे भारतीयों के एक अखिल भारतीय संगठन की चाह को और गहरा कर दिया था।",
+  "q_en": "Assertion : ‘The process of India becoming a nation was a long drawn one. Emergence of political consciousness and the resulting political associations take time. India did not one day wake up to independence in 1947’. Choose the appropriate evidence as reason. (a) The consciousness of British control over the resources of India began to be clearly stated by political association formed after 1850. (b) The political associations worked with the idea that the people should be sovereign. (c) Poona Sarvajanik Sabha, Madras Mahajan Sabha functioned in specific parts of the country and catered to the specific region, community and class. (d) The Ilbert Bill controversy deepened the desire for an all India organisation of educated Indians.",
+  "options": [
+   "केवल (a) और (b)",
+   "केवल (c) और (d)",
+   "केवल (a), (b) और (c)",
+   "केवल (a), (b) और (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "केवल (a), (b) और (d) सही हैं; क्षेत्रीय संगठनों वाला कथन (c) इस अभिकथन का प्रमाण नहीं है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q48"
+ },
+ {
+  "n": 49,
+  "subject": "Social Studies",
+  "q_hi": "निम्नलिखित कारणों से पृथ्वी के धरातल पर पर्याप्त वर्षा बहुत महत्त्वपूर्ण है : (a) पौधों तथा जीव-जंतुओं के जीवित रहने के लिए। (b) यह पृथ्वी के धरातल पर ताजा जल लाती है। (c) यह सूखा लाती है। (d) अधिकतर भौम जल, वर्षा से ही प्राप्त होता है।",
+  "q_en": "Sufficient Rainfall on the earth surface is very important for following reasons : (a) Survival of plants and animals. (b) Brings fresh water to the Earth’s surface. (c) It brings droughts. (d) Most of the ground water comes from rainfall. Choices :",
+  "options": [
+   "(a), (b), (d) सही हैं।",
+   "(a), (b), (c) सही हैं।",
+   "(b), (c), (d) सही हैं।",
+   "(a), (c), (d) सही हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "वर्षा जीवों के अस्तित्व, ताज़ा जल और भौम जल के लिए आवश्यक है; वह सूखा नहीं लाती।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q49"
+ },
+ {
+  "n": 50,
+  "subject": "Social Studies",
+  "q_hi": "भारत में निम्नलिखित में से किस स्थान को “छोटा तिब्बत कहा जाता है ?",
+  "q_en": "Which of the following places in India is known as ‘Little Tibet’ ?",
+  "options": [
+   "बोधगया",
+   "लद्दाख",
+   "अरुणाचल प्रदेश",
+   "धर्मशाला"
+  ],
+  "answer": 1,
+  "exp_hi": "लद्दाख को 'छोटा तिब्बत' कहा जाता है क्योंकि वहाँ तिब्बती संस्कृति का गहरा प्रभाव है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q50"
+ }
+]
