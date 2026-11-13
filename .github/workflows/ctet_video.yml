@@ -1,0 +1,87 @@
+name: CTET Mock Test Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      mock_file:
+        description: "Mock JSON file (khaali = ctet_state.json ke next wala mock)"
+        default: ""
+      save_state:
+        description: "State aage badhana hai? 1 = haan, 0 = nahi (test ke liye 0)"
+        default: "1"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+  schedule:
+    # Roz 12:00 IST (Paper 1) = 06:30 UTC
+    - cron: "30 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ctet-video
+
+jobs:
+  make-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow google-api-python-client google-auth google-genai
+
+      - name: CTET Mock Test video banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MOCK_FILE: ${{ inputs.mock_file }}
+          SAVE_STATE: ${{ inputs.save_state || '1' }}
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python ctet_video.py
+
+      - name: Video file artifact me bachao (upload fail ho to bhi)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ctet-video
+          path: |
+            tmpwork/ctet_*/final.mp4
+            tmpwork/ctet_*/thumb.jpg
+            tmpwork/ctet_*/title.txt
+            tmpwork/ctet_*/desc.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: YouTube par upload karo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+          YT_PLAYLIST_ID: PLGc1wJxdjSuY
+        run: |
+          VIDEO_FILE=$(ls tmpwork/ctet_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/ctet_*/thumb.jpg | head -1)
+          YT_TITLE=$(cat tmpwork/ctet_*/title.txt)
+          YT_DESC=$(cat tmpwork/ctet_*/desc.txt)
+          export VIDEO_FILE THUMB_FILE YT_TITLE YT_DESC
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > ctet_latest.txt || true
+
+      - name: State wapas commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add ctet_state.json || true
+          git add ctet_latest.txt || true
+          git diff --cached --quiet || git commit -m "ctet state update"
+          git push || true
