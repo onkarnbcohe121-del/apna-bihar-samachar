@@ -1,0 +1,802 @@
+[
+ {
+  "n": 1,
+  "subject": "Child Development",
+  "q_hi": "बाहरी प्रेरणा __________ से आती है जबकि आंतरिक प्रेरणा __________ पर आधारित होती है।",
+  "q_en": "Extrinsic motivation comes from __________ while intrinsic motivation is based on __________.",
+  "options": [
+   "व्यक्तिगत संतुष्टि; पुरस्कार जैसे ईनाम",
+   "सजा से बचाव; पुरस्कार जैसे ईनाम",
+   "दूसरों की सराहना; व्यक्तिगत संतुष्टि",
+   "व्यक्तिगत संतुष्टि; दूसरों की स्वीकृति"
+  ],
+  "answer": 2,
+  "exp_hi": "बाह्य प्रेरणा दूसरों की सराहना/स्वीकृति से आती है, जबकि आंतरिक प्रेरणा व्यक्तिगत संतुष्टि पर आधारित होती है।",
+  "source": "CTET Paper 1 Feb 2026, Q1",
+  "mock_q": 1
+ },
+ {
+  "n": 2,
+  "subject": "Child Development",
+  "q_hi": "निम्न में से कौन प्राथमिक कक्षाओं में छात्रों के लिए प्रामाणिक शिक्षण कार्यों के उदाहरण हैं ?",
+  "q_en": "Which of the following are examples of authentic learning tasks for students in primary grades ?",
+  "options": [
+   "मित्रों की नोटबुक से उत्तर कॉपी करना।",
+   "अवधारणा को दैनिक जीवन में लागू करना।",
+   "परिभाषाओं का एक वर्ग को याद रखना।",
+   "पाठ्यपुस्तक से तथ्यात्मक जानकारी को याद करना।"
+  ],
+  "answer": 1,
+  "exp_hi": "प्रामाणिक अधिगम कार्य वह है जिसमें अवधारणा को दैनिक जीवन में लागू किया जाए, न कि रटना या कॉपी करना।",
+  "source": "CTET Paper 1 Feb 2026, Q2",
+  "mock_q": 2
+ },
+ {
+  "n": 3,
+  "subject": "Child Development",
+  "q_hi": "__________ विकास के उस समय को संदर्भित करता है/करते हैं जब कोई व्यक्ति एक नया कौशल या क्षमता प्राप्त करने के लिए सबसे ज्यादा तैयार होता है, और बाद में जीवन में इसके नुकसान की भरपाई करना मुश्किल होता है।",
+  "q_en": "__________ refers to the time of development when an individual is most ready to acquire a new skill or ability and it is difficult to compensate for the loss of this later on in life.",
+  "options": [
+   "विकासात्मक कार्य",
+   "संवेदनशील अवधि",
+   "समीपस्थ विकास का क्षेत्र",
+   "विकासात्मक प्रतिमान"
+  ],
+  "answer": 1,
+  "exp_hi": "नया कौशल प्राप्त करने के लिए सबसे उपयुक्त समय को संवेदनशील अवधि कहते हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q3",
+  "mock_q": 3
+ },
+ {
+  "n": 4,
+  "subject": "Child Development",
+  "q_hi": "दूसरों के साथ संवाद ना करने के इरादे से खुद से जोर से बात करना बचपन में __________ ।",
+  "q_en": "Talking aloud to oneself with no intent to communicate with others is __________ in childhood.",
+  "options": [
+   "असामान्य और अप्राकृतिक है।",
+   "अप्राकृतिक लेकिन असामान्य नहीं है।",
+   "सामान्य और प्राकृतिक है।",
+   "असामान्य लेकिन प्राकृतिक है।"
+  ],
+  "answer": 2,
+  "exp_hi": "स्वयं से जोर से बात करना (निजी वाक्) बचपन में सामान्य और प्राकृतिक है।",
+  "source": "CTET Paper 1 Feb 2026, Q4",
+  "mock_q": 4
+ },
+ {
+  "n": 5,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : सीखना हमेशा एक सामाजिक संदर्भ में स्थित होता है। कारण (R) : जो सीखा जाता है उसे सीखने और उपयोग करने के तरीके से अलग नहीं किया जा सकता है। सही विकल्प चुनिए :",
+  "q_en": "Assertion (A) : Learning is always situated in a social context. Reason (R) : What is learned cannot be separated from how it is learned and used. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।"
+  ],
+  "answer": 3,
+  "exp_hi": "सीखना सामाजिक संदर्भ में स्थित होता है और कारण (R) अभिकथन (A) की सही व्याख्या करता है।",
+  "source": "CTET Paper 1 Feb 2026, Q6",
+  "mock_q": 5
+ },
+ {
+  "n": 6,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित कथन में विकास के किस सिद्धांत को दर्शाया गया है ? शैशवावस्था और प्रारंभिक बचपन के दौरान, हाथ और पैरों की तुलना में टाँग और बाँह तेजी से बढ़ते रहते हैं।",
+  "q_en": "Which principle of development is illustrated in the following statement ? During infancy and early childhood, the limbs continue to grow faster than the hands and feet.",
+  "options": [
+   "शीर्षगामी सिद्धांत",
+   "केंद्रीकरण का सिद्धांत",
+   "एकीकरण का सिद्धांत",
+   "समीपदुराभिमुख सिद्धांत"
+  ],
+  "answer": 3,
+  "exp_hi": "अंगों (बाँह-टाँग) का हाथ-पैरों से तेज़ बढ़ना समीपदुराभिमुख सिद्धांत (केंद्र से परिधि की ओर विकास) है।",
+  "source": "CTET Paper 1 Feb 2026, Q7",
+  "mock_q": 6
+ },
+ {
+  "n": 8,
+  "subject": "Child Development",
+  "q_hi": "रचनात्मक मूल्यांकन मानता है कि :",
+  "q_en": "Formative assessment assumes that :",
+  "options": [
+   "केवल मात्रात्मक मापदंड ‘सही’ प्रतिपुष्टि देते हैं।",
+   "गुणात्मक मापदंड पक्षपाती और व्यक्तिपरक हैं।",
+   "मूल्यांकन की प्रक्रिया में शिक्षार्थियों को भी शामिल किया जाना चाहिए।",
+   "सीखने के लिए प्रतियोगिता आवश्यक है।"
+  ],
+  "answer": 2,
+  "exp_hi": "रचनात्मक मूल्यांकन मानता है कि शिक्षार्थियों को भी मूल्यांकन की प्रक्रिया में शामिल किया जाना चाहिए।",
+  "source": "CTET Paper 1 Feb 2026, Q9",
+  "mock_q": 7
+ },
+ {
+  "n": 10,
+  "subject": "Child Development",
+  "q_hi": "“क्या आपके माता-पिता की अनुपस्थिति में फ्रीजर से चॉकलेट चोरी करना ठीक है ?”, इस सवाल के जवाब में 4 वर्ष की मीरा ने जवाब दिया, “ऐसा करना गलत होगा क्योंकि ऐसा करने से मुझे माता-पिता से सज़ा मिल सकती है।” मीरा का नैतिक तर्क लॉरेंस कोलबर्ग के नैतिक विकास के सिद्धांत की किस अवस्था को दर्शाता है ?",
+  "q_en": "In response to the question, “Is it alright to steal the chocolate from the freezer in absence of your parents ?” 4-year-old Meera replied, “It will be wrong because doing so can cause punishment from the parent.” Meera’s moral reasoning depicts which stage of Lawrence Kohlberg’s theory of moral development ?",
+  "options": [
+   "औपचारिक परंपरागत",
+   "उत्तर परंपरागत",
+   "पूर्व परंपरागत",
+   "परंपरागत"
+  ],
+  "answer": 2,
+  "exp_hi": "सज़ा के डर से किसी काम को गलत मानना कोलबर्ग की पूर्व-परंपरागत अवस्था दर्शाता है।",
+  "source": "CTET Paper 1 Feb 2026, Q11",
+  "mock_q": 8
+ },
+ {
+  "n": 12,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से समाज में प्रचलित जेंडर रूढ़िवादिता के प्रभाव को बच्चों के बीच कम करने का एक प्रभावी तरीका कौन सा है?",
+  "q_en": "Which of the following is an effective way to reduce the influence of gender stereotypes amongst children prevalent in society ?",
+  "options": [
+   "बच्चों को जेंडर-विशिष्ट सामग्री प्रदान करना।",
+   "बच्चों को विविध जेंडर भूमिकाओं से परिचित कराना और उन्हें अपनी रुचियों को आगे बढ़ाने के लिए प्रोत्साहित करना।",
+   "यह मान लेना कि बच्चे स्वाभाविक रूप से अपने आप जेंडर-तटस्थ गतिविधियों और रुचियों को अपना लेंगे।",
+   "बच्चों को पारंपरिक जेंडर भूमिकाओं के अनुरूप प्रोत्साहित करना।"
+  ],
+  "answer": 1,
+  "exp_hi": "बच्चों को विविध जेंडर भूमिकाओं से परिचित कराने से समाज की जेंडर रूढ़िवादिता का प्रभाव कम होता है।",
+  "source": "CTET Paper 1 Feb 2026, Q13",
+  "mock_q": 9
+ },
+ {
+  "n": 14,
+  "subject": "Child Development",
+  "q_hi": "स्वलीन क्रम विकार से जूझ रहे बच्चों को पढ़ाने के लिए निम्नलिखित में से कौन सी एक प्रभावी रणनीति है ?",
+  "q_en": "Which of the following is an effective strategy for teaching children with autism ?",
+  "options": [
+   "किसी भी दृश्य-श्रव्य सामग्री के प्रयोग से बचना।",
+   "अनुमानित दिनचर्या बनाए रखना।",
+   "सख्त अनुशासन और दंड का प्रयोग करना।",
+   "निरंतर नेत्र संपर्क बनाए रखना।"
+  ],
+  "answer": 1,
+  "exp_hi": "स्वलीन क्रम विकार (ऑटिज़्म) से जूझ रहे बच्चों के लिए अनुमानित दिनचर्या बनाए रखना प्रभावी रणनीति है।",
+  "source": "CTET Paper 1 Feb 2026, Q15",
+  "mock_q": 10
+ },
+ {
+  "n": 16,
+  "subject": "Child Development",
+  "q_hi": "लेव वायगोत्स्की के अनुसार, ‘आंतरिक वाक्’ :",
+  "q_en": "As per Lev Vygotsky, ‘inner speech’ :",
+  "options": [
+   "बच्चों के संज्ञानात्मक विकास में बाधा डालती है।",
+   "बच्चों में संज्ञानात्मक अपरिपक्वता का एक लक्षण है।",
+   "जन्म से लेकर तीन वर्ष की उम्र तक होती है।",
+   "तर्क करने और विचारों को व्यवस्थित करने में मदद करती है।"
+  ],
+  "answer": 3,
+  "exp_hi": "वायगोत्स्की के अनुसार आंतरिक वाक् तर्क करने और विचारों को व्यवस्थित करने में मदद करती है।",
+  "source": "CTET Paper 1 Feb 2026, Q17",
+  "mock_q": 11
+ },
+ {
+  "n": 18,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A) : गढ़ी वर्तनी, लेखन के मुक्त अन्वेषण शिक्षकों को शिक्षार्थी स्तरों के प्रामाणिक मूल्यांकन के अवसर प्रदान करते हैं। कारण (R) : कक्षा में व्यापक भाषाई विविधता को देखते हुए भाषा का मूल्यांकन गतिशील होना चाहिए। सही विकल्प चुनिए :",
+  "q_en": "Assertion (A) : Invented spellings, free explorations of writings provide teachers with opportunities of authentic assessment of learner levels. Reason (R) : Given the vast linguistic diversity in the classroom assessment in language should be dynamic. Choose the correct option :",
+  "options": [
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।"
+  ],
+  "answer": 3,
+  "exp_hi": "गढ़ी वर्तनी और मुक्त लेखन से शिक्षार्थी स्तर का प्रामाणिक मूल्यांकन संभव है; कारण (R) सही व्याख्या करता है।",
+  "source": "CTET Paper 1 Feb 2026, Q19",
+  "mock_q": 12
+ },
+ {
+  "n": 24,
+  "subject": "Child Development",
+  "q_hi": "महारत लक्ष्य उन्मुखीकरण वाले छात्र -",
+  "q_en": "Students with mastery goal orientation set :",
+  "options": [
+   "दूसरों को प्रभावित करने के लिए उच्च लक्ष्य तय करते हैं।",
+   "असफलता से बचने के लिए कम लक्ष्य तय करते हैं।",
+   "डर और शर्म से प्रेरित मध्यम लक्ष्य तय करते हैं।",
+   "यथार्थवादी सीखने के लक्ष्य तय करते हैं।"
+  ],
+  "answer": 3,
+  "exp_hi": "महारत लक्ष्य उन्मुखीकरण वाले छात्र यथार्थवादी सीखने के लक्ष्य तय करते हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q25",
+  "mock_q": 13
+ },
+ {
+  "n": 28,
+  "subject": "Child Development",
+  "q_hi": "छात्रों में आलोचनात्मक सोच को किस प्रकार बढ़ावा दिया जा सकता है ?",
+  "q_en": "Critical thinking in students can be promoted by :",
+  "options": [
+   "अधिसंज्ञान को हतोत्साहित करके।",
+   "सहयोग को हतोत्साहित करके।",
+   "छात्रों को रटने का पूर्वाभ्यास करने के लिए प्रोत्साहित करके।",
+   "क्या, क्यों, कैसे जैसे उत्साहवर्धक प्रश्न पूछकर।"
+  ],
+  "answer": 3,
+  "exp_hi": "क्या, क्यों, कैसे जैसे प्रश्नों को प्रोत्साहित करने से छात्रों में आलोचनात्मक सोच बढ़ती है।",
+  "source": "CTET Paper 1 Feb 2026, Q29",
+  "mock_q": 14
+ },
+ {
+  "n": 30,
+  "subject": "Maths",
+  "q_hi": "सुश्री राजलक्ष्मी, प्राथमिक कक्षा की गणित की एक शिक्षिका, स्थानीय मान की अवधारणा के शिक्षण के लिए विभिन्न प्रकार की ठोस वस्तुएँ जैसे माचिस की तीलियों के बंडल, आईसक्रीम की डंडियाँ, रंग-बिरंगे बटन, आधारभूत (बेस) 10 के ब्लॉक्स इत्यादि अपनी कक्षा में लेकर आती हैं। निम्नलिखित में से ज़ोल्टन पी. डीन्स के सिद्धांत के किस नियम का उपयोग उनके द्वारा किया जा रहा है ?",
+  "q_en": "Ms. Rajlakshmi, a primary class mathematics teacher brings in a variety of concrete material in her classroom like bundles of match sticks, ice cream sticks, coloured buttons, base 10 blocks etc. to teach the concept of place value. Which of the following principles of theory of Zoltan P. Dienes is being used by her ?",
+  "options": [
+   "गतिशील नियम",
+   "दृश्यमापिता नियम",
+   "बोधात्मक (प्रत्यक्षज्ञानात्मक) परिवर्तिता नियम",
+   "गणितीय परिवर्तिता नियम"
+  ],
+  "answer": 2,
+  "exp_hi": "विविध प्रकार की ठोस सामग्री का प्रयोग डायनेस के बोधात्मक (प्रत्यक्षज्ञानात्मक) परिवर्तिता नियम को दर्शाता है।",
+  "source": "CTET Paper 1 Feb 2026, Q31",
+  "mock_q": 15
+ },
+ {
+  "n": 33,
+  "subject": "Maths",
+  "q_hi": "निम्नलिखित में से कौन सा वास्तविक जीवन की स्थिति का एक उदाहरण है जो ' भाग को समभागी संरचना' के रूप में दर्शाता है?",
+  "q_en": "Which among the following is an example of a real life situation which represents ‘division as equal sharing’ ?",
+  "options": [
+   "एक पैकेट में 60 टॉफी हैं। समीर इन्हें अपने मित्रों में बाँटना चाहता है। उसके हर मित्र को कितनी टॉफी मिलेंगी ?",
+   "एक कक्षा में 30 विद्यार्थी हैं। अध्यापक 5 समूह बराबर संख्या के बनाना चाहते हैं तो प्रत्येक समूह में कितने विद्यार्थी होंगे ?",
+   "50 को 10 बराबर समूहों में विभाजित कीजिए।",
+   "एक पैकेट में 10 बिस्कुट हैं। ऐसे पाँच पैकेटों में कितने बिस्कुट होंगे ?"
+  ],
+  "answer": 1,
+  "exp_hi": "30 विद्यार्थियों के 5 बराबर समूह बनाना ‘भाग को समभागी संरचना’ (बराबर बँटवारा) का उदाहरण है।",
+  "source": "CTET Paper 1 Feb 2026, Q34",
+  "mock_q": 16
+ },
+ {
+  "n": 37,
+  "subject": "Maths",
+  "q_hi": "निम्न में से कौन सी भिन्न अवरोही क्रम में हैं?",
+  "q_en": "Which of the following fractions are in descending order ?",
+  "options": [
+   "3/7, 5/9, 8/11, 4/5",
+   "8/11, 5/9, 4/5, 3/7",
+   "4/5, 8/11, 5/9, 3/7",
+   "3/7, 4/5, 5/9, 8/11"
+  ],
+  "answer": 2,
+  "exp_hi": "4/5 (0.80) > 8/11 (0.727) > 5/9 (0.556) > 3/7 (0.429) — यही अवरोही क्रम है।",
+  "source": "CTET Paper 1 Feb 2026, Q38",
+  "mock_q": 17
+ },
+ {
+  "n": 39,
+  "subject": "Maths",
+  "q_hi": "निम्न में से किस अक्षर की एक सममित रेखा होती है?",
+  "q_en": "Which of the following letters has one line of symmetry ?",
+  "options": [
+   "O",
+   "X",
+   "S",
+   "V"
+  ],
+  "answer": 3,
+  "exp_hi": "अक्षर V की केवल एक (ऊर्ध्वाधर) सममित रेखा होती है; O और X की दो, S की कोई नहीं।",
+  "source": "CTET Paper 1 Feb 2026, Q40",
+  "mock_q": 18
+ },
+ {
+  "n": 41,
+  "subject": "Maths",
+  "q_hi": "एक त्रिभुजाकार पिरामिड में :",
+  "q_en": "A triangular pyramid has :",
+  "options": [
+   "4 फलक और 6 किनारे होते हैं।",
+   "3 फलक और 6 किनारे होते हैं।",
+   "3 फलक और 4 किनारे होते हैं।",
+   "4 फलक और 4 किनारे होते हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "त्रिभुजाकार पिरामिड (चतुष्फलक) में 4 फलक और 6 किनारे होते हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q42",
+  "mock_q": 19
+ },
+ {
+  "n": 43,
+  "subject": "Maths",
+  "q_hi": "अंकों 8, 2, 7, 0 और 6 के उपयोग से पाँच अंकों की बनाई जा सकने वाली सबसे बड़ी और सबसे छोटी संख्याओं का अंतर है :",
+  "q_en": "The difference between the greatest and smallest five digit numbers that can be formed using the digits 8, 2, 7, 0 and 6 only once is :",
+  "options": [
+   "65942",
+   "66942",
+   "67942",
+   "56942"
+  ],
+  "answer": 1,
+  "exp_hi": "सबसे बड़ी संख्या 87620 और सबसे छोटी 20678 है; अंतर = 87620 − 20678 = 66942।",
+  "source": "CTET Paper 1 Feb 2026, Q44",
+  "mock_q": 20
+ },
+ {
+  "n": 45,
+  "subject": "Maths",
+  "q_hi": "एक कक्षा में अध्यापक ने निम्न तालिका बनाई जो 40 विद्यार्थियों की आँखों के रंग को दर्शाती है : [तालिका — नीली आँखें / भूरी आँखें / काली आँखें : लड़के — 5 / 4 / 11 ; लड़कियाँ — 7 / 3 / 10] अध्यापक ने चार विद्यार्थियों को कहा कि वे इस तालिका के बारे में एक-एक कथन श्यामपट्ट पर लिखें। उन्होंने लिखा : (a) लड़कों और लड़कियों की संख्याएँ समान हैं। (b) अधिकतर विद्यार्थियों की आँखें काले रंग की हैं। (c) नीली आँखों वाले विद्यार्थियों की कुल संख्या विषम है। (d) भूरी आँखों वाले विद्यार्थियों की कुल संख्या विषम है। सही विकल्प को चुनिए :",
+  "q_en": "In a class, teacher prepared following table showing colours of eyes of 40 students : [Table — Blue eye / Brown eye / Black eye : Boys — 5 / 4 / 11 ; Girls — 7 / 3 / 10] Teacher told four students to write one statement each about this table on black-board. They wrote : (a) Number of boys and girls are equal. (b) Mostly students have black eye. (c) Total number of students having blue eyes is odd. (d) Total number of students having brown eyes is odd. Choose the correct option :",
+  "options": [
+   "(a), (b) सही हैं परन्तु (c) और (d) गलत हैं।",
+   "(a), (b) और (d) सही हैं परन्तु (c) गलत है।",
+   "(b) और (c) सही हैं परन्तु (a) और (d) गलत हैं।",
+   "(a), (b), (c) सही हैं परन्तु (d) गलत है।"
+  ],
+  "answer": 1,
+  "exp_hi": "तालिका से लड़के = लड़कियाँ = 20, काली आँखें सबसे अधिक (21), नीली कुल 12 (सम), भूरी कुल 7 (विषम) — अतः (a), (b), (d) सही हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q46",
+  "mock_q": 21
+ },
+ {
+  "n": 46,
+  "subject": "Maths",
+  "q_hi": "निपुण भारत मिशन के अनुसार राज्य __________ वर्ष के अन्त तक ग्रेड III तक मूलभूत अंकज्ञान प्राप्त करना सुनिश्चित करेंगे।",
+  "q_en": "According to NIPUN Bharat Mission, the states will ensure to achieve foundational numeracy till grade III by the end of the year :",
+  "options": [
+   "2027-28",
+   "2024-25",
+   "2029-30",
+   "2026-27"
+  ],
+  "answer": 3,
+  "exp_hi": "निपुण भारत मिशन के अनुसार राज्य वर्ष 2026-27 के अंत तक ग्रेड III तक मूलभूत अंकज्ञान सुनिश्चित करेंगे।",
+  "source": "CTET Paper 1 Feb 2026, Q47",
+  "mock_q": 22
+ },
+ {
+  "n": 47,
+  "subject": "Maths",
+  "q_hi": "अमीता स्थान A से प्रारंभ करके स्थान B तक 4 घंटे 44 मिनटों में पहुँचती है। वहाँ से वह वापिस प्रारंभिक स्थान A पर 3 घंटे 24 मिनटों में पहुँच जाती है। यदि वह वापिस 2.30 pm पर पहुँचती है, तो उसका स्थान A से चलने का प्रारंभिक समय था :",
+  "q_en": "Amita starts from the place A and reaches place B in 4 hours 44 minutes. From there, she returns to the starting place A in 3 hours 24 minutes. If she reaches back at 2.30 pm, then her starting time from place A was :",
+  "options": [
+   "6.00 am",
+   "6.22 am",
+   "6.24 am",
+   "6.44 am"
+  ],
+  "answer": 1,
+  "exp_hi": "कुल यात्रा समय 4 घंटे 44 मिनट + 3 घंटे 24 मिनट = 8 घंटे 8 मिनट; दोपहर 2:30 से पीछे गिनने पर प्रस्थान सुबह 6:22 बजे हुआ।",
+  "source": "CTET Paper 1 Feb 2026, Q48",
+  "mock_q": 23
+ },
+ {
+  "n": 49,
+  "subject": "Maths",
+  "q_hi": "निम्नलिखित में कौन-सी गतिविधि, आँकड़ों के प्रबंधन के चार स्तरों, यानि कि, आँकड़ें एकत्रित करना, संगठित करना, निरूपित करना और प्रतिपादित करना, को सबसे उपयुक्त रूप से दर्शाती है ?",
+  "q_en": "Which of the following activities, most appropriately, represents the four stages involved in handling data i.e., collecting, organising, representing and interpreting data ?",
+  "options": [
+   "विद्यार्थियों से उनके पसंदीदा खाने की सूची बनाने को कहना।",
+   "विद्यार्थियों को एक कैलेण्डर पर अपनी जन्म तिथि को चिह्नित करने के लिए कहना।",
+   "विद्यार्थियों को अपने पसंदीदा कार्टून का नाम लिखने के लिए कहना।",
+   "यह आँकड़े एकत्रित करना कि विद्यार्थी स्कूल कैसे जाते हैं और फिर विद्यार्थियों द्वारा इस्तेमाल किए जाने वाले यातायात के विभिन्न साधनों की तुलना करना।"
+  ],
+  "answer": 3,
+  "exp_hi": "स्कूल आने के साधनों के आँकड़े एकत्रित, संगठित, निरूपित और तुलना करना आँकड़ा-प्रबंधन के चारों स्तरों को दर्शाता है।",
+  "source": "CTET Paper 1 Feb 2026, Q50",
+  "mock_q": 24
+ },
+ {
+  "n": 51,
+  "subject": "Maths",
+  "q_hi": "गणित की अध्यापिका ने मोहन को एक आयताकार काग़ज़ देते हुए कहा कि इससे आप एक वर्ग बनाओ। मोहन आयताकार काग़ज को एक तरफ से मोड़कर वर्ग बना देता है। मोहन, वैन हीले की ज्यामितीय समझ के सिद्धांत के किस स्तर पर है?",
+  "q_en": "While giving a rectangular page to Mohan, Mathematics teacher told him to make a square out of it. Mohan folded that paper from one side and made a square. At what level of Van Heile’s theory of geometrical understanding Mohan is ?",
+  "options": [
+   "स्तर 2 (संबंधों की समझ)",
+   "स्तर 1 (विश्लेषण)",
+   "स्तर 0 (दृश्यीकरण)",
+   "स्तर 3 (निगमन)"
+  ],
+  "answer": 0,
+  "exp_hi": "काग़ज़ मोड़कर वर्ग बनाना वैन हीले के स्तर 2 (संबंधों की समझ) को दर्शाता है।",
+  "source": "CTET Paper 1 Feb 2026, Q52",
+  "mock_q": 25
+ },
+ {
+  "n": 53,
+  "subject": "Maths",
+  "q_hi": "गणित पढ़ाने की समस्या-समाधान विधि में निम्नलिखित में से कौन सा/से चरण शामिल है/हैं ? (a) गणितीय समस्याओं को प्रस्तुत करना और समाधान के चरणों का निर्देश देना। (b) विद्यार्थियों की वर्तमान समझ के आधार पर एक कार्य तैयार करना। (c) दैनिक जीवन की समस्याओं को प्रस्तुत करना और उनमें निहित गणित को समझने में विद्यार्थियों की सहायता करना। (d) शिक्षार्थियों को सक्रिय रूप से समस्याओं के समाधान खोजने में भाग लेने और समाधान को उचित सिद्ध करने के अवसर देना। सही विकल्प चुनिए :",
+  "q_en": "Problem solving method of teaching mathematics involves which of the following steps ? (a) Posing mathematical problems and instructing steps of solutions. (b) Design a task based upon the current understanding of the students. (c) Posing everyday problems and help learners make sense of the mathematics involved. (d) Allowing the learners to actively take part in the finding solutions of the problems and justify the solutions. Choose the correct option :",
+  "options": [
+   "केवल (a)",
+   "केवल (d)",
+   "(c) और (d)",
+   "(b), (c) और (d)"
+  ],
+  "answer": 3,
+  "exp_hi": "समस्या-समाधान विधि में (b), (c) और (d) चरण शामिल हैं; तैयार चरण निर्देश देना इसका हिस्सा नहीं है।",
+  "source": "CTET Paper 1 Feb 2026, Q54",
+  "mock_q": 26
+ },
+ {
+  "n": 55,
+  "subject": "Maths",
+  "q_hi": "एक आयत का परिमाप 410 m है और इसकी लंबाई 123 m है। आयत की चौड़ाई (m में) है :",
+  "q_en": "The perimeter of a rectangle is 410 m and its length is 123 m. The breadth of the rectangle (in m) is :",
+  "options": [
+   "82",
+   "86",
+   "88",
+   "92"
+  ],
+  "answer": 0,
+  "exp_hi": "चौड़ाई = (परिमाप ÷ 2) − लम्बाई = 205 − 123 = 82 मीटर।",
+  "source": "CTET Paper 1 Feb 2026, Q56",
+  "mock_q": 27
+ },
+ {
+  "n": 57,
+  "subject": "Maths",
+  "q_hi": "1 से 50 तक की संख्याओं में, कितने अभाज्य युग्म हैं?",
+  "q_en": "How many twin primes are there in the numbers from 1 to 50 ?",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
+  "answer": 0,
+  "exp_hi": "1 से 50 के बीच जुड़वाँ अभाज्य युग्म 6 हैं — (3,5), (5,7), (11,13), (17,19), (29,31), (41,43)।",
+  "source": "CTET Paper 1 Feb 2026, Q58",
+  "mock_q": 28
+ },
+ {
+  "n": 59,
+  "subject": "Maths",
+  "q_hi": "गणित की कक्षा में विद्यार्थियों द्वारा की गई त्रुटियों के बारे में निम्नलिखित में से कौन सा कथन सबसे कम उपयुक्त है ?",
+  "q_en": "Which of the following statement is least appropriate about the errors made by students in a mathematics classroom ?",
+  "options": [
+   "वे नैदानिक परीक्षा द्वारा पहचानी जा सकती हैं।",
+   "वे बार-बार हो सकती हैं यदि उनकी पहचान न की जाए।",
+   "उनका वर्णन किया जा सकता है परन्तु विश्लेषण नहीं किया जा सकता।",
+   "वे दोहराई जा सकती हैं।"
+  ],
+  "answer": 2,
+  "exp_hi": "‘वर्णन किया जा सकता है परन्तु विश्लेषण नहीं किया जा सकता’ — त्रुटियों के बारे में यह कथन सबसे कम उपयुक्त है।",
+  "source": "CTET Paper 1 Feb 2026, Q60",
+  "mock_q": 29
+ },
+ {
+  "n": 61,
+  "subject": "EVS",
+  "q_hi": "पर्यावरण अध्ययन के एक शिक्षक को अपनी कक्षा की गतिविधियों के संपादन में बच्चों के स्थानीय संदर्भ को शामिल करना चाहिए। स्थानीय संदर्भ को शामिल करने के लिए एक शिक्षक को निम्नलिखित में से क्‍या ध्यान देना चाहिए ?",
+  "q_en": "A teacher of Environmental Studies should include the local context of the children in conducting his/her class activities. Which of the following should a teacher pay attention to in order to incorporate the local context ?",
+  "options": [
+   "स्थानीय संदर्भ का चयन विद्यालय के अनुशासन के अनुरूप हो।",
+   "स्थानीय संदर्भ का चयन शिक्षाशास्त्रीय दृष्टि से कल्पनाशील और नैतिक दृष्टि से सही हो।",
+   "स्थानीय संदर्भ का चयन पर्यावरण अध्ययन की पाठ्यपुस्तकों से होना चाहिए।",
+   "स्थानीय संदर्भ का चयन एक शिक्षक की सुविधा अनुसार हो।"
+  ],
+  "answer": 1,
+  "exp_hi": "स्थानीय संदर्भ का चयन शिक्षाशास्त्रीय दृष्टि से कल्पनाशील और नैतिक दृष्टि से सही होना चाहिए।",
+  "source": "CTET Paper 1 Feb 2026, Q62",
+  "mock_q": 30
+ },
+ {
+  "n": 63,
+  "subject": "EVS",
+  "q_hi": "एनसीईआरटी के पर्यावरण अध्ययन के पाठ्यपुस्तक में कई पाठ वास्तविक लोग तथा उनके वास्तविक अनुभव पर आधारित हैं। पाठ्यपुस्तक निर्माण समिति ने वास्तविक लोग तथा उनके वास्तविक अनुभव क्‍यों शामिल किया होगा ? (A) बच्चे वास्तविक लोगों से अपने आप को आसानी से जोड़ लेते हैं। (B) पर्यावरण अध्ययन के दौरान, बच्चों के साथ उनके अनुभव को शामिल करके विचारों पर चर्चा की जा सकती है। (C) यह विचार सुदृढ़ करने में सहायता मिलती है कि पर्यावरण अध्ययन केवल कक्षाओं में एवं पाठ्यपुस्तकों से ही हो सकता है। (D) वास्तविक लोग तथा उनके अनुभव बच्चों को प्रेरित करते हैं।",
+  "q_en": "Many lessons in the NCERT EVS textbook are based on real people and their real experiences. Why would the textbook development committee have included real people and their real experiences ? (A) Children easily relate to real people. (B) During EVS, ideas can be discussed with the children by including their experiences. (C) It helps in reinforcing the idea that environmental studies can be done only in classrooms and through textbooks. (D) Real people and their experiences inspire children.",
+  "options": [
+   "(A), (B) और (D)",
+   "(B), (C) और (D)",
+   "(A), (C) और (D)",
+   "(A), (B) और (C)"
+  ],
+  "answer": 0,
+  "exp_hi": "वास्तविक लोग बच्चों से जुड़ाव, चर्चा का आधार और प्रेरणा देते हैं; (C) कथन गलत है, अतः (A), (B) और (D) सही हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q64",
+  "mock_q": 31
+ },
+ {
+  "n": 65,
+  "subject": "EVS",
+  "q_hi": "पर्यावरण अध्ययन की पाठ्यपुस्तकों में पर्यावरण से संबंधित बहुत सारी कविताएँ हैं। शिक्षक को बच्चों से भी कविताएँ बनाने के लिए कहना चाहिए। निम्नलिखित में से कविताएँ लिखने से, मुख्य रूप से कौन सी प्रक्रिया कौशल का विकास होता है ?",
+  "q_en": "There are many poems related to the environment in the textbooks of Environmental Studies. The teacher should also ask the children to create poems. Which one of the following process skills is mainly developed by writing poems ?",
+  "options": [
+   "रचनात्मक अभिव्यक्ति",
+   "पेशीय कौशल",
+   "अधिगम कौशल",
+   "अभिसारी कौशल"
+  ],
+  "answer": 0,
+  "exp_hi": "कविताएँ लिखने से मुख्य रूप से रचनात्मक अभिव्यक्ति कौशल का विकास होता है।",
+  "source": "CTET Paper 1 Feb 2026, Q66",
+  "mock_q": 32
+ },
+ {
+  "n": 67,
+  "subject": "EVS",
+  "q_hi": "किसी बड़े शहर के मानचित्र पर नीचे दिया गया पैमाना दर्शाया गया है : पैमाना 1 cm = 845 m यदि इस मानचित्र पर किन्हीं दो स्थानों के बीच की मापी गयी दूरी 13.7 cm है, तो इन स्थानों के बीच की वास्तविक दूरी है लगभग :",
+  "q_en": "On the map of a big city following scale is mentioned. Scale : 1 cm = 845 m If on this map the measured distance between two important locations of the city is 13.7 cm, the actual distance between the two locations is approximately :",
+  "options": [
+   "12.90 km",
+   "11.57 km",
+   "11.02 km",
+   "12.50 km"
+  ],
+  "answer": 1,
+  "exp_hi": "वास्तविक दूरी = 13.7 × 845 मीटर = 11576.5 मीटर ≈ 11.57 km।",
+  "source": "CTET Paper 1 Feb 2026, Q68",
+  "mock_q": 33
+ },
+ {
+  "n": 69,
+  "subject": "EVS",
+  "q_hi": "बिहार के सापेक्ष पंजाब और केरल की स्थितियाँ है क्रमश: :",
+  "q_en": "The locations of Punjab and Kerala respectively with respect to Bihar are :",
+  "options": [
+   "उत्तर-पश्चिम; दक्षिण-पूर्व",
+   "उत्तर-पूर्व; दक्षिण-पश्चिम",
+   "उत्तर-पश्चिम; दक्षिण-पश्चिम",
+   "ठीक उत्तर; दक्षिण-पूर्व"
+  ],
+  "answer": 2,
+  "exp_hi": "बिहार के सापेक्ष पंजाब उत्तर-पश्चिम में और केरल दक्षिण-पश्चिम में स्थित है।",
+  "source": "CTET Paper 1 Feb 2026, Q70",
+  "mock_q": 34
+ },
+ {
+  "n": 71,
+  "subject": "EVS",
+  "q_hi": "नीचे दिए गए कथनों (A) और (B) पर विचार कीजिए। कथन (A) : स्लॉथ दिन के करीब 20 घंटे सोता है। कथन (B) : स्लॉथ लगभग 20 वर्ष जीता है और अपने पूरे जीवन में वह मुश्किल से 5 पेड़ों तक ही घूम पाता है। निम्नलिखित में से सही कूट चुनिए।",
+  "q_en": "Consider the following Statements (A) and (B). Statement (A) : Sloth spends almost 20 hours a day sleeping. Statement (B) : Sloth lives for about 20 years and in that time they move around only 5 trees. Select the correct code from the following.",
+  "options": [
+   "(A) और (B) दोनों गलत हैं।",
+   "(A) सही है परन्तु (B) गलत है।",
+   "(A) गलत है परन्तु (B) सही है।",
+   "(A) और (B) दोनों सही हैं।"
+  ],
+  "answer": 0,
+  "exp_hi": "स्लॉथ दिन में लगभग 17 घंटे सोता है और लगभग 40 वर्ष जीता है, अतः दोनों कथन गलत हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q72",
+  "mock_q": 35
+ },
+ {
+  "n": 73,
+  "subject": "EVS",
+  "q_hi": "मैं एक भारतीय पक्षी हूँ जो पत्थरों के बीच खाली जगह में अण्डा देती है। मेरा घोंसला नाजुक टहनी, जड़ें, ऊन, बाल तथा रूई आदि से बना होता है। बताएँ कि मैं निम्नलिखित में से कौन हूँ ? निम्नलिखित में से सही उत्तर का चयन करें।",
+  "q_en": "I am an Indian bird who lay eggs in between the stones. My nest is made of soft twigs, roots, wools, hair and cotton wool. Who am I ? Choose the correct answer from the following.",
+  "options": [
+   "कौआ",
+   "कठफोड़वा (वुडपेकर)",
+   "कलचिड़ी (इंडियन रोबिन)",
+   "भारतीय मोर"
+  ],
+  "answer": 2,
+  "exp_hi": "पत्थरों के बीच अण्डे देने और मुलायम घोंसला बनाने वाला पक्षी कलचिड़ी (इंडियन रोबिन) है।",
+  "source": "CTET Paper 1 Feb 2026, Q74",
+  "mock_q": 36
+ },
+ {
+  "n": 75,
+  "subject": "EVS",
+  "q_hi": "भारत की राजधानी (नई दिल्ली) और बिहार की राजधानी (पटना) के बीच की दूरी 792 किलोमीटर है। यदि कोई एक्सप्रेस बस इस दूरी को 11 घंटे में तय कर लेती है तो उस बस की मीटर प्रति सेकण्ड में औसत चाल क्या है ?",
+  "q_en": "The distance between the capital of India (New Delhi) and the capital of Bihar (Patna) is 792 km. If an express bus covers this distance in 11 hours, the average speed of the bus in metre per second is :",
+  "options": [
+   "20 m/s",
+   "36 m/s",
+   "72 m/s",
+   "15 m/s"
+  ],
+  "answer": 0,
+  "exp_hi": "औसत चाल = 792 km ÷ 11 घंटे = 72 km/h = 72 × 5/18 = 20 m/s।",
+  "source": "CTET Paper 1 Feb 2026, Q76",
+  "mock_q": 37
+ },
+ {
+  "n": 77,
+  "subject": "EVS",
+  "q_hi": "सही सुमेलित युग्म/युग्मों का चयन कीजिए। भाषा — जहाँ बोली जाती है (राज्य) : (a) मलयालम (i) गोआ (b) कोंकणी (ii) केरल (c) मराठी (iii) झारखंड (d) गुजराती (iv) कर्नाटक (e) कन्नड़ (v) महाराष्ट्र (f) कुडुक (vi) गुजरात",
+  "q_en": "Choose the correctly matched pair(s). Language Where it is spoken (State) (a) Malayalam (i) Goa (b) Konkani (ii) Kerala (c) Marathi (iii) Jharkhand (d) Gujarati (iv) Karnataka (e) Kannada (v) Maharashtra (f) Kuduk (vi) Gujarat",
+  "options": [
+   "(a)-(ii), (b)-(i), (c)-(v), (d)-(vi), (e)-(iv), (f)-(iii)",
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv), (e)-(vi), (f)-(v)",
+   "(a)-(i), (b)-(ii), (c)-(v), (d)-(iv), (e)-(vi), (f)-(iii)",
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv), (e)-(v), (f)-(vi)"
+  ],
+  "answer": 0,
+  "exp_hi": "मलयालम–केरल, कोंकणी–गोआ, मराठी–महाराष्ट्र, गुजराती–गुजरात, कन्नड़–कर्नाटक, कुडुक–झारखंड — यही सही सुमेलन है।",
+  "source": "CTET Paper 1 Feb 2026, Q78",
+  "mock_q": 38
+ },
+ {
+  "n": 79,
+  "subject": "EVS",
+  "q_hi": "प्राथमिक स्तर पर पर्यावरण अध्ययन की क्या सार्थकता है ? निम्नलिखित में से सबसे उपयुक्त विकल्प चुनें। (A) यह बाल केंद्रित है। (B) इसका केंद्र बिंदु बच्चों को पर्यावरण पढ़ाना है। (C) पर्यावरण अध्ययन, बच्चों को उसके पर्यावरण का अनुभव करवाती है। (D) इसका उद्देश्य बच्चों में सकारात्मक अभिवृत्ति, समस्या समाधान कौशल और मूल्यों का विकास करना है।",
+  "q_en": "What is the significance of Environmental Studies at the primary level ? Choose the most appropriate option from the following. (A) It is child focused. (B) Its focus is to teach the environment to children. (C) Environmental Studies makes children experience their environment. (D) Its objective is to develop positive attitude, problem solving skills and values.",
+  "options": [
+   "(B), (C) और (D)",
+   "(A) और (D)",
+   "(A), (C) और (D)",
+   "(A), (B) और (C)"
+  ],
+  "answer": 2,
+  "exp_hi": "पर्यावरण अध्ययन बाल केंद्रित है, बच्चों को पर्यावरण का अनुभव करवाता है और सकारात्मक अभिवृत्ति व मूल्य विकसित करता है — (A), (C), (D) सही हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q80",
+  "mock_q": 39
+ },
+ {
+  "n": 81,
+  "subject": "EVS",
+  "q_hi": "यह कहा जाता है कि बच्चे काफी आसानी से अपने परिवेश से बहुत कुछ सीखते हैं। उनके अनुभवों को कक्षा में लाया जाए, उनके प्रश्नों के उत्तरों को दिया जाए तथा उनकी जिज्ञासाओं को शांत किया जाए। ऐसा करने से पर्यावरण अध्ययन के पाठ्यचर्या को अधिक समृद्ध और रचनात्मक बनाया जा सकता है। उपरोक्त के संदर्भ में पर्यावरण अध्ययन की पाठ्यचर्या निम्नलिखित में से किस सिद्धांत को इंगित कर रहा है ?",
+  "q_en": "It is said that children learn a lot from their surroundings quite easily. Their experiences should be brought into the classroom, their questions answered and their curiosities satisfied. By doing so, the curriculum of EVS can be made more enriching and creative. In the context of the above, the curriculum of Environmental Studies is indicating which of the following principles ?",
+  "options": [
+   "अज्ञात से ज्ञात",
+   "वैश्विक से स्थानीय",
+   "सूचना से समझ",
+   "स्थानीय से वैश्विक"
+  ],
+  "answer": 3,
+  "exp_hi": "अपने परिवेश से सीखने को कक्षा से जोड़ना ‘स्थानीय से वैश्विक’ सिद्धांत को इंगित करता है।",
+  "source": "CTET Paper 1 Feb 2026, Q82",
+  "mock_q": 40
+ },
+ {
+  "n": 83,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से क्या आकलन के मानदंड, जिला/राज्य/राष्ट्रीय स्तर पर, विभिन्‍न हितधारकों को बच्चे के सीखने की सूचना देते हैं तथा शिक्षा की गुणवत्ता भी सुनिश्चित करते हैं ?",
+  "q_en": "Which of the following assessment criteria, at the district/state/national level, informs various stakeholders about a child’s learning and also ensures quality of education ?",
+  "options": [
+   "सीखने के उद्देश्य",
+   "सीखने के प्रतिफल",
+   "सीखने के प्रतिफल और दक्षता",
+   "सीखने के विशिष्ट उद्देश्य"
+  ],
+  "answer": 2,
+  "exp_hi": "जिला/राज्य/राष्ट्रीय स्तर पर सीखने के प्रतिफल और दक्षता ही आकलन के मानदंड हैं जो गुणवत्ता सुनिश्चित करते हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q84",
+  "mock_q": 41
+ },
+ {
+  "n": 85,
+  "subject": "EVS",
+  "q_hi": "दिए गए कथनों को ध्यानपूर्वक पढ़िए एवं सही विकल्प चुनिए। अभिकथन (A) : एक कोशिका में केंद्र में स्थित विशिष्ट गोलाकार संरचना केंद्रक कहलाती है। कारण (R) : केंद्रक जैली जैसी संरचना से घिरा होता है, जिसे कोशिका द्रव्य कहते हैं।",
+  "q_en": "Read the following statements carefully and choose the correct option. Assertion (A) : A distinct centrally located spherical structure in a cell is called Nucleus. Reason (R) : Nucleus is surrounded by a jelly like structure called cytoplasm.",
+  "options": [
+   "दोनों (A) एवं (R) सही हैं लेकिन (R), (A) का सही स्पष्टीकरण नहीं है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) गलत है लेकिन (R) सही है।",
+   "दोनों (A) एवं (R) सही हैं और (R), (A) का सही स्पष्टीकरण है।"
+  ],
+  "answer": 0,
+  "exp_hi": "केंद्रक कोशिका के केंद्र में स्थित गोलाकार संरचना है; परंतु वह कोशिका द्रव्य से घिरा होता है — यह (A) की व्याख्या नहीं, अलग तथ्य है।",
+  "source": "CTET Paper 1 Feb 2026, Q86",
+  "mock_q": 42
+ },
+ {
+  "n": 87,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित अभिकथन तथा कारण को ध्यान से पढ़ें तथा सही उत्तर का चयन करें। अभिकथन (A) : काम करने वाली मधुमक्खियों के बिना न तो छत्ता बनेगा और न ही शहद इकट्ठा हो पाएगा। कारण (R) : नर-मक्खियों की कामकाजियों के रूप में बहुत खास भूमिका होती है।",
+  "q_en": "Read the following Assertion and its Reason and choose the correct answer. Assertion (A) : Without worker-bee, there would be neither beehieve nor any nectar collection. Reason (R) : The male bees have very special role as workers.",
+  "options": [
+   "दोनों (A) एवं (R) सही हैं किन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है किन्तु (R) गलत है।",
+   "(A) गलत है किन्तु (R) सही है।",
+   "दोनों (A) एवं (R) सही हैं तथा (R), (A) की सही व्याख्या है।"
+  ],
+  "answer": 1,
+  "exp_hi": "अभिकथन सही है, पर कारण गलत है — काम करने वाली मधुमक्खियाँ मादा होती हैं, नर मक्खियाँ काम नहीं करतीं।",
+  "source": "CTET Paper 1 Feb 2026, Q88",
+  "mock_q": 43
+ },
+ {
+  "n": 89,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित प्रश्न में, कथन और कारण दिया गया है। कथनों को ध्यान से पढ़ें और निम्नलिखित में से सही विकल्प का चयन कीजिए। कथन : बच्चे की स्थानीय वस्तुएँ एक स्वाभाविक अधिगम का स्रोत हैं जिन्हें कक्षा में प्रधानता देनी चाहिए। कारण : जब स्कूल के अंदर और उसके आसपास का जीवंत संसार चिंतन के लिए उपलब्ध होगा, बच्चे पर्यावरण के मुद्दों के प्रति सचेत होंगे और उनके प्रति अपनी रुचि को पोषित कर पाएँगे।",
+  "q_en": "In the following question, Assertion and Reason are followed. Read the statements carefully and choose the correct option from the following. Assertion : The child’s local objects are a natural source of learning which should be given primacy in the classroom. Reason : When the living world in and around the school is available for contemplation, children will be aware of environmental issues and will be able to nurture their interest in them.",
+  "options": [
+   "कथन और कारण दोनों सही हैं लेकिन कारण, कथन की सही व्याख्या नहीं है।",
+   "कथन सत्य है लेकिन कारण असत्य है।",
+   "कथन असत्य है लेकिन कारण सत्य है।",
+   "कथन और कारण दोनों सही हैं और कारण, कथन की सही व्याख्या है।"
+  ],
+  "answer": 3,
+  "exp_hi": "बच्चे की स्थानीय वस्तुएँ अधिगम का स्वाभाविक स्रोत हैं और कारण, कथन की सही व्याख्या है।",
+  "source": "CTET Paper 1 Feb 2026, Q90",
+  "mock_q": 44
+ },
+ {
+  "n": 91,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश : अहंकार में इंसान के चरित्र को पतन की ओर ले जाने वाली प्रवृत्तियाँ हैं। प्रत्येक व्यक्ति को अहं भाव का त्याग कर समभाव और सद्भाव से जीवन जीने का प्रयत्न करना चाहिए। अगर कोई अपने आपको सर्वश्रेष्ठ मानता है तो यह उसकी सबसे बड़ी भूल है क्योंकि दुनिया में हर किसी से बड़ा कोई न कोई अवश्य होता है। सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी अपने आप को दुनिया में सर्वश्रेष्ठ नहीं समझ सकता। अगर समझता है तो यह उसकी सबसे बड़ी भूल है। भगवान बुद्ध के अनुसार दिखावा और घमंड अच्छे प्रयोजन से किए गए कार्यों को भी मलिन कर देते हैं। इसकी वजह से हमारा मान-सम्मान कम हो जाता है। अगर मन को शांत रखना है तो घमंड से बचना चाहिए। प्रश्न : अच्छे उद्देश्य से किए गए कार्य भी मलिन हो जाते हैं जब वे __________ ।",
+  "q_en": "Works done with good intentions also become tainted when they are __________.",
+  "options": [
+   "स्वच्छ हाथों से किए जाते हैं",
+   "मलिन उद्देश्य के साथ किए जाते हैं",
+   "दिखावे के लिए किए जाते हैं",
+   "लोभ व लालच के लिए किए जाते हैं"
+  ],
+  "answer": 2,
+  "exp_hi": "भगवान बुद्ध के अनुसार दिखावे और घमंड से किए गए कार्य मलिन हो जाते हैं।",
+  "source": "CTET Paper 1 Feb 2026, Q92",
+  "mock_q": 45
+ },
+ {
+  "n": 93,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश : अहंकार में इंसान के चरित्र को पतन की ओर ले जाने वाली प्रवृत्तियाँ हैं। प्रत्येक व्यक्ति को अहं भाव का त्याग कर समभाव और सद्भाव से जीवन जीने का प्रयत्न करना चाहिए। अगर कोई अपने आपको सर्वश्रेष्ठ मानता है तो यह उसकी सबसे बड़ी भूल है क्योंकि दुनिया में हर किसी से बड़ा कोई न कोई अवश्य होता है। सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी अपने आप को दुनिया में सर्वश्रेष्ठ नहीं समझ सकता। अगर समझता है तो यह उसकी सबसे बड़ी भूल है। भगवान बुद्ध के अनुसार दिखावा और घमंड अच्छे प्रयोजन से किए गए कार्यों को भी मलिन कर देते हैं। इसकी वजह से हमारा मान-सम्मान कम हो जाता है। अगर मन को शांत रखना है तो घमंड से बचना चाहिए। प्रश्न : सृष्टि निर्माण करने वाले ने ऐसा चक्र बनाया है कि __________ ।",
+  "q_en": "The creator of the universe has made such a cycle that __________.",
+  "options": [
+   "कोई भी स्वयं को विशिष्ट समझ सकता है",
+   "कोई भी स्वयं को सर्वश्रेष्ठ नहीं समझ सकता है",
+   "कोई भी किसी को सर्वश्रेष्ठ समझ सकता है",
+   "कोई भी स्वयं को सर्वश्रेष्ठ समझ सकता है"
+  ],
+  "answer": 1,
+  "exp_hi": "सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी स्वयं को सर्वश्रेष्ठ नहीं समझ सकता।",
+  "source": "CTET Paper 1 Feb 2026, Q94",
+  "mock_q": 46
+ },
+ {
+  "n": 95,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश : अहंकार में इंसान के चरित्र को पतन की ओर ले जाने वाली प्रवृत्तियाँ हैं। प्रत्येक व्यक्ति को अहं भाव का त्याग कर समभाव और सद्भाव से जीवन जीने का प्रयत्न करना चाहिए। अगर कोई अपने आपको सर्वश्रेष्ठ मानता है तो यह उसकी सबसे बड़ी भूल है क्योंकि दुनिया में हर किसी से बड़ा कोई न कोई अवश्य होता है। सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी अपने आप को दुनिया में सर्वश्रेष्ठ नहीं समझ सकता। अगर समझता है तो यह उसकी सबसे बड़ी भूल है। भगवान बुद्ध के अनुसार दिखावा और घमंड अच्छे प्रयोजन से किए गए कार्यों को भी मलिन कर देते हैं। इसकी वजह से हमारा मान-सम्मान कम हो जाता है। अगर मन को शांत रखना है तो घमंड से बचना चाहिए। प्रश्न : सद्भाव का संधि विच्छेद है __________ ।",
+  "q_en": "The sandhi-vicched (split) of 'सद्भाव' is __________.",
+  "options": [
+   "सत् + भाव",
+   "सद् + भाव",
+   "सदु + भाव",
+   "सु + भाव"
+  ],
+  "answer": 0,
+  "exp_hi": "सद्भाव का संधि विच्छेद सत् + भाव है (त् का द् में परिवर्तन)।",
+  "source": "CTET Paper 1 Feb 2026, Q96",
+  "mock_q": 47
+ },
+ {
+  "n": 97,
+  "subject": "Hindi",
+  "q_hi": "गद्यांश : अहंकार में इंसान के चरित्र को पतन की ओर ले जाने वाली प्रवृत्तियाँ हैं। प्रत्येक व्यक्ति को अहं भाव का त्याग कर समभाव और सद्भाव से जीवन जीने का प्रयत्न करना चाहिए। अगर कोई अपने आपको सर्वश्रेष्ठ मानता है तो यह उसकी सबसे बड़ी भूल है क्योंकि दुनिया में हर किसी से बड़ा कोई न कोई अवश्य होता है। सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी अपने आप को दुनिया में सर्वश्रेष्ठ नहीं समझ सकता। अगर समझता है तो यह उसकी सबसे बड़ी भूल है। भगवान बुद्ध के अनुसार दिखावा और घमंड अच्छे प्रयोजन से किए गए कार्यों को भी मलिन कर देते हैं। इसकी वजह से हमारा मान-सम्मान कम हो जाता है। अगर मन को शांत रखना है तो घमंड से बचना चाहिए। प्रश्न : गद्यांश के अनुसार मनुष्य के पतन का कारण है :",
+  "q_en": "According to the passage, the cause of a person's downfall is:",
+  "options": [
+   "बुरी आदतें",
+   "भूल",
+   "आलस्य",
+   "घमंड"
+  ],
+  "answer": 3,
+  "exp_hi": "गद्यांश के अनुसार अहंकार/घमंड मनुष्य के पतन का कारण है।",
+  "source": "CTET Paper 1 Feb 2026, Q98",
+  "mock_q": 48
+ },
+ {
+  "n": 99,
+  "subject": "Hindi",
+  "q_hi": "कविता : जीवन अस्थिर अनजाने ही, हो जाता पथ पर मेल कहीं, सीमित पग डग, लंबी मंज़िल, तय कर लेना कुछ खेल नहीं। दाएँ-बाएँ सुख-दुख चलते, सम्मुख चलता पथ का प्रसाद, जिस-जिस से पथ पर स्नेह मिला, उस-उस राही को धन्यवाद। प्रश्न : जीवन में कुछ भी प्राप्त कर लेना -",
+  "q_en": "Achieving anything in life is -",
+  "options": [
+   "कठिन है",
+   "सरल है",
+   "अविश्वसनीय है",
+   "असंभव है"
+  ],
+  "answer": 0,
+  "exp_hi": "कविता के अनुसार जीवन में कुछ प्राप्त करना कठिन है — ‘तय कर लेना कुछ खेल नहीं’।",
+  "source": "CTET Paper 1 Feb 2026, Q100",
+  "mock_q": 49
+ },
+ {
+  "n": 100,
+  "subject": "Hindi",
+  "q_hi": "कविता : जीवन अस्थिर अनजाने ही, हो जाता पथ पर मेल कहीं, सीमित पग डग, लंबी मंज़िल, तय कर लेना कुछ खेल नहीं। दाएँ-बाएँ सुख-दुख चलते, सम्मुख चलता पथ का प्रसाद, जिस-जिस से पथ पर स्नेह मिला, उस-उस राही को धन्यवाद। प्रश्न : कवि अपने जीवन में किन्हें धन्यवाद देना चाहता है ?",
+  "q_en": "Whom does the poet want to thank in his life?",
+  "options": [
+   "स्नेह देने वाले को",
+   "खेल दिखाने वाले को",
+   "साथ चलने वाले को",
+   "प्रेरणा देने वाले को"
+  ],
+  "answer": 0,
+  "exp_hi": "कवि उन राहीयों को धन्यवाद देता है जिनसे पथ पर स्नेह मिला, अर्थात स्नेह देने वालों को।",
+  "source": "CTET Paper 1 Feb 2026, Q101",
+  "mock_q": 50
+ }
+]
