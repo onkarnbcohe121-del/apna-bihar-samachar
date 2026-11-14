@@ -1,0 +1,1102 @@
+[
+ {
+  "n": 1,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सा निरंतर और व्यापक मूल्यांकन का समर्थन करेगा?",
+  "q_en": "Which of the following would support continuous and comprehensive evaluation?",
+  "options": [
+   "सर्वश्रेष्ठ कार्य पोर्टफोलियो",
+   "वृद्धि और अधिगम प्रगति पोर्टफोलियो",
+   "मानकीकृत उपलब्धि परीक्षण",
+   "मानकीकृत बुद्धि परीक्षण"
+  ],
+  "options_en": [
+   "Best works portfolio",
+   "Growth and learning progress portfolio",
+   "Standardized achievement test",
+   "Standardized intelligence test"
+  ],
+  "answer": 1,
+  "exp_hi": "सतत एवं व्यापक मूल्यांकन (CCE) समय के साथ शिक्षार्थी के विकास पर नज़र रखता है। वृद्धि और अधिगम प्रगति पोर्टफोलियो पूरे वर्ष का कार्य एकत्र करता है और प्रगति दिखाता है, जबकि सर्वश्रेष्ठ कार्य पोर्टफोलियो या एक बार का मानकीकृत परीक्षण केवल एक झलक ही देता है।",
+  "source": "CTET Paper 1 July 2024, Q1",
+  "mock_q": 1
+ },
+ {
+  "n": 5,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सा कथन प्रगतिशील शिक्षा में शिक्षक की भूमिका का सबसे अच्छा वर्णन करता है?",
+  "q_en": "Which of the following statement best describes the role of the teacher in progressive education?",
+  "options": [
+   "शिक्षक ज्ञान का प्राथमिक स्रोत होते हैं।",
+   "शिक्षक एक सुविधाप्रदाता के रूप में कार्य करते हैं।",
+   "शिक्षक निर्धारित पाठ्यक्रम को ‘ज्यों का त्यों’ लागू करते हैं।",
+   "शिक्षक बच्चों को स्वतंत्र रूप से कार्य करने के लिए उनके हाल पर छोड़ देते हैं।"
+  ],
+  "options_en": [
+   "The teacher is the primary source of knowledge.",
+   "The teacher serves as a facilitator.",
+   "The teacher implements the prescribed curriculum ‘as it is’.",
+   "The teacher leaves the children on their own to work independently."
+  ],
+  "answer": 1,
+  "exp_hi": "प्रगतिशील शिक्षा (डीवी) बाल-केंद्रित और अनुभव-आधारित होती है; शिक्षक ज्ञान को सीधे देने या बच्चों को बिना सहायता छोड़ने के बजाय सीखने का मार्गदर्शन और सुगमन करता है।",
+  "source": "CTET Paper 1 July 2024, Q5",
+  "mock_q": 2
+ },
+ {
+  "n": 14,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A): विविध सांस्कृतिक पृष्ठभूमि से छात्रों की जरूरतों को पूरा करने के लिए कक्षा शिक्षण को सांस्कृतिक रूप से उत्तरदायी होना चाहिए। कारण (R): कक्षा में समता केवल मानकीकृत पाठ्यचर्या व आकलन के द्वारा सुनिश्चित की जा सकती है। सही विकल्प चुनें।",
+  "q_en": "Assertion (A): Classroom pedagogy should be culturally responsive to meet the needs of students from diverse cultural backgrounds. Reason (R): Equity in classroom can be ensured only through standardized curriculum and assessment. Choose the correct option.",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "Both (A) and (R) are false."
+  ],
+  "answer": 2,
+  "exp_hi": "विविध कक्षाओं में सांस्कृतिक रूप से उत्तरदायी शिक्षाशास्त्र आवश्यक है, इसलिए (A) सही है। (R) गलत है: समता के लिए भिन्नताओं के प्रति संवेदनशील होना ज़रूरी है, सबके लिए एक जैसा मानकीकृत पाठ्यचर्या और आकलन नहीं।",
+  "source": "CTET Paper 1 July 2024, Q14",
+  "mock_q": 3
+ },
+ {
+  "n": 16,
+  "subject": "Child Development",
+  "q_hi": "आनुवंशिकता पूरी तरह से एक व्यक्ति के/की __________ का निर्धारण करती है। (i) सेक्स (ii) जेंडर (iii) शैक्षणिक सफलता (iv) सीखने की शैली",
+  "q_en": "Heredity totally determine an individual’s: (i) Sex (ii) Gender (iii) Academic Success (iv) Learning Style",
+  "options": [
+   "(i)",
+   "(ii)",
+   "(i), (iii), (iv)",
+   "(ii), (iii), (iv)"
+  ],
+  "options_en": [
+   "(i)",
+   "(ii)",
+   "(i), (iii), (iv)",
+   "(ii), (iii), (iv)"
+  ],
+  "answer": 0,
+  "exp_hi": "जैविक लिंग (सेक्स) माता-पिता से मिले लिंग गुणसूत्रों द्वारा तय होता है। जेंडर एक सामाजिक निर्माण है, तथा शैक्षणिक सफलता और सीखने की शैली आनुवंशिकता और पर्यावरण की अंतःक्रिया का परिणाम हैं।",
+  "source": "CTET Paper 1 July 2024, Q16",
+  "mock_q": 4
+ },
+ {
+  "n": 18,
+  "subject": "Child Development",
+  "q_hi": "दोहराव व बारम्बार किए जाने वाला व्यवहार किसकी विशिष्ट पहचान है?",
+  "q_en": "Repetitive and ritualistic behaviour is an identifying characteristic of:",
+  "options": [
+   "स्वलीन क्रम विकार की",
+   "अधिगमात्मक विकलांगता की",
+   "ध्यान न्यूनता अतिक्रियाशीलता विकार की",
+   "मस्तिष्क पक्षाघात की"
+  ],
+  "options_en": [
+   "Autism Spectrum Disorder",
+   "Learning Disabilities",
+   "Attention Deficit Hyperactivity Disorder",
+   "Cerebral palsy"
+  ],
+  "answer": 0,
+  "exp_hi": "व्यवहार के सीमित, दोहराव वाले और अनुष्ठानिक प्रतिरूप, सामाजिक संप्रेषण की कठिनाइयों के साथ, स्वलीनता स्पेक्ट्रम विकार के मुख्य नैदानिक लक्षण हैं।",
+  "source": "CTET Paper 1 July 2024, Q18",
+  "mock_q": 5
+ },
+ {
+  "n": 20,
+  "subject": "Child Development",
+  "q_hi": "आमतौर पर ‘सीखने की अक्षमता/कठिनाइयों’ वाले बच्चों में :",
+  "q_en": "Children with ‘learning difficulties’ typically:",
+  "options": [
+   "नजर कमजोर होने के कारण पढ़ने में परेशानी होती है।",
+   "अपनी भावनाओं को नियंत्रित करने में समस्या होती है।",
+   "एक जैसे दिखने वाले अक्षर और वर्ण को लेकर भ्रम होता है।",
+   "मानक बुद्धि परीक्षणों के माध्यम से निदानित बहुत कम बुद्धि लब्धि होती है।"
+  ],
+  "options_en": [
+   "Have difficulties in reading due to their poor sight.",
+   "Have problems in regulating their emotions.",
+   "Have confusion with letter and alphabets that look alike.",
+   "Have very low IQ as diagnosed through standard intelligence tests."
+  ],
+  "answer": 2,
+  "exp_hi": "डिस्लेक्सिया जैसी सीखने की कठिनाइयाँ अक्सर एक जैसे दिखने वाले अक्षरों (b/d, p/q) में भ्रम के रूप में दिखती हैं। इनका कारण कमज़ोर नज़र या कम बुद्धि नहीं होता।",
+  "source": "CTET Paper 1 July 2024, Q20",
+  "mock_q": 6
+ },
+ {
+  "n": 21,
+  "subject": "Child Development",
+  "q_hi": "ऐसे बच्चे जिन्होंने बहुत कम उम्र से गंभीर (मानव) सामाजिक अभाव का अनुभव किया है, आमतौर पर उनके विकास में देरी या बाधा उत्पन्न होती है और पुनर्वास के बावजूद विकास के कुछ क्षेत्रों में सुधार अधीनस्थ होने की संभावना है। यह अवधि जिसमें विकास पर्यावरणीय समर्थन से महत्वपूर्ण रूप से प्रभावित होता है, _________ कहलाती है।",
+  "q_en": "Feral children, those who experienced severe (human) social deprivation since very young age usually have delayed or hindered development and despite rehabilitation the improvement in certain domains of development is likely to be subordinate. This period wherein development is significantly influenced by environmental support is called _________.",
+  "options": [
+   "निगमनात्मक अवधि",
+   "सहज काल",
+   "मूल काल",
+   "संवेदनशील अवधि"
+  ],
+  "options_en": [
+   "deductive period",
+   "intuitive period",
+   "native period",
+   "sensitive period"
+  ],
+  "answer": 3,
+  "exp_hi": "संवेदनशील (क्रांतिक) अवधि जीवन के आरंभ की वह खिड़की है जब पर्यावरण का किसी विशेष प्रकार के विकास, जैसे भाषा, पर सबसे अधिक प्रभाव पड़ता है। इसे खो देने पर, जैसा जंगली बच्चों के साथ होता है, स्थायी कमियाँ रह जाती हैं।",
+  "source": "CTET Paper 1 July 2024, Q21",
+  "mock_q": 7
+ },
+ {
+  "n": 22,
+  "subject": "Child Development",
+  "q_hi": "विभिन्न जेंडर के व्यवहार के बारे में पूर्वकल्पित सामान्यीकरण क्या कहलाते हैं?",
+  "q_en": "Preconceived generalizations about behaviour of various gender are called:",
+  "options": [
+   "जेंडर रूढ़िवादिता",
+   "जेंडर भेदभाव",
+   "जेंडर पहचान",
+   "जेंडर प्रारूप"
+  ],
+  "options_en": [
+   "Gender stereotypes",
+   "Gender discriminations",
+   "Gender identity",
+   "Gender typing"
+  ],
+  "answer": 0,
+  "exp_hi": "रूढ़ि (स्टीरियोटाइप) किसी समूह के बारे में एक स्थिर, अति-सरलीकृत धारणा है। लड़कों या लड़कियों के व्यवहार के बारे में पूर्वकल्पित सामान्यीकरण (जैसे ‘लड़कियाँ कोमल होती हैं’) जेंडर रूढ़िवादिता हैं।",
+  "source": "CTET Paper 1 July 2024, Q22",
+  "mock_q": 8
+ },
+ {
+  "n": 23,
+  "subject": "Child Development",
+  "q_hi": "एक समावेशी कक्षा में :",
+  "q_en": "In an inclusive classroom:",
+  "options": [
+   "‘विशेष बच्चे’ हमेशा अपने पाठ्यचर्या पर काम करते हैं।",
+   "सभी बच्चों की कक्षा की गतिविधियों तक पहुँच है और वे कक्षा की क्रिया में शामिल हैं।",
+   "‘विशेष’ बच्चों को जरूरतमंद और आश्रित के रूप में देखा जाता है।",
+   "सभी बच्चे समान पाठ्यचर्या का पालन करते हैं और सभी शिक्षार्थियों के लिए समान शिक्षाशास्त्र अपनाया जाता है।"
+  ],
+  "options_en": [
+   "‘Special children’ always work on their own curriculum.",
+   "All children have access to and are included in classroom activities.",
+   "‘Special’ children are looked upon as needy and dependent.",
+   "All children follow same curriculum and uniform pedagogy is adopted for all learners."
+  ],
+  "answer": 1,
+  "exp_hi": "समावेशी शिक्षा का अर्थ है कि विकलांगता वाले बच्चों सहित हर बच्चे की कक्षा की सभी गतिविधियों तक पहुँच हो और वह उनमें भाग ले, तथा शिक्षाशास्त्र विविध आवश्यकताओं के अनुसार ढाला जाए, अलग या एक समान व्यवहार न हो।",
+  "source": "CTET Paper 1 July 2024, Q23",
+  "mock_q": 9
+ },
+ {
+  "n": 24,
+  "subject": "Child Development",
+  "q_hi": "आलोचनात्मक सोच वाले प्रश्न पूछने का प्राथमिक उद्देश्य क्या है?",
+  "q_en": "What is the primary purpose of asking critical thinking questions?",
+  "options": [
+   "छात्रों को प्रक्रियात्मक ज्ञान विकसित करने में सक्षम बनाना।",
+   "छात्रों के ज्ञान और समझ कौशल का आकलन करने के लिए।",
+   "उच्च स्तरीय सोच और समस्या समाधान कौशल को बढ़ावा देना।",
+   "छात्रों को जानकारी याद रखने के लिए प्रोत्साहित करना।"
+  ],
+  "options_en": [
+   "To enable students to develop procedural knowledge.",
+   "To assess students’ knowledge and understanding skills.",
+   "To promote higher-level thinking and problem-solving skills.",
+   "To encourage students to memorize information."
+  ],
+  "answer": 2,
+  "exp_hi": "आलोचनात्मक चिंतन वाले प्रश्न शिक्षार्थियों को याद करने से आगे विश्लेषण, मूल्यांकन और समस्या-समाधान, यानी उच्च स्तरीय चिंतन, की ओर ले जाने के लिए बनाए जाते हैं।",
+  "source": "CTET Paper 1 July 2024, Q24",
+  "mock_q": 10
+ },
+ {
+  "n": 25,
+  "subject": "Child Development",
+  "q_hi": "सामाजिक रचनाविदियों के अनुसार अधिगम की प्रक्रिया के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
+  "q_en": "Which of the following is correct about the process of learning, according to socio-constructivist theories?",
+  "options": [
+   "अधिगम एक व्यक्तिवादी प्रक्रिया है जो अलगाव में होता है।",
+   "अधिगम केवल कक्षा या औपचारिक शैक्षिक विन्यास में होता है।",
+   "अधिगम एक निष्क्रिय प्रक्रिया है जो केवल अवलोकन के माध्यम से होता है।",
+   "अधिगम अर्थ निर्माण की एक सामाजिक प्रक्रिया है।"
+  ],
+  "options_en": [
+   "Learning is an individualistic process that occurs in isolation.",
+   "Learning occurs only in a classroom or formal educational setting.",
+   "Learning is a passive process that occurs solely through observation.",
+   "Learning is a social process of meaning making."
+  ],
+  "answer": 3,
+  "exp_hi": "सामाजिक रचनावाद (वायगोत्स्की) अधिगम को एक सक्रिय प्रक्रिया मानता है जिसमें बच्चे सांस्कृतिक संदर्भ में वयस्कों और साथियों के साथ सामाजिक अंतःक्रिया द्वारा अर्थ का निर्माण करते हैं।",
+  "source": "CTET Paper 1 July 2024, Q25",
+  "mock_q": 11
+ },
+ {
+  "n": 26,
+  "subject": "Child Development",
+  "q_hi": "अभिकथन (A): जबकि कुछ बच्चे 12 महीने की उम्र में बड़बड़ाना और दो शब्दों का वाक्य बोलना शुरू कर देते हैं, अन्य 20 महीने की उम्र तक ऐसा नहीं करते हैं। कारण (R): विकासात्मक प्रतिमान केवल सांकेतिक हैं और व्यक्तिगत बच्चों का विकास काफी भिन्न हो सकता है। सही विकल्प चुनें।",
+  "q_en": "Assertion (A): While some children start babbling and uttering two word sentences at 12 months, others don’t do this till they are 20 months old. Reason (R): Development milestones are only suggestive and development of individual children can be quite varied. Choose the correct option.",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।",
+   "(A) और (R) दोनों गलत हैं।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "Both (A) and (R) are false."
+  ],
+  "answer": 0,
+  "exp_hi": "विकासात्मक प्रतिमान केवल एक अनुमानित आयु-सीमा बताते हैं; विकास की गति में व्यक्तिगत भिन्नताएँ होती हैं। इसी से स्पष्ट होता है कि कुछ बच्चे दूसरों से बहुत पहले दो शब्दों के वाक्य क्यों बोलने लगते हैं।",
+  "source": "CTET Paper 1 July 2024, Q26",
+  "mock_q": 12
+ },
+ {
+  "n": 28,
+  "subject": "Child Development",
+  "q_hi": "हेंज की दुविधा को पेश किए जाने पर, अरुणिमा तर्क देती हैं : “कानून इन परिस्थितियों के लिए स्थापित नहीं किया गया था। इस स्थिति में दवा लेना वास्तव में सही नहीं है, लेकिन यह उचित है।” लॉरेंस कोहलबर्ग के सिद्धांत के अनुसार अरुणिमा नैतिक विकास की कौन-सी अवस्था है?",
+  "q_en": "When presented with Heinz’s dilemma, Arunima reasons: “The law wasn’t set up for these circumstances. Taking the drug in this situation isn’t really right, but it’s justified.” Which stage of moral development is Arunima according to the theory of Lawrence Kohlberg?",
+  "options": [
+   "सामाजिक सरोकार और विवेक",
+   "नैतिकता का विरोधाभास, व्यक्तिगत अधिकार व लोकतांत्रिकता",
+   "दंड की ओर उन्मुखीकरण और आज्ञाकारिता स्वीकृत कानून",
+   "यांत्रिक उद्देश्य व विनिमय"
+  ],
+  "options_en": [
+   "Social concern and conscience",
+   "Morality of contract, of individual rights and of democratically accepted law",
+   "Orientation towards punishment and obedience",
+   "Instrumental purpose and exchange"
+  ],
+  "answer": 1,
+  "exp_hi": "अरुणिमा कानूनों को सामाजिक समझौता मानती है जो हर परिस्थिति में उपयुक्त नहीं हो सकते और मानव अधिकारों की रक्षा के लिए जिन्हें परे रखा जा सकता है। यह कोहलबर्ग की उत्तर-रूढ़िगत अवस्था 5, यानी सामाजिक अनुबंध और व्यक्तिगत अधिकार उन्मुखीकरण है।",
+  "source": "CTET Paper 1 July 2024, Q28",
+  "mock_q": 13
+ },
+ {
+  "n": 29,
+  "subject": "Child Development",
+  "q_hi": "प्रतिभाशाली बच्चों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "q_en": "Which of the following is correct in context of gifted children?",
+  "options": [
+   "प्रतिभाशाली बच्चे सीखने की अक्षमता के जोखिम से मुक्त होते हैं।",
+   "प्रतिभाशाली बच्चे निश्चित रूप से शैक्षणिक, सामाजिक और भावनात्मक सभी क्षेत्रों में उत्कृष्टता प्राप्त करते हैं।",
+   "प्रतिभाशाली छात्र हमेशा खुश, लोकप्रिय और अच्छी तरह से समायोजित होते हैं।",
+   "प्रतिभाशाली छात्र अन्य छात्रों की तुलना में अपेक्षाकृत उन्नत गति से सीखते हैं।"
+  ],
+  "options_en": [
+   "Gifted children are free from risk of learning disability.",
+   "Gifted children certainly excel in all areas academic, social and emotional.",
+   "Gifted students are always happy, popular and well adjusted.",
+   "Gifted students learn at comparatively advanced pace than other students."
+  ],
+  "answer": 3,
+  "exp_hi": "प्रतिभाशाली बच्चे आमतौर पर साथियों से तेज़ सीखते हैं और अवधारणाओं को जल्दी समझ लेते हैं। फिर भी उनमें सीखने की अक्षमता हो सकती है (द्वि-असाधारण) और वे हर क्षेत्र में उत्कृष्ट या भली-भाँति समायोजित हों, यह आवश्यक नहीं।",
+  "source": "CTET Paper 1 July 2024, Q29",
+  "mock_q": 14
+ },
+ {
+  "n": 31,
+  "subject": "Maths",
+  "q_hi": "गणित की कक्षा में विद्यार्थियों में व्यैक्तिक भिन्नता की पहचान के लिए निम्नलिखित में से कौन सी आकलन तकनीक उपयुक्त नहीं होगी?",
+  "q_en": "In order to identify individual differences of students in the mathematics class, which of the following assessment technique will not be appropriate?",
+  "options": [
+   "योगात्मक आकलन",
+   "रचनात्मक आकलन",
+   "नैदानिक आकलन",
+   "समकक्षी आकलन"
+  ],
+  "options_en": [
+   "Summative assessment",
+   "Formative assessment",
+   "Diagnostic assessment",
+   "Peer assessment"
+  ],
+  "answer": 0,
+  "exp_hi": "योगात्मक आकलन इकाई या सत्र के अंत में होता है और ग्रेड के साथ समग्र उपलब्धि का निर्णय करता है; रचनात्मक, नैदानिक या समकक्षी आकलन के विपरीत, यह सीखने के दौरान प्रत्येक शिक्षार्थी की व्यक्तिगत आवश्यकताओं को उजागर करने के लिए नहीं बना होता।",
+  "source": "CTET Paper 1 July 2024, Q31",
+  "mock_q": 15
+ },
+ {
+  "n": 32,
+  "subject": "Maths",
+  "q_hi": "निम्नलिखित में से कौन-सा संसाधन दशमलव की अवधारणा को समझाने के लिए सबसे उचित है? (a) संख्या चार्ट (b) डाइनिस ब्लाक्स (c) टेलर का गिनतारा (d) ग्राफ पेपर सही विकल्प चुनें :",
+  "q_en": "Which of the following resources is best suited to explain the concept of decimals? (a) Number Chart (b) Dienes Blocks (c) Taylor’s Abacus (d) Graph Paper Choose the correct option:",
+  "options": [
+   "केवल (b)",
+   "(b) और (d)",
+   "(a) और (c)",
+   "(a) और (b)"
+  ],
+  "options_en": [
+   "Only (b)",
+   "(b) and (d)",
+   "(a) and (c)",
+   "(a) and (b)"
+  ],
+  "answer": 1,
+  "exp_hi": "डाइनिस ब्लॉक्स पूर्ण, दशांश और शतांश को दर्शा सकते हैं, और ग्राफ पेपर पर 10 × 10 की ग्रिड दशांश को पट्टियों और शतांश को छोटे वर्गों के रूप में दिखाती है। दोनों दशमलव के स्थानीय मान को अच्छी तरह दर्शाते हैं।",
+  "source": "CTET Paper 1 July 2024, Q32",
+  "mock_q": 16
+ },
+ {
+  "n": 33,
+  "subject": "Maths",
+  "q_hi": "एक कक्षा में विद्यार्थी प्रतिशतता छूट पर आधारित प्रश्नों को हल कर रहे हैं। एक प्रश्न में विद्यार्थियों को प्रत्येक मोटरसाईकिल पर 8% छूट के साथ दो मोटरसाईकिलों के मूल्य का परिकलन करने की आवश्यकता है। एक समूह दोनों मोटरसाईकिलों के कुल मूल्य का परिकलन करता है और फिर कुल मूल्य में से 16% काट लेता है। इस समूह द्वारा प्रयोग की गई विधि :",
+  "q_en": "Students in a class are solving questions based on percentage discounts. One question requires the students to calculate the cost of two bikes, with a 8% discount on each bike. One of the groups calculates the total cost of the bikes and then deducts 16% from the total cost. The method used by this group is:",
+  "options": [
+   "सही है तथा यह छूट एवं मूल्य का परिकलन करने का एकमात्र तरीका है।",
+   "प्रश्न को हल करने की वैकल्पिक कार्यनीति है।",
+   "गलत है क्योंकि उन्होंने कुल मूल्य से 8% की जगह 16% छूट काट दी।",
+   "गलत है क्योंकि उन्होंने कुल मूल्य से 16% काट दिया बजाय 16% कुल मूल्य के औसत से।"
+  ],
+  "options_en": [
+   "Correct and is the only way to calculate the discount and cost.",
+   "An alternate strategy to solve the question.",
+   "False, since they have deducted 16% discount from the total instead of 8%.",
+   "False, since they have deducted 16% from the total instead of 16% from the average of the total."
+  ],
+  "answer": 2,
+  "exp_hi": "प्रत्येक मोटरसाइकिल पर 8% छूट कुल मूल्य पर 8% छूट के बराबर है, क्योंकि A का 8% + B का 8% = (A + B) का 8%। कुल मूल्य में से 16% काटने पर छूट दोगुनी हो जाती है, इसलिए यह विधि गलत है।",
+  "source": "CTET Paper 1 July 2024, Q33",
+  "mock_q": 17
+ },
+ {
+  "n": 38,
+  "subject": "Maths",
+  "q_hi": "किसी सप्ताह में एक दंत चिकित्सालय में मरीज़ों की संख्या इस प्रकार थी : दिन मरीज़ों की संख्या सोमवार 25 मंगलवार 38 बुधवार 45 बृहस्पतिवार 18 शुक्रवार 36 शनिवार 39 इस तालिका के आधार पर, गलत कथन को चुनिए :",
+  "q_en": "In a certain week, the number of patients in a dental clinic was as follows: Day Number of patients Monday 25 Tuesday 38 Wednesday 45 Thursday 18 Friday 36 Saturday 39 Based on above table, choose the wrong statement:",
+  "options": [
+   "आँकड़ों का परिसर 27 है।",
+   "अधिकतर दिनों में मरीज़ों की संख्या 30 से अधिक थी।",
+   "सोमवार और बुधवार को मरीज़ों की संख्या का अंतर 20 है।",
+   "मरीज़ों की कुल संख्या 200 थी।"
+  ],
+  "options_en": [
+   "Range of the data is 27",
+   "On most of the days, number of patients was more than 30",
+   "Difference between the number of patients on Monday and Wednesday is 20",
+   "Total number of patients was 200"
+  ],
+  "answer": 3,
+  "exp_hi": "परिसर = 45 − 18 = 27 (सही); 6 में से 4 दिन 30 से ऊपर हैं (सही); 45 − 25 = 20 (सही)। कुल = 25 + 38 + 45 + 18 + 36 + 39 = 201, 200 नहीं, इसलिए कथन (4) गलत है।",
+  "source": "CTET Paper 1 July 2024, Q38",
+  "mock_q": 18
+ },
+ {
+  "n": 41,
+  "subject": "Maths",
+  "q_hi": "सौम्या ने 13-01-1992 को नौकरी करना आरंभ किया और 31-03-2023 को उसने सेवानिवृत्ति ले ली। उसकी नौकरी की अवधि थी :",
+  "q_en": "Saumya joined her job on 13-01-1992 and she took retirement on 31-03-2023. Duration of her service was:",
+  "options": [
+   "30 वर्ष 10 मास और 19 दिन",
+   "30 वर्ष 9 मास और 18 दिन",
+   "31 वर्ष 2 मास और 19 दिन",
+   "31 वर्ष 2 मास और 18 दिन"
+  ],
+  "options_en": [
+   "30 years 10 months and 19 days",
+   "30 years 9 months and 18 days",
+   "31 years 2 months and 19 days",
+   "31 years 2 months and 18 days"
+  ],
+  "answer": 2,
+  "exp_hi": "नौकरी में आने का दिन और अंतिम दिन दोनों गिनने पर: 13-01-1992 से 12-01-2023 तक = 31 वर्ष; 13-01-2023 से 12-03-2023 तक = 2 मास; 13-03-2023 से 31-03-2023 तक (दोनों दिन सहित) = 19 दिन। सेवा अवधि = 31 वर्ष 2 मास 19 दिन।",
+  "source": "CTET Paper 1 July 2024, Q41",
+  "mock_q": 19
+ },
+ {
+  "n": 42,
+  "subject": "Maths",
+  "q_hi": "एक त्रिभुज के दो कोण 50° और 30° हैं। तब त्रिभुज का तीसरा कोण है :",
+  "q_en": "Two angles of a triangle are 50° and 30°. Then, the third angle of the triangle is:",
+  "options": [
+   "100°",
+   "40°",
+   "60°",
+   "80°"
+  ],
+  "options_en": [
+   "100°",
+   "40°",
+   "60°",
+   "80°"
+  ],
+  "answer": 0,
+  "exp_hi": "त्रिभुज के कोणों का योग 180° होता है, इसलिए तीसरा कोण = 180° − (50° + 30°) = 100°।",
+  "source": "CTET Paper 1 July 2024, Q42",
+  "mock_q": 20
+ },
+ {
+  "n": 45,
+  "subject": "Maths",
+  "q_hi": "22 hm 8 dam बराबर है :",
+  "q_en": "22 hm 8 dam is equal to:",
+  "options": [
+   "22800 m",
+   "2208 m",
+   "2280 m",
+   "22080 m"
+  ],
+  "options_en": [
+   "22800 m",
+   "2208 m",
+   "2280 m",
+   "22080 m"
+  ],
+  "answer": 2,
+  "exp_hi": "1 hm = 100 m और 1 dam = 10 m, इसलिए 22 hm 8 dam = 2200 m + 80 m = 2280 m।",
+  "source": "CTET Paper 1 July 2024, Q45",
+  "mock_q": 21
+ },
+ {
+  "n": 46,
+  "subject": "Maths",
+  "q_hi": "यदि x : y=p : q, तो निम्नलिखित में से कौन-सा सत्य है? (a) x+y : y=p+q : q (b) x−y : y=p−q : q (c) x : p=y : q (d) x+y : x−y=p−q : p+q",
+  "q_en": "If x : y = p : q, then which of the following is true? (a) x + y : y = p + q : q (b) x − y : y = p − q : q (c) x : p = y : q (d) x + y : x − y = p − q : p + q",
+  "options": [
+   "(a) और (b)",
+   "केवल (c)",
+   "(a) और (d)",
+   "(a), (b) और (c)"
+  ],
+  "options_en": [
+   "(a) and (b)",
+   "only (c)",
+   "(a) and (d)",
+   "(a), (b) and (c)"
+  ],
+  "answer": 3,
+  "exp_hi": "x/y = p/q से: दोनों में 1 जोड़ने पर (x + y)/y = (p + q)/q (योगानुपात); 1 घटाने पर (x − y)/y = (p − q)/q (अन्तरानुपात); और एकांतरानुपात से x/p = y/q। (d) गलत है; सही रूप x + y : x − y = p + q : p − q है।",
+  "source": "CTET Paper 1 July 2024, Q46",
+  "mock_q": 22
+ },
+ {
+  "n": 47,
+  "subject": "Maths",
+  "q_hi": "1233210 ÷ 5555 − 222 बराबर है :",
+  "q_en": "1233210 ÷ 5555 − 222 is equal to:",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "options_en": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "exp_hi": "5555 × 222 = 1233210, इसलिए 1233210 ÷ 5555 = 222, और 222 − 222 = 0।",
+  "source": "CTET Paper 1 July 2024, Q47",
+  "mock_q": 23
+ },
+ {
+  "n": 50,
+  "subject": "Maths",
+  "q_hi": "12 हजार +13 सौ +2 दस बराबर है :",
+  "q_en": "12 thousand + 13 hundred + 2 tens is equal to:",
+  "options": [
+   "12132",
+   "130132",
+   "13320",
+   "121320"
+  ],
+  "options_en": [
+   "12132",
+   "130132",
+   "13320",
+   "121320"
+  ],
+  "answer": 2,
+  "exp_hi": "12000 + 1300 + 20 = 13320।",
+  "source": "CTET Paper 1 July 2024, Q50",
+  "mock_q": 24
+ },
+ {
+  "n": 52,
+  "subject": "Maths",
+  "q_hi": "कक्षा-II के अधिगमकर्ताओं के लिए आधारभूत संक्रियाओं में अभिकलन के लिए निम्नलिखित में से कौन-सा/से सही है/हैं? (a) इसमें बच्चे की अनौपचारिक कार्यनीतियों को विकसित करने की क्षमता समाकलित है। (b) इसमें बच्चे की अनुमान लगाने की क्षमता समाकलित है। (c) इसमें बड़ी संख्याओं के साथ परिकलन करने की बच्चे की क्षमता समाकलित है। सही विकल्प चुनें :",
+  "q_en": "Which among the following is/are true about the computation in basic operations for Grade-II learners? (a) It involves child’s ability to develop informal strategies. (b) It involves child’s ability to estimate. (c) It involves child’s ability to do calculations with large numbers. Choose the correct option:",
+  "options": [
+   "केवल (c)",
+   "(b) और (c)",
+   "(a) और (c)",
+   "(a) और (b)"
+  ],
+  "options_en": [
+   "Only (c)",
+   "(b) and (c)",
+   "(a) and (c)",
+   "(a) and (b)"
+  ],
+  "answer": 3,
+  "exp_hi": "कक्षा II में अभिकलन का ध्यान छोटी संख्याओं के साथ बच्चों द्वारा अपनी अनौपचारिक कार्यनीतियाँ विकसित करने और परिणाम का अनुमान लगाने पर होता है; इस अवस्था में बड़ी संख्याओं के साथ परिकलन अपेक्षित नहीं है।",
+  "source": "CTET Paper 1 July 2024, Q52",
+  "mock_q": 25
+ },
+ {
+  "n": 55,
+  "subject": "Maths",
+  "q_hi": "43, 47, 53, 59, ?, 67, 71, 73 में लुप्त संख्या (?) है :",
+  "q_en": "The missing number (?) in the following: 43, 47, 53, 59, ?, 67, 71, 73 is:",
+  "options": [
+   "61",
+   "60",
+   "63",
+   "65"
+  ],
+  "options_en": [
+   "61",
+   "60",
+   "63",
+   "65"
+  ],
+  "answer": 0,
+  "exp_hi": "श्रेणी में क्रमागत अभाज्य संख्याएँ हैं: 43, 47, 53, 59, 61, 67, 71, 73। इसलिए लुप्त संख्या 61 है।",
+  "source": "CTET Paper 1 July 2024, Q55",
+  "mock_q": 26
+ },
+ {
+  "n": 56,
+  "subject": "Maths",
+  "q_hi": "गणित कक्षा में शिक्षक भिन्न-भिन्न कोणों की अवधारणा को समझाता/ती है उसे यह अनुभूति होती है कि कैंची __________ को समझाने के लिए सर्वोत्तम उदाहरण है। (a) शीर्षाभिमुख कोण (b) कोणों का रैखिक युगल (c) संगत कोण (d) एकांतर कोण सही विकल्प चुनें :",
+  "q_en": "In a mathematics class a teacher explains the concept of different angles. He/she realizes that scissors is a best example to explain __________. (a) Vertically opposite angles (b) Linear pair of angles (c) Corresponding angles (d) Alternate angles Choose the correct option:",
+  "options": [
+   "(a) और (b)",
+   "(a) और (c)",
+   "(c) और (d)",
+   "(b) और (c)"
+  ],
+  "options_en": [
+   "(a) and (b)",
+   "(a) and (c)",
+   "(c) and (d)",
+   "(b) and (c)"
+  ],
+  "answer": 0,
+  "exp_hi": "खुली कैंची के दो फलक दो प्रतिच्छेदी रेखाओं की तरह एक-दूसरे को काटते हैं, जिससे शीर्षाभिमुख कोण और रैखिक युगल बनाने वाले आसन्न कोण बनते हैं। संगत और एकांतर कोणों के लिए समानांतर रेखाएँ और एक तिर्यक रेखा चाहिए।",
+  "source": "CTET Paper 1 July 2024, Q56",
+  "mock_q": 27
+ },
+ {
+  "n": 57,
+  "subject": "Maths",
+  "q_hi": "राजू के पास प्रत्येक 20 L वाले प्रत्येक 5 बर्तनों में तारपीन का तेल है। उसने इसे 5 L वाले 10 बर्तनों, 2 L वाले 10 बर्तनों और बाकी को 1 L वाले बर्तनों में भरा। 1 L वाले बर्तनों की संख्या है :",
+  "q_en": "Raju has turpentine oil in 5 containers each of 20 L size. He fills them in 10 cans of 5 L, 10 cans of 2 L and rest in 1 L cans. Number of 1 L cans filled is:",
+  "options": [
+   "25",
+   "30",
+   "22",
+   "28"
+  ],
+  "options_en": [
+   "25",
+   "30",
+   "22",
+   "28"
+  ],
+  "answer": 1,
+  "exp_hi": "कुल तेल = 5 × 20 = 100 L। 10 × 5 L = 50 L और 10 × 2 L = 20 L, बचा 100 − 70 = 30 L, अर्थात् 1 L के 30 बर्तन।",
+  "source": "CTET Paper 1 July 2024, Q57",
+  "mock_q": 28
+ },
+ {
+  "n": 59,
+  "subject": "Maths",
+  "q_hi": "यदि (7 * 2) × (123) = 92496 है, तो * का मान है :",
+  "q_en": "If (7 * 2) × (123) = 92496, then value of * is:",
+  "options": [
+   "2",
+   "1",
+   "4",
+   "5"
+  ],
+  "options_en": [
+   "2",
+   "1",
+   "4",
+   "5"
+  ],
+  "answer": 3,
+  "exp_hi": "92496 ÷ 123 = 752, इसलिए तीन अंकों की संख्या 7*2 = 752 है और * = 5।",
+  "source": "CTET Paper 1 July 2024, Q59",
+  "mock_q": 29
+ },
+ {
+  "n": 64,
+  "subject": "EVS",
+  "q_hi": "तेलंगाना के सापेक्ष गुजरात और बिहार की क्रमशः स्थितियाँ हैं :",
+  "q_en": "With respect to Telangana the respective locations of Gujarat and Bihar are:",
+  "options": [
+   "उत्तर पश्चिम; दक्षिण पूर्व",
+   "दक्षिण पश्चिम; उत्तर पूर्व",
+   "उत्तर पूर्व; उत्तर पश्चिम",
+   "उत्तर पश्चिम; उत्तर पूर्व"
+  ],
+  "options_en": [
+   "North west; South east",
+   "South west; North east",
+   "North east; North west",
+   "North west; North east"
+  ],
+  "answer": 3,
+  "exp_hi": "तेलंगाना भारत के दक्षिण-मध्य भाग में है। गुजरात पश्चिमी तट पर इसके उत्तर-पश्चिम में और बिहार पूर्वी भारत में इसके उत्तर-पूर्व में स्थित है।",
+  "source": "CTET Paper 1 July 2024, Q64",
+  "mock_q": 30
+ },
+ {
+  "n": 67,
+  "subject": "EVS",
+  "q_hi": "पर्वतारोहियों को अधिक ऊँचाईं पर नाक से ख़ून बहने का कारण होता है :",
+  "q_en": "Mountaineers suffer nose bleeding at higher altitudes because:",
+  "options": [
+   "रक्त वाहिकाओं में दबाव बाहरी दबाव से अधिक हो जाता है।",
+   "रक्त वाहिकाओं में दबाव बाहरी दबाव से कम हो जाता है।",
+   "रक्त वाहिकाओं में दबाव बाहरी दबाव के बराबर हो जाता है।",
+   "अधिक ऊँचाई पर ख़ून/रक्त गाढ़ा हो जाता है।"
+  ],
+  "options_en": [
+   "The pressure in blood vessels exceeds outside pressure.",
+   "The pressure in blood vessels decreases than outside pressure.",
+   "The pressure in blood vessels equals the outside pressure.",
+   "Blood becomes thick at higher altitudes."
+  ],
+  "answer": 0,
+  "exp_hi": "ऊँचाई के साथ वायुदाब घटता है जबकि शरीर के भीतर रक्त का दबाव लगभग वही रहता है। भीतर का अधिक दबाव नाक की पतली रक्त वाहिकाओं को फोड़ सकता है, जिससे ख़ून बहता है।",
+  "source": "CTET Paper 1 July 2024, Q67",
+  "mock_q": 31
+ },
+ {
+  "n": 68,
+  "subject": "EVS",
+  "q_hi": "निम्न में से ऊष्मा के कुचालक समूह का चयन करें :",
+  "q_en": "Select the group of poor conductors of heat from the following:",
+  "options": [
+   "ऊन, लकड़ी, लोहा",
+   "हवा, जल, तांबा",
+   "हवा, ऊन, एल्युमिनियम",
+   "ऊन, प्लास्टिक, लकड़ी"
+  ],
+  "options_en": [
+   "Wool, Wood, Iron",
+   "Air, Water, Copper",
+   "Air, Wool, Aluminium",
+   "Wool, Plastic, Wood"
+  ],
+  "answer": 3,
+  "exp_hi": "ऊन, प्लास्टिक और लकड़ी सभी ऊष्मा के कुचालक हैं। अन्य समूहों में एक धातु (लोहा, तांबा, एल्युमिनियम) है, जो ऊष्मा की सुचालक है।",
+  "source": "CTET Paper 1 July 2024, Q68",
+  "mock_q": 32
+ },
+ {
+  "n": 69,
+  "subject": "EVS",
+  "q_hi": "पहले दिन से 10 वें दिन तक बीज किस प्रकार अंकुरण में आते हैं लिखिए। रीता ने ‘अंकुरण’ का पाठ पढ़ाने से पहले अपने विद्यार्थियों को यह कार्य दिया। वह अपने छात्रों की कौन सी क्षमता का आकलन करने की कोशिश कर रही है? (a) चित्र बनाएँ और प्रस्तुत करें (b) अनुमान करें कि अंकुरित बीज कैसे दिखेंगे (c) निरीक्षण करें और रिकॉर्ड करें (d) दी गई क्रियाकलाप से निष्कर्ष निकालें",
+  "q_en": "“Record how the seeds germinate into saplings from day 1 to day 10”. Rita gave this task to her students before teaching the lesson on ‘Germination’. She is trying to assess her students’ ability to: (a) draw and represent (b) predict how germinating seeds would look like (c) observe and record (d) infer from the given activity",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(b), (c) और (d)",
+   "(a), (b) और (c)"
+  ],
+  "options_en": [
+   "(a) and (b)",
+   "(b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (b) and (c)"
+  ],
+  "answer": 2,
+  "exp_hi": "चूँकि यह कार्य पाठ से पहले दिया गया है, इसलिए बच्चों को अनुमान लगाना होगा कि क्या होगा, प्रतिदिन परिवर्तन देखकर लिखना होगा, और फिर निष्कर्ष निकालना होगा कि अंकुरण कैसे होता है। यही प्रक्रिया कौशल आँके जा रहे हैं।",
+  "source": "CTET Paper 1 July 2024, Q69",
+  "mock_q": 33
+ },
+ {
+  "n": 72,
+  "subject": "EVS",
+  "q_hi": "हाथियों के विषय में वह कथन चुनिए जो सही नहीं है :",
+  "q_en": "Select incorrect statement about elephant herds from the following:",
+  "options": [
+   "हथिनियाँ झुण्डों में रहती हैं।",
+   "एक झुण्ड में 20 से 25 हथिनियाँ और उनके बच्चे होते हैं।",
+   "हाथी 14 - 15 वर्ष की आयु तक ही झुण्ड में रहते हैं।",
+   "15 वर्ष से अधिक आयु के हाथी झुण्ड छोड़ देते हैं और अकेले ही रहते हैं।"
+  ],
+  "options_en": [
+   "Female elephants live in herds.",
+   "A herd has 20 to 25 female elephants and their young ones.",
+   "Male elephants live in the herd till they are 14 - 15 years old.",
+   "Male elephants of more than 15 years of age leave the herd and move around alone."
+  ],
+  "answer": 1,
+  "exp_hi": "एनसीईआरटी की ईवीएस पुस्तक के अनुसार, हाथियों के एक झुण्ड में आमतौर पर लगभग 10-12 हथिनियाँ और उनके बच्चे होते हैं, 20-25 नहीं। अन्य कथन पाठ्यपुस्तक से मेल खाते हैं।",
+  "source": "CTET Paper 1 July 2024, Q72",
+  "mock_q": 34
+ },
+ {
+  "n": 73,
+  "subject": "EVS",
+  "q_hi": "ईवीएस कक्षाओं में मानचित्र पठन गतिविधि छात्रों में कुछ योग्यताओं और कौशलों का विकास करता है। वे हैं : (a) स्थानों की सापेक्ष स्थिति को समझना (b) स्थानों की दिशाओं को समझना (c) प्रतीकों और पैमाने को समझना (d) पैमाने के नक्शे के अनुसार सटीक रूप से आरेखण",
+  "q_en": "Map Reading activity in EVS classes develops certain abilities and skills in primary students. Those are: (a) Understanding relative positions of places (b) Understanding directions of places (c) Understanding symbols and scale (d) Drawing precisely according to the scale maps",
+  "options": [
+   "(a), (b) और (c)",
+   "(b), (c) और (d)",
+   "(a), (c) और (d)",
+   "(b) और (c)"
+  ],
+  "options_en": [
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (c) and (d)",
+   "(b) and (c)"
+  ],
+  "answer": 0,
+  "exp_hi": "मानचित्र पठन बच्चों को स्थानों की सापेक्ष स्थिति, दिशाएँ, प्रतीक और पैमाना समझने में मदद करता है। पैमाने के अनुसार सटीक मानचित्र बनाना प्राथमिक विद्यार्थियों से अपेक्षित नहीं है।",
+  "source": "CTET Paper 1 July 2024, Q73",
+  "mock_q": 35
+ },
+ {
+  "n": 75,
+  "subject": "EVS",
+  "q_hi": "सलीम और राजू स्कूल जाने वाले बच्चे हैं। सलीम को तला हुआ खाना और मैदा से बने उत्पाद बहुत पसंद हैं। दूसरी तरफ राजू घर का बना स्वस्थ्य खाना खाता है। लेकिन वह पालक और अन्य हरी पत्तेदार सब्ज़ियाँ कभी नहीं खाता है। दोनों को निम्नलिखित में से क्रमशः किस विकार से पीड़ित होने की संभावना है?",
+  "q_en": "Saleem and Raju are young school goers. Saleem likes to eat lot of fried food and ‘maida’ products. Raju on the other hand eats home made healthy food but he never eats spinach and other green leafy vegetables. Which of the following disorders they are likely to suffer from, respectively?",
+  "options": [
+   "स्कर्वी और अनीमिया",
+   "क्वाशियोरकर और अनीमिया",
+   "मोटापा और अनीमिया",
+   "पेलेग्रा और अनीमिया"
+  ],
+  "options_en": [
+   "Scurvy and Anaemia",
+   "Kwashiorkar and Anaemia",
+   "Obesity and Anaemia",
+   "Pellagra and Anaemia"
+  ],
+  "answer": 2,
+  "exp_hi": "अत्यधिक तला हुआ और मैदे का भोजन बहुत अधिक कैलोरी और वसा देता है, जिससे मोटापा होता है। हरी पत्तेदार सब्ज़ियाँ आयरन का प्रमुख स्रोत हैं, इसलिए उन्हें न खाने से अनीमिया हो सकता है।",
+  "source": "CTET Paper 1 July 2024, Q75",
+  "mock_q": 36
+ },
+ {
+  "n": 76,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से उस समूह को चुनिए जो मिश्रधातुओं से बना है :",
+  "q_en": "Select from the following a group consisting of alloys only:",
+  "options": [
+   "ब्रास, ब्रांज़, लिथियम",
+   "मैग्नीशियम, एल्युमिनियम, स्टील",
+   "स्टील, ब्रास, टिन",
+   "स्टील, ब्रास, ब्रांज़"
+  ],
+  "options_en": [
+   "Brass, Bronze, Lithium",
+   "Magnesium, Aluminium, Steel",
+   "Steel, Brass, Tin",
+   "Steel, Brass, Bronze"
+  ],
+  "answer": 3,
+  "exp_hi": "स्टील (लोहा + कार्बन), ब्रास (तांबा + जस्ता) और ब्रांज़ (तांबा + टिन) मिश्रधातुएँ हैं। लिथियम, मैग्नीशियम, एल्युमिनियम और टिन शुद्ध धातुएँ हैं।",
+  "source": "CTET Paper 1 July 2024, Q76",
+  "mock_q": 37
+ },
+ {
+  "n": 77,
+  "subject": "EVS",
+  "q_hi": "अभिकथन : ईवीएस की पाठ्यपुस्तकों में कहानियों और आख्यानों का उपयोग किया गया है। कारण : उद्देश्य है कि बच्चे को संवेदनशील बनाना। क्योंकि वह कहानी में पात्रों के साथ तदानुभूति रख सकता है। पाठ्यपुस्तकें बच्चों को हमारे समाज के भीतर मौजूद व्यापक मतभेदों के प्रति संवेदनशील बनाना चाहिए।",
+  "q_en": "Assertion: Stories and narratives have been used throughout the EVS textbooks. Reason: Objective is to sensitise the child since he or she can empathise with characters in a story or narrative. Textbooks should sensitise the child to wide differences that exist within our society.",
+  "options": [
+   "अभिकथन और कारण दोनों सही हैं और कारण, अभिकथन की सही व्याख्या करता है।",
+   "अभिकथन और कारण सही हैं लेकिन कारण, अभिकथन की सही व्याख्या नहीं करता है।",
+   "अभिकथन सत्य है, परन्तु कारण असत्य है।",
+   "अभिकथन असत्य है, परन्तु कारण सत्य है।"
+  ],
+  "options_en": [
+   "Both the Assertion and Reason are correct and Reason is the correct explanation of the Assertion.",
+   "Both the Assertion and Reason are correct but the Reason is not the correct explanation of the Assertion.",
+   "Assertion is true but the Reason is false.",
+   "The Assertion is false but Reason is true."
+  ],
+  "answer": 0,
+  "exp_hi": "एनसीईआरटी की ईवीएस पुस्तकों में कहानियों और आख्यानों का उपयोग ठीक इसीलिए किया गया है कि बच्चे पात्रों के साथ तदानुभूति रखते हैं, जिससे वे समाज में मौजूद भिन्नताओं के प्रति संवेदनशील होते हैं। अतः कारण, अभिकथन की सही व्याख्या करता है।",
+  "source": "CTET Paper 1 July 2024, Q77",
+  "mock_q": 38
+ },
+ {
+  "n": 80,
+  "subject": "EVS",
+  "q_hi": "एक ईवीएस शिक्षिका अपने छात्रों से कल्पना करने और उत्तर देने के लिए कहती है, “क्या होता अगर पृथ्वी से सभी पक्षियों को एक साथ मार दिया जाता?” ऐसे प्रश्न हैं :",
+  "q_en": "An EVS teacher asks her students to imagine and answer, “What would have happened if all birds were killed at once from earth?” Such a question is:",
+  "options": [
+   "अभिसारी प्रश्न",
+   "काल्पनिक प्रश्न",
+   "अपसारी प्रश्न",
+   "दार्शनिक प्रश्न"
+  ],
+  "options_en": [
+   "Convergent question",
+   "Hypothetical question",
+   "Divergent question",
+   "Philosophical question"
+  ],
+  "answer": 2,
+  "exp_hi": "इस प्रश्न का कोई एक सही उत्तर नहीं है; यह अनेक कल्पनाशील उत्तरों को आमंत्रित करता है। भिन्न-भिन्न सोच को प्रोत्साहित करने वाले खुले प्रश्न अपसारी प्रश्न कहलाते हैं।",
+  "source": "CTET Paper 1 July 2024, Q80",
+  "mock_q": 39
+ },
+ {
+  "n": 81,
+  "subject": "EVS",
+  "q_hi": "एनसीईआरटी की पाँचवी कक्षा की पाठ्यपुस्तक में झारखंड में रहने वाली सूर्यमणि की एक वास्तविक कहानी है। यह अध्याय आदिवासी जीवन और सूर्यमणि की भूमिका को दर्शाता है। छात्रों के लिए प्रासंगिक अध्याय द्वारा संबोधित सबसे महत्वपूर्ण पहलू का चयन करें। (a) जनजातीय समुदायों के बारे में लोकप्रिय धारणाएँ और पूर्वाग्रह। (b) वनवासियों (समुदायों) और उनके पास रहने वाले जंगलों के बीच घनिष्ठ संबंध। (c) लड़कियों की शिक्षा कैसे उनके जीवन को बदलती है। (d) जनजातीय आदिवासियों द्वारा उपयोग किए जाने वाले वन उत्पाद।",
+  "q_en": "In NCERT textbook of class V there is a real story of Suryamani who lives in Jharkhand. The chapter depicts tribal life and role of Suryamani. Select the most important aspects addressed by the chapter relevant for students. (a) Popular perceptions and biases about the tribal communities. (b) Close relationship between forest dwellers (communities) and forests. (c) Girls education how it changes their life. (d) The forest products used by tribes.",
+  "options": [
+   "(a), (b) और (c)",
+   "(b), (c) और (d)",
+   "(a), (c) और (d)",
+   "(b) और (c)"
+  ],
+  "options_en": [
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (c) and (d)",
+   "(b) and (c)"
+  ],
+  "answer": 1,
+  "exp_hi": "अध्याय (‘किसके जंगल?’) दिखाता है कि वन समुदाय जंगल पर कैसे निर्भर हैं और उसकी रक्षा करते हैं, वे कौन-से वन उत्पाद उपयोग करते हैं, और शिक्षा ने सूर्यमणि का जीवन कैसे बदला। ये पहलू (b), (c) और (d) हैं।",
+  "source": "CTET Paper 1 July 2024, Q81",
+  "mock_q": 40
+ },
+ {
+  "n": 82,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से कौन सा/से पर्वत/पर्वतों की उत्पत्ति ज्वालामुखी से मानी जाती है? (a) माउंट किलिमंजारो (b) फ्यूजियामा (c) आल्प्स पर्वत सही विकल्प चुनें :",
+  "q_en": "Which one/are of the following mountains is/are considered to be volcanic in origin? (a) Mt. Kilimanjaro (b) Fujiyama (c) The Alps Choose the correct option:",
+  "options": [
+   "(a) और (c)",
+   "(b) और (c)",
+   "केवल (c)",
+   "(a) और (b)"
+  ],
+  "options_en": [
+   "(a) and (c)",
+   "(b) and (c)",
+   "Only (c)",
+   "(a) and (b)"
+  ],
+  "answer": 3,
+  "exp_hi": "माउंट किलिमंजारो (तंज़ानिया) और माउंट फ्यूजियामा (जापान) ज्वालामुखी पर्वत हैं। आल्प्स वलित पर्वत हैं जो प्लेटों के टकराने से बने हैं।",
+  "source": "CTET Paper 1 July 2024, Q82",
+  "mock_q": 41
+ },
+ {
+  "n": 85,
+  "subject": "EVS",
+  "q_hi": "समर अपने छात्रों से अपने परिवार के सदस्यों से सलाह लेने के लिए कहता है कि वे अलग-अलग तरीकों से पकाए गए अलग-अलग खाद्य पदार्थों के नामों का पता लगाएँ, जैसे कि भाप देना, भूनना, उबालना, तलना आदि। सबसे उपयुक्त कारण __________ है।",
+  "q_en": "Samar asks his students to consult their family members to find out the names of different food items cooked by different methods like steaming, roasting, boiling, frying etc. The most appropriate reason for this activity is to:",
+  "options": [
+   "प्रयोग को प्रोत्साहित करना",
+   "सामाजिक अतःक्रिया में सुधार करना",
+   "बच्चों को समूहों में कार्य करने के अवसर प्रदान करना",
+   "गृह कार्य को प्रोत्साहित करना"
+  ],
+  "options_en": [
+   "encourage experimentation",
+   "improve social interaction",
+   "provide opportunities for children to work in groups",
+   "encourage home work"
+  ],
+  "answer": 1,
+  "exp_hi": "इस गतिविधि में बच्चों को परिवार के सदस्यों से बात करके उनसे जानकारी जुटानी होती है, जिससे उनकी सामाजिक अंतःक्रिया विकसित होती है और विद्यालय का सीखना घर से जुड़ता है।",
+  "source": "CTET Paper 1 July 2024, Q85",
+  "mock_q": 42
+ },
+ {
+  "n": 86,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से कौन प्राथमिक स्तर पर ईवीएस पढ़ाने में अनुभवात्मक रणनीतियों को सबसे अच्छा दर्शाता है? (a) चर्चा (b) प्रदर्शन (c) क्षेत्र भ्रमण (d) कला एकीकृत शिक्षा",
+  "q_en": "Which of the following best reflect experiential strategies in teaching EVS at primary level? (a) Discussion (b) Demonstration (c) Field Trips (d) Art integrated learning",
+  "options": [
+   "(a), (b) और (d)",
+   "(b), (c) और (d)",
+   "(a), (c) और (d)",
+   "(a), (b) और (c)"
+  ],
+  "options_en": [
+   "(a), (b) and (d)",
+   "(b), (c) and (d)",
+   "(a), (c) and (d)",
+   "(a), (b) and (c)"
+  ],
+  "answer": 2,
+  "exp_hi": "अनुभवात्मक अधिगम का अर्थ है करके और चिंतन करके सीखना: अपने अनुभवों पर चर्चा, क्षेत्र भ्रमण और कला-एकीकृत गतिविधियाँ। प्रदर्शन में शिक्षक गतिविधि करता है और बच्चे अधिकतर केवल देखते हैं।",
+  "source": "CTET Paper 1 July 2024, Q86",
+  "mock_q": 43
+ },
+ {
+  "n": 88,
+  "subject": "EVS",
+  "q_hi": "भारत में 7.30 P.M. है। उसी दिन 2 P.M. होगा :",
+  "q_en": "It is 7.30 P.M. in India today. It is 2 P.M. of the same day:",
+  "options": [
+   "लंदन में",
+   "जापान में",
+   "ढाका में",
+   "कराची में"
+  ],
+  "options_en": [
+   "in London",
+   "in Japan",
+   "in Dhaka",
+   "in Karachi"
+  ],
+  "answer": 0,
+  "exp_hi": "भारतीय मानक समय GMT + 5:30 है। जब भारत में 7:30 P.M. होता है, तब ग्रीनविच (लंदन) में 7:30 − 5:30 = 2 P.M. होता है। उसी समय जापान (GMT + 9) में लगभग 11 P.M., ढाका (GMT + 6) में 8 P.M. और कराची (GMT + 5) में 7 P.M. होगा।",
+  "source": "CTET Paper 1 July 2024, Q88",
+  "mock_q": 44
+ },
+ {
+  "n": 106,
+  "subject": "Hindi",
+  "q_hi": "अभिकथन (A) : कक्षा में अधिगम अनुभव बच्चों के जीवन और उनके संदर्भों से जुड़े होते हैं। कारण (R) : अधिगम अनुभवों की अभिकल्पना बच्चों की पूर्व समझ के आधार पर करनी चाहिए। नीचे दिए गए विकल्पों में से सर्वाधिक उपयुक्त उत्तर का चयन करें :",
+  "q_en": "Assertion (A) : Learning experiences in the classroom are deeply connected to children's lives and their contexts. Reason (R) : Learning experiences are designed to build on children's previous understanding. Select the most appropriate answer from the options given below.",
+  "options": [
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true.",
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+  ],
+  "answer": 3,
+  "exp_hi": "अधिगम अनुभव बच्चों के जीवन-संदर्भों से जुड़े होते हैं और उनकी पूर्व समझ पर ही बनते हैं, इसलिए कारण (R) अभिकथन (A) की सही व्याख्या है।",
+  "source": "CTET Paper 1 Feb 2026, Q106",
+  "mock_q": 45
+ },
+ {
+  "n": 107,
+  "subject": "Hindi",
+  "q_hi": "भाषा अधिगम के बारे में कौन-सा सही नहीं है?",
+  "q_en": "Which of the following is NOT true of learning a language?",
+  "options": [
+   "भाषा अधिगम में समय लगता है।",
+   "भाषा अधिगम का संबंध अर्थ ग्रहण करने से है।",
+   "भाषा अधिगम के लिए व्याकरण सीखना अनिवार्य है।",
+   "सभी शिक्षार्थी सरलतापूर्वक भाषा सीख सकते हैं, यदि उन्हें भाषा में व्यवहार करने के लिए पर्याप्त अवसर दिए जाएँ।"
+  ],
+  "options_en": [
+   "Language learning takes time.",
+   "Language learning is meaning making.",
+   "Grammar learning is essential for learning a language.",
+   "All learners can learn a language easily if sufficient engagement with language is given."
+  ],
+  "answer": 2,
+  "exp_hi": "भाषा अधिगम अर्थ-ग्रहण से होता है और इसमें समय लगता है; व्याकरण सीखना इसके लिए अनिवार्य नहीं है।",
+  "source": "CTET Paper 1 Feb 2026, Q107",
+  "mock_q": 46
+ },
+ {
+  "n": 111,
+  "subject": "Hindi",
+  "q_hi": "अभिकथन (A) : किसी एक विद्यार्थी का पोर्टफोलियो उस विद्यार्थी के कार्यों का उद्देश्यपूर्ण संग्रह होता है। कारण (R) : पोर्टफोलियो विद्यार्थियों को उनके अपने प्रबल पक्ष और कमजोर पक्ष का मूल्यांकन करने के लिए प्रोत्साहित करता है। नीचे दिए गए विकल्पों में से सर्वाधिक उपयुक्त उत्तर का चयन करें :",
+  "q_en": "Assertion (A) : A student portfolio is a purposeful collection of pieces of student work. Reason (R) : The Portfolio can encourage students to evaluate their own strengths and weaknesses. Select the most appropriate answer from the options given below.",
+  "options": [
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true.",
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+  ],
+  "answer": 3,
+  "exp_hi": "पोर्टफोलियो विद्यार्थी के कार्यों का उद्देश्यपूर्ण संग्रह है और यह आत्म-मूल्यांकन को प्रोत्साहित करता है, इसलिए कारण (R) अभिकथन (A) की सही व्याख्या है।",
+  "source": "CTET Paper 1 Feb 2026, Q111",
+  "mock_q": 47
+ },
+ {
+  "n": 115,
+  "subject": "Hindi",
+  "q_hi": "निम्नलिखित में से कौन-सा कथन चित्रों के बारे में गलत है? पुस्तकों में चित्र और आरेख :",
+  "q_en": "Which one of the following is incorrect about the pictures? Pictures and illustration in books :",
+  "options": [
+   "बच्चों की रुचि बनाए रखते हैं।",
+   "बच्चों को इस तरह के चित्र बनाने के लिए अवसर मिलते हैं।",
+   "अपरिचित और याद रखने योग्य प्रसंगों में भाषा प्रस्तुत करने में मदद करते हैं।",
+   "विषय वस्तु को उभारते हैं।"
+  ],
+  "options_en": [
+   "retain the interest of children.",
+   "to give them opportunity to draw such pictures.",
+   "help to present language in unfamiliar and memorable contexts.",
+   "support content."
+  ],
+  "answer": 1,
+  "exp_hi": "पुस्तकों के चित्र रुचि बनाए रखते हैं, भाषा को स्मरणीय प्रसंगों में प्रस्तुत करते हैं और विषय-वस्तु को उभारते हैं; बच्चों को चित्र बनाने का अवसर देना चित्रों का गुण नहीं है।",
+  "source": "CTET Paper 1 Feb 2026, Q115",
+  "mock_q": 48
+ },
+ {
+  "n": 116,
+  "subject": "Hindi",
+  "q_hi": "छोटी आयु वाले शिक्षार्थियों के बारे में कौन-सा कथन सही है?",
+  "q_en": "Which of the following statement related to the young learners is true?",
+  "options": [
+   "बहुत छोटी आयु वाले शिक्षार्थियों के लिए अमूर्त अवधारणाओं को समझना कठिन होता है।",
+   "बहुत छोटी आयु वाले शिक्षार्थी आंशिक रूप से अमूर्त अवधारणाओं को समझ पाते हैं।",
+   "बहुत छोटी आयु वाले शिक्षार्थी अमूर्त अवधारणाओं द्वारा प्रेरित होते हैं।",
+   "बहुत छोटी आयु वाले शिक्षार्थी अमूर्त अवधारणाओं को समझ लेते हैं।"
+  ],
+  "options_en": [
+   "young learners find it hard to understand abstract concepts.",
+   "young learners partially understand the abstract concepts.",
+   "young learners get motivated by abstract concepts.",
+   "young learners understand the abstract concepts."
+  ],
+  "answer": 0,
+  "exp_hi": "छोटी आयु के शिक्षार्थी मूर्त अनुभवों से सीखते हैं; अमूर्त अवधारणाएँ समझना उनके लिए कठिन होता है।",
+  "source": "CTET Paper 1 Feb 2026, Q116",
+  "mock_q": 49
+ },
+ {
+  "n": 117,
+  "subject": "Hindi",
+  "q_hi": "आप अपनी कक्षा में विद्यार्थियों की अन्तःक्रिया को सुगम बनाने के लिए क्या प्रयास करेंगे? (a) विद्यार्थियों को अधिक से अधिक प्रश्न पूछने के लिए प्रोत्साहित करेंगे। (b) जोड़ीदार के साथ तथा समूह में कार्य करवाएँगे, विद्यार्थियों से उनकी राय आमंत्रित करेंगे। (c) पाठ्य सामग्री को सस्वर पढ़ने के लिए कहेंगे और प्रत्येक को व्यक्तिगत रूप से उत्तर देंगे जिससे कि व्यक्तिगत अधिगम हो सके। (d) एक-दूसरे को संवाद पढ़कर सुनाने के लिए कहेंगे जिससे अन्तःक्रिया हो सके और एक-दूसरे से प्रश्न पूछने के लिए कहेंगे।",
+  "q_en": "What steps would you take as a teacher to facilitate students' interaction in your class? (a) Encourage the students to ask more questions. (b) Conduct pair and group work and invite opinion from the students. (c) Make them read the text loudly and respond individually so that individual learning takes place. (d) Read the dialogues to each other to interact and ask questions to each other.",
+  "options": [
+   "(b), (c), (d) सही हैं",
+   "(a), (b), (d) सही हैं",
+   "(a), (c), (d) सही हैं",
+   "(a), (b), (c) सही हैं"
+  ],
+  "options_en": [
+   "(b), (c), (d) are correct",
+   "(a), (b), (d) are correct",
+   "(a), (c), (d) are correct",
+   "(a), (b), (c) are correct"
+  ],
+  "answer": 1,
+  "exp_hi": "प्रश्न पूछना, जोड़ी/समूह कार्य और संवाद पढ़कर सुनाना अन्तःक्रिया बढ़ाते हैं; व्यक्तिगत सस्वर पठन से अन्तःक्रिया नहीं होती।",
+  "source": "CTET Paper 1 Feb 2026, Q117",
+  "mock_q": 50
+ }
+]
