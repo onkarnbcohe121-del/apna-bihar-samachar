@@ -1,0 +1,1102 @@
+[
+  {
+    "answer": 2,
+    "exp_hi": "वस्तु-स्थायित्व संवेदी-गामक अवस्था (जन्म–2 वर्ष) की प्रमुख उपलब्धि है — बच्चा समझता है कि वस्तु आँखों से ओझल होने पर भी मौजूद रहती है।",
+    "mock_q": 1,
+    "n": 187,
+    "options": [
+      "मूर्त-संक्रियात्मक अवस्था",
+      "पूर्व-संक्रियात्मक अवस्था",
+      "संवेदी-गामक अवस्था",
+      "औपचारिक-संक्रियात्मक अवस्था"
+    ],
+    "options_en": [
+      "Concrete operational stage",
+      "Preoperational stage",
+      "Sensorimotor stage",
+      "Formal operational stage"
+    ],
+    "q_en": "According to Piaget, in which stage does the understanding of object permanence develop ?",
+    "q_hi": "पियाजे के अनुसार वस्तु-स्थायित्व (object permanence) की समझ किस अवस्था में विकसित होती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "अहंकेन्द्रित बच्चा दूसरों के दृष्टिकोण से स्थिति को देखने में असमर्थ होता है — यह स्वार्थ नहीं, बल्कि संज्ञानात्मक विकास की एक सीमा है।",
+    "mock_q": 2,
+    "n": 188,
+    "options": [
+      "बच्चा दूसरों के दृष्टिकोण से स्थिति को नहीं देख पाता",
+      "बच्चा स्वार्थी होता है",
+      "बच्चा झूठ बोलता है",
+      "बच्चा अकेला रहना पसंद करता है"
+    ],
+    "options_en": [
+      "The child cannot see a situation from another person's point of view",
+      "The child is selfish",
+      "The child tells lies",
+      "The child likes to stay alone"
+    ],
+    "q_en": "What is meant by the 'egocentrism' of a child in the preoperational stage ?",
+    "q_hi": "पूर्व-संक्रियात्मक अवस्था के बच्चे की 'अहंकेन्द्रितता' (egocentrism) से क्या अभिप्राय है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "मूर्त-संक्रियात्मक अवस्था (7–11 वर्ष) में बच्चा समझता है कि आकृति बदलने पर भी वस्तु की मात्रा या संख्या समान रहती है।",
+    "mock_q": 3,
+    "n": 189,
+    "options": [
+      "संवेदी-गामक अवस्था",
+      "मूर्त-संक्रियात्मक अवस्था",
+      "पूर्व-संक्रियात्मक अवस्था",
+      "औपचारिक-संक्रियात्मक अवस्था"
+    ],
+    "options_en": [
+      "Sensorimotor stage",
+      "Concrete operational stage",
+      "Preoperational stage",
+      "Formal operational stage"
+    ],
+    "q_en": "According to Piaget, in which stage does the understanding of conservation develop ?",
+    "q_hi": "पियाजे के अनुसार संरक्षण (conservation) की समझ किस अवस्था में विकसित होती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "आत्मसात्करण में नई जानकारी पुरानी योजना में फिट की जाती है, जबकि समायोजन में नई जानकारी के अनुसार योजना बदली जाती है।",
+    "mock_q": 4,
+    "n": 190,
+    "options": [
+      "साम्यावस्था",
+      "अनुकूलन",
+      "समायोजन",
+      "आत्मसात्करण"
+    ],
+    "options_en": [
+      "Equilibration",
+      "Adaptation",
+      "Accommodation",
+      "Assimilation"
+    ],
+    "q_en": "According to Piaget, when a child fits new information into an already existing mental plan (schema), what is this process called ?",
+    "q_hi": "पियाजे के अनुसार जब बच्चा नई जानकारी को अपनी पहले से बनी मानसिक योजना (schema) में समाहित करता है, तो यह प्रक्रिया क्या कहलाती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "पारम्परिक स्तर (चरण 3) में बच्चा दूसरों की स्वीकृति और 'अच्छा' कहलाने की इच्छा से नैतिक निर्णय लेता है।",
+    "mock_q": 5,
+    "n": 191,
+    "options": [
+      "उत्तर-पारम्परिक स्तर",
+      "पारम्परिक स्तर",
+      "पूर्व-पारम्परिक स्तर",
+      "स्वायत्त स्तर"
+    ],
+    "options_en": [
+      "Post-conventional level",
+      "Conventional level",
+      "Pre-conventional level",
+      "Autonomous level"
+    ],
+    "q_en": "According to Kohlberg, the 'good boy/good girl' orientation is the mark of which level of moral development ?",
+    "q_hi": "कोह्लबर्ग के अनुसार 'अच्छा लड़का/अच्छी लड़की' की अभिवृत्ति नैतिक विकास के किस स्तर की पहचान है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "चरण 6 में निर्णय सार्वभौमिक नैतिक सिद्धान्तों (जैसे जीवन का अधिकार) पर आधारित होता है, जो कानून से भी ऊपर माने जाते हैं।",
+    "mock_q": 6,
+    "n": 192,
+    "options": [
+      "चरण 6 — सार्वभौमिक नैतिक सिद्धान्त",
+      "चरण 2 — स्वार्थपरक विनिमय",
+      "चरण 4 — कानून और व्यवस्था",
+      "चरण 5 — सामाजिक अनुबंध"
+    ],
+    "options_en": [
+      "Stage 6 — Universal ethical principles",
+      "Stage 2 — Self-interest exchange",
+      "Stage 4 — Law and order",
+      "Stage 5 — Social contract"
+    ],
+    "q_en": "In Kohlberg's 'Heinz dilemma', stealing the drug is considered right because the right to life is above the right to property — which stage of moral development does this argument show ?",
+    "q_hi": "कोह्लबर्ग की 'हाइंज़ की दुविधा' में दवा चुराना इसलिए सही माना जाता है क्योंकि जीवन का अधिकार सम्पत्ति के अधिकार से ऊपर है — यह तर्क नैतिक विकास के किस चरण को दर्शाता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "गिलिगन के अनुसार कोह्लबर्ग का सिद्धान्त पुरुष प्रतिभागियों पर आधारित था और महिलाओं की 'देखभाल की नैतिकता' को कम आँकता था।",
+    "mock_q": 7,
+    "n": 193,
+    "options": [
+      "यह बहुत सरल था",
+      "इसमें संस्कृति की भूमिका नहीं थी",
+      "यह प्रयोगों पर आधारित नहीं था",
+      "यह केवल पुरुष प्रतिभागियों पर आधारित था"
+    ],
+    "options_en": [
+      "It was too simple",
+      "It had no role for culture",
+      "It was not based on experiments",
+      "It was based only on male participants"
+    ],
+    "q_en": "On what ground did Gilligan criticise Kohlberg's theory of moral development ?",
+    "q_hi": "गिलिगन ने कोह्लबर्ग के नैतिक विकास सिद्धान्त की आलोचना किस आधार पर की ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "शैशवावस्था में विश्वास बनाम अविश्वास का संकट होता है — निरंतर देखभाल मिलने पर बच्चे में विश्वास विकसित होता है।",
+    "mock_q": 8,
+    "n": 194,
+    "options": [
+      "परिश्रम",
+      "विश्वास",
+      "पहल",
+      "स्वायत्तता"
+    ],
+    "options_en": [
+      "Industry",
+      "Trust",
+      "Initiative",
+      "Autonomy"
+    ],
+    "q_en": "According to Erikson, which virtue develops from the successful resolution of the infancy stage (birth–1 year) ?",
+    "q_hi": "एरिक्सन के अनुसार शैशवावस्था (जन्म–1 वर्ष) में सफल समाधान से कौन-सा गुण विकसित होता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "6–12 वर्ष की अवस्था में परिश्रम बनाम हीनता का संकट होता है — सफलता मिलने पर बच्चा स्वयं को सक्षम महसूस करता है।",
+    "mock_q": 9,
+    "n": 195,
+    "options": [
+      "विश्वास बनाम अविश्वास",
+      "स्वायत्तता बनाम शर्म",
+      "परिश्रम बनाम हीनता",
+      "पहचान बनाम भूमिका-भ्रम"
+    ],
+    "options_en": [
+      "Trust vs mistrust",
+      "Autonomy vs shame",
+      "Industry vs inferiority",
+      "Identity vs role confusion"
+    ],
+    "q_en": "According to Erikson, what is the main psychosocial crisis of the school age (6–12 years) ?",
+    "q_hi": "एरिक्सन के अनुसार विद्यालयी अवस्था (6–12 वर्ष) का प्रमुख मनोसामाजिक संकट कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "किशोरावस्था में पहचान बनाम भूमिका-भ्रम का संकट होता है — किशोर 'मैं कौन हूँ' का उत्तर खोजता है।",
+    "mock_q": 10,
+    "n": 196,
+    "options": [
+      "विश्वास बनाम अविश्वास",
+      "पहचान बनाम भूमिका-भ्रम",
+      "पहल बनाम अपराधबोध",
+      "घनिष्ठता बनाम अलगाव"
+    ],
+    "options_en": [
+      "Trust vs mistrust",
+      "Identity vs role confusion",
+      "Initiative vs guilt",
+      "Intimacy vs isolation"
+    ],
+    "q_en": "According to Erikson, the main crisis of adolescence is —",
+    "q_hi": "एरिक्सन के अनुसार किशोरावस्था का प्रमुख संकट है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "मास्लो के पदानुक्रम में शारीरिक आवश्यकताएँ (भोजन, पानी, नींद) सबसे नीचे हैं, फिर सुरक्षा, सामाजिक, सम्मान और अंत में आत्म-सिद्धि आती है।",
+    "mock_q": 11,
+    "n": 197,
+    "options": [
+      "आत्म-सिद्धि",
+      "सम्मान",
+      "शारीरिक आवश्यकताएँ",
+      "सुरक्षा"
+    ],
+    "options_en": [
+      "Self-actualisation",
+      "Esteem",
+      "Physiological needs",
+      "Safety"
+    ],
+    "q_en": "According to Maslow's hierarchy of needs, which of the following needs is at the lowest level ?",
+    "q_hi": "मास्लो के आवश्यकता पदानुक्रम के अनुसार निम्नलिखित में से कौन-सी आवश्यकता सबसे निचले स्तर पर है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "ZPD वह अंतर है जो बच्चे की अकेले करने की क्षमता और किसी सक्षम व्यक्ति की सहायता से करने की क्षमता के बीच होता है — शिक्षण इसी क्षेत्र में सबसे प्रभावी होता है।",
+    "mock_q": 12,
+    "n": 198,
+    "options": [
+      "बच्चे की वर्तमान योग्यता का स्तर",
+      "बच्चे द्वारा अकेले किए जा सकने वाले कार्य और किसी सक्षम व्यक्ति की सहायता से किए जा सकने वाले कार्य के बीच का अंतर",
+      "बच्चे की आयु के अनुसार विकास की अवस्था",
+      "बच्चे की बुद्धि-लब्धि का माप"
+    ],
+    "options_en": [
+      "The level of the child’s current ability",
+      "The difference between what a child can do alone and what the child can do with the help of a more capable person",
+      "The stage of development according to the child’s age",
+      "The measure of the child’s intelligence quotient"
+    ],
+    "q_en": "According to Vygotsky, what is the ‘Zone of Proximal Development’ (ZPD)?",
+    "q_hi": "वायगोत्स्की के अनुसार ‘निकटतम विकास का क्षेत्र’ (Zone of Proximal Development — ZPD) क्या है?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "सूझ-अधिगम में समस्या का समाधान अचानक 'अहा!' के रूप में सूझता है — कोहलर ने इसे चिंपैंजी सुल्तान के प्रयोग से दिखाया था।",
+    "mock_q": 13,
+    "n": 199,
+    "options": [
+      "बार-बार अभ्यास से सीखना",
+      "पुरस्कार पाकर सीखना",
+      "देखकर सीखना",
+      "अचानक समस्या का समाधान सूझ जाना"
+    ],
+    "options_en": [
+      "Learning by repeated practice",
+      "Learning by getting a reward",
+      "Learning by observation",
+      "The solution of a problem suddenly striking the learner"
+    ],
+    "q_en": "According to Kohler, the mark of learning by insight is —",
+    "q_hi": "कोहलर के अनुसार सूझ (insight) द्वारा अधिगम की पहचान है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "बंडूरा के मॉडल में चार चरण हैं — ध्यान, धारण, पुनरुत्पादन और अभिप्रेरणा; पहला चरण ध्यान देना है।",
+    "mock_q": 14,
+    "n": 200,
+    "options": [
+      "ध्यान देना",
+      "धारण करना",
+      "पुनरुत्पादन करना",
+      "अभिप्रेरणा"
+    ],
+    "options_en": [
+      "Attention",
+      "Retention",
+      "Reproduction",
+      "Motivation"
+    ],
+    "q_en": "According to Bandura, what is the first step in observational learning ?",
+    "q_hi": "बंडूरा के अनुसार प्रेक्षणात्मक अधिगम (observational learning) में सबसे पहला चरण कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "जब एक क्षेत्र का अधिगम दूसरे क्षेत्र के अधिगम में सहायता करे, तो उसे धनात्मक अंतरण कहते हैं।",
+    "mock_q": 15,
+    "n": 201,
+    "options": [
+      "ऋणात्मक अंतरण",
+      "धनात्मक अंतरण",
+      "शून्य अंतरण",
+      "ऊर्ध्वाधर अंतरण"
+    ],
+    "options_en": [
+      "Negative transfer",
+      "Positive transfer",
+      "Zero transfer",
+      "Vertical transfer"
+    ],
+    "q_en": "A child who has learnt to ride a bicycle learns to ride a motorcycle quickly — this is an example of which type of transfer of learning ?",
+    "q_hi": "एक बच्चा साइकिल चलाना सीखने के बाद मोटरसाइकिल चलाना जल्दी सीख लेता है — यह किस प्रकार के अधिगम-अंतरण का उदाहरण है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "जिज्ञासा या रुचि से प्रेरित अधिगम आंतरिक अभिप्रेरणा है, जबकि अंक, पुरस्कार या दंड बाह्य अभिप्रेरणा है।",
+    "mock_q": 16,
+    "n": 202,
+    "options": [
+      "अच्छे अंक पाने के लिए पढ़ना",
+      "पुरस्कार पाने के लिए पढ़ना",
+      "जिज्ञासा के कारण पढ़ना",
+      "दंड से बचने के लिए पढ़ना"
+    ],
+    "options_en": [
+      "Reading to get good marks",
+      "Reading to get a reward",
+      "Reading out of curiosity",
+      "Reading to avoid punishment"
+    ],
+    "q_en": "Which of the following is an example of intrinsic motivation ?",
+    "q_hi": "निम्नलिखित में से कौन-सा आंतरिक अभिप्रेरणा (intrinsic motivation) का उदाहरण है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "आंशिक या अनियमित पुनर्बलन पर सीखा व्यवहार विलुप्त होने में सबसे अधिक समय लेता है — यही कारण है कि जुआ खेलने की आदत बनी रहती है।",
+    "mock_q": 17,
+    "n": 203,
+    "options": [
+      "सतत पुनर्बलन",
+      "निश्चित अनुपात पुनर्बलन",
+      "आंशिक (अनियमित) पुनर्बलन",
+      "निश्चित अंतराल पुनर्बलन"
+    ],
+    "options_en": [
+      "Continuous reinforcement",
+      "Fixed ratio reinforcement",
+      "Partial (irregular) reinforcement",
+      "Fixed interval reinforcement"
+    ],
+    "q_en": "Which reinforcement schedule maintains behaviour for the longest time ?",
+    "q_hi": "कौन-सी पुनर्बलन अनुसूची (reinforcement schedule) व्यवहार को सबसे लंबे समय तक बनाए रखती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "एबिंगहॉस के अनुसार विस्मरण सीखने के तुरंत बाद सबसे तेज़ होता है, फिर धीरे-धीरे स्थिर हो जाता है।",
+    "mock_q": 18,
+    "n": 204,
+    "options": [
+      "सीखने के तुरंत बाद",
+      "एक सप्ताह बाद",
+      "एक महीने बाद",
+      "एक वर्ष बाद"
+    ],
+    "options_en": [
+      "Immediately after learning",
+      "After one week",
+      "After one month",
+      "After one year"
+    ],
+    "q_en": "According to Ebbinghaus's forgetting curve, when is forgetting the fastest ?",
+    "q_hi": "एबिंगहॉस के विस्मरण-वक्र के अनुसार विस्मरण सबसे अधिक कब होता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "ब्लूम के संशोधित वर्गीकरण में सृजन (create) सबसे उच्च स्तर है — क्रम है स्मरण, समझ, अनुप्रयोग, विश्लेषण, मूल्यांकन और सृजन।",
+    "mock_q": 19,
+    "n": 205,
+    "options": [
+      "स्मरण",
+      "समझ",
+      "अनुप्रयोग",
+      "सृजन"
+    ],
+    "options_en": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Creating"
+    ],
+    "q_en": "In Bloom's taxonomy of the cognitive domain, which is the highest level ?",
+    "q_hi": "ब्लूम के संज्ञानात्मक पक्ष में सबसे उच्च स्तर कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "रचनात्मक आकलन अधिगम के दौरान प्रतिपुष्टि देकर सुधार के लिए होता है, जबकि योगात्मक आकलन अधिगम के अंत में होता है।",
+    "mock_q": 20,
+    "n": 206,
+    "options": [
+      "ग्रेड देना",
+      "वर्ष के अंत में परीक्षा लेना",
+      "अधिगम की प्रक्रिया में सुधार के लिए प्रतिपुष्टि देना",
+      "छात्रों की तुलना करना"
+    ],
+    "options_en": [
+      "Giving grades",
+      "Taking an examination at the end of the year",
+      "Giving feedback to improve the learning process",
+      "Comparing students"
+    ],
+    "q_en": "What is the main purpose of formative assessment ?",
+    "q_hi": "रचनात्मक आकलन (formative assessment) का मुख्य उद्देश्य है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "मानदंड-संदर्भित परीक्षण में छात्र के प्रदर्शन की तुलना तय मानदंड से की जाती है, न कि अन्य छात्रों से।",
+    "mock_q": 21,
+    "n": 207,
+    "options": [
+      "छात्र की तुलना समूह से की जाती है",
+      "ग्रेड प्रतिशत पर दिया जाता है",
+      "यह केवल वस्तुनिष्ठ होता है",
+      "छात्र की तुलना पूर्व-निर्धारित मानदंड से की जाती है"
+    ],
+    "options_en": [
+      "The student is compared with the group",
+      "Grades are given on percentage",
+      "It is only objective",
+      "The student is compared with a pre-decided criterion"
+    ],
+    "q_en": "What is the mark of a criterion-referenced test ?",
+    "q_hi": "मानदंड-संदर्भित परीक्षण (criterion-referenced test) की पहचान है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "शीर्षाभिमुख सिद्धान्त के अनुसार विकास सिर से पैर की ओर होता है — बच्चा पहले सिर, फिर धड़ और अंत में पैर पर नियंत्रण पाता है।",
+    "mock_q": 22,
+    "n": 208,
+    "options": [
+      "सिर से पैर की ओर",
+      "पैर से सिर की ओर",
+      "केन्द्र से बाहर की ओर",
+      "बाहर से केन्द्र की ओर"
+    ],
+    "options_en": [
+      "From head to foot",
+      "From foot to head",
+      "From the centre outwards",
+      "From outside to the centre"
+    ],
+    "q_en": "According to the 'cephalocaudal' principle of development, in which order does development take place ?",
+    "q_hi": "विकास के 'शीर्षाभिमुख' (cephalocaudal) सिद्धान्त के अनुसार विकास किस क्रम में होता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "विकास वंशानुक्रम और वातावरण दोनों की अंतःक्रिया का परिणाम है — दोनों में से किसी एक को ही कारण मानना गलत है।",
+    "mock_q": 23,
+    "n": 209,
+    "options": [
+      "विकास केवल वंशानुक्रम से तय होता है",
+      "विकास केवल वातावरण से तय होता है",
+      "विकास वंशानुक्रम और वातावरण की अंतःक्रिया से होता है",
+      "वंशानुक्रम की विकास में कोई भूमिका नहीं होती"
+    ],
+    "options_en": [
+      "Development is decided only by heredity",
+      "Development is decided only by the environment",
+      "Development takes place through the interaction of heredity and environment",
+      "Heredity has no role in development"
+    ],
+    "q_en": "Which is the correct statement about child development ?",
+    "q_hi": "बाल विकास के संबंध में सही कथन कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "लगभग 18–24 महीने की अवस्था में बच्चा 'मम्मी पानी' जैसे दो शब्दों के वाक्य बोलता है — इसे तार-सदृश वाणी कहते हैं।",
+    "mock_q": 24,
+    "n": 210,
+    "options": [
+      "बच्चे की बड़बड़ाहट",
+      "पूर्ण वाक्य बोलना",
+      "कहानी सुनाना",
+      "दो शब्दों के छोटे वाक्य, जैसे 'मम्मी पानी'"
+    ],
+    "options_en": [
+      "The babbling of the child",
+      "Speaking complete sentences",
+      "Telling stories",
+      "Two-word short sentences, like 'mummy water'"
+    ],
+    "q_en": "In language development, what is meant by 'telegraphic speech' ?",
+    "q_hi": "भाषा विकास में 'तार-सदृश वाणी' (telegraphic speech) से क्या अभिप्राय है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "चॉम्स्की के अनुसार बच्चों में जन्मजात भाषा अधिग्रहण यंत्र (LAD) होता है, जिससे वे बिना औपचारिक शिक्षण के भाषा सीख लेते हैं।",
+    "mock_q": 25,
+    "n": 211,
+    "options": [
+      "अनुकरण",
+      "पुरस्कार",
+      "विद्यालयी शिक्षण",
+      "भाषा अधिग्रहण यंत्र (LAD)"
+    ],
+    "options_en": [
+      "Imitation",
+      "Reward",
+      "School teaching",
+      "Language Acquisition Device (LAD)"
+    ],
+    "q_en": "According to Chomsky, why do children have an innate ability to learn language ?",
+    "q_hi": "चॉम्स्की के अनुसार बच्चों में भाषा सीखने की सहज क्षमता किसके कारण होती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "IQ = (मानसिक आयु ÷ कालानुक्रमिक आयु) × 100 — यह सूत्र स्टर्न ने दिया था।",
+    "mock_q": 26,
+    "n": 212,
+    "options": [
+      "(कालानुक्रमिक आयु ÷ मानसिक आयु) × 100",
+      "मानसिक आयु + कालानुक्रमिक आयु",
+      "(मानसिक आयु ÷ कालानुक्रमिक आयु) × 100",
+      "मानसिक आयु − कालानुक्रमिक आयु"
+    ],
+    "options_en": [
+      "(Chronological age ÷ Mental age) × 100",
+      "Mental age + Chronological age",
+      "(Mental age ÷ Chronological age) × 100",
+      "Mental age − Chronological age"
+    ],
+    "q_en": "What is the formula for finding the Intelligence Quotient (IQ) ?",
+    "q_hi": "बुद्धि-लब्धि (IQ) ज्ञात करने का सूत्र है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "भावनात्मक बुद्धि में आत्म-जागरूकता, आत्म-नियमन, सहानुभूति और सामाजिक कौशल शामिल हैं।",
+    "mock_q": 27,
+    "n": 213,
+    "options": [
+      "तर्कशक्ति",
+      "स्मृति",
+      "अपनी और दूसरों की भावनाओं को समझना और प्रबंधित करना",
+      "गति"
+    ],
+    "options_en": [
+      "Reasoning power",
+      "Memory",
+      "Understanding and managing one's own and others' emotions",
+      "Speed"
+    ],
+    "q_en": "According to Goleman, which is a major element of emotional intelligence ?",
+    "q_hi": "गोलमैन के अनुसार भावनात्मक बुद्धि (emotional intelligence) का प्रमुख तत्व कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "प्रतिभाशाली बच्चों की पहचान एक ही माप से नहीं, बल्कि बुद्धि परीक्षण, सृजनात्मकता और अवलोकन जैसे कई स्रोतों से करनी चाहिए।",
+    "mock_q": 28,
+    "n": 214,
+    "options": [
+      "केवल परीक्षा अंक",
+      "केवल माता-पिता की राय",
+      "केवल आयु",
+      "बुद्धि परीक्षण, सृजनात्मकता और शिक्षक का अवलोकन — कई स्रोतों से"
+    ],
+    "options_en": [
+      "Only examination marks",
+      "Only the opinion of parents",
+      "Only age",
+      "Intelligence tests, creativity and the teacher's observation — from many sources"
+    ],
+    "q_en": "What is the most suitable way to identify gifted children ?",
+    "q_hi": "प्रतिभाशाली बच्चों की पहचान का सबसे उपयुक्त तरीका है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "ADHD में बच्चे को ध्यान बनाए रखने, आवेग पर नियंत्रण और अतिसक्रियता में कठिनाई होती है।",
+    "mock_q": 29,
+    "n": 215,
+    "options": [
+      "ध्यान बनाए रखना और आवेग पर नियंत्रण",
+      "सुनने में कमी",
+      "पढ़ने में कठिनाई",
+      "बोलने में कठिनाई"
+    ],
+    "options_en": [
+      "Sustaining attention and controlling impulses",
+      "Difficulty in hearing",
+      "Difficulty in reading",
+      "Difficulty in speaking"
+    ],
+    "q_en": "What is the main difficulty of a child with Attention Deficit Hyperactivity Disorder (ADHD) ?",
+    "q_hi": "ध्यान-अभाव अतिसक्रियता विकार (ADHD) वाले बच्चे की मुख्य कठिनाई है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "NCF 2005 के अनुसार अधिगम रटने पर नहीं, बल्कि समझ, अनुभव और बच्चे के परिवेश से जुड़कर होना चाहिए — यही 'बोझ के बिना अधिगम' है।",
+    "mock_q": 30,
+    "n": 216,
+    "options": [
+      "अधिगम को रटने से मुक्त करके समझ और अनुभव से जोड़ना",
+      "पाठ्यक्रम हटा देना",
+      "गृहकार्य बंद करना",
+      "परीक्षा बंद करना"
+    ],
+    "options_en": [
+      "Freeing learning from rote and connecting it with understanding and experience",
+      "Removing the syllabus",
+      "Stopping homework",
+      "Stopping examinations"
+    ],
+    "q_en": "What does 'learning without burden', a major principle of the National Curriculum Framework (NCF) 2005, mean ?",
+    "q_hi": "राष्ट्रीय पाठ्यचर्या रूपरेखा (NCF) 2005 का प्रमुख सिद्धान्त 'बोझ के बिना अधिगम' (learning without burden) का आशय है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'विद्यालय' शब्द विद्या + आलय से बना है — 'आ' के साथ संधि होने पर 'आ' ही रहता है, इसलिए यह दीर्घ संधि का उदाहरण है।",
+    "mock_q": 31,
+    "n": 217,
+    "options": [
+      "विद्या + आलय",
+      "विद्य + आलय",
+      "विद्या + लय",
+      "वि + द्यालय"
+    ],
+    "options_en": [
+      "Vidya + Aalaya",
+      "Vidya + Aalaya (wrong split)",
+      "Vidya + Laya",
+      "Vi + Dyalaya"
+    ],
+    "q_en": "What is the correct sandhi-viccheda of the word 'विद्यालय' ?",
+    "q_hi": "'विद्यालय' शब्द का सही संधि-विच्छेद कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "'कमल' के पर्यायवाची हैं — पंकज, नीरज, जलज, सरोज; 'पवन' वायु का और 'पर्वत' पहाड़ का पर्यायवाची है।",
+    "mock_q": 32,
+    "n": 218,
+    "options": [
+      "पवन",
+      "पर्वत",
+      "पंकज",
+      "प्रकाश"
+    ],
+    "options_en": [
+      "Pawan (wind)",
+      "Parvat (mountain)",
+      "Pankaj (lotus)",
+      "Prakash (light)"
+    ],
+    "q_en": "Which of the following is a synonym (paryayvachi) of 'कमल' ?",
+    "q_hi": "'कमल' शब्द का पर्यायवाची कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "'उन्नति' का विलोम 'अवनति' है — 'उन्नति' का अर्थ है आगे बढ़ना और 'अवनति' का अर्थ है नीचे गिरना।",
+    "mock_q": 33,
+    "n": 219,
+    "options": [
+      "प्रगति",
+      "अवनति",
+      "समृद्धि",
+      "उन्नयन"
+    ],
+    "options_en": [
+      "Pragati (progress)",
+      "Avanati (decline)",
+      "Samriddhi (prosperity)",
+      "Unnayan (upliftment)"
+    ],
+    "q_en": "What is the antonym (vilom) of 'उन्नति' ?",
+    "q_hi": "'उन्नति' शब्द का विलोम कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'अनु' उपसर्ग है — 'अनुकरण' शब्द 'अनु + करण' से बना है; 'कारण', 'मरण' और 'चरण' में 'अनु' उपसर्ग नहीं है।",
+    "mock_q": 34,
+    "n": 220,
+    "options": [
+      "कारण",
+      "मरण",
+      "चरण",
+      "अनुकरण"
+    ],
+    "options_en": [
+      "Karan (reason)",
+      "Maran (death)",
+      "Charan (step)",
+      "Anukaran (imitation)"
+    ],
+    "q_en": "In which of the following words is 'अनु' used as a prefix (upsarg) ?",
+    "q_hi": "निम्नलिखित में से किस शब्द में 'अनु' उपसर्ग के रूप में प्रयुक्त हुआ है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'ने' कर्ता कारक का चिह्न है — भूतकाल में सकर्मक क्रिया के साथ कर्ता के बाद 'ने' लगता है, जैसे 'राम ने खाना खाया।'",
+    "mock_q": 35,
+    "n": 221,
+    "options": [
+      "कर्ता",
+      "कर्म",
+      "करण",
+      "सम्प्रदान"
+    ],
+    "options_en": [
+      "Karta (nominative)",
+      "Karma (accusative)",
+      "Karan (instrumental)",
+      "Sampradan (dative)"
+    ],
+    "q_en": "'ने' is the sign of which karaka (case) ?",
+    "q_hi": "'ने' किस कारक का चिह्न है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "'वह पढ़ रहा है' में क्रिया अभी चल रही है, इसलिए यह अपूर्ण वर्तमान काल है।",
+    "mock_q": 36,
+    "n": 222,
+    "options": [
+      "सामान्य भूतकाल",
+      "अपूर्ण वर्तमान काल",
+      "भविष्यत् काल",
+      "सामान्य वर्तमान काल"
+    ],
+    "options_en": [
+      "Simple past tense",
+      "Present continuous tense",
+      "Future tense",
+      "Simple present tense"
+    ],
+    "q_en": "'वह पढ़ रहा है।' — this sentence is in which tense (kaal) ?",
+    "q_hi": "'वह पढ़ रहा है।' यह वाक्य किस काल का है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "'आँखों का तारा' मुहावरे का अर्थ है — बहुत प्रिय व्यक्ति।",
+    "mock_q": 37,
+    "n": 223,
+    "options": [
+      "बहुत दूर",
+      "आँखों की बीमारी",
+      "बहुत प्रिय",
+      "चमकीला तारा"
+    ],
+    "options_en": [
+      "Very far away",
+      "A disease of the eyes",
+      "Very dear (to someone)",
+      "A bright star"
+    ],
+    "q_en": "What does the idiom 'आँखों का तारा' mean ?",
+    "q_hi": "'आँखों का तारा' मुहावरे का सही अर्थ क्या है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'मुझे एक किताब चाहिए।' शुद्ध वाक्य है — 'मेरे को' और 'मैं को' अशुद्ध प्रयोग हैं।",
+    "mock_q": 38,
+    "n": 224,
+    "options": [
+      "मेरे को एक किताब चाहिए।",
+      "मुझे किताब एक चाहिए।",
+      "मैं को किताब चाहिए।",
+      "मुझे एक किताब चाहिए।"
+    ],
+    "options_en": [
+      "Mere ko ek kitab chahiye. (incorrect)",
+      "Mujhe kitab ek chahiye. (incorrect)",
+      "Main ko kitab chahiye. (incorrect)",
+      "Mujhe ek kitab chahiye. (correct)"
+    ],
+    "q_en": "Which of the following sentences is grammatically correct ?",
+    "q_hi": "निम्नलिखित में से शुद्ध वाक्य कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'विद्वान' का स्त्रीलिंग 'विदुषी' है।",
+    "mock_q": 39,
+    "n": 225,
+    "options": [
+      "विदुषी",
+      "विद्वानी",
+      "विद्या",
+      "विद्वता"
+    ],
+    "options_en": [
+      "Vidushi",
+      "Vidwani (incorrect)",
+      "Vidya (knowledge)",
+      "Vidvata (scholarship)"
+    ],
+    "q_en": "What is the feminine form (streeling) of 'विद्वान' ?",
+    "q_hi": "'विद्वान' शब्द का स्त्रीलिंग रूप कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "श्रवण कौशल के विकास के लिए कहानी सुनकर उस पर प्रश्नों के उत्तर देना सबसे उपयुक्त गतिविधि है — इसमें ध्यानपूर्वक सुनना और समझना दोनों आते हैं।",
+    "mock_q": 40,
+    "n": 226,
+    "options": [
+      "केवल पाठ पढ़ना",
+      "कहानी सुनकर प्रश्नों के उत्तर देना",
+      "केवल लिखना",
+      "केवल बोलना"
+    ],
+    "options_en": [
+      "Only reading the text",
+      "Listening to a story and answering questions on it",
+      "Only writing",
+      "Only speaking"
+    ],
+    "q_en": "Which activity is most suitable for developing the listening skill ?",
+    "q_hi": "श्रवण कौशल (सुनने के कौशल) के विकास के लिए सबसे उपयुक्त गतिविधि कौन-सी है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "बॉटम-अप श्रवण में ध्वनियों और शब्दों को पहचानकर अर्थ निकाला जाता है — श्रुतलेख और क्लोज़ श्रवण इसके उदाहरण हैं; सारांश बनाना टॉप-डाउन गतिविधि है।",
+    "mock_q": 41,
+    "n": 138,
+    "options": [
+      "श्रुतलेख, क्लोज़ श्रवण, बहुविकल्पीय प्रश्नों का प्रयोग, सकारात्मक और नकारात्मक कथनों की पहचान।",
+      "सारांश बनाना, पूरे संदेश को सुनना और पृष्ठभूमि ज्ञान का प्रयोग करना।",
+      "सुनते समय बिखरे शब्दों को वाक्यों में व्यवस्थित करना।",
+      "कविता का पाठ, आशु भाषण, वाद-विवाद और चर्चाएँ।"
+    ],
+    "options_en": [
+      "Dictation, cloze listening, use of multiple-choice questions, identifying positive and negative statements.",
+      "Summarising, listening to the whole message and applying the background knowledge.",
+      "Rearranging the jumbled words into sentences as one listens.",
+      "Recitation of poetry, extempore speech, debate and discussions."
+    ],
+    "q_en": "Which one of the following are bottom-up listening activities ?",
+    "q_hi": "निम्नलिखित में से कौन-सी बॉटम-अप श्रवण गतिविधियाँ हैं ?",
+    "source": "CTET Feb 2026 Paper 2 Set J, Q138",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "'Honest' का उच्चारण स्वर 'ऑ' से शुरू होता है, इसलिए इसके पहले 'an' आता है — 'an honest man'।",
+    "mock_q": 42,
+    "n": 227,
+    "options": [
+      "A",
+      "The",
+      "An",
+      "कोई आर्टिकल नहीं"
+    ],
+    "options_en": [
+      "A",
+      "The",
+      "An",
+      "No article"
+    ],
+    "q_en": "Choose the correct article: '___ honest man is respected everywhere.'",
+    "q_hi": "सही आर्टिकल चुनिए: '___ honest man is respected everywhere.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'Interested' के साथ हमेशा 'in' प्रीपोज़िशन आता है — 'interested in music'।",
+    "mock_q": 43,
+    "n": 228,
+    "options": [
+      "on",
+      "at",
+      "of",
+      "in"
+    ],
+    "options_en": [
+      "on",
+      "at",
+      "of",
+      "in"
+    ],
+    "q_en": "Choose the correct preposition: 'She is interested ___ music.'",
+    "q_hi": "सही प्रीपोज़िशन चुनिए: 'She is interested ___ music.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'Neither of the students' एकवचन माना जाता है, इसलिए क्रिया 'was' आएगी — 'Neither of the students was present yesterday.'",
+    "mock_q": 44,
+    "n": 229,
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "options_en": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "q_en": "Choose the correct verb: 'Neither of the students ___ present yesterday.'",
+    "q_hi": "सही क्रिया चुनिए: 'Neither of the students ___ present yesterday.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "Present simple के passive में 'is + past participle' आता है — 'A letter is written by her every day.'",
+    "mock_q": 45,
+    "n": 230,
+    "options": [
+      "A letter was written by her every day.",
+      "A letter has been written by her every day.",
+      "A letter is written by her every day.",
+      "A letter is being written by her every day."
+    ],
+    "options_en": [
+      "A letter was written by her every day.",
+      "A letter has been written by her every day.",
+      "A letter is written by her every day.",
+      "A letter is being written by her every day."
+    ],
+    "q_en": "Choose the correct passive form of: 'She writes a letter every day.'",
+    "q_hi": "'She writes a letter every day.' का सही passive रूप चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "Indirect speech में present simple बदलकर past simple हो जाता है और 'today' बदलकर 'that day' हो जाता है — 'He said that he was busy that day.'",
+    "mock_q": 46,
+    "n": 231,
+    "options": [
+      "He said that he is busy today.",
+      "He said that he had been busy yesterday.",
+      "He said that he will be busy that day.",
+      "He said that he was busy that day."
+    ],
+    "options_en": [
+      "He said that he is busy today.",
+      "He said that he had been busy yesterday.",
+      "He said that he will be busy that day.",
+      "He said that he was busy that day."
+    ],
+    "q_en": "Choose the correct indirect speech of: 'He said, \"I am busy today.\"'",
+    "q_hi": "'He said, \"I am busy today.\"' का सही indirect speech चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "'Joyful' का अर्थ है प्रसन्न — यह 'Happy' का पर्यायवाची है।",
+    "mock_q": 47,
+    "n": 232,
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "options_en": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "q_en": "Choose the synonym of 'Happy'.",
+    "q_hi": "'Happy' शब्द का पर्यायवाची (synonym) चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "Skimming में पाठ को जल्दी पढ़कर उसका सामान्य भाव समझा जाता है, जबकि scanning में विशेष जानकारी खोजी जाती है।",
+    "mock_q": 48,
+    "n": 233,
+    "options": [
+      "Scanning",
+      "Skimming",
+      "Intensive reading",
+      "Detailed reading"
+    ],
+    "options_en": [
+      "Scanning",
+      "Skimming",
+      "Intensive reading",
+      "Detailed reading"
+    ],
+    "q_en": "Reading a text quickly to get its general idea is known as —",
+    "q_hi": "पाठ को जल्दी पढ़कर उसका सामान्य भाव समझना क्या कहलाता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "क्रैशन के अनुसार कम affective filter (कम चिंता और तनाव) से भाषा-इनपुट ग्रहण करना आसान हो जाता है और अधिगम तेज़ होता है।",
+    "mock_q": 49,
+    "n": 234,
+    "options": [
+      "it makes them memorise faster",
+      "it improves handwriting",
+      "it lowers anxiety and lets input in",
+      "it increases homework"
+    ],
+    "options_en": [
+      "it makes them memorise faster",
+      "it improves handwriting",
+      "it lowers anxiety and lets input in",
+      "it increases homework"
+    ],
+    "q_en": "According to Krashen, a low affective filter helps learners because —",
+    "q_hi": "क्रैशन के अनुसार कम affective filter शिक्षार्थियों की सहायता करता है, क्योंकि —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "उपचारात्मक शिक्षण (remedial teaching) का उद्देश्य शिक्षार्थियों की कठिनाइयों को पहचानकर उन्हें दूर करना है, न कि पाठ्यक्रम जल्दी पूरा करना।",
+    "mock_q": 50,
+    "n": 235,
+    "options": [
+      "identify toppers",
+      "finish the syllabus faster",
+      "give more homework",
+      "help learners overcome their difficulties"
+    ],
+    "options_en": [
+      "identify toppers",
+      "finish the syllabus faster",
+      "give more homework",
+      "help learners overcome their difficulties"
+    ],
+    "q_en": "The main purpose of remedial teaching is to —",
+    "q_hi": "उपचारात्मक शिक्षण (remedial teaching) का मुख्य उद्देश्य है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  }
+]
