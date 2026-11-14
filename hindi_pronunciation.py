@@ -112,12 +112,35 @@ def apply_pronunciation_rules(text: str) -> str:
     return text
 
 
+def _era_category_fix(text: str) -> str:
+    """BC/BCE/CE ko sandarbh (context) se badlo — ye dictionary se PEHLE
+    chalta hai. Saal ke saath BC/BCE = ईसा पूर्व aur CE = Common Era;
+    lekin vacancy/shreni wala BC = Backward Classes hai, use ईसा पूर्व
+    bilkul nahi banana (14 Nov 2026 — user ne ASO Short me pakda:
+    shulk wali line me BC galti se ईसा पूर्व bol diya gaya tha)."""
+    # 1) Saal ke saath era: 563 BC / 527 BCE -> ईसा पूर्व; 102 CE -> Common Era
+    text = re.sub(r"(\d)\s*(?:BCE|BC)\b", r"\1 ईसा पूर्व", text)
+    text = re.sub(r"(\d)\s*CE\b", r"\1 Common Era", text)
+    # 2) 'century / शताब्दी' ke saath wala BC/BCE bhi era hi hai
+    text = re.sub(r"(century|शताब्दी)\s+(?:BCE|BC)\b", r"\1 ईसा पूर्व", text, flags=re.IGNORECASE)
+    # 3) BCE akela bhi hamesha era hota hai
+    text = re.sub(r"\bBCE\b", "ईसा पूर्व", text)
+    # 4) Bacha hua standalone BC = shreni (Backward Classes); BC-I/BC-II pehle
+    text = re.sub(r"\bBC-II\b", "Backward Classes 2", text)
+    text = re.sub(r"\bBC-I\b", "Backward Classes 1", text)
+    text = re.sub(r"\bBC\b", "Backward Classes", text)
+    return text
+
+
 def prepare_tts_text(text: str, dictionary_path: Path = DEFAULT_DICTIONARY) -> str:
     """Prepare a spoken-only version; never use this for on-screen captions."""
     if not isinstance(text, str):
         raise TypeError("TTS input must be a string")
     spoken = text.translate(DEV_DIGITS)
+    spoken = _era_category_fix(spoken)
     spoken = apply_dictionary(spoken, load_dictionary(dictionary_path))
+    # Dictionary ka 'Common -> कॉमन' CE ke poore naam ko tod deta hai — sudharo.
+    spoken = spoken.replace("कॉमन Era", "Common Era")
     spoken = apply_pronunciation_rules(spoken)
     # Pehle session-range (2027–28), phir akele saal — dono shabdon me.
     spoken = re.sub(r"(?<![\d])(20\d{2})[–-](\d{2})(?![\d])", year_range_to_hazaar_style, spoken)
