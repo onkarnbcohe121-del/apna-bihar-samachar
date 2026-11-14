@@ -260,7 +260,9 @@ async def _tts_swara(text, out):
 # ---------------- Mock loading ----------------
 def adapt_question(raw):
     """CTET sawal JSON ko engine ke andarooani roop me badlo."""
-    return {"q_hi": raw["q_hi"], "q_en": raw.get("q_en", ""),
+    subj = raw.get("subject", "")
+    lang = "hi" if subj in ("Language-I", "Hindi") else ("en" if subj == "Language-II" else "")
+    return {"q_hi": raw["q_hi"], "q_en": raw.get("q_en", ""), "lang": lang,
             "options": list(raw["options"]),
             "options_en": list(raw.get("options_en") or []),
             "answer": int(raw["answer"]),
@@ -281,8 +283,23 @@ def speech_option_texts(q):
     """Awaaz ke liye vikalp — SIRF Hindi (user ka niyam, 14 Nov 2026):
     slide par Hindi + English dono dikhenge, lekin awaaz har option
     ek hi baar, sirf Hindi me padhegi (do baar padhna ajeeb lagta hai)."""
+    if q.get("lang") == "en":
+        en = [e for e in (q.get("options_en") or []) if isinstance(e, str) and e.strip()]
+        if len(en) == len(q["options"]):
+            return en
     return list(q["options"])
 
+
+def display_option_texts(q):
+    """Slide ke vikalp — Language sawal EK hi bhasha me (user ka niyam,
+    14 Nov 2026: CTET me Hindi Language bilingual nahi hota, English
+    Language bhi nahi): Language-I/Hindi → sirf Hindi, Language-II →
+    sirf English; baaki (CDP aadi) → Hindi / English dono."""
+    if q.get("lang") == "hi":
+        return list(q["options"])
+    if q.get("lang") == "en":
+        return speech_option_texts(q)
+    return option_texts(q)
 
 def load_mock(path, paper, mock_no, playlist):
     with open(path, encoding="utf-8") as f:
@@ -413,13 +430,14 @@ def compute_layout(d, q, reveal):
     kar sab kuchh frame ke andar rakhta hai."""
     y = 140
     qsize = 44
-    qlines = wrap_mixed(d, q["q_hi"], qsize, True, W - 80)
+    qmain = q["q_en"] if q.get("lang") == "en" and q.get("q_en") else q["q_hi"]
+    qlines = wrap_mixed(d, qmain, qsize, True, W - 80)
     while len(qlines) > 3 and qsize > 30:
         qsize -= 4
-        qlines = wrap_mixed(d, q["q_hi"], qsize, True, W - 80)
+        qlines = wrap_mixed(d, qmain, qsize, True, W - 80)
     qstep = int(qsize * 1.28)
     q_bottom = y + len(qlines) * qstep
-    enlines = wrap_mixed(d, q["q_en"], 27, False, W - 80)[:2] if q.get("q_en") else []
+    enlines = [] if q.get("lang") else (wrap_mixed(d, q["q_en"], 27, False, W - 80)[:2] if q.get("q_en") else [])
     opts_top = q_bottom + len(enlines) * 34 + 12
 
     # Vyakhya panel pehle napo (reveal par) — vikalpon ki seema usi se tay hogi
@@ -446,7 +464,7 @@ def compute_layout(d, q, reveal):
     for prof in profiles:
         osize, line_h, pad_v, gap = prof
         rows, yy = [], opts_top
-        for opt in option_texts(q):
+        for opt in display_option_texts(q):
             ol = wrap_mixed(d, opt, osize, False, W - 190)[:2]
             rh = len(ol) * line_h + pad_v
             rows.append((ol, rh))
@@ -569,7 +587,8 @@ async def build(mock, workdir):
         opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(speech_option_texts(q)))
         p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, mock_no, paper).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
-        await tts(f"प्रश्न {i}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
+        qspeak = q["q_en"] if q.get("lang") == "en" and q.get("q_en") else q["q_hi"]
+        await tts(f"प्रश्न {i}। {qspeak} … विकल्प हैं — {opts_speech}।", a)
         s = os.path.join(workdir, f"seg_{i:03d}a.mp4"); make_segment(p, a, s); segs.append(s)
 
         expl = q["explanation"]
