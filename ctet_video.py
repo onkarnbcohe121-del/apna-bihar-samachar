@@ -277,6 +277,13 @@ def option_texts(q):
         out.append(f"{hi} / {e}" if e and e != hi.strip() else hi)
     return out
 
+def speech_option_texts(q):
+    """Awaaz ke liye vikalp — SIRF Hindi (user ka niyam, 14 Nov 2026):
+    slide par Hindi + English dono dikhenge, lekin awaaz har option
+    ek hi baar, sirf Hindi me padhegi (do baar padhna ajeeb lagta hai)."""
+    return list(q["options"])
+
+
 def load_mock(path, paper, mock_no, playlist):
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
@@ -559,7 +566,7 @@ async def build(mock, workdir):
     s = os.path.join(workdir, "seg_000.mp4"); make_segment(p, a, s); segs.append(s)
 
     for i, q in enumerate(questions, 1):
-        opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(option_texts(q)))
+        opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(speech_option_texts(q)))
         p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, mock_no, paper).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
         await tts(f"प्रश्न {i}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
@@ -570,7 +577,7 @@ async def build(mock, workdir):
             expl = expl[:260].rsplit("।", 1)[0] + "।"
         p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, mock_no, paper).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
-        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {option_texts(q)[q['answer']]}। {expl}", a)
+        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {speech_option_texts(q)[q['answer']]}। {expl}", a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 
