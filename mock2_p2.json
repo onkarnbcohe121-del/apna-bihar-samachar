@@ -1,752 +1,1102 @@
 [
  {
-  "n": 51,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित में से कितने गलत मिलान हैं ? (a) कोल विद्रोह - 1831-32 (b) संथाल विद्रोह - 1855 (c) बस्तर विद्रोह - 1920 (d) वारली विद्रोह - 1939",
-  "q_en": "In the following, how many have been matched incorrectly ? (a) Kol rebellion - 1831-32 (b) Santhal revolt - 1855 (c) Bastar rebellion - 1920 (d) Warli revolt - 1939",
+  "n": 121,
+  "subject": "Child Development",
+  "q_hi": "पियाजे की औपचारिक संक्रियात्मक अवस्था की एक प्रमुख विशेषता यह है कि किशोर —",
+  "q_en": "A key feature of Piaget's formal operational stage is that adolescents —",
   "options": [
-   "केवल एक गलत",
-   "केवल दो गलत",
-   "केवल तीन गलत",
-   "उपरोक्त कोई नहीं"
+   "केवल मूर्त वस्तुओं पर ही तर्क कर सकते हैं",
+   "केवल वर्तमान अनुभवों तक सीमित रहते हैं",
+   "अमूर्त तथा काल्पनिक स्थितियों पर भी व्यवस्थित रूप से सोच सकते हैं",
+   "संरक्षण की समझ अभी विकसित नहीं कर पाते"
   ],
-  "answer": 1,
-  "exp_hi": "केवल दो मिलान गलत हैं — बस्तर विद्रोह 1910 में और वारली विद्रोह 1945-47 में हुआ था।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q51"
- },
- {
-  "n": 52,
-  "subject": "Social Studies",
-  "q_hi": "मसूलीपट्टनम के संदर्भ में, जिसका व्यापार के लिए दूरस्थ स्थानों से संपर्क था, उपयुक्त विकल्पों का चयन कीजिए : (a) सत्रहवीं शताब्दी में हॉलैंड और इंग्लैंड दोनों देशों की ईस्ट इंडिया कंपनी ने मसूलीपट्टनम पर नियंत्रण प्राप्त करने का प्रयत्न किया, क्योंकि तब तक वह आंध्र तट का सबसे महत्वपूर्ण पत्तन बन गया था। (b) हॉलैंडवासी (डच), डेनमार्क और स्पेन के दूरस्थ स्थानों के लोग थे। (c) विभिन्न व्यापारी समूहों जैसे गोलकोंडा के कुलीन वर्गों, फ़ारसी सौदागरों, तेलुगु कोमटी चेट्टियार और यूरोपीय व्यापारियों की प्रतिस्पर्धा ने नगर को समृद्धिशाली बना दिया। (d) मीर जुमला और मुगल सूबेदार ने हॉलैंडवासियों और अंग्रेजों को आपस में भिड़ाना शुरू कर दिया।",
-  "q_en": "In the context of Masulipatnam, which had contacts with distant lands for trade, choose the appropriate options : (a) In the 17th Century, both the Dutch and English East India Companies attempted to control Masulipatnam as it became the most important port on the Andhra Coast. (b) Dutch were people from distant lands of Denmark and Spain. (c) The competition between trading groups such as the Golconda nobler, Persian merchants, Telugu Komati Chettis and European traders made the city prosperous. (d) Mir Jumla, the Mughal governor began to play off the Dutch and the English against each other.",
-  "options": [
-   "केवल (a), (b)",
-   "केवल (c), (d)",
-   "केवल (a), (b), (c)",
-   "केवल (c), (d), (a)"
-  ],
-  "answer": 3,
-  "exp_hi": "कथन (c), (d) और (a) सही हैं; डच हॉलैंड के थे, डेनमार्क-स्पेन के नहीं, अतः (b) गलत है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q53"
- },
- {
-  "n": 53,
-  "subject": "Social Studies",
-  "q_hi": "जेम्स मिल ने अपनी तीन खंडों वाली पुस्तक “ए हिस्ट्री ऑफ़ ब्रिटिश इंडिया” किस वर्ष प्रकाशित की थी ?",
-  "q_en": "In which year did James Mill publish his three volumes book titled “A History of British India” ?",
-  "options": [
-   "1815",
-   "1816",
-   "1817",
-   "1818"
+  "options_en": [
+   "can reason only about concrete objects",
+   "remain limited to present experiences only",
+   "can think systematically about abstract and hypothetical situations as well",
+   "have not yet developed the understanding of conservation"
   ],
   "answer": 2,
-  "exp_hi": "जेम्स मिल की 'ए हिस्ट्री ऑफ़ ब्रिटिश इंडिया' 1817 में तीन खंडों में प्रकाशित हुई थी।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q54"
+  "exp_hi": "औपचारिक संक्रियात्मक अवस्था (लगभग 11 वर्ष से आगे) में किशोर अमूर्त अवधारणाओं और काल्पनिक स्थितियों पर परिकल्पना बनाकर व्यवस्थित चिन्तन कर सकते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 1
  },
  {
-  "n": 54,
-  "subject": "Social Studies",
-  "q_hi": "(A) : पृथ्वी की ठोस पर्पटी या कठोर ऊपरी परत को स्थलमंडल कहते हैं। (R) : यह चट्टानों एवं खनिजों से बना होता है एवं मिट्टी की पतली परत से ढ़का होता है। निम्नलिखित में से सही उत्तर को चुनें :",
-  "q_en": "(A) : Lithosphere is the solid crust or the hard top layer of the earth. (R) : It is made up of rocks and minerals and covered by a thin layer of soil. Choose the correct option of the following :",
+  "n": 122,
+  "subject": "Child Development",
+  "q_hi": "कोह्लबर्ग के पूर्व-पारम्परिक स्तर पर बच्चे का नैतिक निर्णय मुख्यतः किस पर आधारित होता है ?",
+  "q_en": "At Kohlberg's pre-conventional level, a child's moral judgement is mainly based on :",
   "options": [
-   "दोनों (A) तथा (R) सही हैं एवं (R), (A) की सही व्याख्या करता है।",
-   "दोनों (A) एवं (R) सही हैं तथा (R), (A) की सही व्याख्या नहीं करता है।",
-   "(A) सही है किन्तु (R) गलत है।",
-   "(A) गलत है किन्तु (R) सही है।"
+   "दण्ड से बचना और पुरस्कार/स्वार्थ की पूर्ति",
+   "सामाजिक नियमों और कानून का पालन",
+   "सार्वभौमिक नैतिक सिद्धान्त",
+   "समाज की स्वीकृति और प्रतिष्ठा"
+  ],
+  "options_en": [
+   "avoiding punishment and fulfilment of reward/self-interest",
+   "following social rules and laws",
+   "universal ethical principles",
+   "social approval and reputation"
   ],
   "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं और (R) स्थलमंडल की संरचना बताकर (A) की सही व्याख्या करता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q55"
+  "exp_hi": "पूर्व-पारम्परिक स्तर पर बच्चा दण्ड से बचने और अपने स्वार्थ/पुरस्कार को देखकर सही-गलत तय करता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 2
  },
  {
-  "n": 55,
-  "subject": "Social Studies",
-  "q_hi": "बंगाल मंदिर निर्माण के निम्नलिखित कथनों पर विचार कीजिए और उपयुक्त विकल्प चुनिये : (a) मंदिर भक्ति प्रदर्शित करने के लिये निर्मित किए जाते थे। (b) मंदिर शक्ति प्रदर्शित करने के लिये निर्मित किए जाते थे। (c) मंदिरों ने दो मंजिली छप्पर की झोंपड़ियों की संरचना की प्रतिकृति करना आरंभ कर दिया। (d) मंदिरों ने चार छत वाली छप्पर की झोंपड़ियों की संरचना की प्रतिकृति करना आरंभ कर दिया।",
-  "q_en": "Consider the following statements of Bengal temple - building and choose the appropriate option : (a) Temples were built to demonstrate piety. (b) Temples were built to demonstrate power. (c) Temples began to copy the double-roofed structure of the thatched huts. (d) Temples began to copy the four-roofed structure of the thatched huts.",
+  "n": 123,
+  "subject": "Child Development",
+  "q_hi": "कोह्लबर्ग के उत्तर-पारम्परिक स्तर की नैतिकता की पहचान है —",
+  "q_en": "Moral reasoning at Kohlberg's post-conventional level is marked by :",
   "options": [
-   "केवल (a), (b) और (c) उपयुक्त हैं।",
-   "केवल (b), (c) और (d) उपयुक्त हैं।",
-   "केवल (c), (d) और (a) उपयुक्त हैं।",
-   "सभी (a), (b), (c) और (d) उपयुक्त हैं।"
+   "दण्ड का भय",
+   "कानून का अंधानुकरण",
+   "साथियों की प्रशंसा",
+   "न्याय और मानव-अधिकारों जैसे सार्वभौमिक सिद्धान्तों के आधार पर कानूनों का मूल्यांकन"
+  ],
+  "options_en": [
+   "fear of punishment",
+   "blind obedience to laws",
+   "praise of peers",
+   "evaluating laws on the basis of universal principles such as justice and human rights"
   ],
   "answer": 3,
-  "exp_hi": "बंगाल के मंदिर भक्ति व शक्ति प्रदर्शन हेतु बने और दो-छत तथा चार-छत दोनों संरचनाएँ अपनाई गईं — सभी कथन उपयुक्त हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q56"
+  "exp_hi": "उत्तर-पारम्परिक स्तर पर व्यक्ति कानूनों को न्याय और मानव-अधिकारों के सार्वभौमिक सिद्धान्तों की कसौटी पर परखता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 3
  },
  {
-  "n": 56,
-  "subject": "Social Studies",
-  "q_hi": "एक-एक घंटे वाला पृथ्वी का एक समय-क्षेत्र कितना देशांतरीय विस्तार घेरता है ?",
-  "q_en": "How much longitudinal extent does one Time Zone of Earth of one Hour each cover ?",
+  "n": 124,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के अनुसार 'समीपस्थ विकास क्षेत्र' (ZPD) क्या है ?",
+  "q_en": "According to Vygotsky, what is the 'Zone of Proximal Development' (ZPD) ?",
   "options": [
-   "45°",
-   "30°",
-   "15°",
-   "60°"
+   "वह स्तर जो बच्चा पहले ही प्राप्त कर चुका है",
+   "स्वतंत्र रूप से किए जा सकने वाले कार्य और सहायता से किए जा सकने वाले कार्य के स्तर के बीच का अंतर",
+   "बच्चे की जन्मजात बुद्धि का स्तर",
+   "कक्षा का औसत उपलब्धि स्तर"
   ],
-  "answer": 2,
-  "exp_hi": "पृथ्वी 24 घंटे में 360° घूमती है, अतः एक घंटे का समय-क्षेत्र 15° देशांतर घेरता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q57"
- },
- {
-  "n": 57,
-  "subject": "Social Studies",
-  "q_hi": "पर्वतों (पहाड़ों) में बहते समय नदी जलप्रपात बनाती है। जलप्रपात के लिए दो मुख्य कारणों का चुनाव कीजिए : (a) नदी पेड़ों के मध्य से गुजरती है। (b) नदी अत्यधिक कठोर शैलों के ऊपर बहती है। (c) नदी नर्म शैलों के ऊपर से गुजरती है। (d) नदी खड़ी ढाल वाली घाटी में गिरती है।",
-  "q_en": "A river makes waterfalls while flowing in the mountains. Select the two main reasons for the waterfalls : (a) River moves in between trees. (b) River flows over very hard rocks. (c) River moves over soft rocks. (d) River flows down a steep valley. Choices :",
-  "options": [
-   "(a) और (c) सही हैं।",
-   "(b) और (d) सही हैं।",
-   "(a) और (d) सही हैं।",
-   "(b) और (c) सही हैं।"
+  "options_en": [
+   "the level the child has already attained",
+   "the gap between what a child can do independently and what the child can do with assistance",
+   "the innate intelligence level of the child",
+   "the average achievement level of the class"
   ],
   "answer": 1,
-  "exp_hi": "जलप्रपात तब बनते हैं जब नदी कठोर शैलों के ऊपर से बहकर खड़ी ढाल वाली घाटी में गिरती है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q58"
+  "exp_hi": "ZPD बच्चे के वास्तविक विकास स्तर (स्वतंत्र कार्य) और सहायता मिलने पर सम्भावित स्तर के बीच का क्षेत्र है, जहाँ अधिगम सबसे प्रभावी होता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 4
  },
  {
-  "n": 58,
-  "subject": "Social Studies",
-  "q_hi": "भारत में पहली कपास मिल (स्पिनिंग मील) बॉम्बे में किस वर्ष स्थापित हुई थी ?",
-  "q_en": "The first cotton mill in India was set up as a spinning mill in Bombay in the year :",
+  "n": 125,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के अनुसार, बच्चों की 'निजी वाणी' (स्वयं से बात करना) का कार्य है —",
+  "q_en": "According to Vygotsky, the function of children's 'private speech' (talking to oneself) is to :",
   "options": [
-   "1852",
-   "1853",
-   "1854",
-   "1855"
+   "अपरिपक्वता का लक्षण होना",
+   "दूसरों को प्रभावित करना",
+   "अपने व्यवहार को निर्देशित और नियंत्रित करना",
+   "भाषा विकास में बाधा डालना"
+  ],
+  "options_en": [
+   "be a sign of immaturity",
+   "influence others",
+   "guide and regulate one's own behaviour",
+   "hinder language development"
   ],
   "answer": 2,
-  "exp_hi": "भारत की पहली कपास कताई मिल 1854 में बॉम्बे (मुंबई) में स्थापित हुई थी।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q59"
+  "exp_hi": "वाइगोत्स्की के अनुसार निजी वाणी आत्म-नियमन का साधन है, जो बाद में आंतरिक वाणी में बदल जाती है; पियाजे ने इसे केवल अहंकेन्द्रित वाणी माना था।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 5
  },
  {
-  "n": 59,
-  "subject": "Social Studies",
-  "q_hi": "औपनिवेशिक कृषि संबंधी नीतियों में परिवर्तनों के संबंध में उपयुक्त निष्कर्षों पर पहुँचने के लिए भ्रान्तियों को दूर कीजिए। (a) दीवान के रूप में, कंपनी अपने नियंत्रण के क्षेत्र की मुख्य प्रशासक बन गई। (b) 1765 के पश्चात् कंपनी को भूमि की व्यवस्था और उसके राजस्व के संसाधनों की व्यवस्था करने के विषय में सोचना पड़ा। (c) 1765 से पूर्व, कंपनी ने ब्रिटेन से विशाल मात्रा में अनाज का आयात करके भारत में वस्तुएँ खरीदीं। (d) 1765 के बाद, बंगाल में इकट्ठा किये गये राजस्व से निर्यात के लिए खरीदी वस्तुओं/माल का वित्तीय प्रबंध किया जा सका।",
-  "q_en": "Dispel the misconceptions to arrive at appropriate conclusions with regard to changes in the colonial agrarian policies. (a) As Diwan, the Company became the chief administrator of the territory under its control. (b) After 1765 Company had to think of administering the land and organising its revenue resources. (c) Before 1765, the Company purchased goods in India by importing huge quantities of grain from Britain. (d) After 1765, the revenue collected in Bengal could finance the purchase of goods for export.",
+  "n": 126,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के 'आलंबन' (scaffolding) की सबसे सही विशेषता कौन-सी है ?",
+  "q_en": "The most correct feature of Vygotsky's 'scaffolding' is that :",
   "options": [
-   "केवल (a), (b)",
-   "केवल (b), (c)",
-   "केवल (a), (d)",
-   "केवल (b), (d)"
+   "यह सहायता अस्थायी होती है और बच्चे की दक्षता बढ़ने पर क्रमशः हटा ली जाती है",
+   "यह सहायता पूरे वर्ष एक समान बनी रहती है",
+   "इसमें शिक्षक बच्चे के स्थान पर कार्य स्वयं कर देता है",
+   "यह केवल कमज़ोर बच्चों को ही दी जाती है"
+  ],
+  "options_en": [
+   "the support is temporary and is gradually withdrawn as the child's competence increases",
+   "the support remains the same throughout the year",
+   "the teacher does the task herself in place of the child",
+   "it is given only to weak children"
   ],
   "answer": 0,
-  "exp_hi": "केवल (b) और (d) सही निष्कर्ष हैं; (a) और (c) भ्रान्तिपूर्ण कथन हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q60"
+  "exp_hi": "आलंबन अस्थायी और समायोज्य सहायता है — जैसे-जैसे बच्चा स्वतंत्र रूप से कार्य करने लगता है, सहायता क्रमशः घटा दी जाती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 6
  },
  {
-  "n": 60,
-  "subject": "Social Studies",
-  "q_hi": "ग्रामीण भारत में ऋण के संस्थागत स्रोत निम्नलिखित में से कौन से हैं ? (a) साहूकार (b) सहकारी संस्थाएँ (c) सरकारी बैंक (d) ज़मींदार",
-  "q_en": "Which of the following are institutional sources of debts in rural India ? (a) Moneylenders (b) Cooperatives (c) Government Banks (d) Landlords Options :",
+  "n": 127,
+  "subject": "Child Development",
+  "q_hi": "ब्रूनर के अनुसार ज्ञान के प्रस्तुतीकरण (representation) के तीन क्रमिक रूप हैं —",
+  "q_en": "According to Bruner, the three sequential modes of representation of knowledge are :",
   "options": [
-   "केवल (a) और (c)",
-   "केवल (b) और (c)",
-   "केवल (a) और (d)",
-   "केवल (a), (b) और (d)"
+   "मौखिक, लिखित, दृश्य",
+   "सरल, मध्यम, जटिल",
+   "मूर्त, अर्ध-मूर्त, अमूर्त",
+   "क्रियात्मक (enactive), प्रतिमात्मक (iconic), प्रतीकात्मक (symbolic)"
+  ],
+  "options_en": [
+   "oral, written, visual",
+   "simple, medium, complex",
+   "concrete, semi-concrete, abstract",
+   "enactive, iconic, symbolic"
+  ],
+  "answer": 3,
+  "exp_hi": "ब्रूनर के अनुसार बच्चा ज्ञान को पहले क्रिया (enactive), फिर प्रतिमा (iconic) और अंत में प्रतीकों/भाषा (symbolic) के माध्यम से ग्रहण करता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 7
+ },
+ {
+  "n": 128,
+  "subject": "Child Development",
+  "q_hi": "ब्रूनर की 'सर्पिल पाठ्यचर्या' (spiral curriculum) का आशय है —",
+  "q_en": "Bruner's 'spiral curriculum' means :",
+  "options": [
+   "पाठ्यचर्या को वृत्ताकार भवन में पढ़ाना",
+   "किसी विषय को बढ़ती जटिलता के साथ बार-बार पुनः प्रस्तुत करना",
+   "एक विषय समाप्त करके ही दूसरा शुरू करना",
+   "केवल घूमती गतिविधियों द्वारा पढ़ाना"
+  ],
+  "options_en": [
+   "teaching the curriculum in a circular building",
+   "revisiting a topic again and again with increasing complexity",
+   "starting a new subject only after finishing one",
+   "teaching only through rotating activities"
   ],
   "answer": 1,
-  "exp_hi": "ग्रामीण ऋण के संस्थागत स्रोत केवल सहकारी संस्थाएँ और सरकारी बैंक हैं; साहूकार व ज़मींदार अनौपचारिक स्रोत हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q61"
+  "exp_hi": "सर्पिल पाठ्यचर्या में एक ही अवधारणा को बच्चे की अवस्था के अनुसार सरल रूप में प्रस्तुत कर बाद में बढ़ती जटिलता के साथ दोहराया जाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 8
  },
  {
-  "n": 61,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित में से क्या राज्य द्वारा धर्म में हस्तक्षेप है जैसा कि भारतीय संविधान में लिखा गया है ? (a) अस्पृश्यता का उन्मूलन (b) बाल मज़दूरी पर प्रतिषेध (c) बाल विवाह पर प्रतिबंध (d) विशाखा मार्गदर्शिका को तैयार करना विकल्प :",
-  "q_en": "Which of the following are examples of intervention in religion by state as laid out in the Indian Constitution ? (a) Abolition of untouchability (b) Prohibition of child labour (c) Ban on child marriage (d) Laying out Vishakha guidelines Options :",
+  "n": 129,
+  "subject": "Child Development",
+  "q_hi": "ऑसुबेल के 'अग्रिम संगठक' (advance organizer) से अभिप्राय है —",
+  "q_en": "Ausubel's 'advance organizer' refers to :",
   "options": [
-   "केवल (a) और (b)",
-   "केवल (b) और (c)",
-   "केवल (a) और (c)",
-   "केवल (b) और (d)"
+   "कक्षा का समय-सारणी आयोजक",
+   "परीक्षा की तैयारी की योजना",
+   "नई विषय-वस्तु से पहले प्रस्तुत वह परिचयात्मक सामग्री जो पूर्व ज्ञान को नए ज्ञान से जोड़ती है",
+   "पाठ के अंत का सारांश"
+  ],
+  "options_en": [
+   "the class time-table organizer",
+   "a plan for examination preparation",
+   "introductory material presented before new content that links prior knowledge with new knowledge",
+   "the summary at the end of the lesson"
   ],
   "answer": 2,
-  "exp_hi": "अस्पृश्यता का उन्मूलन और बाल विवाह पर प्रतिबंध धर्म में राज्य के हस्तक्षेप के उदाहरण हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q62"
+  "exp_hi": "ऑसुबेल के अनुसार अग्रिम संगठक नई जानकारी से पहले दिया जाता है ताकि विद्यार्थी पूर्व ज्ञान से नया ज्ञान सार्थक रूप से जोड़ सके।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 9
  },
  {
-  "n": 62,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : सामाजिक विज्ञान के अध्ययन-अध्यापन का मुख्य आधार क्षेत्रकार्य, प्रोजेक्ट कार्य और समूह गतिविधियाँ होनी चाहिए। कथन II : सामाजिक विज्ञान के अध्ययन-अध्यापन को रूचिकर बनाने के लिए स्थानीय समुदाय से सीधे जुड़ी परियोजना को प्रेरित करना चाहिए।",
-  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Fieldwork, project work and group activities should form the basis of teaching- learning in Social Sciences. Statement II : Projects having direct link with the local community may be encouraged to develop curiosity in Social Sciences teaching-learning.",
+  "n": 130,
+  "subject": "Child Development",
+  "q_hi": "स्किनर के क्रिया-प्रसूत अनुबंधन (operant conditioning) में व्यवहार को सबसे अधिक प्रभावित करता है —",
+  "q_en": "In Skinner's operant conditioning, behaviour is most influenced by :",
   "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
+   "व्यवहार के परिणाम — पुनर्बलन और दण्ड",
+   "केवल जन्मजात प्रवृत्तियाँ",
+   "दूसरों का अनुकरण",
+   "अंतर्दृष्टि का अचानक आना"
+  ],
+  "options_en": [
+   "the consequences of behaviour — reinforcement and punishment",
+   "only innate tendencies",
+   "imitation of others",
+   "sudden arrival of insight"
   ],
   "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं — क्षेत्रकार्य व परियोजना आधारित शिक्षण और स्थानीय समुदाय से जुड़ी परियोजनाएँ सामाजिक विज्ञान में वांछनीय हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q63"
+  "exp_hi": "स्किनर के अनुसार व्यवहार उसके परिणामों से बनता है — पुनर्बलन व्यवहार को बढ़ाता है और दण्ड उसे घटाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 10
  },
  {
-  "n": 63,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित कथनों को पढ़िये और सही विकल्प चुनिये : कथन (A) : सरकार के लोक निर्माण विभाग द्वारा किए गए कार्य के लिए विधान सभा के सदस्यों की स्वीकृति आवश्यक नहीं है। कथन (B) : लोग विधान सभा के सदस्यों को अपने प्रतिनिधियों के रूप में चुनते हैं। विकल्प :",
-  "q_en": "Read the following statements and choose the correct option : Statement (A) : The work done by the public works department of the government do not need the approval of the members of the legislative assembly. Statement (B) : People elect the members of the legislative assembly as their representatives. Options :",
+  "n": 131,
+  "subject": "Child Development",
+  "q_hi": "पावलव के शास्त्रीय अनुबंधन का प्रसिद्ध उदाहरण है —",
+  "q_en": "The famous example of Pavlov's classical conditioning is :",
   "options": [
-   "(A) सत्य है, (B) असत्य है।",
-   "(A) असत्य है, (B) सत्य है।",
-   "(A) और (B) दोनों सत्य हैं और (B), (A) का कारण है।",
-   "(A) और (B) दोनों सत्य हैं लेकिन (B), (A) का कारण नहीं है।"
+   "लीवर दबाकर खाना पाना",
+   "घण्टी की आवाज़ पर कुत्ते का लार टपकाना",
+   "पहेली-बॉक्स से बाहर निकलने का प्रयास",
+   "मॉडल देखकर व्यवहार दोहराना"
+  ],
+  "options_en": [
+   "pressing a lever to get food",
+   "a dog salivating at the sound of a bell",
+   "trying to escape from a puzzle box",
+   "repeating behaviour after watching a model"
   ],
   "answer": 1,
-  "exp_hi": "कथन (A) असत्य है और कथन (B) सत्य है — लोग ही विधान सभा सदस्यों को अपने प्रतिनिधि चुनते हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q64"
+  "exp_hi": "पावलव के प्रयोग में कुत्ता भोजन (स्वाभाविक उद्दीपक) के साथ घण्टी (तटस्थ उद्दीपक) को जोड़कर केवल घण्टी पर लार टपकाने लगा — यही शास्त्रीय अनुबंधन है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 11
  },
  {
-  "n": 64,
-  "subject": "Social Studies",
-  "q_hi": "सामाजिक विज्ञान के एक शिक्षक/शिक्षिका के रूप में, लैंगिक भेदभाव और जातिगत भेदभाव जैसे मुद्दों पर चर्चा करते समय आप निम्नलिखित में से किसका ध्यान रखेंगे ? (a) कक्षा में बोलने के लिए प्रोत्साहित करना। (b) विद्यार्थियों को दूसरों की बात सुनना सिखाना। (c) कक्षा में संघर्षों की गैर-स्वीकृति। (d) कक्षा में विश्वास का वातावरण विकसित करना।",
-  "q_en": "As a teacher of Social Science, which of the following will you be careful about while discussing issues like gender discrimination and caste discrimination ? (a) Encouraging speaking up in the class. (b) Making students learn to listen to the others. (c) Non-acceptance of conflicts in the classroom. (d) Developing an atmosphere of trust in the classroom.",
+  "n": 132,
+  "subject": "Child Development",
+  "q_hi": "स्पीयरमैन के द्वि-कारक सिद्धान्त में 'g' कारक से अभिप्राय है —",
+  "q_en": "In Spearman's two-factor theory, the 'g' factor refers to :",
   "options": [
-   "(a), (b), (c)",
-   "(b), (c), (d)",
-   "(a), (c), (d)",
-   "(a), (b), (d)"
+   "केवल गणितीय योग्यता",
+   "केवल किसी एक कार्य की विशिष्ट योग्यता",
+   "केवल संगीत संबंधी योग्यता",
+   "सभी मानसिक कार्यों में पाई जाने वाली सामान्य योग्यता"
+  ],
+  "options_en": [
+   "only mathematical ability",
+   "only the specific ability for one task",
+   "only musical ability",
+   "the general ability common to all mental tasks"
   ],
   "answer": 3,
-  "exp_hi": "शिक्षक को बोलने हेतु प्रोत्साहन, सुनना सिखाना और विश्वास का वातावरण बनाना चाहिए; संघर्षों की गैर-स्वीकृति उचित नहीं है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q65"
+  "exp_hi": "स्पीयरमैन के अनुसार प्रत्येक मानसिक कार्य में एक सामान्य कारक (g) और एक विशिष्ट कारक (s) होता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 12
  },
  {
-  "n": 65,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : स्कूल में योगात्मक आँकलन में ज्यादा प्रत्यक्षता होती है। कथन II : योगात्मक आंकलन एक ग्रेड या इकाई या सत्र के अन्त में अधिगम के परिणामों की जाँच करता है।",
-  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : In school, summative assessment has more visibility. Statement II : Summative assessment checks the learning outcomes at the end of a grade or unit or a term.",
+  "n": 133,
+  "subject": "Child Development",
+  "q_hi": "थर्स्टन के प्राथमिक मानसिक योग्यता (PMA) सिद्धान्त के अनुसार बुद्धि —",
+  "q_en": "According to Thurstone's theory of Primary Mental Abilities (PMA), intelligence :",
   "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
+   "एक ही सामान्य कारक से बनी होती है",
+   "केवल तीन पक्षों का समूह है",
+   "कई अपेक्षाकृत स्वतंत्र प्राथमिक योग्यताओं — जैसे शाब्दिक बोध, संख्या, स्थानिक — का समूह है",
+   "केवल वातावरण से निर्मित होती है"
   ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं — योगात्मक आँकलन की दृश्यता अधिक होती है और वह सत्र के अंत में परिणामों की जाँच करता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q66"
- },
- {
-  "n": 66,
-  "subject": "Social Studies",
-  "q_hi": "शहरी प्रशासन पर दिए गए पाठ में निम्नलिखित पाठ्य प्रश्न ‘रिक्त स्थान की पूर्ति कीजिए’ पर विचार कीजिए : किसी नगर निगम में निर्वाचित सदस्यों को __________ कहते हैं। यहाँ पर निम्नलिखित में से कौन सी योग्यताओं/कौशलों का परीक्षण हो रहा है ?",
-  "q_en": "Consider the following in-text question “Fill in the blank” given in the chapter on urban administration : In a Municipal Corporation, the elected members are called __________. Which of the following abilities/skills is being tested here ?",
-  "options": [
-   "सारांश करना",
-   "वर्गीकरण करना",
-   "समझाना/व्याख्या करना",
-   "स्मरण रखना"
-  ],
-  "answer": 3,
-  "exp_hi": "'रिक्त स्थान की पूर्ति' जैसा प्रश्न केवल स्मरण रखने की क्षमता का परीक्षण करता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q67"
- },
- {
-  "n": 67,
-  "subject": "Social Studies",
-  "q_hi": "लड़के खेल खेलते हैं जबकि लड़कियाँ कला एवं कारीगरी अपनाती हैं। यह कथन क्या विचार प्रकट करता है ? Qa) परंपरा (2) अवधारणाएँ/पूर्वाग्रह (3) रूढ़िबद्धताएँ (4) अंतर",
-  "q_en": "‘Boys are into sports whereas girls are into arts and crafts’. What does this statement reflect ?",
-  "options": [
-   "परंपरा",
-   "अवधारणाएँ/पूर्वाग्रह",
-   "रूढ़िबद्धताएँ",
-   "अंतर"
+  "options_en": [
+   "is made of a single general factor",
+   "is a group of only three aspects",
+   "is a group of several relatively independent primary abilities such as verbal comprehension, number and spatial ability",
+   "is formed only by the environment"
   ],
   "answer": 2,
-  "exp_hi": "'लड़के खेल, लड़कियाँ कला' जैसी धारणा लैंगिक रूढ़िबद्धता (स्टीरियोटाइप) को दर्शाती है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q68"
+  "exp_hi": "थर्स्टन ने बुद्धि को एकल कारक न मानकर शाब्दिक बोध, संख्यात्मक, स्थानिक, स्मृति, तर्क आदि प्राथमिक योग्यताओं का समूह माना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 13
  },
  {
-  "n": 68,
-  "subject": "Social Studies",
-  "q_hi": "सामाजिक विज्ञान की कक्षा में एक महत्वपूर्ण तत्व भारत की विविधता को स्वीकार करना है। सामाजिक विज्ञान के एक शिक्षक के रूप में निम्नलिखित में से कौन से लक्षण आपको विकसित करने चाहिए और उन्हें विद्यार्थियों में शुद्ध अंतःकरण से आत्मसात करना चाहिए जिससे कि विविधता का सही मायनों में महत्व हो सके ? (a) एकता के विषय में नारे लगाना (b) अपने से भिन्न संस्कृतियों के विषय में बात करते हुए संवेदनशील और सम्माननीय रहना (c) किसी की अवधारणाओं पर निरन्तर विचार करना जो समाज में किसी की सामाजिक अवस्थिति से उत्पन्न हो सकती हैं। सर्वाधिक उपयुक्त विकल्प चुनिए :",
-  "q_en": "An important element in the Social Science classroom is the acknowledgement of India’s diversity. Which of the following traits should you develop as a Social Science teacher and also consciously inculcate in students so that this diversity is truly appreciated ? (a) Reciting slogans about unity (b) Being sensitive and respectful while talking about cultures which are different from one’s own (c) Constantly reflecting on one’s prejudices which might arise from one’s social location in society Choose the most appropriate option :",
+  "n": 134,
+  "subject": "Child Development",
+  "q_hi": "गिलफोर्ड के बुद्धि-संरचना (SOI) मॉडल के तीन आयाम हैं —",
+  "q_en": "The three dimensions of Guilford's Structure of Intellect (SOI) model are :",
   "options": [
-   "केवल (a)",
-   "केवल (a) और (b)",
-   "केवल (a) और (c)",
-   "केवल (b) और (c)"
+   "संक्रिया (operations), विषय-वस्तु (contents), उत्पाद (products)",
+   "भाषा, तर्क, स्मृति",
+   "विश्लेषण, सृजन, व्यवहार",
+   "शरीर, मन, आत्मा"
   ],
-  "answer": 3,
-  "exp_hi": "विविधता की सराहना हेतु भिन्न संस्कृतियों के प्रति संवेदनशीलता और अपने पूर्वाग्रहों पर निरन्तर चिंतन आवश्यक है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q69"
+  "options_en": [
+   "operations, contents, products",
+   "language, reasoning, memory",
+   "analysis, creation, behaviour",
+   "body, mind, soul"
+  ],
+  "answer": 0,
+  "exp_hi": "गिलफोर्ड के SOI मॉडल में बुद्धि के कारक संक्रिया, विषय-वस्तु और उत्पाद — इन तीन आयामों के संयोग से बनते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 14
  },
  {
-  "n": 69,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित में से कौन से उद्देश्य का भारतीय संविधान निर्वाह नहीं करता है ?",
-  "q_en": "Which of the following purpose Indian Constitution does not serve to ?",
+  "n": 135,
+  "subject": "Child Development",
+  "q_hi": "गार्डनर के सिद्धान्त में दूसरों की भावनाओं व इरादों को समझने की क्षमता और स्वयं को समझने की क्षमता क्रमशः किन बुद्धियों से जुड़ी हैं ?",
+  "q_en": "In Gardner's theory, the ability to understand others' feelings and intentions and the ability to understand oneself are respectively associated with :",
   "options": [
-   "उन आदर्शों का निरूपण जिनका किसी देश को पालन करना है",
-   "अपने आप को स्थैतिक रखना जिससे समाज की संरचनाएँ अपरिवर्तित रह सकें",
-   "विभिन्‍न समुदायों में साथ रहने के लिये सामंजस्य बैठाना",
-   "व्यक्तियों एवं समुदायों के विरुद्ध नागरिकों को अधिकार देना"
+   "स्थानिक और भाषिक बुद्धि",
+   "अंतर्वैयक्तिक (interpersonal) और अंतःवैयक्तिक (intrapersonal) बुद्धि",
+   "संगीतात्मक और शारीरिक-गतिज बुद्धि",
+   "तार्किक-गणितीय और प्राकृतिक बुद्धि"
+  ],
+  "options_en": [
+   "spatial and linguistic intelligence",
+   "interpersonal and intrapersonal intelligence",
+   "musical and bodily-kinesthetic intelligence",
+   "logical-mathematical and naturalistic intelligence"
   ],
   "answer": 1,
-  "exp_hi": "संविधान का उद्देश्य समाज की संरचनाओं को अपरिवर्तित रखना नहीं है — वह स्वयं को स्थैतिक नहीं रखता।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q70"
+  "exp_hi": "दूसरों को समझना अंतर्वैयक्तिक बुद्धि है, जबकि स्वयं की भावनाओं व पहचान को समझना अंतःवैयक्तिक बुद्धि है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 15
  },
  {
-  "n": 70,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : शैक्षिक संरचना में आकलन सतत किया जाता है। कथन II : आकलन एक ऐसी प्रक्रिया है जिसमें अलग-अलग समय पर कई चीजें की जाती हैं।",
-  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Assessment is made continuously in educational settings. Statement II : Assessment is a process that involves doing a number of things at different times.",
+  "n": 136,
+  "subject": "Child Development",
+  "q_hi": "बहु-बुद्धि सिद्धान्त को कक्षा में लागू करने का उपयुक्त तरीका है —",
+  "q_en": "An appropriate way to apply the theory of multiple intelligences in the classroom is to :",
   "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
+   "सभी बच्चों को केवल व्याख्यान से पढ़ाना",
+   "केवल भाषिक बुद्धि वाले बच्चों को आगे बढ़ाना",
+   "बुद्धि परीक्षण से बच्चों को स्थायी समूहों में बाँटना",
+   "गीत, चित्र, समूह-चर्चा, गतिविधि आदि विविध माध्यमों से एक ही अवधारणा को प्रस्तुत करना"
   ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं — आकलन सतत प्रक्रिया है जिसमें अलग-अलग समय पर अनेक कार्य किए जाते हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q71"
- },
- {
-  "n": 71,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। अभिकथन (A) : बाकी विषयों की तरह ही सामाजिक विज्ञान में भी ज्ञान का सृजन करने के लिए बच्चों का सक्रिय जुड़ाव होना चाहिए। तर्क (R) : सक्रिय जुड़ाव का अर्थ शरीर एवं दिमाग का गतिविधियों के साथ जुड़ाव है।",
-  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : Like other subjects, in Social Science also learners need to be actively engaged in order to construct their own knowledge. Reason (R) : Active engagement refers to engagement of body and mind.",
-  "options": [
-   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
-   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
-   "(A) सही है परन्तु (R) गलत है।",
-   "(A) गलत है परन्तु (R) सही है।"
-  ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — सक्रिय जुड़ाव से ही ज्ञान का सृजन होता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q72"
- },
- {
-  "n": 72,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। कथन I : राजनीति शास्त्र परिवर्तन का परिचायक है जिसमें सत्ता की प्रभुतासंपन्न संरचनाएँ और सामाजिक बलों द्वारा उनके विरोध की प्रक्रियाएँ शामिल हैं। कथन II : राजनीति शास्त्र एक ऐसे सभ्य समाज की कल्पना करता है जो अधिक संवेदनशील, अवगत और उत्तरदायी नागरिकों का निर्माण कर सके।",
-  "q_en": "Below are two statements. Read them carefully and choose the correct answer with the help of given options : Statement I : Political Science suggests dynamism that engages with processes that produces structures of domination and their contestations by social forces. Statement II : Political Science imagines civil society as the sphere where more informed, receptive and responsible citizens could be produced.",
-  "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
-  ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं — राजनीति शास्त्र प्रभुत्व की संरचनाओं, उनके विरोध और जागरूक नागरिक निर्माण से जुड़ा है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q73"
- },
- {
-  "n": 73,
-  "subject": "Social Studies",
-  "q_hi": "आप अपनी कक्षा में मथुरा (मथुरा शैली ) और तक्षशिला (गांधार शैली) में बनी बुद्ध की प्रतिमाओं में अंतर के बारे में बच्चों को अवगत करवाना चाहते हैं, इसके लिए सबसे उपयुक्त विधि होगी :",
-  "q_en": "If you want to introduce your students about the difference between the Buddha statues made in Mathura (Mathura style) and Takshashila (Gandhara style), the most appropriate method would be :",
-  "options": [
-   "पाठ्यपुस्तक में दी गई तस्वीर पर आधारित चर्चा",
-   "राष्ट्रीय संग्रहालय की यात्रा करवाना",
-   "उपर्युक्त शैलियों पर आधारित पॉवर पॉइंट प्रेजेंटेशन की प्रस्तुति",
-   "एक वास्तुकार के साथ साक्षात्कार"
-  ],
-  "answer": 0,
-  "exp_hi": "दो शैलियों की मूर्तियों का अंतर पाठ्यपुस्तक में दिए गए चित्र पर चर्चा करके सबसे उपयुक्त ढंग से समझाया जा सकता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q74"
- },
- {
-  "n": 74,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित में से कौन से प्रबंध सामाजिक न्याय को प्रोन्नत नहीं करते ?",
-  "q_en": "Which of the following provisions does not promote social justice ?",
-  "options": [
-   "सरकारी विद्यालयों में लड़कियों के लिए विशेष योजनाएँ",
-   "विशेष पुलिस थाने",
-   "समान कार्य के लिए समान वेतन",
-   "मानव तस्करी पर प्रतिबंध"
-  ],
-  "answer": 1,
-  "exp_hi": "विशेष पुलिस थाने सामाजिक न्याय को प्रोन्नत करने वाला प्रबंध नहीं हैं; शेष तीनों विकल्प न्याय को बढ़ावा देते हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q75"
- },
- {
-  "n": 75,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : अभिकथन (A) : भारत में, सामाजिक विज्ञान को लड़कों की अपेक्षा लड़कियों के पढ़ने से ज्यादा जोड़ा जाता है। तर्क (R) : सामाजिक विज्ञान को लेकर इस प्रकार का दृष्टिकोण एक तरह से पितृसत्तात्मक और लैंगिक भेदभाव रखने वाले समाज का द्योतक है।",
-  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : In India, studying Social Science is associated more with girls than boys. Reason (R) : This type of approach to Social Sciences is indicative of a ‘patriarchal and gender biased’ society.",
-  "options": [
-   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
-   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
-   "(A) सही है परन्तु (R) गलत है।",
-   "(A) गलत है परन्तु (R) सही है।"
-  ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — सामाजिक विज्ञान को लड़कियों से जोड़ना ही पितृसत्तात्मक सोच का द्योतक है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q76"
- },
- {
-  "n": 76,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें। अभिकथन (A) : परीक्षण (टेस्ट) आंकलन का एक रूप है। तर्क (R) : यह प्रश्न का उत्तर देता है, या तो दूसरों की तुलना में या प्रदर्शन कार्यों के एक ज्ञानक्षेत्र की तुलना में।",
-  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : A test is a form of assessment. Reason (R) : It answers the question, either in comparison with others or in comparison with a domain of performance task.",
-  "options": [
-   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
-   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
-   "(A) सही है परन्तु (R) गलत है।",
-   "(A) गलत है परन्तु (R) सही है।"
-  ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं और (R), (A) की सही व्याख्या करता है — परीक्षण आंकलन का वह रूप है जो प्रदर्शन की तुलना करता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q77"
- },
- {
-  "n": 77,
-  "subject": "Social Studies",
-  "q_hi": "सरकार की आरोग्य अनुरक्षण प्रदान करने के उत्तरदायित्व के विषय में अपनी कक्षा में शिक्षण करते हुए, आपने विद्यार्थियों के दो समूहों में इस विषय पर चर्चा/वाद विवाद करवाने का निर्णय लिया कि देश में आरोग्य अनुरक्षण तंत्र भली भाँति कार्य कर रहा है या नहीं ? कक्षा में वाद विवाद आयोजित करने का निम्नलिखित में से क्या एक वांछनीय लक्ष्य नहीं है ?",
-  "q_en": "While teaching your class about the government’s responsibility of providing healthcare, you decide to conduct a debate between two groups of students on whether the healthcare system in the country is functioning properly or not. Which of the following is not a desirable goal of organizing a classroom debate ?",
-  "options": [
-   "कक्षा में विद्यार्थी की आविष्टता और सहभागिता को बढ़ावा देना।",
-   "अपने दावों के लिए समर्थित प्रमाणों के उपयोग में विद्यार्थियों को प्रशिक्षित करना।",
-   "किसी विषय को विभिन्न परिप्रेक्ष्यों में देखने की विद्यार्थियों की योग्यताओं को बेहतर करना।",
-   "विद्यार्थियों को प्रतियोगी बनने और किसी भी मूल्य पर जीतने का प्रशिक्षण देना।"
+  "options_en": [
+   "teach all children only through lectures",
+   "promote only children with linguistic intelligence",
+   "divide children into permanent groups through intelligence tests",
+   "present the same concept through varied media such as songs, pictures, group discussion and activities"
   ],
   "answer": 3,
-  "exp_hi": "विद्यार्थियों को प्रतियोगी बनाकर किसी भी मूल्य पर जीतना सिखाना वाद-विवाद का वांछनीय लक्ष्य नहीं है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q78"
+  "exp_hi": "बहु-बुद्धि उपागम में एक ही विषय-वस्तु को विविध माध्यमों से प्रस्तुत किया जाता है ताकि भिन्न-भिन्न बुद्धियों वाले बच्चे उससे जुड़ सकें।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 16
  },
  {
-  "n": 78,
-  "subject": "Social Studies",
-  "q_hi": "वैश्विक प्रतिस्पर्धा की चुनौतियों का सामना करने के लिए सामाजिक विज्ञान शिक्षा के राष्ट्रीय मानकों में सुधार के लिए निम्नलिखित में से किस पद्धति का उपयोग किया जा सकता है ? (a) अधिगम परिणामों का निर्धारण करना। (b) नवाचारी और बेहतर मूल्यांकन उपकरणों का विकास करना। (c) केंद्रीकृत, मानकीकृत और एकल पाठ्यक्रम का निर्माण करना। (d) श्रव्य-दृश्य और मल्टीमिडिया आधारित संवादात्मक अध्ययन सामग्री का निर्माण करना।",
-  "q_en": "Which of the following methods may be used for improving the national standards of Social Science education to meet the challenges of global competition ? (a) Identifying learning outcomes. (b) Developing innovative and improved evaluation tools. (c) Designing centralized, standardized and singular courses. (d) Developing audio-visual and multimedia based interactive study material.",
+  "n": 137,
+  "subject": "Child Development",
+  "q_hi": "टॉरेंस के अनुसार सृजनात्मकता के प्रमुख तत्वों में शामिल हैं —",
+  "q_en": "According to Torrance, the main elements of creativity include :",
   "options": [
-   "(a), (b), (c)",
-   "(b), (c), (d)",
-   "(a), (c), (d)",
-   "(a), (b), (d)"
+   "गति, स्मृति, ध्यान, अनुकरण",
+   "केवल मौलिकता",
+   "प्रवाह (fluency), लचीलापन (flexibility), मौलिकता (originality), विस्तारण (elaboration)",
+   "केवल बुद्धि-लब्धि (IQ)"
   ],
-  "answer": 3,
-  "exp_hi": "अधिगम परिणामों का निर्धारण, बेहतर मूल्यांकन उपकरण और मल्टीमिडिया सामग्री मानक सुधारेंगे; केंद्रीकृत एकल पाठ्यक्रम नहीं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q79"
- },
- {
-  "n": 79,
-  "subject": "Social Studies",
-  "q_hi": "परीक्षण के संदर्भ में निम्न में से क्या सही है/हैं ? (a) यह किसी विशेष विषय से संबंधित कौशल पर किया जाता है। (b) यह आमतौर पर प्रश्नों के समूह को एकसार रूप से प्रस्तुत करके किया जाता है। (c) यह किसी विशेष सामग्री या विषय के बारे में छात्रों की समझ को मापने के लिए एक अव्यवस्थित प्रक्रिया है।",
-  "q_en": "Which of the following is/are correct in the context of testing ? (a) It is carried out on skills related to a particular subject. (b) It is usually done by posing a set of questions in a uniform manner. (c) It is an unsystematic procedure for measuring the students’ understanding of a particular content or subject.",
-  "options": [
-   "केवल (a)",
-   "केवल (c)",
-   "केवल (a) और (b)",
-   "केवल (b) और (c)"
+  "options_en": [
+   "speed, memory, attention, imitation",
+   "only originality",
+   "fluency, flexibility, originality, elaboration",
+   "only intelligence quotient (IQ)"
   ],
   "answer": 2,
-  "exp_hi": "परीक्षण के बारे में (a) और (b) सही हैं; यह एक व्यवस्थित प्रक्रिया है, अव्यवस्थित नहीं — अतः (c) गलत है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q80"
+  "exp_hi": "टॉरेंस ने सृजनात्मक चिन्तन के चार तत्व बताए — प्रवाह, लचीलापन, मौलिकता और विस्तारण।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 17
  },
  {
-  "n": 80,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : सामाजिक (अध्ययन) विज्ञान आधुनिक भारत के आधिकारिक पाठ्यक्रम का हिस्सा गाँधीजी के बुनियादी शिक्षा कार्यक्रम के साथ ही बना। कथन II : माध्यमिक शिक्षा आयोग ने सामाजिक (अध्ययन) विज्ञान विषय को अखिल भारतीय स्तर पर आधिकारिक मान्यता प्रदान की।",
-  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : Social (Studies) Science became part of the official curriculum in modern India only with the Basic Education programme of Gandhiji. Statement II : The Secondary Education Commission provided the official recognition to the subject Social (Studies) Science at an all India level.",
+  "n": 138,
+  "subject": "Child Development",
+  "q_hi": "वैयक्तिक भिन्नता (individual differences) से अभिप्राय है —",
+  "q_en": "Individual differences refer to :",
   "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
+   "प्रत्येक व्यक्ति की योग्यताओं, रुचियों और सीखने की गति में अंतर होना",
+   "केवल शारीरिक बनावट में अंतर होना",
+   "केवल अंकों में अंतर होना",
+   "कक्षा में अनुपस्थिति का अंतर"
+  ],
+  "options_en": [
+   "differences in every individual's abilities, interests and pace of learning",
+   "differences only in physical build",
+   "differences only in marks",
+   "differences in attendance in class"
   ],
   "answer": 0,
-  "exp_hi": "दोनों कथन गलत हैं — सामाजिक विज्ञान का पाठ्यक्रम में स्थान और मान्यता का इतिहास इन कथनों से भिन्न है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q81"
+  "exp_hi": "वैयक्तिक भिन्नता का अर्थ है कि कोई दो व्यक्ति योग्यता, रुचि, अभिवृत्ति और सीखने की गति में एक-समान नहीं होते।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 18
  },
  {
-  "n": 81,
-  "subject": "Social Studies",
-  "q_hi": "लोकतंत्र या समता को पढ़ाया जाना चाहिए :",
-  "q_en": "Democracy or equity should be taught :",
+  "n": 139,
+  "subject": "Child Development",
+  "q_hi": "वैयक्तिक भिन्नताओं को ध्यान में रखते हुए शिक्षक को क्या करना चाहिए ?",
+  "q_en": "Keeping individual differences in view, a teacher should :",
   "options": [
-   "सिर्फ इन्हें ज्ञान के क्षेत्रों के रूप में पढ़कर।",
-   "सिर्फ इन्हें कक्षागत प्रक्रिया के रूप में शामिल करके।",
-   "इन्हें ज्ञान के क्षेत्रों के रूप में शामिल करके, न कि इन्हें कक्षा प्रक्रिया का हिस्सा बनाकर।",
-   "इन्हें ज्ञान के क्षेत्रों के साथ-साथ कक्षा प्रक्रिया के रूप में शामिल करके।"
+   "सभी बच्चों के लिए एक ही गति और एक ही विधि रखना",
+   "बच्चों की भिन्न आवश्यकताओं के अनुसार विविध विधियों और लचीली गति का उपयोग करना",
+   "धीमे बच्चों को कक्षा से अलग कर देना",
+   "केवल तेज़ बच्चों पर ध्यान देना"
   ],
-  "answer": 3,
-  "exp_hi": "लोकतंत्र या समता को ज्ञान के क्षेत्रों के रूप में पढ़ाने के साथ-साथ कक्षा प्रक्रिया का हिस्सा बनाकर भी पढ़ाया जाना चाहिए।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q82"
- },
- {
-  "n": 82,
-  "subject": "Social Studies",
-  "q_hi": "बाज़ारों पर निम्नलिखित में से कौन से कथन सत्य हैं ? (a) साप्ताहिक बाज़ारों में, वस्तुएँ सस्ते दामों पर उपलब्ध होती हैं क्योंकि दुकानदार इन्हें सीधे उत्पादकों से खरीदते हैं। (b) फोन तथा इंटरनेट से की गई खरीदारी ने स्थानीय/पास-पड़ोस दुकानों को नुकसान पहुँचाया है। (c) स्थायी दुकानों में बेची जाने वाली वस्तुएँ प्रायः महंगी होती हैं क्योंकि दुकानदारों को किराये, बिजली, सरकार की फीस इत्यादि का खर्चा उठाना पड़ता है। विकल्प :",
-  "q_en": "Which of the following statements on markets are true ? (a) In weekly markets, things are available in cheaper rates because the shop owners purchase directly from the producers. (b) Phone and internet shopping have caused losses to the neighbourhood shops. (c) The goods sold in permanent shops are often costly because the shop owners have to bear the expenditure of rent, electricity, government fees etc. Options :",
-  "options": [
-   "केवल (a) और (b)",
-   "केवल (b) और (c)",
-   "केवल (a) और (c)",
-   "(a), (b) और (c)"
-  ],
-  "answer": 3,
-  "exp_hi": "बाज़ारों पर तीनों कथन सत्य हैं — साप्ताहिक बाज़ार सस्ते होते हैं, ऑनलाइन खरीदारी से पड़ोस की दुकानों को नुकसान हुआ और स्थायी दुकानें खर्चों के कारण महंगी होती हैं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q83"
- },
- {
-  "n": 83,
-  "subject": "Social Studies",
-  "q_hi": "निम्नलिखित में से कौन सी कार्रवाई किसी समुदाय के हाशिएकरण को संबोधित करने में सहायक नहीं होगी ?",
-  "q_en": "Which of the following actions would not be helpful in addressing the marginalisation of certain community ?",
-  "options": [
-   "सामाजिक आंदोलन",
-   "सरकारी नीति",
-   "मुख्य धारा में समाहितीकरण",
-   "सांस्कृतिक विविधता का रक्षण"
-  ],
-  "answer": 2,
-  "exp_hi": "मुख्य धारा में समाहितीकरण हाशिएकरण को दूर करने में सहायक नहीं होता।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q84"
- },
- {
-  "n": 84,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, जिसमें एक अभिकथन (A) और दूसरा तर्क (R) है। इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : अभिकथन (A) : पारम्परिक सामाजिक विज्ञान शिक्षण, बच्चे के वास्तविक जीवन के अनुभवों का कोई संदर्भ दिए बगैर, समाजों और कालों के बारे में सीखने पर जोर देता है। तर्क (R) : ‘सामाजिक विज्ञान के तथ्यों’ को सामाजिक जाँच-पड़ताल की प्रक्रियाओं में बदलना पाठ्यपुस्तकों (NCF - 2005 पर आधारित) का एक प्रमुख मजबूत पहलू रहा है।",
-  "q_en": "Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options. Assertion (A) : Conventional Social Science teaching emphasizes learning about societies and times without reference to the child’s actual lived experiences. Reason (R) : Converting sets of ‘Social Science facts’ into processes of social inquiry has been a major strength of the texts (based on NCF - 2005).",
-  "options": [
-   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
-   "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं करता है।",
-   "(A) सही है परन्तु (R) गलत है।",
-   "(A) गलत है परन्तु (R) सही है।"
-  ],
-  "answer": 0,
-  "exp_hi": "दोनों कथन सही हैं परंतु (R), (A) की सही व्याख्या नहीं करता।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q85"
- },
- {
-  "n": 85,
-  "subject": "Social Studies",
-  "q_hi": "भारत में प्रतिनिधिक लोकतंत्र के संदर्भ में निम्नलिखित में से क्या सत्य है ?",
-  "q_en": "Which of the following is true in context of representative democracy in India ?",
-  "options": [
-   "लोगों द्वारा मताधिकार का प्रयोग",
-   "लोगों की सीधी/प्रत्यक्ष सहभागिता",
-   "प्रतिनिधियों की अप्रत्यक्ष सहभागिता",
-   "दोहरी नागरिकता"
-  ],
-  "answer": 0,
-  "exp_hi": "प्रतिनिधिक लोकतंत्र में लोग मताधिकार का प्रयोग करके अपने प्रतिनिधि चुनते हैं — यही सत्य है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q86"
- },
- {
-  "n": 86,
-  "subject": "Social Studies",
-  "q_hi": "निम्न में से क्या सामाजिक विज्ञान की कक्षा में एक बेहतर पठन-पाठन परिवेश के निर्माण में सहायक होगी ? (a) संदर्भ पुस्तकालयों का निर्माण (b) लचीले स्कूल समय का निर्माण (c) केवल प्रसार तकनीक तक पहुँच (d) क्षेत्रीय भाषाओं में पठन सामग्री का निर्माण",
-  "q_en": "Which of the following will help in developing better teaching learning environment in Social Science classrooms ? (a) Development of reference libraries. (b) Creation of flexible school timings. (c) Accessibility to disseminative technologies only. (d) Development of study material in regional languages.",
-  "options": [
-   "(a), (b), (c)",
-   "(b), (c), (d)",
-   "(a), (c), (d)",
-   "(a), (b), (d)"
-  ],
-  "answer": 3,
-  "exp_hi": "संदर्भ पुस्तकालय, लचीला स्कूल समय और क्षेत्रीय भाषाओं की अध्ययन सामग्री बेहतर परिवेश बनाएँगे; केवल प्रसार तकनीक तक पहुँच पर्याप्त नहीं।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q87"
- },
- {
-  "n": 87,
-  "subject": "Social Studies",
-  "q_hi": "नीचे दो कथन दिए गए हैं, इन्हें ध्यानपूर्वक पढ़ें और दिए हुए विकल्पों की सहायता से सही उत्तर का चयन करें : कथन I : ऐसी कक्षा में समता एवं लोकतंत्र को बढ़ावा देने में आसानी होगी जिसमें अध्यापिका बच्चों को प्रश्न नहीं पूछने देती। कथन II : ऐसी कक्षा में समता एवं लोकतंत्र को बढ़ावा देने में समस्या होगी जिसमें विभिन्न विचारों को चर्चा एवं वाद-विवाद के लिए प्रोत्साहित किया जाता हो।",
-  "q_en": "Below are two statements, read them carefully and choose the correct answer with the help of given options : Statement I : It would be easy to promote equity and democracy through a classroom where teachers do not allow children to ask question. Statement II : It would be difficult to promote equity and democracy through a classroom where varying opinions are encouraged to be voiced and debated.",
-  "options": [
-   "कथन I और कथन II दोनों सही हैं।",
-   "कथन I और कथन II दोनों गलत हैं।",
-   "कथन I सही है परन्तु कथन II गलत है।",
-   "कथन I गलत है परन्तु कथन II सही है।"
+  "options_en": [
+   "keep the same pace and same method for all children",
+   "use varied methods and flexible pacing according to children's differing needs",
+   "separate slow children from the class",
+   "pay attention only to fast learners"
   ],
   "answer": 1,
-  "exp_hi": "दोनों कथन गलत हैं — प्रश्न पूछने देने और विभिन्न विचारों पर बहस से ही समता व लोकतंत्र को बढ़ावा मिलता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q88"
+  "exp_hi": "वैयक्तिक भिन्नताओं के कारण शिक्षक को विविध शिक्षण-विधियाँ, लचीली गति और विभेदित कार्य अपनाने चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 19
  },
  {
-  "n": 88,
-  "subject": "Social Studies",
-  "q_hi": "सामाजिक विज्ञान की पाठ्यपुस्तकों में समुदाय में “लोगों के अनेकत्व' से जुड़े अनुभवों को साझा करना जरूरी है क्योंकि :",
-  "q_en": "It is important to share examples of ‘plurality of people’ in a community in the Social Science textbooks because :",
+  "n": 140,
+  "subject": "Child Development",
+  "q_hi": "पठन वैकल्य (डिस्लेक्सिया) वाले बच्चे के लिए सबसे उपयुक्त सहायता है —",
+  "q_en": "The most appropriate support for a child with dyslexia is to :",
   "options": [
-   "यह समुदाय के अतिसरलीकरण को सुनिश्चित करता है।",
-   "यह समुदाय के ठप्पाकरण को सुनिश्चित करता है।",
-   "यह समुदाय के संबंध में निर्णय लेने या धारणा सुनिश्चित करने में मदद करता है।",
-   "यह स्थानीय समुदाय के चित्र निर्माण में मदद करता है।"
+   "अधिक से अधिक लिखित नक़ल का अभ्यास कराना",
+   "पूरी कक्षा के सामने ज़ोर से पढ़वाना",
+   "केवल दण्ड देकर सुधारना",
+   "बहु-संवेदी विधि, ध्वनि-आधारित अभ्यास और अतिरिक्त समय देना"
+  ],
+  "options_en": [
+   "make the child practise copying written work again and again",
+   "make the child read aloud in front of the whole class",
+   "improve the child only through punishment",
+   "use multisensory methods, phonics-based practice and give extra time"
   ],
   "answer": 3,
-  "exp_hi": "लोगों के अनेकत्व के उदाहरण साझा करने से स्थानीय समुदाय के चित्र निर्माण में मदद मिलती है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q89"
+  "exp_hi": "डिस्लेक्सिया में बहु-संवेदी (देखना-सुनना-छूना) विधि, ध्वन्यात्मक अभ्यास और मूल्यांकन में अतिरिक्त समय उपयोगी सहायता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 20
  },
  {
-  "n": 89,
-  "subject": "Social Studies",
-  "q_hi": "भारतीय संविधान की निम्नलिखित में से कौन सी विशिष्टता विधानमण्डल और कार्यपालिका को न्यायपालिका के कार्य में हस्तक्षेप करने की अनुमति नहीं देती ?",
-  "q_en": "Which of the following feature of the Indian Constitution does not allow the legislature and the executive to interfere in the work of the judiciary ?",
+  "n": 141,
+  "subject": "Child Development",
+  "q_hi": "लेखन वैकल्य (डिस्ग्राफिया) की पहचान किससे होती है ?",
+  "q_en": "Dysgraphia is identified by :",
   "options": [
-   "स्वतंत्रता का अधिकार",
-   "शोषण के विरूद्ध अधिकार",
-   "संघवाद",
-   "शक्तियों का पृथक्करण"
+   "संख्याओं की गणना में कठिनाई",
+   "रंगों की पहचान न कर पाना",
+   "अस्पष्ट हस्तलेखन, वर्तनी की बार-बार गलतियाँ और लिखित अभिव्यक्ति में कठिनाई",
+   "सामाजिक संपर्क से बचना"
   ],
-  "answer": 3,
-  "exp_hi": "शक्तियों का पृथक्करण ही विधानमण्डल और कार्यपालिका को न्यायपालिका के कार्य में हस्तक्षेप से रोकता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q90"
- },
- {
-  "n": 90,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: 'लिख' में कौन-सा प्रत्यय लगाकर सार्थक शब्द बनाया जा सकता है ?",
-  "q_en": "Which suffix can be added to 'लिख' to form a meaningful word?",
-  "options": [
-   "आवट",
-   "आरी",
-   "आनी",
-   "आहट"
-  ],
-  "answer": 0,
-  "exp_hi": "'लिख' में 'आवट' प्रत्यय लगने से 'लिखावट' सार्थक शब्द बनता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q91"
- },
- {
-  "n": 91,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: गद्यांश के अनुसार किताब का सबसे पहला स्वरूप कौन-सा है ?",
-  "q_en": "According to the passage, which is the earliest form of a book?",
-  "options": [
-   "मशीन से छपी किताब।",
-   "ताल के पत्तों पर लिखी किताब।",
-   "पपाइरस पर मशीन से छपी किताब।",
-   "पपाइरस पर हाथ से लिखी किताब।"
-  ],
-  "answer": 3,
-  "exp_hi": "गद्यांश के अनुसार किताब की शुरुआत ताल के पत्तों पर लिखकर, उन्हें धागों से बाँधने के साथ हुई।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q92"
- },
- {
-  "n": 92,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: किन लोगों को ताल पत्तों पर चित्रकारी करने का काम दिया जाता था ?",
-  "q_en": "Which people were given the work of painting on palm leaves?",
-  "options": [
-   "जिन्हें छपाई का काम आता था।",
-   "जिन्हें ताल पत्तों की पहचान थी।",
-   "जिनकी चित्रकारी बहुत सुंदर थी।",
-   "जिनकी लिखावट बहुत सुंदर थी।"
+  "options_en": [
+   "difficulty in calculating numbers",
+   "inability to identify colours",
+   "illegible handwriting, frequent spelling errors and difficulty in written expression",
+   "avoiding social interaction"
   ],
   "answer": 2,
-  "exp_hi": "गद्यांश के अनुसार सुंदर चित्रकारी करने वालों को ही ताल पत्तों पर चित्र बनाने का काम दिया जाता था।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q93"
+  "exp_hi": "डिस्ग्राफिया में बच्चा सामान्य बुद्धि के बावजूद स्पष्ट लेखन, सही वर्तनी और लिखित अभिव्यक्ति में कठिनाई अनुभव करता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 21
  },
  {
-  "n": 93,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: पपाइरस नाम का पौधा किस काम आता था ?",
-  "q_en": "What was the papyrus plant used for?",
+  "n": 142,
+  "subject": "Child Development",
+  "q_hi": "डिस्प्रैक्सिया (विकासात्मक समन्वय विकार) से ग्रस्त बच्चे को मुख्य कठिनाई होती है —",
+  "q_en": "A child with dyspraxia (developmental coordination disorder) mainly faces difficulty in :",
   "options": [
-   "छपाई की मशीन बनाने के लिए।",
-   "पतला कागज बनाने के लिए।",
-   "स्याही बनाने के लिए।",
-   "वस्त्र बनाने के लिए।"
+   "शारीरिक गतियों के समन्वय में — जैसे गेंद पकड़ना, बटन लगाना, संतुलन बनाना",
+   "शब्दों के अर्थ समझने में",
+   "रंग पहचानने में",
+   "गणितीय सूत्र याद करने में"
+  ],
+  "options_en": [
+   "coordinating physical movements — such as catching a ball, buttoning, maintaining balance",
+   "understanding meanings of words",
+   "identifying colours",
+   "memorising mathematical formulae"
+  ],
+  "answer": 0,
+  "exp_hi": "डिस्प्रैक्सिया में योजना-आधारित गति-समन्वय की क्षमता प्रभावित होती है, जिससे रोज़ के शारीरिक कार्य कठिन हो जाते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 22
+ },
+ {
+  "n": 143,
+  "subject": "Child Development",
+  "q_hi": "स्वलीनता (ऑटिज़्म) स्पेक्ट्रम विकार की प्रमुख विशेषता है —",
+  "q_en": "A key characteristic of Autism Spectrum Disorder is :",
+  "options": [
+   "केवल श्रवण दोष होना",
+   "सामाजिक अंतःक्रिया व संप्रेषण में कठिनाई और सीमित, दोहरावयुक्त व्यवहार",
+   "केवल गणित में कमज़ोरी",
+   "अत्यधिक नींद आना"
+  ],
+  "options_en": [
+   "only a hearing defect",
+   "difficulty in social interaction and communication along with restricted, repetitive behaviour",
+   "weakness only in mathematics",
+   "excessive sleepiness"
   ],
   "answer": 1,
-  "exp_hi": "मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता था।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q94"
+  "exp_hi": "ऑटिज़्म में बच्चा सामाजिक संप्रेषण में कठिनाई महसूस करता है और उसकी रुचियाँ व व्यवहार सीमित तथा दोहरावयुक्त होते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 23
  },
  {
-  "n": 94,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: भिन्न वाक्य की पहचान करें।",
-  "q_en": "Identify the odd sentence.",
+  "n": 144,
+  "subject": "Child Development",
+  "q_hi": "मंदगति अधिगमकर्ता (slow learners) के संबंध में सही कथन है —",
+  "q_en": "The correct statement about slow learners is that they :",
   "options": [
-   "किताब की कोई कल्पना नहीं होती।",
-   "किताब की शुरुआत हुई ताल के पत्तों पर लिखकर उन्हें बाँधने से।",
-   "समस्त संसार किताबें पढ़ता है।",
-   "किताबें मशीन से छपने लगीं।"
+   "बिल्कुल नहीं सीख सकते",
+   "उन्हें विद्यालय में प्रवेश नहीं देना चाहिए",
+   "उनकी बुद्धि शून्य होती है",
+   "वे धीमी गति से सीखते हैं, किंतु मूर्त उदाहरणों, दोहराव और छोटे चरणों से सफलतापूर्वक सीख सकते हैं"
+  ],
+  "options_en": [
+   "cannot learn at all",
+   "should not be admitted to school",
+   "have zero intelligence",
+   "learn at a slower pace, but can learn successfully with concrete examples, repetition and small steps"
+  ],
+  "answer": 3,
+  "exp_hi": "मंदगति अधिगमकर्ता सामान्य कक्षा में ही सीख सकते हैं — बस उन्हें अधिक समय, मूर्त सामग्री, दोहराव और छोटे-छोटे चरण चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 24
+ },
+ {
+  "n": 145,
+  "subject": "Child Development",
+  "q_hi": "समावेशी शिक्षा, समेकित (integrated) शिक्षा से इस प्रकार भिन्न है कि —",
+  "q_en": "Inclusive education differs from integrated education in that :",
+  "options": [
+   "समावेशन में बच्चे को अलग विद्यालय भेजा जाता है",
+   "समेकन में विद्यालय व्यवस्था स्वयं बदलती है",
+   "समावेशन में विद्यालय और व्यवस्था बच्चे की आवश्यकताओं के अनुसार स्वयं को ढालती है",
+   "दोनों में कोई अंतर नहीं है"
+  ],
+  "options_en": [
+   "in inclusion the child is sent to a separate school",
+   "in integration the school system itself changes",
+   "in inclusion the school and the system adapt themselves to the child's needs",
+   "there is no difference between the two"
   ],
   "answer": 2,
-  "exp_hi": "'समस्त संसार किताबें पढ़ता है' वाक्य गद्यांश की बातों से भिन्न है, अतः यही भिन्न वाक्य है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q95"
+  "exp_hi": "समेकन में बच्चे को मुख्यधारा में 'फिट' होना पड़ता है, जबकि समावेशन में व्यवस्था स्वयं हर बच्चे के स्वागत हेतु बदलती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 25
  },
  {
-  "n": 95,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: पतले कागजों पर किस लिपि में लिखा जाता था ?",
-  "q_en": "In which script was writing done on the thin papers?",
+  "n": 146,
+  "subject": "Child Development",
+  "q_hi": "शिक्षा का अधिकार (RTE) अधिनियम 2009 के अनुसार निजी गैर-अनुदानित विद्यालयों में कमज़ोर वर्ग व वंचित समूह के बच्चों के लिए कितनी सीटें आरक्षित हैं ?",
+  "q_en": "According to the Right to Education (RTE) Act 2009, how many seats are reserved in private unaided schools for children of weaker sections and disadvantaged groups ?",
   "options": [
-   "हाइरोग्लाइफ",
-   "देवनागरी",
-   "रोमन",
-   "ब्राह्मी"
+   "25 प्रतिशत",
+   "10 प्रतिशत",
+   "50 प्रतिशत",
+   "5 प्रतिशत"
+  ],
+  "options_en": [
+   "25 percent",
+   "10 percent",
+   "50 percent",
+   "5 percent"
   ],
   "answer": 0,
-  "exp_hi": "गद्यांश के अनुसार पतले कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q96"
+  "exp_hi": "RTE की धारा 12(1)(c) के तहत निजी विद्यालयों की प्रारम्भिक कक्षा में 25% सीटें कमज़ोर व वंचित वर्ग के बच्चों के लिए आरक्षित हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 26
  },
  {
-  "n": 96,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: सामान्यतः मनुष्य का किताब से परिचय किस अवस्था में होने लगता है ?",
-  "q_en": "Generally, at what stage does a person begin to get acquainted with books?",
+  "n": 147,
+  "subject": "Child Development",
+  "q_hi": "मूल RTE अधिनियम 2009 के अनुसार प्रारम्भिक शिक्षा (कक्षा 8 तक) के संबंध में सही प्रावधान है —",
+  "q_en": "According to the original RTE Act 2009, the correct provision regarding elementary education (up to Class 8) is that :",
   "options": [
-   "विद्यालयी शिक्षा प्रारंभ होने पर।",
-   "जीवन के शुरुआती एक-दो वर्ष के बाद।",
-   "किशोरावस्था तक आते-आते।",
-   "लगभग तीन वर्ष की अवस्था में।"
+   "हर वर्ष बच्चों को असफल किया जा सकता है",
+   "किसी बच्चे को किसी कक्षा में रोका (detain) नहीं जाएगा और शारीरिक दण्ड वर्जित होगा",
+   "प्रवेश के लिए प्रवेश-परीक्षा अनिवार्य होगी",
+   "8 वर्ष की आयु से पहले प्रवेश वर्जित होगा"
+  ],
+  "options_en": [
+   "children can be failed every year",
+   "no child shall be detained in any class and physical punishment shall be prohibited",
+   "an entrance test shall be compulsory for admission",
+   "admission before the age of 8 shall be prohibited"
   ],
   "answer": 1,
-  "exp_hi": "गद्यांश के अनुसार शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती, उसके बाद परिचय होने लगता है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q97"
+  "exp_hi": "RTE 2009 के अनुसार कोई बच्चा प्रारम्भिक शिक्षा पूर्ण होने तक किसी कक्षा में नहीं रोका जाएगा और शारीरिक दण्ड तथा मानसिक उत्पीड़न वर्जित है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 27
  },
  {
-  "n": 97,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: कौन-सा शब्द समूह से भिन्न है ?",
-  "q_en": "Which word pair is different from the group?",
+  "n": 148,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 ने विद्यालयी शिक्षा के लिए कौन-सी नई संरचना प्रस्तावित की ?",
+  "q_en": "Which new structure did the National Education Policy (NEP) 2020 propose for school education ?",
   "options": [
-   "पतले - पतले",
-   "धीरे - धीरे",
-   "ऊँचे - ऊँचे",
-   "ऊँचे - नीचे"
+   "10+2 संरचना ही यथावत",
+   "8+4 संरचना",
+   "केवल 12 वर्ष की एकसमान संरचना",
+   "5+3+3+4 संरचना"
+  ],
+  "options_en": [
+   "the same 10+2 structure",
+   "the 8+4 structure",
+   "a uniform structure of only 12 years",
+   "the 5+3+3+4 structure"
   ],
   "answer": 3,
-  "exp_hi": "'ऊँचे-नीचे' में दो भिन्न शब्द हैं, जबकि अन्य समूहों में एक ही शब्द की पुनरावृत्ति है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q98"
+  "exp_hi": "NEP 2020 ने 10+2 के स्थान पर आयु 3-8, 8-11, 11-14 और 14-18 के अनुरूप 5+3+3+4 पाठ्यचर्या संरचना अपनाई।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 28
  },
  {
-  "n": 98,
-  "subject": "Hindi",
-  "q_hi": "गद्यांश: मनुष्य के जीवन के शुरुआती एक-दो वर्ष तक किताब की कोई कल्पना नहीं होती। धीरे-धीरे किताबें उनके जीवन में आती हैं। हम किताब किसे कहेंगे ? सामान्यतः कुछ ऐसे पन्ने जिन पर कुछ लिखा हो या छपा हो और उन्हें इकट्ठा कर एक ओर से बाँध दिया जाए तो वह पुस्तक कहलाएगी। किताब की शुरुआत हुई ताल के पत्तों पर लिखने, इकट्ठा कर धागों से बाँधने के साथ। इन ताल पत्तों पर केवल वे ही लोग लिखते थे जिनकी लिखाई सुंदर होती थी। जो लोग सुंदर चित्रकारी कर सकते थे वे इन पर चित्र बनाते थे। इससे भी पहले की बात है, मिस्र में पपाइरस नाम के पौधे से बहुत पतला कागज बनाया जाता। उन पर लिखा जाता, चित्र बनाए जाते और इकट्ठा कर किताब तैयार की जाती। इन कागजों पर हाइरोग्लाइफ लिपि में हाथ से लिखा जाता था। छपाई की मशीन के आविष्कार के साथ किताबें मशीन से छपने लगीं। प्रश्न: ताल पत्तों को किताब का स्वरूप देने के लिए कौन-से लोग लिख सकते थे ?",
-  "q_en": "Which people could write on palm leaves to give them the form of a book?",
+  "n": 149,
+  "subject": "Child Development",
+  "q_hi": "सतत एवं व्यापक मूल्यांकन (CCE) में 'व्यापक' का अर्थ है —",
+  "q_en": "In Continuous and Comprehensive Evaluation (CCE), 'comprehensive' means :",
   "options": [
-   "जिनका हस्तलेखन बहुत सुंदर था।",
-   "जिनके विचार बहुत सुंदर थे।",
-   "जिनकी चित्रकारी बहुत सुंदर थी।",
-   "जिनके पास सुंदर ताल पत्र थे।"
+   "पूरा पाठ्यक्रम पूछना",
+   "केवल लिखित परीक्षा लेना",
+   "शैक्षणिक के साथ सह-शैक्षणिक (रुचियाँ, अभिवृत्तियाँ, कौशल) पक्षों का भी मूल्यांकन",
+   "वर्ष में कई परीक्षाएँ लेना"
+  ],
+  "options_en": [
+   "asking the whole syllabus",
+   "taking only written examinations",
+   "assessing co-scholastic aspects (interests, attitudes, skills) along with scholastic ones",
+   "holding many examinations in a year"
+  ],
+  "answer": 2,
+  "exp_hi": "CCE में 'सतत' से नियमितता और 'व्यापक' से शैक्षणिक के साथ-साथ सह-शैक्षणिक विकास का मूल्यांकन अभिप्रेत है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 29
+ },
+ {
+  "n": 150,
+  "subject": "Child Development",
+  "q_hi": "नैदानिक (diagnostic) शिक्षण का मुख्य उद्देश्य है —",
+  "q_en": "The main purpose of diagnostic teaching is to :",
+  "options": [
+   "बच्चों की अधिगम-कठिनाइयों के विशिष्ट कारणों की पहचान करना ताकि उपचारात्मक शिक्षण किया जा सके",
+   "बच्चों की रैंकिंग करना",
+   "पाठ्यक्रम शीघ्र समाप्त करना",
+   "केवल प्रतिभाशाली बच्चों को चुनना"
+  ],
+  "options_en": [
+   "identify the specific causes of children's learning difficulties so that remedial teaching can be done",
+   "rank children",
+   "finish the syllabus quickly",
+   "select only gifted children"
   ],
   "answer": 0,
-  "exp_hi": "ताल पत्तों पर केवल वे लोग लिख सकते थे जिनकी लिखाई (हस्तलेखन) बहुत सुंदर होती थी।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q99"
+  "exp_hi": "नैदानिक परीक्षणों से कठिनाइयों के कारण पता चलते हैं और उसके आधार पर उपचारात्मक (remedial) शिक्षण की योजना बनती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 30
  },
  {
-  "n": 99,
-  "subject": "Hindi",
-  "q_hi": "कविता: यह धरती कितना देती है! धरती माता कितना देती है अपनी संतान को! नहीं समझ पाया था मैं उसके महत्त्व को! बचपन में, छिः, स्वार्थ लोभवश पैसे बोकर! रत्न प्रसविनी है वसुधा, अब समझ सका हूँ! इसमें सच्ची समता के दाने बोने हैं, इसमें जन की क्षमता के दाने बोने हैं, इसमें मानव ममता के दाने बोने हैं, जिससे उगल सके फिर धूल सुनहली फसलें मानवता की – जीवन श्रम से हँसें दिशाएँ हम जैसा बोएँगे वैसा ही पाएँगे। प्रश्न: 'वसुधा' का समानार्थी है :",
-  "q_en": "What is the synonym of 'वसुधा'?",
+  "n": 107,
+  "subject": "Language-I",
+  "q_hi": "भाषा अर्जन और भाषा अधिगम में सहजात परिकल्पना से क्या तात्पर्य है ?",
+  "q_en": "What is the innateness hypothesis in language acquisition and language learning ?",
   "options": [
-   "अंबा",
-   "समीर",
-   "सरिता",
-   "धरा"
+   "यह इस विचार बिन्दु को निरस्त करती है कि सभी भाषाओं में व्याकरण है और सभी बच्चे भाषा अपने तरीकों से सीखते हैं।",
+   "यह इस तथ्य में विश्वास रखती है कि सभी मनुष्य भाषा शारीरिक ड्रिल और अनुकूलन के माध्यम से सीख सकते हैं।",
+   "यह इस तथ्य में विश्वास रखती है कि सभी मनुष्य जन्म से ही भाषा ज्ञान रखते हैं।",
+   "यह इस तथ्य में विश्वास रखती है कि भाषा आदत निर्माण के रूप में सीखी जाती है।"
   ],
-  "answer": 3,
-  "exp_hi": "'वसुधा' का समानार्थी 'धरा' है — दोनों का अर्थ पृथ्वी है।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q100"
+  "options_en": [
+   "It rejects the idea that all languages have grammars and all children learn them in their own way.",
+   "It believes that all human beings can learn languages through physical drilling and conditioning.",
+   "It believes that all human beings possess language knowledge at birth.",
+   "It believes that language is learned as a result of habit formation."
+  ],
+  "answer": 2,
+  "exp_hi": "सहजात परिकल्पना के अनुसार मनुष्य जन्म से ही भाषा सीखने की सहजात क्षमता और भाषा-ज्ञान रखता है — यही चॉम्स्की के सहजातवाद का मूल विचार है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q107",
+  "mock_q": 31
  },
  {
-  "n": 100,
-  "subject": "Hindi",
-  "q_hi": "कविता: यह धरती कितना देती है! धरती माता कितना देती है अपनी संतान को! नहीं समझ पाया था मैं उसके महत्त्व को! बचपन में, छिः, स्वार्थ लोभवश पैसे बोकर! रत्न प्रसविनी है वसुधा, अब समझ सका हूँ! इसमें सच्ची समता के दाने बोने हैं, इसमें जन की क्षमता के दाने बोने हैं, इसमें मानव ममता के दाने बोने हैं, जिससे उगल सके फिर धूल सुनहली फसलें मानवता की – जीवन श्रम से हँसें दिशाएँ हम जैसा बोएँगे वैसा ही पाएँगे। प्रश्न: 'रत्न प्रसविनी' का क्या अर्थ है ?",
-  "q_en": "What is the meaning of 'रत्न प्रसविनी'?",
+  "n": 109,
+  "subject": "Language-I",
+  "q_hi": "भाषा शिक्षण का कौन-सा उपागम भाषा अधिगम के लिए एक आधार (नींव) के रूप में शब्दों और शब्द समूहों की अनुशंसा करता है ?",
+  "q_en": "Which approach to language teaching advocates words and word chunks as the foundation for language learning ?",
   "options": [
-   "रत्नों को धारण करना।",
-   "रत्नों का क्रय-विक्रय करना।",
-   "रत्नों का संरक्षण करना।",
-   "रत्नों को जन्म देना।"
+   "कार्य आधारित भाषा अधिगम",
+   "सम्प्रेषणात्मक उपागम",
+   "कोश विषयक उपागम",
+   "व्याकरण अनुवाद विधि"
+  ],
+  "options_en": [
+   "Task based language learning",
+   "Communicative approach",
+   "Lexical approach",
+   "Grammar translation method"
+  ],
+  "answer": 2,
+  "exp_hi": "कोश विषयक उपागम (Lexical Approach) शब्दों और शब्द-समूहों (word chunks) को ही भाषा अधिगम की नींव मानता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q109",
+  "mock_q": 32
+ },
+ {
+  "n": 111,
+  "subject": "Language-I",
+  "q_hi": "वाणी नामक विद्यार्थी किसी एक पाठ्य सामग्री का सामान्य सा परिचय (ओवर व्यू) जानने के लिए एक आलेख पढ़ती है। उसके इस पठन को किस रूप में जाना जाएगा ?",
+  "q_en": "Vani is reading an article in order to get a general overview of the text. What is her reading known as ?",
+  "options": [
+   "निष्कर्ष निकालना (इंफेरेंशियल)",
+   "बारीकी से पठन (स्कैनिंग)",
+   "सरसरी तौर पर पठन (स्किमिंग)",
+   "समालोचनात्मक पठन"
+  ],
+  "options_en": [
+   "Drawing Inference",
+   "Scanning",
+   "Skimming",
+   "Critical reading"
+  ],
+  "answer": 2,
+  "exp_hi": "किसी पाठ्य सामग्री का सामान्य परिचय या सार जानने के लिए किया गया सरसरी पठन स्किमिंग कहलाता है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q111",
+  "mock_q": 33
+ },
+ {
+  "n": 115,
+  "subject": "Language-I",
+  "q_hi": "कक्षा सात की अध्यापक सात वाक्यों वाली एक संक्षिप्त पाठ्य सामग्री पढ़ती है। तत्पश्चात वह अपने शिक्षार्थियों को सावधानी पूर्वक सुनने और इसके जैसी अर्थ देने वाली मगर बिलकुल ऐसी नहीं पाठ्य सामग्री पुनः सृजित करने के लिए कहती है। इस युक्ति को क्या कहा जाएगा ?",
+  "q_en": "A teacher of class VII reads out the short text of seven sentences. Then she asks her learners to listen to it carefully and recreate the text nearer to it, not exactly the same text. What is this strategy known as ?",
+  "options": [
+   "स्कीमा सृजन",
+   "शीर्ष अधोगामी (टॉप डाउन)",
+   "बॉटम अप युक्ति",
+   "अनुच्छेद श्रुतलेख"
+  ],
+  "options_en": [
+   "Schema creation",
+   "Top-down strategy",
+   "Bottom-up strategy",
+   "Paragraph dictation"
   ],
   "answer": 3,
-  "exp_hi": "'प्रसविनी' का अर्थ है जन्म देने वाली, अतः 'रत्न प्रसविनी' का अर्थ है रत्नों को जन्म देने वाली।",
-  "source": "CTET Feb 2026 Paper 2 Set J, Q101"
+  "exp_hi": "सुनकर उसी अर्थ वाली पाठ्य सामग्री को पुनः सृजित करवाने की युक्ति अनुच्छेद श्रुतलेख (Paragraph Dictation) कहलाती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q115",
+  "mock_q": 34
+ },
+ {
+  "q_hi": "किसी व्यक्ति, वस्तु, स्थान या भाव के नाम को क्या कहा जाता है ?",
+  "q_en": "What is the name of a person, thing, place or feeling called ?",
+  "options": [
+   "संज्ञा",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया विशेषण"
+  ],
+  "options_en": [
+   "Noun",
+   "Pronoun",
+   "Adjective",
+   "Adverb"
+  ],
+  "answer": 0,
+  "exp_hi": "व्यक्ति, वस्तु, स्थान या भाव के नाम को संज्ञा कहते हैं।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 171,
+  "mock_q": 35
+ },
+ {
+  "q_hi": "'अग्नि' शब्द का तद्भव रूप कौन-सा है ?",
+  "q_en": "What is the tadbhava form of the word 'अग्नि' (agni) ?",
+  "options": [
+   "अगन",
+   "आग",
+   "आँच",
+   "अंगारा"
+  ],
+  "options_en": [
+   "Agan",
+   "Aag",
+   "Aanch",
+   "Angaara"
+  ],
+  "answer": 1,
+  "exp_hi": "'अग्नि' तत्सम शब्द है और इसका तद्भव रूप 'आग' है।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 172,
+  "mock_q": 36
+ },
+ {
+  "q_hi": "'दिन-रात' शब्द में कौन-सा समास है ?",
+  "q_en": "Which compound (samaas) is there in the word 'दिन-रात' (day-night) ?",
+  "options": [
+   "द्वंद्व समास",
+   "तत्पुरुष समास",
+   "कर्मधारय समास",
+   "अव्ययीभाव समास"
+  ],
+  "options_en": [
+   "Dwandwa Samaas",
+   "Tatpurush Samaas",
+   "Karmadharaya Samaas",
+   "Avyayibhaav Samaas"
+  ],
+  "answer": 0,
+  "exp_hi": "जब दोनों पद प्रधान हों और 'और' का अर्थ प्रकट हो, वहाँ द्वंद्व समास होता है — अतः 'दिन-रात' में द्वंद्व समास है।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 173,
+  "mock_q": 37
+ },
+ {
+  "q_hi": "कक्षा में भाषा शिक्षण के समय शिक्षक द्वारा मातृभाषा का सीमित प्रयोग —",
+  "q_en": "Limited use of the mother tongue by the teacher during language teaching in the classroom —",
+  "options": [
+   "हर स्थिति में वर्जित होना चाहिए",
+   "शब्दों के अर्थ स्पष्ट करने में सहायक हो सकता है",
+   "शिक्षार्थियों को आलसी बना देता है",
+   "केवल अनुशासन बनाए रखने के लिए होना चाहिए"
+  ],
+  "options_en": [
+   "Should be forbidden in every situation",
+   "Can be helpful in clarifying the meanings of words",
+   "Makes learners lazy",
+   "Should be used only for maintaining discipline"
+  ],
+  "answer": 1,
+  "exp_hi": "मातृभाषा का सीमित और उद्देश्यपूर्ण प्रयोग अर्थ स्पष्ट करने में सहायक होता है; इसका पूर्ण निषेध व्यावहारिक नहीं है।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 174,
+  "mock_q": 38
+ },
+ {
+  "q_hi": "भाषा के चारों कौशलों का सही समूह कौन-सा है ?",
+  "q_en": "Which is the correct set of the four language skills ?",
+  "options": [
+   "सुनना, बोलना, पढ़ना, लिखना",
+   "सुनना, देखना, पढ़ना, लिखना",
+   "बोलना, पढ़ना, सोचना, लिखना",
+   "सुनना, बोलना, याद करना, लिखना"
+  ],
+  "options_en": [
+   "Listening, Speaking, Reading, Writing",
+   "Listening, Seeing, Reading, Writing",
+   "Speaking, Reading, Thinking, Writing",
+   "Listening, Speaking, Memorizing, Writing"
+  ],
+  "answer": 0,
+  "exp_hi": "भाषा के चार मूल कौशल हैं — सुनना, बोलना, पढ़ना और लिखना (LSRW)।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 175,
+  "mock_q": 39
+ },
+ {
+  "q_hi": "'वह धीरे-धीरे चलता है।' इस वाक्य में 'धीरे-धीरे' शब्द क्या है ?",
+  "q_en": "In the sentence 'वह धीरे-धीरे चलता है।' (He walks slowly), what is the word 'धीरे-धीरे' ?",
+  "options": [
+   "विशेषण",
+   "क्रिया विशेषण",
+   "संज्ञा",
+   "सर्वनाम"
+  ],
+  "options_en": [
+   "Adjective",
+   "Adverb",
+   "Noun",
+   "Pronoun"
+  ],
+  "answer": 1,
+  "exp_hi": "'धीरे-धीरे' क्रिया 'चलता है' की विशेषता बताता है, अतः यह क्रिया विशेषण है।",
+  "subject": "Language-I",
+  "source": "Syllabus-based (Juno)",
+  "n": 176,
+  "mock_q": 40
+ },
+ {
+  "q_hi": "आप निम्नलिखित में से किस कथन की काव्य शिक्षण अधिगम के लिए अनुशंसा नहीं करेंगे ?",
+  "q_en": "Which one of the following statements would you NOT endorse for the teaching-learning of poetry ?",
+  "options": [
+   "काव्य शिक्षार्थियों की कल्पनाशीलता का अभ्यास करने के लिए है।",
+   "काव्य भाषा के साथ कार्य करने के लिए है।",
+   "काव्य आनन्द के लिए है।",
+   "काव्य व्याकरण शिक्षण के लिए है।"
+  ],
+  "options_en": [
+   "Poetry is for exercising the imagination of learners.",
+   "Poetry is for working with language.",
+   "Poetry is for pleasure.",
+   "Poetry is for teaching grammar."
+  ],
+  "answer": 3,
+  "exp_hi": "काव्य शिक्षण का उद्देश्य कल्पनाशीलता का विकास, भाषा के साथ कार्य और आनन्द है — व्याकरण सिखाना इसका उद्देश्य नहीं है, इसलिए इसी कथन की अनुशंसा नहीं की जाएगी।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q147",
+  "subject": "Language-II",
+  "n": 177,
+  "mock_q": 41
+ },
+ {
+  "q_hi": "वह भाषा जो कक्षा में विविध प्रकार के विषय क्षेत्रों में प्रयुक्त की जाती है, अध्यापक उसे विद्यार्थियों को प्रस्तुत करते हैं और उसमें अन्तःक्रिया करते हैं। इस भाषा कौशल को क्या कहेंगे ?",
+  "q_en": "The language used in the classroom in the various content areas as the teacher presents and interact with students. What is this language skill known as ?",
+  "options": [
+   "बुनियादी अन्तःवैयक्तिक संप्रेषण कौशल",
+   "जीवन के वास्तविक उद्देश्यों के लिए भाषा",
+   "भाषा प्रयुक्ति",
+   "संज्ञानात्मक अकादमिक भाषायी निपुणता"
+  ],
+  "options_en": [
+   "Basic Interpersonal Communication Skills",
+   "Language for real-life purposes",
+   "Language register",
+   "Cognitive Academic Language Proficiency"
+  ],
+  "answer": 3,
+  "exp_hi": "कक्षा में विभिन्न विषय-क्षेत्रों में प्रयुक्त अकादमिक भाषा संज्ञानात्मक अकादमिक भाषायी निपुणता (CALP) कहलाती है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q148",
+  "subject": "Language-II",
+  "n": 178,
+  "mock_q": 42
+ },
+ {
+  "q_hi": "निम्नलिखित कथन में निहित व्याकरणिक ज्ञान के प्रकार से क्या तात्पर्य है ? 'नियमों के बारे में ज्ञान, उनका वर्णन करना और सीमित अभ्यास में उनका प्रयोग करना।'",
+  "q_en": "Which type of grammatical knowledge does the following statement mean ? Knowledge about the form, describing it and applying it in limited practice.",
+  "options": [
+   "दक्षता",
+   "अधिसंज्ञानात्मक ज्ञान",
+   "प्रक्रियात्मक ज्ञान",
+   "घोषणात्मक ज्ञान"
+  ],
+  "options_en": [
+   "Competence",
+   "Metacognitive knowledge",
+   "Procedural knowledge",
+   "Declarative knowledge"
+  ],
+  "answer": 3,
+  "exp_hi": "नियमों के बारे में ज्ञान, उनका वर्णन करना और सीमित अभ्यास में प्रयोग — यह घोषणात्मक ज्ञान (Declarative Knowledge) है।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q149",
+  "subject": "Language-II",
+  "n": 179,
+  "mock_q": 43
+ },
+ {
+  "q_hi": "निम्नलिखित कार्य में क्या शामिल है ? शिक्षार्थियों को एक होटल का भोजन तालिका (मैन्यू कार्ड) दिया जाता है। उन्हें ₹ 1800 की राशि के अन्तर्गत चार लोगों के लिए भोजन के लिए कहना है। एक शाकाहारी है, दूसरे को मशरूम से एलर्जी है। उन्होंने इसमें से ₹ 70 वापसी यात्रा के लिए भी रखने हैं। शिक्षार्थी भोजन संबंधी अपनी प्राथमिकताएँ और वापसी यात्रा हेतु रखी जाने वाली राशि के बारे में बात कर रहे हैं।",
+  "q_en": "What does the following task involve ? Learners are given a hotel menu and they have to order food for four people for an amount of Rs. 1800/-. One is a vegetarian, and other one is allergic to mushrooms. They have to keep Rs. 70 for auto rickshaw to go back hostel. Learners are speaking about what they will order, their preferences, and keeping the money to get back to the hostel.",
+  "options": [
+   "उच्च स्तरीय चिंतन कौशल",
+   "अध्ययन संलग्नता – विमर्श – प्रयोग (भाषा)",
+   "संज्ञानात्मक युक्तियाँ",
+   "प्रस्तुति – अभ्यास – उत्पाद (भाषा)"
+  ],
+  "options_en": [
+   "Higher order thinking skills",
+   "Study-Engage-Reflect-Use (language)",
+   "Cognitive strategies",
+   "Present-Practice-Produce (language)"
+  ],
+  "answer": 1,
+  "exp_hi": "यह कार्य अध्ययन – संलग्नता – विमर्श – प्रयोग (Study-Engage-Reflect-Use) प्रारूप का है, जिसमें शिक्षार्थी वास्तविक जीवन की स्थिति में भाषा का प्रयोग करते हैं।",
+  "source": "CTET Feb 2026 Paper 2 Set J, Q150",
+  "subject": "Language-II",
+  "n": 180,
+  "mock_q": 44
+ },
+ {
+  "q_hi": "निम्नलिखित में से कौन-सा उत्पादक भाषा कौशल है ?",
+  "q_en": "Which of the following is a productive language skill ?",
+  "options": [
+   "सुनना",
+   "पढ़ना",
+   "बोलना",
+   "मौन पठन"
+  ],
+  "options_en": [
+   "Listening",
+   "Reading",
+   "Speaking",
+   "Silent reading"
+  ],
+  "answer": 2,
+  "exp_hi": "बोलना और लिखना उत्पादक कौशल हैं, जबकि सुनना और पढ़ना ग्रहणशील कौशल हैं।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 181,
+  "mock_q": 45
+ },
+ {
+  "q_hi": "वाक्य का काल पहचानिए : 'She has been teaching in this school since 2015.'",
+  "q_en": "Identify the tense of the sentence : 'She has been teaching in this school since 2015.'",
+  "options": [
+   "साधारण वर्तमान काल",
+   "पूर्ण वर्तमान काल",
+   "साधारण भूत काल",
+   "पूर्ण सतत वर्तमान काल"
+  ],
+  "options_en": [
+   "Simple Present Tense",
+   "Present Perfect Tense",
+   "Simple Past Tense",
+   "Present Perfect Continuous Tense"
+  ],
+  "answer": 3,
+  "exp_hi": "'Has been teaching' और 'since 2015' पूर्ण सतत वर्तमान काल (Present Perfect Continuous Tense) को दर्शाते हैं।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 182,
+  "mock_q": 46
+ },
+ {
+  "q_hi": "पाठ पढ़ने से पहले अध्यापक शिक्षार्थियों से शीर्षक और चित्र देखकर यह अनुमान लगाने को कहता है कि पाठ किस विषय में है। यह गतिविधि कहलाती है —",
+  "q_en": "Before reading a text, a teacher asks learners to look at its title and pictures and guess what the text is about. This activity is known as a —",
+  "options": [
+   "पठन-पूर्व गतिविधि",
+   "पठन-समय गतिविधि",
+   "पठन-पश्चात गतिविधि",
+   "मूल्यांकन गतिविधि"
+  ],
+  "options_en": [
+   "Pre-reading activity",
+   "While-reading activity",
+   "Post-reading activity",
+   "Evaluation activity"
+  ],
+  "answer": 0,
+  "exp_hi": "शीर्षक और चित्रों से अनुमान लगवाना पठन-पूर्व (Pre-reading) गतिविधि है, जो पाठ के प्रति रुचि जगाती है और पूर्व ज्ञान को सक्रिय करती है।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 183,
+  "mock_q": 47
+ },
+ {
+  "q_hi": "भाषा शिक्षण का कौन-सा उपागम संरचनाओं की निपुणता की अपेक्षा अर्थपूर्ण सम्प्रेषण को सबसे अधिक महत्व देता है ?",
+  "q_en": "Which approach to language teaching gives the most importance to meaningful communication rather than the mastery of structures ?",
+  "options": [
+   "व्याकरण-अनुवाद विधि",
+   "सम्प्रेषणात्मक उपागम",
+   "प्रत्यक्ष विधि",
+   "श्रवण-भाषिक विधि"
+  ],
+  "options_en": [
+   "Grammar-Translation Method",
+   "Communicative Approach",
+   "Direct Method",
+   "Audio-Lingual Method"
+  ],
+  "answer": 1,
+  "exp_hi": "सम्प्रेषणात्मक उपागम में भाषा का मुख्य उद्देश्य अर्थपूर्ण सम्प्रेषण है, केवल संरचनाओं की निपुणता नहीं।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 184,
+  "mock_q": 48
+ },
+ {
+  "q_hi": "भाषा कक्षा में गहन पठन (Intensive Reading) मुख्यतः किसके लिए किया जाता है ?",
+  "q_en": "Intensive reading in the language classroom is mainly done for —",
+  "options": [
+   "विवरण और भाषा की बारीकियों को समझने के लिए",
+   "केवल मनोरंजन के लिए",
+   "पाठ को शीघ्रता से समाप्त करने के लिए",
+   "जोर से पढ़ने का अभ्यास करने के लिए"
+  ],
+  "options_en": [
+   "Understanding details and nuances of language",
+   "Entertainment only",
+   "Finishing the text quickly",
+   "Practising reading aloud"
+  ],
+  "answer": 0,
+  "exp_hi": "गहन पठन में पाठ का विस्तृत अध्ययन होता है — विवरण, शब्दावली और भाषा की बारीकियाँ समझी जाती हैं।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 185,
+  "mock_q": 49
+ },
+ {
+  "q_hi": "शब्द 'unhappiness' किसके योग से बना है ?",
+  "q_en": "The word 'unhappiness' is formed by adding —",
+  "options": [
+   "केवल एक उपसर्ग",
+   "एक उपसर्ग और एक प्रत्यय",
+   "केवल एक प्रत्यय",
+   "दो उपसर्ग"
+  ],
+  "options_en": [
+   "Only a prefix",
+   "A prefix and a suffix",
+   "Only a suffix",
+   "Two prefixes"
+  ],
+  "answer": 1,
+  "exp_hi": "'Unhappiness' में 'un-' उपसर्ग और '-ness' प्रत्यय दोनों जुड़े हैं (un + happy + ness)।",
+  "subject": "Language-II",
+  "source": "Syllabus-based (Juno)",
+  "n": 186,
+  "mock_q": 50
  }
 ]

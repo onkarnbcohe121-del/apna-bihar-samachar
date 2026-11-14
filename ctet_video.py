@@ -13,7 +13,8 @@ Output (temp workdir, prefix ctet_): final.mp4, thumb.jpg, title.txt, desc.txt
 Index format: [{"file": "mock1_p1.json", "paper": 1, "mock_no": 1,
   "playlist": "PLGc1wJxdjSuY"}]
 Sawal JSON format (flat list): [{"n": N, "subject": "..", "q_hi": "..", "q_en": "..",
-  "options": ["..", "..", "..", ".."], "answer": 0-3, "exp_hi": "..", "source": ".."}]
+  "options": ["..", "..", "..", ".."], "options_en": ["..", "..", "..", ".."] (optional —
+  ho to slide/awaaz par "Hindi / English" dikhega), "answer": 0-3, "exp_hi": "..", "source": ".."}]
 NIYAM: video/thumbnail/title me DATE NAHI; green tick NAHI.
 """
 import asyncio, json, os, re, subprocess, sys, tempfile, urllib.request
@@ -33,7 +34,7 @@ INSTAGRAM_URL = "https://www.instagram.com/apnabiharsamacharlive"
 TOPICS_LINE = ("Child Development & Pedagogy, Hindi, English, Mathematics, "
                "Environmental Studies (EVS)")
 TOPICS_LINES = {1: TOPICS_LINE,
-                2: "Child Development & Pedagogy, Social Studies, Hindi"}
+                2: "Child Development and Pedagogy (CDP), Language-I & Language-II"}
 NEXT_LINE = {1: "अगला Mock Test — रोज़ दोपहर 12 बजे",
              2: "अगला Mock Test — रोज़ शाम 6:30 बजे"}
 CLASSES_LINE = {1: "Class 1 to 5", 2: "Class 6 to 8"}
@@ -148,12 +149,29 @@ ROMAN_MARKERS = {"i": "एक", "ii": "दो", "iii": "तीन", "iv": "च�
                  "vi": "छह", "vii": "सात", "viii": "आठ", "ix": "नौ", "x": "दस"}
 _ROMAN_RE = re.compile(r"\((viii|vii|iii|vi|iv|ix|ii|x|v|i)\)", re.IGNORECASE)
 
+ROMAN_EN = {"i": "One", "ii": "Two", "iii": "Three", "iv": "Four", "v": "Five",
+            "vi": "Six", "vii": "Seven", "viii": "Eight", "ix": "Nine", "x": "Ten"}
+_ROMAN_NUM = r"(VIII|VII|III|VI|IV|IX|II|X|V|I)"
+# Bina bracket wale (bare) marker: pehchana hua shabd (prefix) ke turant baad
+# wala Roman ank hi marker hai — usi sandarbh ki bhasha me number-shabd bane.
+# Prefix na ho to haath nahi lagta: English pronoun 'I', 'World War II',
+# akshar wale 'V'/'X' aur ganit ka 'x' jaise ke waise rahte hain.
+_BARE_HI_RE = re.compile(r"(कथन|सूची|स्तंभ|भाग|खंड|ग्रेड)(?:\s*[-–—]\s*|\s+)?" + _ROMAN_NUM + r"(?![A-Za-z])")
+_BARE_EN_RE = re.compile(r"\b(Statement|List|Column|Part|Paper|Grade)(?:\s*[-–—]\s*|\s+)" + _ROMAN_NUM + r"(?![A-Za-z])", re.IGNORECASE)
+
 def _roman_marker_fix(text):
     """Kathan wale (i)/(ii)/(iii) marker ko bolne me number-shabd banao —
     warna awaaz (iii) ko 'i i i' akshar-akshar padhti hai. Sirf TTS wale
     text par lagta hai; slide par (iii) vaisa hi dikhega. Bina bracket ke
-    Roman akshar (jaise English 'I') bilkul nahi chhute."""
-    return _ROMAN_RE.sub(lambda m: ROMAN_MARKERS[m.group(1).lower()], text)
+    Roman akshar (jaise English 'I') bilkul nahi chhute.
+    Bare marker (bracket bina): 'कथन I/II', 'Statement I/II', 'सूची-II',
+    'ग्रेड III' jaise roop bhi number-shabd me badalte hain — Hindi sandarbh
+    me Hindi shabd, English sandarbh me English shabd. Ye badlav sirf tab
+    lagta hai jab ank ke turant pehle pehchana hua prefix shabd ho."""
+    t = _ROMAN_RE.sub(lambda m: ROMAN_MARKERS[m.group(1).lower()], text)
+    t = _BARE_HI_RE.sub(lambda m: m.group(1) + " " + ROMAN_MARKERS[m.group(2).lower()], t)
+    t = _BARE_EN_RE.sub(lambda m: m.group(1) + " " + ROMAN_EN[m.group(2).lower()], t)
+    return t
 
 
 try:
@@ -243,8 +261,21 @@ async def _tts_swara(text, out):
 def adapt_question(raw):
     """CTET sawal JSON ko engine ke andarooani roop me badlo."""
     return {"q_hi": raw["q_hi"], "q_en": raw.get("q_en", ""),
-            "options": list(raw["options"]), "answer": int(raw["answer"]),
+            "options": list(raw["options"]),
+            "options_en": list(raw.get("options_en") or []),
+            "answer": int(raw["answer"]),
             "explanation": raw["exp_hi"], "subject": raw.get("subject", "")}
+
+def option_texts(q):
+    """Vikalp ka slide/awaaz roop — Hindi pehle, phir English.
+    options_en ho aur Hindi se alag ho to "Hindi / English"; warna sirf Hindi
+    (options_en na ho — jaise Mock 1 — to purana vyavhaar bilkul vaisa hi)."""
+    en = q.get("options_en") or []
+    out = []
+    for i, hi in enumerate(q["options"]):
+        e = en[i].strip() if i < len(en) and isinstance(en[i], str) else ""
+        out.append(f"{hi} / {e}" if e and e != hi.strip() else hi)
+    return out
 
 def load_mock(path, paper, mock_no, playlist):
     with open(path, encoding="utf-8") as f:
@@ -408,7 +439,7 @@ def compute_layout(d, q, reveal):
     for prof in profiles:
         osize, line_h, pad_v, gap = prof
         rows, yy = [], opts_top
-        for opt in q["options"]:
+        for opt in option_texts(q):
             ol = wrap_mixed(d, opt, osize, False, W - 190)[:2]
             rh = len(ol) * line_h + pad_v
             rows.append((ol, rh))
@@ -528,7 +559,7 @@ async def build(mock, workdir):
     s = os.path.join(workdir, "seg_000.mp4"); make_segment(p, a, s); segs.append(s)
 
     for i, q in enumerate(questions, 1):
-        opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(q["options"]))
+        opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(option_texts(q)))
         p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, mock_no, paper).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
         await tts(f"प्रश्न {i}। {q['q_hi']} … विकल्प हैं — {opts_speech}।", a)
@@ -539,7 +570,7 @@ async def build(mock, workdir):
             expl = expl[:260].rsplit("।", 1)[0] + "।"
         p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, mock_no, paper).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
-        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {q['options'][q['answer']]}। {expl}", a)
+        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {option_texts(q)[q['answer']]}। {expl}", a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 

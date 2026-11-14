@@ -10,6 +10,12 @@
    "दूसरों की सराहना; व्यक्तिगत संतुष्टि",
    "व्यक्तिगत संतुष्टि; दूसरों की स्वीकृति"
   ],
+  "options_en": [
+   "personal satisfaction; rewards such as prizes",
+   "avoidance of punishment; rewards such as prizes",
+   "approval of others; personal satisfaction",
+   "personal satisfaction; approval of others"
+  ],
   "answer": 2,
   "exp_hi": "बाह्य प्रेरणा दूसरों की सराहना/स्वीकृति से आती है, जबकि आंतरिक प्रेरणा व्यक्तिगत संतुष्टि पर आधारित होती है।",
   "source": "CTET Paper 1 Feb 2026, Q1",
@@ -25,6 +31,12 @@
    "अवधारणा को दैनिक जीवन में लागू करना।",
    "परिभाषाओं का एक वर्ग को याद रखना।",
    "पाठ्यपुस्तक से तथ्यात्मक जानकारी को याद करना।"
+  ],
+  "options_en": [
+   "Copying answers from a friends’ notebook.",
+   "Applying the concept to daily life.",
+   "Memorising a set of definitions.",
+   "Recalling factual information from textbook."
   ],
   "answer": 1,
   "exp_hi": "प्रामाणिक अधिगम कार्य वह है जिसमें अवधारणा को दैनिक जीवन में लागू किया जाए, न कि रटना या कॉपी करना।",
@@ -42,6 +54,12 @@
    "समीपस्थ विकास का क्षेत्र",
    "विकासात्मक प्रतिमान"
   ],
+  "options_en": [
+   "Developmental Task",
+   "Sensitive Period",
+   "Zone of Proximal Development",
+   "Developmental Milestone"
+  ],
   "answer": 1,
   "exp_hi": "नया कौशल प्राप्त करने के लिए सबसे उपयुक्त समय को संवेदनशील अवधि कहते हैं।",
   "source": "CTET Paper 1 Feb 2026, Q3",
@@ -57,6 +75,12 @@
    "अप्राकृतिक लेकिन असामान्य नहीं है।",
    "सामान्य और प्राकृतिक है।",
    "असामान्य लेकिन प्राकृतिक है।"
+  ],
+  "options_en": [
+   "Uncommon and abnormal",
+   "Abnormal but not uncommon",
+   "Normal and common",
+   "Uncommon but normal"
   ],
   "answer": 2,
   "exp_hi": "स्वयं से जोर से बात करना (निजी वाक्) बचपन में सामान्य और प्राकृतिक है।",
@@ -74,6 +98,12 @@
    "(A) और (R) दोनों गलत हैं।",
    "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।"
   ],
+  "options_en": [
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "Both (A) and (R) are false.",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)."
+  ],
   "answer": 3,
   "exp_hi": "सीखना सामाजिक संदर्भ में स्थित होता है और कारण (R) अभिकथन (A) की सही व्याख्या करता है।",
   "source": "CTET Paper 1 Feb 2026, Q6",
@@ -89,6 +119,12 @@
    "केंद्रीकरण का सिद्धांत",
    "एकीकरण का सिद्धांत",
    "समीपदुराभिमुख सिद्धांत"
+  ],
+  "options_en": [
+   "Cephalocaudal principle",
+   "Principle of centration",
+   "Principle of integration",
+   "Proximodistal principle"
   ],
   "answer": 3,
   "exp_hi": "अंगों (बाँह-टाँग) का हाथ-पैरों से तेज़ बढ़ना समीपदुराभिमुख सिद्धांत (केंद्र से परिधि की ओर विकास) है।",
@@ -106,6 +142,12 @@
    "मूल्यांकन की प्रक्रिया में शिक्षार्थियों को भी शामिल किया जाना चाहिए।",
    "सीखने के लिए प्रतियोगिता आवश्यक है।"
   ],
+  "options_en": [
+   "only quantitative parameters give ‘correct’ feedback.",
+   "qualitative parameters are biased and subjective.",
+   "learners should also be involved in the process of assessment.",
+   "competition is essential for learning."
+  ],
   "answer": 2,
   "exp_hi": "रचनात्मक मूल्यांकन मानता है कि शिक्षार्थियों को भी मूल्यांकन की प्रक्रिया में शामिल किया जाना चाहिए।",
   "source": "CTET Paper 1 Feb 2026, Q9",
@@ -121,6 +163,12 @@
    "उत्तर परंपरागत",
    "पूर्व परंपरागत",
    "परंपरागत"
+  ],
+  "options_en": [
+   "Formal Conventional",
+   "Post-conventional",
+   "Pre-conventional",
+   "Conventional"
   ],
   "answer": 2,
   "exp_hi": "सज़ा के डर से किसी काम को गलत मानना कोलबर्ग की पूर्व-परंपरागत अवस्था दर्शाता है।",
@@ -138,6 +186,12 @@
    "यह मान लेना कि बच्चे स्वाभाविक रूप से अपने आप जेंडर-तटस्थ गतिविधियों और रुचियों को अपना लेंगे।",
    "बच्चों को पारंपरिक जेंडर भूमिकाओं के अनुरूप प्रोत्साहित करना।"
   ],
+  "options_en": [
+   "Providing children with materials that are gender-specific.",
+   "Exposing children to diverse gender roles and encouraging them to pursue their interests.",
+   "Assuming that children will naturally incline towards gender-neutral activities and interests.",
+   "Encouraging children to conform to traditional gender roles."
+  ],
   "answer": 1,
   "exp_hi": "बच्चों को विविध जेंडर भूमिकाओं से परिचित कराने से समाज की जेंडर रूढ़िवादिता का प्रभाव कम होता है।",
   "source": "CTET Paper 1 Feb 2026, Q13",
@@ -153,6 +207,12 @@
    "अनुमानित दिनचर्या बनाए रखना।",
    "सख्त अनुशासन और दंड का प्रयोग करना।",
    "निरंतर नेत्र संपर्क बनाए रखना।"
+  ],
+  "options_en": [
+   "Avoiding use of any audio-visual aids.",
+   "Maintaining a predictable routine.",
+   "Using strict discipline and punishment.",
+   "Providing constant eye contact."
   ],
   "answer": 1,
   "exp_hi": "स्वलीन क्रम विकार (ऑटिज़्म) से जूझ रहे बच्चों के लिए अनुमानित दिनचर्या बनाए रखना प्रभावी रणनीति है।",
@@ -170,6 +230,12 @@
    "जन्म से लेकर तीन वर्ष की उम्र तक होती है।",
    "तर्क करने और विचारों को व्यवस्थित करने में मदद करती है।"
   ],
+  "options_en": [
+   "hinders the cognitive development of children.",
+   "is a sign of cognitive immaturity among children.",
+   "occurs from birth until the age of three.",
+   "helps in reasoning and organizing thoughts."
+  ],
   "answer": 3,
   "exp_hi": "वायगोत्स्की के अनुसार आंतरिक वाक् तर्क करने और विचारों को व्यवस्थित करने में मदद करती है।",
   "source": "CTET Paper 1 Feb 2026, Q17",
@@ -185,6 +251,12 @@
    "(A) सही है लेकिन (R) गलत है।",
    "(A) और (R) दोनों गलत हैं।",
    "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "Both (A) and (R) are false.",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)."
   ],
   "answer": 3,
   "exp_hi": "गढ़ी वर्तनी और मुक्त लेखन से शिक्षार्थी स्तर का प्रामाणिक मूल्यांकन संभव है; कारण (R) सही व्याख्या करता है।",
@@ -202,6 +274,12 @@
    "डर और शर्म से प्रेरित मध्यम लक्ष्य तय करते हैं।",
    "यथार्थवादी सीखने के लक्ष्य तय करते हैं।"
   ],
+  "options_en": [
+   "high goals to impress others.",
+   "low goals to avoid failure.",
+   "moderate goals motivated by fear and shame.",
+   "realistic learning goals."
+  ],
   "answer": 3,
   "exp_hi": "महारत लक्ष्य उन्मुखीकरण वाले छात्र यथार्थवादी सीखने के लक्ष्य तय करते हैं।",
   "source": "CTET Paper 1 Feb 2026, Q25",
@@ -217,6 +295,12 @@
    "सहयोग को हतोत्साहित करके।",
    "छात्रों को रटने का पूर्वाभ्यास करने के लिए प्रोत्साहित करके।",
    "क्या, क्यों, कैसे जैसे उत्साहवर्धक प्रश्न पूछकर।"
+  ],
+  "options_en": [
+   "Discouraging metacognition",
+   "Discouraging collaborations",
+   "Encouraging students to do rote rehearsal",
+   "Encouraging questions such as what, why, how"
   ],
   "answer": 3,
   "exp_hi": "क्या, क्यों, कैसे जैसे प्रश्नों को प्रोत्साहित करने से छात्रों में आलोचनात्मक सोच बढ़ती है।",
@@ -234,6 +318,12 @@
    "बोधात्मक (प्रत्यक्षज्ञानात्मक) परिवर्तिता नियम",
    "गणितीय परिवर्तिता नियम"
   ],
+  "options_en": [
+   "Dynamic Principle",
+   "Iconic Mode",
+   "Perceptual Variability Principle",
+   "Mathematical Variability Principle"
+  ],
   "answer": 2,
   "exp_hi": "विविध प्रकार की ठोस सामग्री का प्रयोग डायनेस के बोधात्मक (प्रत्यक्षज्ञानात्मक) परिवर्तिता नियम को दर्शाता है।",
   "source": "CTET Paper 1 Feb 2026, Q31",
@@ -250,6 +340,12 @@
    "50 को 10 बराबर समूहों में विभाजित कीजिए।",
    "एक पैकेट में 10 बिस्कुट हैं। ऐसे पाँच पैकेटों में कितने बिस्कुट होंगे ?"
   ],
+  "options_en": [
+   "There are 60 toffees in a packet and Samir would like to distribute it to his friends. How many toffees each friend will get ?",
+   "There are 30 students in a class. Teacher wants to form 5 groups of same size. How many students will be there in each group ?",
+   "Divide 50 into 10 equal groups.",
+   "There are 10 biscuits in a packet. How many biscuits will be there in 5 such packets ?"
+  ],
   "answer": 1,
   "exp_hi": "30 विद्यार्थियों के 5 बराबर समूह बनाना ‘भाग को समभागी संरचना’ (बराबर बँटवारा) का उदाहरण है।",
   "source": "CTET Paper 1 Feb 2026, Q34",
@@ -261,6 +357,12 @@
   "q_hi": "निम्न में से कौन सी भिन्न अवरोही क्रम में हैं?",
   "q_en": "Which of the following fractions are in descending order ?",
   "options": [
+   "3/7, 5/9, 8/11, 4/5",
+   "8/11, 5/9, 4/5, 3/7",
+   "4/5, 8/11, 5/9, 3/7",
+   "3/7, 4/5, 5/9, 8/11"
+  ],
+  "options_en": [
    "3/7, 5/9, 8/11, 4/5",
    "8/11, 5/9, 4/5, 3/7",
    "4/5, 8/11, 5/9, 3/7",
@@ -282,6 +384,12 @@
    "S",
    "V"
   ],
+  "options_en": [
+   "O",
+   "X",
+   "S",
+   "V"
+  ],
   "answer": 3,
   "exp_hi": "अक्षर V की केवल एक (ऊर्ध्वाधर) सममित रेखा होती है; O और X की दो, S की कोई नहीं।",
   "source": "CTET Paper 1 Feb 2026, Q40",
@@ -298,6 +406,12 @@
    "3 फलक और 4 किनारे होते हैं।",
    "4 फलक और 4 किनारे होते हैं।"
   ],
+  "options_en": [
+   "4 faces and 6 edges.",
+   "3 faces and 6 edges.",
+   "3 faces and 4 edges.",
+   "4 faces and 4 edges."
+  ],
   "answer": 0,
   "exp_hi": "त्रिभुजाकार पिरामिड (चतुष्फलक) में 4 फलक और 6 किनारे होते हैं।",
   "source": "CTET Paper 1 Feb 2026, Q42",
@@ -309,6 +423,12 @@
   "q_hi": "अंकों 8, 2, 7, 0 और 6 के उपयोग से पाँच अंकों की बनाई जा सकने वाली सबसे बड़ी और सबसे छोटी संख्याओं का अंतर है :",
   "q_en": "The difference between the greatest and smallest five digit numbers that can be formed using the digits 8, 2, 7, 0 and 6 only once is :",
   "options": [
+   "65942",
+   "66942",
+   "67942",
+   "56942"
+  ],
+  "options_en": [
    "65942",
    "66942",
    "67942",
@@ -330,6 +450,12 @@
    "(b) और (c) सही हैं परन्तु (a) और (d) गलत हैं।",
    "(a), (b), (c) सही हैं परन्तु (d) गलत है।"
   ],
+  "options_en": [
+   "(a), (b) are true but (c), (d) are false.",
+   "(a), (b) and (d) are true but (c) is false.",
+   "(b) and (c) are true but (a) and (d) are false.",
+   "(a), (b), (c) are true but (d) is false ."
+  ],
   "answer": 1,
   "exp_hi": "तालिका से लड़के = लड़कियाँ = 20, काली आँखें सबसे अधिक (21), नीली कुल 12 (सम), भूरी कुल 7 (विषम) — अतः (a), (b), (d) सही हैं।",
   "source": "CTET Paper 1 Feb 2026, Q46",
@@ -341,6 +467,12 @@
   "q_hi": "निपुण भारत मिशन के अनुसार राज्य __________ वर्ष के अन्त तक ग्रेड III तक मूलभूत अंकज्ञान प्राप्त करना सुनिश्चित करेंगे।",
   "q_en": "According to NIPUN Bharat Mission, the states will ensure to achieve foundational numeracy till grade III by the end of the year :",
   "options": [
+   "2027-28",
+   "2024-25",
+   "2029-30",
+   "2026-27"
+  ],
+  "options_en": [
    "2027-28",
    "2024-25",
    "2029-30",
@@ -362,6 +494,12 @@
    "6.24 am",
    "6.44 am"
   ],
+  "options_en": [
+   "6.00 am",
+   "6.22 am",
+   "6.24 am",
+   "6.44 am"
+  ],
   "answer": 1,
   "exp_hi": "कुल यात्रा समय 4 घंटे 44 मिनट + 3 घंटे 24 मिनट = 8 घंटे 8 मिनट; दोपहर 2:30 से पीछे गिनने पर प्रस्थान सुबह 6:22 बजे हुआ।",
   "source": "CTET Paper 1 Feb 2026, Q48",
@@ -377,6 +515,12 @@
    "विद्यार्थियों को एक कैलेण्डर पर अपनी जन्म तिथि को चिह्नित करने के लिए कहना।",
    "विद्यार्थियों को अपने पसंदीदा कार्टून का नाम लिखने के लिए कहना।",
    "यह आँकड़े एकत्रित करना कि विद्यार्थी स्कूल कैसे जाते हैं और फिर विद्यार्थियों द्वारा इस्तेमाल किए जाने वाले यातायात के विभिन्न साधनों की तुलना करना।"
+  ],
+  "options_en": [
+   "Asking the pupils to list their favourite food.",
+   "Asking the pupils to mark their birth dates on a calendar.",
+   "Asking the pupils to write the names of their favourite cartoons.",
+   "Collecting data about how pupils travel to school and then comparing the different modes of transport used by the pupils."
   ],
   "answer": 3,
   "exp_hi": "स्कूल आने के साधनों के आँकड़े एकत्रित, संगठित, निरूपित और तुलना करना आँकड़ा-प्रबंधन के चारों स्तरों को दर्शाता है।",
@@ -394,6 +538,12 @@
    "स्तर 0 (दृश्यीकरण)",
    "स्तर 3 (निगमन)"
   ],
+  "options_en": [
+   "Level 2 (Relationship)",
+   "Level 1 (Analysis)",
+   "Level 0 (Visualisation)",
+   "Level 3 (Deduction)"
+  ],
   "answer": 0,
   "exp_hi": "काग़ज़ मोड़कर वर्ग बनाना वैन हीले के स्तर 2 (संबंधों की समझ) को दर्शाता है।",
   "source": "CTET Paper 1 Feb 2026, Q52",
@@ -410,6 +560,12 @@
    "(c) और (d)",
    "(b), (c) और (d)"
   ],
+  "options_en": [
+   "only (a)",
+   "only (d)",
+   "(c) and (d)",
+   "(b), (c) and (d)"
+  ],
   "answer": 3,
   "exp_hi": "समस्या-समाधान विधि में (b), (c) और (d) चरण शामिल हैं; तैयार चरण निर्देश देना इसका हिस्सा नहीं है।",
   "source": "CTET Paper 1 Feb 2026, Q54",
@@ -421,6 +577,12 @@
   "q_hi": "एक आयत का परिमाप 410 m है और इसकी लंबाई 123 m है। आयत की चौड़ाई (m में) है :",
   "q_en": "The perimeter of a rectangle is 410 m and its length is 123 m. The breadth of the rectangle (in m) is :",
   "options": [
+   "82",
+   "86",
+   "88",
+   "92"
+  ],
+  "options_en": [
    "82",
    "86",
    "88",
@@ -442,6 +604,12 @@
    "4",
    "7"
   ],
+  "options_en": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
   "answer": 0,
   "exp_hi": "1 से 50 के बीच जुड़वाँ अभाज्य युग्म 6 हैं — (3,5), (5,7), (11,13), (17,19), (29,31), (41,43)।",
   "source": "CTET Paper 1 Feb 2026, Q58",
@@ -457,6 +625,12 @@
    "वे बार-बार हो सकती हैं यदि उनकी पहचान न की जाए।",
    "उनका वर्णन किया जा सकता है परन्तु विश्लेषण नहीं किया जा सकता।",
    "वे दोहराई जा सकती हैं।"
+  ],
+  "options_en": [
+   "They can be determined by a diagnostic test.",
+   "They can be persistent if not identified.",
+   "They can be described but cannot be analysed.",
+   "They can be repeated."
   ],
   "answer": 2,
   "exp_hi": "‘वर्णन किया जा सकता है परन्तु विश्लेषण नहीं किया जा सकता’ — त्रुटियों के बारे में यह कथन सबसे कम उपयुक्त है।",
@@ -474,6 +648,12 @@
    "स्थानीय संदर्भ का चयन पर्यावरण अध्ययन की पाठ्यपुस्तकों से होना चाहिए।",
    "स्थानीय संदर्भ का चयन एक शिक्षक की सुविधा अनुसार हो।"
   ],
+  "options_en": [
+   "The selection of local context should be in line with the discipline of the school.",
+   "The selection of the local context should be pedagogically imaginative and ethically correct.",
+   "Selection of local context should be from the textbooks of Environmental Studies.",
+   "Local context should be selected according to the convenience of a teacher."
+  ],
   "answer": 1,
   "exp_hi": "स्थानीय संदर्भ का चयन शिक्षाशास्त्रीय दृष्टि से कल्पनाशील और नैतिक दृष्टि से सही होना चाहिए।",
   "source": "CTET Paper 1 Feb 2026, Q62",
@@ -489,6 +669,12 @@
    "(B), (C) और (D)",
    "(A), (C) और (D)",
    "(A), (B) और (C)"
+  ],
+  "options_en": [
+   "(A), (B) and (D)",
+   "(B), (C) and (D)",
+   "(A), (C) and (D)",
+   "(A), (B) and (C)"
   ],
   "answer": 0,
   "exp_hi": "वास्तविक लोग बच्चों से जुड़ाव, चर्चा का आधार और प्रेरणा देते हैं; (C) कथन गलत है, अतः (A), (B) और (D) सही हैं।",
@@ -506,6 +692,12 @@
    "अधिगम कौशल",
    "अभिसारी कौशल"
   ],
+  "options_en": [
+   "Creative expression",
+   "Motor skills",
+   "Learning skills",
+   "Convergent skill"
+  ],
   "answer": 0,
   "exp_hi": "कविताएँ लिखने से मुख्य रूप से रचनात्मक अभिव्यक्ति कौशल का विकास होता है।",
   "source": "CTET Paper 1 Feb 2026, Q66",
@@ -517,6 +709,12 @@
   "q_hi": "किसी बड़े शहर के मानचित्र पर नीचे दिया गया पैमाना दर्शाया गया है : पैमाना 1 cm = 845 m यदि इस मानचित्र पर किन्हीं दो स्थानों के बीच की मापी गयी दूरी 13.7 cm है, तो इन स्थानों के बीच की वास्तविक दूरी है लगभग :",
   "q_en": "On the map of a big city following scale is mentioned. Scale : 1 cm = 845 m If on this map the measured distance between two important locations of the city is 13.7 cm, the actual distance between the two locations is approximately :",
   "options": [
+   "12.90 km",
+   "11.57 km",
+   "11.02 km",
+   "12.50 km"
+  ],
+  "options_en": [
    "12.90 km",
    "11.57 km",
    "11.02 km",
@@ -538,6 +736,12 @@
    "उत्तर-पश्चिम; दक्षिण-पश्चिम",
    "ठीक उत्तर; दक्षिण-पूर्व"
   ],
+  "options_en": [
+   "North-west; South-east",
+   "North-east; South-west",
+   "North-west; South-west",
+   "Due North; South-east"
+  ],
   "answer": 2,
   "exp_hi": "बिहार के सापेक्ष पंजाब उत्तर-पश्चिम में और केरल दक्षिण-पश्चिम में स्थित है।",
   "source": "CTET Paper 1 Feb 2026, Q70",
@@ -553,6 +757,12 @@
    "(A) सही है परन्तु (B) गलत है।",
    "(A) गलत है परन्तु (B) सही है।",
    "(A) और (B) दोनों सही हैं।"
+  ],
+  "options_en": [
+   "(A) and (B) both are wrong",
+   "(A) is correct but (B) is wrong",
+   "(A) is wrong but (B) is correct",
+   "(A) and (B) both are correct"
   ],
   "answer": 0,
   "exp_hi": "स्लॉथ दिन में लगभग 17 घंटे सोता है और लगभग 40 वर्ष जीता है, अतः दोनों कथन गलत हैं।",
@@ -570,6 +780,12 @@
    "कलचिड़ी (इंडियन रोबिन)",
    "भारतीय मोर"
   ],
+  "options_en": [
+   "Crow",
+   "Woodpecker",
+   "Indian Robin",
+   "Indian Peafowl"
+  ],
   "answer": 2,
   "exp_hi": "पत्थरों के बीच अण्डे देने और मुलायम घोंसला बनाने वाला पक्षी कलचिड़ी (इंडियन रोबिन) है।",
   "source": "CTET Paper 1 Feb 2026, Q74",
@@ -581,6 +797,12 @@
   "q_hi": "भारत की राजधानी (नई दिल्ली) और बिहार की राजधानी (पटना) के बीच की दूरी 792 किलोमीटर है। यदि कोई एक्सप्रेस बस इस दूरी को 11 घंटे में तय कर लेती है तो उस बस की मीटर प्रति सेकण्ड में औसत चाल क्या है ?",
   "q_en": "The distance between the capital of India (New Delhi) and the capital of Bihar (Patna) is 792 km. If an express bus covers this distance in 11 hours, the average speed of the bus in metre per second is :",
   "options": [
+   "20 m/s",
+   "36 m/s",
+   "72 m/s",
+   "15 m/s"
+  ],
+  "options_en": [
    "20 m/s",
    "36 m/s",
    "72 m/s",
@@ -602,6 +824,12 @@
    "(a)-(i), (b)-(ii), (c)-(v), (d)-(iv), (e)-(vi), (f)-(iii)",
    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv), (e)-(v), (f)-(vi)"
   ],
+  "options_en": [
+   "(a)-(ii), (b)-(i), (c)-(v), (d)-(vi), (e)-(iv), (f)-(iii)",
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv), (e)-(vi), (f)-(v)",
+   "(a)-(i), (b)-(ii), (c)-(v), (d)-(iv), (e)-(vi), (f)-(iii)",
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv), (e)-(v), (f)-(vi)"
+  ],
   "answer": 0,
   "exp_hi": "मलयालम–केरल, कोंकणी–गोआ, मराठी–महाराष्ट्र, गुजराती–गुजरात, कन्नड़–कर्नाटक, कुडुक–झारखंड — यही सही सुमेलन है।",
   "source": "CTET Paper 1 Feb 2026, Q78",
@@ -617,6 +845,12 @@
    "(A) और (D)",
    "(A), (C) और (D)",
    "(A), (B) और (C)"
+  ],
+  "options_en": [
+   "(B), (C) and (D)",
+   "(A) and (D)",
+   "(A), (C) and (D)",
+   "(A), (B) and (C)"
   ],
   "answer": 2,
   "exp_hi": "पर्यावरण अध्ययन बाल केंद्रित है, बच्चों को पर्यावरण का अनुभव करवाता है और सकारात्मक अभिवृत्ति व मूल्य विकसित करता है — (A), (C), (D) सही हैं।",
@@ -634,6 +868,12 @@
    "सूचना से समझ",
    "स्थानीय से वैश्विक"
   ],
+  "options_en": [
+   "Unknown to Known",
+   "Global to Local",
+   "Information to Understanding",
+   "Local to Global"
+  ],
   "answer": 3,
   "exp_hi": "अपने परिवेश से सीखने को कक्षा से जोड़ना ‘स्थानीय से वैश्विक’ सिद्धांत को इंगित करता है।",
   "source": "CTET Paper 1 Feb 2026, Q82",
@@ -649,6 +889,12 @@
    "सीखने के प्रतिफल",
    "सीखने के प्रतिफल और दक्षता",
    "सीखने के विशिष्ट उद्देश्य"
+  ],
+  "options_en": [
+   "Learning Objectives",
+   "Learning Outcomes",
+   "Learning Outcomes and Competencies",
+   "Specific Learning Objectives"
   ],
   "answer": 2,
   "exp_hi": "जिला/राज्य/राष्ट्रीय स्तर पर सीखने के प्रतिफल और दक्षता ही आकलन के मानदंड हैं जो गुणवत्ता सुनिश्चित करते हैं।",
@@ -666,6 +912,12 @@
    "(A) गलत है लेकिन (R) सही है।",
    "दोनों (A) एवं (R) सही हैं और (R), (A) का सही स्पष्टीकरण है।"
   ],
+  "options_en": [
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "(A) is false but (R) is true.",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)."
+  ],
   "answer": 0,
   "exp_hi": "केंद्रक कोशिका के केंद्र में स्थित गोलाकार संरचना है; परंतु वह कोशिका द्रव्य से घिरा होता है — यह (A) की व्याख्या नहीं, अलग तथ्य है।",
   "source": "CTET Paper 1 Feb 2026, Q86",
@@ -681,6 +933,12 @@
    "(A) सही है किन्तु (R) गलत है।",
    "(A) गलत है किन्तु (R) सही है।",
    "दोनों (A) एवं (R) सही हैं तथा (R), (A) की सही व्याख्या है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "(A) is false but (R) is true.",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)."
   ],
   "answer": 1,
   "exp_hi": "अभिकथन सही है, पर कारण गलत है — काम करने वाली मधुमक्खियाँ मादा होती हैं, नर मक्खियाँ काम नहीं करतीं।",
@@ -698,6 +956,12 @@
    "कथन असत्य है लेकिन कारण सत्य है।",
    "कथन और कारण दोनों सही हैं और कारण, कथन की सही व्याख्या है।"
   ],
+  "options_en": [
+   "Both Assertion and Reason are correct but Reason is not the correct explanation of Assertion.",
+   "Assertion is true but Reason is false.",
+   "Assertion is false but Reason is true.",
+   "Both Assertion and Reason are correct and Reason is the correct explanation of Assertion."
+  ],
   "answer": 3,
   "exp_hi": "बच्चे की स्थानीय वस्तुएँ अधिगम का स्वाभाविक स्रोत हैं और कारण, कथन की सही व्याख्या है।",
   "source": "CTET Paper 1 Feb 2026, Q90",
@@ -713,6 +977,12 @@
    "मलिन उद्देश्य के साथ किए जाते हैं",
    "दिखावे के लिए किए जाते हैं",
    "लोभ व लालच के लिए किए जाते हैं"
+  ],
+  "options_en": [
+   "they are done with clean hands",
+   "they are done with a tainted motive",
+   "they are done for show",
+   "they are done out of greed and temptation"
   ],
   "answer": 2,
   "exp_hi": "भगवान बुद्ध के अनुसार दिखावे और घमंड से किए गए कार्य मलिन हो जाते हैं।",
@@ -730,6 +1000,12 @@
    "कोई भी किसी को सर्वश्रेष्ठ समझ सकता है",
    "कोई भी स्वयं को सर्वश्रेष्ठ समझ सकता है"
   ],
+  "options_en": [
+   "anyone can consider himself special",
+   "no one can consider himself the best",
+   "anyone can consider someone else the best",
+   "anyone can consider himself the best"
+  ],
   "answer": 1,
   "exp_hi": "सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी स्वयं को सर्वश्रेष्ठ नहीं समझ सकता।",
   "source": "CTET Paper 1 Feb 2026, Q94",
@@ -741,6 +1017,12 @@
   "q_hi": "गद्यांश : अहंकार में इंसान के चरित्र को पतन की ओर ले जाने वाली प्रवृत्तियाँ हैं। प्रत्येक व्यक्ति को अहं भाव का त्याग कर समभाव और सद्भाव से जीवन जीने का प्रयत्न करना चाहिए। अगर कोई अपने आपको सर्वश्रेष्ठ मानता है तो यह उसकी सबसे बड़ी भूल है क्योंकि दुनिया में हर किसी से बड़ा कोई न कोई अवश्य होता है। सृष्टि के निर्माता ने ऐसा चक्र बनाया है कि कोई भी अपने आप को दुनिया में सर्वश्रेष्ठ नहीं समझ सकता। अगर समझता है तो यह उसकी सबसे बड़ी भूल है। भगवान बुद्ध के अनुसार दिखावा और घमंड अच्छे प्रयोजन से किए गए कार्यों को भी मलिन कर देते हैं। इसकी वजह से हमारा मान-सम्मान कम हो जाता है। अगर मन को शांत रखना है तो घमंड से बचना चाहिए। प्रश्न : सद्भाव का संधि विच्छेद है __________ ।",
   "q_en": "The sandhi-vicched (split) of 'सद्भाव' is __________.",
   "options": [
+   "सत् + भाव",
+   "सद् + भाव",
+   "सदु + भाव",
+   "सु + भाव"
+  ],
+  "options_en": [
    "सत् + भाव",
    "सद् + भाव",
    "सदु + भाव",
@@ -762,6 +1044,12 @@
    "आलस्य",
    "घमंड"
   ],
+  "options_en": [
+   "bad habits",
+   "mistake",
+   "laziness",
+   "pride"
+  ],
   "answer": 3,
   "exp_hi": "गद्यांश के अनुसार अहंकार/घमंड मनुष्य के पतन का कारण है।",
   "source": "CTET Paper 1 Feb 2026, Q98",
@@ -778,6 +1066,12 @@
    "अविश्वसनीय है",
    "असंभव है"
   ],
+  "options_en": [
+   "is difficult",
+   "is easy",
+   "is unbelievable",
+   "is impossible"
+  ],
   "answer": 0,
   "exp_hi": "कविता के अनुसार जीवन में कुछ प्राप्त करना कठिन है — ‘तय कर लेना कुछ खेल नहीं’।",
   "source": "CTET Paper 1 Feb 2026, Q100",
@@ -793,6 +1087,12 @@
    "खेल दिखाने वाले को",
    "साथ चलने वाले को",
    "प्रेरणा देने वाले को"
+  ],
+  "options_en": [
+   "to the one who gave affection",
+   "to the one who showed tricks",
+   "to the one who walked alongside",
+   "to the one who gave inspiration"
   ],
   "answer": 0,
   "exp_hi": "कवि उन राहीयों को धन्यवाद देता है जिनसे पथ पर स्नेह मिला, अर्थात स्नेह देने वालों को।",
