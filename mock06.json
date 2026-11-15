@@ -1,0 +1,556 @@
+{
+  "mock_no": 6,
+  "questions": [
+    {
+      "answer": "A",
+      "explanation": "तृतीय नियम है — प्रत्येक पुस्तक को उसका पाठक मिले। इसका आशय है कि पुस्तकालय की हर पुस्तक के लिए उपयुक्त पाठक खोजा जाए, जिसके लिए मुक्त अभिगम, अच्छा वर्गीकरण तथा विस्तार सेवाएँ आवश्यक हैं।",
+      "options": {
+        "A": "प्रत्येक पुस्तक को उसका पाठक मिले / Every book its reader",
+        "B": "प्रत्येक पाठक को उसकी पुस्तक मिले / Every reader his/her book",
+        "C": "पाठक का समय बचाओ / Save the time of the reader",
+        "D": "पुस्तकालय एक वर्धमान जीव है / Library is a growing organism"
+      },
+      "q": "पुस्तकालय विज्ञान का तृतीय नियम (Third Law) क्या है? / What is the Third Law of Library Science?"
+    },
+    {
+      "answer": "B",
+      "explanation": "चतुर्थ नियम है — पाठक का समय बचाओ। इसके अनुसार पुस्तकालय की सभी व्यवस्थाएँ, जैसे सूची, शेल्फ व्यवस्था तथा कर्मचारी सहायता, ऐसी होनी चाहिए कि पाठक का समय व्यर्थ न जाए।",
+      "options": {
+        "A": "पुस्तकें उपयोग के लिए हैं / Books are for use",
+        "B": "पाठक का समय बचाओ / Save the time of the reader",
+        "C": "प्रत्येक पुस्तक को उसका पाठक मिले / Every book its reader",
+        "D": "प्रत्येक पाठक को उसकी पुस्तक मिले / Every reader his/her book"
+      },
+      "q": "पुस्तकालय विज्ञान का चतुर्थ नियम (Fourth Law) क्या है? / What is the Fourth Law of Library Science?"
+    },
+    {
+      "answer": "C",
+      "explanation": "यह पुस्तक 1931 में मद्रास पुस्तकालय संघ द्वारा प्रकाशित हुई थी। इसमें रंगनाथन ने पुस्तकालय सेवा के पाँच आधारभूत नियम प्रतिपादित किए, जो आज भी पुस्तकालय विज्ञान की नींव माने जाते हैं।",
+      "options": {
+        "A": "1928 / 1928",
+        "B": "1933 / 1933",
+        "C": "1931 / 1931",
+        "D": "1951 / 1951"
+      },
+      "q": "रंगनाथन की पुस्तक 'पुस्तकालय विज्ञान के पाँच नियम' (The Five Laws of Library Science) सर्वप्रथम किस वर्ष प्रकाशित हुई थी? / In which year was Ranganathan's book 'The Five Laws of Library Science' first published?"
+    },
+    {
+      "answer": "D",
+      "explanation": "भारत में प्रतिवर्ष 12 अगस्त को पुस्तकालयाध्यक्ष दिवस मनाया जाता है। यह दिन डॉ. एस. आर. रंगनाथन के जन्मदिवस के उपलक्ष्य में मनाया जाता है, जिन्हें भारत में पुस्तकालय विज्ञान का जनक माना जाता है।",
+      "options": {
+        "A": "14 नवंबर / 14 November",
+        "B": "23 अप्रैल / 23 April",
+        "C": "1 सितंबर / 1 September",
+        "D": "12 अगस्त / 12 August"
+      },
+      "q": "भारत में राष्ट्रीय पुस्तकालयाध्यक्ष दिवस (National Librarians' Day) किस तिथि को मनाया जाता है? / On which date is National Librarians' Day celebrated in India?"
+    },
+    {
+      "answer": "B",
+      "explanation": "मेल्विल डेवी ने 1887 में कोलंबिया विश्वविद्यालय में विश्व का प्रथम पुस्तकालय विद्यालय स्थापित किया था। इसका नाम स्कूल ऑफ लाइब्रेरी इकोनॉमी रखा गया था।",
+      "options": {
+        "A": "हार्वर्ड विश्वविद्यालय / Harvard University",
+        "B": "कोलंबिया विश्वविद्यालय / Columbia University",
+        "C": "ऑक्सफोर्ड विश्वविद्यालय / Oxford University",
+        "D": "शिकागो विश्वविद्यालय / University of Chicago"
+      },
+      "q": "विश्व का प्रथम पुस्तकालय विद्यालय (School of Library Economy) किस विश्वविद्यालय में स्थापित हुआ था? / At which university was the world's first library school (School of Library Economy) established?"
+    },
+    {
+      "answer": "A",
+      "explanation": "लाइब्रेरी जर्नल की स्थापना 1876 में मेल्विल डेवी ने की थी। यह पुस्तकालय विज्ञान की सबसे पुरानी तथा प्रतिष्ठित पत्रिकाओं में से एक है।",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+        "C": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "D": "विलियम वार्नर बिशप / William Warner Bishop"
+      },
+      "q": "'Library Journal' पत्रिका के संस्थापक कौन थे? / Who was the founder of the 'Library Journal'?"
+    },
+    {
+      "answer": "C",
+      "explanation": "बेल्जियम के पॉल ऑटलेट को प्रलेखन शब्द के प्रयोग तथा प्रलेखन आंदोलन का जनक माना जाता है। उन्होंने हेनरी ला फॉन्टेन के साथ मिलकर ग्रंथसूची तथा प्रलेखन के क्षेत्र में अग्रणी कार्य किया।",
+      "options": {
+        "A": "एस. सी. ब्रैडफोर्ड / S. C. Bradford",
+        "B": "मेल्विल डेवी / Melvil Dewey",
+        "C": "पॉल ऑटलेट / Paul Otlet",
+        "D": "यूजीन गारफील्ड / Eugene Garfield"
+      },
+      "q": "'प्रलेखन' (Documentation) शब्द के प्रयोग का श्रेय किसे दिया जाता है? / Who is credited with coining the term 'Documentation'?"
+    },
+    {
+      "answer": "D",
+      "explanation": "बी. एस. केशवन 1948 में राष्ट्रीय पुस्तकालय के प्रथम भारतीय पुस्तकालयाध्यक्ष बने। उनके कार्यकाल में पुस्तकालय का आधुनिकीकरण हुआ तथा भारतीय राष्ट्रीय ग्रंथसूची की योजना को गति मिली।",
+      "options": {
+        "A": "हरिनाथ डे / Harinath De",
+        "B": "के. एम. असदुल्ला / K. M. Asadullah",
+        "C": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "D": "बी. एस. केशवन / B. S. Kesavan"
+      },
+      "q": "राष्ट्रीय पुस्तकालय, कोलकाता के प्रथम भारतीय पुस्तकालयाध्यक्ष कौन थे? / Who was the first Indian Librarian of the National Library, Kolkata?"
+    },
+    {
+      "answer": "B",
+      "explanation": "आंध्र प्रदेश सार्वजनिक पुस्तकालय अधिनियम 1960 में पारित हुआ। इससे पूर्व यह क्षेत्र मद्रास अधिनियम तथा हैदराबाद अधिनियम के अलग-अलग प्रावधानों के अंतर्गत आता था।",
+      "options": {
+        "A": "1948 / 1948",
+        "B": "1960 / 1960",
+        "C": "1965 / 1965",
+        "D": "1989 / 1989"
+      },
+      "q": "आंध्र प्रदेश सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Andhra Pradesh Public Libraries Act passed?"
+    },
+    {
+      "answer": "A",
+      "explanation": "गुजरात सार्वजनिक पुस्तकालय अधिनियम 2001 में पारित हुआ। इसके अंतर्गत राज्य में सार्वजनिक पुस्तकालयों के व्यवस्थित विकास हेतु राज्य पुस्तकालय विकास परिषद का प्रावधान किया गया।",
+      "options": {
+        "A": "2001 / 2001",
+        "B": "1967 / 1967",
+        "C": "1989 / 1989",
+        "D": "2011 / 2011"
+      },
+      "q": "गुजरात सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Gujarat Public Libraries Act passed?"
+    },
+    {
+      "answer": "C",
+      "explanation": "मद्रास सार्वजनिक पुस्तकालय अधिनियम 1948 के अंतर्गत संपत्ति कर तथा गृह कर पर अधिभार के रूप में पुस्तकालय उपकर लगाने का प्रावधान किया गया था। यह भारत में पुस्तकालय वित्त की स्थायी व्यवस्था का प्रथम प्रयास था।",
+      "options": {
+        "A": "कर्नाटक / Karnataka",
+        "B": "महाराष्ट्र / Maharashtra",
+        "C": "तमिलनाडु (मद्रास) / Tamil Nadu (Madras)",
+        "D": "पश्चिम बंगाल / West Bengal"
+      },
+      "q": "भारत में पुस्तकालय उपकर (Library Cess) सर्वप्रथम किस राज्य के पुस्तकालय अधिनियम द्वारा लगाया गया था? / The Library Cess in India was first levied under the library act of which state?"
+    },
+    {
+      "answer": "D",
+      "explanation": "इस योजना के अंतर्गत देश के सभी सरकारी उच्च शिक्षा तथा शोध संस्थानों के छात्रों व शोधकर्ताओं को एक ही मंच से प्रमुख अंतरराष्ट्रीय शोध पत्रिकाओं तक पहुँच दी जाती है। यह योजना 2025 से प्रारंभ हुई।",
+      "options": {
+        "A": "सार्वजनिक पुस्तकालयों के निर्माण से / Construction of public libraries",
+        "B": "पुस्तकों के निःशुल्क वितरण से / Free distribution of books",
+        "C": "पुस्तकालय कर्मचारियों के प्रशिक्षण से / Training of library staff",
+        "D": "देशभर के शोधकर्ताओं को अंतरराष्ट्रीय शोध पत्रिकाओं की एकल मंच से पहुँच से / Nationwide access to international research journals through a single platform"
+      },
+      "q": "'One Nation One Subscription' (ONOS) योजना का संबंध किससे है? / The 'One Nation One Subscription' (ONOS) scheme is related to:"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारत में प्रकाशकों को ISBN आवंटित करने का कार्य राजा राममोहन राय राष्ट्रीय ISBN एजेंसी करती है, जिसका कार्यालय कोलकाता में है। यह उच्च शिक्षा विभाग के अंतर्गत कार्य करती है।",
+      "options": {
+        "A": "राजा राममोहन राय राष्ट्रीय ISBN एजेंसी / Raja Rammohun Roy National Agency for ISBN",
+        "B": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata",
+        "C": "भारतीय राष्ट्रीय ग्रंथसूची कार्यालय / Indian National Bibliography Office",
+        "D": "साहित्य अकादेमी / Sahitya Akademi"
+      },
+      "q": "भारत में ISBN आवंटन हेतु राष्ट्रीय एजेंसी कौन-सी है? / Which is the national agency for ISBN allotment in India?"
+    },
+    {
+      "answer": "B",
+      "explanation": "विश्व बौद्धिक संपदा संगठन की स्थापना 1967 में स्टॉकहोम सम्मेलन द्वारा हुई थी। यह 1970 से कार्यरत हुआ और बाद में संयुक्त राष्ट्र की विशिष्ट एजेंसी बन गया।",
+      "options": {
+        "A": "1886 / 1886",
+        "B": "1967 / 1967",
+        "C": "1945 / 1945",
+        "D": "1995 / 1995"
+      },
+      "q": "विश्व बौद्धिक संपदा संगठन (WIPO) की स्थापना किस वर्ष हुई थी? / In which year was the World Intellectual Property Organization (WIPO) established?"
+    },
+    {
+      "answer": "C",
+      "explanation": "बर्न सम्मेलन 1886 में स्विट्ज़रलैंड के बर्न नगर में हुआ था। यह कॉपीराइट संरक्षण का प्रथम प्रमुख अंतरराष्ट्रीय समझौता माना जाता है, जिसमें सदस्य देशों के रचनाकारों को परस्पर संरक्षण देने का सिद्धांत रखा गया।",
+      "options": {
+        "A": "1967 / 1967",
+        "B": "1952 / 1952",
+        "C": "1886 / 1886",
+        "D": "1914 / 1914"
+      },
+      "q": "साहित्यिक तथा कलात्मक कृतियों के संरक्षण हेतु बर्न सम्मेलन (Berne Convention) किस वर्ष हुआ था? / In which year was the Berne Convention for the protection of literary and artistic works held?"
+    },
+    {
+      "answer": "D",
+      "explanation": "भारतीय कॉपीराइट अधिनियम के अनुसार साहित्यिक, नाट्य, संगीत तथा कलात्मक कृतियों पर कॉपीराइट लेखक के जीवनकाल तथा उसकी मृत्यु के बाद 60 वर्ष तक रहता है। यह अवधि मृत्यु के अगले कैलेंडर वर्ष से गिनी जाती है।",
+      "options": {
+        "A": "लेखक के जीवनकाल तक / Till the life of the author",
+        "B": "प्रकाशन के 25 वर्ष / 25 years from publication",
+        "C": "लेखक की मृत्यु के बाद 50 वर्ष / 50 years after the death of the author",
+        "D": "लेखक की मृत्यु के बाद 60 वर्ष / 60 years after the death of the author"
+      },
+      "q": "भारत में किसी साहित्यिक कृति पर कॉपीराइट की अवधि कितनी होती है? / What is the term of copyright for a literary work in India?"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारतीय पेटेंट अधिनियम के अनुसार पेटेंट की अवधि आवेदन दाखिल करने की तिथि से 20 वर्ष होती है। इस अवधि में आविष्कारक को अपने आविष्कार के उपयोग का एकाधिकार प्राप्त रहता है।",
+      "options": {
+        "A": "20 वर्ष / 20 years",
+        "B": "10 वर्ष / 10 years",
+        "C": "14 वर्ष / 14 years",
+        "D": "7 वर्ष / 7 years"
+      },
+      "q": "भारत में पेटेंट की अवधि आवेदन की तिथि से कितनी होती है? / What is the term of a patent in India from the date of filing?"
+    },
+    {
+      "answer": "B",
+      "explanation": "डेवी दशमलव वर्गीकरण की तालिका 6 में विश्व की भाषाओं की संख्याएँ दी गई हैं। इनका प्रयोग भाषा, साहित्य तथा भाषाविज्ञान संबंधी वर्ग संख्याएँ बनाते समय किया जाता है।",
+      "options": {
+        "A": "भौगोलिक क्षेत्र / Geographic Areas",
+        "B": "भाषाएँ / Languages",
+        "C": "साहित्य के रूप / Literary Forms",
+        "D": "व्यक्तियों के समूह / Groups of Persons"
+      },
+      "q": "DDC की तालिका 6 (Table 6) किससे संबंधित है? / DDC Table 6 is related to:"
+    },
+    {
+      "answer": "C",
+      "explanation": "डेवी दशमलव वर्गीकरण में 900 इतिहास तथा भूगोल का वर्ग है। इसमें सामान्य इतिहास, विभिन्न देशों का इतिहास, भूगोल तथा यात्रा-वर्णन सम्मिलित हैं।",
+      "options": {
+        "A": "साहित्य / Literature",
+        "B": "कला / Arts",
+        "C": "इतिहास तथा भूगोल / History and Geography",
+        "D": "भाषा / Language"
+      },
+      "q": "DDC में मुख्य वर्ग 900 किस विषय को दर्शाता है? / In DDC, Main Class 900 represents which subject?"
+    },
+    {
+      "answer": "D",
+      "explanation": "द्विबिंदु वर्गीकरण में मुख्य वर्ग वी इतिहास को दर्शाता है। इसी प्रकार मुख्य वर्ग डब्ल्यू राजनीति विज्ञान तथा मुख्य वर्ग यू भूगोल के लिए निर्धारित है।",
+      "options": {
+        "A": "राजनीति विज्ञान / Political Science",
+        "B": "भूगोल / Geography",
+        "C": "शिक्षा / Education",
+        "D": "इतिहास / History"
+      },
+      "q": "द्विबिंदु वर्गीकरण में मुख्य वर्ग 'V' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'V' represents which subject?"
+    },
+    {
+      "answer": "A",
+      "explanation": "द्विबिंदु वर्गीकरण में पदार्थ पक्ष को अर्धविराम चिह्न से जोड़ा जाता है। पाँच मूलभूत श्रेणियों में व्यक्तित्व के बाद पदार्थ दूसरा पक्ष है।",
+      "options": {
+        "A": "अर्धविराम (;) / Semicolon (;)",
+        "B": "कोलन (:) / Colon (:)",
+        "C": "अल्पविराम (,) / Comma (,)",
+        "D": "बिंदु (.) / Dot (.)"
+      },
+      "q": "द्विबिंदु वर्गीकरण में Matter (पदार्थ) पक्ष का योजक चिह्न कौन-सा है? / In Colon Classification, the connecting symbol for the Matter facet is:"
+    },
+    {
+      "answer": "B",
+      "explanation": "सार्वभौमिक दशमलव वर्गीकरण में धन चिह्न दो या अधिक अलग-अलग विषयों को जोड़ने अर्थात समन्वय के लिए प्रयुक्त होता है। जबकि दो वर्गों के बीच संबंध दर्शाने के लिए कोलन चिह्न का प्रयोग होता है।",
+      "options": {
+        "A": "दो वर्गों के बीच संबंध दर्शाने के लिए / Showing relation between two classes",
+        "B": "दो या अधिक असंबद्ध विषयों को जोड़ने (समन्वय) के लिए / Coordination (addition) of two or more non-consecutive subjects",
+        "C": "समय दर्शाने के लिए / Indicating time",
+        "D": "स्थान दर्शाने के लिए / Indicating place"
+      },
+      "q": "UDC में '+' (धन) चिह्न का प्रयोग किसके लिए होता है? / In UDC, the '+' (plus) sign is used for:"
+    },
+    {
+      "answer": "C",
+      "explanation": "डेवी दशमलव वर्गीकरण का स्वामित्व तथा प्रकाशन वर्तमान में ओसीएलसी के पास है। इसका ऑनलाइन रूप वेबडेवी के नाम से उपलब्ध है, जिसमें निरंतर संशोधन होते रहते हैं।",
+      "options": {
+        "A": "अमेरिकी पुस्तकालय संघ / American Library Association",
+        "B": "कांग्रेस पुस्तकालय / Library of Congress",
+        "C": "ओसीएलसी (OCLC) / OCLC",
+        "D": "इफ्ला / IFLA"
+      },
+      "q": "वर्तमान में DDC का प्रकाशन तथा रखरखाव किस संस्था द्वारा किया जाता है? / At present, DDC is published and maintained by which organisation?"
+    },
+    {
+      "answer": "D",
+      "explanation": "हर्बर्ट पुटनम कांग्रेस पुस्तकालय के पुस्तकालयाध्यक्ष थे, जिनके निर्देशन में इस वर्गीकरण योजना का विकास हुआ। चार्ल्स मार्टेल ने इसमें मुख्य वर्गीकरणकर्ता के रूप में महत्वपूर्ण भूमिका निभाई।",
+      "options": {
+        "A": "मेल्विल डेवी / Melvil Dewey",
+        "B": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+        "C": "जेम्स हैन्सन / James Hanson",
+        "D": "हर्बर्ट पुटनम / Herbert Putnam"
+      },
+      "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) का विकास मुख्यतः किसके निर्देशन में हुआ था? / The Library of Congress Classification (LCC) was mainly developed under the direction of:"
+    },
+    {
+      "answer": "A",
+      "explanation": "एंथनी पानिज़्ज़ी ने 1841 में ब्रिटिश संग्रहालय की सूची हेतु 91 नियम बनाए थे। इन्हें आधुनिक सूचीकरण नियमों की नींव माना जाता है।",
+      "options": {
+        "A": "एंथनी पानिज़्ज़ी / Anthony Panizzi",
+        "B": "चार्ल्स जेवेट / Charles Jewett",
+        "C": "सीमोर लुबेट्ज़की / Seymour Lubetzky",
+        "D": "चार्ल्स एमी कटर / Charles Ammi Cutter"
+      },
+      "q": "ब्रिटिश संग्रहालय के प्रसिद्ध 91 सूचीकरण नियमों (1841) के जनक कौन थे? / Who was the author of the famous 91 cataloguing rules (1841) of the British Museum?"
+    },
+    {
+      "answer": "B",
+      "explanation": "इस सिद्धांत के अनुसार सूची में शीर्षक का चुनाव इस आधार पर होना चाहिए कि अधिकांश पाठक उसी रूप में खोज करेंगे। इससे पाठक को वांछित प्रविष्टि तक पहुँचने में सुविधा होती है।",
+      "options": {
+        "A": "शीर्षक स्थायी रखने से / Permanence of heading",
+        "B": "शीर्षक का चुनाव पाठकों के संभावित अन्वेषण के अनुसार करने से / Choosing the heading according to the likely approach of readers",
+        "C": "प्रविष्टियों की संख्या घटाने से / Reducing the number of entries",
+        "D": "शीर्षक छोटे रखने से / Keeping headings short"
+      },
+      "q": "सूचीकरण का 'अन्वेषित शीर्षक का सिद्धांत' (Canon of Sought Heading) किससे संबंधित है? / The 'Canon of Sought Heading' in cataloguing is related to:"
+    },
+    {
+      "answer": "C",
+      "explanation": "जब पुस्तकालय नई वर्गीकरण पद्धति अपनाता है तो हाल में अधिक प्रयुक्त पुस्तकों को नई पद्धति से वर्गीकृत व सूचीबद्ध किया जाता है, जबकि शेष संग्रह धीरे-धीरे बदलता है। रंगनाथन ने इसी प्रक्रिया को परासरण सिद्धांत कहा।",
+      "options": {
+        "A": "नई पुस्तकों के चयन से / Selection of new books",
+        "B": "कर्मचारियों के स्थानांतरण से / Transfer of staff",
+        "C": "नई वर्गीकरण पद्धति अपनाने पर पुस्तकों के पुनर्वर्गीकरण तथा पुनःसूचीकरण से / Reclassification and recataloguing of books when a new scheme of classification is adopted",
+        "D": "पुस्तकों की जिल्दबंदी से / Binding of books"
+      },
+      "q": "रंगनाथन का 'परासरण सिद्धांत' (Principle of Osmosis) पुस्तकालय में किस कार्य से संबंधित है? / Ranganathan's 'Principle of Osmosis' in a library is related to which activity?"
+    },
+    {
+      "answer": "D",
+      "explanation": "सी.आई.पी. का पूर्ण रूप कैटालॉगिंग इन पब्लिकेशन है। इसके अंतर्गत पुस्तक के प्रकाशन से पूर्व ही उसका ग्रंथात्मक विवरण तैयार करके पुस्तक के शीर्षक पृष्ठ के पिछले भाग पर छापा जाता है।",
+      "options": {
+        "A": "Catalogue in Print / Catalogue in Print",
+        "B": "Central Information Programme / Central Information Programme",
+        "C": "Computerised Indexing Process / Computerised Indexing Process",
+        "D": "Cataloguing in Publication / Cataloguing in Publication"
+      },
+      "q": "CIP का पूर्ण रूप क्या है? / What is the full form of CIP?"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारत का मूल समूह पहचानकर्ता 81 है, जो ISBN संख्या में देश या भाषा क्षेत्र को दर्शाता है। 978 ISBN का बुकलैंड उपसर्ग है, समूह पहचानकर्ता नहीं।",
+      "options": {
+        "A": "81 / 81",
+        "B": "978 / 978",
+        "C": "0 / 0",
+        "D": "7 / 7"
+      },
+      "q": "भारत को आवंटित मूल ISBN समूह पहचानकर्ता (Group Identifier) कौन-सा है? / What is the original ISBN Group Identifier allotted to India?"
+    },
+    {
+      "answer": "B",
+      "explanation": "मार्क 21 में टैग 300 में दस्तावेज़ का भौतिक विवरण लिखा जाता है, जैसे पृष्ठ संख्या, चित्र तथा आकार। प्रकाशन विवरण हेतु टैग 260 या 264 का प्रयोग होता है।",
+      "options": {
+        "A": "प्रकाशन विवरण / Publication details",
+        "B": "भौतिक विवरण / Physical Description",
+        "C": "विषय प्रविष्टि / Subject entry",
+        "D": "शृंखला कथन / Series statement"
+      },
+      "q": "MARC 21 में टैग 300 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 300 is used for:"
+    },
+    {
+      "answer": "C",
+      "explanation": "टैग 650 में दस्तावेज़ के विषय से संबंधित सामयिक पद लिखे जाते हैं। इसी प्रकार टैग 600 व्यक्तिगत नाम तथा टैग 651 भौगोलिक नाम के विषय शीर्षकों हेतु प्रयुक्त होते हैं।",
+      "options": {
+        "A": "व्यक्तिगत नाम मुख्य प्रविष्टि / Main entry – personal name",
+        "B": "शीर्षक कथन / Title statement",
+        "C": "विषय अतिरिक्त प्रविष्टि — सामयिक पद / Subject Added Entry – Topical Term",
+        "D": "अंतरराष्ट्रीय मानक पुस्तक संख्या / International Standard Book Number"
+      },
+      "q": "MARC 21 में टैग 650 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 650 is used for:"
+    },
+    {
+      "answer": "D",
+      "explanation": "बिबफ्रेम पहल कांग्रेस पुस्तकालय ने मार्क प्रारूप के उत्तराधिकारी के रूप में प्रारंभ की थी। यह जुड़े हुए डेटा (लिंक्ड डेटा) के सिद्धांतों पर आधारित ग्रंथात्मक विवरण का नया प्रतिमान है।",
+      "options": {
+        "A": "इफ्ला / IFLA",
+        "B": "ओसीएलसी / OCLC",
+        "C": "ब्रिटिश लाइब्रेरी / British Library",
+        "D": "कांग्रेस पुस्तकालय / Library of Congress"
+      },
+      "q": "BIBFRAME (ग्रंथात्मक रूपरेखा) पहल किस संस्था द्वारा प्रारंभ की गई थी? / The BIBFRAME (Bibliographic Framework) initiative was started by which institution?"
+    },
+    {
+      "answer": "A",
+      "explanation": "आई.एस.बी.डी. में प्रथम क्षेत्र के बाद प्रत्येक क्षेत्र बिंदु, स्थान, डैश तथा स्थान से प्रारंभ होता है। यह निर्धारित विराम-चिह्न व्यवस्था ग्रंथात्मक विवरण को अंतरराष्ट्रीय स्तर पर एकरूप बनाती है।",
+      "options": {
+        "A": "बिंदु, स्थान, डैश, स्थान (. — ) / Point, space, dash, space (. — )",
+        "B": "अर्धविराम (;) / Semicolon (;)",
+        "C": "कोलन (:) / Colon (:)",
+        "D": "दो बिंदु (..) / Two dots (..)"
+      },
+      "q": "ISBD में प्रथम क्षेत्र को छोड़कर प्रत्येक नया क्षेत्र किस विराम-चिह्न समूह से प्रारंभ होता है? / In ISBD, every area except the first begins with which punctuation?"
+    },
+    {
+      "answer": "B",
+      "explanation": "वर्ल्डकैट ओसीएलसी द्वारा संचालित विश्व का सबसे बड़ा संघ सूचीपत्र है। इसमें विश्वभर के हजारों पुस्तकालयों के संग्रहों का विवरण एक ही स्थान पर खोजा जा सकता है।",
+      "options": {
+        "A": "इफ्ला / IFLA",
+        "B": "ओसीएलसी (OCLC) / OCLC",
+        "C": "कांग्रेस पुस्तकालय / Library of Congress",
+        "D": "यूनेस्को / UNESCO"
+      },
+      "q": "WorldCat किस संस्था का वैश्विक संघ सूचीपत्र है? / WorldCat is the global union catalogue of which organisation?"
+    },
+    {
+      "answer": "C",
+      "explanation": "सूचनात्मक सार में मूल दस्तावेज़ के उद्देश्य, कार्यविधि, परिणाम तथा निष्कर्ष संक्षेप में दिए जाते हैं। यह इतना पूर्ण होता है कि कई स्थितियों में पाठक को मूल दस्तावेज़ पढ़ने की आवश्यकता नहीं पड़ती।",
+      "options": {
+        "A": "यह केवल विषय का संकेत देता है / It only indicates the subject",
+        "B": "इसमें केवल ग्रंथात्मक विवरण होता है / It contains only bibliographic details",
+        "C": "इसमें उद्देश्य, विधि, परिणाम तथा निष्कर्ष दिए जाते हैं और यह मूल दस्तावेज़ का स्थान ले सकता है / It gives purpose, method, results and conclusions and can substitute the original document",
+        "D": "यह मूल दस्तावेज़ से लंबा होता है / It is longer than the original document"
+      },
+      "q": "सूचनात्मक सार (Informative Abstract) की मुख्य विशेषता क्या है? / What is the main characteristic of an Informative Abstract?"
+    },
+    {
+      "answer": "D",
+      "explanation": "संदर्भ साक्षात्कार में संदर्भ पुस्तकालयाध्यक्ष प्रश्नों के माध्यम से पाठक की वास्तविक तथा सटीक सूचना-आवश्यकता को समझता है। यह सफल संदर्भ सेवा का प्रथम तथा महत्वपूर्ण चरण है।",
+      "options": {
+        "A": "पुस्तकालयाध्यक्ष की नौकरी हेतु साक्षात्कार / Interview for the job of a librarian",
+        "B": "पाठकों से शुल्क वसूली की प्रक्रिया / Process of collecting fees from readers",
+        "C": "पुस्तक विक्रेताओं से वार्ता / Discussion with book sellers",
+        "D": "पाठक की वास्तविक सूचना-आवश्यकता जानने हेतु पुस्तकालयाध्यक्ष तथा पाठक के बीच संवाद / A dialogue between the librarian and the user to ascertain the user's actual information need"
+      },
+      "q": "संदर्भ साक्षात्कार (Reference Interview) से क्या अभिप्राय है? / What is meant by a Reference Interview?"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारतीय राष्ट्रीय ग्रंथसूची का संकलन कोलकाता स्थित केंद्रीय संदर्भ पुस्तकालय द्वारा किया जाता है। इसमें पुस्तक वितरण अधिनियम के अंतर्गत प्राप्त पुस्तकों का विवरण प्रकाशित होता है।",
+      "options": {
+        "A": "केंद्रीय संदर्भ पुस्तकालय, कोलकाता / Central Reference Library, Kolkata",
+        "B": "राजा राममोहन राय पुस्तकालय प्रतिष्ठान / Raja Rammohun Roy Library Foundation",
+        "C": "राष्ट्रीय ग्रंथ न्यास / National Book Trust",
+        "D": "दिल्ली सार्वजनिक पुस्तकालय / Delhi Public Library"
+      },
+      "q": "भारतीय राष्ट्रीय ग्रंथसूची (INB) का संकलन तथा प्रकाशन किसके द्वारा किया जाता है? / The Indian National Bibliography (INB) is compiled and published by:"
+    },
+    {
+      "answer": "B",
+      "explanation": "द वर्ल्ड ऑफ लर्निंग में विश्वभर के विश्वविद्यालयों, महाविद्यालयों, शोध संस्थानों, पुस्तकालयों तथा विद्वत संस्थाओं का विवरण मिलता है। यह एक प्रतिष्ठित अंतरराष्ट्रीय निर्देशिका है।",
+      "options": {
+        "A": "विश्वकोश / Encyclopaedia",
+        "B": "विश्व के शैक्षणिक संस्थानों तथा विद्वत संस्थाओं की निर्देशिका / A directory of educational institutions and learned societies of the world",
+        "C": "जीवन-चरित्र कोश / Biographical dictionary",
+        "D": "भौगोलिक कोश / Geographical dictionary"
+      },
+      "q": "'The World of Learning' किस प्रकार का संदर्भ स्रोत है? / 'The World of Learning' is which type of reference source?"
+    },
+    {
+      "answer": "C",
+      "explanation": "भारत: एक संदर्भ वार्षिकी का प्रकाशन भारत सरकार के प्रकाशन विभाग द्वारा किया जाता है। इसमें देश के विभिन्न क्षेत्रों की प्रगति तथा सरकारी योजनाओं की प्रामाणिक जानकारी मिलती है।",
+      "options": {
+        "A": "राष्ट्रीय ग्रंथ न्यास / National Book Trust",
+        "B": "साहित्य अकादेमी / Sahitya Akademi",
+        "C": "प्रकाशन विभाग, सूचना एवं प्रसारण मंत्रालय / Publications Division, Ministry of Information and Broadcasting",
+        "D": "केंद्रीय संदर्भ पुस्तकालय / Central Reference Library"
+      },
+      "q": "'India: A Reference Annual' (भारत: एक संदर्भ वार्षिकी) का प्रकाशक कौन है? / Who publishes 'India: A Reference Annual'?"
+    },
+    {
+      "answer": "D",
+      "explanation": "डी.ओ.आई. का पूर्ण रूप डिजिटल ऑब्जेक्ट आइडेंटिफ़ायर है। यह डिजिटल दस्तावेज़ों, विशेषकर शोध लेखों, को दी जाने वाली स्थायी तथा अद्वितीय पहचान संख्या है, जिससे वे बदलते जाल पते के बावजूद सदैव खोजे जा सकते हैं।",
+      "options": {
+        "A": "Directory of Information / Directory of Information",
+        "B": "Digital Online Index / Digital Online Index",
+        "C": "Document Online Identifier / Document Online Identifier",
+        "D": "Digital Object Identifier / Digital Object Identifier"
+      },
+      "q": "DOI का पूर्ण रूप क्या है? / What is the full form of DOI?"
+    },
+    {
+      "answer": "A",
+      "explanation": "सह-उद्धरण की अवधारणा हेनरी स्मॉल ने 1973 में दी थी। जब दो दस्तावेज़ों को किसी तीसरे दस्तावेज़ में एक साथ उद्धृत किया जाता है तो वे सह-उद्धृत कहलाते हैं और उनके बीच विषयगत निकटता मानी जाती है।",
+      "options": {
+        "A": "हेनरी स्मॉल / Henry Small",
+        "B": "एम. एम. केस्लर / M. M. Kessler",
+        "C": "यूजीन गारफील्ड / Eugene Garfield",
+        "D": "एलन प्रिचर्ड / Alan Pritchard"
+      },
+      "q": "सह-उद्धरण (Co-citation) की अवधारणा किसने दी थी? / Who introduced the concept of Co-citation?"
+    },
+    {
+      "answer": "B",
+      "explanation": "विज्ञानमिति शब्द रूसी विद्वान वी. वी. नालिमोव ने 1969 में दिया था। इसके अंतर्गत विज्ञान की वृद्धि, संरचना तथा शोध उत्पादन का मात्रात्मक अध्ययन किया जाता है।",
+      "options": {
+        "A": "एलन प्रिचर्ड / Alan Pritchard",
+        "B": "वी. वी. नालिमोव / V. V. Nalimov",
+        "C": "यूजीन गारफील्ड / Eugene Garfield",
+        "D": "डेरेक डी सोला प्राइस / Derek de Solla Price"
+      },
+      "q": "'Scientometrics' (विज्ञानमिति) शब्द किसने दिया था? / Who coined the term 'Scientometrics'?"
+    },
+    {
+      "answer": "C",
+      "explanation": "सिद्धांत ज़ेड विलियम आउची ने जापानी तथा अमेरिकी प्रबंधन पद्धतियों के तुलनात्मक अध्ययन के आधार पर दिया था। इसमें दीर्घकालीन रोज़गार, सामूहिक निर्णय तथा कर्मचारी कल्याण पर बल दिया गया है।",
+      "options": {
+        "A": "डगलस मैकग्रेगर / Douglas McGregor",
+        "B": "अब्राहम मैस्लो / Abraham Maslow",
+        "C": "विलियम आउची / William Ouchi",
+        "D": "पीटर ड्रकर / Peter Drucker"
+      },
+      "q": "प्रबंधन का 'Theory Z' (सिद्धांत ज़ेड) किसने प्रतिपादित किया था? / Who propounded 'Theory Z' of management?"
+    },
+    {
+      "answer": "D",
+      "explanation": "हेनरी एल. गैंट ने कार्यों की योजना तथा प्रगति को समय-सारणी के रूप में दर्शाने हेतु यह चार्ट विकसित किया था। पुस्तकालयों में इसका प्रयोग परियोजनाओं तथा कार्यों की समयबद्ध योजना बनाने में होता है।",
+      "options": {
+        "A": "हेनरी फेयोल / Henri Fayol",
+        "B": "एफ. डब्ल्यू. टेलर / F. W. Taylor",
+        "C": "लूथर गुलिक / Luther Gulick",
+        "D": "हेनरी एल. गैंट / Henry L. Gantt"
+      },
+      "q": "गैंट चार्ट (Gantt Chart) के जनक कौन माने जाते हैं? / Who is regarded as the originator of the Gantt Chart?"
+    },
+    {
+      "answer": "A",
+      "explanation": "रेखा-मद बजट में व्यय को वेतन, पुस्तकें, पत्रिकाएँ, जिल्दबंदी आदि मदों में बाँटकर राशि आवंटित की जाती है। यह सबसे सरल तथा परंपरागत प्रणाली है, जो अधिकांश भारतीय पुस्तकालयों में अपनाई जाती है।",
+      "options": {
+        "A": "रेखा-मद (लाइन-आइटम) बजट / Line-item Budget",
+        "B": "शून्य-आधारित बजट / Zero-based Budget",
+        "C": "कार्यक्रम बजट / Programme Budget",
+        "D": "निष्पादन बजट / Performance Budget"
+      },
+      "q": "भारतीय पुस्तकालयों में परंपरागत रूप से सर्वाधिक प्रयुक्त बजट प्रणाली कौन-सी है? / Which budgeting system is traditionally most commonly used in Indian libraries?"
+    },
+    {
+      "answer": "B",
+      "explanation": "मैककॉल्विन ने 1925 में पुस्तक चयन का माँग सिद्धांत दिया, जिसके अनुसार पुस्तकालय में उन्हीं पुस्तकों का चयन होना चाहिए जिनकी पाठकों में वास्तविक माँग हो। यह सिद्धांत सार्वजनिक पुस्तकालयों के लिए विशेष रूप से महत्वपूर्ण माना गया।",
+      "options": {
+        "A": "फ्रांसिस ड्ररी / Francis Drury",
+        "B": "लियोनेल मैककॉल्विन / Lionel McColvin",
+        "C": "मेल्विल डेवी / Melvil Dewey",
+        "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+      },
+      "q": "पुस्तक चयन का 'माँग सिद्धांत' (Demand Theory) किसने दिया था? / Who gave the 'Demand Theory' of book selection?"
+    },
+    {
+      "answer": "C",
+      "explanation": "इन्फ्लिबनेट केंद्र का मुख्यालय गुजरात के गाँधीनगर में स्थित है। यह विश्वविद्यालय अनुदान आयोग का स्वायत्त अंतर-विश्वविद्यालय केंद्र है, जो विश्वविद्यालय पुस्तकालयों के आधुनिकीकरण हेतु कार्य करता है।",
+      "options": {
+        "A": "अहमदाबाद / Ahmedabad",
+        "B": "नई दिल्ली / New Delhi",
+        "C": "गाँधीनगर / Gandhinagar",
+        "D": "हैदराबाद / Hyderabad"
+      },
+      "q": "INFLIBNET केंद्र का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the INFLIBNET Centre located?"
+    },
+    {
+      "answer": "D",
+      "explanation": "शेल्फ परिष्करण में कर्मचारी शेल्फों को क्रम से पढ़कर गलत स्थान पर रखी पुस्तकों को उनके सही स्थान पर रखते हैं। इससे संग्रह व्यवस्था बनी रहती है और पाठकों को पुस्तकें शीघ्र मिलती हैं।",
+      "options": {
+        "A": "शेल्फों की मरम्मत करना / Repairing the shelves",
+        "B": "नई पुस्तकों को शेल्फ पर रखना / Placing new books on shelves",
+        "C": "पुरानी पुस्तकों को हटाना / Removing old books",
+        "D": "गलत स्थान पर रखी पुस्तकों को खोजकर सही क्रम में रखना / Locating misplaced books and restoring them to their correct order"
+      },
+      "q": "'शेल्फ परिष्करण' (Shelf Rectification) से क्या अभिप्राय है? / What is meant by 'Shelf Rectification'?"
+    },
+    {
+      "answer": "A",
+      "explanation": "धूमन में बंद कक्ष में रासायनिक धुआँ या गैस छोड़कर पुस्तकों को नुकसान पहुँचाने वाले कीटों, जैसे दीमक व चाँदी मछली, तथा फफूंद को नष्ट किया जाता है। यह संरक्षण की एक प्रमुख विधि है।",
+      "options": {
+        "A": "पुस्तकों को हानि पहुँचाने वाले कीटों तथा कीटाणुओं को नष्ट करने के लिए / Destroying insects and pests that damage books",
+        "B": "पुस्तकों की धूल साफ करने के लिए / Cleaning dust from books",
+        "C": "कागज़ को मज़बूत बनाने के लिए / Strengthening the paper",
+        "D": "पुस्तकों को सुखाने के लिए / Drying the books"
+      },
+      "q": "पुस्तकालय संरक्षण में 'धूमन' (Fumigation) का प्रयोग मुख्यतः किसके लिए किया जाता है? / In library preservation, 'Fumigation' is mainly used for:"
+    },
+    {
+      "answer": "B",
+      "explanation": "लॉक्स का पूर्ण रूप 'लॉट्स ऑफ कॉपीज़ कीप स्टफ सेफ' है। यह स्टैनफोर्ड विश्वविद्यालय द्वारा विकसित डिजिटल संरक्षण प्रणाली है, जिसमें डिजिटल सामग्री की अनेक प्रतियाँ विभिन्न पुस्तकालयों में सुरक्षित रखी जाती हैं।",
+      "options": {
+        "A": "Library Online Catalogue System / Library Online Catalogue System",
+        "B": "Lots of Copies Keep Stuff Safe / Lots of Copies Keep Stuff Safe",
+        "C": "Linked Open Content Storage System / Linked Open Content Storage System",
+        "D": "Local Copy Security System / Local Copy Security System"
+      },
+      "q": "LOCKSS का पूर्ण रूप क्या है? / What is the full form of LOCKSS?"
+    }
+  ],
+  "subject": "BLIS"
+}
