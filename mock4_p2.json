@@ -1,0 +1,1102 @@
+[
+  {
+    "answer": 0,
+    "exp_hi": "प्रभाव के नियम के अनुसार संतोषजनक परिणाम वाला व्यवहार मज़बूत होता है और उसके दोहराए जाने की संभावना बढ़ जाती है।",
+    "mock_q": 1,
+    "n": 236,
+    "options": [
+      "उसके बाद संतोषजनक परिणाम मिले",
+      "उसके बाद दंड मिले",
+      "उसके बाद कोई परिणाम न मिले",
+      "वह व्यवहार बार-बार दोहराया जाए"
+    ],
+    "options_en": [
+      "It is followed by satisfying consequences",
+      "It is followed by punishment",
+      "It is followed by no consequence",
+      "It is repeated again and again"
+    ],
+    "q_en": "According to Thorndike's 'Law of Effect', a behaviour is most likely to be repeated when —",
+    "q_hi": "थॉर्नडाइक के 'प्रभाव के नियम' (Law of Effect) के अनुसार, किसी व्यवहार के दोहराए जाने की संभावना सबसे अधिक तब बढ़ती है, जब —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "आकृति-प्रदान में जटिल व्यवहार को छोटे चरणों में बाँटकर, इच्छित व्यवहार के निकट आते प्रत्येक चरण को पुनर्बलित किया जाता है।",
+    "mock_q": 2,
+    "n": 237,
+    "options": [
+      "किसी उद्दीपक को अनुक्रिया से पहले प्रस्तुत करना",
+      "इच्छित व्यवहार के क्रमशः निकट आते चरणों को पुनर्बलित करना",
+      "प्रत्येक गलत अनुक्रिया पर दंड देना",
+      "पुनर्बलन पूर्णतः बंद कर देना"
+    ],
+    "options_en": [
+      "Presenting a stimulus before the response",
+      "Reinforcing the successive steps that come closer and closer to the desired behaviour",
+      "Punishing every incorrect response",
+      "Stopping reinforcement completely"
+    ],
+    "q_en": "In Skinner's operant conditioning, what is meant by 'shaping' ?",
+    "q_hi": "स्किनर के क्रिया-प्रसूत अनुबंधन में 'आकृति-प्रदान' (shaping) से क्या अभिप्राय है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "टॉलमैन ने चूहों के भूलभुलैया प्रयोगों से दिखाया कि बिना पुरस्कार के भी 'संज्ञानात्मक मानचित्र' बनता है — यही अव्यक्त अधिगम है।",
+    "mock_q": 3,
+    "n": 238,
+    "options": [
+      "सूझ द्वारा अधिगम",
+      "प्रेक्षणात्मक अधिगम",
+      "अव्यक्त (गुप्त) अधिगम",
+      "प्रयास एवं त्रुटि अधिगम"
+    ],
+    "options_en": [
+      "Insight learning",
+      "Observational learning",
+      "Latent learning",
+      "Trial and error learning"
+    ],
+    "q_en": "Learning that takes place without any obvious reward, but appears in behaviour when it is needed, is called —",
+    "q_hi": "कोई अधिगम जो बिना किसी स्पष्ट पुरस्कार के हो जाता है, पर आवश्यकता पड़ने पर व्यवहार में दिखाई देता है, कहलाता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "वाटसन पर्यावरणवादी थे — उनके अनुसार व्यवहार पूरी तरह अनुभव और प्रशिक्षण से बनता है।",
+    "mock_q": 4,
+    "n": 239,
+    "options": [
+      "वंशानुक्रम को",
+      "परिपक्वता को",
+      "बुद्धि को",
+      "वातावरण को"
+    ],
+    "options_en": [
+      "Heredity",
+      "Maturation",
+      "Intelligence",
+      "Environment"
+    ],
+    "q_en": "Watson, the father of behaviourism, claimed that by controlling the environment he could train any healthy infant to become any kind of specialist. This claim gives the greatest importance to —",
+    "q_hi": "व्यवहारवाद के जनक वाटसन का दावा था कि वातावरण को नियंत्रित करके वह किसी भी स्वस्थ शिशु को किसी भी प्रकार का विशेषज्ञ बना सकता है। यह दावा सबसे अधिक महत्व देता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "अहम् (ego) वास्तविकता के सिद्धान्त पर चलता है — यह इदम् की इच्छाओं और पराअहम् के नैतिक दबाव के बीच व्यावहारिक संतुलन बनाता है।",
+    "mock_q": 5,
+    "n": 240,
+    "options": [
+      "इदम् (Id)",
+      "पराअहम् (Superego)",
+      "अहम् (Ego)",
+      "अचेतन (Unconscious)"
+    ],
+    "options_en": [
+      "Id",
+      "Superego",
+      "Ego",
+      "Unconscious"
+    ],
+    "q_en": "According to Freud, the part of personality which works on the 'reality principle' and balances the demands of the id and the superego is —",
+    "q_hi": "फ्रायड के अनुसार व्यक्तित्व का वह भाग जो 'वास्तविकता के सिद्धान्त' पर कार्य करता है और इदम् (id) तथा पराअहम् (superego) की माँगों में संतुलन बनाता है, है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "3–6 वर्ष में बच्चा स्वयं काम शुरू करना चाहता है; अत्यधिक रोक-टोक से उसमें अपराधबोध उत्पन्न होता है।",
+    "mock_q": 6,
+    "n": 241,
+    "options": [
+      "विश्वास बनाम अविश्वास",
+      "पहल बनाम अपराधबोध",
+      "परिश्रम बनाम हीनता",
+      "स्वायत्तता बनाम शर्म"
+    ],
+    "options_en": [
+      "Trust vs mistrust",
+      "Initiative vs guilt",
+      "Industry vs inferiority",
+      "Autonomy vs shame"
+    ],
+    "q_en": "According to Erikson, the main psychosocial crisis of the pre-school stage (3–6 years) is —",
+    "q_hi": "एरिक्सन के अनुसार पूर्व-विद्यालयी अवस्था (3–6 वर्ष) का प्रमुख मनोसामाजिक संकट है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "पराधीन नैतिकता (लगभग 5–9 वर्ष) में बच्चा नियमों को पवित्र और अपरिवर्तनीय मानता है और कार्य को उसके परिणाम से आँकता है।",
+    "mock_q": 7,
+    "n": 242,
+    "options": [
+      "नियम आपसी सहमति से बदले जा सकते हैं",
+      "परिणाम से अधिक महत्वपूर्ण इरादा होता है",
+      "नैतिकता परिस्थिति पर निर्भर करती है",
+      "नियम निश्चित होते हैं, बड़ों/प्राधिकार द्वारा बनाए जाते हैं और बदले नहीं जा सकते"
+    ],
+    "options_en": [
+      "Rules can be changed by mutual consent",
+      "Intention matters more than the result",
+      "Morality depends on the situation",
+      "Rules are fixed, made by elders/authority and cannot be changed"
+    ],
+    "q_en": "In Piaget's stage of heteronomous morality, a young child believes that —",
+    "q_hi": "पियाजे की 'पराधीन नैतिकता' (heteronomous morality) अवस्था में छोटा बच्चा मानता है कि —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "व्यावहारिक बुद्धि वातावरण के अनुसार स्वयं को ढालने और वास्तविक समस्याएँ सुलझाने की क्षमता है।",
+    "mock_q": 8,
+    "n": 243,
+    "options": [
+      "विश्लेषणात्मक बुद्धि",
+      "सृजनात्मक बुद्धि",
+      "व्यावहारिक बुद्धि",
+      "संगीतात्मक बुद्धि"
+    ],
+    "options_en": [
+      "Analytical intelligence",
+      "Creative intelligence",
+      "Practical intelligence",
+      "Musical intelligence"
+    ],
+    "q_en": "According to Sternberg's triarchic theory, a person who successfully solves the real-life problems of everyday life shows —",
+    "q_hi": "स्टर्नबर्ग के त्रिआयामी (triarchic) सिद्धान्त के अनुसार, जो व्यक्ति दैनिक जीवन की वास्तविक समस्याओं को सफलतापूर्वक सुलझाता है, वह दर्शाता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "कैटल के अनुसार तरल बुद्धि नई परिस्थितियों में तर्क करने की जन्मजात क्षमता है, जबकि स्फटिक बुद्धि अनुभव व शिक्षा से अर्जित ज्ञान है।",
+    "mock_q": 9,
+    "n": 244,
+    "options": [
+      "तरल बुद्धि (fluid intelligence)",
+      "स्फटिक बुद्धि (crystallised intelligence)",
+      "भावनात्मक बुद्धि",
+      "सामाजिक बुद्धि"
+    ],
+    "options_en": [
+      "Fluid intelligence",
+      "Crystallised intelligence",
+      "Emotional intelligence",
+      "Social intelligence"
+    ],
+    "q_en": "The ability to solve new problems without depending on previously acquired knowledge is called —",
+    "q_hi": "पूर्व अर्जित ज्ञान पर निर्भर हुए बिना नई समस्याओं को सुलझाने की क्षमता कहलाती है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "1905 में फ्रांस में बिने और साइमन ने पहला बुद्धि-मापन पैमाना बनाया, जिससे 'मानसिक आयु' की अवधारणा आई।",
+    "mock_q": 10,
+    "n": 245,
+    "options": [
+      "स्पीयरमैन और टरमैन ने",
+      "बिने और साइमन ने",
+      "वेक्सलर और बिने ने",
+      "गैल्टन और कैटल ने"
+    ],
+    "options_en": [
+      "Spearman and Terman",
+      "Binet and Simon",
+      "Wechsler and Binet",
+      "Galton and Cattell"
+    ],
+    "q_en": "Who developed the first successful intelligence test in 1905 ?",
+    "q_hi": "सन् 1905 में पहला सफल बुद्धि-परीक्षण किसने बनाया था ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "अंतर्मुखी व्यक्ति की ऊर्जा भीतर की ओर केंद्रित होती है; बहिर्मुखी की ऊर्जा बाहरी जगत की ओर होती है।",
+    "mock_q": 11,
+    "n": 246,
+    "options": [
+      "बहिर्मुखी",
+      "उभयमुखी",
+      "अंतर्मुखी",
+      "मनोविक्षिप्त"
+    ],
+    "options_en": [
+      "Extrovert",
+      "Ambivert",
+      "Introvert",
+      "Neurotic"
+    ],
+    "q_en": "According to Jung, a person who is mainly interested in his own inner thoughts and feelings is called —",
+    "q_hi": "युंग (Jung) के अनुसार वह व्यक्ति जो मुख्यतः अपने आंतरिक विचारों और भावनाओं में रुचि रखता है, कहलाता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "प्रक्षेपण में व्यक्ति अपनी अस्वीकार्य भावनाओं या कमियों को दूसरों पर आरोपित कर देता है।",
+    "mock_q": 12,
+    "n": 247,
+    "options": [
+      "युक्तिकरण (rationalisation)",
+      "प्रतिगमन (regression)",
+      "दमन (repression)",
+      "प्रक्षेपण (projection)"
+    ],
+    "options_en": [
+      "Rationalisation",
+      "Regression",
+      "Repression",
+      "Projection"
+    ],
+    "q_en": "Ramesh himself feels jealous of his friend, but says, 'My friend is jealous of me.' This is an example of which defence mechanism ?",
+    "q_hi": "रमेश स्वयं अपने मित्र से ईर्ष्या करता है, पर कहता है — 'मेरा मित्र मुझसे ईर्ष्या करता है।' यह किस रक्षा-युक्ति (defence mechanism) का उदाहरण है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "मिलर का प्रसिद्ध 'जादुई अंक' 7 ± 2 है — अल्पकालिक स्मृति एक बार में लगभग 5 से 9 इकाइयाँ (chunks) रख सकती है।",
+    "mock_q": 13,
+    "n": 248,
+    "options": [
+      "3 ± 1 इकाइयाँ",
+      "7 ± 2 इकाइयाँ",
+      "असीमित इकाइयाँ",
+      "15 ± 3 इकाइयाँ"
+    ],
+    "options_en": [
+      "3 ± 1 items",
+      "7 ± 2 items",
+      "Unlimited items",
+      "15 ± 3 items"
+    ],
+    "q_en": "According to Miller, the capacity of short-term memory is about —",
+    "q_hi": "मिलर के अनुसार अल्पकालिक स्मृति (short-term memory) की क्षमता लगभग कितनी होती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "जब पुरानी सीख नई सीख में बाधा डाले तो वह अग्रोन्मुखी व्यतिकरण है; नई सीख पुरानी को भूला दे तो पश्चोन्मुखी व्यतिकरण कहलाता है।",
+    "mock_q": 14,
+    "n": 249,
+    "options": [
+      "अग्रोन्मुखी व्यतिकरण (proactive interference)",
+      "पश्चोन्मुखी व्यतिकरण (retroactive interference)",
+      "स्मृति-चिह्नों का क्षय",
+      "दमन"
+    ],
+    "options_en": [
+      "Proactive interference",
+      "Retroactive interference",
+      "Decay of memory traces",
+      "Repression"
+    ],
+    "q_en": "Anita learnt French last year. Now, while learning German, the French words keep interfering and causing mistakes. This forgetting is due to —",
+    "q_hi": "अनीता ने पिछले वर्ष फ्रेंच सीखी थी। अब जर्मन सीखते समय फ्रेंच के शब्द बार-बार बीच में आकर बाधा डालते हैं। यह विस्मरण किसके कारण है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "समीप-दूरस्थ क्रम में विकास पहले धड़/केन्द्रीय भागों में, फिर हाथ-पैर की उँगलियों जैसे परिधीय भागों में होता है।",
+    "mock_q": 15,
+    "n": 250,
+    "options": [
+      "सिर से पैर की ओर",
+      "बाहर से केन्द्र की ओर",
+      "शरीर के केन्द्र से बाहर (परिधि) की ओर",
+      "विशिष्ट से सामान्य की ओर"
+    ],
+    "options_en": [
+      "From head to toe",
+      "From outside towards the centre",
+      "From the centre of the body towards the outside",
+      "From specific to general"
+    ],
+    "q_en": "According to the proximodistal principle of development, development proceeds —",
+    "q_hi": "विकास के 'समीप-दूरस्थ' (proximodistal) सिद्धान्त के अनुसार विकास किस दिशा में होता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "विकास सामान्य अनुक्रियाओं से विशिष्ट अनुक्रियाओं की ओर बढ़ता है — पहले स्थूल, फिर सूक्ष्म नियंत्रण आता है।",
+    "mock_q": 16,
+    "n": 251,
+    "options": [
+      "विशिष्ट से सामान्य की ओर",
+      "केवल परिपक्वता से",
+      "पैर से सिर की ओर",
+      "सामान्य से विशिष्ट की ओर"
+    ],
+    "options_en": [
+      "From specific to general",
+      "Only through maturation",
+      "From foot to head",
+      "From general to specific"
+    ],
+    "q_en": "A baby first waves the whole arm and learns to use the fingers precisely only later. This shows that development proceeds —",
+    "q_hi": "शिशु पहले पूरी बाँह हिलाता है और बाद में ही उँगलियों का सूक्ष्म प्रयोग सीखता है। यह दर्शाता है कि विकास होता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "बड़बड़ाहट अवस्था (लगभग 6 माह) में शिशु वर्ण-ध्वनियों को दोहराता है — यह वाणी की पूर्व-तैयारी है।",
+    "mock_q": 17,
+    "n": 252,
+    "options": [
+      "बड़बड़ाहट (babbling)",
+      "कूकना (cooing)",
+      "तार-सदृश वाणी",
+      "एक-शब्दीय वाणी"
+    ],
+    "options_en": [
+      "Babbling",
+      "Cooing",
+      "Telegraphic speech",
+      "Holophrastic speech"
+    ],
+    "q_en": "At about six months of age, a baby starts producing sounds like 'ba-ba', 'ma-ma'. This stage of language development is called —",
+    "q_hi": "लगभग छह माह की आयु में शिशु 'बा-बा', 'मा-मा' जैसी ध्वनियाँ निकालने लगता है। भाषा विकास की यह अवस्था कहलाती है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "जी. स्टेनले हॉल ने किशोरावस्था को भावनात्मक उथल-पुथल अर्थात 'तूफ़ान और तनाव' की अवधि कहा था।",
+    "mock_q": 18,
+    "n": 253,
+    "options": [
+      "एरिक्सन ने",
+      "पियाजे ने",
+      "हैविगहर्स्ट ने",
+      "जी. स्टेनले हॉल ने"
+    ],
+    "options_en": [
+      "Erikson",
+      "Piaget",
+      "Havighurst",
+      "G. Stanley Hall"
+    ],
+    "q_en": "Who described adolescence as a period of 'storm and stress' ?",
+    "q_hi": "किशोरावस्था को 'तूफ़ान और तनाव' (storm and stress) की अवधि किसने कहा था ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "परिवार समाजीकरण की प्राथमिक संस्था है — बच्चा भाषा, मूल्य और व्यवहार सबसे पहले परिवार से ही सीखता है।",
+    "mock_q": 19,
+    "n": 254,
+    "options": [
+      "विद्यालय",
+      "साथी-समूह",
+      "परिवार",
+      "जनसंचार माध्यम"
+    ],
+    "options_en": [
+      "School",
+      "Peer group",
+      "Family",
+      "Mass media"
+    ],
+    "q_en": "Which is the primary (first) agency of a child's socialisation ?",
+    "q_hi": "बच्चे के समाजीकरण की प्राथमिक (सबसे पहली) संस्था कौन-सी है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "उच्च उपलब्धि-आवश्यकता वाले व्यक्ति चुनौतीपूर्ण लक्ष्य रखते हैं और अपने प्रदर्शन की प्रतिपुष्टि चाहते हैं।",
+    "mock_q": 20,
+    "n": 255,
+    "options": [
+      "शक्ति की आवश्यकता",
+      "उपलब्धि की आवश्यकता (need for achievement)",
+      "संबद्धता की आवश्यकता",
+      "सुरक्षा की आवश्यकता"
+    ],
+    "options_en": [
+      "Need for power",
+      "Need for achievement",
+      "Need for affiliation",
+      "Need for security"
+    ],
+    "q_en": "According to McClelland, the need to excel and to achieve a unique accomplishment is called —",
+    "q_hi": "मैक्लेलैंड के अनुसार उत्कृष्टता प्राप्त करने और विशिष्ट उपलब्धि हासिल करने की आवश्यकता कहलाती है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "आत्म-प्रभावकारिता जितनी ऊँची होती है, शिक्षार्थी उतना अधिक प्रयास करता है और कठिनाइयों में टिका रहता है।",
+    "mock_q": 21,
+    "n": 256,
+    "options": [
+      "आत्म-प्रभावकारिता (self-efficacy)",
+      "आत्म-सम्मान",
+      "आत्म-अवधारणा",
+      "नियंत्रण का केन्द्र"
+    ],
+    "options_en": [
+      "Self-efficacy",
+      "Self-esteem",
+      "Self-concept",
+      "Locus of control"
+    ],
+    "q_en": "According to Bandura, a learner's belief in his own capability to succeed in a particular task is called —",
+    "q_hi": "बंडूरा के अनुसार किसी विशेष कार्य को सफलतापूर्वक करने की अपनी क्षमता पर शिक्षार्थी का विश्वास कहलाता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "पठार थकान, रुचि की कमी या गलत विधि से आ सकता है; यह स्थायी नहीं होता — विधि बदलने से प्रगति फिर शुरू होती है।",
+    "mock_q": 22,
+    "n": 257,
+    "options": [
+      "पठार (plateau)",
+      "उछाल",
+      "प्रतिगमन",
+      "असीम्टोट"
+    ],
+    "options_en": [
+      "Plateau",
+      "Spurt",
+      "Regression",
+      "Asymptote"
+    ],
+    "q_en": "In the learning curve, the period during which no improvement is seen despite continued practice is called —",
+    "q_hi": "अधिगम-वक्र में वह अवधि जिसमें लगातार अभ्यास के बावजूद कोई सुधार दिखाई नहीं देता, कहलाती है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "डिस्कैलकुलिया गणित-संबंधी अक्षमता है; डिस्लेक्सिया पठन, डिस्ग्राफिया लेखन और डिस्प्रैक्सिया गतिक समन्वय से जुड़ी है।",
+    "mock_q": 23,
+    "n": 258,
+    "options": [
+      "डिस्लेक्सिया",
+      "डिस्कैलकुलिया",
+      "डिस्ग्राफिया",
+      "डिस्प्रैक्सिया"
+    ],
+    "options_en": [
+      "Dyslexia",
+      "Dyscalculia",
+      "Dysgraphia",
+      "Dyspraxia"
+    ],
+    "q_en": "A child faces persistent difficulty in understanding numbers and doing basic arithmetic operations. This learning disability is called —",
+    "q_hi": "एक बच्चा संख्याओं को समझने और मूलभूत अंकगणितीय संक्रियाएँ करने में लगातार कठिनाई अनुभव करता है। यह अधिगम-अक्षमता कहलाती है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "संवर्धन में प्रतिभाशाली बच्चों को गहराई और विस्तार वाले अनुभव मिलते हैं, जिससे उनकी क्षमता का पूर्ण विकास होता है।",
+    "mock_q": 24,
+    "n": 259,
+    "options": [
+      "उन्हें केवल उसी प्रकार का अधिक गृहकार्य देना",
+      "उन्हें एक ही कक्षा का कार्य दोहराने को कहना",
+      "उन्हें अन्य बच्चों से स्थायी रूप से अलग कर देना",
+      "संवर्धन (enrichment) — गहरे और व्यापक अधिगम अनुभव देना"
+    ],
+    "options_en": [
+      "Giving them only more homework of the same kind",
+      "Making them repeat the work of the same class",
+      "Separating them permanently from other children",
+      "Enrichment — giving deeper and wider learning experiences"
+    ],
+    "q_en": "The most suitable programme for gifted children in a regular school is —",
+    "q_hi": "नियमित विद्यालय में प्रतिभाशाली बच्चों के लिए सबसे उपयुक्त कार्यक्रम है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "RPwD Act 2016 ने 1995 के अधिनियम की 7 दिव्यांगताओं को बढ़ाकर 21 कर दिया, जिनमें विशिष्ट अधिगम-अक्षमता और ऑटिज़्म भी शामिल हैं।",
+    "mock_q": 25,
+    "n": 260,
+    "options": [
+      "21",
+      "7",
+      "14",
+      "27"
+    ],
+    "options_en": [
+      "21",
+      "7",
+      "14",
+      "27"
+    ],
+    "q_en": "How many types of disabilities are recognised under the Rights of Persons with Disabilities (RPwD) Act, 2016 ?",
+    "q_hi": "दिव्यांगजन अधिकार अधिनियम (RPwD Act), 2016 में कुल कितने प्रकार की दिव्यांगताएँ मान्यता प्राप्त हैं ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "NCF 2005 के पाँच मार्गदर्शक सिद्धान्तों में ज्ञान को बाहरी जीवन से जोड़ना और अधिगम को रटने से मुक्त करना प्रमुख हैं।",
+    "mock_q": 26,
+    "n": 261,
+    "options": [
+      "अधिगम को पाठ्यपुस्तकों तक सीमित रखना",
+      "ज्ञान को विद्यालय से बाहर के जीवन से जोड़ना",
+      "रटने को प्रोत्साहित करना",
+      "परीक्षाओं को अधिक तनावपूर्ण बनाना"
+    ],
+    "options_en": [
+      "Confining learning to textbooks",
+      "Connecting knowledge to life outside the school",
+      "Encouraging rote memorisation",
+      "Making examinations more stressful"
+    ],
+    "q_en": "Which of the following is a guiding principle of the National Curriculum Framework (NCF) 2005 ?",
+    "q_hi": "निम्नलिखित में से कौन-सा राष्ट्रीय पाठ्यचर्या रूपरेखा (NCF) 2005 का मार्गदर्शक सिद्धान्त है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "मानक-संदर्भित परीक्षण में छात्र की स्थिति समूह (norm group) के सापेक्ष बताई जाती है, जैसे प्रतिशतक (percentile)।",
+    "mock_q": 27,
+    "n": 262,
+    "options": [
+      "निश्चित निपुणता-मानदंड के आधार पर",
+      "केवल शिक्षक के अनुमान से",
+      "समूह के अन्य छात्रों के प्रदर्शन से तुलना करके",
+      "बिना किसी तुलना के"
+    ],
+    "options_en": [
+      "Against fixed mastery criteria",
+      "Only by the teacher's impression",
+      "In comparison with the performance of other students of the group",
+      "Without any comparison"
+    ],
+    "q_en": "In a norm-referenced test, a student's performance is interpreted —",
+    "q_hi": "मानक-संदर्भित परीक्षण (norm-referenced test) में छात्र के प्रदर्शन की व्याख्या कैसे की जाती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "पोर्टफोलियो वैकल्पिक आकलन का साधन है — इसमें छात्र के सर्वोत्तम कार्य, प्रयास और प्रगति का क्रमिक संग्रह होता है।",
+    "mock_q": 28,
+    "n": 263,
+    "options": [
+      "उपाख्यानात्मक अभिलेख (anecdotal record)",
+      "पोर्टफोलियो",
+      "संचयी अभिलेख",
+      "निर्धारण मापनी"
+    ],
+    "options_en": [
+      "Anecdotal record",
+      "Portfolio",
+      "Cumulative record",
+      "Rating scale"
+    ],
+    "q_en": "A collection of a student's work over a period of time, which shows his progress and achievement, is known as —",
+    "q_hi": "एक निश्चित अवधि में छात्र के कार्यों का संग्रह, जो उसकी प्रगति और उपलब्धि को दर्शाता है, कहलाता है —",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "समान अवसर और भूमिकाएँ देने से लैंगिक रूढ़िबद्ध धारणाएँ टूटती हैं और सभी बच्चों में आत्मविश्वास बढ़ता है।",
+    "mock_q": 29,
+    "n": 264,
+    "options": [
+      "लड़कियों और लड़कों दोनों को नेतृत्व की भूमिका और सभी प्रकार के कार्य समान रूप से देना",
+      "लड़कियों से सजावट और लड़कों से फर्नीचर व्यवस्थित कराना",
+      "पाठों में केवल पुल्लिंग उदाहरण देना",
+      "लड़कियों और लड़कों को सदैव अलग-अलग पंक्तियों में बिठाना"
+    ],
+    "options_en": [
+      "Giving leadership roles and all kinds of tasks equally to girls and boys",
+      "Asking girls to decorate and boys to arrange the furniture",
+      "Using only masculine examples in the lessons",
+      "Always seating girls and boys in separate rows"
+    ],
+    "q_en": "Which behaviour of a teacher promotes gender equality in the classroom ?",
+    "q_hi": "कक्षा में लैंगिक समानता को बढ़ावा देने वाला शिक्षक का व्यवहार कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "मारिया मॉन्टेसरी की पद्धति में बच्चा तैयार वातावरण में स्व-शिक्षण सामग्री से अपनी गति से सीखता है; शिक्षक मार्गदर्शक होता है।",
+    "mock_q": 30,
+    "n": 265,
+    "options": [
+      "शिक्षक-केन्द्रित व्याख्यान पर",
+      "केवल पाठ्यपुस्तकों से सीखने पर",
+      "कठोर अनुशासन और दंड पर",
+      "तैयार वातावरण में विशेष शिक्षण-सामग्री द्वारा स्वतः अधिगम पर"
+    ],
+    "options_en": [
+      "Teacher-centred lecturing",
+      "Learning only through textbooks",
+      "Strict discipline and punishment",
+      "Self-learning in a prepared environment with specially designed materials"
+    ],
+    "q_en": "The Montessori method of education mainly emphasises —",
+    "q_hi": "मॉन्टेसरी शिक्षा पद्धति मुख्यतः किस पर बल देती है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Child Development"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'परोपकार' = पर + उपकार — 'अ + उ = ओ' होने से यह गुण संधि का उदाहरण है।",
+    "mock_q": 31,
+    "n": 266,
+    "options": [
+      "पर + उपकार",
+      "परो + पकार",
+      "पर + पकार",
+      "प + रोपकार"
+    ],
+    "options_en": [
+      "Para + Upkar",
+      "Paro + Pakar",
+      "Para + Pakar",
+      "Pa + Ropkar"
+    ],
+    "q_en": "What is the correct sandhi-viccheda of the word 'परोपकार' ?",
+    "q_hi": "'परोपकार' शब्द का सही संधि-विच्छेद कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "'त्रिलोचन' का अर्थ है 'तीन नेत्रों वाला' अर्थात शिव — जब समस्तपद किसी तीसरे अर्थ का बोध कराए तो बहुव्रीहि समास होता है।",
+    "mock_q": 32,
+    "n": 267,
+    "options": [
+      "द्वन्द्व समास",
+      "कर्मधारय समास",
+      "बहुव्रीहि समास",
+      "तत्पुरुष समास"
+    ],
+    "options_en": [
+      "Dvandva samaas",
+      "Karmadharaya samaas",
+      "Bahuvrihi samaas",
+      "Tatpurusha samaas"
+    ],
+    "q_en": "Which samaas (compound) is there in the word 'त्रिलोचन' ?",
+    "q_hi": "'त्रिलोचन' शब्द में कौन-सा समास है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "'चन्द्रमा' के पर्यायवाची हैं — शशि, सुधाकर, विधु, राकेश, हिमांशु।",
+    "mock_q": 33,
+    "n": 268,
+    "options": [
+      "सूर्य",
+      "शशि",
+      "तारा",
+      "मेघ"
+    ],
+    "options_en": [
+      "Surya (sun)",
+      "Shashi (moon)",
+      "Tara (star)",
+      "Megh (cloud)"
+    ],
+    "q_en": "Which of the following is a synonym (paryayvachi) of 'चन्द्रमा' ?",
+    "q_hi": "'चन्द्रमा' शब्द का पर्यायवाची कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'आदर' का अर्थ है सम्मान और इसका विलोम 'अनादर' (अपमान) है।",
+    "mock_q": 34,
+    "n": 269,
+    "options": [
+      "अनादर",
+      "सम्मान",
+      "सत्कार",
+      "प्रेम"
+    ],
+    "options_en": [
+      "Anadar (disrespect)",
+      "Samman (respect)",
+      "Satkar (honour)",
+      "Prem (love)"
+    ],
+    "q_en": "What is the antonym (vilom) of 'आदर' ?",
+    "q_hi": "'आदर' शब्द का विलोम कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'ईद का चाँद होना' मुहावरे का अर्थ है — बहुत दिनों बाद दिखाई देना।",
+    "mock_q": 35,
+    "n": 270,
+    "options": [
+      "बहुत सुंदर होना",
+      "चाँद की तरह चमकना",
+      "त्योहार मनाना",
+      "बहुत दिनों बाद दिखाई देना"
+    ],
+    "options_en": [
+      "To be very beautiful",
+      "To shine like the moon",
+      "To celebrate a festival",
+      "To be seen after a very long time"
+    ],
+    "q_en": "What does the idiom 'ईद का चाँद होना' mean ?",
+    "q_hi": "'ईद का चाँद होना' मुहावरे का सही अर्थ क्या है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "इस लोकोक्ति का अर्थ है — जिसके पास ज्ञान कम होता है, वह दिखावा अधिक करता है।",
+    "mock_q": 36,
+    "n": 271,
+    "options": [
+      "गहरी नदी शांत बहती है",
+      "आधा भरा घड़ा आवाज़ करता है",
+      "अल्पज्ञानी व्यक्ति अधिक दिखावा करता है",
+      "घड़ा भरने पर पानी छलकता है"
+    ],
+    "options_en": [
+      "A deep river flows quietly",
+      "A half-filled pot makes noise (literal meaning)",
+      "A person with little knowledge shows off the most",
+      "Water spills when the pot is filled"
+    ],
+    "q_en": "What is the correct meaning of the proverb 'अधजल गगरी छलकत जाए' ?",
+    "q_hi": "'अधजल गगरी छलकत जाए' लोकोक्ति का सही अर्थ क्या है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "जहाँ किसी वस्तु या स्थान से अलग होने का भाव हो, वहाँ अपादान कारक होता है और उसका चिह्न 'से' है।",
+    "mock_q": 37,
+    "n": 272,
+    "options": [
+      "करण कारक",
+      "अपादान कारक",
+      "सम्बन्ध कारक",
+      "अधिकरण कारक"
+    ],
+    "options_en": [
+      "Karan karaka (instrumental)",
+      "Apadan karaka (ablative)",
+      "Sambandh karaka (genitive)",
+      "Adhikaran karaka (locative)"
+    ],
+    "q_en": "In the sentence 'राम गाँव से आया।', 'से' is the sign of which karaka ?",
+    "q_hi": "'राम गाँव से आया।' इस वाक्य में 'से' किस कारक का चिह्न है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "'कुछ' से संख्या निश्चित नहीं होती, इसलिए यह अनिश्चित संख्यावाचक विशेषण है।",
+    "mock_q": 38,
+    "n": 273,
+    "options": [
+      "अनिश्चित संख्यावाचक विशेषण",
+      "निश्चित संख्यावाचक विशेषण",
+      "परिमाणवाचक विशेषण",
+      "गुणवाचक विशेषण"
+    ],
+    "options_en": [
+      "Indefinite numeral adjective",
+      "Definite numeral adjective",
+      "Quantitative adjective",
+      "Qualitative adjective"
+    ],
+    "q_en": "In the sentence 'कुछ छात्र अनुपस्थित थे।', the word 'कुछ' is which type of adjective (visheshan) ?",
+    "q_hi": "'कुछ छात्र अनुपस्थित थे।' इस वाक्य में 'कुछ' शब्द कौन-सा विशेषण है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "'कवि' का स्त्रीलिंग रूप 'कवयित्री' होता है।",
+    "mock_q": 39,
+    "n": 274,
+    "options": [
+      "कविता",
+      "कविनी",
+      "कवयित्री",
+      "कवियत्री"
+    ],
+    "options_en": [
+      "Kavita (poem)",
+      "Kavini",
+      "Kavayitri",
+      "Kaviytri (incorrect spelling)"
+    ],
+    "q_en": "What is the feminine form (streeling) of 'कवि' ?",
+    "q_hi": "'कवि' शब्द का स्त्रीलिंग रूप कौन-सा है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "NCF 2005 के अनुसार बहुभाषिकता एक संसाधन है — घर की भाषा से शुरुआत करने पर बच्चे सहजता से विद्यालयी भाषा और विषय दोनों से जुड़ते हैं।",
+    "mock_q": 40,
+    "n": 275,
+    "options": [
+      "बच्चे भ्रमित हो जाते हैं",
+      "पाठ्यक्रम का समय व्यर्थ जाता है",
+      "बच्चे केवल मातृभाषा ही सीख पाते हैं",
+      "बच्चों की सहभागिता और विषय की समझ बढ़ती है"
+    ],
+    "options_en": [
+      "Children get confused",
+      "The time of the syllabus is wasted",
+      "Children learn only the mother tongue",
+      "Children's participation and understanding of the subject increase"
+    ],
+    "q_en": "What is the biggest benefit of using children's home languages as a resource in the classroom ?",
+    "q_hi": "कक्षा में बच्चों की घर की भाषाओं को संसाधन के रूप में प्रयोग करने का सबसे बड़ा लाभ क्या है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-I"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "'Ancient' का अर्थ है प्राचीन और इसका विलोम 'Modern' अर्थात आधुनिक है।",
+    "mock_q": 41,
+    "n": 276,
+    "options": [
+      "Old",
+      "Modern",
+      "Antique",
+      "Distant"
+    ],
+    "options_en": [
+      "Old",
+      "Modern",
+      "Antique",
+      "Distant"
+    ],
+    "q_en": "Choose the antonym of 'Ancient'.",
+    "q_hi": "'Ancient' शब्द का विलोम (antonym) चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "Present perfect continuous में समय के निश्चित बिंदु (point of time) के लिए 'since' और अवधि (duration) के लिए 'for' आता है — 'since Monday' सही है।",
+    "mock_q": 42,
+    "n": 277,
+    "options": [
+      "for",
+      "from",
+      "since",
+      "by"
+    ],
+    "options_en": [
+      "for",
+      "from",
+      "since",
+      "by"
+    ],
+    "q_en": "Choose the correct preposition: 'She has been suffering from fever ___ Monday.'",
+    "q_hi": "सही प्रीपोज़िशन चुनिए: 'She has been suffering from fever ___ Monday.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "भूतकाल के किसी क्षण चल रही क्रिया के लिए past continuous आता है — 'were playing'।",
+    "mock_q": 43,
+    "n": 278,
+    "options": [
+      "play",
+      "were playing",
+      "played",
+      "have played"
+    ],
+    "options_en": [
+      "play",
+      "were playing",
+      "played",
+      "have played"
+    ],
+    "q_en": "Choose the correct verb form: 'When the teacher entered the class, the students ___ football.'",
+    "q_hi": "सही क्रिया-रूप चुनिए: 'When the teacher entered the class, the students ___ football.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "Simple past के passive में 'was + past participle' आता है — 'My purse was stolen.'",
+    "mock_q": 44,
+    "n": 279,
+    "options": [
+      "My purse is stolen.",
+      "My purse has been stolen.",
+      "My purse is being stolen.",
+      "My purse was stolen."
+    ],
+    "options_en": [
+      "My purse is stolen.",
+      "My purse has been stolen.",
+      "My purse is being stolen.",
+      "My purse was stolen."
+    ],
+    "q_en": "Choose the correct passive form of: 'Someone stole my purse.'",
+    "q_hi": "'Someone stole my purse.' का सही passive रूप चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 1,
+    "exp_hi": "प्रश्नवाचक indirect speech में 'asked' आता है, प्रश्न का क्रम सामान्य वाक्य-क्रम हो जाता है और काल past में बदलता है — 'where I lived'।",
+    "mock_q": 45,
+    "n": 280,
+    "options": [
+      "He asked me where do I live.",
+      "He asked me where I lived.",
+      "He asked me where I live.",
+      "He asked me that where I lived."
+    ],
+    "options_en": [
+      "He asked me where do I live.",
+      "He asked me where I lived.",
+      "He asked me where I live.",
+      "He asked me that where I lived."
+    ],
+    "q_en": "Choose the correct indirect speech of: He said to me, \"Where do you live ?\"",
+    "q_hi": "'He said to me, \"Where do you live ?\"' का सही indirect speech चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "विनम्र अनुमति माँगने के लिए 'May' का प्रयोग होता है — 'May I use your pen, please ?'",
+    "mock_q": 46,
+    "n": 281,
+    "options": [
+      "May",
+      "Must",
+      "Will",
+      "Would"
+    ],
+    "options_en": [
+      "May",
+      "Must",
+      "Will",
+      "Would"
+    ],
+    "q_en": "Choose the correct modal: '___ I use your pen, please ?'",
+    "q_hi": "सही modal चुनिए: '___ I use your pen, please ?'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'Once in a blue moon' का अर्थ है — बहुत ही कम, कभी-कभार।",
+    "mock_q": 47,
+    "n": 282,
+    "options": [
+      "every night",
+      "once a month",
+      "on a full-moon night",
+      "very rarely"
+    ],
+    "options_en": [
+      "every night",
+      "once a month",
+      "on a full-moon night",
+      "very rarely"
+    ],
+    "q_en": "What does the idiom 'once in a blue moon' mean ?",
+    "q_hi": "'Once in a blue moon' मुहावरे का अर्थ क्या है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 0,
+    "exp_hi": "Cloze test में पाठ से निश्चित अंतराल पर शब्द हटाए जाते हैं; शिक्षार्थी संदर्भ के आधार पर उन्हें भरता है — इससे पठन-बोध मापा जाता है।",
+    "mock_q": 48,
+    "n": 283,
+    "options": [
+      "fill in the words deleted from a text with the help of context",
+      "copy the text neatly",
+      "translate the text into their mother tongue",
+      "read the text aloud"
+    ],
+    "options_en": [
+      "fill in the words deleted from a text with the help of context",
+      "copy the text neatly",
+      "translate the text into their mother tongue",
+      "read the text aloud"
+    ],
+    "q_en": "In a cloze test, learners are required to —",
+    "q_hi": "Cloze test में शिक्षार्थियों को क्या करना होता है ?",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 2,
+    "exp_hi": "सबसे ऊँची तुलना के लिए superlative degree 'highest' आता है और उसके पहले 'the' लगता है।",
+    "mock_q": 49,
+    "n": 284,
+    "options": [
+      "high",
+      "higher",
+      "highest",
+      "more high"
+    ],
+    "options_en": [
+      "high",
+      "higher",
+      "highest",
+      "more high"
+    ],
+    "q_en": "Choose the correct form: 'Mount Everest is the ___ mountain peak in the world.'",
+    "q_hi": "सही रूप चुनिए: 'Mount Everest is the ___ mountain peak in the world.'",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  },
+  {
+    "answer": 3,
+    "exp_hi": "'Rapid' का अर्थ है तेज़ — इसका पर्यायवाची 'Swift' है।",
+    "mock_q": 50,
+    "n": 285,
+    "options": [
+      "Slow",
+      "Gentle",
+      "Calm",
+      "Swift"
+    ],
+    "options_en": [
+      "Slow",
+      "Gentle",
+      "Calm",
+      "Swift"
+    ],
+    "q_en": "Choose the synonym of 'Rapid'.",
+    "q_hi": "'Rapid' शब्द का पर्यायवाची (synonym) चुनिए।",
+    "source": "Syllabus-based (Juno)",
+    "subject": "Language-II"
+  }
+]
