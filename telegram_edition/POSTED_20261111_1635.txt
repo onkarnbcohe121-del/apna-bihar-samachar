@@ -1,3 +1,0 @@
-card: 215
-text: 216
-proof: 217

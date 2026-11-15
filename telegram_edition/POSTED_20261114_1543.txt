@@ -1,3 +1,0 @@
-card: 277
-text: 278
-proof: 279

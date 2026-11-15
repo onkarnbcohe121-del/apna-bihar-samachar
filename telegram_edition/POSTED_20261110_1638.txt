@@ -1,4 +1,0 @@
-card: 191
-text: 192
-proof: 193
-proof: 194
