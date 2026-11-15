@@ -1,0 +1,556 @@
+{
+  "mock_no": 7,
+  "questions": [
+    {
+      "answer": "B",
+      "explanation": "बोर्डेन बड़ौदा राज्य के प्रथम पुस्तकालय निदेशक थे। उन्होंने 1911 में बड़ौदा में भारत का प्रथम पुस्तकालय प्रशिक्षण वर्ग प्रारंभ किया।",
+      "options": {
+        "A": "आसा डॉन डिकिन्सन / Asa Don Dickinson",
+        "B": "विलियम एलनसन बोर्डेन / William Alanson Borden",
+        "C": "मेल्विल डेवी / Melvil Dewey",
+        "D": "जॉन मैकफ़ारलेन / John Macfarlane"
+      },
+      "q": "भारत में प्रथम पुस्तकालय प्रशिक्षण पाठ्यक्रम (बड़ौदा, 1911) किसने संचालित किया था? / Who conducted the first library training course in India (Baroda, 1911)?"
+    },
+    {
+      "answer": "C",
+      "explanation": "डिकिन्सन ने 1915 में पंजाब विश्वविद्यालय, लाहौर में पुस्तकालय प्रशिक्षण प्रारंभ किया और 'पंजाब लाइब्रेरी प्राइमर' नामक पुस्तक भी लिखी।",
+      "options": {
+        "A": "विलियम एलनसन बोर्डेन / William Alanson Borden",
+        "B": "बी. एस. केसवन / B. S. Kesavan",
+        "C": "आसा डॉन डिकिन्सन / Asa Don Dickinson",
+        "D": "डब्ल्यू. सी. बर्विक सेयर्स / W. C. Berwick Sayers"
+      },
+      "q": "पंजाब विश्वविद्यालय, लाहौर में पुस्तकालय प्रशिक्षण (1915) प्रारंभ करने का श्रेय किसे जाता है? / Who is credited with starting library training at Punjab University, Lahore (1915)?"
+    },
+    {
+      "answer": "A",
+      "explanation": "जॉन मैकफ़ारलेन इंपीरियल लाइब्रेरी के प्रथम पुस्तकालयाध्यक्ष थे। बी. एस. केसवन इसके प्रथम भारतीय पुस्तकालयाध्यक्ष थे।",
+      "options": {
+        "A": "जॉन मैकफ़ारलेन / John Macfarlane",
+        "B": "बी. एस. केसवन / B. S. Kesavan",
+        "C": "हरिनाथ डे / Harinath De",
+        "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+      },
+      "q": "इंपीरियल लाइब्रेरी, कोलकाता (वर्तमान राष्ट्रीय पुस्तकालय) के प्रथम पुस्तकालयाध्यक्ष कौन थे? / Who was the first Librarian of the Imperial Library, Kolkata (now the National Library)?"
+    },
+    {
+      "answer": "D",
+      "explanation": "स्वतंत्रता के पश्चात 1948 में इंपीरियल लाइब्रेरी (नाम परिवर्तन) अधिनियम द्वारा इसका नाम राष्ट्रीय पुस्तकालय कर दिया गया।",
+      "options": {
+        "A": "1947 / 1947",
+        "B": "1950 / 1950",
+        "C": "1953 / 1953",
+        "D": "1948 / 1948"
+      },
+      "q": "इंपीरियल लाइब्रेरी का नाम बदलकर 'राष्ट्रीय पुस्तकालय' किस वर्ष किया गया? / In which year was the Imperial Library renamed as the 'National Library'?"
+    },
+    {
+      "answer": "B",
+      "explanation": "लॉर्ड कर्ज़न ने 1902 में इन पुस्तकालयों का विलय कर इंपीरियल लाइब्रेरी बनाई, जो 1903 में जनता के लिए खोली गई।",
+      "options": {
+        "A": "लॉर्ड रिपन / Lord Ripon",
+        "B": "लॉर्ड कर्ज़न / Lord Curzon",
+        "C": "लॉर्ड मिंटो / Lord Minto",
+        "D": "लॉर्ड हार्डिंग / Lord Hardinge"
+      },
+      "q": "कलकत्ता पब्लिक लाइब्रेरी और सरकारी सचिवालय पुस्तकालयों के विलय से इंपीरियल लाइब्रेरी का गठन किस वायसराय के काल में हुआ? / During the tenure of which Viceroy was the Imperial Library formed by merging the Calcutta Public Library and the Secretariat libraries?"
+    },
+    {
+      "answer": "A",
+      "explanation": "रंगनाथन ने 1948 में 'लाइब्रेमेट्री' शब्द प्रस्तावित किया, जिसका अर्थ है पुस्तकालय की गतिविधियों और सेवाओं का मात्रात्मक अध्ययन।",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "एलन प्रिचर्ड / Alan Pritchard",
+        "C": "यूजीन गारफ़ील्ड / Eugene Garfield",
+        "D": "एस. सी. ब्रैडफ़ोर्ड / S. C. Bradford"
+      },
+      "q": "'लाइब्रेमेट्री' (Librametry) शब्द किसने दिया था? / Who coined the term 'Librametry'?"
+    },
+    {
+      "answer": "C",
+      "explanation": "मद्रास पुस्तकालय संघ की स्थापना 1928 में रंगनाथन के प्रयासों से हुई। इसी संघ ने बाद में द्विबिंदु वर्गीकरण का प्रकाशन भी किया।",
+      "options": {
+        "A": "1914 / 1914",
+        "B": "1933 / 1933",
+        "C": "1928 / 1928",
+        "D": "1947 / 1947"
+      },
+      "q": "मद्रास पुस्तकालय संघ (MALA) की स्थापना किस वर्ष हुई थी? / In which year was the Madras Library Association (MALA) founded?"
+    },
+    {
+      "answer": "D",
+      "explanation": "रंगनाथन ने 1930 में बनारस में आयोजित अखिल एशिया शैक्षणिक सम्मेलन में मॉडल पुस्तकालय अधिनियम का मसौदा प्रस्तुत किया था।",
+      "options": {
+        "A": "1920 / 1920",
+        "B": "1940 / 1940",
+        "C": "1950 / 1950",
+        "D": "1930 / 1930"
+      },
+      "q": "रंगनाथन ने प्रारूप (मॉडल) पुस्तकालय अधिनियम का मसौदा किस वर्ष तैयार किया था? / In which year did Ranganathan draft the Model Library Act?"
+    },
+    {
+      "answer": "A",
+      "explanation": "गोवा सार्वजनिक पुस्तकालय अधिनियम 1993 में पारित हुआ और 1994 से प्रभावी हुआ।",
+      "options": {
+        "A": "1993 / 1993",
+        "B": "1983 / 1983",
+        "C": "1989 / 1989",
+        "D": "2001 / 2001"
+      },
+      "q": "गोवा सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Goa Public Libraries Act passed?"
+    },
+    {
+      "answer": "B",
+      "explanation": "ट्रेडमार्क अधिनियम, 1999 के अनुसार ट्रेडमार्क का पंजीकरण 10 वर्ष के लिए होता है, जिसका नवीनीकरण संभव है।",
+      "options": {
+        "A": "5 वर्ष / 5 years",
+        "B": "10 वर्ष / 10 years",
+        "C": "7 वर्ष / 7 years",
+        "D": "20 वर्ष / 20 years"
+      },
+      "q": "भारत में ट्रेडमार्क पंजीकरण की अवधि कितनी होती है? / What is the duration of trademark registration in India?"
+    },
+    {
+      "answer": "C",
+      "explanation": "नालंदा के पुस्तकालय परिसर को धर्मगंज कहा जाता था। इसके तीन भवन थे — रत्नसागर, रत्नोदधि और रत्नरंजक।",
+      "options": {
+        "A": "ज्ञानगंगा / Gyanganga",
+        "B": "विद्याभंडार / Vidyabhandar",
+        "C": "धर्मगंज / Dharmaganja",
+        "D": "सरस्वती सदन / Saraswati Sadan"
+      },
+      "q": "प्राचीन नालंदा विश्वविद्यालय के पुस्तकालय का नाम क्या था? / What was the name of the library of the ancient Nalanda University?"
+    },
+    {
+      "answer": "D",
+      "explanation": "एंड्रयू कारनेगी ने विश्व के विभिन्न देशों में लगभग 2,500 पुस्तकालय भवनों के निर्माण हेतु अनुदान दिया था।",
+      "options": {
+        "A": "जॉन डी. रॉकफ़ेलर / John D. Rockefeller",
+        "B": "हेनरी फ़ोर्ड / Henry Ford",
+        "C": "बिल गेट्स / Bill Gates",
+        "D": "एंड्रयू कारनेगी / Andrew Carnegie"
+      },
+      "q": "विश्व भर में सार्वजनिक पुस्तकालय भवनों के निर्माण हेतु विशाल दान देने वाले प्रसिद्ध उद्योगपति कौन थे? / Which famous industrialist gave huge donations for building public libraries across the world?"
+    },
+    {
+      "answer": "A",
+      "explanation": "DDC की तालिका 4 में व्यक्तिगत भाषाओं तथा भाषा-परिवारों के उपविभाजन दिए गए हैं, जिनका प्रयोग मुख्य वर्ग 400 के साथ होता है।",
+      "options": {
+        "A": "व्यक्तिगत भाषाओं के उपविभाजन / Subdivisions of Individual Languages and Language Families",
+        "B": "मानक उपविभाजन / Standard Subdivisions",
+        "C": "भौगोलिक क्षेत्र / Geographical Areas",
+        "D": "जातीय और राष्ट्रीय समूह / Ethnic and National Groups"
+      },
+      "q": "DDC की तालिका 4 (Table 4) किससे संबंधित है? / DDC Table 4 is related to:"
+    },
+    {
+      "answer": "B",
+      "explanation": "DDC में 200 धर्म के लिए है। 100 दर्शन एवं मनोविज्ञान और 400 भाषा के लिए निर्धारित है।",
+      "options": {
+        "A": "दर्शन और मनोविज्ञान / Philosophy and Psychology",
+        "B": "धर्म / Religion",
+        "C": "भाषा / Language",
+        "D": "कला / Arts"
+      },
+      "q": "DDC में मुख्य वर्ग 200 किस विषय को दर्शाता है? / In DDC, Main Class 200 represents:"
+    },
+    {
+      "answer": "D",
+      "explanation": "DDC में 020 पुस्तकालय एवं सूचना विज्ञान के लिए है, जबकि 025 पुस्तकालय संचालन के लिए प्रयुक्त होता है।",
+      "options": {
+        "A": "010 / 010",
+        "B": "001 / 001",
+        "C": "025 / 025",
+        "D": "020 / 020"
+      },
+      "q": "DDC में पुस्तकालय एवं सूचना विज्ञान हेतु कौन-सी वर्ग संख्या निर्धारित है? / Which class number is assigned to Library and Information Science in DDC?"
+    },
+    {
+      "answer": "C",
+      "explanation": "1876 में प्रकाशित DDC का प्रथम संस्करण मात्र 44 पृष्ठों का था। आज यही योजना हज़ारों पृष्ठों में विस्तृत हो चुकी है।",
+      "options": {
+        "A": "100 / 100",
+        "B": "143 / 143",
+        "C": "44 / 44",
+        "D": "425 / 425"
+      },
+      "q": "DDC के प्रथम संस्करण (1876) में कुल कितने पृष्ठ थे? / How many pages did the first edition of DDC (1876) contain?"
+    },
+    {
+      "answer": "A",
+      "explanation": "द्विबिंदु वर्गीकरण में B गणित के लिए है; C भौतिकी और D इंजीनियरिंग के लिए प्रयुक्त होता है।",
+      "options": {
+        "A": "गणित / Mathematics",
+        "B": "भौतिकी / Physics",
+        "C": "रसायन विज्ञान / Chemistry",
+        "D": "जीव विज्ञान / Biology"
+      },
+      "q": "द्विबिंदु वर्गीकरण में मुख्य वर्ग 'B' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'B' represents:"
+    },
+    {
+      "answer": "B",
+      "explanation": "UDC में कोलन दो वर्ग संख्याओं के बीच सरल संबंध दर्शाता है, जबकि '+' चिह्न संकलन या योग के लिए प्रयुक्त होता है।",
+      "options": {
+        "A": "दो विषयों के योग हेतु / Addition of two subjects",
+        "B": "दो विषयों के बीच संबंध दर्शाने हेतु / Indicating relation between two subjects",
+        "C": "समय दर्शाने हेतु / Indicating time",
+        "D": "स्थान दर्शाने हेतु / Indicating place"
+      },
+      "q": "UDC में ':' (कोलन) चिह्न का प्रयोग किसके लिए होता है? / In UDC, the ':' (colon) sign is used for:"
+    },
+    {
+      "answer": "D",
+      "explanation": "LCC में Q विज्ञान के लिए है। R चिकित्सा, S कृषि और T प्रौद्योगिकी के लिए निर्धारित हैं।",
+      "options": {
+        "A": "प्रौद्योगिकी / Technology",
+        "B": "चिकित्सा / Medicine",
+        "C": "कृषि / Agriculture",
+        "D": "विज्ञान / Science"
+      },
+      "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) में वर्ग 'Q' किस विषय के लिए है? / In the Library of Congress Classification (LCC), Class 'Q' is for:"
+    },
+    {
+      "answer": "C",
+      "explanation": "टैग 700 व्यक्तिगत नाम की अतिरिक्त प्रविष्टि के लिए है। व्यक्तिगत नाम की मुख्य प्रविष्टि हेतु टैग 100 प्रयुक्त होता है।",
+      "options": {
+        "A": "भौतिक विवरण / Physical Description",
+        "B": "प्रकाशन विवरण / Publication Details",
+        "C": "व्यक्तिगत नाम अतिरिक्त प्रविष्टि / Added Entry — Personal Name",
+        "D": "विषय अतिरिक्त प्रविष्टि / Subject Added Entry"
+      },
+      "q": "MARC 21 में टैग 700 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 700 is used for:"
+    },
+    {
+      "answer": "B",
+      "explanation": "MARC अभिलेख का लीडर 24 अक्षरों का निश्चित लंबाई वाला क्षेत्र होता है, जो अभिलेख के प्रसंस्करण हेतु आवश्यक जानकारी देता है।",
+      "options": {
+        "A": "12 अक्षर / 12 characters",
+        "B": "24 अक्षर / 24 characters",
+        "C": "20 अक्षर / 20 characters",
+        "D": "40 अक्षर / 40 characters"
+      },
+      "q": "MARC अभिलेख में 'लीडर' (Leader) क्षेत्र की लंबाई कितनी होती है? / What is the length of the 'Leader' field in a MARC record?"
+    },
+    {
+      "answer": "A",
+      "explanation": "AACR-2 में विवरण के तीन स्तर हैं — प्रथम, द्वितीय और तृतीय। पुस्तकालय अपनी आवश्यकता के अनुसार कोई भी स्तर अपना सकता है।",
+      "options": {
+        "A": "तीन / Three",
+        "B": "दो / Two",
+        "C": "चार / Four",
+        "D": "आठ / Eight"
+      },
+      "q": "AACR-2 में ग्रंथात्मक विवरण के कुल कितने स्तर (Levels) बताए गए हैं? / How many levels of description are provided in AACR-2?"
+    },
+    {
+      "answer": "D",
+      "explanation": "CCC में पाँच प्रकार की प्रविष्टियाँ होती हैं — मुख्य प्रविष्टि, प्रतिनिर्देश प्रविष्टि, वर्ग निर्देशि प्रविष्टि, ग्रंथ निर्देशि प्रविष्टि और प्रतिनिर्देश निर्देशि प्रविष्टि।",
+      "options": {
+        "A": "तीन / Three",
+        "B": "चार / Four",
+        "C": "छह / Six",
+        "D": "पाँच / Five"
+      },
+      "q": "वर्गीकृत सूची संहिता (CCC) के अनुसार सूची प्रविष्टियाँ कुल कितने प्रकार की होती हैं? / According to the Classified Catalogue Code (CCC), how many types of entries are there in a catalogue?"
+    },
+    {
+      "answer": "C",
+      "explanation": "AACR-2 का संपादन माइकल गॉर्मन और पॉल डब्ल्यू. विंकलर ने किया था। यह 1978 में प्रकाशित हुआ था।",
+      "options": {
+        "A": "चार्ल्स ए. कटर / Charles A. Cutter",
+        "B": "मार्गरेट मान / Margaret Mann",
+        "C": "माइकल गॉर्मन / Michael Gorman",
+        "D": "एंथनी पैनिज़ी / Anthony Panizzi"
+      },
+      "q": "AACR-2 के प्रमुख संपादक कौन थे? / Who was the chief editor of AACR-2?"
+    },
+    {
+      "answer": "B",
+      "explanation": "अमेरिकन लाइब्रेरी एसोसिएशन और लाइब्रेरी एसोसिएशन (यूके) की संयुक्त सूचीकरण संहिता 1908 में प्रकाशित हुई थी।",
+      "options": {
+        "A": "1876 / 1876",
+        "B": "1908 / 1908",
+        "C": "1949 / 1949",
+        "D": "1967 / 1967"
+      },
+      "q": "प्रथम संयुक्त एंग्लो-अमेरिकन सूचीकरण संहिता 'Catalog Rules: Author and Title Entries' किस वर्ष प्रकाशित हुई? / In which year was the first joint Anglo-American cataloguing code 'Catalog Rules: Author and Title Entries' published?"
+    },
+    {
+      "answer": "A",
+      "explanation": "भारतीय राष्ट्रीय ग्रंथसूची का प्रकाशन केंद्रीय संदर्भ पुस्तकालय, कोलकाता द्वारा मासिक रूप से किया जाता है।",
+      "options": {
+        "A": "मासिक / Monthly",
+        "B": "साप्ताहिक / Weekly",
+        "C": "त्रैमासिक / Quarterly",
+        "D": "वार्षिक / Annual"
+      },
+      "q": "भारतीय राष्ट्रीय ग्रंथसूची (INB) किस आवृत्ति से प्रकाशित होती है? / With what frequency is the Indian National Bibliography (INB) published?"
+    },
+    {
+      "answer": "C",
+      "explanation": "BNB का प्रकाशन 1950 से साप्ताहिक रूप से होता है। इसमें ब्रिटेन में प्रकाशित नई पुस्तकों का अभिलेख मिलता है।",
+      "options": {
+        "A": "दैनिक / Daily",
+        "B": "मासिक / Monthly",
+        "C": "साप्ताहिक / Weekly",
+        "D": "त्रैमासिक / Quarterly"
+      },
+      "q": "ब्रिटिश नेशनल बिब्लियोग्राफ़ी (BNB) किस आवृत्ति से प्रकाशित होती है? / With what frequency is the British National Bibliography (BNB) published?"
+    },
+    {
+      "answer": "D",
+      "explanation": "एशियन रिकॉर्डर 1955 से नई दिल्ली से प्रकाशित होता है। यह एशिया की प्रमुख घटनाओं का साप्ताहिक सार प्रस्तुत करता है।",
+      "options": {
+        "A": "कराची / Karachi",
+        "B": "कोलंबो / Colombo",
+        "C": "ढाका / Dhaka",
+        "D": "नई दिल्ली / New Delhi"
+      },
+      "q": "'एशियन रिकॉर्डर' (Asian Recorder) समाचार-सार सेवा का प्रकाशन कहाँ से होता है? / From where is the 'Asian Recorder' news digest service published?"
+    },
+    {
+      "answer": "A",
+      "explanation": "जेम्स आई. वायर ने संदर्भ सेवा की तीन विचारधाराएँ बताई थीं — रूढ़िवादी, मध्यम और उदारवादी।",
+      "options": {
+        "A": "जेम्स आई. वायर / James I. Wyer",
+        "B": "सैमुअल स्वेट ग्रीन / Samuel Swett Green",
+        "C": "मार्गरेट हचिन्स / Margaret Hutchins",
+        "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+      },
+      "q": "संदर्भ सेवा के रूढ़िवादी, मध्यम और उदारवादी सिद्धांतों का प्रतिपादन किसने किया था? / Who propounded the Conservative, Moderate and Liberal theories of Reference Service?"
+    },
+    {
+      "answer": "B",
+      "explanation": "पॉल ज़ुर्कोव्स्की ने 1974 में 'सूचना साक्षरता' शब्द का प्रयोग किया था। बाद में यह पुस्तकालय शिक्षा का प्रमुख विषय बन गया।",
+      "options": {
+        "A": "यूजीन गारफ़ील्ड / Eugene Garfield",
+        "B": "पॉल जी. ज़ुर्कोव्स्की / Paul G. Zurkowski",
+        "C": "एफ़. डब्ल्यू. लैंकास्टर / F. W. Lancaster",
+        "D": "डेरेक डी सोला प्राइस / Derek de Solla Price"
+      },
+      "q": "'सूचना साक्षरता' (Information Literacy) शब्द का प्रयोग सर्वप्रथम किसने किया था? / Who first used the term 'Information Literacy'?"
+    },
+    {
+      "answer": "C",
+      "explanation": "ड्रुरी ने पुस्तक चयन का यह प्रसिद्ध सिद्धांत दिया था। मैककॉल्विन ने पुस्तक चयन का माँग सिद्धांत प्रतिपादित किया था।",
+      "options": {
+        "A": "एल. आर. मैककॉल्विन / L. R. McColvin",
+        "B": "मेल्विल डेवी / Melvil Dewey",
+        "C": "फ़्रांसिस के. डब्ल्यू. ड्रुरी / Francis K. W. Drury",
+        "D": "सी. ए. कटर / C. A. Cutter"
+      },
+      "q": "'सही पाठक को, सही पुस्तक, सही समय पर उपलब्ध कराना' — पुस्तक चयन का यह सिद्धांत किससे जुड़ा है? / The book selection principle 'the right book to the right reader at the right time' is associated with:"
+    },
+    {
+      "answer": "D",
+      "explanation": "फेयोल ने प्रबंधन के पाँच तत्व बताए — पूर्वानुमान एवं योजना, संगठन, आदेश, समन्वय और नियंत्रण। उनके प्रसिद्ध प्रबंधन सिद्धांतों की संख्या चौदह है।",
+      "options": {
+        "A": "चार / Four",
+        "B": "छह / Six",
+        "C": "चौदह / Fourteen",
+        "D": "पाँच / Five"
+      },
+      "q": "हेनरी फेयोल ने प्रबंधन के कुल कितने तत्व (कार्य) बताए थे? / How many elements (functions) of management did Henri Fayol describe?"
+    },
+    {
+      "answer": "B",
+      "explanation": "INIS की स्थापना 1970 में अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) द्वारा वियना में की गई थी।",
+      "options": {
+        "A": "यूनेस्को / UNESCO",
+        "B": "अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) / International Atomic Energy Agency (IAEA)",
+        "C": "खाद्य एवं कृषि संगठन / Food and Agriculture Organization",
+        "D": "विश्व स्वास्थ्य संगठन / World Health Organization"
+      },
+      "q": "अंतरराष्ट्रीय परमाणु सूचना प्रणाली (INIS) किस संस्था द्वारा संचालित है? / The International Nuclear Information System (INIS) is operated by:"
+    },
+    {
+      "answer": "A",
+      "explanation": "AGRIS की शुरुआत 1974 में खाद्य एवं कृषि संगठन (FAO) ने की थी। यह कृषि साहित्य का विश्वस्तरीय डेटाबेस है।",
+      "options": {
+        "A": "खाद्य एवं कृषि संगठन (FAO) / Food and Agriculture Organization (FAO)",
+        "B": "अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) / IAEA",
+        "C": "यूनेस्को / UNESCO",
+        "D": "भारतीय कृषि अनुसंधान परिषद (ICAR) / ICAR"
+      },
+      "q": "कृषि विज्ञान एवं प्रौद्योगिकी की अंतरराष्ट्रीय सूचना प्रणाली AGRIS किस संस्था द्वारा प्रारंभ की गई थी? / The AGRIS international information system for agricultural science and technology was started by:"
+    },
+    {
+      "answer": "C",
+      "explanation": "MEDLARS का पूर्ण रूप Medical Literature Analysis and Retrieval System है। इसे अमेरिका के राष्ट्रीय चिकित्सा पुस्तकालय (NLM) ने 1964 में प्रारंभ किया था।",
+      "options": {
+        "A": "Medical Library and Reference System / Medical Library and Reference System",
+        "B": "Medical Literature and Research Service / Medical Literature and Research Service",
+        "C": "Medical Literature Analysis and Retrieval System / Medical Literature Analysis and Retrieval System",
+        "D": "Medicine and Library Retrieval System / Medicine and Library Retrieval System"
+      },
+      "q": "MEDLARS का पूर्ण रूप क्या है? / What is the full form of MEDLARS?"
+    },
+    {
+      "answer": "D",
+      "explanation": "INSPEC की शुरुआत इलेक्ट्रिकल इंजीनियर्स संस्थान (IEE) ने की थी, जो अब IET का भाग है। यह विज्ञान एवं प्रौद्योगिकी का प्रमुख सारकरण डेटाबेस है।",
+      "options": {
+        "A": "आई.ई.ई.ई. / IEEE",
+        "B": "ब्रिटिश लाइब्रेरी / British Library",
+        "C": "एल्सेवियर / Elsevier",
+        "D": "इंस्टीट्यूशन ऑफ़ इंजीनियरिंग एंड टेक्नोलॉजी (IET) / Institution of Engineering and Technology (IET)"
+      },
+      "q": "भौतिकी, इलेक्ट्रॉनिक्स और कंप्यूटिंग का INSPEC डेटाबेस किस संस्था द्वारा तैयार किया जाता है? / The INSPEC database for physics, electronics and computing is produced by:"
+    },
+    {
+      "answer": "A",
+      "explanation": "माइकल केसी ने 2005 में 'Library 2.0' शब्द का प्रयोग किया। टिम ओ'राइली 'Web 2.0' शब्द से जुड़े हैं।",
+      "options": {
+        "A": "माइकल केसी / Michael Casey",
+        "B": "टिम ओ'राइली / Tim O'Reilly",
+        "C": "माइकल हार्ट / Michael Hart",
+        "D": "ब्रूस्टर काहले / Brewster Kahle"
+      },
+      "q": "'लाइब्रेरी 2.0' (Library 2.0) शब्द किसने दिया था? / Who coined the term 'Library 2.0'?"
+    },
+    {
+      "answer": "B",
+      "explanation": "विदेश संचार निगम लिमिटेड (VSNL) ने 15 अगस्त 1995 को भारत में सार्वजनिक इंटरनेट सेवा प्रारंभ की थी।",
+      "options": {
+        "A": "15 अगस्त 1991 / 15 August 1991",
+        "B": "15 अगस्त 1995 / 15 August 1995",
+        "C": "26 जनवरी 2000 / 26 January 2000",
+        "D": "1 जनवरी 1990 / 1 January 1990"
+      },
+      "q": "भारत में सार्वजनिक इंटरनेट सेवा (VSNL द्वारा) कब प्रारंभ हुई? / When was public Internet service launched in India (by VSNL)?"
+    },
+    {
+      "answer": "D",
+      "explanation": "DSpace का विकास MIT पुस्तकालयों और HP लैब्स ने मिलकर किया था। ग्रीनस्टोन वाइकाटो विश्वविद्यालय और EPrints साउथेम्प्टन विश्वविद्यालय से जुड़े हैं।",
+      "options": {
+        "A": "वाइकाटो विश्वविद्यालय / University of Waikato",
+        "B": "साउथेम्प्टन विश्वविद्यालय / University of Southampton",
+        "C": "सर्न (CERN) / CERN",
+        "D": "MIT पुस्तकालय और हेवलेट-पैकार्ड (HP) / MIT Libraries and Hewlett-Packard (HP)"
+      },
+      "q": "DSpace सॉफ़्टवेयर का विकास किनके द्वारा किया गया था? / DSpace software was developed by:"
+    },
+    {
+      "answer": "C",
+      "explanation": "कोहा 1999 में न्यूज़ीलैंड के होरोव्हेनुआ पुस्तकालय न्यास के लिए विकसित हुआ था। यह प्रथम मुक्त-स्रोत एकीकृत पुस्तकालय प्रणाली है।",
+      "options": {
+        "A": "अमेरिका / USA",
+        "B": "भारत / India",
+        "C": "न्यूज़ीलैंड / New Zealand",
+        "D": "फ़्रांस / France"
+      },
+      "q": "कोहा (Koha) पुस्तकालय सॉफ़्टवेयर मूलतः किस देश में विकसित हुआ था? / In which country was the Koha library software originally developed?"
+    },
+    {
+      "answer": "A",
+      "explanation": "माइकल हार्ट ने 1971 में प्रोजेक्ट गुटेनबर्ग प्रारंभ किया था। इसे विश्व की प्रथम डिजिटल लाइब्रेरी माना जाता है।",
+      "options": {
+        "A": "माइकल एस. हार्ट / Michael S. Hart",
+        "B": "ब्रूस्टर काहले / Brewster Kahle",
+        "C": "टिम बर्नर्स-ली / Tim Berners-Lee",
+        "D": "जिमी वेल्स / Jimmy Wales"
+      },
+      "q": "प्रोजेक्ट गुटेनबर्ग (Project Gutenberg) के संस्थापक कौन थे? / Who was the founder of Project Gutenberg?"
+    },
+    {
+      "answer": "B",
+      "explanation": "MALIBNET मद्रास (वर्तमान चेन्नई) का पुस्तकालय नेटवर्क है। CALIBNET कोलकाता और ADINET अहमदाबाद से संबंधित हैं।",
+      "options": {
+        "A": "मुंबई / Mumbai",
+        "B": "चेन्नई (मद्रास) / Chennai (Madras)",
+        "C": "अहमदाबाद / Ahmedabad",
+        "D": "पुणे / Pune"
+      },
+      "q": "MALIBNET पुस्तकालय नेटवर्क किस नगर से संबंधित है? / MALIBNET library network is associated with which city?"
+    },
+    {
+      "answer": "D",
+      "explanation": "UGC-INFONET की शुरुआत 2003 में हुई थी। इसका क्रियान्वयन INFLIBNET केंद्र द्वारा किया जाता है।",
+      "options": {
+        "A": "2000 / 2000",
+        "B": "2006 / 2006",
+        "C": "2010 / 2010",
+        "D": "2003 / 2003"
+      },
+      "q": "UGC-INFONET डिजिटल लाइब्रेरी कंसोर्टियम किस वर्ष प्रारंभ हुआ? / In which year was the UGC-INFONET Digital Library Consortium launched?"
+    },
+    {
+      "answer": "C",
+      "explanation": "संस्कृति मंत्रालय, भारत सरकार ने 2012 में राष्ट्रीय पुस्तकालय मिशन की शुरुआत की थी। इसका उद्देश्य पुस्तकालयों का आधुनिकीकरण है।",
+      "options": {
+        "A": "2005 / 2005",
+        "B": "2010 / 2010",
+        "C": "2012 / 2012",
+        "D": "2015 / 2015"
+      },
+      "q": "राष्ट्रीय पुस्तकालय मिशन (National Mission on Libraries) किस वर्ष प्रारंभ हुआ? / In which year was the National Mission on Libraries launched?"
+    },
+    {
+      "answer": "A",
+      "explanation": "1958 में गठित पुस्तकालय सलाहकार समिति के अध्यक्ष के. पी. सिन्हा थे। इसे सिन्हा समिति के नाम से जाना जाता है।",
+      "options": {
+        "A": "के. पी. सिन्हा / K. P. Sinha",
+        "B": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "C": "बी. एस. केसवन / B. S. Kesavan",
+        "D": "डी. आर. कालिया / D. R. Kalia"
+      },
+      "q": "भारत सरकार द्वारा 1958 में गठित 'पुस्तकालय सलाहकार समिति' के अध्यक्ष कौन थे? / Who was the chairman of the 'Advisory Committee for Libraries' appointed by the Government of India in 1958?"
+    },
+    {
+      "answer": "B",
+      "explanation": "डी. बी. कृष्णा राव को 1957 में दिल्ली विश्वविद्यालय से पुस्तकालय विज्ञान में भारत की प्रथम पीएचडी उपाधि प्राप्त हुई थी।",
+      "options": {
+        "A": "पी. एन. कौला / P. N. Kaula",
+        "B": "डी. बी. कृष्णा राव / D. B. Krishna Rao",
+        "C": "एस. बशीरुद्दीन / S. Bashiruddin",
+        "D": "बी. एस. केसवन / B. S. Kesavan"
+      },
+      "q": "भारत में पुस्तकालय विज्ञान में प्रथम पीएचडी उपाधि किसे प्राप्त हुई थी? / Who received the first PhD degree in Library Science in India?"
+    },
+    {
+      "answer": "D",
+      "explanation": "प्रो. पी. एन. कौला ने 1962 में लखनऊ से 'Herald of Library Science' नामक त्रैमासिक पत्रिका का प्रकाशन प्रारंभ किया था।",
+      "options": {
+        "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+        "B": "बी. एस. केसवन / B. S. Kesavan",
+        "C": "एम. ए. गोपीनाथ / M. A. Gopinath",
+        "D": "पी. एन. कौला / P. N. Kaula"
+      },
+      "q": "'Herald of Library Science' पत्रिका के संस्थापक कौन थे? / Who was the founder of the journal 'Herald of Library Science'?"
+    },
+    {
+      "answer": "C",
+      "explanation": "ISO 2709 सूचना विनिमय हेतु प्रारूप का अंतरराष्ट्रीय मानक है। MARC अभिलेखों की संरचना इसी मानक पर आधारित है।",
+      "options": {
+        "A": "ISO 9001 / ISO 9001",
+        "B": "ISO 690 / ISO 690",
+        "C": "ISO 2709 / ISO 2709",
+        "D": "ISO 3166 / ISO 3166"
+      },
+      "q": "MARC अभिलेखों की संरचना किस अंतरराष्ट्रीय मानक पर आधारित है? / The structure of MARC records is based on which international standard?"
+    },
+    {
+      "answer": "A",
+      "explanation": "लियो एघे ने 2006 में h-index के सुधार के रूप में g-index प्रस्तावित किया था। h-index का प्रतिपादन जॉर्ज हिर्श ने किया था।",
+      "options": {
+        "A": "लियो एघे / Leo Egghe",
+        "B": "जॉर्ज हिर्श / Jorge Hirsch",
+        "C": "यूजीन गारफ़ील्ड / Eugene Garfield",
+        "D": "डेरेक डी सोला प्राइस / Derek de Solla Price"
+      },
+      "q": "ग्रंथमिति का 'g-index' किसने प्रस्तावित किया था? / Who proposed the 'g-index' in bibliometrics?"
+    },
+    {
+      "answer": "B",
+      "explanation": "जर्मन वैज्ञानिक ओट्टो नाके ने 1979 में 'Informetrics' शब्द दिया था। नालिमोव 'Scientometrics' शब्द से जुड़े हैं।",
+      "options": {
+        "A": "वैसिली नालिमोव / Vassily Nalimov",
+        "B": "ओट्टो नाके / Otto Nacke",
+        "C": "एलन प्रिचर्ड / Alan Pritchard",
+        "D": "टॉमस अलमाइंड / Tomas Almind"
+      },
+      "q": "'Informetrics' (सूचनामिति) शब्द किसने दिया था? / Who coined the term 'Informetrics'?"
+    }
+  ],
+  "subject": "BLIS"
+}
