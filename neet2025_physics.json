@@ -1,0 +1,632 @@
+[
+ {
+  "n": 1,
+  "subject": "Physics",
+  "q_en": "Consider a water tank shown in the figure. It has one wall at x = L and can be taken to be very wide in the z direction. When filled with a liquid of surface tension S and density ρ, the liquid surface makes an angle θ (θ << 1) with the x-axis at x = L. If y(x) is the height of the surface, then the equation for y(x) is (take θ(x) = sin θ(x) = tan θ(x) = dy/dx; g is the acceleration due to gravity):",
+  "options": [
+   "dy/dx = √(ρg/S) x",
+   "d²y/dx² = (ρg/S) x",
+   "d²y/dx² = (ρg/S) y",
+   "d²y/dx² = √(ρg/S)"
+  ],
+  "answer": 2,
+  "exp_hi": "सतह का आकार दो दबावों के संतुलन से तय होता है — पृष्ठ तनाव से उत्पन्न दबाव S × d²y/dx² तथा द्रवस्थैतिक दबाव ρgy(x)। Young-Laplace समीकरण से दोनों को बराबर रखने पर S × d²y/dx² = ρgy(x), अर्थात d²y/dx² = (ρg/S) y(x) प्राप्त होता है।",
+  "figure": true
+ },
+ {
+  "n": 2,
+  "subject": "Physics",
+  "q_en": "A microscope has an objective of focal length 2 cm, eyepiece of focal length 4 cm and the tube length of 40 cm. If the distance of distinct vision of the eye is 25 cm, the magnification of the microscope is:",
+  "options": [
+   "250",
+   "100",
+   "125",
+   "150"
+  ],
+  "answer": 2,
+  "exp_hi": "संयुक्त सूक्ष्मदर्शी का कुल आवर्धन M = (L/f_o) × (D/f_e) होता है। मान रखने पर M = (40/2) × (25/4) = 20 × 6.25 = 125 प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 3,
+  "subject": "Physics",
+  "q_en": "An electron (mass 9 × 10^-31 kg and charge 1.6 × 10^-19 C) moving with speed c/100 (c = speed of light) is injected into a magnetic field B of magnitude 9 × 10^-4 T perpendicular to its direction of motion. We wish to apply a uniform electric field E together with the magnetic field so that the electron does not deflect from its path. Then (speed of light c = 3 × 10^8 m/s):",
+  "options": [
+   "E is parallel to B and its magnitude is 27 × 10^4 V/m",
+   "E is perpendicular to B and its magnitude is 27 × 10^4 V/m",
+   "E is perpendicular to B and its magnitude is 27 × 10^2 V/m",
+   "E is parallel to B and its magnitude is 27 × 10^2 V/m"
+  ],
+  "answer": 2,
+  "exp_hi": "अविक्षेपण के लिए विद्युत बल और चुंबकीय बल बराबर व विपरीत होने चाहिए: qE = qvB, अर्थात E = vB। v = c/100 = 3 × 10^6 m/s और B = 9 × 10^-4 T रखने पर E = 3 × 10^6 × 9 × 10^-4 = 27 × 10^2 V/m मिलता है, और E की दिशा B के लंबवत होनी चाहिए।",
+  "figure": false
+ },
+ {
+  "n": 4,
+  "subject": "Physics",
+  "q_en": "There are two inclined surfaces of equal length (L) and same angle of inclination 45° with the horizontal. One of them is rough and the other is perfectly smooth. A given body takes 2 times as much time to slide down on the rough surface than on the smooth surface. The coefficient of kinetic friction (μ_k) between the object and the rough surface is close to:",
+  "options": [
+   "0.75",
+   "0.25",
+   "0.40",
+   "0.5"
+  ],
+  "answer": 0,
+  "exp_hi": "फिसलने का समय t = √(2L/a) होता है। चिकनी सतह पर त्वरण a = g sin 45° है। खुरदरी सतह पर समय दोगुना है, अर्थात त्वरण एक-चौथाई होगा: g(sin 45° − μ_k cos 45°) = (g sin 45°)/4। θ = 45° पर sin θ = cos θ, इसलिए 1 − μ_k = 1/4, अर्थात μ_k = 0.75।",
+  "figure": false
+ },
+ {
+  "n": 5,
+  "subject": "Physics",
+  "q_en": "The kinetic energies of two similar cars A and B are 100 J and 225 J respectively. On applying brakes, car A stops after 1000 m and car B stops after 1500 m. If F_A and F_B are the forces applied by the brakes on cars A and B respectively, then the ratio F_A/F_B is:",
+  "options": [
+   "1/2",
+   "3/2",
+   "2/3",
+   "1/3"
+  ],
+  "answer": 2,
+  "exp_hi": "कार्य-ऊर्जा प्रमेय से ब्रेक बल × रुकने की दूरी = गतिज ऊर्जा। F_A = 100/1000 = 0.1 N और F_B = 225/1500 = 0.15 N, इसलिए F_A/F_B = 0.1/0.15 = 2/3।",
+  "figure": false
+ },
+ {
+  "n": 6,
+  "subject": "Physics",
+  "q_en": "The current passing through the battery in the given circuit is:",
+  "options": [
+   "1.5 A",
+   "2.0 A",
+   "0.5 A",
+   "2.5 A"
+  ],
+  "answer": 2,
+  "exp_hi": "परिपथ को सरल करने पर B–D के बीच दो पथ समांतर में मिलते हैं — 4 Ω और 7.5 Ω, जिनका तुल्य प्रतिरोध लगभग 2.61 Ω होता है। श्रेणी के शेष प्रतिरोध जोड़ने पर कुल प्रतिरोध लगभग 10 Ω होता है, इसलिए बैटरी की धारा I = V/R = 5/10 = 0.5 A।",
+  "figure": true
+ },
+ {
+  "n": 7,
+  "subject": "Physics",
+  "q_en": "A bob of heavy mass m is suspended by a light string of length l. The bob is given a horizontal velocity v_0 as shown in the figure. If the string gets slack at some point P making an angle θ from the horizontal, the ratio of the speed of the bob at point P to its initial speed v_0 is:",
+  "options": [
+   "(sin θ / (2 + 3 sin θ))^(1/2)",
+   "(sin θ)^(1/2)",
+   "(1 / (2 + 3 sin θ))^(1/2)",
+   "(cos θ / (2 + 3 sin θ))^(1/2)"
+  ],
+  "answer": 3,
+  "exp_hi": "बिंदु P पर डोरी ढीली होने की शर्त (अभिकेंद्रीय बल = भार का घटक) और ऊर्जा संरक्षण को साथ हल करने पर v² = gl cos θ तथा v_0² = gl(2 + 3 sin θ) मिलता है। अतः v/v_0 = (cos θ / (2 + 3 sin θ))^(1/2)।",
+  "figure": true
+ },
+ {
+  "n": 8,
+  "subject": "Physics",
+  "q_en": "The output (Y) of the given logic circuit implementation is similar to the output of a/an:",
+  "options": [
+   "NOR",
+   "AND",
+   "NAND",
+   "OR"
+  ],
+  "answer": 2,
+  "exp_hi": "दिए गए गेट संयोजन की सत्यता सारणी NAND गेट जैसी है — निर्गम Y तभी 0 होता है जब दोनों निवेश उच्च (1) हों, अन्य सभी स्थितियों में निर्गम 1 रहता है। इसलिए यह संयोजन NAND गेट के समतुल्य है।",
+  "figure": true
+ },
+ {
+  "n": 9,
+  "subject": "Physics",
+  "q_en": "The electric field in a plane electromagnetic wave is given by E_z = 60 cos(5x + 1.5 × 10^9 t) V/m. Then the expression for the corresponding magnetic field is (here, subscripts denote the direction of the field):",
+  "options": [
+   "B_y = 60 sin(5x + 1.5 × 10^9 t) T",
+   "B_y = 2 × 10^-7 cos(5x + 1.5 × 10^9 t) T",
+   "B_x = 2 × 10^-7 cos(5x + 1.5 × 10^9 t) T",
+   "B_z = 60 cos(5x + 1.5 × 10^9 t) T"
+  ],
+  "answer": 1,
+  "exp_hi": "विद्युत-चुंबकीय तरंग में B_0 = E_0/c होता है, इसलिए B_0 = 60 / (3 × 10^8) = 2 × 10^-7 T। चुंबकीय क्षेत्र विद्युत क्षेत्र के लंबवत (y-दिशा में) होता है और समय के साथ उसी cos रूप में बदलता है।",
+  "figure": false
+ },
+ {
+  "n": 10,
+  "subject": "Physics",
+  "q_en": "A ball of mass 0.5 kg is dropped from a height of 40 m. The ball hits the ground and rises to a height of 10 m. The impulse imparted to the ball during its collision with the ground is (Take g = 9.8 m/s²):",
+  "options": [
+   "84 Ns",
+   "21 Ns",
+   "7 Ns",
+   "0"
+  ],
+  "answer": 1,
+  "exp_hi": "टकराने से ठीक पहले चाल v_1 = √(2 × 9.8 × 40) = 28 m/s (नीचे की ओर) और उछलने के तुरंत बाद v_2 = √(2 × 9.8 × 10) = 14 m/s (ऊपर की ओर)। आवेग = संवेग में परिवर्तन = 0.5 × (14 − (−28)) = 0.5 × 42 = 21 Ns।",
+  "figure": false
+ },
+ {
+  "n": 11,
+  "subject": "Physics",
+  "q_en": "AB is a part of an electrical circuit (see figure). The potential difference \"V_A − V_B\", at the instant when current i = 2 A is flowing and is increasing at the rate of 1 ampere/second, is:",
+  "options": [
+   "10 volt",
+   "5 volt",
+   "6 volt",
+   "9 volt"
+  ],
+  "answer": 0,
+  "exp_hi": "शाखा AB में प्रेरक, बैटरी और प्रतिरोध के विभव परिवर्तनों को चिह्न सहित जोड़ने पर V_A − V_B = L(di/dt) का 1 V + बैटरी का 5 V + iR का 4 V = 10 volt प्राप्त होता है।",
+  "figure": true
+ },
+ {
+  "n": 12,
+  "subject": "Physics",
+  "q_en": "A current of 2 ampere is flowing through two different small circular copper coils having radii in the ratio 1 : 2. The ratio of their respective magnetic moments will be:",
+  "options": [
+   "4 : 1",
+   "1 : 4",
+   "1 : 2",
+   "2 : 1"
+  ],
+  "answer": 1,
+  "exp_hi": "चुंबकीय आघूर्ण M = I × A होता है और वृत्त का क्षेत्रफल A ∝ r²। दोनों कुंडलियों में धारा समान है, इसलिए M_1/M_2 = (r_1/r_2)² = (1/2)² = 1/4, अर्थात अनुपात 1 : 4।",
+  "figure": false
+ },
+ {
+  "n": 13,
+  "subject": "Physics",
+  "q_en": "In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power (p) and magnification (m) for each lens will be, respectively:",
+  "options": [
+   "p^4 and m^4",
+   "4p and 4m",
+   "p^4 and 4m",
+   "4p and m^4"
+  ],
+  "answer": 3,
+  "exp_hi": "संपर्क में रखे लेंसों की क्षमताएँ जुड़ जाती हैं: P = p + p + p + p = 4p। इसके विपरीत आवर्धन गुणा हो जाते हैं: M = m × m × m × m = m^4। अतः संयोजन की क्षमता 4p और कुल आवर्धन m^4 होगा।",
+  "figure": false
+ },
+ {
+  "n": 14,
+  "subject": "Physics",
+  "q_en": "An oxygen cylinder of volume 30 litre has 18.20 moles of oxygen. After some oxygen is withdrawn from the cylinder, its gauge pressure drops to 11 atmospheric pressure at temperature 27°C. The mass of the oxygen withdrawn from the cylinder is nearly equal to: [Given, R = 100/12 J mol^-1 K^-1, molecular mass of O_2 = 32, 1 atm pressure = 1.01 × 10^5 N/m²]",
+  "options": [
+   "0.144 kg",
+   "0.116 kg",
+   "0.156 kg",
+   "0.125 kg"
+  ],
+  "answer": 2,
+  "exp_hi": "आदर्श गैस समीकरण PV = (n − x)RT में P = 11 atm, V = 30 litre और T = 300 K रखने पर निकाले गए मोल x = 4.868 mol आते हैं। निकला द्रव्यमान = 4.868 × 32 g ≈ 0.156 kg।",
+  "figure": false
+ },
+ {
+  "n": 15,
+  "subject": "Physics",
+  "q_en": "In some appropriate units, the time (t) and position (x) relation of a moving particle is given by t = x² + x. The acceleration of the particle is:",
+  "options": [
+   "2/(2x + 1)",
+   "−2/(x + 2)^3",
+   "−2/(2x + 1)^3",
+   "2/(x + 1)^3"
+  ],
+  "answer": 2,
+  "exp_hi": "t = x² + x का अवकलन करने पर dt/dx = 2x + 1, अर्थात वेग v = dx/dt = 1/(2x + 1)। शृंखला नियम से पुनः अवकलन करने पर त्वरण a = dv/dt = −2/(2x + 1)^3 प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 16,
+  "subject": "Physics",
+  "q_en": "To an ac power supply of 220 V at 50 Hz, a resistor of 20 Ω, a capacitor of reactance 25 Ω and an inductor of reactance 45 Ω are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage are, respectively:",
+  "options": [
+   "15.6 A and 45°",
+   "7.8 A and 30°",
+   "7.8 A and 45°",
+   "15.6 A and 30°"
+  ],
+  "answer": 2,
+  "exp_hi": "कुल प्रतिघात X = X_L − X_C = 45 − 25 = 20 Ω, इसलिए प्रतिबाधा Z = √(20² + 20²) = 20√2 Ω। धारा I = 220/(20√2) ≈ 7.8 A और tan φ = X/R = 1 से कला कोण φ = 45°।",
+  "figure": false
+ },
+ {
+  "n": 17,
+  "subject": "Physics",
+  "q_en": "The Sun rotates around its centre once in 27 days. What will be the period of revolution if the Sun were to expand to twice its present radius without any external influence? Assume the Sun to be a sphere of uniform density.",
+  "options": [
+   "108 days",
+   "100 days",
+   "105 days",
+   "115 days"
+  ],
+  "answer": 0,
+  "exp_hi": "बाह्य बलाघूर्ण न होने से कोणीय संवेग संरक्षित रहता है: Iω = नियतांक, और गोले के लिए I ∝ R²। त्रिज्या दोगुनी होने पर आवर्तकाल चार गुना हो जाएगा: T = 4 × 27 = 108 days।",
+  "figure": false
+ },
+ {
+  "n": 18,
+  "subject": "Physics",
+  "q_en": "A model for quantized motion of an electron in a uniform magnetic field B states that the flux passing through the orbit of the electron is n(h/e), where n is an integer, h is Planck's constant and e is the magnitude of the electron's charge. According to the model, the magnetic moment of an electron in its lowest energy state will be (m is the mass of the electron):",
+  "options": [
+   "heB/(2πm)",
+   "he/(πm)",
+   "he/(2πm)",
+   "heB/(πm)"
+  ],
+  "answer": 2,
+  "exp_hi": "चुंबकीय आघूर्ण μ = I × A = evr/2 होता है और Lorentz बल से v = eBr/m मिलता है, इसलिए μ = e²Br²/(2m)। निम्नतम अवस्था (n = 1) में flux की शर्त Bπr² = h/e रखने पर μ = he/(2πm) प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 19,
+  "subject": "Physics",
+  "q_en": "Three identical heat-conducting rods are connected in series as shown in the figure. The rods on the sides have thermal conductivity 2K while that in the middle has thermal conductivity K. The left end of the combination is maintained at temperature 3T and the right end at T. The rods are thermally insulated from outside. In steady state, the temperature at the left junction is T_1 and that at the right junction is T_2. The ratio T_1/T_2 is:",
+  "options": [
+   "5/4",
+   "3/2",
+   "4/3",
+   "5/3"
+  ],
+  "answer": 3,
+  "exp_hi": "स्थायी अवस्था में तीनों छड़ों में ऊष्मा धारा समान होती है: 2K(3T − T_1) = K(T_1 − T_2) = 2K(T_2 − T)। इन समीकरणों को हल करने पर T_2 = 3T/2 और T_1 = 5T/2 मिलते हैं, इसलिए T_1/T_2 = 5/3।",
+  "figure": true
+ },
+ {
+  "n": 20,
+  "subject": "Physics",
+  "q_en": "The plates of a parallel plate capacitor are separated by d. Two slabs of different dielectric constants K_1 and K_2 with thicknesses 3d/8 and d/2, respectively, are inserted in the capacitor. Due to this, the capacitance becomes two times larger than when there is nothing between the plates. If K_1 = 1.25 K_2, the value of K_1 is:",
+  "options": [
+   "1.33",
+   "2.66",
+   "2.33",
+   "1.60"
+  ],
+  "answer": 1,
+  "exp_hi": "दोनों परतें और शेष वायु-परत श्रेणी संयोजन में हैं; श्रेणी सूत्र से बनी समीकरण में शर्त C = 2C_0 और K_1 = 1.25 K_2 रखने पर K_1 ≈ 2.66 प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 21,
+  "subject": "Physics",
+  "q_en": "Two cities X and Y are connected by a regular bus service with a bus leaving in either direction every T minutes. A girl is driving a scooty with a speed of 60 km/h in the direction from X to Y and notices that a bus goes past her every 30 minutes in the direction of her motion, and every 10 minutes in the opposite direction. Choose the correct option for the period T of the bus service and the speed (assumed constant) of the buses:",
+  "options": [
+   "15 min, 120 km/h",
+   "9 min, 40 km/h",
+   "25 min, 100 km/h",
+   "10 min, 90 km/h"
+  ],
+  "answer": 0,
+  "exp_hi": "माना बस की चाल v km/h है। समान दिशा में आपेक्षिक चाल (v − 60) से vT/60 = (v − 60) × 0.5 और विपरीत दिशा में vT/60 = (v + 60) × (1/6) मिलता है। दोनों समीकरणों को हल करने पर v = 120 km/h और T = 15 min प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 22,
+  "subject": "Physics",
+  "q_en": "A uniform rod of mass 20 kg and length 5 m leans against a smooth vertical wall making an angle of 60° with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is (take g = 10 m/s²):",
+  "options": [
+   "200√3 N",
+   "100 N",
+   "100√3 N",
+   "200 N"
+  ],
+  "answer": 2,
+  "exp_hi": "संतुलन में फर्श का घर्षण बल दीवार की अभिलंब प्रतिक्रिया के बराबर होता है। गुरुत्व केंद्र के परितः बलाघूर्ण संतुलन से N = (mg/2) cot 30° = (20 × 10/2) × √3 = 100√3 N, यही घर्षण बल है।",
+  "figure": false
+ },
+ {
+  "n": 23,
+  "subject": "Physics",
+  "q_en": "In an oscillating spring-mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency ω(t) and average amplitude A(t) of the system change with time t. Which one of the following options schematically depicts these changes correctly?",
+  "options": [
+   "ω(t) increases with time; A(t) remains constant",
+   "ω(t) increases with time; A(t) decreases with time",
+   "ω(t) increases with time; A(t) increases with time",
+   "ω(t) decreases with time; A(t) decreases with time"
+  ],
+  "answer": 1,
+  "exp_hi": "रेत निकलने से द्रव्यमान m लगातार घटता है, इसलिए ω = √(k/m) के अनुसार आवृत्ति समय के साथ बढ़ेगी। निकलती हुई रेत अपने साथ गतिज ऊर्जा भी ले जाती है, जिससे तंत्र की कुल ऊर्जा E = ½kA² घटती जाती है — अतः आयाम A भी समय के साथ घटेगा।",
+  "figure": true
+ },
+ {
+  "n": 24,
+  "subject": "Physics",
+  "q_en": "A balloon is made of a material of surface tension S and its inflation outlet (from where gas is filled in it) has small area A. It is filled with a gas of density ρ and takes a spherical shape of radius R. When the gas is allowed to flow freely out of it, its radius r changes from R to 0 (zero) in time T. If the speed v(r) of gas coming out of the balloon depends on r as r^a and T ∝ S^α A^β ρ^γ R^δ, then:",
+  "options": [
+   "a = 1/2, α = 1/2, β = −1/2, γ = 1/2, δ = 7/2",
+   "a = 1/2, α = 1/2, β = −1, γ = +1, δ = 3/2",
+   "a = −1/2, α = −1/2, β = −1, γ = −1/2, δ = 5/2",
+   "a = −1/2, α = −1/2, β = −1, γ = 1/2, δ = 7/2"
+  ],
+  "answer": 3,
+  "exp_hi": "पृष्ठ तनाव से गुब्बारे के अंदर अतिरिक्त दबाव P ∝ S/r होता है; इससे v ∝ r^(−1/2), अर्थात a = −1/2। कुल समय T ∝ R³/(A·v) में v का मान रखने पर T ∝ S^(−1/2) A^(−1) ρ^(1/2) R^(7/2) मिलता है, इसलिए α = −1/2, β = −1, γ = 1/2, δ = 7/2।",
+  "figure": false
+ },
+ {
+  "n": 25,
+  "subject": "Physics",
+  "q_en": "Consider the diameter of a spherical object being measured with the help of a Vernier callipers. Suppose its 10 Vernier Scale Divisions (V.S.D.) are equal to its 9 Main Scale Divisions (M.S.D.). The least division in the main scale is 0.1 cm and the zero of the V.S. is at x = 0.1 cm when the jaws of the Vernier callipers are closed. If the main scale reading for the diameter is M = 5 cm and the number of coinciding vernier division is 8, the measured diameter after zero error correction is:",
+  "options": [
+   "5.00 cm",
+   "5.18 cm",
+   "5.08 cm",
+   "4.98 cm"
+  ],
+  "answer": 3,
+  "exp_hi": "अल्पतमांक LC = 0.1 − (9/10) × 0.1 = 0.01 cm। कुल पाठ्यांक = 5.00 + 8 × 0.01 = 5.08 cm। शून्य त्रुटि +0.1 cm है, इसलिए संशोधित व्यास = 5.08 − 0.10 = 4.98 cm।",
+  "figure": false
+ },
+ {
+  "n": 26,
+  "subject": "Physics",
+  "q_en": "A parallel plate capacitor made of circular plates is being charged such that the surface charge density on its plates is increasing at a constant rate with time. The magnetic field arising due to displacement current is:",
+  "options": [
+   "zero between the plates and non-zero outside",
+   "zero at all places",
+   "constant between the plates and zero outside the plates",
+   "non-zero everywhere with maximum at the imaginary cylindrical surface connecting the peripheries of the plates"
+  ],
+  "answer": 3,
+  "exp_hi": "आवेश घनत्व बढ़ने से प्लेटों के बीच समय के साथ बदलता विद्युत क्षेत्र बनता है, जिससे displacement current उत्पन्न होता है। इससे उत्पन्न चुंबकीय क्षेत्र सर्वत्र अशून्य होता है और प्लेटों की परिधियों को जोड़ने वाली काल्पनिक बेलनाकार सतह पर अधिकतम होता है।",
+  "figure": false
+ },
+ {
+  "n": 27,
+  "subject": "Physics",
+  "q_en": "An unpolarized light beam travelling in air is incident on a medium of refractive index 1.73 at Brewster's angle. Then:",
+  "options": [
+   "transmitted light is completely polarized with angle of refraction close to 30°",
+   "reflected light is completely polarized and the angle of reflection is close to 60°",
+   "reflected light is partially polarized and the angle of reflection is close to 30°",
+   "both reflected and transmitted light are perfectly polarized with angles of reflection and refraction close to 60° and 30°, respectively"
+  ],
+  "answer": 1,
+  "exp_hi": "Brewster कोण के लिए tan θ_B = n = 1.73, इसलिए θ_B ≈ 60°। इस कोण पर परावर्तित प्रकाश पूर्णतः ध्रुवित होता है और परावर्तन कोण भी 60° ही होता है, जबकि पारगमित प्रकाश केवल आंशिक रूप से ध्रुवित रहता है।",
+  "figure": false
+ },
+ {
+  "n": 28,
+  "subject": "Physics",
+  "q_en": "Two identical charged conducting spheres A and B have their centres separated by a certain distance. The charge on each sphere is q, and the force of repulsion between them is F. A third identical uncharged conducting sphere is brought in contact with sphere A first and then with sphere B and finally removed from both. The new force of repulsion between spheres A and B (radii of A and B are negligible compared to the distance of separation, so that for calculating force between them they can be considered as point charges) is best given as:",
+  "options": [
+   "3F/8",
+   "3F/5",
+   "2F/3",
+   "F/2"
+  ],
+  "answer": 0,
+  "exp_hi": "तीसरे गोले को A से स्पर्श कराने पर A का आवेश q/2 रह जाता है; फिर उसे B से स्पर्श कराने पर कुल आवेश q/2 + q = 3q/2 बँटकर B का आवेश 3q/4 हो जाता है। नया बल F' ∝ (q/2)(3q/4) = 3q²/8, इसलिए F' = 3F/8।",
+  "figure": false
+ },
+ {
+  "n": 29,
+  "subject": "Physics",
+  "q_en": "A container has two chambers of volumes V_1 = 2 litres and V_2 = 3 litres separated by a partition made of a thermal insulator. The chambers contain n_1 = 5 and n_2 = 4 moles of ideal gas at pressures p_1 = 1 atm and p_2 = 2 atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of:",
+  "options": [
+   "1.8 atm",
+   "1.3 atm",
+   "1.6 atm",
+   "1.4 atm"
+  ],
+  "answer": 2,
+  "exp_hi": "ताप नियत रहने पर p_1V_1 + p_2V_2 = P(V_1 + V_2) लागू होता है। मान रखने पर 1 × 2 + 2 × 3 = P × (2 + 3), अर्थात 8 = 5P, इसलिए संतुलन दबाव P = 1.6 atm।",
+  "figure": false
+ },
+ {
+  "n": 30,
+  "subject": "Physics",
+  "q_en": "A particle of mass m is moving around the origin with a constant force F pulling it towards the origin. If the Bohr model is used to describe its motion, the radius r of the nth orbit and the particle's speed v in the orbit depend on n as:",
+  "options": [
+   "r ∝ n^(4/3); v ∝ n^(−1/3)",
+   "r ∝ n^(1/3); v ∝ n^(1/3)",
+   "r ∝ n^(1/3); v ∝ n^(2/3)",
+   "r ∝ n^(2/3); v ∝ n^(1/3)"
+  ],
+  "answer": 3,
+  "exp_hi": "वृत्तीय गति में mv²/r = F से v ∝ √r मिलता है, और Bohr क्वांटमीकरण mvr = nħ से v ∝ n/r। दोनों को बराबर करने पर n ∝ r^(3/2), अर्थात r ∝ n^(2/3) और v ∝ n^(1/3)।",
+  "figure": false
+ },
+ {
+  "n": 31,
+  "subject": "Physics",
+  "q_en": "The radius of the Martian orbit around the Sun is about 4 times the radius of the orbit of Mercury. The Martian year is 687 Earth days. Then which of the following is the length of 1 year on Mercury?",
+  "options": [
+   "124 earth days",
+   "88 earth days",
+   "225 earth days",
+   "172 earth days"
+  ],
+  "answer": 1,
+  "exp_hi": "Kepler के तृतीय नियम से T² ∝ R³, इसलिए T_Mercury/T_Mars = (1/4)^(3/2) = 1/8। अतः Mercury का एक वर्ष = 687/8 ≈ 86 दिन, जो दिए गए विकल्पों में 88 earth days के सबसे निकट है।",
+  "figure": false
+ },
+ {
+  "n": 32,
+  "subject": "Physics",
+  "q_en": "A body weighs 48 N on the surface of the earth. The gravitational force experienced by the body due to the earth at a height equal to one-third the radius of the earth from its surface is:",
+  "options": [
+   "36 N",
+   "16 N",
+   "27 N",
+   "32 N"
+  ],
+  "answer": 2,
+  "exp_hi": "ऊँचाई h पर गुरुत्वीय बल F' = F × (R/(R + h))² होता है। h = R/3 रखने पर F' = 48 × (R/(4R/3))² = 48 × (3/4)² = 48 × 9/16 = 27 N। (यहाँ रैखिक सन्निकटन g(1 − 2h/R) मान्य नहीं है, क्योंकि h, R की तुलना में छोटा नहीं है।)",
+  "figure": false
+ },
+ {
+  "n": 33,
+  "subject": "Physics",
+  "q_en": "A wire of resistance R is cut into 8 equal pieces. From these pieces, two equivalent resistances are made by joining four of these together in parallel. Then these two sets are added in series. The net effective resistance of the combination is:",
+  "options": [
+   "R/8",
+   "R/64",
+   "R/32",
+   "R/16"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रत्येक टुकड़े का प्रतिरोध R/8 होगा। चार टुकड़ों के समांतर संयोजन का तुल्य प्रतिरोध (R/8)/4 = R/32 होता है और ऐसे दो समूहों को श्रेणी में जोड़ने पर कुल प्रतिरोध R/32 + R/32 = R/16।",
+  "figure": false
+ },
+ {
+  "n": 34,
+  "subject": "Physics",
+  "q_en": "The de Broglie wavelength of an electron orbiting in the n = 2 state of hydrogen atom is close to (Given Bohr radius = 0.052 nm):",
+  "options": [
+   "2.67 nm",
+   "0.167 nm",
+   "0.67 nm",
+   "1.67 nm"
+  ],
+  "answer": 2,
+  "exp_hi": "Bohr मॉडल में कक्षा की परिधि में पूर्ण तरंगदैर्ध्य समाती हैं: 2πr_n = nλ, जहाँ r_n = n²a_0, इसलिए λ = 2πn a_0। n = 2 के लिए λ = 2π × 2 × 0.052 ≈ 0.65 nm, अर्थात लगभग 0.67 nm।",
+  "figure": false
+ },
+ {
+  "n": 35,
+  "subject": "Physics",
+  "q_en": "An electric dipole with dipole moment 5 × 10^-6 C m is aligned with the direction of a uniform electric field of magnitude 4 × 10^5 N/C. The dipole is then rotated through an angle of 60° with respect to the electric field. The change in the potential energy of the dipole is:",
+  "options": [
+   "1.5 J",
+   "0.8 J",
+   "1.0 J",
+   "1.2 J"
+  ],
+  "answer": 2,
+  "exp_hi": "द्विध्रुव की स्थितिज ऊर्जा U = −pE cos θ होती है। θ = 0° से θ = 60° तक घुमाने पर परिवर्तन ΔU = pE(cos 0° − cos 60°) = 5 × 10^-6 × 4 × 10^5 × (1 − 0.5) = 1.0 J।",
+  "figure": false
+ },
+ {
+  "n": 36,
+  "subject": "Physics",
+  "q_en": "A constant voltage of 50 V is maintained between the points A and B of the circuit shown in the figure. The current through the branch CD of the circuit is:",
+  "options": [
+   "3.0 A",
+   "1.5 A",
+   "2.0 A",
+   "2.5 A"
+  ],
+  "answer": 2,
+  "exp_hi": "शाखा CD बिना प्रतिरोध की जोड़ने वाली तार है, इसलिए C और D एक ही विभव पर हैं। A की ओर 1 Ω और 3 Ω समांतर में हैं (कुल 0.75 Ω) तथा B की ओर 2 Ω और 4 Ω समांतर में हैं (कुल 4/3 Ω)। कुल धारा = 50/(0.75 + 4/3) = 24 A। नोड C पर: 1 Ω से 18 A धारा आती है और 2 Ω से 16 A निकलती है, इसलिए शेष 2.0 A धारा शाखा CD से बहती है।",
+  "figure": true
+ },
+ {
+  "n": 37,
+  "subject": "Physics",
+  "q_en": "A photon and an electron (mass m) have the same energy E. The ratio (λ_photon/λ_electron) of their de Broglie wavelengths is: (c is the speed of light)",
+  "options": [
+   "(1/c)√(h/2m)",
+   "√(E/2m)",
+   "c√(2mE)",
+   "c√(2m/E)"
+  ],
+  "answer": 3,
+  "exp_hi": "Photon की तरंगदैर्ध्य λ_photon = hc/E और electron की de Broglie तरंगदैर्ध्य λ_electron = h/√(2mE) होती है। अनुपात लेने पर λ_photon/λ_electron = (hc/E) × (√(2mE)/h) = c√(2m/E) प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 38,
+  "subject": "Physics",
+  "q_en": "Which of the following options represent the variation of photoelectric current with the property of light shown on the x-axis?",
+  "options": [
+   "B and D",
+   "A only",
+   "A and C",
+   "A and D"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रकाश-विद्युत धारा प्रकाश की तीव्रता के साथ रैखिक रूप से बढ़ती है, जैसा ग्राफ़ A में दिखता है। ग्राफ़ D सही दर्शाता है कि देहली आवृत्ति से नीचे कोई धारा नहीं मिलती और उसके ऊपर (नियत तीव्रता पर) धारा नियत हो जाती है। इसलिए A और D सही हैं।",
+  "figure": true
+ },
+ {
+  "n": 39,
+  "subject": "Physics",
+  "q_en": "A sphere of radius R is cut from a larger solid sphere of radius 2R as shown in the figure. The ratio of the moment of inertia of the smaller sphere to that of the rest part of the sphere about the Y-axis is:",
+  "options": [
+   "7/64",
+   "7/8",
+   "7/40",
+   "7/57"
+  ],
+  "answer": 3,
+  "exp_hi": "द्रव्यमान त्रिज्या के घन के समानुपाती है — बड़े गोले का 8 इकाई, छोटे का 1 इकाई। समांतर अक्ष प्रमेय से छोटे गोले का Y-अक्ष के परितः जड़त्व आघूर्ण 7/5 R² और पूरे गोले का 64/5 R² (समानुपाती इकाइयों में) आता है; शेष भाग का = 64/5 − 7/5 = 57/5 R²। अतः अनुपात = 7/57।",
+  "figure": true
+ },
+ {
+  "n": 40,
+  "subject": "Physics",
+  "q_en": "A full wave rectifier circuit with diodes D_1 and D_2 is shown in the figure. If the input supply voltage V_in = 220 sin(100πt) volt, then at t = 15 msec:",
+  "options": [
+   "D_1 and D_2 both are reverse biased",
+   "D_1 is forward biased, D_2 is reverse biased",
+   "D_1 is reverse biased, D_2 is forward biased",
+   "D_1 and D_2 both are forward biased"
+  ],
+  "answer": 2,
+  "exp_hi": "t = 15 ms पर V_in = 220 sin(100π × 0.015) = 220 sin(1.5π) = −220 V, अर्थात निवेश ऋणात्मक अर्ध-चक्र में है। केंद्र-टैप full wave rectifier में इस स्थिति में D_2 forward biased होकर चालन करता है और D_1 reverse biased रहता है।",
+  "figure": true
+ },
+ {
+  "n": 41,
+  "subject": "Physics",
+  "q_en": "Two gases A and B are filled at the same pressure in separate cylinders with movable pistons of radius r_A and r_B, respectively. On supplying an equal amount of heat to both the systems reversibly under constant pressure, the pistons of gas A and B are displaced by 16 cm and 9 cm, respectively. If the change in their internal energy is the same, then the ratio r_A/r_B is equal to:",
+  "options": [
+   "√3/2",
+   "4/3",
+   "3/4",
+   "2/√3"
+  ],
+  "answer": 2,
+  "exp_hi": "दोनों गैसों को दी गई ऊष्मा और आंतरिक ऊर्जा में परिवर्तन समान है, इसलिए किया गया कार्य भी समान होगा: P × πr_A² × 16 = P × πr_B² × 9। इससे r_A²/r_B² = 9/16, अर्थात r_A/r_B = 3/4।",
+  "figure": false
+ },
+ {
+  "n": 42,
+  "subject": "Physics",
+  "q_en": "A physical quantity P is related to four observations a, b, c and d as follows: P = a^3 b^2 / (c√d). The percentage errors of measurement in a, b, c and d are 1%, 3%, 2% and 4% respectively. The percentage error in the quantity P is:",
+  "options": [
+   "15%",
+   "10%",
+   "2%",
+   "13%"
+  ],
+  "answer": 3,
+  "exp_hi": "त्रुटि प्रसार में प्रत्येक राशि की त्रुटि उसकी घात से गुणा होकर जुड़ती है: ΔP/P = 3 × 1% + 2 × 3% + 1 × 2% + (1/2) × 4% = 3% + 6% + 2% + 2% = 13%।",
+  "figure": false
+ },
+ {
+  "n": 43,
+  "subject": "Physics",
+  "q_en": "The intensity of transmitted light when a polaroid sheet is placed between two crossed polaroids at 22.5° from the polarization axis of one of the polaroids is (I_0 is the intensity of polarised light after passing through the first polaroid):",
+  "options": [
+   "I_0/16",
+   "I_0/2",
+   "I_0/4",
+   "I_0/8"
+  ],
+  "answer": 3,
+  "exp_hi": "Malus नियम से मध्य polaroid के बाद तीव्रता I_1 = I_0 cos²(22.5°) होती है और crossed polaroid के साथ कोण 67.5° बनता है। कुल तीव्रता I = I_0 cos²(22.5°) × cos²(67.5°) ≈ I_0/8 प्राप्त होती है।",
+  "figure": false
+ },
+ {
+  "n": 44,
+  "subject": "Physics",
+  "q_en": "Two identical point masses P and Q, suspended from two separate massless springs of spring constants k_1 and k_2 respectively, oscillate vertically. If their maximum speeds are the same, the ratio (A_Q/A_P) of the amplitude A_Q of mass Q to the amplitude A_P of mass P is:",
+  "options": [
+   "√(k_1/k_2)",
+   "k_2/k_1",
+   "k_1/k_2",
+   "√(k_2/k_1)"
+  ],
+  "answer": 0,
+  "exp_hi": "सरल आवर्त गति में अधिकतम चाल v_max = Aω = A√(k/m) होती है। दोनों द्रव्यमान समान हैं और अधिकतम चाल भी समान है, इसलिए A_P√k_1 = A_Q√k_2, जिससे A_Q/A_P = √(k_1/k_2)।",
+  "figure": false
+ },
+ {
+  "n": 45,
+  "subject": "Physics",
+  "q_en": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
+  "options": [
+   "2f",
+   "f/2",
+   "f",
+   "3f/2"
+  ],
+  "answer": 2,
+  "exp_hi": "आधी लंबाई पानी में डूबने पर पाइप एक सिरे से बंद पाइप जैसा व्यवहार करता है और वायु स्तंभ की प्रभावी लंबाई L/2 रह जाती है। नई मूल आवृत्ति = v/(4 × (L/2)) = v/(2L) = f, अर्थात आवृत्ति पहले जितनी ही रहती है।",
+  "figure": false
+ }
+]

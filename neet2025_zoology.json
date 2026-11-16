@@ -1,0 +1,677 @@
+[
+ {
+  "n": 1,
+  "subject": "Zoology",
+  "src_n": 1,
+  "q_en": "Match List-I with List-II: List-I: A. Head, B. Middle piece, C. Acrosome, D. Tail. List-II: I. Enzymes, II. Sperm motility, III. Energy, IV. Genetic material. Choose the correct answer from the options given below:",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-IV, C-II, D-I"
+  ],
+  "answer": 1,
+  "exp_hi": "शुक्राणु के Head में nucleus होता है जिसमें genetic material (DNA) रहता है, इसलिए A-IV सही है। Middle piece में mitochondria होते हैं जो गति के लिए energy देते हैं, इसलिए B-III सही है। Acrosome में hydrolytic enzymes होते हैं जो ovum में प्रवेश में मदद करते हैं, इसलिए C-I सही है। Tail (flagellum) sperm को motility देती है, इसलिए D-II सही है।",
+  "figure": false
+ },
+ {
+  "n": 2,
+  "subject": "Zoology",
+  "src_n": 3,
+  "q_en": "Given below are two statements: Statement I: The primary source of energy in an ecosystem is solar energy. Statement II: The rate of production of organic matter during photosynthesis in an ecosystem is called net primary productivity (NPP). In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is incorrect but statement II is correct",
+   "Both statement I and statement II are correct",
+   "Both statement I and statement II are incorrect",
+   "Statement I is correct but statement II is incorrect"
+  ],
+  "answer": 1,
+  "exp_hi": "किसी भी ecosystem में energy का primary source solar energy ही है, जिसे producers photosynthesis द्वारा ग्रहण करते हैं, इसलिए Statement I सही है। Net Primary Productivity (NPP) वह दर है जिससे producers respiration के बाद organic matter के रूप में energy संचित करते हैं, इसलिए Statement II भी सही माना गया है। अतः दोनों statements सही हैं।",
+  "figure": false
+ },
+ {
+  "n": 3,
+  "subject": "Zoology",
+  "src_n": 4,
+  "q_en": "Match List-I with List-II: List-I: A. Emphysema, B. Angina Pectoris, C. Glomerulonephritis, D. Tetany. List-II: I. Rapid spasms in muscle due to low Ca2+ in body fluid, II. Damaged alveolar walls and decreased respiratory surface, III. Acute chest pain when not enough oxygen is reaching to heart muscles, IV. Inflammation of glomeruli of kidney. Choose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-III, C-IV, D-I",
+   "A-II, B-I, C-IV, D-III",
+   "A-I, B-II, C-I, D-IV",
+   "A-II, B-IV, C-III, D-I"
+  ],
+  "answer": 0,
+  "exp_hi": "Emphysema में alveolar walls क्षतिग्रस्त हो जाती हैं और respiratory surface घट जाता है, इसलिए A-II सही है। Angina Pectoris में heart muscles को पर्याप्त oxygen न मिलने से acute chest pain होता है, इसलिए B-III सही है। Glomerulonephritis kidney के glomeruli की inflammation है, इसलिए C-IV सही है। Tetany में body fluid में Ca2+ कम होने से muscles में rapid spasms होते हैं, इसलिए D-I सही है।",
+  "figure": false
+ },
+ {
+  "n": 4,
+  "subject": "Zoology",
+  "src_n": 6,
+  "q_en": "What is the name of the blood vessel that carries deoxygenated blood from the body to the heart in a frog?",
+  "options": [
+   "Vena cava",
+   "Aorta",
+   "Pulmonary artery",
+   "Pulmonary vein"
+  ],
+  "answer": 2,
+  "exp_hi": "Ebook solution के अनुसार मेंढक में deoxygenated blood के परिवहन से जुड़ी vessel pulmonary artery मानी गई है, जो blood को oxygenation के लिए lungs की ओर ले जाती है। Pulmonary vein lungs से oxygenated blood वापस heart में लाती है, इसलिए वह उत्तर नहीं है। Aorta heart से blood को शरीर के विभिन्न भागों में वितरित करती है।",
+  "figure": false
+ },
+ {
+  "n": 5,
+  "subject": "Zoology",
+  "src_n": 7,
+  "q_en": "Cardiac activities of the heart are regulated by: A. Nodal tissue B. A special neural centre in the medulla oblongata C. Adrenal medullary hormones D. Adrenal cortical hormones Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and D only",
+   "A, B and C only",
+   "A, B, C and D",
+   "A, C and D only"
+  ],
+  "answer": 1,
+  "exp_hi": "हृदय की गतिविधियाँ nodal tissue (जैसे SA node और AV node) द्वारा उत्पन्न आवेगों से नियंत्रित होती हैं, इसलिए A सही है। Medulla oblongata में स्थित विशेष neural centre autonomic nervous system द्वारा heart rate को नियंत्रित करता है, इसलिए B सही है। Adrenal medullary hormones (adrenaline और noradrenaline) heart rate और cardiac output बढ़ाते हैं, इसलिए C सही है। Adrenal cortical hormones का cardiac regulation में प्रत्यक्ष कार्य नहीं है, इसलिए D गलत है।",
+  "figure": false
+ },
+ {
+  "n": 6,
+  "subject": "Zoology",
+  "src_n": 11,
+  "q_en": "Epiphytes that are growing on a mango branch is an example of which of the following?",
+  "options": [
+   "Amensalism",
+   "Commensalism",
+   "Mutualism",
+   "Predation"
+  ],
+  "answer": 1,
+  "exp_hi": "Epiphytes आम जैसे वृक्ष की शाखा पर केवल सहारे के लिए उगते हैं और host plant से पोषण नहीं लेते तथा उसे कोई हानि नहीं पहुँचाते। इस संबंध में एक जीव को लाभ होता है और दूसरे को न लाभ होता है न हानि, जिसे commensalism कहते हैं। इसलिए सही उत्तर Commensalism है।",
+  "figure": false
+ },
+ {
+  "n": 7,
+  "subject": "Zoology",
+  "src_n": 13,
+  "q_en": "Who is known as the Father of Ecology in India?",
+  "options": [
+   "Birbal Sahni",
+   "S. R. Kashyap",
+   "Ramdeo Misra",
+   "Ram Udar"
+  ],
+  "answer": 2,
+  "exp_hi": "Prof. Ramdeo Misra को भारत में ecology का जनक (Father of Ecology in India) माना जाता है। उन्होंने भारत में ecological research और environmental awareness की नींव रखी तथा ecology की शिक्षा और अनुसंधान कार्यक्रमों को विकसित किया। इसलिए सही उत्तर Ramdeo Misra है।",
+  "figure": false
+ },
+ {
+  "n": 8,
+  "subject": "Zoology",
+  "src_n": 14,
+  "q_en": "Which one of the following is an example of ex-situ conservation?",
+  "options": [
+   "Protected areas",
+   "National Park",
+   "Wildlife Sanctuary",
+   "Zoos and botanical gardens"
+  ],
+  "answer": 3,
+  "exp_hi": "Ex-situ conservation में जीवों को उनके natural habitat से बाहर सुरक्षित रखा जाता है। Zoos और botanical gardens में species को संरक्षित वातावरण में रखा जाता है और उनका प्रजनन कराया जाता है, इसलिए ये ex-situ conservation के उदाहरण हैं। Protected areas, national parks और wildlife sanctuaries in-situ conservation के उदाहरण हैं।",
+  "figure": false
+ },
+ {
+  "n": 9,
+  "subject": "Zoology",
+  "src_n": 15,
+  "q_en": "Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization. A. Multicellular heterotrophs with cell wall made of chitin. B. Heterotrophs with tissue/organ/organ system level of body organization. C. Prokaryotes with cell wall made of polysaccharides and amino acids. D. Eukaryotic autotrophs with tissue/organ level of body organization. E. Eukaryotes with cellular body organization.",
+  "options": [
+   "C, E, A, B, D",
+   "A, C, E, B, D",
+   "C, E, A, D, B",
+   "A, C, E, D, B"
+  ],
+  "answer": 0,
+  "exp_hi": "Ebook solution के अनुसार body organization की complexity का बढ़ता क्रम इस प्रकार है — सबसे पहले prokaryotes (Monera) जिनका शरीर सबसे सरल होता है (C), फिर eukaryotic unicellular organisms (Protista) (E), फिर chitin cell wall वाले multicellular fungi (A)। Solution में इसके बाद organ-system स्तर वाले Animalia (B) और फिर Plantae (D) रखे गए हैं, इसलिए सही क्रम C, E, A, B, D है।",
+  "figure": false
+ },
+ {
+  "n": 10,
+  "subject": "Zoology",
+  "src_n": 17,
+  "q_en": "Streptokinase produced by bacterium Streptococcus is used for:",
+  "options": [
+   "Removing clots from blood vessels",
+   "Curd production",
+   "Ethanol production",
+   "Liver disease treatment"
+  ],
+  "answer": 0,
+  "exp_hi": "Streptokinase, Streptococcus bacterium द्वारा बनाया गया एक enzyme है जो blood clots को घोलने का कार्य करता है। इसका उपयोग heart attack या stroke के रोगियों में blood vessels के clots हटाकर blood flow बहाल करने के लिए किया जाता है। इसलिए सही उत्तर blood vessels से clots हटाना है।",
+  "figure": false
+ },
+ {
+  "n": 11,
+  "subject": "Zoology",
+  "src_n": 18,
+  "q_en": "From the statements given below choose the correct option: A. The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S. B. Each ribosome has two sub-units. C. The two sub-units of 80S ribosome are 60S and 40S while that of 70S are 50S and 30S. D. The two sub-units of 80S ribosome are 60S and 20S and that of 70S are 50S and 20S. E. The two sub-units of 80S are 60S and 30S and that of 70S are 50S and 30S.",
+  "options": [
+   "B, D, E are true",
+   "A, B, C are true",
+   "A, B, D are true",
+   "A, B, E are true"
+  ],
+  "answer": 1,
+  "exp_hi": "Eukaryotic ribosomes 80S और prokaryotic ribosomes 70S होते हैं, इसलिए A सही है। प्रत्येक ribosome की दो sub-units होती हैं, इसलिए B सही है। 80S की sub-units 60S और 40S तथा 70S की sub-units 50S और 30S होती हैं, इसलिए C सही है। D और E में sub-units के गलत संयोजन दिए गए हैं, इसलिए वे गलत हैं।",
+  "figure": false
+ },
+ {
+  "n": 12,
+  "subject": "Zoology",
+  "src_n": 20,
+  "q_en": "Which are correct: A. Computed tomography and magnetic resonance imaging detect cancers of internal organs. B. Chemotherapeutic drugs are used to kill non-cancerous cells. C. α-interferon activate the cancer patients' immune system and helps in destroying the tumour. D. Chemotherapeutic drugs are biological response modifiers. E. In the case of leukaemia blood cell counts are decreased.",
+  "options": [
+   "A and C only",
+   "B and D only",
+   "D and E only",
+   "C and D only"
+  ],
+  "answer": 3,
+  "exp_hi": "α-interferon cancer रोगियों की immune system को सक्रिय करके tumour को नष्ट करने में सहायता करता है, इसलिए C सही है। Ebook solution के अनुसार chemotherapeutic drugs biological response modifiers के रूप में भी कार्य करते हैं, इसलिए D सही माना गया है। B गलत है क्योंकि chemotherapeutic drugs cancerous cells को मारने के लिए होते हैं, और E गलत है क्योंकि leukaemia में blood cell counts सामान्यतः घटते नहीं हैं। इसलिए सही उत्तर C और D only है।",
+  "figure": false
+ },
+ {
+  "n": 13,
+  "subject": "Zoology",
+  "src_n": 22,
+  "q_en": "What are the potential drawbacks in adoption of the IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary for being donors D. Less adoption of orphans E. Not available in India F. Possibility that the early embryo does not survive",
+  "options": [
+   "A, B, C, E, F only",
+   "B, D, F only",
+   "A, C, D, F only",
+   "A, B, C, D only"
+  ],
+  "answer": 1,
+  "exp_hi": "IVF विधि के मुख्य drawbacks हैं — यह महँगी होती है क्योंकि इसमें expensive instruments और reagents लगते हैं (B)। IVF के कारण orphans को adopt करने की प्रवृत्ति घट सकती है (D)। साथ ही early embryo के survive न करने की संभावना भी रहती है (F)। Mother के लिए high fatality risk या भारत में उपलब्ध न होना जैसे कथन सही drawbacks नहीं हैं। इसलिए सही उत्तर B, D, F only है।",
+  "figure": false
+ },
+ {
+  "n": 14,
+  "subject": "Zoology",
+  "src_n": 25,
+  "q_en": "While trying to find out the characteristic of a newly found animal, a researcher did the histology of an adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelom of that animal?",
+  "options": [
+   "Acoelomate",
+   "Pseudocoelomate",
+   "Schizocoelomate",
+   "Spongocoelomate"
+  ],
+  "answer": 1,
+  "exp_hi": "जब देहगुहा शरीर-भित्ति की ओर mesoderm से घिरी हो, परंतु alimentary canal की ओर mesodermal आवरण न हो, तो ऐसी गुहा pseudocoelom कहलाती है। ऐसे प्राणी pseudocoelomate कहलाते हैं, जैसे Ascaris। अतः सही उत्तर Pseudocoelomate है। (इस प्रश्न के विकल्प ebook में गलत जुड़े थे; विकल्प official paper से लिए गए हैं।)",
+  "figure": false
+ },
+ {
+  "n": 15,
+  "subject": "Zoology",
+  "src_n": 27,
+  "q_en": "Which of the following statements is correct about the location of the male frog's copulatory pad?",
+  "options": [
+   "First digit of the forelimb",
+   "First and second digit of forelimb",
+   "First digit of hind limb",
+   "Second digit of fore limb"
+  ],
+  "answer": 0,
+  "exp_hi": "नर मेंढक में breeding season के दौरान copulatory pads (nuptial pads) विकसित होते हैं। ये pads forelimb के पहले digit (अँगूठे) पर स्थित होते हैं। ये amplexus के समय नर को मादा को मज़बूती से पकड़ने में सहायता करते हैं। इसलिए सही उत्तर first digit of the forelimb है।",
+  "figure": false
+ },
+ {
+  "n": 16,
+  "subject": "Zoology",
+  "src_n": 28,
+  "q_en": "Neoplastic characteristics of cells refer to: A. A mass of proliferating cell B. Rapid growth of cells C. Invasion and damage to the surrounding tissue D. Those confined to original location Choose the correct answer from the options given below:",
+  "options": [
+   "B, C, D only",
+   "A, B only",
+   "A, B, C only",
+   "A, B, D only"
+  ],
+  "answer": 2,
+  "exp_hi": "Neoplasia में cells की असामान्य वृद्धि से proliferating cells का एक mass बनता है, इसलिए A सही है। Cells की rapid और अनियंत्रित growth neoplastic cells की पहचान है, इसलिए B सही है। Malignant neoplasms आसपास के tissue में invasion करके उन्हें क्षति पहुँचाते हैं, इसलिए C सही है। मूल स्थान तक सीमित रहना benign tumors का लक्षण है, सभी neoplastic cells का सामान्य लक्षण नहीं, इसलिए D गलत है।",
+  "figure": false
+ },
+ {
+  "n": 17,
+  "subject": "Zoology",
+  "src_n": 32,
+  "q_en": "Match List-I with List-II: List-I: A. Centromere, B. Cilium, C. Cristae, D. Cell membrane. List-II: I. Mitochondrion, II. Cell division, III. Cell movement, IV. Phospholipid bilayer. Choose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "answer": 0,
+  "exp_hi": "Centromere वह स्थान है जहाँ cell division के समय spindle fibers जुड़ते हैं, इसलिए A-II सही है। Cilium cell movement में सहायक hair-like संरचना है, इसलिए B-III सही है। Cristae mitochondrion की आंतरिक folds हैं, इसलिए C-I सही है। Cell membrane phospholipid bilayer से बनी होती है, इसलिए D-IV सही है।",
+  "figure": false
+ },
+ {
+  "n": 18,
+  "subject": "Zoology",
+  "src_n": 34,
+  "q_en": "Select the correct statement: A. In human pregnancy, the major organ systems are formed by the end of 12 weeks B. In human pregnancy, the major organ systems are formed by the end of 8 weeks. C. In human pregnancy heart is formed after one month of gestation. D. In human pregnancy, limbs and digits develop by the end of the second month. E. In human pregnancy, the appearance of hair is usually observed in the fifth month.",
+  "options": [
+   "A, C, D and E only",
+   "A and E only",
+   "B and C only",
+   "B, C, D and E only"
+  ],
+  "answer": 3,
+  "exp_hi": "मानव गर्भावस्था में प्रमुख organ systems 8 weeks के अंत तक बन जाते हैं और उसके बाद embryo को foetus कहा जाता है, इसलिए B सही है और A गलत है। Heart gestation के एक महीने बाद बनता है, इसलिए C सही है। Limbs और digits दूसरे महीने के अंत तक विकसित हो जाते हैं, इसलिए D सही है। पाँचवें महीने में सिर पर बाल दिखाई देने लगते हैं, इसलिए E सही है।",
+  "figure": false
+ },
+ {
+  "n": 19,
+  "subject": "Zoology",
+  "src_n": 39,
+  "q_en": "Which of the following diagrams is correct with regard to the proximal (P) and distal (D) tubule of the Nephron?",
+  "options": [
+   "P: reabsorption of HCO3- and NaCl, secretion of H+ and H2O; D: reabsorption of NaCl, H2O and HCO3-, secretion of K+ and H+",
+   "P: reabsorption of HCO3-, NaCl and H2O, secretion of H+ and NH3; D: reabsorption of NaCl, H2O and HCO3-, secretion of K+ and H+",
+   "P: reabsorption of HCO3-, NaCl and H2O, secretion of H+ and NH3; D: reabsorption of H2O and HCO3-, secretion of NaCl and H+",
+   "P: reabsorption of NaCl and HCO3-, secretion of H+ and H2O; D: reabsorption of NaCl and NH3, secretion of K+ and H2O"
+  ],
+  "answer": 1,
+  "exp_hi": "Proximal tubule (P) में NaCl, HCO3- और H2O का पुनःअवशोषण तथा H+ और NH3 का स्राव होता है। Distal tubule (D) में भी NaCl, HCO3- और H2O का पुनःअवशोषण होता है, जबकि वहाँ H+ और K+ का स्राव होता है। यही संयोजन दूसरे diagram में सही दिखाया गया है।",
+  "figure": true
+ },
+ {
+  "n": 20,
+  "subject": "Zoology",
+  "src_n": 40,
+  "q_en": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration, is:",
+  "options": [
+   "Endoplasmic Reticulum",
+   "Mesosome",
+   "Chromatophores",
+   "Cristae"
+  ],
+  "answer": 1,
+  "exp_hi": "Mesosome prokaryotic cell (bacteria) की plasma membrane के विशेष अंतर्वलन (infoldings) होते हैं। ये cell wall formation, DNA replication और respiration जैसे कार्यों में सहायक होते हैं। Prokaryotes में membrane-bound organelles नहीं होते, इसलिए mesosome ये कार्य संपन्न करते हैं। इसलिए सही उत्तर Mesosome है।",
+  "figure": false
+ },
+ {
+  "n": 21,
+  "subject": "Zoology",
+  "src_n": 46,
+  "q_en": "Assertion (A): The primary function of the Golgi apparatus is to package the materials made by the endoplasmic reticulum and deliver it to intracellular targets and outside the cell. Reason (R): Vesicles containing materials made by the endoplasmic reticulum fuse with the cis face of the Golgi apparatus, and they are modified and released from the trans face of the Golgi apparatus.",
+  "options": [
+   "A is false but R is true",
+   "Both A and R are true, and R is the correct explanation of A",
+   "Both A and R are true, but R is not the correct explanation of A",
+   "A is true but R is false"
+  ],
+  "answer": 1,
+  "exp_hi": "Golgi apparatus का मुख्य कार्य endoplasmic reticulum द्वारा बनाए गए पदार्थों को package करके intracellular targets और cell के बाहर पहुँचाना है, इसलिए Assertion सही है। ER से आए vesicles Golgi के cis face से जुड़ते हैं, वहाँ पदार्थ modified होते हैं और trans face से मुक्त होते हैं, इसलिए Reason भी सही है। Reason, Assertion की सही व्याख्या करता है।",
+  "figure": false
+ },
+ {
+  "n": 22,
+  "subject": "Zoology",
+  "src_n": 47,
+  "q_en": "Consider the following statements regarding function of adrenal medullary hormones: A. It causes pupillary constriction B. It is a hyperglycemic hormone C. It causes piloerection D. It increases strength of heart contraction Choose the correct answer from the options given below:",
+  "options": [
+   "D only",
+   "C and D only",
+   "B, C and D only",
+   "A, C and D only"
+  ],
+  "answer": 2,
+  "exp_hi": "Adrenal medullary hormones (जैसे adrenaline) blood sugar बढ़ाते हैं, इसलिए ये hyperglycemic hormone हैं और B सही है। ये piloerection अर्थात बालों को खड़ा करना (goosebumps) भी कराते हैं, इसलिए C सही है। ये heart contraction की शक्ति बढ़ाते हैं, इसलिए D सही है। A गलत है क्योंकि adrenaline pupillary constriction नहीं, pupillary dilation कराता है।",
+  "figure": false
+ },
+ {
+  "n": 23,
+  "subject": "Zoology",
+  "src_n": 50,
+  "q_en": "Match List-I with List-II: List-I: A. Heart, B. Kidney, C. Gastro-intestinal tract, D. Adrenal Cortex. List-II: I. Erythropoietin, II. Aldosterone, III. Atrial natriuretic factor, IV. Secretin. Choose the correct answer from the options given below:",
+  "options": [
+   "A–III, B–I, C–IV, D–II",
+   "A–II, B–I, C–III, D–IV",
+   "A–IV, B–III, C–II, D–I",
+   "A–I, B–III, C–IV, D–II"
+  ],
+  "answer": 0,
+  "exp_hi": "Heart की atrial walls से Atrial Natriuretic Factor (ANF) स्रावित होता है जो blood pressure नियंत्रित करता है, इसलिए A-III सही है। Kidney से erythropoietin बनता है जो red blood cells के निर्माण को प्रेरित करता है, इसलिए B-I सही है। Gastro-intestinal tract से secretin स्रावित होता है, इसलिए C-IV सही है। Adrenal cortex से aldosterone बनता है, इसलिए D-II सही है।",
+  "figure": false
+ },
+ {
+  "n": 24,
+  "subject": "Zoology",
+  "src_n": 51,
+  "q_en": "Which one of the following equations represents the Verhulst-Pearl Logistic Growth of population?",
+  "options": [
+   "dN/dt = rN (K − N)/K",
+   "dN/dt = r (K − N)/K",
+   "dN/dt = rN K/(K − N)",
+   "dN/dt = rN (K/N)"
+  ],
+  "answer": 0,
+  "exp_hi": "Verhulst-Pearl Logistic Growth में population पहले तेज़ी से बढ़ती है, फिर carrying capacity (K) के पास पहुँचने पर वृद्धि धीमी हो जाती है। इसका समीकरण dN/dt = rN (K − N)/K होता है, जहाँ r intrinsic growth rate और N population size है। इसलिए सही उत्तर पहला समीकरण है।",
+  "figure": false
+ },
+ {
+  "n": 25,
+  "subject": "Zoology",
+  "src_n": 55,
+  "q_en": "Which of the following hormones released from the pituitary is actually synthesized in the hypothalamus?",
+  "options": [
+   "Adrenocorticotrophic hormone (ACTH)",
+   "Luteinizing hormone (LH)",
+   "Anti-diuretic hormone (ADH)",
+   "Follicle-stimulating hormone (FSH)"
+  ],
+  "answer": 2,
+  "exp_hi": "Anti-diuretic hormone (ADH), जिसे vasopressin भी कहते हैं, वास्तव में hypothalamus में संश्लेषित होता है। यह posterior pituitary (neurohypophysis) में संचित होकर वहीं से मुक्त होता है। ACTH, LH और FSH anterior pituitary में ही संश्लेषित होते हैं। इसलिए सही उत्तर ADH है।",
+  "figure": false
+ },
+ {
+  "n": 26,
+  "subject": "Zoology",
+  "src_n": 59,
+  "q_en": "The first menstruation is called:",
+  "options": [
+   "Ovulation",
+   "Menopause",
+   "Menarche",
+   "Diapause"
+  ],
+  "answer": 2,
+  "exp_hi": "किसी लड़की के जीवन की पहली menstruation को menarche कहते हैं, जो उसके reproductive age की शुरुआत का संकेत है। यह सामान्यतः 10 से 16 वर्ष की आयु के बीच होती है। Menopause menstruation का स्थायी रूप से बंद होना है, जबकि ovulation अंडाणु का मुक्त होना है। इसलिए सही उत्तर Menarche है।",
+  "figure": false
+ },
+ {
+  "n": 27,
+  "subject": "Zoology",
+  "src_n": 60,
+  "q_en": "All living members of the class Cyclostomata are:",
+  "options": [
+   "Ectoparasite",
+   "Free living",
+   "Endoparasite",
+   "Symbiotic"
+  ],
+  "answer": 0,
+  "exp_hi": "Class Cyclostomata के सभी जीवित सदस्य, जैसे lamprey और hagfish, jawless vertebrates हैं। ये कुछ fishes पर ectoparasite के रूप में रहते हैं और अपने गोल चूषक-जैसे मुख से host के शरीर से चिपककर blood और body fluids चूसते हैं। इसलिए सही उत्तर ectoparasite है।",
+  "figure": false
+ },
+ {
+  "n": 28,
+  "subject": "Zoology",
+  "src_n": 62,
+  "q_en": "Identify the statement that is NOT correct.",
+  "options": [
+   "Constant region of heavy and light chains are located at C-terminus of antibody molecules.",
+   "Each antibody has two light and two heavy chains.",
+   "The heavy and light chains are held together by disulfide bonds.",
+   "Antigen binding site is located at C-terminal region of antibody molecules."
+  ],
+  "answer": 3,
+  "exp_hi": "Antibody का antigen binding site उसके N-terminal भाग में स्थित variable region में होता है, C-terminal region में नहीं। इसलिए antigen binding site को C-terminal बताने वाला कथन गलत है और यही पूछा गया NOT correct कथन है। Constant region C-terminus पर होता है तथा heavy और light chains disulfide bonds से जुड़ी होती हैं, ये कथन सही हैं।",
+  "figure": false
+ },
+ {
+  "n": 29,
+  "subject": "Zoology",
+  "src_n": 63,
+  "q_en": "Twins are born to a family that lives next door to you. The twins are a boy and a girl. Which of the following is correct?",
+  "options": [
+   "They have 75% identical genetic content.",
+   "They are identical twins.",
+   "They are fraternal (non-identical) twins.",
+   "They were conceived through in vitro fertilization."
+  ],
+  "answer": 2,
+  "exp_hi": "Identical (monozygotic) twins एक ही fertilized egg के विभाजन से बनते हैं, इसलिए उनका लिंग हमेशा समान होता है। यहाँ twins एक लड़का और एक लड़की हैं, अतः वे identical नहीं हो सकते। Fraternal (dizygotic) twins दो अलग-अलग eggs के दो अलग-अलग sperms से निषेचन से बनते हैं और उनका लिंग भिन्न हो सकता है। इसलिए सही उत्तर fraternal twins है।",
+  "figure": false
+ },
+ {
+  "n": 30,
+  "subject": "Zoology",
+  "src_n": 66,
+  "q_en": "Which of the following type of immunity is present at the time of birth and is a non-specific type of defence in the human body?",
+  "options": [
+   "Humoral Immunity",
+   "Acquired Immunity",
+   "Innate Immunity",
+   "Cell-mediated Immunity"
+  ],
+  "answer": 2,
+  "exp_hi": "Innate immunity जन्म के समय से ही उपस्थित होती है और यह non-specific प्रकार की रक्षा प्रणाली है। इसमें skin जैसी physical barriers, stomach acid जैसी physiological barriers और phagocytes जैसी cellular रक्षा शामिल होती हैं। Humoral और cell-mediated immunity acquired immunity के भाग हैं जो जन्म के बाद विकसित होते हैं। इसलिए सही उत्तर Innate Immunity है।",
+  "figure": false
+ },
+ {
+  "n": 31,
+  "subject": "Zoology",
+  "src_n": 67,
+  "q_en": "Role of the water vascular system in Echinoderms is: A. Respiration and Locomotion B. Excretion and Locomotion C. Capture and transport of food D. Digestion and Respiration E. Digestion and Excretion Choose the correct answer from the options given below:",
+  "options": [
+   "B, D and E Only",
+   "A and B Only",
+   "A and C Only",
+   "B and C Only"
+  ],
+  "answer": 2,
+  "exp_hi": "Echinoderms का water vascular system locomotion, food को पकड़ने व transport करने तथा respiration में सहायता करता है। यह digestion या excretion में प्रत्यक्ष रूप से सहायक नहीं होता। इसलिए A (Respiration and Locomotion) और C (Capture and transport of food) सही हैं।",
+  "figure": false
+ },
+ {
+  "n": 32,
+  "subject": "Zoology",
+  "src_n": 69,
+  "q_en": "What is the main function of the spindle fibers during mitosis?",
+  "options": [
+   "To regulate cell growth",
+   "To separate the chromosomes",
+   "To synthesize new DNA",
+   "To repair damaged DNA"
+  ],
+  "answer": 1,
+  "exp_hi": "Mitosis के दौरान spindle fibers chromosomes के centromere से जुड़ते हैं। ये fibers sister chromatids को खींचकर cell के विपरीत poles की ओर ले जाते हैं, जिससे chromosomes अलग होते हैं। इससे प्रत्येक daughter cell को chromosomes का समान और सही समूह मिलता है। इसलिए spindle fibers का मुख्य कार्य chromosomes को अलग करना है।",
+  "figure": false
+ },
+ {
+  "n": 33,
+  "subject": "Zoology",
+  "src_n": 71,
+  "q_en": "Match List-I with List-II: List-I: A. The Evil Quartet, B. Ex situ conservation, C. Lantana camara, D. Dodo. List-II: I. Cryopreservation, II. Alien species invasion, III. Causes of biodiversity losses, IV. Extinction. Choose the option with all correct matches:",
+  "options": [
+   "A-III, B-II, C-IV, D-I",
+   "A-III, B-II, C-I, D-IV",
+   "A-III, B-I, C-II, D-IV",
+   "A-III, B-IV, C-II, D-I"
+  ],
+  "answer": 2,
+  "exp_hi": "'The Evil Quartet' biodiversity losses के मुख्य कारणों को कहते हैं, इसलिए A-III सही है। Cryopreservation ex-situ conservation की एक विधि है जिसमें जीवित पदार्थ को अत्यंत कम तापमान पर संरक्षित किया जाता है, इसलिए B-I सही है। Lantana camara एक alien (invasive) species है, इसलिए C-II सही है। Dodo एक विलुप्त (extinct) पक्षी है, इसलिए D-IV सही है।",
+  "figure": false
+ },
+ {
+  "n": 34,
+  "subject": "Zoology",
+  "src_n": 72,
+  "q_en": "Frogs respire in water by skin and buccal cavity and on land by skin, buccal cavity and lungs.",
+  "options": [
+   "The statement is false for both the environment",
+   "The statement is true for water but false for land",
+   "The statement is true for both the environment",
+   "The statement is false for water but true for land."
+  ],
+  "answer": 2,
+  "exp_hi": "जल में मेंढक मुख्यतः skin (cutaneous respiration) और buccal cavity द्वारा श्वसन करता है, इसलिए कथन का यह भाग सही है। स्थल पर मेंढक skin, buccal cavity और lungs तीनों का उपयोग करता है, इसलिए यह भाग भी सही है। कथन में दोनों वातावरणों के लिए श्वसन अंग सही बताए गए हैं, अतः कथन दोनों वातावरणों के लिए सही है।",
+  "figure": false
+ },
+ {
+  "n": 35,
+  "subject": "Zoology",
+  "src_n": 73,
+  "q_en": "After maturation in primary lymphoid organs, the lymphocytes migrate for interaction with antigens to secondary lymphoid organ(s) / tissue(s) like: A. Thymus, B. Bone marrow, C. Spleen, D. Lymph nodes, E. Peyer's patches. Choose the correct answer from the options given below:",
+  "options": [
+   "C, D, E only",
+   "B, C, D only",
+   "A, B, C only",
+   "E, A, B only"
+  ],
+  "answer": 0,
+  "exp_hi": "Primary lymphoid organs (bone marrow और thymus) में परिपक्व होने के बाद lymphocytes secondary lymphoid organs की ओर जाते हैं। Spleen, lymph nodes और Peyer's patches secondary lymphoid tissues हैं जहाँ lymphocytes antigens से संपर्क करके immune response प्रारंभ करते हैं। इसलिए सही उत्तर C, D, E only है।",
+  "figure": false
+ },
+ {
+  "n": 36,
+  "subject": "Zoology",
+  "src_n": 74,
+  "q_en": "Given below are two statements: Statement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. Statement II: Fig wasp and fig tree exhibit mutual relationship as fig wasp completes its life cycle in fig fruit and fig fruit gets pollinated by fig wasp. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is incorrect but statement II is correct",
+   "Both statement I and statement II are correct",
+   "Both statement I and statement II are incorrect",
+   "Statement I is correct but statement II is incorrect"
+  ],
+  "answer": 0,
+  "exp_hi": "Fig fruit को non-vegetarian कहना सही नहीं है, क्योंकि fig wasp pollination के बाद सामान्यतः fruit के अंदर ही पच जाती है, इसलिए Statement I गलत है। Fig wasp और fig tree के बीच mutualistic संबंध है — wasp fig fruit के अंदर अपना life cycle पूर्ण करती है और बदले में fig का pollination करती है, इसलिए Statement II सही है। अतः सही उत्तर है कि Statement I गलत और Statement II सही है।",
+  "figure": false
+ },
+ {
+  "n": 37,
+  "subject": "Zoology",
+  "src_n": 77,
+  "q_en": "Which of the following microbes is NOT involved in the preparation of household products? A. Aspergillus niger B. Lactobacillus C. Trichoderma polysporum D. Saccharomyces cerevisiae E. Propionibacterium sharmanii Choose the correct answer from the options given below:",
+  "options": [
+   "C and E only",
+   "A and B only",
+   "A and C only",
+   "C and D only"
+  ],
+  "answer": 2,
+  "exp_hi": "Aspergillus niger का उपयोग मुख्यतः industries में citric acid बनाने में होता है, household products में नहीं। Trichoderma polysporum का उपयोग medicine में antifungal agent के रूप में होता है, घरेलू उत्पादों में नहीं। इसके विपरीत Lactobacillus दही, Saccharomyces cerevisiae bread और Propionibacterium sharmanii cheese बनाने में काम आते हैं। इसलिए सही उत्तर A और C only है।",
+  "figure": false
+ },
+ {
+  "n": 38,
+  "subject": "Zoology",
+  "src_n": 78,
+  "q_en": "In frog, the Renal portal system is a special venous connection that acts to link:",
+  "options": [
+   "Kidney and lower part of body",
+   "Liver and intestine",
+   "Liver and kidney",
+   "Kidney and intestine"
+  ],
+  "answer": 2,
+  "exp_hi": "Ebook solution के अनुसार मेंढक का renal portal system blood को hindlimbs और शरीर के पिछले भागों से एकत्र करके kidney की ओर ले जाता है और इसे liver तथा kidney को जोड़ने वाला तंत्र माना गया है। इस प्रकार blood heart में लौटने से पहले kidney से होकर आंशिक filtration से गुजरता है। इसलिए ebook के अनुसार सही उत्तर Liver and kidney है।",
+  "figure": false
+ },
+ {
+  "n": 39,
+  "subject": "Zoology",
+  "src_n": 80,
+  "q_en": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): All vertebrates are chordates but all chordates are not vertebrates. Reason (R): The members of subphylum Vertebrata possess notochord during the embryonic period; the notochord is replaced by a cartilaginous or bony vertebral column in adults. In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "A is false but R is true",
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true but R is not the correct explanation of A",
+   "A is true but R is false"
+  ],
+  "answer": 1,
+  "exp_hi": "सभी vertebrates phylum Chordata के सदस्य हैं, परंतु सभी chordates vertebrates नहीं होते — जैसे urochordates और cephalochordates में vertebral column नहीं बनता, इसलिए Assertion सही है। Vertebrates में embryonic period में notochord होती है जो adults में cartilaginous या bony vertebral column द्वारा प्रतिस्थापित हो जाती है, इसलिए Reason भी सही है। यही विशेषता vertebrates को अन्य chordates से अलग करती है, अतः Reason, Assertion की सही व्याख्या है।",
+  "figure": false
+ },
+ {
+  "n": 40,
+  "subject": "Zoology",
+  "src_n": 81,
+  "q_en": "Consider the following: A. The reductive division for the human female gametogenesis starts earlier than that of the male gametogenesis. B. The gap between the first meiotic division and the second meiotic division is much shorter for males compared to females. C. The first polar body is associated with the formation of the primary oocyte. D. Luteinizing Hormone (LH) surge leads to disintegration of the endometrium and onset of menstrual bleeding.",
+  "options": [
+   "B and C are true",
+   "A and B are true",
+   "A and C are true",
+   "B and D are true"
+  ],
+  "answer": 1,
+  "exp_hi": "मादा में gametogenesis की reductive division भ्रूणीय जीवन में ही प्रारंभ हो जाती है और primary oocytes जन्म से पहले बन जाते हैं, जबकि नर में यह प्रक्रिया puberty से शुरू होती है, इसलिए A सही है। नर में दोनों meiotic divisions तेज़ी से एक के बाद एक होते हैं, जबकि मादा में meiosis-II fertilization तक रुकी रहती है, इसलिए B सही है। C गलत है क्योंकि first polar body primary oocyte के निर्माण से नहीं जुड़ी होती, और D गलत है क्योंकि LH surge ovulation कराता है, menstrual bleeding नहीं।",
+  "figure": false
+ },
+ {
+  "n": 41,
+  "subject": "Zoology",
+  "src_n": 82,
+  "q_en": "Why can't insulin be given orally to diabetic patients?",
+  "options": [
+   "Its bioavailability will be increased",
+   "Human body will elicit strong immune response",
+   "It will be digested in Gastro-Intestinal (GI) tract",
+   "Because of structural variation"
+  ],
+  "answer": 2,
+  "exp_hi": "Insulin एक protein hormone है। यदि इसे मुँह से दिया जाए तो stomach और intestine के digestive enzymes इसे अन्य proteins की तरह पचा देंगे। इस प्रकार यह blood में पहुँचकर अपना प्रभाव नहीं दिखा पाएगी। इसलिए diabetic patients को insulin injection द्वारा दिया जाता है।",
+  "figure": false
+ },
+ {
+  "n": 42,
+  "subject": "Zoology",
+  "src_n": 85,
+  "q_en": "Match List-I with List-II: List-I: A. Progesterone, B. Relaxin, C. Melanocyte stimulating hormone (MSH), D. Catecholamines. List-II: I. Pars intermedia, II. Ovary, III. Adrenal Medulla, IV. Corpus luteum. Choose the correct answer from the options given below:",
+  "options": [
+   "A–III, B–II, C–IV, D–I",
+   "A–IV, B–II, C–I, D–III",
+   "A–IV, B–II, C–III, D–I",
+   "A–II, B–IV, C–I, D–III"
+  ],
+  "answer": 1,
+  "exp_hi": "Progesterone corpus luteum से बनता है जो ovulation के बाद गर्भाशय की परत को बनाए रखने में सहायता करता है, इसलिए A-IV सही है। Relaxin ovary से स्रावित होता है, इसलिए B-II सही है। Melanocyte Stimulating Hormone (MSH) pars intermedia से बनता है, इसलिए C-I सही है। Catecholamines adrenal medulla से स्रावित होते हैं, इसलिए D-III सही है।",
+  "figure": false
+ },
+ {
+  "n": 43,
+  "subject": "Zoology",
+  "src_n": 86,
+  "q_en": "Sweet potato and potato represent a certain type of evolution. Select the correct combination of terms to explain the evolution.",
+  "options": [
+   "Analogy, divergent",
+   "Analogy, convergent",
+   "Homology, divergent",
+   "Homology, convergent"
+  ],
+  "answer": 1,
+  "exp_hi": "Sweet potato एक modified root है जबकि potato एक modified stem है, फिर भी दोनों का कार्य food storage है। भिन्न उत्पत्ति वाले अंगों का समान कार्य करना analogous organs का उदाहरण है। ऐसे अंग convergent evolution के कारण विकसित होते हैं। इसलिए सही संयोजन Analogy और convergent है।",
+  "figure": false
+ },
+ {
+  "n": 44,
+  "subject": "Zoology",
+  "src_n": 89,
+  "q_en": "Given below are two statements: Statement I: In ecosystem, there is unidirectional flow of energy of sun from producers to consumers. Statement II: Ecosystems are exempted from 2nd law of thermodynamics. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is correct but statement II is incorrect",
+   "Both Statement I and Statement II are correct",
+   "Both statements I and II are incorrect",
+   "Statement I is correct but Statement II is incorrect"
+  ],
+  "answer": 0,
+  "exp_hi": "Ecosystem में energy का प्रवाह सूर्य से producers और फिर consumers की ओर एकदिशीय (unidirectional) होता है, इसलिए Statement I सही है। कोई भी ecosystem thermodynamics के दूसरे नियम से मुक्त नहीं है, क्योंकि प्रत्येक trophic level पर energy की हानि होती है, इसलिए Statement II गलत है। अतः सही उत्तर है कि Statement I सही और Statement II गलत है।",
+  "figure": false
+ },
+ {
+  "n": 45,
+  "subject": "Zoology",
+  "src_n": 90,
+  "q_en": "Which of the following is the unit of productivity of an ecosystem?",
+  "options": [
+   "(Kcal m-2) yr-1",
+   "(g m-2) yr-1",
+   "Kcal m-2",
+   "(Kcal m-3) yr-1"
+  ],
+  "answer": 0,
+  "exp_hi": "Ecosystem की productivity वह दर है जिससे प्रति unit area प्रति unit time biomass या energy उत्पादित होती है। चूँकि इसमें energy को area और time दोनों के सापेक्ष व्यक्त किया जाता है, इसकी सही इकाई (Kcal m-2) yr-1 होती है। यही इकाई Gross Primary Productivity और Net Primary Productivity को दर्शाने में प्रयुक्त होती है।",
+  "figure": false
+ }
+]

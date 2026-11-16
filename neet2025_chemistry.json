@@ -1,0 +1,632 @@
+[
+ {
+  "n": 1,
+  "subject": "Chemistry",
+  "q_en": "The ratio of the wavelengths of the light absorbed by a hydrogen atom when it undergoes n = 2 to n = 3 and n = 4 to n = 6 transitions, respectively, is",
+  "options": [
+   "1/4",
+   "1/36",
+   "1/16",
+   "1/9"
+  ],
+  "answer": 0,
+  "exp_hi": "किसी संक्रमण में अवशोषित प्रकाश की तरंगदैर्ध्य ऊर्जा अंतर के व्युत्क्रमानुपाती होती है (λ ∝ 1/ΔE)। n = 2 → 3 के लिए ΔE ∝ (1/4 − 1/9) = 5/36 और n = 4 → 6 के लिए ΔE ∝ (1/16 − 1/36) = 5/144 होता है। अतः λ1/λ2 = ΔE2/ΔE1 = (5/144)/(5/36) = 1/4।",
+  "figure": false
+ },
+ {
+  "n": 2,
+  "subject": "Chemistry",
+  "q_en": "Which of the following statements are true? A. Unlike Ga that has a very high melting point, Cs has a very low melting point. B. On Pauling scale, the electronegativity values of N and Cl are not the same. C. Ar, K+, Cl-, Ca2+ and S2- are all isoelectronic species. D. The correct order of the first ionization enthalpies of Na, Mg, Al and Si is Si > Al > Mg > Na. E. The atomic radius of Cs is greater than that of Li and Rb. Choose the correct answer from the options given below:",
+  "options": [
+   "A, C and E only",
+   "A, B, and E only",
+   "C and E only",
+   "C and D only"
+  ],
+  "answer": 2,
+  "exp_hi": "NCERT के अनुसार Pauling scale पर N और Cl दोनों की विद्युत्-ऋणात्मकता 3.0 है, इसलिए कथन B असत्य है। Ga का गलनांक भी बहुत कम (लगभग 30°C) होता है, इसलिए A असत्य है, और प्रथम आयनन एन्थैल्पी का सही क्रम Si > Mg > Al > Na होता है, इसलिए D भी असत्य है। Ar, K+, Cl-, Ca2+ और S2- सभी में 18 इलेक्ट्रॉन हैं (समइलेक्ट्रॉनिक) और Cs का परमाणु आकार Li व Rb से बड़ा है — अतः केवल C और E सत्य हैं।",
+  "figure": false
+ },
+ {
+  "n": 3,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I (Ion): A. Co2+ B. Mg2+ C. Pb2+ D. Al3+. List II (Group Number in Cation Analysis): I. Group-I II. Group-III III. Group-IV IV. Group-VI. Choose the correct answer from the options given below:",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-III, B-II, C-IV, D-I"
+  ],
+  "answer": 2,
+  "exp_hi": "धनायन विश्लेषण (cation analysis) में Pb2+ Group-I में, Al3+ Group-III में, Co2+ Group-IV में और Mg2+ Group-VI में आता है। इसलिए सही मिलान A-III, B-IV, C-I, D-II है।",
+  "figure": false
+ },
+ {
+  "n": 4,
+  "subject": "Chemistry",
+  "q_en": "Predict the major product 'P' in the following sequence of reactions (starting compound shown in the figure): (i) HBr, benzoyl peroxide; (ii) KCN; (iii) Na(Hg)/EtOH",
+  "options": [
+   "Option 1 (image)",
+   "Option 2 (image)",
+   "Option 3 (image)",
+   "Option 4 (image)"
+  ],
+  "answer": 2,
+  "exp_hi": "पहले चरण में peroxide की उपस्थिति में HBr का anti-Markovnikov योग होता है, जिससे Br कम प्रतिस्थापित carbon पर जुड़ता है। फिर KCN से Br का स्थान CN ले लेता है, और अंत में Na(Hg)/EtOH से -CN समूह -CH2NH2 में अपचयित हो जाता है। इस प्रकार मुख्य उत्पाद P में cyclopentane ring पर -CH2CH2NH2 side chain होती है।",
+  "figure": true
+ },
+ {
+  "n": 5,
+  "subject": "Chemistry",
+  "q_en": "Energy and radius of first Bohr orbit of He+ and Li2+ are [Given RH = 2.18 x 10^-18 J, a0 = 52.9 pm]",
+  "options": [
+   "En(Li2+) = -8.72 x 10^-16 J, rn(Li2+) = 17.6 pm; En(He+) = -19.62 x 10^-16 J, rn(He+) = 17.6 pm",
+   "En(Li2+) = -19.62 x 10^-18 J, rn(Li2+) = 17.6 pm; En(He+) = -8.72 x 10^-18 J, rn(He+) = 26.4 pm",
+   "En(Li2+) = -8.72 x 10^-18 J, rn(Li2+) = 26.4 pm; En(He+) = -19.62 x 10^-18 J, rn(He+) = 17.6 pm",
+   "En(Li2+) = -19.92 x 10^-16 J, rn(Li2+) = 17.6 pm; En(He+) = -8.72 x 10^-16 J, rn(He+) = 26.4 pm"
+  ],
+  "answer": 1,
+  "exp_hi": "पहली Bohr कक्षा (n = 1) के लिए En = -RH x Z^2 और rn = a0/Z होता है। He+ (Z = 2) के लिए E = -2.18 x 10^-18 x 4 = -8.72 x 10^-18 J और r = 52.9/2 = 26.4 pm; Li2+ (Z = 3) के लिए E = -2.18 x 10^-18 x 9 = -19.62 x 10^-18 J और r = 52.9/3 = 17.6 pm।",
+  "figure": false
+ },
+ {
+  "n": 6,
+  "subject": "Chemistry",
+  "q_en": "Which of the following are paramagnetic? A. [NiCl4]2- B. Ni(CO)4 C. [Ni(CN)4]2- D. [Ni(H2O)6]2+ E. Ni(PPh3)4. Choose the correct answer from the options given below:",
+  "options": [
+   "A and C only",
+   "B and E only",
+   "A and D only",
+   "A, D and E only"
+  ],
+  "answer": 2,
+  "exp_hi": "[NiCl4]2- में Ni2+ (3d8) दुर्बल क्षेत्र ligand Cl- के कारण tetrahedral रहता है और इसमें 2 अयुग्मित इलेक्ट्रॉन होते हैं, इसलिए यह paramagnetic है। [Ni(H2O)6]2+ (D) में भी 2 अयुग्मित इलेक्ट्रॉन होते हैं। Ni(CO)4 (B) और Ni(PPh3)4 (E) में Ni(0) का विन्यास 3d10 है — सभी इलेक्ट्रॉन युग्मित होते हैं, इसलिए वे diamagnetic हैं; [Ni(CN)4]2- (C) भी square planar होकर diamagnetic है। अतः केवल A और D paramagnetic हैं।",
+  "figure": false
+ },
+ {
+  "n": 7,
+  "subject": "Chemistry",
+  "q_en": "Given below are two statements: Statement I: Like nitrogen that can form ammonia, arsenic can form arsine. Statement II: Antimony cannot form antimony pentoxide. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is incorrect but Statement II is correct",
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect"
+  ],
+  "answer": 3,
+  "exp_hi": "कथन I सत्य है — nitrogen की तरह arsenic भी arsine (AsH3) बनाता है; ये group 15 के तत्वों के hydrides हैं। कथन II असत्य है क्योंकि antimony, antimony pentoxide (Sb2O5) बना सकता है।",
+  "figure": false
+ },
+ {
+  "n": 8,
+  "subject": "Chemistry",
+  "q_en": "Which among the following electronic configurations belong to main group elements? A. [Ne]3s1 B. [Ar]3d3 4s2 C. [Kr]4d10 5s2 5p5 D. [Ar]3d10 4s1 E. [Rn]5f0 6d2 7s2. Choose the correct answer from the options given below:",
+  "options": [
+   "A, C and D only",
+   "B and E only",
+   "A and C only",
+   "D and E only"
+  ],
+  "answer": 2,
+  "exp_hi": "मुख्य वर्ग (main group) के तत्व s और p block के होते हैं। A ([Ne]3s1) s-block का और C ([Kr]4d10 5s2 5p5) p-block (halogen) का विन्यास है। B और D में d-कक्षक भर रहे हैं (transition metal) और E में f/d कक्षक वाला actinide-प्रकार विन्यास है, इसलिए केवल A और C मुख्य वर्ग के हैं।",
+  "figure": false
+ },
+ {
+  "n": 9,
+  "subject": "Chemistry",
+  "q_en": "Dalton's Atomic theory could not explain which of the following?",
+  "options": [
+   "Law of gaseous volume",
+   "Law of conservation of mass",
+   "Law of constant proportion",
+   "Law of multiple proportion"
+  ],
+  "answer": 0,
+  "exp_hi": "Dalton का परमाणु सिद्धांत द्रव्यमान संरक्षण, स्थिर अनुपात और गुणित अनुपात के नियमों की व्याख्या करता है। परंतु यह गैसीय आयतन के नियम (Gay-Lussac का नियम) की व्याख्या नहीं कर सका, क्योंकि इसमें गैसों के आयतन-अनुपात के लिए कोई आधार नहीं था।",
+  "figure": false
+ },
+ {
+  "n": 10,
+  "subject": "Chemistry",
+  "q_en": "Consider the following compounds: KO2, H2O2 and H2SO4. The oxidation states of the underlined elements (K in KO2, O in H2O2 and S in H2SO4) in them are, respectively:",
+  "options": [
+   "+4, -4, and +6",
+   "+1, -1, and +6",
+   "+2, -2, and +6",
+   "+1, -2, and +4"
+  ],
+  "answer": 1,
+  "exp_hi": "KO2 में K की ऑक्सीकरण अवस्था +1 है, क्योंकि इसमें superoxide आयन (O2-) होता है। H2O2 में oxygen की ऑक्सीकरण अवस्था -1 होती है (peroxide)। H2SO4 में S की ऑक्सीकरण अवस्था: 2(+1) + x + 4(-2) = 0 से x = +6। अतः क्रम +1, -1, +6 है।",
+  "figure": false
+ },
+ {
+  "n": 11,
+  "subject": "Chemistry",
+  "q_en": "If the half-life (t1/2) for a first order reaction is 1 minute, then the time required for 99.9% completion of the reaction is closest to:",
+  "options": [
+   "10 minutes",
+   "2 minutes",
+   "4 minutes",
+   "5 minutes"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रथम कोटि की अभिक्रिया में 99.9% पूर्णता का अर्थ है कि अभिकारक का केवल 0.1% शेष रहे। इसके लिए लगभग 10 अर्ध-आयु काल लगते हैं, क्योंकि 2^10 ≈ 1000। अर्ध-आयु 1 minute है, इसलिए समय ≈ 10 x 1 = 10 minutes।",
+  "figure": false
+ },
+ {
+  "n": 12,
+  "subject": "Chemistry",
+  "q_en": "The correct order of the wavelength of light absorbed by the following complexes is: A. [Co(NH3)6]3+ B. [Co(CN)6]3- C. [Cu(H2O)4]2+ D. [Ti(H2O)6]3+",
+  "options": [
+   "C < A < D < B",
+   "B < D < A < C",
+   "B < A < D < C",
+   "C < D < A < B"
+  ],
+  "answer": 2,
+  "exp_hi": "अवशोषित प्रकाश की तरंगदैर्ध्य crystal field splitting (Δ) के व्युत्क्रमानुपाती होती है। CN- सबसे प्रबल ligand है, इसलिए [Co(CN)6]3- द्वारा अवशोषित तरंगदैर्ध्य सबसे कम होती है; फिर NH3 वाला संकुल, फिर [Ti(H2O)6]3+ और सबसे दुर्बल क्षेत्र वाले [Cu(H2O)4]2+ की तरंगदैर्ध्य सबसे अधिक होती है। अतः क्रम B < A < D < C है।",
+  "figure": false
+ },
+ {
+  "n": 13,
+  "subject": "Chemistry",
+  "q_en": "Which one of the following compounds can exist as cis-trans isomers?",
+  "options": [
+   "1,2-Dimethylcyclohexane",
+   "Pent-1-ene",
+   "2-Methylhex-2-ene",
+   "1,1-Dimethylcyclopropane"
+  ],
+  "answer": 0,
+  "exp_hi": "1,2-Dimethylcyclohexane में ring के कारण घूर्णन प्रतिबंधित होता है, इसलिए दोनों methyl समूह एक ही ओर (cis) या विपरीत ओर (trans) रह सकते हैं। शेष यौगिकों में cis-trans समावयवता की शर्त पूरी नहीं होती।",
+  "figure": false
+ },
+ {
+  "n": 14,
+  "subject": "Chemistry",
+  "q_en": "Phosphoric acid ionizes in three steps with their ionization constants Ka1, Ka2 and Ka3, respectively, while Ka is the overall ionization constant. Which of the following statements are true? A. log Ka = log Ka1 + log Ka2 + log Ka3 B. H3PO4 is a stronger acid than H2PO4- and HPO4^2- C. Ka1 > Ka2 > Ka3 D. Ka = (Ka1 + Ka2 + Ka3)/3. Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C only",
+   "A and B only",
+   "A and C only",
+   "B, C and D only"
+  ],
+  "answer": 0,
+  "exp_hi": "समग्र आयनन स्थिरांक Ka = Ka1 x Ka2 x Ka3 होता है, इसलिए log Ka = log Ka1 + log Ka2 + log Ka3 (A सत्य)। प्रत्येक अगले चरण में proton निकलना कठिन होता जाता है, इसलिए H3PO4 सबसे प्रबल अम्ल है (B सत्य) और Ka1 > Ka2 > Ka3 होता है (C सत्य)। D असत्य है क्योंकि Ka तीनों स्थिरांकों का गुणनफल है, औसत नहीं।",
+  "figure": false
+ },
+ {
+  "n": 15,
+  "subject": "Chemistry",
+  "q_en": "Which one of the following reactions does NOT give benzene as the product?",
+  "options": [
+   "Option 1 (image)",
+   "Option 2 (image)",
+   "Option 3 (image)",
+   "Option 4 (image)"
+  ],
+  "answer": 0,
+  "exp_hi": "Benzenediazonium chloride को गर्म जल के साथ अभिक्रिया कराने पर N2 निकल जाती है और phenol बनता है, benzene नहीं। शेष तीनों अभिक्रियाओं — sodium benzoate का decarboxylation, n-hexane का aromatization और acetylene को red hot iron tube से गुजारने — से benzene प्राप्त होता है।",
+  "figure": true
+ },
+ {
+  "n": 16,
+  "subject": "Chemistry",
+  "q_en": "If the molar conductivity (Λm) of a 0.050 mol L-1 solution of a monobasic weak acid is 90 S cm2 mol-1, its degree of dissociation will be [Assume Λ°(H+) = 349.6 S cm2 mol-1 and Λ°(anion) = 50.4 S cm2 mol-1]",
+  "options": [
+   "0.215",
+   "0.115",
+   "0.125",
+   "0.225"
+  ],
+  "answer": 3,
+  "exp_hi": "वियोजन की मात्रा α = Λm/Λ°m होती है। Λ°m = 349.6 + 50.4 = 400 S cm2 mol-1 और Λm = 90 S cm2 mol-1 दिया है। अतः α = 90/400 = 0.225।",
+  "figure": false
+ },
+ {
+  "n": 17,
+  "subject": "Chemistry",
+  "q_en": "Given below are two statements: Statement I: A hypothetical diatomic molecule with bond order zero is quite stable. Statement II: As bond order increases, the bond length increases. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false"
+  ],
+  "answer": 2,
+  "exp_hi": "Bond order शून्य होने का अर्थ है कि परमाणुओं के बीच कोई नेट बंधन नहीं है, इसलिए ऐसा अणु स्थायी नहीं हो सकता — कथन I असत्य है। Bond order बढ़ने पर बंध और मजबूत होता है और bond length घटती है, बढ़ती नहीं — कथन II भी असत्य है।",
+  "figure": false
+ },
+ {
+  "n": 18,
+  "subject": "Chemistry",
+  "q_en": "Out of the following complex compounds, which of the compound will be having the minimum conductance in solution?",
+  "options": [
+   "[Co(NH3)5Cl]Cl2",
+   "[Co(NH3)3Cl3]",
+   "[Co(NH3)4Cl2]",
+   "[Co(NH3)6]Cl3"
+  ],
+  "answer": 1,
+  "exp_hi": "विलयन में चालकता उत्पन्न आयनों की संख्या पर निर्भर करती है। [Co(NH3)3Cl3] एक उदासीन (neutral) संकुल है — coordination sphere के बाहर कोई आयन नहीं है, इसलिए यह आयनित नहीं होता और इसकी चालकता न्यूनतम होती है। [Co(NH3)5Cl]Cl2 और [Co(NH3)6]Cl3 विलयन में आयन देते हैं, इसलिए उनकी चालकता इससे अधिक होती है।\nनोट: NTA ने इस प्रश्न के दो उत्तर सही माने थे।",
+  "figure": false
+ },
+ {
+  "n": 19,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I: A. XeO3 B. XeF2 C. XeOF4 D. XeF6. List II: I. sp3d; linear II. sp3; pyramidal III. sp3d3; distorted octahedral IV. sp3d2; square pyramidal. Choose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-II, C-I, D-III",
+   "A-II, B-I, C-IV, D-III",
+   "A-II, B-I, C-III, D-IV",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "answer": 1,
+  "exp_hi": "XeO3 में Xe पर 3 bond pair और 1 lone pair है — sp3 संकरण, pyramidal आकार (II)। XeF2 में 2 bond pair और 3 lone pair हैं — sp3d, linear (I)। XeOF4 में 5 bond pair और 1 lone pair है — sp3d2, square pyramidal (IV)। XeF6 में 6 bond pair और 1 lone pair है — sp3d3, distorted octahedral (III)।",
+  "figure": false
+ },
+ {
+  "n": 20,
+  "subject": "Chemistry",
+  "q_en": "C(s) + 2H2(g) -> CH4(g); ΔH = -74.8 kJ mol-1. Which of the following diagrams gives an accurate representation of the above reaction? [R -> reactants; P -> products]",
+  "options": [
+   "Diagram: Reactants (R) at higher energy, products (P) lower by 74.8 kJ mol-1, the gap marked between the R and P levels",
+   "Diagram: Products (P) at higher energy than reactants (R), the 74.8 kJ mol-1 gap marked from the P level down to the starting baseline",
+   "Diagram: Reactants (R) at higher energy, products (P) lower, but the 74.8 kJ mol-1 gap marked from P up to the activation-energy peak",
+   "Diagram: Products (P) at higher energy than reactants (R) by 74.8 kJ mol-1, the gap marked between the R and P levels"
+  ],
+  "answer": 0,
+  "exp_hi": "यह अभिक्रिया ऊष्माक्षेपी है (ΔH = −74.8 kJ mol-1), इसलिए उत्पाद (P) की ऊर्जा अभिकारकों (R) से 74.8 kJ mol-1 कम होनी चाहिए। सही आरेख में R ऊपर और P नीचे स्थित है तथा 74.8 kJ mol-1 का अंतर R और P के ऊर्जा स्तरों के बीच दिखाया गया है।",
+  "figure": true
+ },
+ {
+  "n": 21,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I (Example): A. Humidity B. Alloys C. Amalgams D. Smoke. List II (Type of Solution): I. Solid in solid II. Liquid in gas III. Solid in gas IV. Liquid in solid. Choose the correct answer from the options given below:",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-II, B-IV, C-I, D-III",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "answer": 2,
+  "exp_hi": "Humidity में जलवाष्प (द्रव) वायु (गैस) में होती है — Liquid in gas (II)। Alloys में एक ठोस धातु दूसरी ठोस धातु में घुली होती है — Solid in solid (I)। Amalgams में mercury (द्रव) ठोस धातु में होता है — Liquid in solid (IV)। Smoke में ठोस कण वायु (गैस) में होते हैं — Solid in gas (III)।",
+  "figure": false
+ },
+ {
+  "n": 22,
+  "subject": "Chemistry",
+  "q_en": "The correct order of decreasing basic strength of the given amines is:",
+  "options": [
+   "benzenamine > ethanamine > N-methylaniline > N-ethylethanamine",
+   "N-methylaniline > benzenamine > ethanamine > N-ethylethanamine",
+   "N-ethylethanamine > ethanamine > benzenamine > N-methylaniline",
+   "N-ethylethanamine > ethanamine > N-methylaniline > benzenamine"
+  ],
+  "answer": 3,
+  "exp_hi": "Aliphatic amines, aromatic amines की तुलना में अधिक क्षारीय होती हैं, क्योंकि aniline में nitrogen का lone pair ring में delocalize हो जाता है। Alkyl समूह के +I प्रभाव के कारण N-ethylethanamine, ethanamine से अधिक क्षारीय है। Aromatic amines में N-methylaniline के methyl समूह का +I प्रभाव उसे benzenamine से थोड़ा अधिक क्षारीय बनाता है। अतः क्रम है: N-ethylethanamine > ethanamine > N-methylaniline > benzenamine।",
+  "figure": false
+ },
+ {
+  "n": 23,
+  "subject": "Chemistry",
+  "q_en": "Among the following, choose the ones with an equal number of atoms: A. 212 g of Na2CO3 (s) [molar mass = 106 g] B. 248 g of Na2O (s) [molar mass = 62 g] C. 240 g of NaOH (s) [molar mass = 40 g] D. 12 g of H2 (g) [molar mass = 2 g] E. 220 g of CO2 (g) [molar mass = 44 g]. Choose the correct answer from the options given below:",
+  "options": [
+   "B, D and E only",
+   "A, B, and C only",
+   "A, B, and D only",
+   "B, C, and D only"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रत्येक में कुल परमाणु गिनें: A में 212/106 = 2 mol x 6 परमाणु = 12 NA; B में 248/62 = 4 mol x 3 परमाणु = 12 NA; C में 240/40 = 6 mol x 3 परमाणु = 18 NA; D में 12/2 = 6 mol x 2 परमाणु = 12 NA; E में 220/44 = 5 mol x 3 परमाणु = 15 NA। अतः A, B और D में परमाणुओं की संख्या बराबर है।",
+  "figure": false
+ },
+ {
+  "n": 24,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I (Name of Vitamin): A. Vitamin B12 B. Vitamin D C. Vitamin B2 D. Vitamin B6. List II (Deficiency disease): I. Cheilosis II. Convulsions III. Rickets IV. Pernicious anaemia. Choose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-II, B-III, C-I, D-IV"
+  ],
+  "answer": 2,
+  "exp_hi": "Vitamin B12 की कमी से Pernicious anaemia (IV), Vitamin D की कमी से Rickets (III), Vitamin B2 की कमी से Cheilosis (I) और Vitamin B6 की कमी से Convulsions (II) होते हैं। अतः सही मिलान A-IV, B-III, C-I, D-II है।",
+  "figure": false
+ },
+ {
+  "n": 25,
+  "subject": "Chemistry",
+  "q_en": "The correct order of decreasing acidity of the following aliphatic acids is:",
+  "options": [
+   "HCOOH > (CH3)3CCOOH > (CH3)2CHCOOH > CH3COOH",
+   "(CH3)3CCOOH > (CH3)2CHCOOH > CH3COOH > HCOOH",
+   "CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH > HCOOH",
+   "HCOOH > CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH"
+  ],
+  "answer": 3,
+  "exp_hi": "Alkyl समूह का +I प्रभाव carboxylate आयन को अस्थिर करके अम्लीयता घटाता है। HCOOH में कोई alkyl समूह नहीं है, इसलिए यह सबसे प्रबल अम्ल है; alkyl समूह बढ़ने के क्रम में अम्लीयता घटती जाती है। अतः क्रम HCOOH > CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH है।",
+  "figure": false
+ },
+ {
+  "n": 26,
+  "subject": "Chemistry",
+  "q_en": "Given below are two statements: Statement I: Ferromagnetism is considered as an extreme form of paramagnetism. Statement II: The number of unpaired electrons in a Cr2+ ion (Z = 24) is the same as that of a Nd3+ ion (Z = 60). In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false"
+  ],
+  "answer": 3,
+  "exp_hi": "कथन I सत्य है — ferromagnetism को paramagnetism का चरम रूप माना जाता है। कथन II असत्य है: Cr2+ (3d4) में 4 अयुग्मित इलेक्ट्रॉन हैं, जबकि Nd3+ (4f3) में 3 अयुग्मित इलेक्ट्रॉन हैं — दोनों बराबर नहीं हैं।",
+  "figure": false
+ },
+ {
+  "n": 27,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I (Mixture): A. CHCl3 + C6H5NH2 B. Crude oil in petroleum industry C. Glycerol from spent-lye D. Aniline + water. List II (Method of Separation): I. Distillation under reduced pressure II. Steam distillation III. Fractional distillation IV. Simple distillation. Choose the correct answer from the options given below:",
+  "options": [
+   "A - II, B - IV, C - I, D - III",
+   "A - IV, B - III, C - II, D - I",
+   "A - IV, B - III, C - I, D - II",
+   "A - III, B - IV, C - I, D - II"
+  ],
+  "answer": 2,
+  "exp_hi": "CHCl3 (क्वथनांक 61°C) और aniline (क्वथनांक 184°C) के मिश्रण को simple distillation (IV) से अलग करते हैं। Crude oil को fractional distillation (III) से और glycerol को spent-lye से distillation under reduced pressure (I) से अलग करते हैं। Aniline जल में अमिश्रणीय और भाप-वाष्पशील है, इसलिए aniline + water को steam distillation (II) से अलग करते हैं।",
+  "figure": false
+ },
+ {
+  "n": 28,
+  "subject": "Chemistry",
+  "q_en": "For the reaction A(g) ⇌ 2B(g), the backward reaction rate constant is higher than the forward reaction rate constant by a factor of 2500, at 1000 K. [Given: R = 0.0831 L atm mol-1 K-1] Kp for the reaction at 1000 K is",
+  "options": [
+   "0.021",
+   "83.1",
+   "2.077 x 10^5",
+   "0.033"
+  ],
+  "answer": 3,
+  "exp_hi": "Kc = kf/kb = 1/2500 = 4 x 10^-4। Kp = Kc(RT)^Δn, जहाँ Δn = 2 - 1 = 1 है। Kp = 4 x 10^-4 x (0.0831 x 1000) = 4 x 10^-4 x 83.1 = 0.033।",
+  "figure": false
+ },
+ {
+  "n": 29,
+  "subject": "Chemistry",
+  "q_en": "Given below are two statements: Statement I: Benzenediazonium salt is prepared by the reaction of aniline with nitrous acid at 273-278 K. It decomposes easily in the dry state. Statement II: Insertion of iodine into the benzene ring is difficult, and hence iodobenzene is prepared through the reaction of benzenediazonium salt with KI. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Statement I is incorrect but Statement II is correct",
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect"
+  ],
+  "answer": 0,
+  "exp_hi": "कथन I असत्य है — benzenediazonium salt 273-278 K पर बनाया जाता है और यह शुष्क अवस्था में आसानी से विघटित नहीं होता; इसे विलयन में ही बनाया और प्रयोग किया जाता है। कथन II सत्य है — benzene ring में iodine का सीधा प्रवेश कठिन है, इसलिए iodobenzene, diazonium salt की KI से अभिक्रिया द्वारा बनाया जाता है।",
+  "figure": false
+ },
+ {
+  "n": 30,
+  "subject": "Chemistry",
+  "q_en": "How many products (including stereoisomers) are expected from monochlorination of the following compound (shown in the figure)?",
+  "options": [
+   "6",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "exp_hi": "दिए गए यौगिक के monochlorination से बने कुछ उत्पादों में एक chiral centre बनता है, जिनसे प्रत्येक के 2 प्रकाशिक समावयवी (optical isomers) मिलते हैं। सभी भिन्न उत्पादों और उनके stereoisomers को जोड़ने पर कुल 6 उत्पाद प्राप्त होते हैं।",
+  "figure": true
+ },
+ {
+  "n": 31,
+  "subject": "Chemistry",
+  "q_en": "Among the given compounds I-III, the correct order of bond dissociation energy of the C-H bond marked with '*' is:",
+  "options": [
+   "II > III > I",
+   "II > I > III",
+   "I > II > III",
+   "III > II > I"
+  ],
+  "answer": 2,
+  "exp_hi": "C-H bond की bond dissociation energy उस radical की स्थिरता पर निर्भर करती है जो bond टूटने से बनता है — radical जितना अधिक स्थिर, BDE उतनी कम। यौगिकों I-III में '*' से चिह्नित C-H बंधों के लिए BDE का सही क्रम I > II > III है।",
+  "figure": true
+ },
+ {
+  "n": 32,
+  "subject": "Chemistry",
+  "q_en": "Which of the following does not decolorize bromine water?",
+  "options": [
+   "Option 1 (image)",
+   "Option 2 (image)",
+   "Option 3 (image)",
+   "Option 4 (image)"
+  ],
+  "answer": 1,
+  "exp_hi": "Bromine water उन यौगिकों से रंगहीन होता है जिनमें द्विबंध या त्रिबंध होता है, या जो आसानी से bromination करते हैं — जैसे alkene और aniline। Cyclohexane एक संतृप्त hydrocarbon है; इसमें कोई द्विबंध नहीं है, इसलिए यह bromine water को रंगहीन नहीं करता।",
+  "figure": true
+ },
+ {
+  "n": 33,
+  "subject": "Chemistry",
+  "q_en": "The major product of the following reaction is: Ph-CO-CH2-CH2-CN is treated with excess CH3MgBr, followed by acidic hydrolysis (H3O+)",
+  "options": [
+   "Option 1 (image)",
+   "Option 2 (image)",
+   "Option 3 (image)",
+   "Option 4 (image)"
+  ],
+  "answer": 3,
+  "exp_hi": "Grignard अभिकर्मक (CH3MgBr) ketone पर योग करके tertiary alcohol बनाता है और -CN समूह पर योग करके hydrolysis के बाद ketone देता है। अधिक मात्रा में अभिकर्मक लेने पर दोनों समूह अभिक्रिया करते हैं और hydrolysis के बाद प्राप्त मुख्य उत्पाद विकल्प (4) वाला होता है।",
+  "figure": true
+ },
+ {
+  "n": 34,
+  "subject": "Chemistry",
+  "q_en": "Which of the following aqueous solution will exhibit highest boiling point?",
+  "options": [
+   "0.015 M C6H12O6",
+   "0.01 M Urea",
+   "0.01 M KNO3",
+   "0.01 M Na2SO4"
+  ],
+  "answer": 3,
+  "exp_hi": "क्वथनांक उन्नयन van't Hoff factor (i) और सांद्रता के गुणनफल पर निर्भर करता है। Glucose और urea के लिए i = 1, KNO3 के लिए i = 2 और Na2SO4 के लिए i = 3 है। Na2SO4 का i x सांद्रता सबसे अधिक है, इसलिए इसका क्वथनांक सबसे ऊँचा होगा।",
+  "figure": false
+ },
+ {
+  "n": 35,
+  "subject": "Chemistry",
+  "q_en": "Match List I with List II. List I: A. Haber process B. Wacker oxidation C. Wilkinson catalyst D. Ziegler catalyst. List II: I. Fe catalyst II. PdCl2 III. [(PPh3)3RhCl] IV. TiCl4 with Al(CH3)3. Choose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-IV, C-III, D-II",
+   "A-I, B-II, C-IV, D-III",
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-III, D-IV"
+  ],
+  "answer": 3,
+  "exp_hi": "Haber process में Fe catalyst, Wacker oxidation में PdCl2, Wilkinson catalyst [(PPh3)3RhCl] और Ziegler catalyst में TiCl4 के साथ Al(CH3)3 प्रयोग होता है। अतः सही मिलान A-I, B-II, C-III, D-IV है।",
+  "figure": false
+ },
+ {
+  "n": 36,
+  "subject": "Chemistry",
+  "q_en": "5 moles of liquid X and 10 moles of liquid Y make a solution having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described solution?",
+  "options": [
+   "The solution has volume greater than the sum of individual volumes.",
+   "The solution shows positive deviation.",
+   "The solution shows negative deviation.",
+   "The solution is ideal."
+  ],
+  "answer": 2,
+  "exp_hi": "Raoult के नियम से आदर्श वाष्प दाब = (1/3)(63) + (2/3)(78) = 21 + 52 = 73 torr होना चाहिए। परंतु वास्तविक वाष्प दाब 70 torr है, जो आदर्श मान से कम है। वाष्प दाब का आदर्श मान से कम होना negative deviation दर्शाता है।",
+  "figure": false
+ },
+ {
+  "n": 37,
+  "subject": "Chemistry",
+  "q_en": "Sugar 'X': A. is found in honey. B. is a keto sugar. C. exists in alpha and beta-anomeric forms. D. is laevorotatory. 'X' is:",
+  "options": [
+   "Sucrose",
+   "D-glucose",
+   "D-Fructose",
+   "Maltose"
+  ],
+  "answer": 2,
+  "exp_hi": "शहद में पाई जाने वाली keto sugar (ketose), जो alpha और beta anomeric रूपों में रहती है और laevorotatory है — यह D-Fructose है। D-श्रेणी की होने के बावजूद fructose ध्रुवित प्रकाश को बाईं ओर घुमाती है।",
+  "figure": false
+ },
+ {
+  "n": 38,
+  "subject": "Chemistry",
+  "q_en": "Identify the suitable reagent for the following conversion (shown in the figure).",
+  "options": [
+   "H2/Pd-BaSO4",
+   "(i) LiAlH4, (ii) H+/H2O",
+   "(i) AlH(iBu)2, (ii) H2O",
+   "(i) NaBH4, (ii) H+/H2O"
+  ],
+  "answer": 2,
+  "exp_hi": "दिए गए परिवर्तन में ester को aldehyde तक ही अपचयित करना है। DIBAL-H अर्थात AlH(iBu)2 निम्न ताप पर ester को चुनिंदा रूप से aldehyde में बदलता है और आगे alcohol नहीं बनने देता। इसलिए उपयुक्त अभिकर्मक (i) AlH(iBu)2, (ii) H2O है।",
+  "figure": true
+ },
+ {
+  "n": 39,
+  "subject": "Chemistry",
+  "q_en": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): The alkyl iodide shown in the figure undergoes SN2 reaction faster than the alkyl bromide shown in the figure. Reason (R): Iodine is a better leaving group because of its large size. In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "A is false but R is true",
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true but R is not the correct explanation of A",
+   "A is true but R is false"
+  ],
+  "answer": 1,
+  "exp_hi": "Iodine अपने बड़े आकार के कारण अच्छा leaving group है — C-I bond कमजोर होता है और I- आसानी से निकल जाता है। इसलिए alkyl iodide, SN2 अभिक्रिया में संगत bromide की तुलना में तेजी से भाग लेता है। अतः A और R दोनों सत्य हैं और R, A की सही व्याख्या है।",
+  "figure": true
+ },
+ {
+  "n": 40,
+  "subject": "Chemistry",
+  "q_en": "The standard heat of formation, in kcal/mol, of Ba2+ (aq) is: [Given: standard heat of formation of SO4^2- ion (aq) = -216 kcal/mol, standard heat of crystallisation of BaSO4 (s) = -4.5 kcal/mol, standard heat of formation of BaSO4 (s) = -349 kcal/mol]",
+  "options": [
+   "+220.5",
+   "-128.5",
+   "-133.0",
+   "+133"
+  ],
+  "answer": 1,
+  "exp_hi": "Hess के नियम से Ba2+(aq) + SO4^2-(aq) -> BaSO4(s) अभिक्रिया के लिए ΔHf(Ba2+) = ΔHf(BaSO4) - ΔHf(SO4^2-) + ΔHcryst का परिकलन करने पर: (-349) - (-216) - (-4.5) = -128.5 kcal/mol प्राप्त होता है।",
+  "figure": false
+ },
+ {
+  "n": 41,
+  "subject": "Chemistry",
+  "q_en": "Total number of possible isomers (both structural as well as stereoisomers) of cyclic ethers of molecular formula C4H8O is:",
+  "options": [
+   "11",
+   "6",
+   "8",
+   "10"
+  ],
+  "answer": 1,
+  "exp_hi": "C4H8O के लिए असंतृप्तता की मात्रा (DOU) = 1 है, अर्थात अणु में एक ring है। 3-सदस्यीय (epoxide), 4-सदस्यीय (oxetane) और 5-सदस्यीय (tetrahydrofuran) cyclic ethers की सभी संरचनात्मक और stereo समावयवी संरचनाएँ गिनने पर कुल 6 समावयवी मिलते हैं।",
+  "figure": false
+ },
+ {
+  "n": 42,
+  "subject": "Chemistry",
+  "q_en": "Identify the correct orders against the property mentioned: A. H2O > NH3 > CHCl3 - dipole moment B. XeF4 > XeO3 > XeF2 - number of lone pairs on central atom C. O-H > C-H > N-O - bond length D. N2 > O2 > H2 - bond enthalpy. Choose the correct answer from the options given below:",
+  "options": [
+   "B, C only",
+   "A, D only",
+   "B, D only",
+   "A, C only"
+  ],
+  "answer": 1,
+  "exp_hi": "Dipole moment का क्रम H2O (1.85 D) > NH3 (1.47 D) > CHCl3 (1.01 D) सही है (A)। Bond enthalpy का क्रम N2 (941) > O2 (498) > H2 (436) kJ/mol भी सही है (D)। B में XeF2 के केन्द्रीय परमाणु पर 3 lone pair हैं, इसलिए दिया गया क्रम गलत है, और C में bond length का क्रम भी गलत है। अतः केवल A और D सही हैं।",
+  "figure": false
+ },
+ {
+  "n": 43,
+  "subject": "Chemistry",
+  "q_en": "Higher yield of NO in N2(g) + O2(g) ⇌ 2NO(g) can be obtained at [ΔH of the reaction = +180.7 kJ mol-1]: A. higher temperature B. lower temperature C. higher concentration of N2 D. higher concentration of O2. Choose the correct answer from the options given below:",
+  "options": [
+   "A, C, D only",
+   "A, D only",
+   "B, C only",
+   "B, C, D only"
+  ],
+  "answer": 0,
+  "exp_hi": "N2 + O2 ⇌ 2NO अभिक्रिया ऊष्माशोषी है (ΔH = +180.7 kJ mol-1)। Le Chatelier के सिद्धांत से उच्च ताप अग्र दिशा को बढ़ावा देता है, और N2 या O2 की सांद्रता बढ़ाने से भी साम्य अग्र दिशा में खिसकता है। अतः A, C और D से NO की लब्धि बढ़ेगी।",
+  "figure": false
+ },
+ {
+  "n": 44,
+  "subject": "Chemistry",
+  "q_en": "If the rate constant of a reaction is 0.03 s-1, how much time does it take for 7.2 mol L-1 concentration of the reactant to get reduced to 0.9 mol L-1? (Given: log 2 = 0.3)",
+  "options": [
+   "21.0 s",
+   "69.3 s",
+   "23.1 s",
+   "210 s"
+  ],
+  "answer": 1,
+  "exp_hi": "k की इकाई s-1 है, इसलिए अभिक्रिया प्रथम कोटि की है। t = (2.303/k) log([R]0/[R]) = (2.303/0.03) x log(7.2/0.9) = (2.303/0.03) x log 8 = (2.303/0.03) x 0.9 ≈ 69.3 s।",
+  "figure": false
+ },
+ {
+  "n": 45,
+  "subject": "Chemistry",
+  "q_en": "Which one of the following does NOT belong to Lassaigne's test?",
+  "options": [
+   "2CuO + C -> 2Cu + CO2 (Δ)",
+   "Na + C + N -> NaCN (Δ)",
+   "2Na + S -> Na2S",
+   "Na + X -> NaX (Δ)"
+  ],
+  "answer": 0,
+  "exp_hi": "Lassaigne's test में कार्बनिक यौगिक को sodium के साथ गलाया (fusion) जाता है, जिससे NaCN (nitrogen के लिए), Na2S (sulfur के लिए) और NaX (halogen के लिए) बनते हैं। 2CuO + C -> 2Cu + CO2 एक अपचयन अभिक्रिया है, जो इस परीक्षण से संबंधित नहीं है।",
+  "figure": false
+ }
+]
