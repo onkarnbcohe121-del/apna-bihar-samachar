@@ -1,0 +1,1102 @@
+[
+ {
+  "answer": 0,
+  "exp_hi": "किसी वस्तु को दूसरी वस्तु का प्रतीक मानकर खेलना प्रतीकात्मक खेल है, जो पूर्व-संक्रियात्मक अवस्था की प्रमुख विशेषता है।",
+  "mock_q": 1,
+  "n": 336,
+  "options": [
+   "प्रतीकात्मक खेल",
+   "समानांतर खेल",
+   "एकांत खेल",
+   "केवल शारीरिक खेल"
+  ],
+  "options_en": [
+   "Symbolic play",
+   "Parallel play",
+   "Solitary play",
+   "Only physical play"
+  ],
+  "q_en": "While playing, a preoperational child treats a stick as a horse. This is an example of —",
+  "q_hi": "पूर्व-संक्रियात्मक अवस्था का बच्चा छड़ी को घोड़ा मानकर खेलता है। यह किसका उदाहरण है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "टॉडलर अवस्था में बच्चा स्वयं काम करने की इच्छा विकसित करता है; अत्यधिक नियंत्रण से लज्जा और संदेह उत्पन्न हो सकता है।",
+  "mock_q": 2,
+  "n": 337,
+  "options": [
+   "विश्वास बनाम अविश्वास",
+   "स्वायत्तता बनाम लज्जा और संदेह",
+   "पहल बनाम अपराधबोध",
+   "परिश्रम बनाम हीनता"
+  ],
+  "options_en": [
+   "Trust versus mistrust",
+   "Autonomy versus shame and doubt",
+   "Initiative versus guilt",
+   "Industry versus inferiority"
+  ],
+  "q_en": "According to Erikson, what is the main psychosocial crisis at about one-and-a-half to three years of age ?",
+  "q_hi": "एरिक्सन के अनुसार, लगभग डेढ़ से तीन वर्ष की आयु का प्रमुख मनोसामाजिक संकट कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "परम्परागत स्तर के चरण चार में नियमों, कर्तव्य और सामाजिक व्यवस्था को बनाए रखना नैतिक निर्णय का आधार होता है।",
+  "mock_q": 3,
+  "n": 338,
+  "options": [
+   "दंड और आज्ञाकारिता",
+   "अच्छा लड़का-अच्छी लड़की",
+   "कानून और व्यवस्था",
+   "सामाजिक अनुबंध"
+  ],
+  "options_en": [
+   "Punishment and obedience",
+   "Good boy-good girl",
+   "Law and order",
+   "Social contract"
+  ],
+  "q_en": "In Kohlberg's moral development, the 'law and order' orientation is associated with which stage ?",
+  "q_hi": "कोह्लबर्ग के नैतिक विकास में 'कानून और व्यवस्था' अभिविन्यास किस चरण से जुड़ा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "माइक्रोसिस्टम बच्चे के सबसे निकट का वातावरण है, जिसमें परिवार, विद्यालय और सहपाठी समूह से सीधा संपर्क होता है।",
+  "mock_q": 4,
+  "n": 339,
+  "options": [
+   "मैक्रोसिस्टम",
+   "एक्सोसिस्टम",
+   "मीजोसिस्टम",
+   "माइक्रोसिस्टम"
+  ],
+  "options_en": [
+   "Macrosystem",
+   "Exosystem",
+   "Mesosystem",
+   "Microsystem"
+  ],
+  "q_en": "In Bronfenbrenner's ecological systems theory, family, school and peer group belong to which system ?",
+  "q_hi": "ब्रॉन्फ़ेनब्रेनर के पारिस्थितिक तंत्र सिद्धान्त में परिवार, विद्यालय और सहपाठी समूह किस तंत्र में आते हैं ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "मद्यपान, कुछ दवाएँ, संक्रमण और विकिरण जैसे कारक गर्भावस्था में भ्रूण के विकास को हानि पहुँचा सकते हैं; इन्हें टेराटोजन कहते हैं।",
+  "mock_q": 5,
+  "n": 340,
+  "options": [
+   "शिशु के लिए आवश्यक पोषक तत्व",
+   "गर्भावस्था में भ्रूण के विकास को हानि पहुँचाने वाला कारक",
+   "विकास को तेज करने वाला हार्मोन",
+   "रोगों से बचाने वाली प्रतिरक्षा"
+  ],
+  "options_en": [
+   "A nutrient essential for the infant",
+   "A factor that can harm fetal development during pregnancy",
+   "A hormone that speeds up development",
+   "Immunity that protects against diseases"
+  ],
+  "q_en": "What is meant by a 'teratogen' ?",
+  "q_hi": "'टेराटोजन' से क्या अभिप्राय है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सामग्री को व्यवस्थित करके कुछ बनाना रचनात्मक या निर्माणात्मक खेल कहलाता है।",
+  "mock_q": 6,
+  "n": 341,
+  "options": [
+   "प्रतीकात्मक खेल",
+   "समानांतर खेल",
+   "रचनात्मक खेल",
+   "दर्शक खेल"
+  ],
+  "options_en": [
+   "Symbolic play",
+   "Parallel play",
+   "Constructive play",
+   "Onlooker play"
+  ],
+  "q_en": "A child builds a tower with blocks. What type of play is this ?",
+  "q_hi": "बच्चा ब्लॉकों से मीनार बनाता है। यह किस प्रकार का खेल है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "पहचान स्थगन में सक्रिय अन्वेषण चल रहा होता है, परंतु अंतिम प्रतिबद्धता अभी नहीं बनी होती।",
+  "mock_q": 7,
+  "n": 342,
+  "options": [
+   "पहचान विसरण",
+   "पहचान पूर्वबंदी",
+   "पहचान स्थगन",
+   "पहचान उपलब्धि"
+  ],
+  "options_en": [
+   "Identity diffusion",
+   "Identity foreclosure",
+   "Identity moratorium",
+   "Identity achievement"
+  ],
+  "q_en": "According to Marcia, an adolescent has explored alternatives but has not yet made a commitment to an identity. What is this status called ?",
+  "q_hi": "मार्सिया के अनुसार, किशोर ने विकल्पों का अन्वेषण किया है लेकिन अभी किसी पहचान के प्रति प्रतिबद्धता नहीं बनाई है। यह स्थिति क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "निजी वाणी धीरे-धीरे आंतरिक वाणी में बदल जाती है, जिससे बच्चा मौन रूप से अपने चिंतन और व्यवहार को नियंत्रित करता है।",
+  "mock_q": 8,
+  "n": 343,
+  "options": [
+   "सामाजिक वाणी",
+   "निजी वाणी",
+   "अहंकेन्द्रित वाणी",
+   "आंतरिक वाणी"
+  ],
+  "options_en": [
+   "Social speech",
+   "Private speech",
+   "Egocentric speech",
+   "Inner speech"
+  ],
+  "q_en": "According to Vygotsky, when a child silently plans in the mind and directs himself, what is he using ?",
+  "q_hi": "वाइगोत्स्की के अनुसार, जब बच्चा बिना आवाज़ किए मन में योजना बनाकर स्वयं को निर्देश देता है, तो वह किसका प्रयोग कर रहा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "विश्लेषणात्मक बुद्धि में सूचना का विश्लेषण, तुलना, तर्क और मूल्यांकन शामिल है।",
+  "mock_q": 9,
+  "n": 344,
+  "options": [
+   "तर्क करना, तुलना करना और मूल्यांकन करना",
+   "नए और मौलिक विचार उत्पन्न करना",
+   "दैनिक व्यावहारिक समस्याएँ सुलझाना",
+   "दूसरों की भावनाएँ समझना"
+  ],
+  "options_en": [
+   "Reasoning, comparing and evaluating",
+   "Producing new and original ideas",
+   "Solving everyday practical problems",
+   "Understanding the feelings of others"
+  ],
+  "q_en": "In Sternberg's triarchic theory, analytical intelligence is mainly related to —",
+  "q_hi": "स्टर्नबर्ग के त्रिआयामी सिद्धान्त में विश्लेषणात्मक बुद्धि मुख्यतः किससे संबंधित है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "शरीर की गति, संतुलन और समन्वय का कुशल प्रयोग शारीरिक-गतिसंवेदी बुद्धि को दर्शाता है।",
+  "mock_q": 10,
+  "n": 345,
+  "options": [
+   "भाषिक बुद्धि",
+   "तार्किक-गणितीय बुद्धि",
+   "शारीरिक-गतिसंवेदी बुद्धि",
+   "प्राकृतिक बुद्धि"
+  ],
+  "options_en": [
+   "Linguistic intelligence",
+   "Logical-mathematical intelligence",
+   "Bodily-kinaesthetic intelligence",
+   "Naturalistic intelligence"
+  ],
+  "q_en": "According to Gardner, which intelligence is especially developed in dancers and sportspersons ?",
+  "q_hi": "गार्डनर के अनुसार, नर्तक और खिलाड़ी में विशेष रूप से विकसित बुद्धि कौन-सी होती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "UDL में प्रस्तुति, अभिव्यक्ति और सहभागिता के अनेक माध्यम देकर विविध शिक्षार्थियों तक पहुँच बनाई जाती है।",
+  "mock_q": 11,
+  "n": 346,
+  "options": [
+   "सभी बच्चों को केवल एक ही पाठ्यपुस्तक देना",
+   "जानकारी प्रस्तुत करने के अनेक माध्यम उपलब्ध कराना",
+   "सभी से एक ही प्रकार का कार्य कराना",
+   "केवल रटने पर बल देना"
+  ],
+  "options_en": [
+   "Giving only one textbook to all children",
+   "Providing multiple means of presenting information",
+   "Making everyone do the same kind of task",
+   "Emphasising rote learning only"
+  ],
+  "q_en": "What is a major principle of Universal Design for Learning (UDL) ?",
+  "q_hi": "अधिगम के सार्वभौमिक अभिकल्प (UDL) का एक प्रमुख सिद्धान्त क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सेरेब्रल पाल्सी मस्तिष्क की प्रारंभिक क्षति से जुड़ी गति और मुद्रा संबंधी स्थिति है।",
+  "mock_q": 12,
+  "n": 347,
+  "options": [
+   "ध्वनियाँ सुनने में",
+   "रंग पहचानने में",
+   "गति, मुद्रा और पेशीय समन्वय में",
+   "केवल दीर्घकालिक स्मृति में"
+  ],
+  "options_en": [
+   "Hearing sounds",
+   "Identifying colours",
+   "Movement, posture and muscle coordination",
+   "Only long-term memory"
+  ],
+  "q_en": "A child with cerebral palsy mainly has difficulty in —",
+  "q_hi": "सेरेब्रल पाल्सी से ग्रस्त बच्चे को मुख्य कठिनाई किसमें होती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "संवर्धन में गहरे, विस्तृत और चुनौतीपूर्ण कार्य देकर प्रतिभाशाली शिक्षार्थी की रुचि और क्षमता दोनों को दिशा मिलती है।",
+  "mock_q": 13,
+  "n": 348,
+  "options": [
+   "उसी कार्य को बार-बार कराना",
+   "उसे दंड देना",
+   "उसकी उपेक्षा करना",
+   "पाठ्यवस्तु का संवर्धन और चुनौतीपूर्ण विस्तार देना"
+  ],
+  "options_en": [
+   "Making him repeat the same work again and again",
+   "Punishing him",
+   "Ignoring him",
+   "Providing enrichment and challenging extension of the content"
+  ],
+  "q_en": "A gifted learner finishes regular work quickly and starts getting bored. What is the most suitable measure for him ?",
+  "q_hi": "प्रतिभाशाली शिक्षार्थी नियमित कार्य जल्दी पूरा करके ऊबने लगता है। उसके लिए सबसे उपयुक्त उपाय क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "नई जानकारी को पहले से ज्ञात बातों से जोड़ने से अर्थ बनता है और स्मृति अधिक स्थायी होती है।",
+  "mock_q": 14,
+  "n": 349,
+  "options": [
+   "शब्द को बिना समझे बार-बार बोलना",
+   "नई अवधारणा को पूर्व अनुभव से जोड़कर समझना",
+   "उत्तर को अक्षरशः नकल करना",
+   "केवल शीर्षक याद करना"
+  ],
+  "options_en": [
+   "Repeating a word again and again without understanding",
+   "Understanding a new concept by linking it with prior experience",
+   "Copying the answer word for word",
+   "Memorising only the heading"
+  ],
+  "q_en": "Which is a correct example of elaborative rehearsal ?",
+  "q_hi": "विस्तृत पुनरावृत्ति (elaborative rehearsal) का सही उदाहरण कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "क्षय सिद्धान्त मानता है कि समय के साथ और उपयोग न होने पर स्मृति-चिह्न धीरे-धीरे क्षीण हो जाता है।",
+  "mock_q": 15,
+  "n": 350,
+  "options": [
+   "समय बीतने और उपयोग न होने से स्मृति-चिह्न कमजोर हो जाता है",
+   "नई जानकारी पुरानी को धकेल देती है",
+   "संकेत उपलब्ध न होने से पुनःप्राप्ति रुक जाती है",
+   "मन दर्दनाक स्मृति को दबा देता है"
+  ],
+  "options_en": [
+   "The memory trace weakens with time and disuse",
+   "New information pushes out the old information",
+   "Retrieval stops because cues are unavailable",
+   "The mind represses a painful memory"
+  ],
+  "q_en": "According to decay theory, why does forgetting occur ?",
+  "q_hi": "क्षय सिद्धान्त (decay theory) के अनुसार विस्मरण क्यों होता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "एल्गोरिथ्म निश्चित चरणों वाली विधि है; सही ढंग से अपनाने पर यह समस्या का हल सुनिश्चित करती है।",
+  "mock_q": 16,
+  "n": 351,
+  "options": [
+   "अनुमान पर आधारित छोटा उपाय",
+   "चरणबद्ध विधि, जिसका सही पालन करने पर हल सुनिश्चित हो",
+   "अचानक मिलने वाली सूझ",
+   "बार-बार प्रयास और त्रुटि"
+  ],
+  "options_en": [
+   "A shortcut based on a guess",
+   "A step-by-step method which ensures a solution if followed correctly",
+   "Sudden insight",
+   "Repeated trial and error"
+  ],
+  "q_en": "What is meant by an 'algorithm' ?",
+  "q_hi": "'एल्गोरिथ्म' से क्या अभिप्राय है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "मौलिकता का अर्थ है ऐसे विचार देना जो सामान्य से अलग, अनूठे और असामान्य हों।",
+  "mock_q": 17,
+  "n": 352,
+  "options": [
+   "प्रवाह",
+   "लचीलापन",
+   "मौलिकता",
+   "विस्तारण"
+  ],
+  "options_en": [
+   "Fluency",
+   "Flexibility",
+   "Originality",
+   "Elaboration"
+  ],
+  "q_en": "According to Torrance, presenting unusual and unique ideas shows which element of creativity ?",
+  "q_hi": "टॉरेंस के अनुसार, असामान्य और अनूठे विचार प्रस्तुत करना सृजनात्मकता के किस तत्व को दर्शाता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "जब पूर्व अधिगम नए अधिगम में बाधा डालता है, तो उसे नकारात्मक अंतरण कहते हैं।",
+  "mock_q": 18,
+  "n": 353,
+  "options": [
+   "सकारात्मक अंतरण",
+   "शून्य अंतरण",
+   "क्षैतिज अंतरण",
+   "नकारात्मक अंतरण"
+  ],
+  "options_en": [
+   "Positive transfer",
+   "Zero transfer",
+   "Horizontal transfer",
+   "Negative transfer"
+  ],
+  "q_en": "When a previously learned skill starts hindering the learning of a new, different skill, this is an example of —",
+  "q_hi": "पहले सीखा हुआ कौशल नए, भिन्न कौशल को सीखने में बाधा डालने लगे, तो यह किसका उदाहरण है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "प्रयास और तैयारी नियंत्रणीय कारक हैं; असफलता को इनसे जोड़ने पर विद्यार्थी आगे सुधार का प्रयास कर सकता है।",
+  "mock_q": 19,
+  "n": 354,
+  "options": [
+   "स्थायी रूप से कम योग्यता",
+   "बुरा भाग्य",
+   "अपर्याप्त तैयारी",
+   "कार्य का असंभव होना"
+  ],
+  "options_en": [
+   "Permanently low ability",
+   "Bad luck",
+   "Insufficient preparation",
+   "The task being impossible"
+  ],
+  "q_en": "From the viewpoint of attribution, the most adaptive explanation is when a learner links failure to —",
+  "q_hi": "अभियोग्यता (attribution) की दृष्टि से सबसे अनुकूल व्याख्या कौन-सी है, जब विद्यार्थी असफलता को इससे जोड़ता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "स्वायत्तता में शिक्षार्थी अपने कार्यों में चुनाव, इच्छा और स्वामित्व का अनुभव करता है।",
+  "mock_q": 20,
+  "n": 355,
+  "options": [
+   "अपने अधिगम में चुनाव और स्वामित्व का अनुभव",
+   "हर कार्य में सबसे अच्छा बनना",
+   "दूसरों से जुड़ाव महसूस करना",
+   "केवल आदेशों का पालन करना"
+  ],
+  "options_en": [
+   "Experiencing choice and ownership in one's learning",
+   "Becoming the best in every task",
+   "Feeling connected with others",
+   "Only following orders"
+  ],
+  "q_en": "In self-determination theory, the need for 'autonomy' means —",
+  "q_hi": "आत्म-निर्धारण सिद्धान्त में 'स्वायत्तता' की आवश्यकता का अर्थ है —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "रूब्रिक में कार्य के मानदंड और प्रत्येक स्तर पर अपेक्षित प्रदर्शन स्पष्ट किया जाता है, जिससे आकलन पारदर्शी बनता है।",
+  "mock_q": 21,
+  "n": 356,
+  "options": [
+   "उपस्थिति दर्ज करने की पंजिका",
+   "मानदंड और प्रदर्शन-स्तर दर्शाने वाला अंकन मार्गदर्शक",
+   "विद्यालय की समय-सारणी",
+   "प्रश्नों का संग्रह"
+  ],
+  "options_en": [
+   "A register for recording attendance",
+   "A scoring guide showing criteria and performance levels",
+   "The timetable of a school",
+   "A collection of questions"
+  ],
+  "q_en": "What is a 'rubric' ?",
+  "q_hi": "'रूब्रिक' क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "छिपा पाठ्यक्रम औपचारिक पाठ्यवस्तु से अलग, विद्यालय की दिनचर्या, संबंधों और वातावरण से सीखे गए मूल्य व व्यवहार हैं।",
+  "mock_q": 22,
+  "n": 357,
+  "options": [
+   "पाठ्यपुस्तक के सभी अध्याय",
+   "केवल परीक्षा के प्रश्न",
+   "केवल उपचारात्मक पाठ",
+   "विद्यालयीन अनुभवों से अनौपचारिक रूप से सीखे गए मूल्य और मानदंड"
+  ],
+  "options_en": [
+   "All chapters of the textbook",
+   "Only examination questions",
+   "Only remedial lessons",
+   "Values and norms learned informally from school experiences"
+  ],
+  "q_en": "What is learned through the 'hidden curriculum' ?",
+  "q_hi": "'छिपा पाठ्यक्रम' (hidden curriculum) से क्या सीखा जाता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "NEP 2020 में कम से कम कक्षा पाँच तक, और वरीयता से कक्षा आठ व उससे आगे तक, मातृभाषा या स्थानीय भाषा को माध्यम रखने की बात है।",
+  "mock_q": 23,
+  "n": 358,
+  "options": [
+   "कक्षा दो",
+   "कक्षा तीन",
+   "कक्षा पाँच",
+   "कक्षा बारह"
+  ],
+  "options_en": [
+   "Grade two",
+   "Grade three",
+   "Grade five",
+   "Grade twelve"
+  ],
+  "q_en": "According to the National Education Policy 2020, wherever possible, the medium of instruction is recommended to be the mother tongue or local language until at least which grade ?",
+  "q_hi": "राष्ट्रीय शिक्षा नीति 2020 के अनुसार, जहाँ तक संभव हो, कम से कम किस कक्षा तक शिक्षा का माध्यम मातृभाषा या स्थानीय भाषा रखने की सिफारिश है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "सांस्कृतिक रूप से उत्तरदायी शिक्षण में विद्यार्थियों के अनुभव, भाषा और सांस्कृतिक ज्ञान को अधिगम का संसाधन बनाया जाता है।",
+  "mock_q": 24,
+  "n": 359,
+  "options": [
+   "विद्यार्थियों की पृष्ठभूमि की उपेक्षा करना",
+   "केवल पाठ्यपुस्तक के उदाहरण देना",
+   "विद्यार्थियों को उनकी संस्कृति के आधार पर अलग करना",
+   "पाठ को विद्यार्थियों के सांस्कृतिक अनुभवों से जोड़ना"
+  ],
+  "options_en": [
+   "Ignoring the backgrounds of learners",
+   "Giving examples only from the textbook",
+   "Separating learners on the basis of their culture",
+   "Connecting the lesson with the cultural experiences of learners"
+  ],
+  "q_en": "Which is a correct example of culturally responsive teaching ?",
+  "q_hi": "सांस्कृतिक रूप से उत्तरदायी शिक्षण का सही उदाहरण कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "सहपाठी आकलन में शिक्षार्थी स्पष्ट मानदंडों के आधार पर एक-दूसरे के कार्य पर रचनात्मक प्रतिक्रिया देते हैं।",
+  "mock_q": 25,
+  "n": 360,
+  "options": [
+   "केवल शिक्षक प्रतिक्रिया देता है",
+   "केवल माता-पिता कार्य की जाँच करते हैं",
+   "विद्यार्थी बिना किसी मानदंड के अंक देते हैं",
+   "विद्यार्थी निर्धारित मानदंडों के आधार पर सहपाठियों को प्रतिक्रिया देते हैं"
+  ],
+  "options_en": [
+   "Only the teacher gives feedback",
+   "Only parents check the work",
+   "Learners award marks without any criteria",
+   "Learners give feedback to peers on the basis of prescribed criteria"
+  ],
+  "q_en": "What happens in peer assessment ?",
+  "q_hi": "सहपाठी आकलन (peer assessment) में क्या होता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "समझ को व्यक्त करने के माध्यम या अंतिम कार्य के रूप में बदलाव उत्पाद का विभेदन कहलाता है।",
+  "mock_q": 26,
+  "n": 361,
+  "options": [
+   "विषयवस्तु",
+   "प्रक्रिया",
+   "उत्पाद",
+   "वातावरण"
+  ],
+  "options_en": [
+   "Content",
+   "Process",
+   "Product",
+   "Environment"
+  ],
+  "q_en": "A teacher allows learners to show their understanding through a poster, a model or a presentation. This is differentiation of —",
+  "q_hi": "शिक्षक विद्यार्थियों को पोस्टर, मॉडल या प्रस्तुति में से किसी एक माध्यम से अपनी समझ दिखाने का विकल्प देता है। यह किसका विभेदन है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "भागीदारी के अधिकार के अंतर्गत बच्चे अपने से जुड़े निर्णयों और मामलों में अपनी बात रख सकते हैं।",
+  "mock_q": 27,
+  "n": 362,
+  "options": [
+   "पोषण और स्वास्थ्य",
+   "शिक्षा प्राप्त करना",
+   "शोषण से सुरक्षा",
+   "अपने से जुड़े मामलों में विचार व्यक्त करना"
+  ],
+  "options_en": [
+   "Nutrition and health",
+   "Receiving education",
+   "Protection from exploitation",
+   "Expressing views in matters affecting oneself"
+  ],
+  "q_en": "In child rights, the 'right to participation' is mainly related to —",
+  "q_hi": "बाल अधिकारों में 'भागीदारी का अधिकार' मुख्यतः किससे संबंधित है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "समानुभूति में व्यक्ति दूसरे के दृष्टिकोण और भावनाओं को समझने का प्रयास करता है।",
+  "mock_q": 28,
+  "n": 363,
+  "options": [
+   "दूसरे की भावनाओं को समझना और महसूस करना",
+   "दूसरे के प्रति उदासीन रहना",
+   "दूसरे से ईर्ष्या करना",
+   "दूसरे के व्यवहार की नकल करना"
+  ],
+  "options_en": [
+   "Understanding and feeling the emotions of another person",
+   "Remaining indifferent towards another person",
+   "Being jealous of another person",
+   "Copying the behaviour of another person"
+  ],
+  "q_en": "What is the correct meaning of 'empathy' ?",
+  "q_hi": "'समानुभूति' (empathy) का सही अर्थ क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "कार्यकारी स्मृति जानकारी को कुछ समय तक सक्रिय रखती है और उसी दौरान उस पर तर्क, गणना या समझ जैसी प्रक्रिया करती है।",
+  "mock_q": 29,
+  "n": 364,
+  "options": [
+   "जीवनभर की सभी घटनाएँ संग्रहित करना",
+   "केवल ध्वनियों को पहचानना",
+   "जानकारी को अस्थायी रूप से रखकर उस पर कार्य करना",
+   "आदतों को स्थायी बनाना"
+  ],
+  "options_en": [
+   "Storing all events of one's whole life",
+   "Only recognising sounds",
+   "Temporarily holding information and working on it",
+   "Making habits permanent"
+  ],
+  "q_en": "What is the main function of working memory ?",
+  "q_hi": "कार्यकारी स्मृति (working memory) का मुख्य कार्य क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "अधिसंज्ञान में व्यक्ति अपने सीखने और सोचने की प्रक्रिया को समझता, योजना बनाता और आवश्यकतानुसार उसे नियंत्रित करता है।",
+  "mock_q": 30,
+  "n": 365,
+  "options": [
+   "अपनी चिंतन प्रक्रिया के प्रति जागरूकता और उसका नियंत्रण",
+   "केवल तथ्यों को रटना",
+   "दूसरों के व्यवहार का अनुकरण",
+   "पुरस्कार से व्यवहार बदलना"
+  ],
+  "options_en": [
+   "Awareness and control of one's own thinking process",
+   "Only memorising facts",
+   "Imitating the behaviour of others",
+   "Changing behaviour through rewards"
+  ],
+  "q_en": "What is meant by 'metacognition' ?",
+  "q_hi": "'अधिसंज्ञान' (metacognition) से क्या अभिप्राय है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "महा + उदय = महोदय — 'आ + उ = ओ' होने से यह गुण संधि का उदाहरण है।",
+  "mock_q": 31,
+  "n": 366,
+  "options": [
+   "महा + उदय",
+   "महो + दय",
+   "महा + ओदय",
+   "मह + उदय"
+  ],
+  "options_en": [
+   "Maha + Udaya",
+   "Maho + Daya",
+   "Maha + Odaya",
+   "Mah + Udaya"
+  ],
+  "q_en": "What is the correct sandhi-viccheda of the word 'महोदय' ?",
+  "q_hi": "'महोदय' शब्द का सही संधि-विच्छेद कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "यथाशक्ति का अर्थ है शक्ति के अनुसार; पहला पद 'यथा' अव्यय होने से यह अव्ययीभाव समास है।",
+  "mock_q": 32,
+  "n": 367,
+  "options": [
+   "तत्पुरुष समास",
+   "द्वन्द्व समास",
+   "अव्ययीभाव समास",
+   "बहुव्रीहि समास"
+  ],
+  "options_en": [
+   "Tatpurusha samaas",
+   "Dvandva samaas",
+   "Avyayibhava samaas",
+   "Bahuvrihi samaas"
+  ],
+  "q_en": "Which samaas is there in the word 'यथाशक्ति' ?",
+  "q_hi": "'यथाशक्ति' शब्द में कौन-सा समास है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "नीर, पानी, वारि और अंबु जल के पर्यायवाची हैं।",
+  "mock_q": 33,
+  "n": 368,
+  "options": [
+   "अग्नि",
+   "नीर",
+   "वायु",
+   "पर्वत"
+  ],
+  "options_en": [
+   "Agni",
+   "Neer",
+   "Vayu",
+   "Parvat"
+  ],
+  "q_en": "Which is the synonym of the word 'जल' ?",
+  "q_hi": "'जल' शब्द का पर्यायवाची कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "सरल का विलोम कठिन होता है; आसान सरल का समानार्थी है।",
+  "mock_q": 34,
+  "n": 369,
+  "options": [
+   "आसान",
+   "कठिन",
+   "सीधा",
+   "सामान्य"
+  ],
+  "options_en": [
+   "Aasan",
+   "Kathin",
+   "Seedha",
+   "Samanya"
+  ],
+  "q_en": "Which is the antonym of the word 'सरल' ?",
+  "q_hi": "'सरल' शब्द का विलोम कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "प्र + गति = प्रगति — यहाँ 'प्र' उपसर्ग है और 'गति' मूल शब्द है।",
+  "mock_q": 35,
+  "n": 370,
+  "options": [
+   "गति",
+   "ति",
+   "अगति",
+   "प्र"
+  ],
+  "options_en": [
+   "Gati",
+   "Ti",
+   "Agati",
+   "Pra"
+  ],
+  "q_en": "Which prefix is used in the word 'प्रगति' ?",
+  "q_hi": "'प्रगति' शब्द में कौन-सा उपसर्ग प्रयुक्त हुआ है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "'राम की पुस्तक' में राम और पुस्तक के बीच संबंध बताया गया है, इसलिए 'की' संबंध कारक का चिह्न है।",
+  "mock_q": 36,
+  "n": 371,
+  "options": [
+   "कर्ता कारक",
+   "कर्म कारक",
+   "संबंध कारक",
+   "करण कारक"
+  ],
+  "options_en": [
+   "Karta karaka",
+   "Karma karaka",
+   "Sambandha karaka",
+   "Karana karaka"
+  ],
+  "q_en": "In the sentence 'राम की पुस्तक मेज़ पर है।', 'की' is the sign of which karaka ?",
+  "q_hi": "'राम की पुस्तक मेज़ पर है।' इस वाक्य में 'की' किस कारक का चिह्न है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "स्त्रीलिंग संज्ञा 'पुस्तक' का सामान्य बहुवचन रूप 'पुस्तकें' होता है।",
+  "mock_q": 37,
+  "n": 372,
+  "options": [
+   "पुस्तक",
+   "पुस्तकों",
+   "पुस्तकें",
+   "पुस्तकियाँ"
+  ],
+  "options_en": [
+   "Pustak",
+   "Pustakon",
+   "Pustaken",
+   "Pustakiyan"
+  ],
+  "q_en": "What is the plural form of the word 'पुस्तक' ?",
+  "q_hi": "'पुस्तक' शब्द का बहुवचन रूप कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'अध्यापक' का स्त्रीलिंग रूप 'अध्यापिका' होता है।",
+  "mock_q": 38,
+  "n": 373,
+  "options": [
+   "अध्यापकी",
+   "अध्यापिका",
+   "अध्यापकिन",
+   "अध्यापकनी"
+  ],
+  "options_en": [
+   "Adhyapaki",
+   "Adhyapika",
+   "Adhyapakin",
+   "Adhyapakni"
+  ],
+  "q_en": "What is the feminine form of the word 'अध्यापक' ?",
+  "q_hi": "'अध्यापक' शब्द का स्त्रीलिंग रूप कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "आँखों में धूल झोंकना का अर्थ है सामने वाले को भ्रमित करके धोखा देना।",
+  "mock_q": 39,
+  "n": 374,
+  "options": [
+   "प्रशंसा करना",
+   "सहायता करना",
+   "धोखा देना",
+   "सम्मान करना"
+  ],
+  "options_en": [
+   "To praise",
+   "To help",
+   "To deceive",
+   "To honour"
+  ],
+  "q_en": "What is the correct meaning of the idiom 'आँखों में धूल झोंकना' ?",
+  "q_hi": "'आँखों में धूल झोंकना' मुहावरे का सही अर्थ क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "संदर्भ से अर्थ जोड़ने पर शब्द का प्रयोग और अर्थ दोनों समझ में आते हैं, इसलिए शब्दावली अधिक स्थायी बनती है।",
+  "mock_q": 40,
+  "n": 375,
+  "options": [
+   "शब्दों को केवल रटना",
+   "संदर्भ के आधार पर नए शब्दों का अर्थ अनुमान लगाना",
+   "केवल शब्दकोश देखना",
+   "शब्द-सूची को बार-बार लिखना"
+  ],
+  "options_en": [
+   "Only memorising words",
+   "Guessing the meaning of new words from the context",
+   "Only looking at the dictionary",
+   "Writing the word-list again and again"
+  ],
+  "q_en": "Which is the most suitable way to develop vocabulary ?",
+  "q_hi": "शब्दावली विकास के लिए सबसे उपयुक्त तरीका कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'Transparent' का अर्थ है पारदर्शी और इसका विलोम 'Opaque' अर्थात अपारदर्शी है।",
+  "mock_q": 41,
+  "n": 376,
+  "options": [
+   "Clear",
+   "Opaque",
+   "Obvious",
+   "Fragile"
+  ],
+  "options_en": [
+   "Clear",
+   "Opaque",
+   "Obvious",
+   "Fragile"
+  ],
+  "q_en": "Choose the antonym of 'Transparent'.",
+  "q_hi": "'Transparent' शब्द का विलोम (antonym) चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "किसी विषय या कार्य में कुशलता के लिए 'good at' का प्रयोग होता है।",
+  "mock_q": 42,
+  "n": 377,
+  "options": [
+   "in",
+   "at",
+   "on",
+   "for"
+  ],
+  "options_en": [
+   "in",
+   "at",
+   "on",
+   "for"
+  ],
+  "q_en": "Choose the correct preposition: 'She is good ___ mathematics.'",
+  "q_hi": "सही preposition चुनिए: 'She is good ___ mathematics.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "वाक्य का मुख्य कर्ता 'The quality' एकवचन है, इसलिए 'is' सही है।",
+  "mock_q": 43,
+  "n": 378,
+  "options": [
+   "are",
+   "were",
+   "have",
+   "is"
+  ],
+  "options_en": [
+   "are",
+   "were",
+   "have",
+   "is"
+  ],
+  "q_en": "Choose the correct verb form: 'The quality of the mangoes ___ good.'",
+  "q_hi": "सही क्रिया-रूप चुनिए: 'The quality of the mangoes ___ good.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "Past continuous passive का रूप was/were + being + V3 होता है — 'A story was being written by her.' सही है।",
+  "mock_q": 44,
+  "n": 379,
+  "options": [
+   "A story was written by her.",
+   "A story is being written by her.",
+   "A story was being written by her.",
+   "A story has been written by her."
+  ],
+  "options_en": [
+   "A story was written by her.",
+   "A story is being written by her.",
+   "A story was being written by her.",
+   "A story has been written by her."
+  ],
+  "q_en": "Choose the correct passive form: 'She was writing a story.'",
+  "q_hi": "'She was writing a story.' का सही passive रूप चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "Reported speech में will → would और tomorrow → the next day हो जाता है।",
+  "mock_q": 45,
+  "n": 380,
+  "options": [
+   "He said that he would help me the next day.",
+   "He said that he will help me tomorrow.",
+   "He says that he would help me the next day.",
+   "He said that I would help you tomorrow."
+  ],
+  "options_en": [
+   "He said that he would help me the next day.",
+   "He said that he will help me tomorrow.",
+   "He says that he would help me the next day.",
+   "He said that I would help you tomorrow."
+  ],
+  "q_en": "Choose the correct indirect speech: 'He said, \"I will help you tomorrow.\"'",
+  "q_hi": "'He said, \"I will help you tomorrow.\"' का सही indirect speech चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "निषेध या सख्त मनाही के लिए 'must not' का प्रयोग होता है।",
+  "mock_q": 46,
+  "n": 381,
+  "options": [
+   "may",
+   "can",
+   "must not",
+   "might"
+  ],
+  "options_en": [
+   "may",
+   "can",
+   "must not",
+   "might"
+  ],
+  "q_en": "Choose the correct modal: 'You ___ smoke in a hospital.'",
+  "q_hi": "सही modal चुनिए: 'You ___ smoke in a hospital.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'To turn a deaf ear' का अर्थ है किसी बात को जानबूझकर अनसुना या नजरअंदाज करना।",
+  "mock_q": 47,
+  "n": 382,
+  "options": [
+   "To listen carefully",
+   "To ignore",
+   "To hear partially",
+   "To ask to repeat"
+  ],
+  "options_en": [
+   "To listen carefully",
+   "To ignore",
+   "To hear partially",
+   "To ask to repeat"
+  ],
+  "q_en": "What does the idiom 'To turn a deaf ear' mean ?",
+  "q_hi": "'To turn a deaf ear' मुहावरे का अर्थ क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "कई भाषाएँ बोलने वाले व्यक्ति को 'Polyglot' कहते हैं।",
+  "mock_q": 48,
+  "n": 383,
+  "options": [
+   "Polyglot",
+   "Orator",
+   "Bilingual",
+   "Translator"
+  ],
+  "options_en": [
+   "Polyglot",
+   "Orator",
+   "Bilingual",
+   "Translator"
+  ],
+  "q_en": "Choose the one-word substitute: 'A person who speaks many languages'.",
+  "q_hi": "One-word substitute चुनिए: 'A person who speaks many languages'.",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'Environment' की सही वर्तनी में 'n' के बाद 'm' आता है और अंत में 'ment' होता है।",
+  "mock_q": 49,
+  "n": 384,
+  "options": [
+   "Enviroment",
+   "Environment",
+   "Environmant",
+   "Enviornment"
+  ],
+  "options_en": [
+   "Enviroment",
+   "Environment",
+   "Environmant",
+   "Enviornment"
+  ],
+  "q_en": "Choose the correct spelling of the word 'Environment'.",
+  "q_hi": "'Environment' शब्द की सही वर्तनी चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "Realia वास्तविक जीवन की वस्तुएँ हैं, जैसे टिकट, मेनू या पैकेट, जिनका उपयोग भाषा को संदर्भ से जोड़कर सिखाने में होता है।",
+  "mock_q": 50,
+  "n": 385,
+  "options": [
+   "Flashcards",
+   "Real-life objects used for teaching",
+   "Charts",
+   "Worksheets"
+  ],
+  "options_en": [
+   "Flashcards",
+   "Real-life objects used for teaching",
+   "Charts",
+   "Worksheets"
+  ],
+  "q_en": "What is meant by 'realia' in language teaching ?",
+  "q_hi": "भाषा शिक्षण में 'realia' से क्या अभिप्राय है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ }
+]
