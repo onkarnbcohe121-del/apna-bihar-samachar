@@ -1,0 +1,95 @@
+name: UGC NET Mock Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      bank_file:
+        description: "Bank JSON file (repo root), jaise mock1_p1.json"
+        required: true
+        default: "mock1_p1.json"
+      mock_no:
+        description: "Mock Test number"
+        required: true
+        default: "1"
+      paper_label:
+        description: "Paper 1 / Paper 2 Education / Paper 2 History"
+        required: true
+        default: "Paper 1"
+      playlist_id:
+        description: "Us paper ki mock playlist ID (Paper 1 ke liye hamesha PLH6t5MRRAbMs lagega)"
+        required: true
+        default: "PLH6t5MRRAbMs"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ugc-mock-video
+
+jobs:
+  make-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow google-api-python-client google-auth google-genai
+
+      - name: UGC NET Mock video banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BANK_FILE: ${{ inputs.bank_file }}
+          MOCK_NO: ${{ inputs.mock_no }}
+          PAPER_LABEL: ${{ inputs.paper_label }}
+          PLAYLIST_ID: ${{ inputs.paper_label == 'Paper 1' && 'PLH6t5MRRAbMs' || inputs.playlist_id }}
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python ugc_mock_video.py
+
+      - name: Video file artifact me bachao (upload fail ho to bhi)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ugc-mock-video
+          path: |
+            tmpwork/ugc_mock_*/final.mp4
+            tmpwork/ugc_mock_*/thumb.jpg
+            tmpwork/ugc_mock_*/title.txt
+            tmpwork/ugc_mock_*/desc.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: YouTube par upload karo (paper ki mock playlist ke saath)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+          YT_PLAYLIST_ID: ${{ inputs.paper_label == 'Paper 1' && 'PLH6t5MRRAbMs' || inputs.playlist_id }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/ugc_mock_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/ugc_mock_*/thumb.jpg | head -1)
+          YT_TITLE=$(cat tmpwork/ugc_mock_*/title.txt)
+          YT_DESC=$(cat tmpwork/ugc_mock_*/desc.txt)
+          export VIDEO_FILE THUMB_FILE YT_TITLE YT_DESC
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > ugc_mock_latest.txt || true
+
+      - name: Latest link commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add ugc_mock_latest.txt || true
+          git diff --cached --quiet || git commit -m "ugc mock latest update"
+          git push || true
