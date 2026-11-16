@@ -1,0 +1,127 @@
+name: NEET PYQ Mock Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      bank_file:
+        description: "Bank JSON file (repo root), jaise neet2025_physics.json"
+        required: true
+        default: "neet2025_physics.json"
+      neet_year:
+        description: "NEET saal"
+        required: true
+        default: "2025"
+      neet_subject:
+        description: "Subject: Physics / Chemistry / Botany / Zoology"
+        required: true
+        default: "Physics"
+      playlist_subject:
+        description: "Subject playlist ID"
+        required: true
+        default: "PLLk_mLTz928E"
+      playlist_year:
+        description: "Year (Full Mock) playlist ID"
+        required: true
+        default: "PLDSSy6XQIWDo"
+      yt_privacy:
+        description: "YouTube privacy: public / unlisted / private"
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neet-video
+
+jobs:
+  make-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tools install karo
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts pillow google-api-python-client google-auth google-genai
+
+      - name: NEET PYQ video banao
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BANK_FILE: ${{ inputs.bank_file }}
+          NEET_YEAR: ${{ inputs.neet_year }}
+          NEET_SUBJECT: ${{ inputs.neet_subject }}
+          NEET_PLAYLIST_YEAR: ${{ inputs.playlist_year }}
+          NEET_PLAYLIST_SUBJECT: ${{ inputs.playlist_subject }}
+          TMPDIR: ${{ github.workspace }}/tmpwork
+        run: |
+          mkdir -p tmpwork
+          python neet_video.py
+
+      - name: Video file artifact me bachao (upload fail ho to bhi)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: neet-video
+          path: |
+            tmpwork/neet_*/final.mp4
+            tmpwork/neet_*/thumb.jpg
+            tmpwork/neet_*/title.txt
+            tmpwork/neet_*/desc.txt
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: YouTube par upload karo (subject playlist ke saath)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ inputs.yt_privacy || 'public' }}
+          YT_PLAYLIST_ID: ${{ inputs.playlist_subject }}
+        run: |
+          VIDEO_FILE=$(ls tmpwork/neet_*/final.mp4 | head -1)
+          THUMB_FILE=$(ls tmpwork/neet_*/thumb.jpg | head -1)
+          YT_TITLE=$(cat tmpwork/neet_*/title.txt)
+          YT_DESC=$(cat tmpwork/neet_*/desc.txt)
+          export VIDEO_FILE THUMB_FILE YT_TITLE YT_DESC
+          python youtube_upload.py | tee upload.log
+          grep -o 'https://youtu.be/[A-Za-z0-9_-]*' upload.log | tail -1 > neet_latest.txt || true
+
+      - name: Year (Full Mock) playlist me bhi jodo
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YEAR_PLAYLIST: ${{ inputs.playlist_year }}
+        run: |
+          VID=$(grep -o 'YOUTUBE_VIDEO_ID: [A-Za-z0-9_-]*' upload.log | tail -1 | awk '{print $2}')
+          echo "Video ID: $VID"
+          VID_ID=$VID python - << 'PYEOF'
+          import os
+          from google.oauth2.credentials import Credentials
+          from googleapiclient.discovery import build
+          vid = os.environ.get("VID_ID", "")
+          pid = os.environ["YEAR_PLAYLIST"]
+          if not vid:
+              print("Video ID nahi mila — year playlist skip")
+              raise SystemExit(0)
+          creds = Credentials(None, refresh_token=os.environ["YT_REFRESH_TOKEN"],
+                              token_uri="https://oauth2.googleapis.com/token",
+                              client_id=os.environ["YT_CLIENT_ID"],
+                              client_secret=os.environ["YT_CLIENT_SECRET"])
+          yt = build("youtube", "v3", credentials=creds)
+          yt.playlistItems().insert(part="snippet", body={"snippet": {
+              "playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+          print("YEAR_PLAYLIST_ADD_OK")
+          PYEOF
+      - name: Latest link commit karo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add neet_latest.txt || true
+          git diff --cached --quiet || git commit -m "neet latest update"
+          git push || true
