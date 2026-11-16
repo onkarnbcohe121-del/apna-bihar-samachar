@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 UGC NET Dec 2026 — full-preparation lesson video (Apna Bihar Samachar Live). Paper 1 aur Paper 2 Education dono ke liye; series/branding script JSON ke 'series' field se aata hai.
-v5: VideoScribe-style WHITEBOARD — safed board par cartoon haath (pencil)
-likhte hue reveal karta hai: heading, phir ek-ek bullet, phir tasveer;
+v6: WHITEBOARD FULL-SLIDE — safed board par har slide POORI EK SAATH
+dikhti hai: heading, saare bullet aur tasveer ek hi static frame me
+(user ka sakht niyam, 11 Nov 2026 — typing/reveal/haath bilkul NAHI);
 tathya (saal/taarikh/sankhya) LAAL marker me. Thumbnail + outro purane
 navy style hi rehte hain. Narration Swara (story-telling) + halka music.
 Env: LESSON_FILE (khaali = index/state se agla), SAVE_STATE (1/0)
@@ -160,8 +161,6 @@ W, H = V.W, V.H
 SFILE = "ugc_state.json"
 IFILE = "ugc/index.json"
 UA = {"User-Agent": "ApnaBiharSamachar-LessonBot/1.0 (educational)"}
-HAND_URL = ("https://commons.wikimedia.org/wiki/Special:FilePath/"
-            "Hand%20Writingwith%20Pencil%20(NIH%20BioArt%20192).png?width=900")
 
 # ---------------- Whiteboard rang ----------------
 PAPER = (252, 252, 248)
@@ -245,38 +244,6 @@ def fetch_image(query, dest):
             time.sleep(4 if attempt == 0 else 10)
     print(f"  tasveer nahi mili (card chalega): {query}")
     return False
-
-
-def fetch_hand(workdir):
-    """Cartoon haath (pencil wala) Commons se — pencil tip asal file me
-    lagbhag (5,195) @ 960x605 par hai. Na mile to (None, tip) — bina haath chalega."""
-    dest = os.path.join(workdir, "hand.png")
-    try:
-        req = urllib.request.Request(HAND_URL, headers=UA)
-        with urllib.request.urlopen(req, timeout=30) as r:
-            blob = r.read()
-        with open(dest, "wb") as f:
-            f.write(blob)
-        im = Image.open(dest).convert("RGBA")
-        tw = 230
-        if im.width > tw:
-            im = im.resize((tw, max(1, int(im.height * tw / im.width))), Image.LANCZOS)
-        tip = (im.width * 5 / 960.0, im.height * 195 / 605.0)
-        print("  haath ki tasveer taiyaar")
-        return im, tip
-    except Exception as e:
-        print("  haath nahi mila (bina haath chalega):", e)
-        return None, (0, 0)
-
-
-def paste_hand(img, hand, at):
-    """Pencil ki nok ko 'at' (jahan tak likha gaya) par rakho."""
-    if hand is None or at is None:
-        return
-    him, tip = hand
-    if him is None:
-        return
-    img.paste(him, (int(at[0] - tip[0]), int(at[1] - tip[1])), him)
 
 
 # ---------------- Whiteboard drawing ----------------
@@ -391,10 +358,10 @@ def fit_bullets(d, sc, has_photo):
 FX, FY, FW, FH = 796, 168, 396, 314
 
 
-def render_scene_state(lesson, sc, idx, total, hand, photo,
-                       head_words, bullet_words, img_frac, use_hand=True):
-    """Ek reveal-state ka board render karo. bullet_words: har bullet ke liye
-    0 | int (aadha) | 'full'. img_frac: 0 | 0.5 | 1."""
+def render_scene_state(lesson, sc, idx, total, photo,
+                       head_words, bullet_words, img_frac):
+    """Poori slide ka board render karo (FULL state). bullet_words: har
+    bullet ke liye 0 | int (aadha) | 'full'. img_frac: 0 | 0.5 | 1."""
     img, d = wb_base(lesson, idx, total)
     frontier = None
     points = sc.get("points", [])
@@ -455,121 +422,69 @@ def render_scene_state(lesson, sc, idx, total, hand, photo,
                     for ln in V.wrap_mixed(d, cap, 24, False, 364)[:2]:
                         V.draw_mixed(d, FX + FW / 2 - V.text_w(d, ln, 24) / 2, cy, ln, 24, False, INK)
                         cy += 30
-    if use_hand:
-        paste_hand(img, hand, frontier)
     return img
 
 
-def scene_frames(lesson, sc, idx, total, hand):
-    """Scene ke reveal frames: [(img, weight), ...] — aakhiri = FULL hold (bina haath).
-    Samay-bantwara: heading steps 16%, bullets 46% (akshar-anupaat), tasveer 12%, baki hold."""
-    probe = ImageDraw.Draw(Image.new("RGB", (W, H)))
-    points = sc.get("points", [])
-    head_lines = layout_words(probe, sc["head"], HEAD_SIZE, True, HEAD_MAXW)
-    head_total = total_words(head_lines)
-    head_part = max(1, int(round(head_total * 0.45))) if head_total > 1 else head_total
-    _hv = bool(sc.get("visual")) or bool(sc.get("_img") and os.path.exists(sc["_img"]))
-    _bs, _blh, _bmw, _blines = fit_bullets(probe, sc, _hv)
-    bullet_info = [total_words(ls) for ls in _blines]
-    total_chars = sum(len(pt) for pt in points) or 1
+def scene_frames(lesson, sc, idx, total):
+    """FULL-SLIDE mode (user ka sakht niyam, 11 Nov 2026): scene ki POORI
+    slide EK hi static frame me — heading, saare bullets aur poori
+    tasveer ek saath. Typing/reveal/haath bilkul NAHI. Ek frame, weight
+    1.0 — scene ka poora samay (poori narration) isi frame ko milta hai."""
     photo = None
     if sc.get("_img") and os.path.exists(sc["_img"]):
         try:
             photo = ImageOps.fit(Image.open(sc["_img"]).convert("RGB"), (FW, FH))
         except Exception:
             photo = None
-    has_visual = photo is not None or bool(sc.get("visual"))
-
-    states = []  # (state_kwargs, weight)
-    zero_bullets = [0] * len(points)
-    states.append((dict(head_words=0, bullet_words=zero_bullets, img_frac=0), 0.16 * 0.22))
-    if head_total > 1:
-        states.append((dict(head_words=head_part, bullet_words=zero_bullets, img_frac=0), 0.16 * 0.39))
-    states.append((dict(head_words="full", bullet_words=zero_bullets, img_frac=0), 0.16 * 0.39))
-    cur = [0] * len(points)
-    for bi, pt in enumerate(points):
-        tw = bullet_info[bi]
-        share = 0.46 * (len(pt) / total_chars)
-        if tw > 1:
-            part = max(1, tw // 2)
-            st = list(cur); st[bi] = part
-            states.append((dict(head_words="full", bullet_words=st, img_frac=0), share * 0.5))
-        cur[bi] = "full"
-        states.append((dict(head_words="full", bullet_words=list(cur), img_frac=0), share * 0.5))
-    full_bullets = list(cur)
-    if has_visual:
-        states.append((dict(head_words="full", bullet_words=full_bullets, img_frac=0.5), 0.06))
-        states.append((dict(head_words="full", bullet_words=full_bullets, img_frac=1), 0.06))
-    hold_w = max(1.0 - sum(w for _, w in states), 0.05)
-    states.append((dict(head_words="full", bullet_words=full_bullets, img_frac=1), hold_w))
-    _rev = sum(w for _, w in states[:-1])
-    states = [(st, w * 0.45) for st, w in states[:-1]] + [(states[-1][0], 1.0 - _rev * 0.45)]
-
-    frames = []
-    for si, (st, w) in enumerate(states):
-        is_hold = si == len(states) - 1
-        im = render_scene_state(lesson, sc, idx, total, hand, photo,
-                                st["head_words"], st["bullet_words"], st["img_frac"],
-                                use_hand=not is_hold)
-        frames.append((im, w))
-    return frames
+    img = render_scene_state(lesson, sc, idx, total, photo,
+                             "full", ["full"] * len(sc.get("points", [])), 1)
+    return [(img, 1.0)]
 
 
 # ---------------- Intro / Revision (whiteboard) ----------------
-def intro_frames(lesson, hand):
-    """2 reveal steps (title aadha, phir pura) + hold. Weights 30/30/40."""
+def intro_frames(lesson):
+    """FULL-SLIDE mode (user ka sakht niyam, 11 Nov 2026): poora
+    title-board EK hi static frame me — koi step-reveal ya haath NAHI.
+    Weight 1.0 (poora intro samay isi frame ko)."""
     probe = ImageDraw.Draw(Image.new("RGB", (W, H)))
     title = lesson.get("chapter_title", "")
     tlines = layout_words(probe, title, 56, True, 1060)
     tw = total_words(tlines)
-    part = max(1, int(round(tw * 0.45))) if tw > 1 else tw
     xs = [(W - line_width(probe, l, 56)) / 2 for l in tlines]
-    frames = []
-    for step, upto in enumerate((part, tw, tw)):
-        img, d = wb_base(lesson)
-        V.center(d, "अपना बिहार समाचार Live", 108, 52, True, BLUE)
-        V.center(d, lesson.get("series", "UGC NET"), 182, 32, True, GREEN)
-        V.center(d, lesson.get("class_label", ""), 238, 36, True, INK)
-        frontier = draw_partial(d, xs, 330, tlines, 56, upto, INK, line_h=76)
-        if upto >= tw:
-            last_y = 330 + (len(tlines) - 1) * 76
-            wobble_line(d, xs[-1], xs[-1] + line_width(d, tlines[-1], 56),
-                        last_y + 56 + 8, seed=11)
-        if step == 2:
-            sub = f"{lesson.get('chapter_no','')} | आसान भाषा में, पूरी तैयारी"
-            V.center(d, sub, 330 + len(tlines) * 76 + 34, 30, False, GRAY)
-        else:
-            paste_hand(img, hand, frontier)
-        frames.append((img, (0.30, 0.30, 0.40)[step]))
-    return frames
+    img, d = wb_base(lesson)
+    V.center(d, "अपना बिहार समाचार Live", 108, 52, True, BLUE)
+    V.center(d, lesson.get("series", "UGC NET"), 182, 32, True, GREEN)
+    V.center(d, lesson.get("class_label", ""), 238, 36, True, INK)
+    draw_partial(d, xs, 330, tlines, 56, tw, INK, line_h=76)
+    if tlines:
+        last_y = 330 + (len(tlines) - 1) * 76
+        wobble_line(d, xs[-1], xs[-1] + line_width(d, tlines[-1], 56),
+                    last_y + 56 + 8, seed=11)
+    sub = f"{lesson.get('chapter_no','')} | आसान भाषा में, पूरी तैयारी"
+    V.center(d, sub, 330 + len(tlines) * 76 + 34, 30, False, GRAY)
+    return [(img, 1.0)]
 
 
-def revision_frames(lesson, hand):
-    """Dono column ki list: step1 = pehla aadha (col 1), step2 = pura, phir hold."""
+def revision_frames(lesson):
+    """FULL-SLIDE mode (user ka sakht niyam, 11 Nov 2026): dono column ki
+    poori list EK hi static frame me — koi step-reveal ya haath NAHI.
+    Weight 1.0 (poora revision samay isi frame ko)."""
     heads = [sc["head"] for sc in lesson["scenes"]]
     half = (len(heads) + 1) // 2
-    frames = []
-    for step in range(3):
-        img, d = wb_base(lesson)
-        title = "दोहराव — पूरे पाठ की झलक"
-        V.center(d, title, 62, 40, True, INK)
-        twd = V.text_w(d, title, 40, True)
-        wobble_line(d, (W - twd) / 2, (W + twd) / 2, 118, seed=5)
-        frontier = None
-        shown = heads if step >= 1 else heads[:half]
-        for j, h in enumerate(shown):
-            col = 0 if j < half else 1
-            x = 70 if col == 0 else 660
-            y = 150 + (j if col == 0 else j - half) * 34
-            num = f"{j + 1}. "
-            nw = V.text_w(d, num, 21, True)
-            V.draw_mixed(d, x, y, num, 21, True, BLUE)
-            ex = V.draw_mixed(d, x + nw, y, h, 21, False, GRAY)
-            frontier = (ex, y + 21)
-        if step < 2:
-            paste_hand(img, hand, frontier)
-        frames.append((img, (0.35, 0.35, 0.30)[step]))
-    return frames
+    img, d = wb_base(lesson)
+    title = "दोहराव — पूरे पाठ की झलक"
+    V.center(d, title, 62, 40, True, INK)
+    twd = V.text_w(d, title, 40, True)
+    wobble_line(d, (W - twd) / 2, (W + twd) / 2, 118, seed=5)
+    for j, h in enumerate(heads):
+        col = 0 if j < half else 1
+        x = 70 if col == 0 else 660
+        y = 150 + (j if col == 0 else j - half) * 34
+        num = f"{j + 1}. "
+        nw = V.text_w(d, num, 21, True)
+        V.draw_mixed(d, x, y, num, 21, True, BLUE)
+        V.draw_mixed(d, x + nw, y, h, 21, False, GRAY)
+    return [(img, 1.0)]
 
 
 # ---------------- Thumbnail (purana navy style hi) ----------------
@@ -683,17 +598,17 @@ async def build(lesson, workdir):
             print(f"  tasveer mili: scene {i}")
         if q or sc.get("img_file"):
             time.sleep(0.7)
-    hand = None  # 2 Nov user nirdesh: haath NAHI (content chhipta hai) —
-    # sirf typing-style reveal chalega; fetch_hand band rakha hai
+    # FULL-SLIDE mode (user, 11 Nov 2026): haath/typing/reveal bilkul NAHI —
+    # har slide poori ek saath dikhegi
     segs = []
-    # intro (whiteboard — chapter title haath se likhte hue)
+    # intro (whiteboard — poora title-board ek saath)
     a = os.path.join(workdir, "intro.mp3")
     await narrate(f"अपना बिहार समाचार लाइव में आपका स्वागत है। {lesson.get('class_label','').replace('•', ',')} — {lesson.get('chapter_no','').replace('•', ',')}, {lesson.get('chapter_title','')}। चलिए, पूरी तैयारी आसान भाषा में समझते हैं।", a)
-    segs += full_slide_segment(workdir, "intro", a, intro_frames(lesson, hand))
+    segs += full_slide_segment(workdir, "intro", a, intro_frames(lesson))
     for i, sc in enumerate(scenes, 1):
         a = os.path.join(workdir, f"s{i}.mp3")
         await narrate(sc["text"], a)
-        segs += full_slide_segment(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total, hand))
+        segs += full_slide_segment(workdir, f"s{i}", a, scene_frames(lesson, sc, i, total))
         print(f"  scene {i}/{total} taiyaar")
     # revision — poora adhyay ek baar phir, tez jhalak me (whiteboard)
     a = os.path.join(workdir, "rev.mp3")
@@ -702,7 +617,7 @@ async def build(lesson, workdir):
         pt = sc.get("points", [""])[0]
         rev_parts.append(f"{sc['head']} — {pt}।")
     await narrate("आइए, पूरे पाठ को एक बार फिर से दोहरा लेते हैं, ताकि सब कुछ पक्का हो जाए। " + " ".join(rev_parts), a)
-    segs += full_slide_segment(workdir, "rev", a, revision_frames(lesson, hand))
+    segs += full_slide_segment(workdir, "rev", a, revision_frames(lesson))
     # outro (purana navy slide hi)
     p = os.path.join(workdir, "outro.png"); V.outro_slide().save(p)
     a = os.path.join(workdir, "outro.mp3")
