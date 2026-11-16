@@ -1,0 +1,1016 @@
+[
+  {
+    "n": 1,
+    "unit": "Teaching Aptitude",
+    "q_hi": "शिक्षण का कौन-सा स्तर चिंतन और समस्या-समाधान पर सर्वाधिक केंद्रित होता है?",
+    "q_en": "Which level of teaching focuses most on reflection and problem-solving?",
+    "options_hi": [
+      "स्मृति स्तर",
+      "बोध स्तर",
+      "चिंतन स्तर",
+      "स्वायत्त स्तर"
+    ],
+    "options_en": [
+      "Memory level",
+      "Understanding level",
+      "Reflective level",
+      "Autonomous level"
+    ],
+    "answer": "C",
+    "exp_hi": "चिंतन स्तर (Reflective level) शिक्षण का सर्वोच्च स्तर है; इसमें शिक्षार्थी तथ्यों पर चिंतन करके समस्याओं का मौलिक समाधान खोजता है।"
+  },
+  {
+    "n": 2,
+    "unit": "Teaching Aptitude",
+    "q_hi": "SWAYAM क्या है?",
+    "q_en": "What is SWAYAM?",
+    "options_hi": [
+      "भारत सरकार द्वारा प्रारंभ किया गया एक MOOC (ऑनलाइन अधिगम) मंच",
+      "एक निजी कोचिंग संस्थान",
+      "छात्रों के लिए एक छात्रवृत्ति योजना",
+      "एक केंद्रीय विश्वविद्यालय"
+    ],
+    "options_en": [
+      "A MOOC (online learning) platform launched by the Government of India",
+      "A private coaching institute",
+      "A scholarship scheme for students",
+      "A central university"
+    ],
+    "answer": "A",
+    "exp_hi": "SWAYAM भारत सरकार का MOOC मंच है, जिस पर विद्यालय से विश्वविद्यालय स्तर तक के निःशुल्क ऑनलाइन पाठ्यक्रम उपलब्ध हैं।"
+  },
+  {
+    "n": 3,
+    "unit": "Teaching Aptitude",
+    "q_hi": "प्रभावी शिक्षण की सर्वाधिक उपयुक्त पहचान क्या है?",
+    "q_en": "Which of the following best characterises effective teaching?",
+    "options_hi": [
+      "पाठ्यपुस्तक का पूर्ण आवरण",
+      "कक्षा में कठोर अनुशासन",
+      "केवल परीक्षा-उन्मुख तैयारी",
+      "शिक्षार्थी-केंद्रित संवादात्मक प्रक्रिया"
+    ],
+    "options_en": [
+      "Complete coverage of the textbook",
+      "Strict discipline in the classroom",
+      "Only examination-oriented preparation",
+      "A learner-centred interactive process"
+    ],
+    "answer": "D",
+    "exp_hi": "प्रभावी शिक्षण शिक्षार्थी-केंद्रित होता है, जिसमें संवाद और सक्रिय भागीदारी से अधिगम गहरा होता है।"
+  },
+  {
+    "n": 4,
+    "unit": "Teaching Aptitude",
+    "q_hi": "निर्माणात्मक मूल्यांकन (Formative Assessment) कब किया जाता है?",
+    "q_en": "When is formative assessment conducted?",
+    "options_hi": [
+      "सत्र के अंत में",
+      "शिक्षण-अधिगम प्रक्रिया के दौरान",
+      "केवल प्रवेश के समय",
+      "वर्ष के अंत में"
+    ],
+    "options_en": [
+      "At the end of the session",
+      "During the teaching-learning process",
+      "Only at the time of admission",
+      "At the end of the year"
+    ],
+    "answer": "B",
+    "exp_hi": "निर्माणात्मक मूल्यांकन शिक्षण के दौरान होता है ताकि प्रतिपुष्टि से शिक्षण और अधिगम दोनों में सुधार किया जा सके।"
+  },
+  {
+    "n": 5,
+    "unit": "Teaching Aptitude",
+    "q_hi": "शिक्षण अभिक्षमता (Teaching Aptitude) में निम्न में से क्या शामिल नहीं है?",
+    "q_en": "Which of the following is NOT a part of teaching aptitude?",
+    "options_hi": [
+      "विषय-वस्तु का ज्ञान",
+      "संप्रेषण कौशल",
+      "छात्रों को केवल रटने के लिए बाध्य करना",
+      "छात्रों के प्रति सहानुभूति"
+    ],
+    "options_en": [
+      "Knowledge of the subject matter",
+      "Communication skills",
+      "Forcing students only to memorise by rote",
+      "Empathy towards students"
+    ],
+    "answer": "C",
+    "exp_hi": "शिक्षण अभिक्षमता में विषय-ज्ञान, संप्रेषण और सहानुभूति शामिल हैं; केवल रटने पर बाध्य करना इसके विपरीत है।"
+  },
+  {
+    "n": 6,
+    "unit": "Research Aptitude",
+    "q_hi": "शोध-प्रक्रिया का प्रथम चरण कौन-सा है?",
+    "q_en": "Which is the first step of the research process?",
+    "options_hi": [
+      "आँकड़ों का विश्लेषण",
+      "शोध-समस्या का चयन और परिभाषा",
+      "निष्कर्ष निकालना",
+      "शोध-रिपोर्ट लिखना"
+    ],
+    "options_en": [
+      "Analysis of data",
+      "Selection and definition of the research problem",
+      "Drawing conclusions",
+      "Writing the research report"
+    ],
+    "answer": "B",
+    "exp_hi": "किसी भी शोध की शुरुआत समस्या के चयन और उसकी स्पष्ट परिभाषा से होती है; शेष चरण इसके बाद आते हैं।"
+  },
+  {
+    "n": 7,
+    "unit": "Research Aptitude",
+    "q_hi": "प्राक्कल्पना (Hypothesis) से क्या अभिप्राय है?",
+    "q_en": "What is meant by a hypothesis?",
+    "options_hi": [
+      "एक सिद्ध तथ्य",
+      "शोध का अंतिम निष्कर्ष",
+      "आँकड़ा-संग्रह की विधि",
+      "चरों के संबंध का परीक्षण-योग्य प्रस्तावित कथन"
+    ],
+    "options_en": [
+      "A proven fact",
+      "The final conclusion of research",
+      "A method of data collection",
+      "A testable tentative statement about the relationship of variables"
+    ],
+    "answer": "D",
+    "exp_hi": "प्राक्कल्पना चरों के बीच संभावित संबंध का ऐसा कथन है, जिसका परीक्षण आँकड़ों द्वारा किया जा सकता है।"
+  },
+  {
+    "n": 8,
+    "unit": "Research Aptitude",
+    "q_hi": "स्तरीकृत यादृच्छिक प्रतिचयन (Stratified Random Sampling) में क्या किया जाता है?",
+    "q_en": "What is done in stratified random sampling?",
+    "options_hi": [
+      "जनसंख्या को उप-समूहों में बाँटकर प्रत्येक उप-समूह से यादृच्छिक प्रतिचयन लिया जाता है",
+      "केवल सुविधाजनक इकाइयाँ चुनी जाती हैं",
+      "प्रत्येक दसवीं इकाई चुनी जाती है",
+      "पूरी जनसंख्या का अध्ययन किया जाता है"
+    ],
+    "options_en": [
+      "The population is divided into sub-groups and a random sample is taken from each sub-group",
+      "Only convenient units are selected",
+      "Every tenth unit is selected",
+      "The entire population is studied"
+    ],
+    "answer": "A",
+    "exp_hi": "स्तरीकृत प्रतिचयन में जनसंख्या को सजातीय स्तरों में बाँटकर प्रत्येक स्तर से यादृच्छिक चयन होता है, जिससे प्रतिनिधित्व सुनिश्चित होता है।"
+  },
+  {
+    "n": 9,
+    "unit": "Research Aptitude",
+    "q_hi": "शोध-नैतिकता के संदर्भ में 'साहित्यिक चोरी' (Plagiarism) का अर्थ है —",
+    "q_en": "In research ethics, 'plagiarism' means —",
+    "options_hi": [
+      "स्रोतों का संदर्भ देना",
+      "आँकड़े इकट्ठा करना",
+      "दूसरों के विचारों या कार्य को बिना श्रेय दिए अपना बताना",
+      "साक्षात्कार आयोजित करना"
+    ],
+    "options_en": [
+      "Citing the sources",
+      "Collecting data",
+      "Presenting others' ideas or work as one's own without giving credit",
+      "Conducting interviews"
+    ],
+    "answer": "C",
+    "exp_hi": "बिना उचित श्रेय या संदर्भ के दूसरों की रचना को अपना बताना साहित्यिक चोरी है, जो शोध-नैतिकता का गंभीर उल्लंघन है।"
+  },
+  {
+    "n": 10,
+    "unit": "Research Aptitude",
+    "q_hi": "निम्न में से कौन-सा प्राथमिक आँकड़ों (Primary Data) का स्रोत है?",
+    "q_en": "Which of the following is a source of primary data?",
+    "options_hi": [
+      "पाठ्यपुस्तक",
+      "साक्षात्कार",
+      "समाचार-पत्र",
+      "विश्वकोश"
+    ],
+    "options_en": [
+      "Textbook",
+      "Interview",
+      "Newspaper",
+      "Encyclopaedia"
+    ],
+    "answer": "B",
+    "exp_hi": "साक्षात्कार द्वारा शोधकर्ता स्वयं प्रत्यक्ष रूप से आँकड़े एकत्र करता है, अतः यह प्राथमिक आँकड़ों का स्रोत है।"
+  },
+  {
+    "n": 11,
+    "unit": "Comprehension",
+    "q_hi": "गद्यांश के अनुसार, नियमित पठन का मुख्य लाभ क्या है?",
+    "q_en": "According to the passage, what is the main benefit of regular reading?",
+    "options_hi": [
+      "मन को तर्क का अनुसरण करने, संबंध पहचानने और प्रश्न करने का प्रशिक्षण मिलता है",
+      "केवल अधिक सूचना इकट्ठा होती है",
+      "परीक्षा में अधिक अंक मिलते हैं",
+      "स्क्रीन देखने की गति बढ़ती है"
+    ],
+    "options_en": [
+      "It trains the mind to follow an argument, notice connections and ask questions",
+      "Only more information is collected",
+      "Higher marks are scored in examinations",
+      "The speed of viewing screens increases"
+    ],
+    "answer": "A",
+    "exp_hi": "गद्यांश स्पष्ट कहता है कि पठन केवल सूचना-संग्रह नहीं है; यह मन को तर्क, संबंध और प्रश्न की क्षमता का प्रशिक्षण देता है।",
+    "set": "comprehension",
+    "passage_hi": "पठन एक शांत गतिविधि प्रतीत होता है, किंतु इसके प्रभाव किसी भी प्रकार से शांत नहीं होते। जब हम नियमित रूप से पढ़ते हैं, तो हम केवल सूचना इकट्ठा नहीं करते; हम मन को किसी तर्क का अनुसरण करने, संबंधों को पहचानने और सामने रखी बात पर प्रश्न करने का प्रशिक्षण देते हैं। छोटे संदेशों और तुरंत अद्यतनों के इस युग में धीमा और ध्यानपूर्वक पठन की आदत दुर्लभ होती जा रही है। आज अनेक छात्र स्क्रीन पर सतही दृष्टि डालते हुए ज्ञान के टुकड़े बटोर लेते हैं, किंतु उन्हें समझ में नहीं बुन पाते। फिर भी परीक्षाएँ, व्यवसाय और उत्तरदायी नागरिकता — सभी के लिए किसी पाठ को सावधानी से पढ़ने और उससे सही निष्कर्ष निकालने की क्षमता आवश्यक है। अतः शिक्षकों का दायित्व केवल पाठ्यक्रम पूरा करने तक सीमित नहीं है; उन्हें ऐसी स्थितियाँ बनानी होंगी जिनमें पठन बोझ के बजाय आनंद बन जाए। कक्षा की एक छोटी-सी पुस्तकालय-व्यवस्था, दस मिनट का मौन पठन और छोटे गद्यांशों पर नियमित चर्चा इस आदत को धीरे-धीरे पुनः निर्मित कर सकती है। उद्देश्य केवल अधिक पृष्ठ पढ़ना नहीं है; उद्देश्य ध्यान के साथ पढ़ना है, क्योंकि ध्यान ही समस्त अधिगम की सच्ची नींव है।",
+    "passage_en": "Reading appears to be a quiet activity, but its effects are far from quiet. When we read regularly, we do not merely collect information; we train the mind to follow an argument, to notice connections and to question what is presented before us. In an age of short messages and instant updates, the habit of slow and attentive reading is becoming rare. Many students today skim across screens, gathering fragments of knowledge without weaving them into understanding. Yet examinations, professions and responsible citizenship all demand the ability to read a text carefully and draw sound conclusions from it. Teachers therefore carry a responsibility that goes beyond completing the syllabus: they must create conditions in which reading becomes a pleasure rather than a burden. A small classroom library, ten minutes of silent reading and regular discussion of short passages can gradually rebuild this habit. The aim is not simply to read more pages; it is to read with attention, because attention is the true foundation of all learning."
+  },
+  {
+    "n": 12,
+    "unit": "Comprehension",
+    "q_hi": "लेखक के अनुसार, आज के अनेक छात्र ज्ञान कैसे प्राप्त करते हैं?",
+    "q_en": "According to the author, how do many students today acquire knowledge?",
+    "options_hi": [
+      "धीमे और ध्यानपूर्वक पढ़कर",
+      "पुस्तकालय में बैठकर",
+      "स्क्रीन पर सतही दृष्टि डालकर ज्ञान के टुकड़े बटोरकर, बिना उन्हें समझ में बुने",
+      "शिक्षकों से चर्चा करके"
+    ],
+    "options_en": [
+      "By reading slowly and attentively",
+      "By sitting in the library",
+      "By skimming across screens and gathering fragments of knowledge without weaving them into understanding",
+      "By discussing with teachers"
+    ],
+    "answer": "C",
+    "exp_hi": "गद्यांश में कहा गया है कि छात्र स्क्रीन पर सरसरी दृष्टि डालकर ज्ञान के टुकड़े बटोरते हैं, किंतु उन्हें समझ में नहीं बुन पाते।",
+    "set": "comprehension"
+  },
+  {
+    "n": 13,
+    "unit": "Comprehension",
+    "q_hi": "गद्यांश में 'ध्यान' (Attention) को क्या कहा गया है?",
+    "q_en": "In the passage, what has 'attention' been called?",
+    "options_hi": [
+      "पठन की सबसे बड़ी बाधा",
+      "समस्त अधिगम की सच्ची नींव",
+      "समय की बर्बादी",
+      "केवल परीक्षा की कुंजी"
+    ],
+    "options_en": [
+      "The biggest obstacle to reading",
+      "The true foundation of all learning",
+      "A waste of time",
+      "Only the key to examinations"
+    ],
+    "answer": "B",
+    "exp_hi": "गद्यांश की अंतिम पंक्ति के अनुसार ध्यान ही समस्त अधिगम की सच्ची नींव है।",
+    "set": "comprehension"
+  },
+  {
+    "n": 14,
+    "unit": "Comprehension",
+    "q_hi": "गद्यांश के अनुसार शिक्षकों का दायित्व क्या है?",
+    "q_en": "According to the passage, what is the responsibility of teachers?",
+    "options_hi": [
+      "केवल पाठ्यक्रम समय पर पूरा करना",
+      "छात्रों को अधिक गृहकार्य देना",
+      "पठन पर पूर्ण प्रतिबंध लगाना",
+      "ऐसी स्थितियाँ बनाना जिनमें पठन बोझ के बजाय आनंद बन जाए"
+    ],
+    "options_en": [
+      "Only to complete the syllabus on time",
+      "To give more homework to students",
+      "To completely ban reading",
+      "To create conditions in which reading becomes a pleasure rather than a burden"
+    ],
+    "answer": "D",
+    "exp_hi": "लेखक के अनुसार शिक्षक का दायित्व पाठ्यक्रम से आगे बढ़कर पठन को आनंद बनाने वाली स्थितियाँ निर्मित करना है।",
+    "set": "comprehension"
+  },
+  {
+    "n": 15,
+    "unit": "Comprehension",
+    "q_hi": "गद्यांश के लिए सर्वाधिक उपयुक्त शीर्षक कौन-सा है?",
+    "q_en": "Which is the most appropriate title for the passage?",
+    "options_hi": [
+      "ध्यानपूर्वक पठन : अधिगम की नींव",
+      "परीक्षा की तैयारी के उपाय",
+      "मोबाइल फोन के लाभ",
+      "पुस्तकालय का इतिहास"
+    ],
+    "options_en": [
+      "Attentive Reading: The Foundation of Learning",
+      "Ways to Prepare for Examinations",
+      "Advantages of the Mobile Phone",
+      "History of the Library"
+    ],
+    "answer": "A",
+    "exp_hi": "पूरे गद्यांश का केंद्र-बिंदु ध्यानपूर्वक पठन और अधिगम से उसका संबंध है, अतः यही शीर्षक सर्वाधिक उपयुक्त है।",
+    "set": "comprehension"
+  },
+  {
+    "n": 16,
+    "unit": "Communication",
+    "q_hi": "संप्रेषण प्रक्रिया में 'कूटलेखन' (Encoding) का अर्थ है —",
+    "q_en": "In the process of communication, 'encoding' means —",
+    "options_hi": [
+      "संदेश प्राप्त करना",
+      "प्रतिपुष्टि देना",
+      "माध्यम का चयन करना",
+      "विचारों को शब्दों या प्रतीकों में बदलना"
+    ],
+    "options_en": [
+      "Receiving the message",
+      "Giving feedback",
+      "Selecting the medium",
+      "Converting ideas into words or symbols"
+    ],
+    "answer": "D",
+    "exp_hi": "प्रेषक अपने विचारों को शब्दों, चिह्नों या प्रतीकों में बदलता है — यही प्रक्रिया कूटलेखन (Encoding) कहलाती है।"
+  },
+  {
+    "n": 17,
+    "unit": "Communication",
+    "q_hi": "कक्षा-संप्रेषण में 'प्रतिपुष्टि' (Feedback) की भूमिका क्या है?",
+    "q_en": "What is the role of 'feedback' in classroom communication?",
+    "options_hi": [
+      "यह केवल शिक्षक द्वारा दी जाती है",
+      "यह प्राप्तकर्ता की प्रतिक्रिया है, जो संप्रेषण को द्विदिश और पूर्ण बनाती है",
+      "यह संप्रेषण के लिए अनावश्यक है",
+      "यह केवल लिखित रूप में होती है"
+    ],
+    "options_en": [
+      "It is given only by the teacher",
+      "It is the receiver's response, which makes communication two-way and complete",
+      "It is unnecessary for communication",
+      "It occurs only in written form"
+    ],
+    "answer": "B",
+    "exp_hi": "प्रतिपुष्टि से प्रेषक को ज्ञात होता है कि संदेश सही रूप में समझा गया या नहीं; यही संप्रेषण को द्विदिश बनाती है।"
+  },
+  {
+    "n": 18,
+    "unit": "Communication",
+    "q_hi": "निम्न में से कौन-सा अशाब्दिक संप्रेषण (Non-verbal Communication) का उदाहरण है?",
+    "q_en": "Which of the following is an example of non-verbal communication?",
+    "options_hi": [
+      "पत्र लिखना",
+      "व्याख्यान देना",
+      "हाव-भाव और शारीरिक भाषा",
+      "रेडियो प्रसारण"
+    ],
+    "options_en": [
+      "Writing a letter",
+      "Delivering a lecture",
+      "Gestures and body language",
+      "Radio broadcast"
+    ],
+    "answer": "C",
+    "exp_hi": "हाव-भाव, भाव-भंगिमा और शारीरिक भाषा शब्दों के बिना संदेश पहुँचाते हैं, अतः ये अशाब्दिक संप्रेषण हैं।"
+  },
+  {
+    "n": 19,
+    "unit": "Communication",
+    "q_hi": "संप्रेषण में 'शोर' (Noise) से क्या अभिप्राय है?",
+    "q_en": "What is meant by 'noise' in communication?",
+    "options_hi": [
+      "कोई भी तत्व जो संदेश के स्पष्ट प्रवाह में बाधा डाले",
+      "संदेश का एक प्रकार",
+      "संप्रेषण का माध्यम",
+      "संदेश का प्राप्तकर्ता"
+    ],
+    "options_en": [
+      "Any element that obstructs the clear flow of the message",
+      "A type of message",
+      "The medium of communication",
+      "The receiver of the message"
+    ],
+    "answer": "A",
+    "exp_hi": "शोर वह बाधा है जो संदेश को विकृत करती है या उसके सही अर्थ तक पहुँचने में रुकावट डालती है।"
+  },
+  {
+    "n": 20,
+    "unit": "Communication",
+    "q_hi": "प्रभावी कक्षा-संप्रेषण के लिए निम्न में से क्या आवश्यक नहीं है?",
+    "q_en": "Which of the following is NOT essential for effective classroom communication?",
+    "options_hi": [
+      "संदेश की स्पष्टता",
+      "उपयुक्त माध्यम का चयन",
+      "श्रोताओं की समझ का ध्यान",
+      "बिना प्रतिपुष्टि का एकतरफा व्याख्यान"
+    ],
+    "options_en": [
+      "Clarity of the message",
+      "Selection of a suitable medium",
+      "Attention to the audience's understanding",
+      "One-way lecture without any feedback"
+    ],
+    "answer": "D",
+    "exp_hi": "प्रभावी संप्रेषण द्विदिश होता है; बिना प्रतिपुष्टि का एकतरफा व्याख्यान प्रभावी कक्षा-संप्रेषण नहीं माना जाता।"
+  },
+  {
+    "n": 21,
+    "unit": "Mathematical Reasoning and Aptitude",
+    "q_hi": "श्रृंखला को पूर्ण कीजिए : 2, 6, 12, 20, 30, ?",
+    "q_en": "Complete the series: 2, 6, 12, 20, 30, ?",
+    "options_hi": [
+      "36",
+      "42",
+      "40",
+      "44"
+    ],
+    "options_en": [
+      "36",
+      "42",
+      "40",
+      "44"
+    ],
+    "answer": "B",
+    "exp_hi": "पद क्रमशः 1x2, 2x3, 3x4, 4x5, 5x6 हैं; अगला पद 6x7 = 42 होगा।"
+  },
+  {
+    "n": 22,
+    "unit": "Mathematical Reasoning and Aptitude",
+    "q_hi": "किसी संख्या का 40% बराबर 240 है। वह संख्या क्या है?",
+    "q_en": "40% of a number is 240. What is the number?",
+    "options_hi": [
+      "600",
+      "560",
+      "640",
+      "480"
+    ],
+    "options_en": [
+      "600",
+      "560",
+      "640",
+      "480"
+    ],
+    "answer": "A",
+    "exp_hi": "संख्या = 240 x 100 / 40 = 600।"
+  },
+  {
+    "n": 23,
+    "unit": "Mathematical Reasoning and Aptitude",
+    "q_hi": "10, 20, 30, 40 और 50 का औसत क्या है?",
+    "q_en": "What is the average of 10, 20, 30, 40 and 50?",
+    "options_hi": [
+      "25",
+      "35",
+      "28",
+      "30"
+    ],
+    "options_en": [
+      "25",
+      "35",
+      "28",
+      "30"
+    ],
+    "answer": "D",
+    "exp_hi": "योग = 150; औसत = 150 / 5 = 30।"
+  },
+  {
+    "n": 24,
+    "unit": "Mathematical Reasoning and Aptitude",
+    "q_hi": "यदि A : B = 2 : 3 और B : C = 4 : 5 हो, तो A : C क्या होगा?",
+    "q_en": "If A : B = 2 : 3 and B : C = 4 : 5, then A : C is -",
+    "options_hi": [
+      "2 : 5",
+      "8 : 12",
+      "8 : 15",
+      "6 : 15"
+    ],
+    "options_en": [
+      "2 : 5",
+      "8 : 12",
+      "8 : 15",
+      "6 : 15"
+    ],
+    "answer": "C",
+    "exp_hi": "A/C = (A/B) x (B/C) = (2/3) x (4/5) = 8/15, अतः A : C = 8 : 15।"
+  },
+  {
+    "n": 25,
+    "unit": "Mathematical Reasoning and Aptitude",
+    "q_hi": "रु. 5000 पर 10% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+    "q_en": "What is the simple interest on Rs. 5000 at 10% per annum for 2 years?",
+    "options_hi": [
+      "रु. 900",
+      "रु. 1000",
+      "रु. 1100",
+      "रु. 1050"
+    ],
+    "options_en": [
+      "Rs. 900",
+      "Rs. 1000",
+      "Rs. 1100",
+      "Rs. 1050"
+    ],
+    "answer": "B",
+    "exp_hi": "साधारण ब्याज = (5000 x 10 x 2) / 100 = रु. 1000।"
+  },
+  {
+    "n": 26,
+    "unit": "Logical Reasoning",
+    "q_hi": "कथन : सभी पेन पुस्तकें हैं। सभी पुस्तकें कुर्सियाँ हैं। निम्न में से कौन-सा निष्कर्ष निश्चित रूप से निकलता है?",
+    "q_en": "Statements: All pens are books. All books are chairs. Which conclusion definitely follows?",
+    "options_hi": [
+      "सभी कुर्सियाँ पेन हैं",
+      "कुछ पुस्तकें पेन नहीं हैं",
+      "सभी पेन कुर्सियाँ हैं",
+      "कोई पेन कुर्सी नहीं है"
+    ],
+    "options_en": [
+      "All chairs are pens",
+      "Some books are not pens",
+      "All pens are chairs",
+      "No pen is a chair"
+    ],
+    "answer": "C",
+    "exp_hi": "जब सभी पेन पुस्तकें हैं और सभी पुस्तकें कुर्सियाँ हैं, तो सभी पेन अनिवार्यतः कुर्सियाँ होंगे।"
+  },
+  {
+    "n": 27,
+    "unit": "Logical Reasoning",
+    "q_hi": "श्रृंखला को पूर्ण कीजिए : A, C, F, J, O, ?",
+    "q_en": "Complete the series: A, C, F, J, O, ?",
+    "options_hi": [
+      "S",
+      "T",
+      "V",
+      "U"
+    ],
+    "options_en": [
+      "S",
+      "T",
+      "V",
+      "U"
+    ],
+    "answer": "D",
+    "exp_hi": "अक्षरों के बीच अंतर क्रमशः +2, +3, +4, +5 है; अगला अंतर +6 होगा, अतः O के बाद U आएगा।"
+  },
+  {
+    "n": 28,
+    "unit": "Logical Reasoning",
+    "q_hi": "निम्न में से विषम (भिन्न) कौन-सा है?",
+    "q_en": "Which of the following is the odd one out?",
+    "options_hi": [
+      "आलू",
+      "आम",
+      "केला",
+      "सेब"
+    ],
+    "options_en": [
+      "Potato",
+      "Mango",
+      "Banana",
+      "Apple"
+    ],
+    "answer": "A",
+    "exp_hi": "आम, केला और सेब फल हैं, जबकि आलू एक सब्ज़ी (कंद) है; अतः आलू भिन्न है।"
+  },
+  {
+    "n": 29,
+    "unit": "Logical Reasoning",
+    "q_hi": "यदि किसी कूट भाषा में CAT को 3120 लिखा जाता है, तो उसी कूट में DOG को क्या लिखा जाएगा?",
+    "q_en": "If in a certain code CAT is written as 3120, how will DOG be written in the same code?",
+    "options_hi": [
+      "4167",
+      "4157",
+      "4158",
+      "5147"
+    ],
+    "options_en": [
+      "4167",
+      "4157",
+      "4158",
+      "5147"
+    ],
+    "answer": "B",
+    "exp_hi": "कूट में अक्षरों के वर्णमाला-स्थान लिखे गए हैं : C=3, A=1, T=20। इसी प्रकार D=4, O=15, G=7, अतः DOG = 4157।"
+  },
+  {
+    "n": 30,
+    "unit": "Logical Reasoning",
+    "q_hi": "'सभी मनुष्य नश्वर हैं; सुकरात मनुष्य है; अतः सुकरात नश्वर है।' — यह किस प्रकार का तर्क है?",
+    "q_en": "'All men are mortal; Socrates is a man; therefore Socrates is mortal.' - This is which type of reasoning?",
+    "options_hi": [
+      "आगमनात्मक तर्क",
+      "उपमा-आधारित तर्क",
+      "निगमनात्मक तर्क",
+      "सांख्यिकीय तर्क"
+    ],
+    "options_en": [
+      "Inductive reasoning",
+      "Reasoning by analogy",
+      "Deductive reasoning",
+      "Statistical reasoning"
+    ],
+    "answer": "C",
+    "exp_hi": "सामान्य नियम से विशेष स्थिति पर निष्कर्ष निकालना निगमनात्मक (Deductive) तर्क कहलाता है।"
+  },
+  {
+    "n": 31,
+    "unit": "Data Interpretation",
+    "q_hi": "उपर्युक्त आँकड़ों के अनुसार, पाँचों वर्षों में छात्रों की कुल संख्या कितनी है?",
+    "q_en": "According to the above data, what is the total number of students in all five years?",
+    "options_hi": [
+      "3150",
+      "3050",
+      "3250",
+      "2950"
+    ],
+    "options_en": [
+      "3150",
+      "3050",
+      "3250",
+      "2950"
+    ],
+    "answer": "A",
+    "exp_hi": "कुल = 400 + 480 + 620 + 750 + 900 = 3150।",
+    "set": "data",
+    "data_hi": "किसी संस्थान में विभिन्न वर्षों में छात्रों की संख्या : 2020 - 400; 2021 - 480; 2022 - 620; 2023 - 750; 2024 - 900।",
+    "data_en": "Number of students in an institution in different years: 2020 - 400; 2021 - 480; 2022 - 620; 2023 - 750; 2024 - 900."
+  },
+  {
+    "n": 32,
+    "unit": "Data Interpretation",
+    "q_hi": "2020 की तुलना में 2024 में छात्रों की संख्या में कितने प्रतिशत वृद्धि हुई?",
+    "q_en": "By what percentage did the number of students increase in 2024 as compared to 2020?",
+    "options_hi": [
+      "100%",
+      "125%",
+      "150%",
+      "225%"
+    ],
+    "options_en": [
+      "100%",
+      "125%",
+      "150%",
+      "225%"
+    ],
+    "answer": "B",
+    "exp_hi": "वृद्धि = 900 - 400 = 500; प्रतिशत वृद्धि = (500 / 400) x 100 = 125%।",
+    "set": "data"
+  },
+  {
+    "n": 33,
+    "unit": "Data Interpretation",
+    "q_hi": "वर्ष 2021 और वर्ष 2023 के छात्रों की संख्या का अनुपात क्या है?",
+    "q_en": "What is the ratio of the number of students in 2021 and 2023?",
+    "options_hi": [
+      "3 : 5",
+      "4 : 5",
+      "5 : 8",
+      "16 : 25"
+    ],
+    "options_en": [
+      "3 : 5",
+      "4 : 5",
+      "5 : 8",
+      "16 : 25"
+    ],
+    "answer": "D",
+    "exp_hi": "480 : 750 को 30 से भाग देने पर 16 : 25 प्राप्त होता है।",
+    "set": "data"
+  },
+  {
+    "n": 34,
+    "unit": "Data Interpretation",
+    "q_hi": "पाँचों वर्षों में छात्रों की औसत संख्या प्रति वर्ष कितनी है?",
+    "q_en": "What is the average number of students per year over the five years?",
+    "options_hi": [
+      "600",
+      "650",
+      "630",
+      "620"
+    ],
+    "options_en": [
+      "600",
+      "650",
+      "630",
+      "620"
+    ],
+    "answer": "C",
+    "exp_hi": "औसत = कुल संख्या 3150 / 5 = 630।",
+    "set": "data"
+  },
+  {
+    "n": 35,
+    "unit": "Data Interpretation",
+    "q_hi": "किस वर्ष में पिछले वर्ष की तुलना में छात्रों की संख्या में प्रतिशत वृद्धि सर्वाधिक हुई?",
+    "q_en": "In which year was the percentage increase in the number of students, as compared to the previous year, the highest?",
+    "options_hi": [
+      "2022",
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "options_en": [
+      "2022",
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "answer": "A",
+    "exp_hi": "प्रतिशत वृद्धि — 2021 में 20%, 2022 में लगभग 29.2%, 2023 में लगभग 21% और 2024 में 20%; अतः 2022 में वृद्धि सर्वाधिक है।",
+    "set": "data"
+  },
+  {
+    "n": 36,
+    "unit": "Information and Communication Technology (ICT)",
+    "q_hi": "CPU का पूर्ण रूप क्या है?",
+    "q_en": "What is the full form of CPU?",
+    "options_hi": [
+      "कंप्यूटर पर्सनल यूनिट",
+      "सेंट्रल प्रोग्राम यूनिट",
+      "कंट्रोल प्रोसेसिंग यूनिट",
+      "सेंट्रल प्रोसेसिंग यूनिट"
+    ],
+    "options_en": [
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Control Processing Unit",
+      "Central Processing Unit"
+    ],
+    "answer": "D",
+    "exp_hi": "CPU का पूर्ण रूप Central Processing Unit (केंद्रीय प्रक्रमण इकाई) है, जिसे कंप्यूटर का मस्तिष्क कहा जाता है।"
+  },
+  {
+    "n": 37,
+    "unit": "Information and Communication Technology (ICT)",
+    "q_hi": "निम्न में से कौन-सा एक निर्गम (Output) उपकरण है?",
+    "q_en": "Which of the following is an output device?",
+    "options_hi": [
+      "कीबोर्ड",
+      "माउस",
+      "मॉनिटर",
+      "स्कैनर"
+    ],
+    "options_en": [
+      "Keyboard",
+      "Mouse",
+      "Monitor",
+      "Scanner"
+    ],
+    "answer": "C",
+    "exp_hi": "मॉनिटर परिणाम को प्रदर्शित करता है, अतः यह निर्गम उपकरण है; कीबोर्ड, माउस और स्कैनर आगम (Input) उपकरण हैं।"
+  },
+  {
+    "n": 38,
+    "unit": "Information and Communication Technology (ICT)",
+    "q_hi": "URL का पूर्ण रूप क्या है?",
+    "q_en": "What is the full form of URL?",
+    "options_hi": [
+      "यूनिवर्सल रिसोर्स लिंक",
+      "यूनिफॉर्म रिसोर्स लोकेटर",
+      "यूनिफाइड रिसोर्स लोकेटर",
+      "यूनिवर्सल रेफ़रेंस लिंक"
+    ],
+    "options_en": [
+      "Universal Resource Link",
+      "Uniform Resource Locator",
+      "Unified Resource Locator",
+      "Universal Reference Link"
+    ],
+    "answer": "B",
+    "exp_hi": "URL का पूर्ण रूप Uniform Resource Locator है; यह इंटरनेट पर किसी संसाधन (वेब पृष्ठ) का पता होता है।"
+  },
+  {
+    "n": 39,
+    "unit": "Information and Communication Technology (ICT)",
+    "q_hi": "ई-मेल में 'CC' का अर्थ क्या होता है?",
+    "q_en": "What does 'CC' mean in an e-mail?",
+    "options_hi": [
+      "कार्बन कॉपी",
+      "कंप्यूटर कॉपी",
+      "सेंट्रल कॉपी",
+      "कॉन्फ़िडेंशियल कॉपी"
+    ],
+    "options_en": [
+      "Carbon Copy",
+      "Computer Copy",
+      "Central Copy",
+      "Confidential Copy"
+    ],
+    "answer": "A",
+    "exp_hi": "CC अर्थात Carbon Copy; इसमें रखे प्राप्तकर्ताओं को ई-मेल की प्रति भेजी जाती है और उनकी सूची सभी को दिखाई देती है।"
+  },
+  {
+    "n": 40,
+    "unit": "Information and Communication Technology (ICT)",
+    "q_hi": "निम्न में से कौन-सी मेमोरी अस्थायी (Volatile) प्रकृति की है?",
+    "q_en": "Which of the following memory is volatile in nature?",
+    "options_hi": [
+      "ROM",
+      "हार्ड डिस्क",
+      "SSD",
+      "RAM"
+    ],
+    "options_en": [
+      "ROM",
+      "Hard Disk",
+      "SSD",
+      "RAM"
+    ],
+    "answer": "D",
+    "exp_hi": "RAM में संग्रहीत सूचना बिजली बंद होते ही मिट जाती है, अतः यह अस्थायी (Volatile) मेमोरी है।"
+  },
+  {
+    "n": 41,
+    "unit": "People, Development and Environment",
+    "q_hi": "'सतत विकास' (Sustainable Development) की प्रसिद्ध परिभाषा किससे जुड़ी है?",
+    "q_en": "The famous definition of 'Sustainable Development' is associated with which of the following?",
+    "options_hi": [
+      "क्योटो प्रोटोकॉल",
+      "ब्रंटलैंड रिपोर्ट (Our Common Future)",
+      "पेरिस समझौता",
+      "स्टॉकहोम सम्मेलन"
+    ],
+    "options_en": [
+      "Kyoto Protocol",
+      "Brundtland Report (Our Common Future)",
+      "Paris Agreement",
+      "Stockholm Conference"
+    ],
+    "answer": "B",
+    "exp_hi": "1987 की ब्रंटलैंड रिपोर्ट 'Our Common Future' ने सतत विकास को भावी पीढ़ियों की आवश्यकताओं से समझौता किए बिना वर्तमान की आवश्यकताएँ पूरी करने के रूप में परिभाषित किया।"
+  },
+  {
+    "n": 42,
+    "unit": "People, Development and Environment",
+    "q_hi": "ओज़ोन परत के क्षरण के लिए मुख्य रूप से कौन-सी गैस उत्तरदायी है?",
+    "q_en": "Which gas is mainly responsible for the depletion of the ozone layer?",
+    "options_hi": [
+      "कार्बन डाइऑक्साइड",
+      "मीथेन",
+      "नाइट्रोजन",
+      "क्लोरोफ्लोरोकार्बन (CFC)"
+    ],
+    "options_en": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen",
+      "Chlorofluorocarbon (CFC)"
+    ],
+    "answer": "D",
+    "exp_hi": "रेफ्रिजरेटर और एयरोसॉल आदि से निकलने वाले CFC ओज़ोन परत को क्षतिग्रस्त करते हैं; इन पर मॉन्ट्रियल प्रोटोकॉल (1987) द्वारा नियंत्रण लगाया गया।"
+  },
+  {
+    "n": 43,
+    "unit": "People, Development and Environment",
+    "q_hi": "भारत में पर्यावरण (संरक्षण) अधिनियम किस वर्ष लागू हुआ?",
+    "q_en": "In which year was the Environment (Protection) Act enacted in India?",
+    "options_hi": [
+      "1986",
+      "1972",
+      "1992",
+      "2002"
+    ],
+    "options_en": [
+      "1986",
+      "1972",
+      "1992",
+      "2002"
+    ],
+    "answer": "A",
+    "exp_hi": "पर्यावरण (संरक्षण) अधिनियम 1986 में पारित हुआ; यह भारत का प्रमुख समग्र पर्यावरण कानून है।"
+  },
+  {
+    "n": 44,
+    "unit": "People, Development and Environment",
+    "q_hi": "निम्न में से कौन-सा नवीकरणीय ऊर्जा स्रोत है?",
+    "q_en": "Which of the following is a renewable source of energy?",
+    "options_hi": [
+      "कोयला",
+      "पेट्रोलियम",
+      "सौर ऊर्जा",
+      "प्राकृतिक गैस"
+    ],
+    "options_en": [
+      "Coal",
+      "Petroleum",
+      "Solar energy",
+      "Natural gas"
+    ],
+    "answer": "C",
+    "exp_hi": "सौर ऊर्जा प्राकृतिक रूप से पुनः पूर्ति होने वाला स्रोत है, जबकि कोयला, पेट्रोलियम और प्राकृतिक गैस जीवाश्म ईंधन हैं।"
+  },
+  {
+    "n": 45,
+    "unit": "People, Development and Environment",
+    "q_hi": "'जैव विविधता' (Biodiversity) से क्या अभिप्राय है?",
+    "q_en": "What is meant by 'Biodiversity'?",
+    "options_hi": [
+      "केवल पौधों की विविधता",
+      "जीवों की प्रजातियों, आनुवंशिक और पारिस्थितिक तंत्रों की विविधता",
+      "केवल जंतुओं की संख्या",
+      "मिट्टी के प्रकारों की विविधता"
+    ],
+    "options_en": [
+      "Diversity of plants only",
+      "Diversity of species, genetic variation and ecosystems",
+      "Number of animals only",
+      "Diversity of soil types"
+    ],
+    "answer": "B",
+    "exp_hi": "जैव विविधता में प्रजातियों की विविधता, उनके भीतर आनुवंशिक विविधता और पारिस्थितिक तंत्रों की विविधता — तीनों शामिल हैं।"
+  },
+  {
+    "n": 46,
+    "unit": "Higher Education System",
+    "q_hi": "विश्वविद्यालय अनुदान आयोग (UGC) की स्थापना किस वर्ष हुई थी?",
+    "q_en": "In which year was the University Grants Commission (UGC) established?",
+    "options_hi": [
+      "1953",
+      "1947",
+      "1965",
+      "1986"
+    ],
+    "options_en": [
+      "1953",
+      "1947",
+      "1965",
+      "1986"
+    ],
+    "answer": "A",
+    "exp_hi": "UGC की स्थापना 1953 में हुई थी; 1956 में संसद के अधिनियम द्वारा इसे वैधानिक (statutory) दर्जा प्राप्त हुआ।"
+  },
+  {
+    "n": 47,
+    "unit": "Higher Education System",
+    "q_hi": "राष्ट्रीय शिक्षा नीति 2020 के अनुसार, उच्च शिक्षा में सकल नामांकन अनुपात (GER) को 2035 तक कितना करने का लक्ष्य है?",
+    "q_en": "According to the National Education Policy 2020, what is the target for Gross Enrolment Ratio (GER) in higher education by 2035?",
+    "options_hi": [
+      "26.3%",
+      "35%",
+      "50%",
+      "75%"
+    ],
+    "options_en": [
+      "26.3%",
+      "35%",
+      "50%",
+      "75%"
+    ],
+    "answer": "C",
+    "exp_hi": "NEP 2020 में उच्च शिक्षा में GER को 2035 तक 50% तक पहुँचाने का लक्ष्य रखा गया है।"
+  },
+  {
+    "n": 48,
+    "unit": "Higher Education System",
+    "q_hi": "NAAC का मुख्य कार्य क्या है?",
+    "q_en": "What is the main function of NAAC?",
+    "options_hi": [
+      "विश्वविद्यालयों को अनुदान देना",
+      "उच्च शिक्षा संस्थानों का मूल्यांकन और प्रत्यायन (Accreditation)",
+      "पाठ्यक्रम तैयार करना",
+      "विश्वविद्यालय परीक्षाएँ आयोजित करना"
+    ],
+    "options_en": [
+      "Giving grants to universities",
+      "Assessment and accreditation of higher education institutions",
+      "Preparing curricula",
+      "Conducting university examinations"
+    ],
+    "answer": "B",
+    "exp_hi": "NAAC (राष्ट्रीय मूल्यांकन एवं प्रत्यायन परिषद) उच्च शिक्षा संस्थानों की गुणवत्ता का मूल्यांकन करके उन्हें प्रत्यायन (ग्रेड) प्रदान करता है।"
+  },
+  {
+    "n": 49,
+    "unit": "Higher Education System",
+    "q_hi": "प्राचीन नालंदा विश्वविद्यालय किस वर्तमान राज्य में स्थित था?",
+    "q_en": "The ancient Nalanda University was located in which present-day state?",
+    "options_hi": [
+      "उत्तर प्रदेश",
+      "मध्य प्रदेश",
+      "पश्चिम बंगाल",
+      "बिहार"
+    ],
+    "options_en": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "West Bengal",
+      "Bihar"
+    ],
+    "answer": "D",
+    "exp_hi": "नालंदा विश्वविद्यालय वर्तमान बिहार के नालंदा ज़िले में स्थित था; यह प्राचीन काल का प्रसिद्ध अंतरराष्ट्रीय शिक्षा केंद्र था।"
+  },
+  {
+    "n": 50,
+    "unit": "Higher Education System",
+    "q_hi": "राष्ट्रीय अध्यापक शिक्षा परिषद (NCTE) का मुख्य कार्य क्या है?",
+    "q_en": "What is the main function of the National Council for Teacher Education (NCTE)?",
+    "options_hi": [
+      "शिक्षक शिक्षा के मानकों का निर्धारण और नियमन",
+      "नए विद्यालय खोलना",
+      "शिक्षकों की सीधी भर्ती करना",
+      "शिक्षकों का वेतन निर्धारित करना"
+    ],
+    "options_en": [
+      "Setting standards for and regulating teacher education",
+      "Opening new schools",
+      "Directly recruiting teachers",
+      "Fixing the salaries of teachers"
+    ],
+    "answer": "A",
+    "exp_hi": "NCTE देश में शिक्षक शिक्षा के मानक, मानदंड और प्रक्रियाएँ निर्धारित करने वाली वैधानिक संस्था है।"
+  }
+]

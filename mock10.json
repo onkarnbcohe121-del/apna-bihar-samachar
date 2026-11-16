@@ -1,0 +1,556 @@
+{
+ "mock_no": 10,
+ "questions": [
+  {
+   "q": "इंग्लैंड में सार्वजनिक पुस्तकालय अधिनियम, 1850 का विधेयक संसद में किसने प्रस्तुत किया था? / Who introduced the bill for the first Public Libraries Act (1850) in England?",
+   "options": {
+    "A": "एडवर्ड एडवर्ड्स / Edward Edwards",
+    "B": "विलियम ईवर्ट / William Ewart",
+    "C": "एंथनी पनिज़्ज़ी / Anthony Panizzi",
+    "D": "थॉमस ग्रीनवुड / Thomas Greenwood"
+   },
+   "answer": "B",
+   "explanation": "इंग्लैंड के सार्वजनिक पुस्तकालय अधिनियम 1850 का विधेयक सांसद विलियम ईवर्ट ने प्रस्तुत किया था, इसलिए उन्हें इस अधिनियम का प्रमुख प्रणेता माना जाता है। एडवर्ड एडवर्ड्स ने इस अभियान का समर्थन किया था।"
+  },
+  {
+   "q": "बंगाल पुस्तकालय संघ की स्थापना किस वर्ष हुई थी? / In which year was the Bengal Library Association founded?",
+   "options": {
+    "A": "1925 / 1925",
+    "B": "1920 / 1920",
+    "C": "1928 / 1928",
+    "D": "1933 / 1933"
+   },
+   "answer": "A",
+   "explanation": "बंगाल पुस्तकालय संघ की स्थापना 1925 में कोलकाता में हुई थी। यह भारत के प्रारंभिक राज्य-स्तरीय पुस्तकालय संघों में से एक है।"
+  },
+  {
+   "q": "प्रसिद्ध सरस्वती महल पुस्तकालय किस शहर में स्थित है? / The famous Sarasvati Mahal Library is located in which city?",
+   "options": {
+    "A": "मदुरै / Madurai",
+    "B": "मैसूरु / Mysuru",
+    "C": "वाराणसी / Varanasi",
+    "D": "तंजावुर / Thanjavur"
+   },
+   "answer": "D",
+   "explanation": "सरस्वती महल पुस्तकालय तमिलनाडु के तंजावुर में स्थित है। यह मराठा शासक सरफ़ोजी द्वितीय के दुर्लभ पांडुलिपि संग्रह के लिए प्रसिद्ध है।"
+  },
+  {
+   "q": "भारत की पहली पुस्तकालय पत्रिका 'लाइब्रेरी मिसलेनी' (1912) कहाँ से प्रकाशित हुई थी? / From where was India's first library journal 'Library Miscellany' (1912) published?",
+   "options": {
+    "A": "मद्रास / Madras",
+    "B": "कलकत्ता / Calcutta",
+    "C": "बड़ौदा / Baroda",
+    "D": "लाहौर / Lahore"
+   },
+   "answer": "C",
+   "explanation": "भारत की पहली पुस्तकालय पत्रिका 'लाइब्रेरी मिसलेनी' का प्रकाशन 1912 में बड़ौदा से हुआ था, जहाँ उस समय पुस्तकालय आंदोलन अत्यंत सक्रिय था।"
+  },
+  {
+   "q": "साहित्य अकादेमी की स्थापना किस वर्ष हुई थी? / In which year was the Sahitya Akademi established?",
+   "options": {
+    "A": "1947 / 1947",
+    "B": "1954 / 1954",
+    "C": "1952 / 1952",
+    "D": "1956 / 1956"
+   },
+   "answer": "B",
+   "explanation": "साहित्य अकादेमी की स्थापना 12 मार्च 1954 को हुई थी। यह भारत की राष्ट्रीय साहित्य अकादेमी है, जो 24 भाषाओं में साहित्य को प्रोत्साहित करती है।"
+  },
+  {
+   "q": "भारतीय राष्ट्रीय अभिलेखागार की स्थापना किस वर्ष हुई थी? / In which year was the National Archives of India established?",
+   "options": {
+    "A": "1891 / 1891",
+    "B": "1901 / 1901",
+    "C": "1911 / 1911",
+    "D": "1947 / 1947"
+   },
+   "answer": "A",
+   "explanation": "भारतीय राष्ट्रीय अभिलेखागार की स्थापना 1891 में कोलकाता में 'इंपीरियल रिकॉर्ड डिपार्टमेंट' के नाम से हुई थी। बाद में इसका मुख्यालय नई दिल्ली स्थानांतरित हुआ।"
+  },
+  {
+   "q": "पुस्तक प्रदान अधिनियम, 1954 के अंतर्गत प्रकाशक को प्रकाशन के कितने दिनों के भीतर निर्धारित पुस्तकालयों को प्रतियाँ भेजनी होती हैं? / Under the Delivery of Books Act, 1954, within how many days must a publisher deliver copies to the designated libraries?",
+   "options": {
+    "A": "15 दिन / 15 days",
+    "B": "45 दिन / 45 days",
+    "C": "30 दिन / 30 days",
+    "D": "60 दिन / 60 days"
+   },
+   "answer": "C",
+   "explanation": "पुस्तक प्रदान अधिनियम 1954 के अनुसार प्रकाशक को पुस्तक के प्रकाशन के 30 दिनों के भीतर निर्धारित निक्षेप पुस्तकालयों को प्रतियाँ निःशुल्क भेजनी होती हैं।"
+  },
+  {
+   "q": "भारत में चलचित्र (सिनेमैटोग्राफ़) फ़िल्मों के लिए कॉपीराइट की अवधि कितनी होती है? / What is the term of copyright for cinematograph films in India?",
+   "options": {
+    "A": "प्रकाशन से 25 वर्ष / 25 years from publication",
+    "B": "प्रकाशन से 50 वर्ष / 50 years from publication",
+    "C": "निर्माता के जीवनकाल + 60 वर्ष / Life of the producer + 60 years",
+    "D": "प्रकाशन से 60 वर्ष / 60 years from publication"
+   },
+   "answer": "D",
+   "explanation": "भारतीय कॉपीराइट अधिनियम के अनुसार चलचित्र फ़िल्मों में कॉपीराइट प्रकाशन के वर्ष से 60 वर्ष तक रहता है। साहित्यिक कृतियों में यह अवधि लेखक के जीवनकाल + 60 वर्ष होती है।"
+  },
+  {
+   "q": "औद्योगिक संपत्ति के संरक्षण हेतु 'पेरिस कन्वेंशन' किस वर्ष हुआ था? / In which year was the 'Paris Convention' for the protection of industrial property held?",
+   "options": {
+    "A": "1886 / 1886",
+    "B": "1883 / 1883",
+    "C": "1891 / 1891",
+    "D": "1967 / 1967"
+   },
+   "answer": "B",
+   "explanation": "औद्योगिक संपत्ति के संरक्षण हेतु पेरिस कन्वेंशन 1883 में हुआ था, जबकि साहित्यिक व कलात्मक कृतियों के लिए बर्न कन्वेंशन 1886 में हुआ था।"
+  },
+  {
+   "q": "भारत का सूचना प्रौद्योगिकी अधिनियम (IT Act) किस वर्ष पारित हुआ? / In which year was India's Information Technology Act passed?",
+   "options": {
+    "A": "1998 / 1998",
+    "B": "2005 / 2005",
+    "C": "2000 / 2000",
+    "D": "2008 / 2008"
+   },
+   "answer": "C",
+   "explanation": "सूचना प्रौद्योगिकी अधिनियम वर्ष 2000 में पारित हुआ और 17 अक्टूबर 2000 से लागू हुआ। यह इलेक्ट्रॉनिक अभिलेखों और डिजिटल हस्ताक्षरों को कानूनी मान्यता देता है।"
+  },
+  {
+   "q": "DESIDOC किस संगठन का प्रलेखन केंद्र है? / DESIDOC is the documentation centre of which organisation?",
+   "options": {
+    "A": "डीआरडीओ / DRDO",
+    "B": "सीएसआईआर / CSIR",
+    "C": "आईसीएआर / ICAR",
+    "D": "यूजीसी / UGC"
+   },
+   "answer": "A",
+   "explanation": "DESIDOC (Defence Scientific Information and Documentation Centre) रक्षा अनुसंधान एवं विकास संगठन (DRDO) का प्रलेखन केंद्र है, जो रक्षा विज्ञान संबंधी सूचना सेवाएँ प्रदान करता है।"
+  },
+  {
+   "q": "NISSAT कार्यक्रम किस विभाग द्वारा स्थापित किया गया था? / The NISSAT programme was set up by which department?",
+   "options": {
+    "A": "यूजीसी / UGC",
+    "B": "सीएसआईआर / CSIR",
+    "C": "डीएसटी / DST",
+    "D": "डीएसआईआर / DSIR"
+   },
+   "answer": "D",
+   "explanation": "NISSAT (National Information System for Science and Technology) की स्थापना 1977 में वैज्ञानिक एवं औद्योगिक अनुसंधान विभाग (DSIR) द्वारा की गई थी।"
+  },
+  {
+   "q": "'ABGILA' किस संस्था की पत्रिका थी? / 'ABGILA' was the journal of which association?",
+   "options": {
+    "A": "आयस्लिक (IASLIC) / IASLIC",
+    "B": "भारतीय पुस्तकालय संघ (ILA) / Indian Library Association (ILA)",
+    "C": "डीआरटीसी (DRTC) / DRTC",
+    "D": "इन्सडॉक (INSDOC) / INSDOC"
+   },
+   "answer": "B",
+   "explanation": "ABGILA भारतीय पुस्तकालय संघ (ILA) की पत्रिका थी, जिसका पूरा नाम 'Annals, Bulletin and Granthalaya of the Indian Library Association' था।"
+  },
+  {
+   "q": "DDC में मुख्य वर्ग 000 किस विषय को दर्शाता है? / In DDC, Main Class 000 represents which subject?",
+   "options": {
+    "A": "कंप्यूटर विज्ञान, सूचना एवं सामान्य कृतियाँ / Computer science, information and general works",
+    "B": "दर्शन / Philosophy",
+    "C": "धर्म / Religion",
+    "D": "सामाजिक विज्ञान / Social sciences"
+   },
+   "answer": "A",
+   "explanation": "DDC के प्रथम सारांश में 000 वर्ग कंप्यूटर विज्ञान, सूचना तथा सामान्य कृतियों के लिए है। 100 दर्शन और 200 धर्म के लिए निर्धारित है।"
+  },
+  {
+   "q": "DDC में मुख्य वर्ग 100 किस विषय को दर्शाता है? / In DDC, Main Class 100 represents which subject?",
+   "options": {
+    "A": "धर्म / Religion",
+    "B": "साहित्य / Literature",
+    "C": "दर्शन एवं मनोविज्ञान / Philosophy and psychology",
+    "D": "इतिहास / History"
+   },
+   "answer": "C",
+   "explanation": "DDC में 100 वर्ग दर्शन एवं मनोविज्ञान को दर्शाता है, जबकि 200 धर्म और 800 साहित्य के लिए निर्धारित है।"
+  },
+  {
+   "q": "कोलन वर्गीकरण (CC) में मुख्य वर्ग 'X' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'X' represents which subject?",
+   "options": {
+    "A": "समाजशास्त्र / Sociology",
+    "B": "राजनीति विज्ञान / Political Science",
+    "C": "विधि / Law",
+    "D": "अर्थशास्त्र / Economics"
+   },
+   "answer": "D",
+   "explanation": "कोलन वर्गीकरण में 'X' मुख्य वर्ग अर्थशास्त्र के लिए है। 'Y' समाजशास्त्र, 'W' राजनीति विज्ञान और 'Z' विधि को दर्शाता है।"
+  },
+  {
+   "q": "कोलन वर्गीकरण (CC) में मुख्य वर्ग 'C' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'C' represents which subject?",
+   "options": {
+    "A": "रसायन विज्ञान / Chemistry",
+    "B": "भौतिकी / Physics",
+    "C": "जीव विज्ञान / Biology",
+    "D": "भूविज्ञान / Geology"
+   },
+   "answer": "B",
+   "explanation": "कोलन वर्गीकरण में 'C' मुख्य वर्ग भौतिकी के लिए है। 'E' रसायन विज्ञान, 'G' जीव विज्ञान और 'H' भूविज्ञान को दर्शाता है।"
+  },
+  {
+   "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) में वर्ग 'K' किस विषय के लिए है? / In the Library of Congress Classification (LCC), Class 'K' is for which subject?",
+   "options": {
+    "A": "विधि / Law",
+    "B": "शिक्षा / Education",
+    "C": "चिकित्सा / Medicine",
+    "D": "कृषि / Agriculture"
+   },
+   "answer": "A",
+   "explanation": "LCC में 'K' वर्ग विधि (Law) के लिए है। 'L' शिक्षा, 'R' चिकित्सा और 'S' कृषि को दर्शाता है।"
+  },
+  {
+   "q": "वर्तमान में UDC का प्रकाशन व रखरखाव किस संस्था द्वारा किया जाता है? / At present, UDC is published and maintained by which body?",
+   "options": {
+    "A": "इफ़्ला / IFLA",
+    "B": "यूनेस्को / UNESCO",
+    "C": "यूडीसी कंसोर्टियम / UDC Consortium",
+    "D": "ओसीएलसी / OCLC"
+   },
+   "answer": "C",
+   "explanation": "वर्तमान में UDC का प्रकाशन और रखरखाव हेग स्थित UDC Consortium द्वारा किया जाता है, जिसने यह दायित्व 1992 में FID से संभाला था।"
+  },
+  {
+   "q": "वर्गीकरण में 'आतिथ्य का सिद्धांत' (Canon of Hospitality) किससे संबंधित है? / In classification, the 'Canon of Hospitality' is related to:",
+   "options": {
+    "A": "पुस्तक चयन से / Book selection",
+    "B": "श्रृंखला एवं पंक्ति में नई इकाइयों को स्थान देने की क्षमता से / The capacity to admit new entities in a chain and an array",
+    "C": "सूची शीर्षक के चयन से / Choice of catalogue heading",
+    "D": "पुस्तक संख्या निर्धारण से / Determination of book number"
+   },
+   "answer": "B",
+   "explanation": "आतिथ्य का सिद्धांत रंगनाथन के वर्गीकरण सिद्धांतों में से एक है। इसका आशय है कि वर्गीकरण प्रणाली की श्रृंखला और पंक्ति में भविष्य के नए विषयों को स्थान देने की पर्याप्त क्षमता होनी चाहिए।"
+  },
+  {
+   "q": "केवल एक ही प्रकार के प्रतीकों से बनी अंकन प्रणाली क्या कहलाती है? / A notation consisting of only one species of symbols is called:",
+   "options": {
+    "A": "मिश्रित अंकन / Mixed notation",
+    "B": "लचीला अंकन / Flexible notation",
+    "C": "खंडीय अंकन / Sector notation",
+    "D": "शुद्ध अंकन / Pure notation"
+   },
+   "answer": "D",
+   "explanation": "जिस अंकन में केवल एक ही प्रकार के प्रतीक (केवल अंक या केवल अक्षर) प्रयुक्त होते हैं, उसे शुद्ध अंकन कहते हैं। अंक और अक्षर दोनों के प्रयोग वाली प्रणाली मिश्रित अंकन कहलाती है, जैसे कोलन वर्गीकरण।"
+  },
+  {
+   "q": "MARC प्रारूप की प्रमुख विकासकर्ता कौन थीं? / Who was the principal developer of the MARC format?",
+   "options": {
+    "A": "हेनरीएट एवराम / Henriette Avram",
+    "B": "मेल्विल डेवी / Melvil Dewey",
+    "C": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "D": "मार्गरेट मान / Margaret Mann"
+   },
+   "answer": "A",
+   "explanation": "MARC प्रारूप का विकास कांग्रेस पुस्तकालय की हेनरीएट एवराम के नेतृत्व में हुआ था। उनके कार्य से ही ग्रंथसूची अभिलेखों का कंप्यूटरीकृत आदान-प्रदान संभव हुआ।"
+  },
+  {
+   "q": "MARC 21 में टैग 250 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 250 is used for:",
+   "options": {
+    "A": "शीर्षक कथन / Title statement",
+    "B": "भौतिक विवरण / Physical description",
+    "C": "संस्करण कथन / Edition statement",
+    "D": "विषय शीर्षक / Subject heading"
+   },
+   "answer": "C",
+   "explanation": "MARC 21 में टैग 250 संस्करण कथन (Edition Statement) के लिए है। 245 शीर्षक कथन और 300 भौतिक विवरण के लिए प्रयुक्त होता है।"
+  },
+  {
+   "q": "वर्गीकृत सूची संहिता (CCC) में मुख्य प्रविष्टि के 'अग्रणी अनुभाग' (Leading Section) में क्या लिखा जाता है? / In the Classified Catalogue Code (CCC), what is recorded in the 'Leading Section' of the main entry?",
+   "options": {
+    "A": "शीर्षक / Title",
+    "B": "आह्वान संख्या / Call number",
+    "C": "लेखक का नाम / Name of the author",
+    "D": "परिग्रहण संख्या / Accession number"
+   },
+   "answer": "B",
+   "explanation": "CCC की मुख्य प्रविष्टि का प्रथम भाग अग्रणी अनुभाग होता है, जिसमें पुस्तक की आह्वान संख्या (वर्ग संख्या व पुस्तक संख्या) लिखी जाती है।"
+  },
+  {
+   "q": "FRBR मॉडल का विकास किस संस्था द्वारा किया गया था? / The FRBR model was developed by which organisation?",
+   "options": {
+    "A": "कांग्रेस पुस्तकालय / Library of Congress",
+    "B": "ओसीएलसी / OCLC",
+    "C": "यूनेस्को / UNESCO",
+    "D": "इफ़्ला / IFLA"
+   },
+   "answer": "D",
+   "explanation": "FRBR (Functional Requirements for Bibliographic Records) मॉडल इफ़्ला (IFLA) के अध्ययन समूह द्वारा विकसित किया गया, जिसकी अंतिम रिपोर्ट 1998 में प्रकाशित हुई।"
+  },
+  {
+   "q": "IFLA का 'लाइब्रेरी रेफ़रेंस मॉडल' (LRM) किस वर्ष प्रकाशित हुआ? / In which year was IFLA's 'Library Reference Model' (LRM) published?",
+   "options": {
+    "A": "2017 / 2017",
+    "B": "2015 / 2015",
+    "C": "2016 / 2016",
+    "D": "2019 / 2019"
+   },
+   "answer": "A",
+   "explanation": "IFLA LRM वर्ष 2017 में प्रकाशित हुआ। इसने FRBR, FRAD और FRSAD तीनों मॉडलों को एकीकृत करके एक ही मॉडल का रूप दिया।"
+  },
+  {
+   "q": "सूचीकरण में 'व्यक्तिकरण का सिद्धांत' (Canon of Individualisation) किससे संबंधित है? / In cataloguing, the 'Canon of Individualisation' is related to:",
+   "options": {
+    "A": "शीर्षक को यथासंभव छोटा रखना / Keeping the heading as short as possible",
+    "B": "प्रविष्टियों को वर्णक्रम में लगाना / Arranging entries alphabetically",
+    "C": "किसी सत्ता के नाम को इतना विशिष्ट बनाना कि वह अन्य समान नामों से अलग पहचानी जा सके / Making the name of an entity specific enough to distinguish it from other similar names",
+    "D": "मुख्य प्रविष्टि का चयन करना / Choosing the main entry"
+   },
+   "answer": "C",
+   "explanation": "व्यक्तिकरण का सिद्धांत रंगनाथन का सूचीकरण सिद्धांत है। इसके अनुसार किसी व्यक्ति, संस्था या स्थान के नाम में इतने विशिष्ट तत्व जोड़े जाएँ कि वह उसी नाम की अन्य सत्ताओं से स्पष्ट अलग पहचाना जा सके।"
+  },
+  {
+   "q": "MARC 21 में टैग 110 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 110 is used for:",
+   "options": {
+    "A": "मुख्य प्रविष्टि — व्यक्तिगत नाम / Main entry — personal name",
+    "B": "मुख्य प्रविष्टि — निगमित नाम / Main entry — corporate name",
+    "C": "शीर्षक प्रविष्टि / Title entry",
+    "D": "एकरूप शीर्षक / Uniform title"
+   },
+   "answer": "B",
+   "explanation": "MARC 21 में टैग 110 मुख्य प्रविष्टि के निगमित नाम (Corporate Name) के लिए है, जबकि 100 व्यक्तिगत नाम के लिए प्रयुक्त होता है।"
+  },
+  {
+   "q": "डबलिन कोर मेटाडेटा तत्व समुच्चय का रखरखाव किस संस्था द्वारा किया जाता है? / The Dublin Core metadata element set is maintained by which body?",
+   "options": {
+    "A": "इफ़्ला / IFLA",
+    "B": "डब्ल्यू3सी / W3C",
+    "C": "आईएसओ / ISO",
+    "D": "डबलिन कोर मेटाडेटा इनिशिएटिव (DCMI) / Dublin Core Metadata Initiative (DCMI)"
+   },
+   "answer": "D",
+   "explanation": "डबलिन कोर के 15 तत्वों के समुच्चय का रखरखाव डबलिन कोर मेटाडेटा इनिशिएटिव (DCMI) द्वारा किया जाता है। इसका नाम अमेरिका के डबलिन (ओहियो) शहर से जुड़ा है।"
+  },
+  {
+   "q": "'प्रसव-पूर्व सूचीकरण' (Pre-natal Cataloguing) की अवधारणा किसने दी थी? / Who gave the concept of 'Pre-natal Cataloguing'?",
+   "options": {
+    "A": "डॉ. एस. आर. रंगनाथन / Dr. S. R. Ranganathan",
+    "B": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+    "C": "मेल्विल डेवी / Melvil Dewey",
+    "D": "एंथनी पनिज़्ज़ी / Anthony Panizzi"
+   },
+   "answer": "A",
+   "explanation": "प्रसव-पूर्व सूचीकरण की अवधारणा डॉ. रंगनाथन ने दी थी, जिसमें पुस्तक के प्रकाशन से पूर्व ही राष्ट्रीय पुस्तकालय द्वारा सूचीकरण करके सूची-पत्र मुद्रित करने का प्रस्ताव था। यह आधुनिक CIP का पूर्वरूप माना जाता है।"
+  },
+  {
+   "q": "ISBD में 'श्रृंखला कथन' (Series Statement) किस क्षेत्र (Area) में दिया जाता है? / In ISBD, the 'Series Statement' is given in which area?",
+   "options": {
+    "A": "क्षेत्र 4 / Area 4",
+    "B": "क्षेत्र 5 / Area 5",
+    "C": "क्षेत्र 6 / Area 6",
+    "D": "क्षेत्र 7 / Area 7"
+   },
+   "answer": "C",
+   "explanation": "ISBD में श्रृंखला कथन क्षेत्र 6 में दिया जाता है। क्षेत्र 4 प्रकाशन क्षेत्र, क्षेत्र 5 भौतिक विवरण और क्षेत्र 7 टिप्पणी क्षेत्र है।"
+  },
+  {
+   "q": "एनसाइक्लोपीडिया ब्रिटैनिका का 15वाँ संस्करण कितने भागों में विभाजित है? / The 15th edition of the Encyclopaedia Britannica is divided into how many parts?",
+   "options": {
+    "A": "दो भाग / Two parts",
+    "B": "तीन भाग / Three parts",
+    "C": "चार भाग / Four parts",
+    "D": "पाँच भाग / Five parts"
+   },
+   "answer": "B",
+   "explanation": "ब्रिटैनिका का 15वाँ संस्करण तीन भागों — प्रोपैडिया, माइक्रोपैडिया और मैक्रोपैडिया — में विभाजित है, इसलिए इसे 'Britannica 3' भी कहा जाता है।"
+  },
+  {
+   "q": "'लिम्का बुक ऑफ़ रिकॉर्ड्स' का पहला संस्करण किस वर्ष प्रकाशित हुआ? / In which year was the first edition of the 'Limca Book of Records' published?",
+   "options": {
+    "A": "1985 / 1985",
+    "B": "1995 / 1995",
+    "C": "2000 / 2000",
+    "D": "1990 / 1990"
+   },
+   "answer": "D",
+   "explanation": "लिम्का बुक ऑफ़ रिकॉर्ड्स का पहला संस्करण 1990 में प्रकाशित हुआ था। यह भारतीय उपलब्धियों और कीर्तिमानों का वार्षिक अभिलेख है।"
+  },
+  {
+   "q": "'बायोलॉजिकल एब्स्ट्रैक्ट्स' सारकरण सेवा किस संस्था द्वारा प्रकाशित की जाती है? / The 'Biological Abstracts' abstracting service is published by:",
+   "options": {
+    "A": "बायोसिस / BIOSIS",
+    "B": "अमेरिकन केमिकल सोसायटी / American Chemical Society",
+    "C": "एल्सेवियर / Elsevier",
+    "D": "अमेरिकन लाइब्रेरी एसोसिएशन / American Library Association"
+   },
+   "answer": "A",
+   "explanation": "बायोलॉजिकल एब्स्ट्रैक्ट्स का प्रकाशन बायोसिस (BIOSIS) द्वारा किया जाता है, जो जीव विज्ञान क्षेत्र की प्रमुख सारकरण सेवा है।"
+  },
+  {
+   "q": "'पबमेड' (PubMed) डेटाबेस का संचालन किस संस्था द्वारा किया जाता है? / The 'PubMed' database is maintained by which organisation?",
+   "options": {
+    "A": "विश्व स्वास्थ्य संगठन / World Health Organization",
+    "B": "अमेरिकन मेडिकल एसोसिएशन / American Medical Association",
+    "C": "राष्ट्रीय जैवप्रौद्योगिकी सूचना केंद्र (NCBI) / National Center for Biotechnology Information (NCBI)",
+    "D": "ब्रिटिश लाइब्रेरी / British Library"
+   },
+   "answer": "C",
+   "explanation": "पबमेड का संचालन अमेरिका के राष्ट्रीय जैवप्रौद्योगिकी सूचना केंद्र (NCBI) द्वारा किया जाता है, जो नेशनल लाइब्रेरी ऑफ़ मेडिसिन का एक भाग है।"
+  },
+  {
+   "q": "'वेब ऑफ़ साइंस' (Web of Science) किस कंपनी का उत्पाद है? / 'Web of Science' is a product of which company?",
+   "options": {
+    "A": "एल्सेवियर / Elsevier",
+    "B": "क्लैरिवेट / Clarivate",
+    "C": "स्प्रिंगर / Springer",
+    "D": "एब्स्को / EBSCO"
+   },
+   "answer": "B",
+   "explanation": "वेब ऑफ़ साइंस क्लैरिवेट का उद्धरण डेटाबेस है। इससे पहले यह ISI और थॉमसन रॉयटर्स के स्वामित्व में था।"
+  },
+  {
+   "q": "डॉ. रंगनाथन के अनुसार संदर्भ सेवा का सार क्या है? / According to Dr. Ranganathan, what is the essence of Reference Service?",
+   "options": {
+    "A": "पुस्तकों को अलमारियों में व्यवस्थित करना / Arranging books on shelves",
+    "B": "पुस्तकों की सूची तैयार करना / Preparing a catalogue of books",
+    "C": "पाठकों को पुस्तकें उधार देना / Lending books to readers",
+    "D": "प्रत्येक पाठक और उसकी पुस्तक के बीच सही संपर्क स्थापित करना / Establishing the right contact between every reader and his book"
+   },
+   "answer": "D",
+   "explanation": "डॉ. रंगनाथन के अनुसार संदर्भ सेवा वह व्यक्तिगत सेवा है जिसके द्वारा प्रत्येक पाठक और उसकी अभीष्ट पुस्तक के बीच सही संपर्क स्थापित किया जाता है।"
+  },
+  {
+   "q": "सूचना साक्षरता का 'बिग6' (Big6) मॉडल किसने विकसित किया? / Who developed the 'Big6' model of information literacy?",
+   "options": {
+    "A": "आइज़ेनबर्ग एवं बर्कोविट्ज़ / Eisenberg and Berkowitz",
+    "B": "कैरोल कुहल्थाउ / Carol Kuhlthau",
+    "C": "ब्रेंडा डर्विन / Brenda Dervin",
+    "D": "टी. डी. विल्सन / T. D. Wilson"
+   },
+   "answer": "A",
+   "explanation": "बिग6 मॉडल माइक आइज़ेनबर्ग और बॉब बर्कोविट्ज़ द्वारा विकसित सूचना समस्या-समाधान मॉडल है, जिसमें कार्य परिभाषा से लेकर मूल्यांकन तक छह चरण होते हैं।"
+  },
+  {
+   "q": "भारत में वैज्ञानिक दस्तावेज़ों की अनुवाद सेवा प्रमुख रूप से किस संस्था द्वारा दी जाती थी? / In India, the translation service for scientific documents was mainly provided by which institution?",
+   "options": {
+    "A": "नैस्डॉक / NASSDOC",
+    "B": "डेसीडॉक / DESIDOC",
+    "C": "इन्सडॉक / INSDOC",
+    "D": "डीआरटीसी / DRTC"
+   },
+   "answer": "C",
+   "explanation": "इन्सडॉक (INSDOC) विदेशी भाषाओं, विशेषकर रूसी, जर्मन व फ़्रांसीसी वैज्ञानिक साहित्य की अनुवाद सेवा प्रमुख रूप से प्रदान करता था।"
+  },
+  {
+   "q": "'भारतीय साहित्य की राष्ट्रीय ग्रंथसूची' (National Bibliography of Indian Literature) का प्रकाशन किस संस्था द्वारा किया गया? / The 'National Bibliography of Indian Literature' was published by which institution?",
+   "options": {
+    "A": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata",
+    "B": "साहित्य अकादेमी / Sahitya Akademi",
+    "C": "नेशनल बुक ट्रस्ट / National Book Trust",
+    "D": "प्रकाशन विभाग / Publications Division"
+   },
+   "answer": "B",
+   "explanation": "भारतीय साहित्य की राष्ट्रीय ग्रंथसूची का प्रकाशन साहित्य अकादेमी द्वारा किया गया, जिसमें 1901 से 1953 तक की प्रमुख भारतीय भाषाओं की कृतियाँ संकलित हैं।"
+  },
+  {
+   "q": "'बूलियन तर्क' (Boolean Logic) का नाम किस गणितज्ञ के नाम पर पड़ा है? / 'Boolean Logic' is named after which mathematician?",
+   "options": {
+    "A": "जॉर्ज बूल / George Boole",
+    "B": "चार्ल्स बैबेज / Charles Babbage",
+    "C": "एलन ट्यूरिंग / Alan Turing",
+    "D": "जॉन वॉन न्यूमैन / John von Neumann"
+   },
+   "answer": "A",
+   "explanation": "बूलियन तर्क का नाम अंग्रेज़ गणितज्ञ जॉर्ज बूल के नाम पर पड़ा है। सूचना खोज में प्रयुक्त AND, OR और NOT संचालक इसी तर्क पर आधारित हैं।"
+  },
+  {
+   "q": "अधिकांश खोज प्रणालियों में 'ट्रंकेशन' (शब्द-कर्तन) के लिए सामान्यतः किस प्रतीक का प्रयोग होता है? / In most search systems, which symbol is commonly used for 'Truncation'?",
+   "options": {
+    "A": "हैश (#) / Hash (#)",
+    "B": "प्रश्न चिह्न (?) / Question mark (?)",
+    "C": "डॉलर ($) / Dollar sign ($)",
+    "D": "तारांकन चिह्न (*) / Asterisk (*)"
+   },
+   "answer": "D",
+   "explanation": "ट्रंकेशन में शब्द के मूल रूप के आगे तारांकन (*) लगाने से उसी मूल से बने सभी रूप खोजे जा सकते हैं, जैसे Librar* से Library, Libraries और Librarian सभी मिलते हैं।"
+  },
+  {
+   "q": "DOAJ का पूर्ण रूप क्या है? / What is the full form of DOAJ?",
+   "options": {
+    "A": "डेटाबेस ऑफ़ एकेडमिक जर्नल्स / Database of Academic Journals",
+    "B": "डायरेक्टरी ऑफ़ ओपन एक्सेस जर्नल्स / Directory of Open Access Journals",
+    "C": "डायरेक्टरी ऑफ़ ऑनलाइन आर्काइव्स एंड जर्नल्स / Directory of Online Archives and Journals",
+    "D": "डिजिटल ओपन एक्सेस जर्नल्स / Digital Open Access Journals"
+   },
+   "answer": "B",
+   "explanation": "DOAJ (Directory of Open Access Journals) मुक्त अभिगम वाली गुणवत्तापूर्ण पत्रिकाओं की निर्देशिका है, जिसकी शुरुआत 2003 में लुंड विश्वविद्यालय, स्वीडन से हुई थी।"
+  },
+  {
+   "q": "'IRINS' शोध सूचना प्रबंधन प्रणाली किस संस्था द्वारा विकसित की गई है? / The 'IRINS' research information management system has been developed by which institution?",
+   "options": {
+    "A": "यूजीसी / UGC",
+    "B": "सीएसआईआर / CSIR",
+    "C": "इन्फ़्लिबनेट केंद्र / INFLIBNET Centre",
+    "D": "एआईसीटीई / AICTE"
+   },
+   "answer": "C",
+   "explanation": "IRINS (Indian Research Information Network System) इन्फ़्लिबनेट केंद्र द्वारा विकसित वेब-आधारित शोध सूचना प्रबंधन सेवा है, जो संस्थानों के शोधकर्ताओं की प्रोफ़ाइल तैयार करती है।"
+  },
+  {
+   "q": "भारत के MOOC मंच 'स्वयं' (SWAYAM) का शुभारंभ किस वर्ष हुआ? / In which year was India's MOOC platform 'SWAYAM' launched?",
+   "options": {
+    "A": "2017 / 2017",
+    "B": "2015 / 2015",
+    "C": "2016 / 2016",
+    "D": "2018 / 2018"
+   },
+   "answer": "A",
+   "explanation": "स्वयं (SWAYAM) मंच का शुभारंभ 9 जुलाई 2017 को हुआ। यह भारत सरकार का मुक्त ऑनलाइन पाठ्यक्रम (MOOC) मंच है।"
+  },
+  {
+   "q": "विश्व का प्रथम उद्धरण अनुक्रमणिका (Citation Index) किसे माना जाता है? / Which is regarded as the first citation index in the world?",
+   "options": {
+    "A": "साइंस साइटेशन इंडेक्स / Science Citation Index",
+    "B": "शेपर्ड्स साइटेशन्स / Shepard's Citations",
+    "C": "इंडेक्स मेडिकस / Index Medicus",
+    "D": "केमिकल एब्स्ट्रैक्ट्स / Chemical Abstracts"
+   },
+   "answer": "B",
+   "explanation": "विधि क्षेत्र की 'शेपर्ड्स साइटेशन्स' (1873) को विश्व की प्रथम उद्धरण अनुक्रमणिका माना जाता है। यूजीन गारफ़ील्ड ने इसी से प्रेरित होकर साइंस साइटेशन इंडेक्स बनाया।"
+  },
+  {
+   "q": "ब्रैडफ़ोर्ड के प्रकीर्णन नियम में पत्रिकाओं के क्षेत्रों का अनुपात क्या होता है? / In Bradford's Law of Scattering, what is the ratio of journals in the successive zones?",
+   "options": {
+    "A": "1 : 2 : 3 / 1 : 2 : 3",
+    "B": "n : n² : n³ / n : n² : n³",
+    "C": "1 : 1 : 2 / 1 : 1 : 2",
+    "D": "1 : n : n² / 1 : n : n²"
+   },
+   "answer": "D",
+   "explanation": "ब्रैडफ़ोर्ड नियम के अनुसार किसी विषय की पत्रिकाओं को तीन क्षेत्रों में बाँटने पर प्रत्येक क्षेत्र में लेखों की संख्या लगभग समान रहती है, जबकि पत्रिकाओं की संख्या का अनुपात 1 : n : n² होता है।"
+  },
+  {
+   "q": "मुक्त अभिगम पर 'बर्लिन घोषणा' (Berlin Declaration) किस वर्ष जारी हुई? / In which year was the 'Berlin Declaration' on Open Access issued?",
+   "options": {
+    "A": "2001 / 2001",
+    "B": "2002 / 2002",
+    "C": "2003 / 2003",
+    "D": "2005 / 2005"
+   },
+   "answer": "C",
+   "explanation": "मुक्त अभिगम पर बर्लिन घोषणा अक्टूबर 2003 में जारी हुई। इससे पूर्व 2002 में बुडापेस्ट पहल और 2003 में बेथेस्डा कथन आ चुके थे।"
+  },
+  {
+   "q": "PERT तकनीक मूलतः किस परियोजना के लिए विकसित की गई थी? / The PERT technique was originally developed for which project?",
+   "options": {
+    "A": "अमेरिकी नौसेना का पोलारिस मिसाइल कार्यक्रम / US Navy's Polaris missile programme",
+    "B": "ड्यूपॉन्ट कंपनी / DuPont Company",
+    "C": "नासा का अपोलो कार्यक्रम / NASA's Apollo programme",
+    "D": "मोटोरोला कंपनी / Motorola Company"
+   },
+   "answer": "A",
+   "explanation": "PERT तकनीक 1958 में अमेरिकी नौसेना के पोलारिस मिसाइल कार्यक्रम के लिए विकसित की गई थी, जबकि CPM तकनीक ड्यूपॉन्ट कंपनी से जुड़ी है।"
+  },
+  {
+   "q": "पुस्तक संरक्षण की 'लैमिनेशन' प्रक्रिया के विकास का श्रेय किसे दिया जाता है? / Who is credited with developing the 'Lamination' process of document preservation?",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "विलियम मॉरिस / William Morris",
+    "C": "पॉल ओटलेट / Paul Otlet",
+    "D": "डब्ल्यू. जे. बैरो / W. J. Barrow"
+   },
+   "answer": "D",
+   "explanation": "लैमिनेशन प्रक्रिया का विकास अमेरिकी संरक्षण विशेषज्ञ विलियम जे. बैरो ने किया था, जिसमें क्षतिग्रस्त पृष्ठ को सेल्यूलोज़ एसीटेट फ़िल्म से मज़बूती प्रदान की जाती है।"
+  }
+ ],
+ "subject": "BLIS"
+}

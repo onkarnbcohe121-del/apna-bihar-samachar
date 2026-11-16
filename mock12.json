@@ -1,0 +1,556 @@
+{
+ "mock_no": 12,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "रंगनाथन से पूर्व के युग में पुस्तकों को मुख्यतः संरक्षण की वस्तु माना जाता था और उन्हें जंजीरों से बाँधकर रखा जाता था। प्रथम नियम ने इस दृष्टिकोण को बदलकर 'पुस्तकें उपयोग के लिए हैं' का सिद्धांत स्थापित किया।",
+   "options": {
+    "A": "उपयोग के लिए / For use",
+    "B": "संरक्षण के लिए / For preservation",
+    "C": "प्रदर्शन के लिए / For display",
+    "D": "विक्रय के लिए / For sale"
+   },
+   "q": "रंगनाथन के प्रथम नियम से पूर्व पुस्तकों को मुख्यतः किस उद्देश्य की वस्तु माना जाता था? / Before Ranganathan's First Law, books were mainly regarded as meant for what?"
+  },
+  {
+   "answer": "A",
+   "explanation": "द्वितीय नियम 'प्रत्येक पाठक को उसकी पुस्तक' का वैकल्पिक कथन 'सबके लिए पुस्तकें' है। इसका अर्थ है कि पुस्तकालय सेवा समाज के प्रत्येक वर्ग तक बिना किसी भेदभाव के पहुँचनी चाहिए।",
+   "options": {
+    "A": "द्वितीय नियम / Second Law",
+    "B": "प्रथम नियम / First Law",
+    "C": "चतुर्थ नियम / Fourth Law",
+    "D": "पंचम नियम / Fifth Law"
+   },
+   "q": "'सबके लिए पुस्तकें' (Books for All) किस नियम का वैकल्पिक कथन है? / 'Books for All' is the alternative enunciation of which Law?"
+  },
+  {
+   "answer": "C",
+   "explanation": "प्रथम नियम के अनुसार पुस्तकालय ऐसे केंद्रीय व सुविधाजनक स्थान पर होना चाहिए जहाँ पाठक आसानी से पहुँच सकें, क्योंकि सुविधाजनक स्थान ही पुस्तकों के अधिकाधिक उपयोग को प्रोत्साहित करता है।",
+   "options": {
+    "A": "नगर के बाहरी भाग में / On the outskirts of the town",
+    "B": "प्रशासनिक कार्यालयों के समीप / Near administrative offices",
+    "C": "पाठकों की आसान पहुँच वाला केंद्रीय स्थान / A central place easily accessible to readers",
+    "D": "शांत पहाड़ी क्षेत्र में / In a quiet hilly area"
+   },
+   "q": "प्रथम नियम के अनुसार पुस्तकालय भवन का स्थान कैसा होना चाहिए? / According to the First Law, where should the library building be located?"
+  },
+  {
+   "answer": "D",
+   "explanation": "द्वितीय नियम राज्य पर पुस्तकालय विधान व वित्त की, प्राधिकरण पर उचित ग्रंथ चयन की तथा कर्मचारियों पर सेवा की ज़िम्मेदारी डालता है, ताकि प्रत्येक पाठक को उसकी रुचि की पुस्तक मिल सके।",
+   "options": {
+    "A": "केवल प्रकाशकों पर / Only on publishers",
+    "B": "केवल पाठकों पर / Only on readers",
+    "C": "केवल मुद्रकों पर / Only on printers",
+    "D": "राज्य, पुस्तकालय प्राधिकरण एवं कर्मचारियों पर / On the State, library authority and staff"
+   },
+   "q": "द्वितीय नियम के अनुसार प्रत्येक पाठक को उसकी पुस्तक उपलब्ध कराने का मुख्य दायित्व किस पर आता है? / According to the Second Law, the main obligation to provide every reader his book rests on whom?"
+  },
+  {
+   "answer": "B",
+   "explanation": "मुक्त अभिगम में पाठक स्वयं स्टैक तक जाकर पुस्तकें देख व चुन सकता है, जिससे प्रत्येक पुस्तक को उसका पाठक मिलने की संभावना बढ़ जाती है। यही तृतीय नियम की पूर्ति का प्रमुख साधन है।",
+   "options": {
+    "A": "बंद अभिगम प्रणाली / Closed access system",
+    "B": "मुक्त अभिगम प्रणाली / Open access system",
+    "C": "अर्ध-बंद प्रणाली / Semi-closed system",
+    "D": "केवल संदर्भ अभिगम / Reference-only access"
+   },
+   "q": "तृतीय नियम 'प्रत्येक पुस्तक को उसका पाठक' की पूर्ति हेतु रंगनाथन ने किस प्रणाली को सर्वाधिक महत्व दिया? / For fulfilling the Third Law, which system did Ranganathan emphasise the most?"
+  },
+  {
+   "answer": "A",
+   "explanation": "चतुर्थ नियम के अनुसार सूची ऐसी कुशल होनी चाहिए कि पाठक बिना समय गँवाए अपनी पुस्तक तक पहुँच सके। इसके साथ ही त्वरित निर्गम प्रणाली व संदर्भ सेवा भी पाठक का समय बचाती है।",
+   "options": {
+    "A": "सरल, कुशल एवं बहुमुखी पहुँच वाली / Simple, efficient and with multiple approaches",
+    "B": "केवल हस्तलिखित / Only handwritten",
+    "C": "केवल वार्षिक मुद्रित / Printed only annually",
+    "D": "केवल वर्गीकृत / Only classified"
+   },
+   "q": "चतुर्थ नियम 'पाठक का समय बचाओ' के अनुसार पुस्तकालय सूची (Catalogue) कैसी होनी चाहिए? / According to the Fourth Law, how should the library catalogue be?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पंचम नियम के अनुसार बढ़ते हुए संगठन के रूप में पुस्तकालय के तीनों घटक — पुस्तक संग्रह, पाठक संख्या और कर्मचारी वर्ग — निरंतर वृद्धि करते हैं, इसलिए भवन व व्यवस्था की योजना इसी को ध्यान में रखकर बनानी चाहिए।",
+   "options": {
+    "A": "भवन, फ़र्नीचर व उपकरण / Building, furniture and equipment",
+    "B": "बजट, नियम व समिति / Budget, rules and committee",
+    "C": "पुस्तकें, पाठक एवं कर्मचारी / Books, readers and staff",
+    "D": "सूची, वर्गीकरण व संदर्भ / Catalogue, classification and reference"
+   },
+   "q": "पंचम नियम के अनुसार पुस्तकालय की वृद्धि किन तीन घटकों में होती है? / According to the Fifth Law, growth of a library takes place in which three components?"
+  },
+  {
+   "answer": "D",
+   "explanation": "प्रथम नियम के अनुसार केवल पुस्तकें उपलब्ध कराना पर्याप्त नहीं है; कर्मचारियों का सहायक व सेवाभावी दृष्टिकोण ही पाठकों को पुस्तकों के उपयोग हेतु प्रेरित करता है।",
+   "options": {
+    "A": "द्वितीय नियम / Second Law",
+    "B": "तृतीय नियम / Third Law",
+    "C": "पंचम नियम / Fifth Law",
+    "D": "प्रथम नियम / First Law"
+   },
+   "q": "पुस्तकालय कर्मचारियों का पाठकों के प्रति विनम्र व सहायक दृष्टिकोण मुख्यतः किस नियम की माँग है? / A courteous and helpful attitude of library staff towards readers is mainly demanded by which Law?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कटर ने अपनी पुस्तक 'रूल्स फ़ॉर अ डिक्शनरी कैटलॉग' में सूची के उद्देश्य निर्धारित किए — पाठक किसी पुस्तक को लेखक, शीर्षक या विषय से खोज सके तथा यह जान सके कि पुस्तकालय में किसी लेखक या विषय की कौन-सी पुस्तकें उपलब्ध हैं।",
+   "options": {
+    "A": "चार्ल्स अमी कटर / Charles Ammi Cutter",
+    "B": "मेल्विल डेवी / Melvil Dewey",
+    "C": "एंथनी पैनिज़ी / Anthony Panizzi",
+    "D": "सीमोर लुबेट्ज़की / Seymour Lubetzky"
+   },
+   "q": "सूची के प्रसिद्ध 'उद्देश्य' (Objects of the Catalogue) सर्वप्रथम किसने प्रतिपादित किए थे? / Who first formulated the famous 'Objects of the Catalogue'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "ब्राउन निर्गम प्रणाली का विकास नीना ई. ब्राउन ने किया था। इसमें प्रत्येक पाठक को दिए गए पॉकेटों में पुस्तक-पत्रक रखकर निर्गम का अभिलेख रखा जाता है।",
+   "options": {
+    "A": "मार्गरेट मान / Margaret Mann",
+    "B": "वर्जीनिया स्टिलवेल / Virginia Stilwell",
+    "C": "नीना ई. ब्राउन / Nina E. Browne",
+    "D": "हेलेन ई. हेन्स / Helen E. Haines"
+   },
+   "q": "ब्राउन निर्गम प्रणाली (Browne Charging System) की प्रवर्तक कौन थीं? / Who devised the Browne Charging System?"
+  },
+  {
+   "answer": "B",
+   "explanation": "नेवार्क प्रणाली का विकास नेवार्क पब्लिक लाइब्रेरी के पुस्तकालयाध्यक्ष जॉन कॉटन डाना के निर्देशन में हुआ। इसमें पुस्तक-पत्रक, तिथि-पर्ची तथा पाठक-पत्रक का प्रयोग होता है।",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "जॉन कॉटन डाना / John Cotton Dana",
+    "C": "चार्ल्स अमी कटर / Charles Ammi Cutter",
+    "D": "विलियम ए. बोर्डेन / William A. Borden"
+   },
+   "q": "नेवार्क निर्गम प्रणाली का विकास अमेरिका के नेवार्क पब्लिक लाइब्रेरी में किसके निर्देशन में हुआ था? / Under whose direction was the Newark Charging System developed at the Newark Public Library, USA?"
+  },
+  {
+   "answer": "D",
+   "explanation": "अमेरिकी वैज्ञानिक वनवर बुश ने 1945 में 'मेमेक्स' नामक ऐसे यंत्र की कल्पना की जिसमें सूचना संग्रहीत कर उसे साहचर्य संबंधों द्वारा खोजा जा सके। इसे आधुनिक हाइपरटेक्स्ट व सूचना पुनःप्राप्ति का पूर्वगामी माना जाता है।",
+   "options": {
+    "A": "टिम बर्नर्स-ली / Tim Berners-Lee",
+    "B": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "C": "हंस पीटर लुह्न / Hans Peter Luhn",
+    "D": "वनवर बुश / Vannevar Bush"
+   },
+   "q": "'मेमेक्स' (Memex) नामक यंत्र की अवधारणा अपने प्रसिद्ध लेख 'As We May Think' (1945) में किसने प्रस्तुत की थी? / Who presented the concept of the 'Memex' device in his famous article 'As We May Think' (1945)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "फ़्रीमॉन्ट राइडर ने अपनी पुस्तक 'द स्कॉलर एंड द फ़्यूचर ऑफ़ द रिसर्च लाइब्रेरी' (1944) में बताया कि अमेरिकी अनुसंधान पुस्तकालयों का संग्रह औसतन प्रत्येक 16 वर्षों में दोगुना हो जाता है, जिससे स्थान की समस्या गंभीर हो जाती है।",
+   "options": {
+    "A": "फ़्रीमॉन्ट राइडर / Fremont Rider",
+    "B": "डेरेक डे सोल्ला प्राइस / Derek de Solla Price",
+    "C": "एस. सी. ब्रैडफ़ोर्ड / S. C. Bradford",
+    "D": "बी. सी. विकरी / B. C. Vickery"
+   },
+   "q": "अनुसंधान पुस्तकालयों का संग्रह लगभग प्रत्येक 16 वर्षों में दोगुना हो जाता है — यह निष्कर्ष किसके अध्ययन पर आधारित है? / The conclusion that research library collections double about every 16 years is based on whose study?"
+  },
+  {
+   "answer": "C",
+   "explanation": "रंगनाथन 1924 में मद्रास विश्वविद्यालय के पुस्तकालयाध्यक्ष नियुक्त हुए। इसी पद पर रहते हुए उन्होंने वर्गीकरण व सूचीकरण के क्षेत्र में मौलिक कार्य किया और पाँच नियमों का प्रतिपादन किया।",
+   "options": {
+    "A": "1920 / 1920",
+    "B": "1931 / 1931",
+    "C": "1924 / 1924",
+    "D": "1945 / 1945"
+   },
+   "q": "डॉ. एस. आर. रंगनाथन को मद्रास विश्वविद्यालय का पुस्तकालयाध्यक्ष किस वर्ष नियुक्त किया गया था? / In which year was Dr. S. R. Ranganathan appointed Librarian of the University of Madras?"
+  },
+  {
+   "answer": "B",
+   "explanation": "द्वितीय नियम 'प्रत्येक पाठक को उसकी पुस्तक' के अनुसार ग्रंथ चयन पाठकों की रुचियों व आवश्यकताओं को ध्यान में रखकर करना होता है, इसलिए पुस्तक चयन नीति का प्रत्यक्ष आधार यही नियम है।",
+   "options": {
+    "A": "प्रथम नियम / First Law",
+    "B": "द्वितीय नियम / Second Law",
+    "C": "चतुर्थ नियम / Fourth Law",
+    "D": "पंचम नियम / Fifth Law"
+   },
+   "q": "पुस्तक चयन की प्रक्रिया सर्वाधिक प्रत्यक्ष रूप से पुस्तकालय विज्ञान के किस नियम से जुड़ी है? / The process of book selection is most directly related to which Law of Library Science?"
+  },
+  {
+   "answer": "D",
+   "explanation": "अनुमोदन पद्धति में विक्रेता नवीन प्रकाशन चयन समिति के समक्ष भेजता है। पुस्तकालय केवल उपयुक्त पुस्तकें रखता है और शेष वापस कर देता है, जिससे नवीन प्रकाशनों की प्रत्यक्ष जाँच संभव होती है।",
+   "options": {
+    "A": "पुस्तकें केवल दान में लेना / Taking books only as gifts",
+    "B": "पुस्तकें उधार लेना / Borrowing books",
+    "C": "पुस्तकें बिना बिल के लेना / Taking books without an invoice",
+    "D": "विक्रेता चयन हेतु पुस्तकें भेजता है और अनुपयुक्त पुस्तकें वापस की जा सकती हैं / The vendor sends books for selection and unsuitable ones can be returned"
+   },
+   "q": "'अनुमोदन आधार' (On Approval) पर पुस्तकें प्राप्त करने का अर्थ है— / Obtaining books 'On Approval' means—"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्थायी आदेश के अंतर्गत किसी शृंखला या बहुखंडीय कृति के आगामी खंड प्रकाशित होते ही विक्रेता द्वारा स्वतः भेज दिए जाते हैं, जिससे संग्रह में निरंतरता बनी रहती है और बार-बार आदेश देने की आवश्यकता नहीं पड़ती।",
+   "options": {
+    "A": "ग्रंथ-शृंखलाओं व बहुखंडीय कृतियों के आगामी खंडों हेतु / For forthcoming volumes of series and multi-volume works",
+    "B": "केवल समाचार-पत्रों हेतु / Only for newspapers",
+    "C": "केवल दुर्लभ पुस्तकों हेतु / Only for rare books",
+    "D": "केवल उपहार पुस्तकों हेतु / Only for gift books"
+   },
+   "q": "'स्थायी आदेश' (Standing Order) मुख्यतः किन प्रकाशनों हेतु दिया जाता है? / A 'Standing Order' is mainly placed for which publications?"
+  },
+  {
+   "answer": "C",
+   "explanation": "सुझाव पंजी में पाठक अपने लिए आवश्यक पुस्तकों के नाम लिखते हैं। ये सुझाव पाठकों की माँग का संकेत देते हैं और ग्रंथ चयन समिति के लिए उपयोगी आधार बनते हैं।",
+   "options": {
+    "A": "परिग्रहण पंजी / Accession Register",
+    "B": "निर्गम पंजी / Issue Register",
+    "C": "सुझाव पंजी / Suggestion Register",
+    "D": "उपस्थिति पंजी / Attendance Register"
+   },
+   "q": "पाठकों द्वारा सुझाई गई पुस्तकों का विवरण दर्ज करने हेतु पुस्तकालय में रखी जाने वाली पंजी क्या कहलाती है? / The register kept in a library to record books suggested by readers is called—"
+  },
+  {
+   "answer": "B",
+   "explanation": "प्रकाशकों की सूचियाँ, राष्ट्रीय ग्रंथसूचियाँ तथा पत्र-पत्रिकाओं में छपी ग्रंथ-समीक्षाएँ नवीन प्रकाशनों की जानकारी देती हैं, इसलिए ये ग्रंथ चयन के प्रमुख स्रोत माने जाते हैं।",
+   "options": {
+    "A": "पाठकों की उपस्थिति पंजी / Readers' attendance register",
+    "B": "प्रकाशकों की सूचियाँ एवं ग्रंथ-समीक्षाएँ / Publishers' catalogues and book reviews",
+    "C": "कर्मचारियों की वेतन पंजी / Staff salary register",
+    "D": "पुस्तकालय भवन का नक्शा / Library building plan"
+   },
+   "q": "निम्न में से कौन-सा ग्रंथ चयन का प्रमुख स्रोत (Selection Source) है? / Which of the following is a major source of book selection?"
+  },
+  {
+   "answer": "C",
+   "explanation": "परिग्रहण पंजी में पुस्तकालय में आई प्रत्येक पुस्तक का क्रमिक अभिलेख रहता है, इसलिए यह संग्रह का आधिकारिक व स्थायी अभिलेख माना जाता है और स्टॉक सत्यापन का आधार बनता है।",
+   "options": {
+    "A": "दैनिक डायरी / Daily diary",
+    "B": "अस्थायी अभिलेख / Temporary record",
+    "C": "आधिकारिक एवं स्थायी स्टॉक अभिलेख / Official and permanent stock record",
+    "D": "पाठक सूची / Readers' list"
+   },
+   "q": "परिग्रहण पंजी को पुस्तकालय का क्या माना जाता है? / The Accession Register is regarded as what of the library?"
+  },
+  {
+   "answer": "A",
+   "explanation": "प्राप्त पुस्तकों का बिल से मिलान करने के पश्चात सर्वप्रथम उनका परिग्रहण किया जाता है, अर्थात प्रत्येक पुस्तक को परिग्रहण संख्या देकर पंजी में दर्ज किया जाता है। इसके बाद ही वर्गीकरण व सूचीकरण होता है।",
+   "options": {
+    "A": "परिग्रहण / Accessioning",
+    "B": "वर्गीकरण / Classification",
+    "C": "सूचीकरण / Cataloguing",
+    "D": "जिल्दबंदी / Binding"
+   },
+   "q": "पुस्तक प्राप्त होने के पश्चात तकनीकी प्रसंस्करण (Technical Processing) का प्रथम चरण कौन-सा है? / What is the first step of technical processing after books are received?"
+  },
+  {
+   "answer": "B",
+   "explanation": "परिग्रहण संख्या सामान्यतः मुखपृष्ठ के पीछे, तिथि-पर्ची तथा शेल्फ़ सूची पत्रक पर अंकित की जाती है। यह संख्या पुस्तक की स्थायी पहचान होती है।",
+   "options": {
+    "A": "पुस्तक के आवरण पर / On the cover",
+    "B": "मुखपृष्ठ के पृष्ठ भाग (पीछे) पर / On the verso of the title page",
+    "C": "अंतिम पृष्ठ पर / On the last page",
+    "D": "पुस्तक की पीठ (स्पाइन) पर / On the spine"
+   },
+   "q": "परिग्रहण संख्या पुस्तक में सामान्यतः कहाँ अंकित की जाती है? / Where is the accession number generally written in a book?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पुस्तकें प्राप्त होते ही उनकी आदेश-सूची व विक्रेता के बिल से जाँच की जाती है कि सही पुस्तकें, सही संस्करण व सही मूल्य पर आई हैं। मिलान के बाद ही परिग्रहण किया जाता है।",
+   "options": {
+    "A": "पाठकों की माँग-पत्रों से / With readers' demand slips",
+    "B": "शेल्फ़ सूची से / With the shelf list",
+    "C": "पुराने बजट से / With the old budget",
+    "D": "आदेश-सूची एवं बिल से / With the order list and invoice"
+   },
+   "q": "परिग्रहण से पूर्व प्राप्त पुस्तकों का मिलान किससे किया जाता है? / Before accessioning, the books received are checked against what?"
+  },
+  {
+   "answer": "C",
+   "explanation": "दान या उपहार में मिली पुस्तकों का भी परिग्रहण किया जाता है, परंतु मूल्य स्तंभ में मूल्य के स्थान पर 'उपहार' लिखकर दाता का नाम टिप्पणी में दिया जाता है, ताकि संग्रह का पूर्ण अभिलेख बना रहे।",
+   "options": {
+    "A": "शून्य / Zero",
+    "B": "बाज़ार मूल्य / Market price",
+    "C": "'उपहार' / 'Gift'",
+    "D": "स्तंभ खाली छोड़ा जाता है / The column is left blank"
+   },
+   "q": "उपहार स्वरूप प्राप्त पुस्तकों के लिए परिग्रहण पंजी के मूल्य (Price) स्तंभ में सामान्यतः क्या लिखा जाता है? / For books received as gifts, what is generally written in the price column of the Accession Register?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्टैक में पुस्तकें आह्वान संख्या के अनुसार वर्गीकृत क्रम में रखी जाती हैं, जिससे एक ही विषय की पुस्तकें एक साथ आ जाती हैं और पाठक व कर्मचारी दोनों को पुस्तक खोजने में सुविधा होती है।",
+   "options": {
+    "A": "आह्वान संख्या के वर्गीकृत क्रम में / In classified order of call number",
+    "B": "लेखकों के वर्णक्रम में / Alphabetically by author",
+    "C": "परिग्रहण संख्या के क्रम में / In accession number order",
+    "D": "पुस्तकों के आकार के क्रम में / In order of size"
+   },
+   "q": "स्टैक कक्ष में पुस्तकें शेल्फ़ों पर किस क्रम में व्यवस्थित की जाती हैं? / In what order are books arranged on the shelves in the stack room?"
+  },
+  {
+   "answer": "B",
+   "explanation": "बे गाइड स्टैक के प्रत्येक खंड पर लगाया जाता है, जिस पर उस खंड में रखी पुस्तकों की वर्ग संख्या व विषय लिखा होता है। इससे पाठक बिना समय गँवाए संबंधित विषय तक पहुँच जाता है।",
+   "options": {
+    "A": "तिथि-पर्ची / Date slip",
+    "B": "बे गाइड / Bay Guide",
+    "C": "पुस्तक-पॉकेट / Book pocket",
+    "D": "शेल्फ़ कार्ड / Shelf card"
+   },
+   "q": "स्टैक के प्रत्येक खंड (Bay) के शीर्ष पर विषय की जानकारी देने हेतु लगाया गया मार्गदर्शक पत्रक क्या कहलाता है? / The guide card placed at the top of each bay of the stack to indicate the subject is called—"
+  },
+  {
+   "answer": "D",
+   "explanation": "बड़े आकार की पुस्तकें खड़ी रखने से उनकी जिल्द व पीठ क्षतिग्रस्त होती है, इसलिए उन्हें सामान्यतः अलग खंड में क्षैतिज रूप से रखा जाता है।",
+   "options": {
+    "A": "अन्य पुस्तकों के बीच खड़ी करके / Standing among other books",
+    "B": "सूची कक्ष में रखकर / In the catalogue room",
+    "C": "भंडार में बंद करके / Locked in the store",
+    "D": "अलग खंड में क्षैतिज (लेटाकर) रखकर / Flat in a separate section"
+   },
+   "q": "सामान्य आकार से बड़ी (Oversize) पुस्तकें स्टैक में सामान्यतः कैसे रखी जाती हैं? / How are oversize books generally kept in the stack?"
+  },
+  {
+   "answer": "C",
+   "explanation": "त्रि-पत्रक प्रणाली में प्रत्येक पत्रिका हेतु तीन पत्रक बनते हैं — पंजीकरण पत्रक पर अंकों की प्राप्ति दर्ज होती है, जाँच पत्रक से अपेक्षित अंकों का अनुमान मिलता है तथा वर्गीकृत अनुक्रमणिका पत्रक से पत्रिका की विषय-जानकारी मिलती है।",
+   "options": {
+    "A": "लेखक, शीर्षक व विषय पत्रक / Author, title and subject cards",
+    "B": "पुस्तक पत्रक, पुस्तक पॉकेट व तिथि पत्रक / Book card, book pocket and date slip",
+    "C": "पंजीकरण पत्रक, जाँच पत्रक व वर्गीकृत अनुक्रमणिका पत्रक / Register card, check card and classified index card",
+    "D": "माँग पत्रक, आदेश पत्रक व बिल पत्रक / Demand, order and bill cards"
+   },
+   "q": "त्रि-पत्रक प्रणाली (Three Card System) में प्रयुक्त तीन पत्रक कौन-से हैं? / Which three cards are used in the Three Card System?"
+  },
+  {
+   "answer": "A",
+   "explanation": "जाँच पत्रक पर पत्रिका की आवृत्ति के अनुसार अपेक्षित प्राप्ति तिथियाँ पहले से अंकित रहती हैं। निश्चित तिथि तक अंक न आने पर उसी के आधार पर आपूर्तिकर्ता को दावा भेजा जाता है।",
+   "options": {
+    "A": "अपेक्षित अंक समय पर न आने पर स्मरण/दावा भेजने का संकेत देना / To indicate when a claim is to be sent for an overdue issue",
+    "B": "पत्रिका का मूल्य दर्ज करना / To record the price of the journal",
+    "C": "पाठकों की उपस्थिति लेना / To mark readers' attendance",
+    "D": "पत्रिका की जिल्दबंदी करना / To bind the journal"
+   },
+   "q": "त्रि-पत्रक प्रणाली में 'जाँच पत्रक' (Check Card) का मुख्य कार्य क्या है? / What is the main function of the 'Check Card' in the Three Card System?"
+  },
+  {
+   "answer": "B",
+   "explanation": "कार्डेक्स दृश्य अभिलेख प्रणाली रेमिंग्टन रैंड कंपनी द्वारा विकसित की गई थी। इसमें पत्रिकाओं की प्राप्ति का अभिलेख इस प्रकार रखा जाता है कि किसी भी पत्रिका की स्थिति एक दृष्टि में देखी जा सके।",
+   "options": {
+    "A": "आईबीएम / IBM",
+    "B": "रेमिंग्टन रैंड / Remington Rand",
+    "C": "ज़ेरॉक्स / Xerox",
+    "D": "हेवलेट-पैकर्ड / Hewlett-Packard"
+   },
+   "q": "कार्डेक्स (Kardex) प्रणाली किस कंपनी द्वारा विकसित की गई थी? / The Kardex system was developed by which company?"
+  },
+  {
+   "answer": "D",
+   "explanation": "छोटे पुस्तकालयों में पत्रिकाएँ कम होती हैं, इसलिए साधारण पंजी प्रणाली ही पर्याप्त रहती है। बड़े पुस्तकालयों में कार्डेक्स या त्रि-पत्रक जैसी विस्तृत प्रणालियाँ अपनाई जाती हैं।",
+   "options": {
+    "A": "कार्डेक्स प्रणाली / Kardex system",
+    "B": "त्रि-पत्रक प्रणाली / Three card system",
+    "C": "कंप्यूटर प्रणाली / Computer system",
+    "D": "पंजी (रजिस्टर) प्रणाली / Register system"
+   },
+   "q": "छोटे पुस्तकालयों में पत्रिकाओं की प्राप्ति का अभिलेख रखने हेतु सामान्यतः कौन-सी प्रणाली अपनाई जाती है? / Which system is generally used in small libraries to record the receipt of periodicals?"
+  },
+  {
+   "answer": "C",
+   "explanation": "जिस अंक की प्राप्ति नियत समय पर न हो, उसके लिए आपूर्तिकर्ता या प्रकाशक को दावा-पत्र भेजा जाता है, ताकि अंक शीघ्र भेजा जाए या अभिदान अवधि बढ़ाई जाए।",
+   "options": {
+    "A": "आदेश पत्र / Order letter",
+    "B": "धन्यवाद पत्र / Thank-you letter",
+    "C": "दावा-पत्र (क्लेम) / Claim letter",
+    "D": "निमंत्रण पत्र / Invitation letter"
+   },
+   "q": "समय पर प्राप्त न हुई पत्रिका के अंक हेतु आपूर्तिकर्ता को भेजा जाने वाला स्मरण-पत्र क्या कहलाता है? / The reminder sent to the supplier for an issue of a periodical not received in time is called—"
+  },
+  {
+   "answer": "B",
+   "explanation": "प्रति-व्यक्ति विधि में प्रति पाठक या प्रति विद्यार्थी न्यूनतम व्यय की दर निश्चित कर कुल पाठक संख्या से गुणा करके बजट का अनुमान लगाया जाता है। यह रंगनाथन द्वारा सुझाई गई बजट अनुमान विधियों में से एक है।",
+   "options": {
+    "A": "कुल संस्थागत बजट के निश्चित प्रतिशत पर / On a fixed percentage of the total institutional budget",
+    "B": "प्रति पाठक निर्धारित न्यूनतम व्यय राशि के आधार पर / On the basis of a fixed minimum expenditure per reader",
+    "C": "पिछले वर्ष के कुल व्यय पर / On last year's total expenditure",
+    "D": "कर्मचारियों की संख्या पर / On the number of staff"
+   },
+   "q": "बजट अनुमान की 'प्रति-व्यक्ति विधि' (Per Capita Method) में पुस्तकालय बजट किस आधार पर निर्धारित होता है? / In the Per Capita Method of budget estimation, the library budget is determined on what basis?"
+  },
+  {
+   "answer": "A",
+   "explanation": "विवरण विधि में पुस्तकालय की प्रत्येक मद — पुस्तकें, पत्रिकाएँ, वेतन, जिल्दबंदी आदि — के लिए अलग-अलग विस्तृत अनुमान तैयार किया जाता है और उन्हीं का योग बजट बनता है।",
+   "options": {
+    "A": "प्रत्येक मद के व्यय का विस्तृत विश्लेषण व अनुमान / Detailed analysis and estimate of expenditure under each head",
+    "B": "केवल एकमुश्त राशि / Only a lump sum amount",
+    "C": "दान से प्राप्त राशि / Donations received",
+    "D": "अन्य पुस्तकालयों का बजट / Budgets of other libraries"
+   },
+   "q": "बजट अनुमान की 'विवरण विधि' (Method of Details) का आधार क्या होता है? / What is the basis of the 'Method of Details' of budget estimation?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पंक्ति-मद बजट में प्रत्येक मद हेतु राशि पूर्व निर्धारित रहती है, इसलिए आवश्यकता पड़ने पर एक मद से दूसरी मद में धन स्थानांतरित करना कठिन होता है। यही इसकी प्रमुख सीमा है।",
+   "options": {
+    "A": "यह बहुत खर्चीला होता है / It is very costly",
+    "B": "इसमें वेतन मद नहीं होता / It has no salary head",
+    "C": "यह केवल एक माह का होता है / It is only for one month",
+    "D": "इसमें लचीलेपन का अभाव होता है — एक मद की राशि दूसरी मद में सरलता से नहीं ले जाई जा सकती / It lacks flexibility — funds cannot easily be moved from one head to another"
+   },
+   "q": "पंक्ति-मद बजट (Line-item Budget) की प्रमुख सीमा कौन-सी है? / What is the main limitation of the Line-item Budget?"
+  },
+  {
+   "answer": "C",
+   "explanation": "निष्पादन बजट में धन का आवंटन कार्यों व कार्यक्रमों की उपलब्धियों से जोड़कर किया जाता है, अर्थात यह देखा जाता है कि किए गए व्यय से कितना कार्य व सेवा-परिणाम प्राप्त हुआ।",
+   "options": {
+    "A": "मदों की संख्या पर / On the number of heads",
+    "B": "कर्मचारियों की उपस्थिति पर / On staff attendance",
+    "C": "कार्यक्रमों की उपलब्धियों व परिणामों पर / On the achievements and results of programmes",
+    "D": "भवन के आकार पर / On the size of the building"
+   },
+   "q": "'निष्पादन बजट' (Performance Budget) में मुख्य बल किस पर दिया जाता है? / In a Performance Budget, the main emphasis is on what?"
+  },
+  {
+   "answer": "A",
+   "explanation": "वार्षिक प्रतिवेदन पुस्तकालयाध्यक्ष द्वारा तैयार किया जाता है, जिसमें वर्ष भर की गतिविधियों, संग्रह वृद्धि, सेवाओं व व्यय का विवरण पुस्तकालय समिति या प्रबंधन के समक्ष रखा जाता है।",
+   "options": {
+    "A": "पुस्तकालयाध्यक्ष का / The Librarian",
+    "B": "लेखाकार का / The accountant",
+    "C": "चपरासी का / The peon",
+    "D": "प्रकाशक का / The publisher"
+   },
+   "q": "पुस्तकालय का वार्षिक प्रतिवेदन तैयार कर प्रस्तुत करने का दायित्व मुख्यतः किसका होता है? / Who is mainly responsible for preparing and presenting the annual report of a library?"
+  },
+  {
+   "answer": "B",
+   "explanation": "वार्षिक प्रतिवेदन में दिए गए आँकड़े व उपलब्धियाँ आगामी वर्ष की आवश्यकताओं को स्पष्ट करती हैं, इसलिए यही प्रतिवेदन अगले वर्ष के बजट अनुमान का प्रमुख आधार बनता है।",
+   "options": {
+    "A": "पुस्तक मेले के आयोजन का / Organising a book fair",
+    "B": "बजट अनुमान तैयार करने का / Preparation of the budget estimate",
+    "C": "भवन निर्माण का / Building construction",
+    "D": "परीक्षा संचालन का / Conducting examinations"
+   },
+   "q": "वार्षिक प्रतिवेदन आगामी वर्ष के किस प्रमुख कार्य का आधार बनता है? / The annual report forms the basis of which major task of the coming year?"
+  },
+  {
+   "answer": "D",
+   "explanation": "वार्षिक प्रतिवेदन में समग्र आँकड़े व उपलब्धियाँ दी जाती हैं, परंतु किसी पाठक का नाम सहित व्यक्तिगत ऋण-विवरण देना उसकी गोपनीयता के विरुद्ध है, इसलिए यह शामिल नहीं किया जाता।",
+   "options": {
+    "A": "संग्रह वृद्धि के आँकड़े / Statistics of collection growth",
+    "B": "निर्गम-आगम की सांख्यिकी / Circulation statistics",
+    "C": "कर्मचारियों की स्थिति / Staff position",
+    "D": "पाठकों के नाम सहित व्यक्तिगत ऋण-विवरण / Individual borrowing details with readers' names"
+   },
+   "q": "निम्न में से कौन-सी जानकारी सामान्यतः वार्षिक प्रतिवेदन में शामिल नहीं की जाती? / Which of the following is generally NOT included in an annual report?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पुस्तकालय नियम सक्षम प्राधिकरण या पुस्तकालय समिति द्वारा बनाए व अनुमोदित किए जाते हैं। यही नियम सदस्यता, निर्गम अवधि, विलंब शुल्क आदि को नियंत्रित करते हैं।",
+   "options": {
+    "A": "पाठकों द्वारा / By readers",
+    "B": "विक्रेताओं द्वारा / By vendors",
+    "C": "पुस्तकालय समिति/सक्षम प्राधिकरण द्वारा / By the library committee/competent authority",
+    "D": "मुद्रकों द्वारा / By printers"
+   },
+   "q": "पुस्तकालय के नियमों का निर्माण व अनुमोदन सामान्यतः किसके द्वारा किया जाता है? / Library rules are generally framed and approved by whom?"
+  },
+  {
+   "answer": "A",
+   "explanation": "नियमों को सूचना पट्ट पर प्रवेश के समीप प्रदर्शित किया जाता है ताकि प्रत्येक पाठक पुस्तकालय में प्रवेश करते ही सदस्यता, समय व निर्गम संबंधी नियमों से अवगत हो सके।",
+   "options": {
+    "A": "प्रवेश द्वार के समीप सूचना पट्ट पर / On the notice board near the entrance",
+    "B": "केवल वार्षिक प्रतिवेदन में / Only in the annual report",
+    "C": "स्टैक के अंतिम खंड में / In the last bay of the stack",
+    "D": "केवल वेबसाइट पर / Only on the website"
+   },
+   "q": "पुस्तकालय नियमों को पाठकों की जानकारी हेतु प्रमुखतः कहाँ प्रदर्शित किया जाता है? / Where are library rules mainly displayed for the information of readers?"
+  },
+  {
+   "answer": "B",
+   "explanation": "अभिविन्यास पाठक शिक्षा का प्रथम चरण है, जिसमें नए पाठकों को पुस्तकालय भ्रमण कराकर अनुभागों, सूची तथा सेवाओं की जानकारी दी जाती है, ताकि वे बिना संकोच पुस्तकालय का उपयोग कर सकें।",
+   "options": {
+    "A": "वर्गीकरण / Classification",
+    "B": "पुस्तकालय अभिविन्यास (ओरिएंटेशन) / Library Orientation",
+    "C": "स्टॉक सत्यापन / Stock verification",
+    "D": "छंटनी / Weeding"
+   },
+   "q": "नए पाठकों को पुस्तकालय भवन, अनुभागों व सेवाओं से परिचित कराने की प्रक्रिया क्या कहलाती है? / The process of familiarising new readers with the library building, sections and services is called—"
+  },
+  {
+   "answer": "D",
+   "explanation": "ग्रंथसूची अनुदेश में पाठकों को सूची, विश्वकोश, ग्रंथसूचियों व अन्य संदर्भ स्रोतों के उपयोग का प्रशिक्षण दिया जाता है, ताकि वे स्वयं अपनी आवश्यक सूचना खोज सकें।",
+   "options": {
+    "A": "जिल्दबंदी की विधि / Method of binding",
+    "B": "पुस्तकों की मरम्मत / Repair of books",
+    "C": "वेतन गणना / Salary calculation",
+    "D": "सूची व संदर्भ स्रोतों का प्रभावी उपयोग / Effective use of the catalogue and reference sources"
+   },
+   "q": "'ग्रंथसूची अनुदेश' (Bibliographic Instruction) में पाठकों को मुख्यतः क्या सिखाया जाता है? / In Bibliographic Instruction, readers are mainly taught what?"
+  },
+  {
+   "answer": "C",
+   "explanation": "नए सत्र के प्रारंभ में ही नए पाठक पुस्तकालय से जुड़ते हैं, इसलिए अभिविन्यास व अनुदेश कार्यक्रम उसी समय आयोजित किए जाते हैं, ताकि पाठक प्रारंभ से ही सेवाओं का लाभ उठा सकें।",
+   "options": {
+    "A": "परीक्षा के दौरान / During examinations",
+    "B": "अवकाश काल में / During vacations",
+    "C": "नए शैक्षणिक सत्र के प्रारंभ में / At the beginning of the new academic session",
+    "D": "वर्ष के अंत में / At the end of the year"
+   },
+   "q": "पाठक शिक्षा कार्यक्रम का आयोजन सामान्यतः किस समय किया जाता है? / When is a user education programme generally organised?"
+  },
+  {
+   "answer": "A",
+   "explanation": "CAS में नवीन सूचना सामान्य रूप से सभी संबंधित पाठकों तक पहुँचाई जाती है, जबकि SDI में प्रत्येक पाठक की रुचि-प्रोफ़ाइल बनाकर केवल उसी के अनुकूल सूचना चुनकर दी जाती है।",
+   "options": {
+    "A": "CAS सामान्य पाठक-समूह हेतु होती है, जबकि SDI व्यक्तिगत रुचि-प्रोफ़ाइल पर आधारित होती है / CAS is for a general group of users, while SDI is based on individual interest profiles",
+    "B": "CAS केवल मुद्रित होती है / CAS is only in print",
+    "C": "SDI केवल पुस्तकों हेतु है / SDI is only for books",
+    "D": "दोनों में कोई अंतर नहीं है / There is no difference between the two"
+   },
+   "q": "CAS (सामयिक अभिज्ञता सेवा) तथा SDI में मूलभूत अंतर क्या है? / What is the basic difference between CAS and SDI?"
+  },
+  {
+   "answer": "B",
+   "explanation": "नवीन आगमन सूची, सामयिक अभिज्ञता बुलेटिन तथा पत्रिकाओं की विषय-सूची सेवा CAS के प्रमुख रूप हैं, जिनसे पाठक नवीन प्रकाशनों से निरंतर अवगत रहते हैं।",
+   "options": {
+    "A": "SDI सेवा का / SDI service",
+    "B": "CAS सेवा का / CAS service",
+    "C": "संदर्भ सेवा का / Reference service",
+    "D": "अंतःपुस्तकालय ऋण का / Inter-library loan"
+   },
+   "q": "पुस्तकालय द्वारा नियमित अंतराल पर प्रकाशित 'नवीन आगमन सूची' (List of New Additions) किस सेवा का उदाहरण है? / The 'List of New Additions' published by a library at regular intervals is an example of which service?"
+  },
+  {
+   "answer": "D",
+   "explanation": "SDI में भेजी गई सूचना की उपयोगिता पर पाठक प्रतिक्रिया देता है। उसी के आधार पर उसकी रुचि-प्रोफ़ाइल को सुधारा जाता है, ताकि आगे चलकर और भी सटीक सूचना दी जा सके।",
+   "options": {
+    "A": "पाठक का जुर्माना तय करने हेतु / To fix the reader's fine",
+    "B": "पुस्तकों का मूल्य तय करने हेतु / To fix book prices",
+    "C": "कर्मचारियों का मूल्यांकन करने हेतु / To evaluate staff",
+    "D": "उपयोगकर्ता प्रोफ़ाइल को सुधारने व परिष्कृत करने हेतु / To improve and refine the user profile"
+   },
+   "q": "SDI प्रणाली में पाठक से प्राप्त 'प्रतिक्रिया' (Feedback) का उपयोग किसके लिए होता है? / In an SDI system, the feedback received from the user is used for what?"
+  },
+  {
+   "answer": "D",
+   "explanation": "'इंडियन साइंस एब्स्ट्रैक्ट्स' का प्रकाशन 1965 से इन्सडॉक और बाद में निस्केयर (अब सीएसआईआर-निस्पर) द्वारा किया जाता रहा है। इसमें भारतीय पत्रिकाओं में प्रकाशित विज्ञान-लेखों के सार दिए जाते हैं।",
+   "options": {
+    "A": "इन्फ़्लिबनेट / INFLIBNET",
+    "B": "राष्ट्रीय पुस्तक न्यास / National Book Trust",
+    "C": "आईसीएसएसआर / ICSSR",
+    "D": "सीएसआईआर-निस्केयर (अब निस्पर) / CSIR-NISCAIR (now NIScPR)"
+   },
+   "q": "'Indian Science Abstracts' सारकरण पत्रिका का प्रकाशन किस संस्था द्वारा किया जाता है? / 'Indian Science Abstracts' is published by which institution?"
+  },
+  {
+   "answer": "A",
+   "explanation": "संकेतात्मक सार पाठक को केवल यह बताता है कि दस्तावेज़ किस विषय पर है, ताकि वह तय कर सके कि मूल दस्तावेज़ पढ़ना है या नहीं। सूचनात्मक सार के विपरीत यह मूल का स्थान नहीं ले सकता।",
+   "options": {
+    "A": "यह केवल दस्तावेज़ की विषय-वस्तु का संकेत देता है और मूल का विकल्प नहीं बन सकता / It only indicates the subject content and cannot substitute the original",
+    "B": "इसमें सभी आँकड़े दिए जाते हैं / It gives all the data",
+    "C": "यह मूल से लंबा होता है / It is longer than the original",
+    "D": "यह केवल चित्रों में होता है / It is only in pictures"
+   },
+   "q": "संकेतात्मक सार (Indicative Abstract) की मुख्य विशेषता क्या है? / What is the main feature of an Indicative Abstract?"
+  },
+  {
+   "answer": "B",
+   "explanation": "'इंडेक्स मेडिकस' चिकित्सा साहित्य की प्रसिद्ध अनुक्रमणिका थी, जिसका प्रकाशन अमेरिका की नेशनल लाइब्रेरी ऑफ़ मेडिसिन द्वारा किया जाता था। बाद में इसका स्थान मेडलाइन डेटाबेस ने ले लिया।",
+   "options": {
+    "A": "ब्रिटिश लाइब्रेरी / British Library",
+    "B": "नेशनल लाइब्रेरी ऑफ़ मेडिसिन, अमेरिका / National Library of Medicine, USA",
+    "C": "विश्व स्वास्थ्य संगठन / World Health Organization",
+    "D": "इफ़्ला / IFLA"
+   },
+   "q": "'Index Medicus' अनुक्रमणिका पत्रिका का प्रकाशन किस संस्था से जुड़ा था? / The indexing periodical 'Index Medicus' was associated with which institution?"
+  }
+ ],
+ "subject": "BLIS"
+}

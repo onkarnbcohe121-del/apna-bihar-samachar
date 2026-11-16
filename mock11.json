@@ -1,0 +1,556 @@
+{
+ "mock_no": 11,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "त्रिवेंद्रम सार्वजनिक पुस्तकालय की स्थापना 1829 में महाराजा स्वाति तिरुनाल के शासनकाल में हुई थी। इसे भारत के सबसे पुराने सार्वजनिक पुस्तकालयों में माना जाता है।",
+   "options": {
+    "A": "1847 / 1847",
+    "B": "1829 / 1829",
+    "C": "1901 / 1901",
+    "D": "1835 / 1835"
+   },
+   "q": "भारत के प्राचीनतम सार्वजनिक पुस्तकालयों में से एक, त्रिवेंद्रम सार्वजनिक पुस्तकालय (वर्तमान राज्य केंद्रीय पुस्तकालय, केरल) की स्थापना किस वर्ष हुई थी? / In which year was the Trivandrum Public Library (now the State Central Library, Kerala), one of the oldest public libraries of India, established?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ब्रिटिश सांसद विलियम ईवर्ट ने सार्वजनिक पुस्तकालय विधेयक प्रस्तुत किया, जिससे 1850 में विश्व का प्रथम सार्वजनिक पुस्तकालय अधिनियम पारित हुआ। इसलिए उन्हें ब्रिटेन में सार्वजनिक पुस्तकालय आंदोलन का जनक माना जाता है।",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "मेल्विल डेवी / Melvil Dewey",
+    "C": "एंथनी पनिज़ी / Anthony Panizzi",
+    "D": "विलियम ईवर्ट / William Ewart"
+   },
+   "q": "ब्रिटेन के सार्वजनिक पुस्तकालय अधिनियम, 1850 के पारित होने में प्रमुख भूमिका निभाने वाले सांसद कौन थे? / Which Member of Parliament played the leading role in getting the British Public Libraries Act, 1850 passed?"
+  },
+  {
+   "answer": "C",
+   "explanation": "उड़ीसा (ओडिशा) सार्वजनिक पुस्तकालय अधिनियम 2001 में पारित हुआ था। इसके अंतर्गत राज्य में सार्वजनिक पुस्तकालय प्रणाली के संगठन एवं विकास का प्रावधान किया गया।",
+   "options": {
+    "A": "1993 / 1993",
+    "B": "1998 / 1998",
+    "C": "2001 / 2001",
+    "D": "2006 / 2006"
+   },
+   "q": "ओडिशा सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Odisha (Orissa) Public Libraries Act passed?"
+  },
+  {
+   "answer": "A",
+   "explanation": "1956 के संशोधन द्वारा पुस्तक वितरण अधिनियम में समाचार-पत्रों को भी शामिल किया गया, जिसके बाद इसका नाम 'पुस्तक एवं समाचार-पत्र वितरण (सार्वजनिक पुस्तकालय) अधिनियम' हो गया।",
+   "options": {
+    "A": "1956 / 1956",
+    "B": "1954 / 1954",
+    "C": "1962 / 1962",
+    "D": "1976 / 1976"
+   },
+   "q": "पुस्तक वितरण अधिनियम, 1954 में संशोधन करके 'समाचार-पत्रों' को इसके दायरे में किस वर्ष शामिल किया गया था? / In which year was the Delivery of Books Act, 1954 amended to bring 'newspapers' within its scope?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पुस्तक वितरण अधिनियम के अंतर्गत देश में चार निक्षेपागार पुस्तकालय हैं — राष्ट्रीय पुस्तकालय (कोलकाता), कोनेमारा सार्वजनिक पुस्तकालय (चेन्नई), केंद्रीय पुस्तकालय/एशियाटिक सोसाइटी (मुंबई) तथा दिल्ली पब्लिक लाइब्रेरी (दिल्ली)।",
+   "options": {
+    "A": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata",
+    "B": "केंद्रीय सचिवालय पुस्तकालय, नई दिल्ली / Central Secretariat Library, New Delhi",
+    "C": "संसद पुस्तकालय, नई दिल्ली / Parliament Library, New Delhi",
+    "D": "दिल्ली पब्लिक लाइब्रेरी, दिल्ली / Delhi Public Library, Delhi"
+   },
+   "q": "पुस्तक वितरण अधिनियम, 1954 के अंतर्गत दिल्ली में स्थित निक्षेपागार (Depository) पुस्तकालय कौन-सा है? / Which is the depository library located in Delhi under the Delivery of Books Act, 1954?"
+  },
+  {
+   "answer": "B",
+   "explanation": "ख़ुदा बख़्श प्राच्य सार्वजनिक पुस्तकालय अधिनियम 1969 द्वारा पटना स्थित इस पुस्तकालय को राष्ट्रीय महत्व की संस्था घोषित किया गया और इसका प्रबंधन भारत सरकार के अधीन आया।",
+   "options": {
+    "A": "1951 / 1951",
+    "B": "1969 / 1969",
+    "C": "1975 / 1975",
+    "D": "1989 / 1989"
+   },
+   "q": "ख़ुदा बख़्श प्राच्य सार्वजनिक पुस्तकालय अधिनियम (Khuda Bakhsh Oriental Public Library Act) संसद द्वारा किस वर्ष पारित किया गया था? / In which year was the Khuda Bakhsh Oriental Public Library Act passed by Parliament?"
+  },
+  {
+   "answer": "C",
+   "explanation": "साहित्य अकादमी की स्थापना 12 मार्च 1954 को हुई थी। यह भारत की राष्ट्रीय साहित्य संस्था है, जो भारतीय भाषाओं में साहित्य के प्रोत्साहन हेतु कार्य करती है।",
+   "options": {
+    "A": "1947 / 1947",
+    "B": "1952 / 1952",
+    "C": "1954 / 1954",
+    "D": "1964 / 1964"
+   },
+   "q": "साहित्य अकादमी (Sahitya Akademi) की स्थापना किस वर्ष हुई थी? / In which year was the Sahitya Akademi established?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ट्रिप्स (बौद्धिक संपदा अधिकारों के व्यापार-संबंधी पहलू) समझौता 1994 में विश्व व्यापार संगठन के अंतर्गत हुआ था। यह कॉपीराइट, पेटेंट, ट्रेडमार्क आदि बौद्धिक संपदा के न्यूनतम संरक्षण मानक निर्धारित करता है।",
+   "options": {
+    "A": "विश्व व्यापार संगठन (WTO) / World Trade Organization (WTO)",
+    "B": "विश्व बौद्धिक संपदा संगठन (WIPO) / World Intellectual Property Organization (WIPO)",
+    "C": "यूनेस्को / UNESCO",
+    "D": "इफ्ला / IFLA"
+   },
+   "q": "ट्रिप्स (TRIPS) समझौता किस अंतरराष्ट्रीय संगठन से संबंधित है? / The TRIPS Agreement is associated with which international organisation?"
+  },
+  {
+   "answer": "B",
+   "explanation": "कॉपीराइट अधिनियम की धारा 52 में वे कार्य बताए गए हैं जो कॉपीराइट का उल्लंघन नहीं माने जाते, जिनमें निजी उपयोग, शोध, समीक्षा आदि हेतु उचित व्यवहार शामिल है। धारा 57 लेखक के विशेष (नैतिक) अधिकारों से संबंधित है।",
+   "options": {
+    "A": "धारा 14 / Section 14",
+    "B": "धारा 52 / Section 52",
+    "C": "धारा 57 / Section 57",
+    "D": "धारा 40 / Section 40"
+   },
+   "q": "भारतीय कॉपीराइट अधिनियम, 1957 में 'उचित व्यवहार' (Fair Dealing) से संबंधित प्रावधान किस धारा में हैं? / In the Indian Copyright Act, 1957, the provisions relating to 'fair dealing' are contained in which section?"
+  },
+  {
+   "answer": "D",
+   "explanation": "कॉपीलेफ़्ट की अवधारणा रिचर्ड स्टॉलमैन ने मुक्त सॉफ़्टवेयर आंदोलन के अंतर्गत दी थी। इसमें कृति को स्वतंत्र रूप से उपयोग, संशोधन एवं वितरण की अनुमति इस शर्त पर दी जाती है कि आगे भी वही स्वतंत्रता बनी रहे।",
+   "options": {
+    "A": "टिम बर्नर्स-ली / Tim Berners-Lee",
+    "B": "लॉरेंस लेसिग / Lawrence Lessig",
+    "C": "एरॉन स्वार्ट्ज़ / Aaron Swartz",
+    "D": "रिचर्ड स्टॉलमैन / Richard Stallman"
+   },
+   "q": "'कॉपीलेफ़्ट' (Copyleft) की अवधारणा किससे जुड़ी है? / The concept of 'Copyleft' is associated with whom?"
+  },
+  {
+   "answer": "C",
+   "explanation": "राष्ट्रीय पांडुलिपि मिशन फरवरी 2003 में प्रारंभ किया गया था। इसका उद्देश्य भारत की पांडुलिपि धरोहर का सर्वेक्षण, संरक्षण, प्रलेखन एवं डिजिटलीकरण करना है।",
+   "options": {
+    "A": "2001 / 2001",
+    "B": "2005 / 2005",
+    "C": "2003 / 2003",
+    "D": "2007 / 2007"
+   },
+   "q": "राष्ट्रीय पांडुलिपि मिशन (National Mission for Manuscripts) किस वर्ष प्रारंभ किया गया था? / In which year was the National Mission for Manuscripts launched?"
+  },
+  {
+   "answer": "A",
+   "explanation": "फ़्रेडरिक जी. किलगोर ने 1967 में ओहियो कॉलेज लाइब्रेरी सेंटर की स्थापना की, जो बाद में ओसीएलसी (ऑनलाइन कंप्यूटर लाइब्रेरी सेंटर) के नाम से विश्व का सबसे बड़ा पुस्तकालय सहकारी नेटवर्क बना।",
+   "options": {
+    "A": "ओसीएलसी (OCLC) / OCLC",
+    "B": "रिसर्च लाइब्रेरीज़ ग्रुप (RLG) / Research Libraries Group (RLG)",
+    "C": "वॉशिंगटन लाइब्रेरी नेटवर्क (WLN) / Washington Library Network (WLN)",
+    "D": "सेंटर फ़ॉर रिसर्च लाइब्रेरीज़ (CRL) / Center for Research Libraries (CRL)"
+   },
+   "q": "फ़्रेडरिक जी. किलगोर (Frederick G. Kilgour) ने किस संस्था की स्थापना की थी? / Frederick G. Kilgour founded which organisation?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इंटरनेट आर्काइव की स्थापना 1996 में ब्रूस्टर काहले ने की थी। यह वेब पृष्ठों, पुस्तकों, चलचित्रों आदि का विशाल निःशुल्क डिजिटल अभिलेखागार है, जिसकी 'वेबैक मशीन' सेवा विशेष प्रसिद्ध है।",
+   "options": {
+    "A": "माइकल हार्ट / Michael Hart",
+    "B": "ब्रूस्टर काहले / Brewster Kahle",
+    "C": "पॉल गिन्सपार्ग / Paul Ginsparg",
+    "D": "रॉबर्ट काह्न / Robert Kahn"
+   },
+   "q": "'इंटरनेट आर्काइव' (Internet Archive) के संस्थापक कौन हैं? / Who is the founder of the 'Internet Archive'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "द्विबिंदु वर्गीकरण में मुख्य वर्ग 'X' अर्थशास्त्र के लिए है। इसी क्रम में 'V' इतिहास, 'W' राजनीति विज्ञान तथा 'Y' समाजशास्त्र को दर्शाता है।",
+   "options": {
+    "A": "इतिहास / History",
+    "B": "राजनीति विज्ञान / Political Science",
+    "C": "समाजशास्त्र / Sociology",
+    "D": "अर्थशास्त्र / Economics"
+   },
+   "q": "द्विबिंदु वर्गीकरण (Colon Classification) में मुख्य वर्ग 'X' किस विषय को दर्शाता है? / In Colon Classification, the main class 'X' denotes which subject?"
+  },
+  {
+   "answer": "A",
+   "explanation": "द्विबिंदु वर्गीकरण में मुख्य वर्ग 'Q' धर्म के लिए निर्धारित है। 'R' दर्शन, 'P' भाषा विज्ञान तथा 'O' साहित्य को दर्शाता है।",
+   "options": {
+    "A": "धर्म / Religion",
+    "B": "दर्शन / Philosophy",
+    "C": "भाषा विज्ञान / Linguistics",
+    "D": "साहित्य / Literature"
+   },
+   "q": "द्विबिंदु वर्गीकरण (Colon Classification) में मुख्य वर्ग 'Q' किस विषय को दर्शाता है? / In Colon Classification, the main class 'Q' denotes which subject?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पक्षपात चरण में एक विषय का अध्ययन या प्रस्तुतीकरण दूसरे विषय के विशेषज्ञों की आवश्यकता के अनुरूप किया जाता है, जैसे 'जीववैज्ञानिकों के लिए गणित'। यह चरण-संबंधों (Phase Relations) का एक प्रकार है।",
+   "options": {
+    "A": "दो विषयों का परस्पर संलयन / Fusion of two subjects",
+    "B": "किसी विषय का क्रमिक विखंडन / Gradual dissection of a subject",
+    "C": "एक विषय का प्रस्तुतीकरण दूसरे विषय के उपयोगकर्ताओं की दृष्टि से / Presentation of one subject from the viewpoint of the users of another subject",
+    "D": "दो विषयों की परस्पर तुलना / Comparison of two subjects"
+   },
+   "q": "वर्गीकरण में 'पक्षपात चरण' (Bias Phase) से क्या अभिप्राय है? / What is meant by the 'Bias Phase' in classification?"
+  },
+  {
+   "answer": "B",
+   "explanation": "रंगनाथन ने वर्गीकरण कार्य के तीन तल बताए हैं — विचार तल, शाब्दिक तल तथा अंकन तल। 'भौतिक तल' इनमें शामिल नहीं है।",
+   "options": {
+    "A": "विचार तल / Idea Plane",
+    "B": "भौतिक तल / Physical Plane",
+    "C": "शाब्दिक तल / Verbal Plane",
+    "D": "अंकन तल / Notational Plane"
+   },
+   "q": "रंगनाथन के अनुसार वर्गीकरण कार्य के तीन तलों (Planes of Work) में निम्न में से कौन-सा शामिल नहीं है? / Which of the following is NOT one of Ranganathan's three planes of work in classification?"
+  },
+  {
+   "answer": "A",
+   "explanation": "13 अंकों वाले ISBN का जाँच अंक मापांक 10 प्रणाली से निकाला जाता है, जिसमें अंकों को क्रमशः 1 तथा 3 के भार से गुणा किया जाता है। पुराने 10 अंकों वाले ISBN में मापांक 11 का प्रयोग होता था।",
+   "options": {
+    "A": "मापांक 10 / Modulus 10",
+    "B": "मापांक 11 / Modulus 11",
+    "C": "मापांक 9 / Modulus 9",
+    "D": "मापांक 7 / Modulus 7"
+   },
+   "q": "13 अंकों वाले ISBN में जाँच अंक (Check Digit) की गणना किस मापांक (Modulus) के आधार पर होती है? / The check digit in a 13-digit ISBN is calculated on the basis of which modulus?"
+  },
+  {
+   "answer": "D",
+   "explanation": "यूडीसी में स्थान के सामान्य सहायक कोष्ठक में लिखे जाते हैं, जैसे (540) भारत के लिए प्रयुक्त होता है। बराबर चिह्न भाषा सहायक तथा उद्धरण चिह्न समय सहायक को दर्शाता है।",
+   "options": {
+    "A": "बराबर चिह्न (=) / Equals sign (=)",
+    "B": "उद्धरण चिह्न (\" \") / Quotation marks (\" \")",
+    "C": "कोलन (:) / Colon (:)",
+    "D": "कोष्ठक (( )) / Parentheses (( ))"
+   },
+   "q": "यूडीसी (UDC) में स्थान के सामान्य सहायक (Common Auxiliaries of Place) किस चिह्न से दर्शाए जाते हैं? / In UDC, the common auxiliaries of place are indicated by which sign?"
+  },
+  {
+   "answer": "C",
+   "explanation": "1992 में गठित यूडीसी कंसोर्टियम (मुख्यालय — हेग) यूडीसी के प्रकाशन एवं रखरखाव का कार्य करता है। इससे पूर्व यह कार्य अंतरराष्ट्रीय प्रलेखन संघ (एफ.आई.डी.) के पास था।",
+   "options": {
+    "A": "इफ्ला / IFLA",
+    "B": "यूनेस्को / UNESCO",
+    "C": "यूडीसी कंसोर्टियम / UDC Consortium",
+    "D": "एफ.आई.डी. / FID"
+   },
+   "q": "सार्वभौमिक दशमलव वर्गीकरण (UDC) का प्रकाशन एवं रखरखाव वर्तमान में किसके द्वारा किया जाता है? / The Universal Decimal Classification (UDC) is presently published and maintained by whom?"
+  },
+  {
+   "answer": "B",
+   "explanation": "कांग्रेस पुस्तकालय वर्गीकरण में वर्ग 'H' सामाजिक विज्ञान के लिए है। इसमें 'K' विधि, 'L' शिक्षा तथा 'D' इतिहास को दर्शाता है।",
+   "options": {
+    "A": "इतिहास / History",
+    "B": "सामाजिक विज्ञान / Social Sciences",
+    "C": "विधि / Law",
+    "D": "शिक्षा / Education"
+   },
+   "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) में वर्ग 'H' किस विषय के लिए है? / In the Library of Congress Classification (LCC), class 'H' stands for which subject?"
+  },
+  {
+   "answer": "A",
+   "explanation": "भारत में पत्रिकाओं को ISSN आवंटित करने का राष्ट्रीय केंद्र नई दिल्ली स्थित सीएसआईआर–निस्पर (पूर्व में निस्केयर) में है, जो पेरिस स्थित अंतरराष्ट्रीय ISSN केंद्र से संबद्ध है।",
+   "options": {
+    "A": "सीएसआईआर–निस्पर (NIScPR), नई दिल्ली / CSIR-NIScPR, New Delhi",
+    "B": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata",
+    "C": "इन्फ़्लिबनेट केंद्र, गांधीनगर / INFLIBNET Centre, Gandhinagar",
+    "D": "राजा राममोहन राय पुस्तकालय प्रतिष्ठान, कोलकाता / RRRLF, Kolkata"
+   },
+   "q": "भारत में ISSN आवंटन हेतु राष्ट्रीय केंद्र (Indian ISSN Centre) किस संस्था में स्थित है? / The Indian ISSN Centre for assigning ISSN in India is located in which institution?"
+  },
+  {
+   "answer": "D",
+   "explanation": "हेनरिएट एवराम ने कांग्रेस पुस्तकालय में कार्य करते हुए 1960 के दशक में मार्क (मशीन-पठनीय सूचीकरण) प्रारूप का विकास किया, जिससे पुस्तकालय सूचीकरण का कंप्यूटरीकरण संभव हुआ।",
+   "options": {
+    "A": "डेवी दशमलव वर्गीकरण / Dewey Decimal Classification",
+    "B": "एएसीआर / AACR",
+    "C": "सामान्य संचार प्रारूप / Common Communication Format",
+    "D": "मार्क (MARC) प्रारूप / MARC format"
+   },
+   "q": "हेनरिएट एवराम (Henriette Avram) का नाम किसके विकास से जुड़ा है? / The name of Henriette Avram is associated with the development of what?"
+  },
+  {
+   "answer": "C",
+   "explanation": "MARC 21 में टैग 250 संस्करण कथन (एडिशन स्टेटमेंट) के लिए प्रयुक्त होता है। भौतिक विवरण हेतु टैग 300, शृंखला कथन हेतु 490 तथा सामान्य टिप्पणी हेतु 500 का प्रयोग होता है।",
+   "options": {
+    "A": "भौतिक विवरण / Physical Description",
+    "B": "शृंखला कथन / Series Statement",
+    "C": "संस्करण कथन / Edition Statement",
+    "D": "सामान्य टिप्पणी / General Note"
+   },
+   "q": "MARC 21 में टैग 250 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 250 is used for what?"
+  },
+  {
+   "answer": "B",
+   "explanation": "आरडीए में प्रकाशन, निर्माण, वितरण आदि के कथन हेतु टैग 264 का प्रयोग होता है, जिसने एएसीआर-2 के टैग 260 (प्रकाशन/इंप्रिंट) का स्थान लिया है। दूसरे सूचक (इंडिकेटर) के मान से कथन का प्रकार तय होता है।",
+   "options": {
+    "A": "विषय शीर्षक टैग / Subject heading tag",
+    "B": "टैग 264 / Tag 264",
+    "C": "अतिरिक्त प्रविष्टि टैग / Added entry tag",
+    "D": "वर्ग संख्या टैग / Class number tag"
+   },
+   "q": "RDA आधारित अभिलेखों में प्रकाशन, निर्माण आदि का कथन MARC 21 के किस टैग में दिया जाता है? / In RDA-based records, the publication/production statement is given in which MARC 21 tag?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इफ्ला ने विभिन्न सामग्री-प्रकारों हेतु अलग-अलग ISBD मानकों को मिलाकर 2011 में ISBD का समेकित संस्करण प्रकाशित किया, जिससे सभी प्रकार के संसाधनों के विवरण हेतु एक ही मानक उपलब्ध हुआ।",
+   "options": {
+    "A": "2011 / 2011",
+    "B": "2004 / 2004",
+    "C": "2015 / 2015",
+    "D": "1998 / 1998"
+   },
+   "q": "ISBD का समेकित संस्करण (Consolidated Edition) किस वर्ष प्रकाशित हुआ था? / In which year was the consolidated edition of ISBD published?"
+  },
+  {
+   "answer": "C",
+   "explanation": "डेरेक ऑस्टिन द्वारा विकसित प्रेसिस प्रणाली का प्रयोग 1971 से ब्रिटिश राष्ट्रीय ग्रंथसूची (बीएनबी) में विषय अनुक्रमण हेतु किया गया था। इसमें संदर्भ-निर्भर (context-dependent) प्रविष्टियाँ बनाई जाती हैं।",
+   "options": {
+    "A": "भारतीय राष्ट्रीय ग्रंथसूची (INB) / Indian National Bibliography (INB)",
+    "B": "क्यूमुलेटिव बुक इंडेक्स / Cumulative Book Index",
+    "C": "ब्रिटिश राष्ट्रीय ग्रंथसूची (BNB) / British National Bibliography (BNB)",
+    "D": "ब्रिटिश बुक्स इन प्रिंट / British Books in Print"
+   },
+   "q": "PRECIS अनुक्रमण प्रणाली का विकास मुख्यतः किस ग्रंथसूची में प्रयोग हेतु किया गया था? / The PRECIS indexing system was developed mainly for use in which bibliography?"
+  },
+  {
+   "answer": "B",
+   "explanation": "प्रेसिस का पूर्ण रूप 'प्रिज़र्व्ड कॉन्टेक्स्ट इंडेक्स सिस्टम' है। इसमें अनुक्रमणीकार द्वारा बनाई गई एक ही इनपुट स्ट्रिंग से कंप्यूटर द्वारा क्रमचय (परम्यूटेशन) करके संदर्भ-सहित प्रविष्टियाँ तैयार की जाती हैं।",
+   "options": {
+    "A": "प्रिंटेड कैटालॉग एंट्री सिस्टम / Printed Catalogue Entry System",
+    "B": "परिरक्षित संदर्भ अनुक्रमण प्रणाली / Preserved Context Index System",
+    "C": "पूर्व-गणित अनुक्रमण सेवा / Pre-Computed Indexing Service",
+    "D": "स्थायी संदर्भ अनुक्रमण प्रणाली / Permanent Context Index System"
+   },
+   "q": "PRECIS का पूर्ण रूप क्या है? / What is the full form of PRECIS?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पॉप्सी का पूर्ण रूप 'पोस्टुलेट-बेस्ड परम्यूटेड सब्जेक्ट इंडेक्सिंग' है। इसका विकास गणेश भट्टाचार्य ने प्रलेखन अनुसंधान एवं प्रशिक्षण केंद्र (डीआरटीसी), बेंगलुरु में किया था।",
+   "options": {
+    "A": "पोस्टुलेट-बेस्ड ऑर्डर्ड सब्जेक्ट इंडेक्सिंग / Postulate-Based Ordered Subject Indexing",
+    "B": "परम्यूटेड ऑर्डर ऑफ़ सब्जेक्ट इंडेक्सिंग / Permuted Order of Subject Indexing",
+    "C": "प्रोग्राम फ़ॉर परम्यूटेड सब्जेक्ट इंडेक्सिंग / Programme for Permuted Subject Indexing",
+    "D": "पोस्टुलेट-बेस्ड परम्यूटेड सब्जेक्ट इंडेक्सिंग / Postulate-Based Permuted Subject Indexing"
+   },
+   "q": "POPSI का पूर्ण रूप क्या है? / What is the full form of POPSI?"
+  },
+  {
+   "answer": "A",
+   "explanation": "डबलिन कोर मेटाडेटा तत्व समूह ISO 15836 मानक के रूप में प्रकाशित है। ISO 2709 मार्क अभिलेख संरचना, ISO 2108 ISBN तथा ISO 3297 ISSN से संबंधित है।",
+   "options": {
+    "A": "ISO 15836 / ISO 15836",
+    "B": "ISO 2709 / ISO 2709",
+    "C": "ISO 2108 / ISO 2108",
+    "D": "ISO 3297 / ISO 3297"
+   },
+   "q": "डबलिन कोर (Dublin Core) मेटाडेटा मानक किस ISO मानक के रूप में प्रकाशित है? / The Dublin Core metadata standard is published as which ISO standard?"
+  },
+  {
+   "answer": "C",
+   "explanation": "शृंखला प्रक्रिया में वर्ग संख्या के योजक चिह्नों से बनने वाली कड़ियाँ 'मिथ्या कड़ी' कहलाती हैं, क्योंकि वे किसी वास्तविक विषय को नहीं दर्शातीं; इनके अंतर्गत कोई प्रविष्टि नहीं बनाई जाती।",
+   "options": {
+    "A": "अन्वेषित कड़ी / Sought Link",
+    "B": "लुप्त कड़ी / Missing Link",
+    "C": "मिथ्या कड़ी / False Link",
+    "D": "अवांछित कड़ी / Unsought Link"
+   },
+   "q": "शृंखला प्रक्रिया (Chain Procedure) में योजक चिह्नों (connecting symbols) से बनने वाली कड़ी क्या कहलाती है? / In Chain Procedure, a link arising from connecting symbols (facet indicators) is called what?"
+  },
+  {
+   "answer": "B",
+   "explanation": "मेश (मेडिकल सब्जेक्ट हेडिंग्स) अमेरिका की नेशनल लाइब्रेरी ऑफ़ मेडिसिन द्वारा प्रकाशित नियंत्रित शब्दावली है, जिसका प्रयोग मेडलाइन/पबमेड डेटाबेस में चिकित्सा साहित्य के अनुक्रमण हेतु होता है।",
+   "options": {
+    "A": "विश्व स्वास्थ्य संगठन / World Health Organization",
+    "B": "नेशनल लाइब्रेरी ऑफ़ मेडिसिन, अमेरिका / National Library of Medicine, USA",
+    "C": "कांग्रेस पुस्तकालय / Library of Congress",
+    "D": "इफ्ला / IFLA"
+   },
+   "q": "MeSH (चिकित्सा विषय शीर्षक) का प्रकाशन किस संस्था द्वारा किया जाता है? / MeSH (Medical Subject Headings) is published by which institution?"
+  },
+  {
+   "answer": "D",
+   "explanation": "वियाफ़ (वर्चुअल इंटरनेशनल अथॉरिटी फ़ाइल) विभिन्न राष्ट्रीय पुस्तकालयों की नाम-प्राधिकरण फ़ाइलों को जोड़ने वाली अंतरराष्ट्रीय सेवा है, जिसका संचालन ओसीएलसी द्वारा भागीदार पुस्तकालयों के सहयोग से किया जाता है।",
+   "options": {
+    "A": "वर्चुअल इंडेक्स ऑफ़ अथॉरिटी फ़ॉर्मेट्स / Virtual Index of Authority Formats",
+    "B": "वेरिफ़ाइड इंटरनेशनल अथॉरिटी फ़ाइल / Verified International Authority File",
+    "C": "वर्चुअल इन्फ़ॉर्मेशन एक्सेस फ़ैसिलिटी / Virtual Information Access Facility",
+    "D": "वर्चुअल इंटरनेशनल अथॉरिटी फ़ाइल / Virtual International Authority File"
+   },
+   "q": "VIAF का पूर्ण रूप क्या है? / What is the full form of VIAF?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्मरण-मूल्य के नियम के अनुसार शीर्षक या प्रविष्टि-शब्द के लिए वह रूप चुना जाना चाहिए जो पाठकों के मन में सर्वाधिक स्मरण-मूल्य रखता हो, ताकि वे सूची में सरलता से खोज सकें। यह रंगनाथन के सूचीकरण नियमों में से एक है।",
+   "options": {
+    "A": "वे शब्द-रूप जिन्हें पाठक सर्वाधिक स्मरण एवं पहचानते हैं / The word-forms most recalled and recognised by readers",
+    "B": "सबसे दीर्घ शब्द-रूप / The longest word-form",
+    "C": "सबसे प्राचीन शब्द-रूप / The oldest word-form",
+    "D": "सबसे संक्षिप्त शब्द-रूप / The shortest word-form"
+   },
+   "q": "सूचीकरण का 'स्मरण-मूल्य का नियम' (Canon of Recall Value) शीर्षक चयन में किस बात पर बल देता है? / The 'Canon of Recall Value' in cataloguing emphasises what in the choice of a heading?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पुस्तकालय एवं सूचना विज्ञान की प्रसिद्ध शब्दावली 'हैरॉड्स लाइब्रेरियन्स ग्लॉसरी' का संकलन लियोनार्ड मॉन्टेग्यू हैरॉड ने किया था। यह इस क्षेत्र की मानक संदर्भ-कृति मानी जाती है।",
+   "options": {
+    "A": "एलन केंट / Allen Kent",
+    "B": "मौरिस लाइन / Maurice Line",
+    "C": "लियोनार्ड मॉन्टेग्यू हैरॉड / Leonard Montague Harrod",
+    "D": "जे. एच. शेरा / J. H. Shera"
+   },
+   "q": "'हैरॉड्स लाइब्रेरियन्स ग्लॉसरी' (Harrod's Librarians' Glossary) के संकलनकर्ता कौन थे? / Who compiled 'Harrod's Librarians' Glossary'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "कैरोल कुहल्थाउ ने सूचना खोज प्रक्रिया प्रतिरूप दिया, जिसमें खोज के छह चरण बताए गए हैं — प्रारंभ, चयन, अन्वेषण, सूत्रीकरण, संग्रह तथा प्रस्तुतीकरण। इसमें खोजकर्ता की भावनाओं को भी महत्व दिया गया है।",
+   "options": {
+    "A": "निकोलस बेल्किन / Nicholas Belkin",
+    "B": "कैरोल कुहल्थाउ / Carol Kuhlthau",
+    "C": "ब्रेंडा डर्विन / Brenda Dervin",
+    "D": "डेविड एलिस / David Ellis"
+   },
+   "q": "'सूचना खोज प्रक्रिया' (Information Search Process – ISP) प्रतिरूप किसने दिया था? / Who proposed the 'Information Search Process' (ISP) model?"
+  },
+  {
+   "answer": "D",
+   "explanation": "धूसर साहित्य वह साहित्य है जो सामान्य वाणिज्यिक प्रकाशन-माध्यमों से प्रकाशित नहीं होता, जैसे शोध रिपोर्ट, शोध-प्रबंध, सम्मेलन-पत्र, सरकारी दस्तावेज़ आदि। इसे प्राप्त करना एवं नियंत्रित करना कठिन होता है।",
+   "options": {
+    "A": "केवल धूसर आवरण वाली पुस्तकें / Books with grey covers only",
+    "B": "केवल अप्रकाशित पांडुलिपियाँ / Unpublished manuscripts only",
+    "C": "दुर्लभ प्राचीन ग्रंथ / Rare ancient books",
+    "D": "वाणिज्यिक प्रकाशन-माध्यमों से बाहर प्रकाशित रिपोर्ट, शोध-प्रबंध आदि साहित्य / Literature such as reports and theses produced outside commercial publishing channels"
+   },
+   "q": "'धूसर साहित्य' (Grey Literature) से क्या अभिप्राय है? / What is meant by 'Grey Literature'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इफ्ला एलआरएम 2017 में प्रकाशित हुआ। यह एफआरबीआर, एफरैड तथा एफआरसैड — तीनों वैचारिक प्रतिरूपों को एकीकृत करके बनाया गया ग्रंथात्मक ब्रह्मांड का समेकित प्रतिरूप है।",
+   "options": {
+    "A": "2017 / 2017",
+    "B": "2010 / 2010",
+    "C": "2013 / 2013",
+    "D": "2020 / 2020"
+   },
+   "q": "इफ्ला एलआरएम (IFLA LRM – Library Reference Model) किस वर्ष प्रकाशित हुआ था? / In which year was the IFLA LRM (Library Reference Model) published?"
+  },
+  {
+   "answer": "B",
+   "explanation": "सिरिल क्लेवरडन ने 1950–60 के दशक में क्रैनफ़ील्ड प्रयोगों द्वारा विभिन्न अनुक्रमण प्रणालियों का तुलनात्मक मूल्यांकन किया। इन्हीं प्रयोगों से रिकॉल तथा प्रिसिज़न जैसे मूल्यांकन मापों का विकास हुआ।",
+   "options": {
+    "A": "जेरार्ड सैल्टन / Gerard Salton",
+    "B": "सिरिल क्लेवरडन / Cyril Cleverdon",
+    "C": "एफ. डब्ल्यू. लैंकेस्टर / F. W. Lancaster",
+    "D": "कैल्विन मूर्स / Calvin Mooers"
+   },
+   "q": "सूचना पुनःप्राप्ति के मूल्यांकन हेतु प्रसिद्ध 'क्रैनफ़ील्ड प्रयोग' (Cranfield Experiments) किसने किए थे? / Who conducted the famous 'Cranfield Experiments' for the evaluation of information retrieval systems?"
+  },
+  {
+   "answer": "C",
+   "explanation": "सदिश समष्टि प्रतिरूप जेरार्ड सैल्टन ने विकसित किया था। इसमें प्रलेखों तथा प्रश्नों को पदों (टर्म्स) के सदिश के रूप में दर्शाया जाता है और उनकी समानता को कोणीय (कोसाइन) माप से निकाला जाता है। सैल्टन ने स्मार्ट (SMART) पुनःप्राप्ति प्रणाली भी बनाई थी।",
+   "options": {
+    "A": "सिरिल क्लेवरडन / Cyril Cleverdon",
+    "B": "कैरेन स्पार्क जोन्स / Karen Sparck Jones",
+    "C": "जेरार्ड सैल्टन / Gerard Salton",
+    "D": "हंस पीटर लुह्न / Hans Peter Luhn"
+   },
+   "q": "सूचना पुनःप्राप्ति का 'सदिश समष्टि प्रतिरूप' (Vector Space Model) किसने विकसित किया था? / Who developed the 'Vector Space Model' of information retrieval?"
+  },
+  {
+   "answer": "D",
+   "explanation": "व्युत्क्रम प्रलेख आवृत्ति (आईडीएफ) की अवधारणा कैरेन स्पार्क जोन्स ने 1972 में दी थी। यह किसी पद की विशिष्टता मापता है — जो पद कम प्रलेखों में आता है, उसका आईडीएफ मान अधिक होता है। यह टीएफ–आईडीएफ भार-विधि का आधार है।",
+   "options": {
+    "A": "जेरार्ड सैल्टन / Gerard Salton",
+    "B": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "C": "हंस पीटर लुह्न / Hans Peter Luhn",
+    "D": "कैरेन स्पार्क जोन्स / Karen Sparck Jones"
+   },
+   "q": "'व्युत्क्रम प्रलेख आवृत्ति' (Inverse Document Frequency – IDF) की अवधारणा किसने दी थी? / Who gave the concept of 'Inverse Document Frequency' (IDF)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्वर्ण मुक्त अभिगम में शोध-लेख प्रकाशक की मुक्त-अभिगम पत्रिका में प्रकाशन के साथ ही सबके लिए निःशुल्क उपलब्ध हो जाता है; इसके लिए प्रायः लेख-प्रक्रिया शुल्क (एपीसी) लिया जाता है। स्वयं-अभिलेखन वाला मार्ग 'हरित मुक्त अभिगम' कहलाता है।",
+   "options": {
+    "A": "लेख प्रकाशक की मुक्त-अभिगम पत्रिका में सीधे निःशुल्क उपलब्ध होता है / The article is freely available directly in the publisher's open access journal",
+    "B": "लेखक लेख को स्वयं संस्थागत भंडार में अभिलेखित करता है / The author self-archives the article in a repository",
+    "C": "लेख केवल मुद्रित रूप में उपलब्ध होता है / The article is available only in print",
+    "D": "लेख केवल सदस्यता वाले पाठकों को मिलता है / The article is available only to subscribers"
+   },
+   "q": "'स्वर्ण मुक्त अभिगम' (Gold Open Access) से तात्पर्य है— / 'Gold Open Access' means—"
+  },
+  {
+   "answer": "B",
+   "explanation": "सोल का पूर्ण रूप 'सॉफ़्टवेयर फ़ॉर यूनिवर्सिटी लाइब्रेरीज़' है। यह इन्फ़्लिबनेट केंद्र द्वारा विकसित एकीकृत पुस्तकालय प्रबंधन सॉफ़्टवेयर है, जो विश्वविद्यालय एवं महाविद्यालय पुस्तकालयों में प्रयुक्त होता है।",
+   "options": {
+    "A": "सिस्टम फ़ॉर ऑनलाइन यूनिवर्सिटी लाइब्रेरीज़ / System for Online University Libraries",
+    "B": "सॉफ़्टवेयर फ़ॉर यूनिवर्सिटी लाइब्रेरीज़ / Software for University Libraries",
+    "C": "सॉफ़्टवेयर फ़ॉर ऑनलाइन लर्निंग / Software for Online Learning",
+    "D": "स्टैंडर्ड ऑनलाइन यूनियन लिस्ट / Standard Online Union List"
+   },
+   "q": "SOUL पुस्तकालय सॉफ़्टवेयर का पूर्ण रूप क्या है? / What is the full form of the SOUL library software?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यूजीसी-केयर का पूर्ण रूप 'कंसोर्टियम फ़ॉर एकेडमिक एंड रिसर्च एथिक्स' है। विश्वविद्यालय अनुदान आयोग ने गुणवत्तापूर्ण शोध-पत्रिकाओं की संदर्भ सूची बनाए रखने तथा शोषक (प्रिडेटरी) पत्रिकाओं पर रोक लगाने हेतु इसका गठन किया था।",
+   "options": {
+    "A": "काउंसिल फ़ॉर एकेडमिक एंड रिसर्च एक्सीलेंस / Council for Academic and Research Excellence",
+    "B": "कमिटी फ़ॉर एक्रेडिटेशन ऑफ़ रिसर्च एथिक्स / Committee for Accreditation of Research Ethics",
+    "C": "कंसोर्टियम फ़ॉर एकेडमिक एंड रिसर्च एथिक्स / Consortium for Academic and Research Ethics",
+    "D": "सेंटर फ़ॉर एकेडमिक रिसर्च एंड इवैल्यूएशन / Centre for Academic Research and Evaluation"
+   },
+   "q": "UGC-CARE में 'CARE' का पूर्ण रूप क्या है? / What is the full form of 'CARE' in UGC-CARE?"
+  },
+  {
+   "answer": "D",
+   "explanation": "डेलनेट की शुरुआत 1988 में 'दिल्ली लाइब्रेरी नेटवर्क' के रूप में हुई थी। दिल्ली से बाहर विस्तार होने पर वर्ष 2000 में इसका नाम बदलकर 'डेवलपिंग लाइब्रेरी नेटवर्क' कर दिया गया, जबकि संक्षिप्त नाम डेलनेट ही रहा।",
+   "options": {
+    "A": "दिल्ली लाइब्रेरी नेटवर्किंग / Delhi Library Networking",
+    "B": "डिजिटल लाइब्रेरी नेटवर्क / Digital Library Network",
+    "C": "डिस्ट्रिब्यूटेड लाइब्रेरी नेटवर्क / Distributed Library Network",
+    "D": "डेवलपिंग लाइब्रेरी नेटवर्क / Developing Library Network"
+   },
+   "q": "DELNET का नाम 'दिल्ली लाइब्रेरी नेटवर्क' से बदलकर क्या रखा गया था? / The name of DELNET was changed from 'Delhi Library Network' to what?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इंडकैट इन्फ़्लिबनेट केंद्र द्वारा बनाया गया भारतीय विश्वविद्यालयों के पुस्तकालयों में उपलब्ध पुस्तकों, शोध-प्रबंधों तथा पत्रिकाओं का ऑनलाइन संघ सूचीपत्र है, जिससे किसी दस्तावेज़ की उपलब्धता का स्थान जाना जा सकता है।",
+   "options": {
+    "A": "भारतीय विश्वविद्यालय पुस्तकालयों की पुस्तकों, शोध-प्रबंधों एवं पत्रिकाओं का ऑनलाइन संघ सूचीपत्र / Online union catalogue of books, theses and serials of Indian university libraries",
+    "B": "केवल ई-पुस्तकों की मूल्य सूची / Price list of e-books only",
+    "C": "विद्यालय पुस्तकालयों का सूचीपत्र / Catalogue of school libraries",
+    "D": "प्रकाशकों की नई पुस्तकों की सूची / List of publishers' new books"
+   },
+   "q": "इन्फ़्लिबनेट का 'IndCat' क्या है? / What is 'IndCat' of INFLIBNET?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इंडेस्ट-एआईसीटीई कंसोर्टियम की स्थापना 2003 में मानव संसाधन विकास मंत्रालय द्वारा की गई थी और इसका मुख्यालय आईआईटी दिल्ली में स्थित था। बाद में यह ई-शोध सिंधु कंसोर्टियम में विलीन हो गया।",
+   "options": {
+    "A": "आईआईटी बॉम्बे / IIT Bombay",
+    "B": "आईआईटी दिल्ली / IIT Delhi",
+    "C": "इन्फ़्लिबनेट केंद्र, गांधीनगर / INFLIBNET Centre, Gandhinagar",
+    "D": "एआईसीटीई मुख्यालय, नई दिल्ली / AICTE Headquarters, New Delhi"
+   },
+   "q": "INDEST-AICTE कंसोर्टियम का मुख्यालय/समन्वय केंद्र किस संस्था में स्थित था? / The headquarters/coordinating centre of the INDEST-AICTE Consortium was located at which institution?"
+  },
+  {
+   "answer": "C",
+   "explanation": "स्निप माप हेंक एफ़. मोएड ने विकसित किया था। यह पत्रिका के उद्धरण-प्रभाव को उसके विषय-क्षेत्र की उद्धरण-क्षमता के अनुसार सामान्यीकृत करके मापता है, जिससे विभिन्न विषयों की पत्रिकाओं की तुलना संभव होती है।",
+   "options": {
+    "A": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "B": "लियो एग्हे / Leo Egghe",
+    "C": "हेंक एफ़. मोएड / Henk F. Moed",
+    "D": "जॉर्ज हिर्श / Jorge Hirsch"
+   },
+   "q": "पत्रिका-माप 'SNIP' (Source Normalized Impact per Paper) किसने विकसित किया था? / Who developed the journal metric 'SNIP' (Source Normalized Impact per Paper)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कुर्ट लेविन के परिवर्तन-प्रबंधन प्रतिरूप में तीन चरण हैं — विगलन (वर्तमान स्थिति को परिवर्तन हेतु तैयार करना), परिवर्तन (नई स्थिति की ओर बढ़ना) तथा पुनर्हिमन (नई स्थिति को स्थिर करना)। प्रथम चरण विगलन है।",
+   "options": {
+    "A": "विगलन (Unfreeze) / Unfreeze",
+    "B": "पुनर्हिमन (Refreeze) / Refreeze",
+    "C": "परिवर्तन (Change) / Change",
+    "D": "प्रतिरोध (Resistance) / Resistance"
+   },
+   "q": "कुर्ट लेविन के परिवर्तन-प्रबंधन प्रतिरूप (Change Management Model) का प्रथम चरण कौन-सा है? / What is the first stage of Kurt Lewin's Change Management Model?"
+  },
+  {
+   "answer": "D",
+   "explanation": "'क्वालिटी इज़ फ़्री' पुस्तक के लेखक फ़िलिप बी. क्रॉस्बी हैं। उन्होंने 'शून्य दोष' तथा 'पहली बार में ही सही करो' (Do It Right First Time) की अवधारणा दी थी।",
+   "options": {
+    "A": "डब्ल्यू. एडवर्ड्स डेमिंग / W. Edwards Deming",
+    "B": "जोसेफ़ जुरान / Joseph Juran",
+    "C": "काओरु इशिकावा / Kaoru Ishikawa",
+    "D": "फ़िलिप बी. क्रॉस्बी / Philip B. Crosby"
+   },
+   "q": "'क्वालिटी इज़ फ़्री' (Quality is Free) पुस्तक तथा 'शून्य दोष' (Zero Defects) की अवधारणा किस गुणवत्ता-गुरु से जुड़ी है? / The book 'Quality is Free' and the concept of 'Zero Defects' are associated with which quality guru?"
+  }
+ ],
+ "subject": "BLIS"
+}
