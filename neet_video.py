@@ -26,6 +26,10 @@ SUBJECT = os.environ.get("NEET_SUBJECT", "Physics")
 PLAYLIST_YEAR = os.environ.get("NEET_PLAYLIST_YEAR", "PLDSSy6XQIWDo")
 PLAYLIST_SUBJECT = os.environ.get("NEET_PLAYLIST_SUBJECT", "PLLk_mLTz928E")
 
+CHANNEL_URL = "https://www.youtube.com/@ApnaBiharSamacharLive"
+TELEGRAM_URL = "https://t.me/ApnaBiharSamachar"
+INSTAGRAM_URL = "https://www.instagram.com/apnabiharsamacharlive"
+
 def year_words(n):
     """2000-2099 ko shabdon me (user ka saal niyam): 2025 -> 'दो हज़ार पच्चीस'."""
     if 2000 <= n <= 2099:
