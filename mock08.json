@@ -1,0 +1,556 @@
+{
+ "mock_no": 8,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "अशर्बनिपाल का पुस्तकालय प्राचीन असीरिया की राजधानी निनवे में स्थित था। इसमें हज़ारों मिट्टी की तख्तियाँ (क्यूनिफ़ॉर्म लिपि) संग्रहीत थीं, जिनमें प्रसिद्ध गिलगमेश महाकाव्य भी शामिल है।",
+   "options": {
+    "A": "अलेक्ज़ेंड्रिया / Alexandria",
+    "B": "निनवे / Nineveh",
+    "C": "बगदाद / Baghdad",
+    "D": "एथेंस / Athens"
+   },
+   "q": "विश्व के प्राचीनतम ज्ञात शाही पुस्तकालयों में से एक, राजा अशर्बनिपाल का पुस्तकालय, कहाँ स्थित था? / The library of King Ashurbanipal, one of the oldest known royal libraries of the ancient world, was located at:"
+  },
+  {
+   "answer": "A",
+   "explanation": "कांग्रेस पुस्तकालय की स्थापना 1800 ईस्वी में अमेरिकी कांग्रेस के संदर्भ पुस्तकालय के रूप में हुई थी। यह आज विश्व के सबसे बड़े पुस्तकालयों में गिना जाता है।",
+   "options": {
+    "A": "1800 / 1800",
+    "B": "1825 / 1825",
+    "C": "1876 / 1876",
+    "D": "1901 / 1901"
+   },
+   "q": "कांग्रेस पुस्तकालय (Library of Congress), अमेरिका की स्थापना किस वर्ष हुई थी? / The Library of Congress, USA was founded in the year:"
+  },
+  {
+   "answer": "D",
+   "explanation": "एशियाटिक सोसायटी की स्थापना 15 जनवरी 1784 को कोलकाता में सर विलियम जोन्स ने की थी। यह एशियाई अध्ययन तथा शोध की प्राचीनतम संस्थाओं में से एक है।",
+   "options": {
+    "A": "वॉरेन हेस्टिंग्स / Warren Hastings",
+    "B": "लॉर्ड कर्ज़न / Lord Curzon",
+    "C": "जॉन मैकफ़ारलेन / John Macfarlane",
+    "D": "सर विलियम जोन्स / Sir William Jones"
+   },
+   "q": "एशियाटिक सोसायटी, कोलकाता (1784) के संस्थापक कौन थे? / Who was the founder of the Asiatic Society, Kolkata (1784)?"
+  },
+  {
+   "answer": "C",
+   "explanation": "रंगनाथन ने पाँच नियमों का प्रतिपादन सर्वप्रथम 1928 में किया था। इन्हें पुस्तक रूप में 1931 में 'द फ़ाइव लॉज़ ऑफ़ लाइब्रेरी साइंस' के नाम से प्रकाशित किया गया।",
+   "options": {
+    "A": "1924 / 1924",
+    "B": "1931 / 1931",
+    "C": "1928 / 1928",
+    "D": "1934 / 1934"
+   },
+   "q": "रंगनाथन ने पुस्तकालय विज्ञान के पाँच नियमों का प्रतिपादन सर्वप्रथम किस वर्ष किया था? / In which year did Ranganathan first formulate the Five Laws of Library Science?"
+  },
+  {
+   "answer": "A",
+   "explanation": "पुस्तकालय विज्ञान के क्षेत्र में उल्लेखनीय योगदान के लिए भारत सरकार ने डॉ. रंगनाथन को 1957 में पद्मश्री से सम्मानित किया था।",
+   "options": {
+    "A": "1957 / 1957",
+    "B": "1954 / 1954",
+    "C": "1962 / 1962",
+    "D": "1970 / 1970"
+   },
+   "q": "डॉ. एस. आर. रंगनाथन को पद्मश्री सम्मान किस वर्ष प्रदान किया गया था? / In which year was Dr. S. R. Ranganathan awarded the Padma Shri?"
+  },
+  {
+   "answer": "B",
+   "explanation": "रंगनाथन ने 1924–25 में लंदन के यूनिवर्सिटी कॉलेज के पुस्तकालय विद्यालय में अध्ययन किया, जहाँ उनके शिक्षक प्रसिद्ध वर्गीकरणविद् डब्ल्यू. सी. बर्विक सेयर्स थे।",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "डब्ल्यू. सी. बर्विक सेयर्स / W. C. Berwick Sayers",
+    "C": "हेनरी एवलिन ब्लिस / Henry Evelyn Bliss",
+    "D": "चार्ल्स एमी कटर / Charles Ammi Cutter"
+   },
+   "q": "लंदन के यूनिवर्सिटी कॉलेज में रंगनाथन के पुस्तकालय विज्ञान के शिक्षक कौन थे? / Who was the teacher of Ranganathan in Library Science at University College, London?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यह पुस्तक वर्गीकरण के सिद्धांतों का मूल ग्रंथ है, जिसका प्रथम संस्करण 1937 में प्रकाशित हुआ था। इसमें रंगनाथन ने वर्गीकरण के नियमों (कैनन) तथा सिद्धांतों का विस्तृत प्रतिपादन किया है।",
+   "options": {
+    "A": "1933 / 1933",
+    "B": "1945 / 1945",
+    "C": "1937 / 1937",
+    "D": "1957 / 1957"
+   },
+   "q": "रंगनाथन की पुस्तक 'Prolegomena to Library Classification' का प्रथम संस्करण किस वर्ष प्रकाशित हुआ? / The first edition of Ranganathan's 'Prolegomena to Library Classification' was published in:"
+  },
+  {
+   "answer": "D",
+   "explanation": "इस पुस्तक का प्रकाशन 1931 में मद्रास पुस्तकालय संघ ने लंदन के एडवर्ड गोल्डस्टोन के साथ मिलकर किया था। मद्रास पुस्तकालय संघ की स्थापना 1928 में रंगनाथन के प्रयासों से हुई थी।",
+   "options": {
+    "A": "भारतीय पुस्तकालय संघ / Indian Library Association",
+    "B": "ऑक्सफ़ोर्ड यूनिवर्सिटी प्रेस / Oxford University Press",
+    "C": "एशिया पब्लिशिंग हाउस / Asia Publishing House",
+    "D": "मद्रास पुस्तकालय संघ / Madras Library Association"
+   },
+   "q": "'The Five Laws of Library Science' (1931) का प्रकाशन किसने किया था? / Who published 'The Five Laws of Library Science' (1931)?"
+  },
+  {
+   "answer": "C",
+   "explanation": "अंतरराष्ट्रीय पुस्तकालय संघ महासंघ (इफ्ला) की स्थापना 1927 में स्कॉटलैंड के एडिनबर्ग नगर में हुई थी। इसका मुख्यालय वर्तमान में हेग (नीदरलैंड) में है।",
+   "options": {
+    "A": "लंदन / London",
+    "B": "पेरिस / Paris",
+    "C": "एडिनबर्ग / Edinburgh",
+    "D": "हेग / The Hague"
+   },
+   "q": "IFLA की स्थापना (1927) किस नगर में हुई थी? / In which city was IFLA founded (1927)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "राजा राममोहन राय पुस्तकालय प्रतिष्ठान का मुख्यालय कोलकाता में स्थित है। यह 1972 में स्थापित भारत सरकार का एक स्वायत्त संगठन है, जो सार्वजनिक पुस्तकालयों को सहायता प्रदान करता है।",
+   "options": {
+    "A": "कोलकाता / Kolkata",
+    "B": "नई दिल्ली / New Delhi",
+    "C": "मुंबई / Mumbai",
+    "D": "चेन्नई / Chennai"
+   },
+   "q": "राजा राममोहन राय पुस्तकालय प्रतिष्ठान (RRRLF) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the Raja Rammohun Roy Library Foundation (RRRLF) located?"
+  },
+  {
+   "answer": "B",
+   "explanation": "1876 में स्थापित अमेरिकन लाइब्रेरी एसोसिएशन के प्रथम अध्यक्ष जस्टिन विंसर थे। मेल्विल डेवी इसके संस्थापक सदस्यों में थे तथा प्रारंभ में सचिव रहे।",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "जस्टिन विंसर / Justin Winsor",
+    "C": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+    "D": "विलियम फ्रेडरिक पूल / William Frederick Poole"
+   },
+   "q": "अमेरिकन लाइब्रेरी एसोसिएशन (ALA) के प्रथम अध्यक्ष कौन थे? / Who was the first President of the American Library Association (ALA)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "'लाइब्रेरी जर्नल' का प्रकाशन 1876 में मेल्विल डेवी द्वारा प्रारंभ किया गया था। यह पुस्तकालय विज्ञान की प्राचीनतम पत्रिकाओं में से एक है।",
+   "options": {
+    "A": "1877 / 1877",
+    "B": "1900 / 1900",
+    "C": "1927 / 1927",
+    "D": "1876 / 1876"
+   },
+   "q": "'Library Journal' पत्रिका का प्रकाशन किस वर्ष प्रारंभ हुआ था? / In which year was the publication of the 'Library Journal' started?"
+  },
+  {
+   "answer": "A",
+   "explanation": "बिहार सार्वजनिक पुस्तकालय अधिनियम 2008 में पारित हुआ। इससे राज्य में सार्वजनिक पुस्तकालय प्रणाली के संगठन तथा विकास को वैधानिक आधार मिला।",
+   "options": {
+    "A": "2008 / 2008",
+    "B": "2001 / 2001",
+    "C": "2005 / 2005",
+    "D": "2012 / 2012"
+   },
+   "q": "बिहार सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Bihar Public Libraries Act passed?"
+  },
+  {
+   "answer": "C",
+   "explanation": "भारत का पेटेंट अधिनियम 1970 में पारित हुआ और 1972 से लागू हुआ। इसके अंतर्गत पेटेंट की अवधि आवेदन तिथि से 20 वर्ष होती है।",
+   "options": {
+    "A": "1957 / 1957",
+    "B": "1999 / 1999",
+    "C": "1970 / 1970",
+    "D": "2005 / 2005"
+   },
+   "q": "भारतीय पेटेंट अधिनियम किस वर्ष पारित हुआ था? / The Indian Patents Act was passed in the year:"
+  },
+  {
+   "answer": "B",
+   "explanation": "विश्व बौद्धिक संपदा संगठन का मुख्यालय स्विट्ज़रलैंड के जिनेवा नगर में है। इसकी स्थापना 1967 में हुई थी तथा यह संयुक्त राष्ट्र की एक विशेष एजेंसी है।",
+   "options": {
+    "A": "पेरिस / Paris",
+    "B": "जिनेवा / Geneva",
+    "C": "न्यूयॉर्क / New York",
+    "D": "हेग / The Hague"
+   },
+   "q": "विश्व बौद्धिक संपदा संगठन (WIPO) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the World Intellectual Property Organization (WIPO)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ब्रिटिश लाइब्रेरी का गठन ब्रिटिश लाइब्रेरी अधिनियम, 1972 के अंतर्गत हुआ तथा यह 1973 से कार्यरत है। यह यूनाइटेड किंगडम का राष्ट्रीय पुस्तकालय है।",
+   "options": {
+    "A": "ब्रिटिश लाइब्रेरी अधिनियम, 1965 / British Library Act, 1965",
+    "B": "ब्रिटिश संग्रहालय अधिनियम, 1963 / British Museum Act, 1963",
+    "C": "सार्वजनिक पुस्तकालय अधिनियम, 1850 / Public Libraries Act, 1850",
+    "D": "ब्रिटिश लाइब्रेरी अधिनियम, 1972 / British Library Act, 1972"
+   },
+   "q": "ब्रिटिश लाइब्रेरी की स्थापना किस अधिनियम के अंतर्गत की गई थी? / The British Library was established under which Act?"
+  },
+  {
+   "answer": "B",
+   "explanation": "भारत सरकार ने 1985 में प्रो. डी. पी. चट्टोपाध्याय की अध्यक्षता में राष्ट्रीय पुस्तकालय एवं सूचना प्रणाली नीति समिति गठित की थी, जिसने 1986 में अपना प्रतिवेदन प्रस्तुत किया।",
+   "options": {
+    "A": "डॉ. एस. आर. रंगनाथन / Dr. S. R. Ranganathan",
+    "B": "प्रो. डी. पी. चट्टोपाध्याय / Prof. D. P. Chattopadhyay",
+    "C": "प्रो. पी. एन. कौला / Prof. P. N. Kaula",
+    "D": "डॉ. के. पी. सिन्हा / Dr. K. P. Sinha"
+   },
+   "q": "राष्ट्रीय पुस्तकालय एवं सूचना प्रणाली नीति (NAPLIS) हेतु गठित समिति (1985) के अध्यक्ष कौन थे? / Who was the Chairman of the Committee on National Policy on Library and Information System (NAPLIS), 1985?"
+  },
+  {
+   "answer": "A",
+   "explanation": "डेवी दशमलव वर्गीकरण में मुख्य वर्ग 400 भाषा के लिए है। इसमें भाषाविज्ञान तथा विभिन्न भाषाओं के शब्दकोश व व्याकरण रखे जाते हैं।",
+   "options": {
+    "A": "भाषा / Language",
+    "B": "दर्शन एवं मनोविज्ञान / Philosophy and Psychology",
+    "C": "धर्म / Religion",
+    "D": "साहित्य / Literature"
+   },
+   "q": "DDC में मुख्य वर्ग 400 किस विषय को दर्शाता है? / In DDC, Main Class 400 represents:"
+  },
+  {
+   "answer": "C",
+   "explanation": "द्विबिंदु वर्गीकरण में मुख्य वर्ग टी शिक्षा को दर्शाता है। मुख्य वर्ग एक्स अर्थशास्त्र, वाई समाजशास्त्र तथा डब्ल्यू राजनीति विज्ञान के लिए है।",
+   "options": {
+    "A": "अर्थशास्त्र / Economics",
+    "B": "समाजशास्त्र / Sociology",
+    "C": "शिक्षा / Education",
+    "D": "राजनीति विज्ञान / Political Science"
+   },
+   "q": "द्विबिंदु वर्गीकरण (Colon Classification) में मुख्य वर्ग 'T' किस विषय को दर्शाता है? / In Colon Classification, Main Class 'T' represents:"
+  },
+  {
+   "answer": "B",
+   "explanation": "सार्वभौमिक दशमलव वर्गीकरण में बराबर का चिह्न भाषा के सामान्य सहायक का सूचक है। उदाहरणतः =111 अंग्रेज़ी भाषा को दर्शाता है।",
+   "options": {
+    "A": "स्थान / Place",
+    "B": "भाषा / Language",
+    "C": "समय / Time",
+    "D": "रूप / Form"
+   },
+   "q": "UDC में '=' (बराबर) चिह्न किसका सूचक है? / In UDC, the '=' (equals) sign indicates:"
+  },
+  {
+   "answer": "D",
+   "explanation": "एलसीसी में वर्ग एल शिक्षा के लिए निर्धारित है। वर्ग के विधि, वर्ग आर चिकित्सा तथा वर्ग यू सैन्य विज्ञान के लिए है।",
+   "options": {
+    "A": "विधि / Law",
+    "B": "चिकित्सा / Medicine",
+    "C": "सैन्य विज्ञान / Military Science",
+    "D": "शिक्षा / Education"
+   },
+   "q": "कांग्रेस पुस्तकालय वर्गीकरण (LCC) में वर्ग 'L' किस विषय के लिए है? / In the Library of Congress Classification (LCC), Class 'L' is for:"
+  },
+  {
+   "answer": "A",
+   "explanation": "डेवी दशमलव वर्गीकरण का अंकन शुद्ध है, क्योंकि इसमें केवल अरबी अंकों (0–9) का प्रयोग होता है। इसके विपरीत द्विबिंदु वर्गीकरण का अंकन मिश्रित है।",
+   "options": {
+    "A": "शुद्ध अंकन / Pure notation",
+    "B": "मिश्रित अंकन / Mixed notation",
+    "C": "वर्णमाला अंकन / Alphabetic notation",
+    "D": "लचीला अंकन / Flexible notation"
+   },
+   "q": "DDC की अंकन (Notation) प्रणाली किस प्रकार की है? / The notation of DDC is:"
+  },
+  {
+   "answer": "C",
+   "explanation": "डेवी दशमलव वर्गीकरण की संरचना तीन सारांशों में है — प्रथम सारांश में 10 मुख्य वर्ग, द्वितीय में 100 विभाग तथा तृतीय में 1000 अनुभाग होते हैं।",
+   "options": {
+    "A": "10 / 10",
+    "B": "100 / 100",
+    "C": "1000 / 1000",
+    "D": "10000 / 10000"
+   },
+   "q": "DDC के तृतीय सारांश (Third Summary) में कुल कितने अनुभाग (Sections) होते हैं? / How many Sections are there in the Third Summary of DDC?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इससे पूर्व पुस्तकें निश्चित स्थान पर रखी जाती थीं। डेवी ने सापेक्ष स्थान की अवधारणा दी, जिसमें पुस्तकें अपने विषय के सापेक्ष क्रम में रखी जाती हैं, जिससे नई पुस्तकों को बीच में स्थान देना संभव हुआ।",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "मेल्विल डेवी / Melvil Dewey",
+    "C": "सी. ए. कटर / C. A. Cutter",
+    "D": "एंथनी पनिज़ी / Anthony Panizzi"
+   },
+   "q": "पुस्तकालयों में 'सापेक्ष स्थान' (Relative Location) की अवधारणा किसने प्रारंभ की थी? / Who introduced the concept of 'Relative Location' in libraries?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ई. विंडहम हुल्मे ने 1911 में साहित्यिक वारंट का सिद्धांत दिया, जिसके अनुसार वर्गीकरण में कोई पद या वर्ग तभी सम्मिलित किया जाए, जब उस विषय पर साहित्य (प्रकाशित सामग्री) उपलब्ध हो।",
+   "options": {
+    "A": "ई. विंडहम हुल्मे / E. Wyndham Hulme",
+    "B": "एच. ई. ब्लिस / H. E. Bliss",
+    "C": "जे. डी. ब्राउन / J. D. Brown",
+    "D": "डब्ल्यू. सी. बी. सेयर्स / W. C. B. Sayers"
+   },
+   "q": "वर्गीकरण में 'साहित्यिक वारंट' (Literary Warrant) का सिद्धांत किसने दिया था? / Who gave the principle of 'Literary Warrant' in classification?"
+  },
+  {
+   "answer": "D",
+   "explanation": "टैग 856 में इलेक्ट्रॉनिक संसाधन का पता (यूआरएल) तथा अभिगम संबंधी सूचना दी जाती है। इससे पाठक सूची से सीधे ऑनलाइन संसाधन तक पहुँच सकता है।",
+   "options": {
+    "A": "भौतिक विवरण / Physical Description",
+    "B": "संस्करण कथन / Edition Statement",
+    "C": "विषय अतिरिक्त प्रविष्टि / Subject Added Entry",
+    "D": "इलेक्ट्रॉनिक स्थान एवं अभिगम / Electronic Location and Access"
+   },
+   "q": "MARC 21 में टैग 856 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 856 is used for:"
+  },
+  {
+   "answer": "B",
+   "explanation": "टैग 050 में कांग्रेस पुस्तकालय वर्गीकरण पर आधारित आह्वान संख्या दी जाती है, जबकि डेवी आह्वान संख्या टैग 082 में अंकित होती है।",
+   "options": {
+    "A": "डेवी दशमलव आह्वान संख्या / Dewey Decimal Call Number",
+    "B": "कांग्रेस पुस्तकालय आह्वान संख्या / Library of Congress Call Number",
+    "C": "अंतरराष्ट्रीय मानक पुस्तक संख्या / ISBN",
+    "D": "अंतरराष्ट्रीय मानक धारावाहिक संख्या / ISSN"
+   },
+   "q": "MARC 21 में टैग 050 किसके लिए प्रयुक्त होता है? / In MARC 21, tag 050 is used for:"
+  },
+  {
+   "answer": "C",
+   "explanation": "धारावाहिक प्रकाशनों की अंतरराष्ट्रीय मानक संख्या (आईएसएसएन) आईएसओ 3297 मानक द्वारा नियंत्रित होती है। आईएसओ 2709 मार्क अभिलेखों की संरचना से संबंधित है।",
+   "options": {
+    "A": "आईएसओ 2709 / ISO 2709",
+    "B": "आईएसओ 690 / ISO 690",
+    "C": "आईएसओ 3297 / ISO 3297",
+    "D": "आईएसओ 15836 / ISO 15836"
+   },
+   "q": "ISSN प्रणाली किस अंतरराष्ट्रीय मानक द्वारा नियंत्रित होती है? / The ISSN system is governed by which international standard?"
+  },
+  {
+   "answer": "D",
+   "explanation": "एफआरबीआर मॉडल में उपयोगकर्ता के चार कार्य बताए गए हैं — खोजना, पहचानना, चयन करना तथा प्राप्त करना। ये कार्य ग्रंथसूची अभिलेखों के उपयोग को समझने का आधार हैं।",
+   "options": {
+    "A": "खोजना, पढ़ना, लिखना, संग्रह करना / Find, Read, Write, Collect",
+    "B": "चयन करना, माँगना, उधार लेना, लौटाना / Select, Demand, Borrow, Return",
+    "C": "सूची बनाना, वर्गीकृत करना, रखना, देना / Catalogue, Classify, Keep, Issue",
+    "D": "खोजना, पहचानना, चयन करना, प्राप्त करना / Find, Identify, Select, Obtain"
+   },
+   "q": "FRBR मॉडल के अनुसार उपयोगकर्ता के चार कार्य कौन-से हैं? / What are the four user tasks according to the FRBR model?"
+  },
+  {
+   "answer": "A",
+   "explanation": "बिबफ़्रेम को मार्क प्रारूप के उत्तराधिकारी के रूप में विकसित किया जा रहा है, ताकि ग्रंथसूची आँकड़ों को लिंक्ड डेटा के रूप में वेब पर प्रयोग किया जा सके।",
+   "options": {
+    "A": "MARC / MARC",
+    "B": "ISBN / ISBN",
+    "C": "ISSN / ISSN",
+    "D": "डबलिन कोर / Dublin Core"
+   },
+   "q": "BIBFRAME पहल को मुख्यतः किस मानक के प्रतिस्थापन (replacement) के रूप में विकसित किया जा रहा है? / The BIBFRAME initiative is being developed mainly as a replacement of which standard?"
+  },
+  {
+   "answer": "C",
+   "explanation": "डबलिन कोर का नाम अमेरिका के ओहायो राज्य के डबलिन नगर पर रखा गया, जहाँ 1995 में ओसीएलसी परिसर में आयोजित कार्यशाला में इसके 15 तत्व निर्धारित किए गए थे।",
+   "options": {
+    "A": "डबलिन, आयरलैंड / Dublin, Ireland",
+    "B": "डबलिन, कनाडा / Dublin, Canada",
+    "C": "डबलिन, ओहायो (अमेरिका) / Dublin, Ohio (USA)",
+    "D": "डबलिन, ऑस्ट्रेलिया / Dublin, Australia"
+   },
+   "q": "'Dublin Core' मेटाडेटा मानक का नाम किस स्थान पर आधारित है? / The 'Dublin Core' metadata standard is named after which place?"
+  },
+  {
+   "answer": "B",
+   "explanation": "सेमुर लुबेट्ज़की ने 1953 में प्रकाशित अपनी कृति में तत्कालीन सूचीकरण नियमों की आलोचना की तथा सिद्धांत-आधारित सूचीकरण का मार्ग प्रशस्त किया, जिससे पेरिस सिद्धांतों तथा AACR को दिशा मिली।",
+   "options": {
+    "A": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+    "B": "सेमुर लुबेट्ज़की / Seymour Lubetzky",
+    "C": "माइकल गोरमन / Michael Gorman",
+    "D": "एंथनी पनिज़ी / Anthony Panizzi"
+   },
+   "q": "'Cataloging Rules and Principles' (1953) के लेखक कौन थे? / Who was the author of 'Cataloging Rules and Principles' (1953)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "मॉड्स कांग्रेस पुस्तकालय द्वारा विकसित एक मेटाडेटा योजना है, जिसका पूर्ण रूप मेटाडेटा ऑब्जेक्ट डिस्क्रिप्शन स्कीमा है। यह मार्क 21 का एक्सएमएल आधारित सरल रूप माना जाता है।",
+   "options": {
+    "A": "मॉडर्न ऑनलाइन डिस्क्रिप्शन सिस्टम / Modern Online Description System",
+    "B": "मेटाडेटा ऑफ़ डिजिटल सोर्सेज / Metadata of Digital Sources",
+    "C": "मशीन ऑनलाइन डेटा स्टैंडर्ड / Machine Online Data Standard",
+    "D": "मेटाडेटा ऑब्जेक्ट डिस्क्रिप्शन स्कीमा / Metadata Object Description Schema"
+   },
+   "q": "MODS का पूर्ण रूप क्या है? / What is the full form of MODS?"
+  },
+  {
+   "answer": "A",
+   "explanation": "नोआ वेबस्टर का यह विशाल शब्दकोश 1828 में दो खंडों में प्रकाशित हुआ था। इसमें लगभग 70,000 प्रविष्टियाँ थीं तथा इसने अमेरिकी अंग्रेज़ी वर्तनी को मानक रूप दिया।",
+   "options": {
+    "A": "1828 / 1828",
+    "B": "1806 / 1806",
+    "C": "1857 / 1857",
+    "D": "1884 / 1884"
+   },
+   "q": "नोआ वेबस्टर का प्रसिद्ध शब्दकोश 'An American Dictionary of the English Language' किस वर्ष प्रकाशित हुआ था? / In which year was Noah Webster's famous 'An American Dictionary of the English Language' published?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पीटर मार्क रॉजेट का थिसॉरस सर्वप्रथम 1852 में प्रकाशित हुआ था। इसमें शब्दों को उनके अर्थ तथा विचारों के वर्गों में व्यवस्थित किया गया है।",
+   "options": {
+    "A": "1828 / 1828",
+    "B": "1852 / 1852",
+    "C": "1875 / 1875",
+    "D": "1911 / 1911"
+   },
+   "q": "रॉजेट्स थिसॉरस (Roget's Thesaurus) का प्रथम प्रकाशन किस वर्ष हुआ था? / In which year was Roget's Thesaurus first published?"
+  },
+  {
+   "answer": "C",
+   "explanation": "केमिकल एब्स्ट्रैक्ट्स सेवा अमेरिकन केमिकल सोसायटी के केमिकल एब्स्ट्रैक्ट्स सर्विस विभाग द्वारा 1907 से प्रकाशित की जा रही है। यह रसायन विज्ञान की प्रमुख सारकरण सेवा है।",
+   "options": {
+    "A": "रॉयल सोसायटी ऑफ़ केमिस्ट्री / Royal Society of Chemistry",
+    "B": "एल्सेवियर / Elsevier",
+    "C": "अमेरिकन केमिकल सोसायटी / American Chemical Society",
+    "D": "स्प्रिंगर / Springer"
+   },
+   "q": "'Chemical Abstracts' सारकरण सेवा का प्रकाशन किस संस्था द्वारा किया जाता है? / The 'Chemical Abstracts' abstracting service is published by:"
+  },
+  {
+   "answer": "A",
+   "explanation": "एरिक (एजुकेशन रिसोर्सेज़ इन्फ़ॉर्मेशन सेंटर) शिक्षा क्षेत्र का प्रमुख ग्रंथसूची डेटाबेस है, जिसे अमेरिका के शिक्षा विभाग के शिक्षा विज्ञान संस्थान द्वारा संचालित किया जाता है।",
+   "options": {
+    "A": "शिक्षा / Education",
+    "B": "चिकित्सा / Medicine",
+    "C": "कृषि / Agriculture",
+    "D": "अभियांत्रिकी / Engineering"
+   },
+   "q": "ERIC डेटाबेस किस विषय क्षेत्र से संबंधित है? / The ERIC database is related to which subject field?"
+  },
+  {
+   "answer": "D",
+   "explanation": "कोहा का प्रथम संस्करण जनवरी 2000 में न्यूज़ीलैंड में जारी हुआ था। यह विश्व की प्रथम मुक्त स्रोत एकीकृत पुस्तकालय प्रणाली मानी जाती है।",
+   "options": {
+    "A": "1998 / 1998",
+    "B": "2003 / 2003",
+    "C": "2005 / 2005",
+    "D": "2000 / 2000"
+   },
+   "q": "कोहा (Koha) एकीकृत पुस्तकालय प्रणाली का प्रथम संस्करण किस वर्ष जारी हुआ था? / The first version of the Koha Integrated Library System was released in:"
+  },
+  {
+   "answer": "C",
+   "explanation": "डीस्पेस का प्रथम संस्करण नवंबर 2002 में जारी हुआ था। इसे एमआईटी तथा एचपी लैब्स ने संयुक्त रूप से विकसित किया था।",
+   "options": {
+    "A": "2000 / 2000",
+    "B": "2004 / 2004",
+    "C": "2002 / 2002",
+    "D": "2006 / 2006"
+   },
+   "q": "DSpace संस्थागत भंडार सॉफ़्टवेयर का प्रथम सार्वजनिक संस्करण किस वर्ष जारी हुआ था? / The first public version of the DSpace institutional repository software was released in:"
+  },
+  {
+   "answer": "B",
+   "explanation": "शोधगंगा भंडार डीस्पेस सॉफ़्टवेयर पर आधारित है तथा इसका रखरखाव इन्फ़्लिबनेट केंद्र द्वारा किया जाता है। इसमें भारतीय विश्वविद्यालयों के शोध-प्रबंधों का पूर्ण पाठ उपलब्ध है।",
+   "options": {
+    "A": "EPrints / EPrints",
+    "B": "DSpace / DSpace",
+    "C": "Greenstone / Greenstone",
+    "D": "Fedora / Fedora"
+   },
+   "q": "भारत का 'शोधगंगा' शोध-प्रबंध भंडार किस सॉफ़्टवेयर प्लेटफ़ॉर्म पर आधारित है? / India's 'Shodhganga' thesis repository is based on which software platform?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ई-पीजी पाठशाला विश्वविद्यालय अनुदान आयोग की परियोजना है, जिसका क्रियान्वयन इन्फ़्लिबनेट केंद्र, गांधीनगर द्वारा किया जाता है। इसमें स्नातकोत्तर पाठ्यक्रमों की ई-अध्ययन सामग्री उपलब्ध है।",
+   "options": {
+    "A": "इन्फ़्लिबनेट केंद्र / INFLIBNET Centre",
+    "B": "एनसीईआरटी / NCERT",
+    "C": "इग्नू / IGNOU",
+    "D": "राष्ट्रीय पुस्तक न्यास / National Book Trust"
+   },
+   "q": "'ई-पीजी पाठशाला' (e-PG Pathshala) परियोजना का क्रियान्वयन किस संस्था द्वारा किया जाता है? / The 'e-PG Pathshala' project is implemented by which institution?"
+  },
+  {
+   "answer": "B",
+   "explanation": "शोधशुद्धि कार्यक्रम 2019 में प्रारंभ हुआ, जिसके अंतर्गत इन्फ़्लिबनेट के माध्यम से सभी विश्वविद्यालयों को ऑरिजिनल (पूर्व नाम उरकुंड) सॉफ़्टवेयर उपलब्ध कराया गया है।",
+   "options": {
+    "A": "टर्निटिन / Turnitin",
+    "B": "ऑरिजिनल (पूर्व नाम उरकुंड) / Ouriginal (formerly Urkund)",
+    "C": "आईथेंटिकेट / iThenticate",
+    "D": "ग्रामरली / Grammarly"
+   },
+   "q": "UGC के 'शोधशुद्धि' (ShodhShuddhi) कार्यक्रम के अंतर्गत विश्वविद्यालयों को उपलब्ध कराया गया साहित्यिक चोरी-जाँच सॉफ़्टवेयर कौन-सा है? / Which plagiarism detection software is provided to universities under UGC's 'ShodhShuddhi' programme?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पुस्तकालयों में उच्च आवृत्ति बैंड के 13.56 मेगाहर्ट्ज़ वाले RFID टैग प्रयुक्त होते हैं, जो आईएसओ 15693 मानक पर आधारित हैं। इनसे निर्गम-वापसी तथा स्टॉक जाँच का कार्य तीव्र होता है।",
+   "options": {
+    "A": "125 किलोहर्ट्ज़ / 125 kHz",
+    "B": "865–867 मेगाहर्ट्ज़ / 865–867 MHz",
+    "C": "2.4 गीगाहर्ट्ज़ / 2.4 GHz",
+    "D": "13.56 मेगाहर्ट्ज़ / 13.56 MHz"
+   },
+   "q": "पुस्तकालयों में प्रयुक्त RFID प्रणाली सामान्यतः किस आवृत्ति पर कार्य करती है? / The RFID system used in libraries generally operates at which frequency?"
+  },
+  {
+   "answer": "C",
+   "explanation": "संजय सॉफ़्टवेयर डेसिडॉक द्वारा सीडीएस/आईएसआईएस पर आधारित पुस्तकालय स्वचालन पैकेज के रूप में विकसित किया गया था। डेसिडॉक रक्षा अनुसंधान एवं विकास संगठन (DRDO) का प्रलेखन केंद्र है।",
+   "options": {
+    "A": "इन्फ़्लिबनेट / INFLIBNET",
+    "B": "राष्ट्रीय सूचना विज्ञान केंद्र (NIC) / NIC",
+    "C": "डेसिडॉक (DESIDOC) / DESIDOC",
+    "D": "निस्केयर / NISCAIR"
+   },
+   "q": "'संजय' (Sanjay) पुस्तकालय स्वचालन सॉफ़्टवेयर किस संस्था द्वारा विकसित किया गया था? / The 'Sanjay' library automation software was developed by which institution?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यह पुस्तक विज्ञान के मात्रात्मक अध्ययन (विज्ञानमिति) की नींव मानी जाती है। इसके लेखक डेरेक जे. डे सोल्ला प्राइस ने विज्ञान की घातांकीय वृद्धि का विश्लेषण प्रस्तुत किया था।",
+   "options": {
+    "A": "डेरेक जे. डे सोल्ला प्राइस / Derek J. de Solla Price",
+    "B": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "C": "एस. सी. ब्रैडफ़ोर्ड / S. C. Bradford",
+    "D": "जे. डी. बर्नाल / J. D. Bernal"
+   },
+   "q": "'Little Science, Big Science' (1963) पुस्तक के लेखक कौन हैं? / Who is the author of the book 'Little Science, Big Science' (1963)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "स्कोपस 2004 में एल्सेवियर द्वारा प्रारंभ किया गया उद्धरण तथा सार डेटाबेस है। यह विश्व के सबसे बड़े सहकर्मी-समीक्षित साहित्य डेटाबेसों में से एक है।",
+   "options": {
+    "A": "क्लैरिवेट / Clarivate",
+    "B": "एल्सेवियर / Elsevier",
+    "C": "स्प्रिंगर नेचर / Springer Nature",
+    "D": "ईब्स्को / EBSCO"
+   },
+   "q": "Scopus उद्धरण डेटाबेस किस संस्था का उत्पाद है? / The Scopus citation database is a product of:"
+  },
+  {
+   "answer": "D",
+   "explanation": "जर्नल साइटेशन रिपोर्ट्स में पत्रिकाओं के प्रभाव गुणांक (Impact Factor) प्रकाशित होते हैं। वर्तमान में इसका प्रकाशन क्लैरिवेट द्वारा किया जाता है, जो वेब ऑफ़ साइंस का भी संचालक है।",
+   "options": {
+    "A": "एल्सेवियर / Elsevier",
+    "B": "ओसीएलसी / OCLC",
+    "C": "प्रोक्वेस्ट / ProQuest",
+    "D": "क्लैरिवेट / Clarivate"
+   },
+   "q": "'Journal Citation Reports' (JCR) वर्तमान में किसके द्वारा प्रकाशित किया जाता है? / 'Journal Citation Reports' (JCR) is currently published by:"
+  },
+  {
+   "answer": "A",
+   "explanation": "प्रभाव गुणांक की गणना में किसी वर्ष में पूर्ववर्ती दो वर्षों में प्रकाशित लेखों को मिले उद्धरणों को उन्हीं दो वर्षों के कुल लेखों से विभाजित किया जाता है।",
+   "options": {
+    "A": "दो वर्ष / Two years",
+    "B": "एक वर्ष / One year",
+    "C": "तीन वर्ष / Three years",
+    "D": "पाँच वर्ष / Five years"
+   },
+   "q": "किसी पत्रिका के प्रभाव गुणांक (Impact Factor) की गणना में कितने पूर्व वर्षों के लेखों पर प्राप्त उद्धरण गिने जाते हैं? / In calculating a journal's Impact Factor, citations to articles of how many preceding years are counted?"
+  },
+  {
+   "answer": "C",
+   "explanation": "काइज़ेन जापानी शब्द है, जिसका अर्थ है निरंतर सुधार। इसमें संस्था के सभी कर्मचारी कार्य-प्रक्रियाओं में छोटे-छोटे सुधार लगातार करते रहते हैं।",
+   "options": {
+    "A": "शून्य दोष / Zero defects",
+    "B": "समय पर उत्पादन / Just-in-time production",
+    "C": "निरंतर सुधार / Continuous improvement",
+    "D": "कर्मचारी छंटनी / Downsizing"
+   },
+   "q": "प्रबंधन की जापानी अवधारणा 'काइज़ेन' (Kaizen) का अर्थ है— / The Japanese management concept 'Kaizen' means—"
+  },
+  {
+   "answer": "D",
+   "explanation": "सिक्स सिग्मा पद्धति 1986 में मोटोरोला कंपनी में विकसित हुई थी। बाद में जनरल इलेक्ट्रिक ने इसे व्यापक रूप से अपनाकर लोकप्रिय बनाया।",
+   "options": {
+    "A": "जनरल इलेक्ट्रिक / General Electric",
+    "B": "टोयोटा / Toyota",
+    "C": "आईबीएम / IBM",
+    "D": "मोटोरोला / Motorola"
+   },
+   "q": "'Six Sigma' गुणवत्ता प्रबंधन पद्धति सर्वप्रथम किस कंपनी में विकसित हुई थी? / The 'Six Sigma' quality management method was first developed in which company?"
+  }
+ ],
+ "subject": "BLIS"
+}
