@@ -13,3 +13,4 @@ https://youtu.be/cH0ZE1faXJA | tre_short_02.json | BPSC TRE 4.0 MCQ | संस�
 https://youtu.be/UwugSC4GEMk | tre_short_03.json | BPSC TRE 4.0 MCQ | अशोक और धम्म | NCERT History #Shorts | 2026-11-16
 https://youtu.be/Mt0YPIeN1NQ | tre_short_04.json | BPSC TRE 4.0 MCQ | संयुक्त बैठक — अनुच्छेद 108 | NCERT Polity #Shorts | 2026-11-16
 https://youtu.be/hnNsY0jrf9Q | tre_short_05.json | BPSC TRE 4.0 MCQ | दक्षिण गंगा कौन-सी नदी? | NCERT Geography #Shorts | 2026-11-16
+https://youtu.be/3XQhSiULJcE | slet_short_01.json | SLET 2026 MCQ | राष्ट्रीय पुस्तकालय कब खुला? | Library Science #Shorts | 2026-11-16
