@@ -1,0 +1,1102 @@
+[
+ {
+  "answer": 1,
+  "exp_hi": "अधिक जानकार अन्य कोई भी व्यक्ति हो सकता है जो बच्चे से अधिक जानता हो — शिक्षक, माता-पिता, बड़ा भाई-बहन या कुशल सहपाठी; यही व्यक्ति समीपस्थ विकास क्षेत्र (ZPD) में बच्चे की सहायता करता है।",
+  "mock_q": 1,
+  "n": 286,
+  "options": [
+   "केवल विद्यालय का शिक्षक",
+   "शिक्षक, बड़ा भाई-बहन या कोई भी कुशल साथी",
+   "केवल माता-पिता",
+   "केवल पाठ्यपुस्तक"
+  ],
+  "options_en": [
+   "Only the school teacher",
+   "A teacher, an elder sibling or any skilled companion",
+   "Only the parents",
+   "Only the textbook"
+  ],
+  "q_en": "According to Vygotsky, who can be the 'More Knowledgeable Other' (MKO) who helps a child ?",
+  "q_hi": "वाइगोत्स्की के अनुसार, बच्चे की सहायता करने वाला 'अधिक जानकार अन्य' (More Knowledgeable Other) कौन हो सकता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "आत्मसात्करण और समायोजन से असंतुलन पैदा होता है और संतुलन (equilibration) की प्रक्रिया से संज्ञानात्मक संतुलन फिर बहाल हो जाता है।",
+  "mock_q": 2,
+  "n": 287,
+  "options": [
+   "संतुलन (Equilibration)",
+   "आत्मसात्करण (Assimilation)",
+   "संरक्षण (Conservation)",
+   "अहंकेन्द्रितता (Egocentrism)"
+  ],
+  "options_en": [
+   "Equilibration",
+   "Assimilation",
+   "Conservation",
+   "Egocentrism"
+  ],
+  "q_en": "According to Piaget, what is the process called by which balance is restored when a child cannot fit new information into an existing schema ?",
+  "q_hi": "पियाजे के अनुसार, जब बच्चा नई जानकारी को अपनी पहले से बनी योजना में समायोजित नहीं कर पाता, तो संतुलन बहाल करने की प्रक्रिया क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सजीवतावाद में बच्चा निर्जीव वस्तुओं में भी जीवन और भावनाएँ मानता है — यह पूर्व-संक्रियात्मक चिंतन की विशेषता है।",
+  "mock_q": 3,
+  "n": 288,
+  "options": [
+   "संरक्षण",
+   "क्रमबद्धता",
+   "सजीवतावाद (Animism)",
+   "विपर्ययता"
+  ],
+  "options_en": [
+   "Conservation",
+   "Seriation",
+   "Animism",
+   "Reversibility"
+  ],
+  "q_en": "When a preoperational child says, 'The moon is walking with me', it is an example of —",
+  "q_hi": "पूर्व-संक्रियात्मक अवस्था का बच्चा जब कहता है कि 'चाँद मेरे साथ चल रहा है', तो यह किसका उदाहरण है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "मध्य वयस्कावस्था में उत्पादकता (generativity) बनाम स्थिरता (stagnation) का संकट होता है — व्यक्ति अगली पीढ़ी का मार्गदर्शन और समाज के लिए कुछ सार्थक करना चाहता है।",
+  "mock_q": 4,
+  "n": 289,
+  "options": [
+   "पहचान बनाम भूमिका-भ्रम",
+   "घनिष्ठता बनाम अलगाव",
+   "उद्योगशीलता बनाम हीनता",
+   "उत्पादकता बनाम स्थिरता"
+  ],
+  "options_en": [
+   "Identity vs Role confusion",
+   "Intimacy vs Isolation",
+   "Industry vs Inferiority",
+   "Generativity vs Stagnation"
+  ],
+  "q_en": "According to Erikson, what is the main psychosocial crisis of middle adulthood (about 40–65 years) ?",
+  "q_hi": "एरिक्सन के अनुसार, मध्य वयस्कावस्था (लगभग 40–65 वर्ष) का प्रमुख मनोसामाजिक संकट कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "वृद्धावस्था में अहं-समग्रता बनाम निराशा का संकट होता है — जीवन की समीक्षा में संतोष मिलने पर अहं-समग्रता और असंतोष होने पर निराशा विकसित होती है।",
+  "mock_q": 5,
+  "n": 290,
+  "options": [
+   "अहं-समग्रता (Ego integrity)",
+   "पहल (Initiative)",
+   "स्वायत्तता (Autonomy)",
+   "विश्वास (Trust)"
+  ],
+  "options_en": [
+   "Ego integrity",
+   "Initiative",
+   "Autonomy",
+   "Trust"
+  ],
+  "q_en": "According to Erikson, which virtue develops in old age when a person looks back at life with satisfaction ?",
+  "q_hi": "एरिक्सन के अनुसार, वृद्धावस्था में अपने जीवन को संतोष के साथ देखने पर कौन-सा गुण विकसित होता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "फैलिक अवस्था (3–6 वर्ष) में ओडिपस/इलेक्ट्रा ग्रंथि विकसित होती है — बच्चा विपरीत लिंग के माता-पिता के प्रति विशेष लगाव दिखाता है।",
+  "mock_q": 6,
+  "n": 291,
+  "options": [
+   "मौखिक अवस्था",
+   "लैंगिक (फैलिक) अवस्था",
+   "गुदा अवस्था",
+   "अव्यक्त अवस्था"
+  ],
+  "options_en": [
+   "Oral stage",
+   "Phallic stage",
+   "Anal stage",
+   "Latency stage"
+  ],
+  "q_en": "According to Freud, in which psychosexual stage (3–6 years) does the child show special attachment towards the parents ?",
+  "q_hi": "फ्रायड के अनुसार, मनोलैंगिक विकास की वह अवस्था जिसमें बच्चा (3–6 वर्ष) माता-पिता के प्रति विशेष लगाव दिखाता है, कौन-सी है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "दमन में अस्वीकार्य विचार या स्मृति अचेतन मन में धकेल दी जाती है, जिससे व्यक्ति सचेत रूप से उसे भूल जाता है।",
+  "mock_q": 7,
+  "n": 292,
+  "options": [
+   "प्रक्षेपण",
+   "उदात्तीकरण",
+   "दमन (Repression)",
+   "प्रतिक्रिया-निर्माण"
+  ],
+  "options_en": [
+   "Projection",
+   "Sublimation",
+   "Repression",
+   "Reaction formation"
+  ],
+  "q_en": "Ramesh has completely forgotten a painful childhood event, as if it never happened. According to Freud, which defence mechanism is this ?",
+  "q_hi": "रमेश अपनी बचपन की दर्दनाक घटना को पूरी तरह भूल गया है, मानो वह कभी हुई ही न हो। फ्रायड के अनुसार यह कौन-सी रक्षा-युक्ति है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "उदात्तीकरण में अस्वीकार्य आवेग समाज-स्वीकृत रचनात्मक रूप ले लेता है — जैसे क्रोध को खेल या कला में बदल देना।",
+  "mock_q": 8,
+  "n": 293,
+  "options": [
+   "दमन",
+   "प्रक्षेपण",
+   "युक्तिकरण",
+   "उदात्तीकरण (Sublimation)"
+  ],
+  "options_en": [
+   "Repression",
+   "Projection",
+   "Rationalisation",
+   "Sublimation"
+  ],
+  "q_en": "According to Freud, turning the feeling of anger into a creative activity like sports or art is which defence mechanism ?",
+  "q_hi": "क्रोध की भावना को खेल या कला जैसी रचनात्मक गतिविधि में बदल देना फ्रायड के अनुसार कौन-सी रक्षा-युक्ति है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "बिना शर्त सकारात्मक सम्मान (unconditional positive regard) से बच्चा स्वयं को स्वीकार करना सीखता है; सशर्त सम्मान आत्म-धारणा को बिगाड़ देता है।",
+  "mock_q": 9,
+  "n": 294,
+  "options": [
+   "बिना शर्त सकारात्मक सम्मान",
+   "सशर्त प्रशंसा",
+   "कठोर अनुशासन",
+   "लगातार मूल्यांकन"
+  ],
+  "options_en": [
+   "Unconditional positive regard",
+   "Conditional praise",
+   "Strict discipline",
+   "Constant evaluation"
+  ],
+  "q_en": "According to Rogers, which behaviour of a teacher or parent is most essential for a child's healthy self-development ?",
+  "q_hi": "रोजर्स के अनुसार, बच्चे के स्वस्थ आत्म-विकास के लिए शिक्षक या माता-पिता का कौन-सा व्यवहार सबसे आवश्यक है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "समापन (closure) के नियम के अनुसार मस्तिष्क अधूरी आकृति को पूरा करके देखता है — हम पूर्णता की ओर झुकते हैं।",
+  "mock_q": 10,
+  "n": 295,
+  "options": [
+   "समीपता का नियम",
+   "समापन (Closure) का नियम",
+   "समानता का नियम",
+   "निरंतरता का नियम"
+  ],
+  "options_en": [
+   "Law of Proximity",
+   "Law of Closure",
+   "Law of Similarity",
+   "Law of Continuity"
+  ],
+  "q_en": "According to Gestalt psychology, we see even an incomplete circle as a complete circle. Which law is this an example of ?",
+  "q_hi": "गेस्ताल्ट मनोविज्ञान के अनुसार, अधूरे वृत्त को भी हम पूरा वृत्त ही देखते हैं। यह किस नियम का उदाहरण है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "आकृति-पृष्ठभूमि के सिद्धान्त के अनुसार ध्यान का केंद्र आकृति बन जाती है और बाकी सब पृष्ठभूमि रह जाता है।",
+  "mock_q": 11,
+  "n": 296,
+  "options": [
+   "समूहीकरण",
+   "समीपता",
+   "आकृति-पृष्ठभूमि (Figure–Ground)",
+   "सरलता"
+  ],
+  "options_en": [
+   "Grouping",
+   "Proximity",
+   "Figure–Ground",
+   "Simplicity"
+  ],
+  "q_en": "When we see one figure in a picture separately from its background, which Gestalt principle is this ?",
+  "q_hi": "जब हम किसी चित्र में एक आकृति को पृष्ठभूमि से अलग करके देखते हैं, तो यह गेस्ताल्ट का कौन-सा सिद्धान्त है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "संवेदी स्मृति बहुत अल्पकालिक होती है (लगभग एक सेकंड) — ध्यान मिलने पर ही जानकारी अल्पकालिक स्मृति में जाती है।",
+  "mock_q": 12,
+  "n": 297,
+  "options": [
+   "यह वर्षों तक रहती है",
+   "इसकी क्षमता असीमित होती है",
+   "यह केवल शब्दों को रखती है",
+   "यह केवल लगभग एक सेकंड तक रहती है"
+  ],
+  "options_en": [
+   "It lasts for years",
+   "Its capacity is unlimited",
+   "It stores only words",
+   "It lasts only for about one second"
+  ],
+  "q_en": "Which statement about sensory memory is correct ?",
+  "q_hi": "संवेदी स्मृति (sensory memory) के बारे में सही कथन कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "गुच्छन (chunking) में जानकारी छोटे-छोटे समूहों में बाँधकर याद की जाती है, जिससे अल्पकालिक स्मृति की क्षमता बढ़ जाती है।",
+  "mock_q": 13,
+  "n": 298,
+  "options": [
+   "गुच्छन (Chunking) के कारण",
+   "दमन के कारण",
+   "विस्मरण के कारण",
+   "अंतरण के कारण"
+  ],
+  "options_en": [
+   "Because of Chunking",
+   "Because of Repression",
+   "Because of Forgetting",
+   "Because of Transfer"
+  ],
+  "q_en": "Why is it easier to remember the phone number 9876543210 as 987-654-3210 ?",
+  "q_hi": "फ़ोन नंबर 9876543210 को 987-654-3210 के रूप में याद करना आसान क्यों होता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "पश्चोन्मुखी व्यतिकरण में नई सीख पुरानी स्मृति को दबा देती है; अग्रोन्मुखी व्यतिकरण में पुरानी सीख नई सीख में बाधा डालती है।",
+  "mock_q": 14,
+  "n": 299,
+  "options": [
+   "अग्रोन्मुखी व्यतिकरण",
+   "पश्चोन्मुखी व्यतिकरण (Retroactive interference)",
+   "दमन",
+   "विलोपन"
+  ],
+  "options_en": [
+   "Proactive interference",
+   "Retroactive interference",
+   "Repression",
+   "Extinction"
+  ],
+  "q_en": "When newly learnt information interferes with recalling old information, what is it called ?",
+  "q_hi": "नई सीखी जानकारी पुरानी जानकारी को याद करने में बाधा डालने लगे, तो इसे क्या कहते हैं ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "हल के अंतर्नोद न्यूनीकरण सिद्धान्त के अनुसार — आवश्यकता → अंतर्नोद → तनाव → व्यवहार → तनाव में कमी; इसी से अधिगम होता है।",
+  "mock_q": 15,
+  "n": 300,
+  "options": [
+   "प्रत्याशा सिद्धान्त",
+   "संज्ञानात्मक सिद्धान्त",
+   "अंतर्नोद न्यूनीकरण (Drive Reduction) सिद्धान्त",
+   "मानवतावादी सिद्धान्त"
+  ],
+  "options_en": [
+   "Expectancy theory",
+   "Cognitive theory",
+   "Drive Reduction theory",
+   "Humanistic theory"
+  ],
+  "q_en": "According to Hull, an organism behaves to reduce the tension created by a bodily need like hunger. Which theory is this ?",
+  "q_hi": "हल के अनुसार, भूख जैसी शारीरिक आवश्यकता से उत्पन्न तनाव को कम करने के लिए प्राणी व्यवहार करता है। यह कौन-सा सिद्धान्त है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "5+3+3+4 संरचना में बुनियादी अवस्था 5 वर्ष की है — 3 वर्ष पूर्व-विद्यालय शिक्षा + कक्षा 1 और 2।",
+  "mock_q": 16,
+  "n": 301,
+  "options": [
+   "3 वर्ष",
+   "4 वर्ष",
+   "6 वर्ष",
+   "5 वर्ष"
+  ],
+  "options_en": [
+   "3 years",
+   "4 years",
+   "6 years",
+   "5 years"
+  ],
+  "q_en": "According to the National Education Policy (NEP) 2020, how many years long is the Foundational Stage of school education ?",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के अनुसार, विद्यालयी शिक्षा की बुनियादी अवस्था (Foundational Stage) कितने वर्षों की है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "थॉर्नडाइक ने बिल्ली को पहेली-बक्से में रखा — बिल्ली प्रयास और त्रुटि (trial and error) से लीवर दबाना सीख गई।",
+  "mock_q": 17,
+  "n": 302,
+  "options": [
+   "पहेली-बक्सा (Puzzle box)",
+   "भूल-भुलैया (Maze)",
+   "स्किनर-बक्सा",
+   "दर्पण-बक्सा"
+  ],
+  "options_en": [
+   "Puzzle box",
+   "Maze",
+   "Skinner box",
+   "Mirror box"
+  ],
+  "q_en": "In his famous experiment, in what did Thorndike place a cat to study learning ?",
+  "q_hi": "थॉर्नडाइक ने अपने प्रसिद्ध प्रयोग में बिल्ली को किसमें रखकर सीखने का अध्ययन किया था ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "बिना पुनर्बलन के अनुबंधित प्रतिक्रिया का समाप्त हो जाना विलोपन (extinction) कहलाता है।",
+  "mock_q": 18,
+  "n": 303,
+  "options": [
+   "सामान्यीकरण",
+   "विलोपन (Extinction)",
+   "विभेदन",
+   "स्वतः पुनःप्राप्ति"
+  ],
+  "options_en": [
+   "Generalisation",
+   "Extinction",
+   "Discrimination",
+   "Spontaneous recovery"
+  ],
+  "q_en": "In classical conditioning, when food is repeatedly not given with the bell, the dog's salivation response slowly disappears. What is this called ?",
+  "q_hi": "शास्त्रीय अनुबंधन में जब घंटी के साथ बार-बार भोजन न दिया जाए, तो कुत्ते की लार-स्राव प्रतिक्रिया धीरे-धीरे समाप्त हो जाती है। इसे क्या कहते हैं ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सामान्यीकरण में समान उद्दीपकों पर एक-सी प्रतिक्रिया होती है; विभेदन में बच्चा उद्दीपकों के बीच अंतर करना सीखता है।",
+  "mock_q": 19,
+  "n": 304,
+  "options": [
+   "सामान्यीकरण",
+   "विलोपन",
+   "विभेदन (Discrimination)",
+   "अंतरण"
+  ],
+  "options_en": [
+   "Generalisation",
+   "Extinction",
+   "Discrimination",
+   "Transfer"
+  ],
+  "q_en": "A child calls all four-legged animals 'dog', and later learns to tell a dog from a cat. What is the second step called ?",
+  "q_hi": "बच्चा सभी चार पैरों वाले जानवरों को 'कुत्ता' कहता है, बाद में कुत्ते और बिल्ली में अंतर करना सीखता है। दूसरा चरण क्या कहलाता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "नकारात्मक पुनर्बलन में अप्रिय उद्दीपक के हटने से व्यवहार बढ़ता है — यह दंड नहीं है; दंड में व्यवहार घटता है।",
+  "mock_q": 20,
+  "n": 305,
+  "options": [
+   "गलती करने पर दंड देना",
+   "सही उत्तर पर तारीफ़ करना",
+   "शरारत पर खेलने से रोकना",
+   "सिरदर्द दूर करने के लिए दवा लेना, जिससे दवा लेने का व्यवहार बढ़ता है"
+  ],
+  "options_en": [
+   "Punishing a mistake",
+   "Praising a correct answer",
+   "Stopping play for mischief",
+   "Taking medicine to remove a headache, which increases medicine-taking behaviour"
+  ],
+  "q_en": "Which is the correct example of negative reinforcement ?",
+  "q_hi": "नकारात्मक पुनर्बलन (negative reinforcement) का सही उदाहरण कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "टोकन अर्थव्यवस्था में वांछित व्यवहार पर टोकन मिलते हैं और बाद में वे पुरस्कार से बदले जाते हैं — यह स्किनर के सिद्धान्त पर आधारित है।",
+  "mock_q": 21,
+  "n": 306,
+  "options": [
+   "टोकन अर्थव्यवस्था (Token economy)",
+   "विलोपन",
+   "आकृति-प्रदान",
+   "दंड"
+  ],
+  "options_en": [
+   "Token economy",
+   "Extinction",
+   "Shaping",
+   "Punishment"
+  ],
+  "q_en": "Giving stars or tokens for good behaviour in class and later exchanging them for rewards is an example of which technique ?",
+  "q_hi": "कक्षा में अच्छे व्यवहार के लिए बच्चों को सितारे या टोकन देना और बाद में उन्हें पुरस्कार से बदलना, किस तकनीक का उदाहरण है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "बोबो डॉल प्रयोग में बच्चों ने वयस्क के आक्रामक व्यवहार का अनुकरण किया — यह प्रेक्षणात्मक अधिगम (observational learning) का प्रमाण है।",
+  "mock_q": 22,
+  "n": 307,
+  "options": [
+   "बच्चे केवल पुरस्कार से सीखते हैं",
+   "बच्चे आक्रामक व्यवहार को देखकर भी सीखते हैं",
+   "आक्रामकता केवल वंशानुगत होती है",
+   "बच्चे अनुकरण नहीं करते"
+  ],
+  "options_en": [
+   "Children learn only through reward",
+   "Children also learn aggressive behaviour by observing it",
+   "Aggression is only hereditary",
+   "Children do not imitate"
+  ],
+  "q_en": "What was proved by Bandura's famous 'Bobo Doll' experiment ?",
+  "q_hi": "बंडूरा के प्रसिद्ध 'बोबो डॉल' प्रयोग से क्या सिद्ध हुआ ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "वेशलर मापनी (WAIS/WISC) में शाब्दिक और क्रियात्मक दोनों उप-परीक्षण होते हैं — इससे केवल IQ ही नहीं, बुद्धि का प्रोफ़ाइल भी मिलता है।",
+  "mock_q": 23,
+  "n": 308,
+  "options": [
+   "केवल शाब्दिक प्रश्न पूछे जाते हैं",
+   "केवल आयु से बुद्धि मापी जाती है",
+   "शाब्दिक और क्रियात्मक दोनों प्रकार के उप-परीक्षण होते हैं",
+   "इसमें समय-सीमा नहीं होती"
+  ],
+  "options_en": [
+   "Only verbal questions are asked",
+   "Intelligence is measured only by age",
+   "It has both verbal and performance sub-tests",
+   "It has no time limit"
+  ],
+  "q_en": "What is the main feature of the Wechsler intelligence scales ?",
+  "q_hi": "वेशलर बुद्धि-मापनी (Wechsler scales) की प्रमुख विशेषता क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "क्रिस्टलीकृत बुद्धि अर्जित ज्ञान और अनुभव पर आधारित होती है और उम्र के साथ बढ़ती है; तरल बुद्धि नई समस्याएँ सुलझाने की क्षमता है।",
+  "mock_q": 24,
+  "n": 309,
+  "options": [
+   "तरल बुद्धि",
+   "सामान्य बुद्धि",
+   "सामाजिक बुद्धि",
+   "क्रिस्टलीकृत (Crystallized) बुद्धि"
+  ],
+  "options_en": [
+   "Fluid intelligence",
+   "General intelligence",
+   "Social intelligence",
+   "Crystallized intelligence"
+  ],
+  "q_en": "According to Cattell, the intelligence based on acquired knowledge, vocabulary and experience is called —",
+  "q_hi": "कैटेल के अनुसार, अर्जित ज्ञान, शब्दावली और अनुभव पर आधारित बुद्धि क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "अपसारी चिंतन में एक प्रश्न के अनेक उत्तर खोजे जाते हैं — यह सृजनात्मकता से जुड़ा है; अभिसारी चिंतन में एक सही उत्तर होता है।",
+  "mock_q": 25,
+  "n": 310,
+  "options": [
+   "अपसारी (Divergent) चिंतन",
+   "अभिसारी (Convergent) चिंतन",
+   "तार्किक चिंतन",
+   "स्मृति"
+  ],
+  "options_en": [
+   "Divergent thinking",
+   "Convergent thinking",
+   "Logical thinking",
+   "Memory"
+  ],
+  "q_en": "The question 'How many uses can a brick have ?' mainly measures which type of thinking ?",
+  "q_hi": "'ईंट के कितने उपयोग हो सकते हैं ?' — इस प्रश्न से मुख्यतः किस प्रकार का चिंतन मापा जाता है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "व्यक्तिगत शिक्षा योजना (IEP) में बच्चे की ज़रूरत, लक्ष्य और दी जाने वाली सहायता लिखी होती है — इसे शिक्षक, माता-पिता और विशेषज्ञ मिलकर बनाते हैं।",
+  "mock_q": 26,
+  "n": 311,
+  "options": [
+   "वार्षिक योजना",
+   "व्यक्तिगत शिक्षा योजना (IEP)",
+   "पाठ योजना",
+   "मूल्यांकन योजना"
+  ],
+  "options_en": [
+   "Annual plan",
+   "Individualised Education Programme (IEP)",
+   "Lesson plan",
+   "Evaluation plan"
+  ],
+  "q_en": "What is the individual plan prepared for a child with special needs in an inclusive classroom called ?",
+  "q_hi": "समावेशी कक्षा में विशेष आवश्यकता वाले बच्चे के लिए तैयार की गई व्यक्तिगत योजना क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "संवेदनशील अवधि (sensitive period) में कौशल सबसे सहजता से सीखा जाता है — जैसे भाषा सीखने के लिए बचपन; यह अवधि छूटने पर सीखना कठिन हो जाता है।",
+  "mock_q": 27,
+  "n": 312,
+  "options": [
+   "परिपक्वता",
+   "संकट",
+   "संवेदनशील अवधि (Sensitive period)",
+   "पठार"
+  ],
+  "options_en": [
+   "Maturation",
+   "Crisis",
+   "Sensitive period",
+   "Plateau"
+  ],
+  "q_en": "In development, the time period during which a particular skill is easiest to learn is called —",
+  "q_hi": "विकास में वह समय-सीमा जिसमें किसी विशेष कौशल को सीखना सबसे आसान होता है, क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "एक-शब्द (holophrastic) अवस्था में बच्चा एक शब्द से पूरा भाव व्यक्त करता है; बड़बड़ाहट लगभग 6 माह पर और तार-सदृश वाणी लगभग 2 वर्ष पर आती है।",
+  "mock_q": 28,
+  "n": 313,
+  "options": [
+   "बड़बड़ाहट",
+   "तार-सदृश वाणी",
+   "वाक्य अवस्था",
+   "एक-शब्द (Holophrastic) अवस्था"
+  ],
+  "options_en": [
+   "Babbling",
+   "Telegraphic speech",
+   "Sentence stage",
+   "Holophrastic (one-word) stage"
+  ],
+  "q_en": "When a child of about 12–18 months says many things with a single word like 'mamma', what is this stage of language development called ?",
+  "q_hi": "लगभग 12–18 माह का बच्चा जब एक ही शब्द 'मम्मा' से कई बातें कहता है, तो भाषा विकास की यह अवस्था क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "अति-सामान्यीकरण में बच्चा सीखे हुए नियम को हर जगह लगा देता है — यह भाषा सीखने की स्वाभाविक अवस्था है, गलती नहीं।",
+  "mock_q": 29,
+  "n": 314,
+  "options": [
+   "अति-सामान्यीकरण (Overgeneralization)",
+   "अल्प-सामान्यीकरण",
+   "बड़बड़ाहट",
+   "अनुकरण"
+  ],
+  "options_en": [
+   "Overgeneralization",
+   "Undergeneralization",
+   "Babbling",
+   "Imitation"
+  ],
+  "q_en": "A child says 'मैंने खायाया' instead of 'मैंने खाया'. What is this called in language development ?",
+  "q_hi": "बच्चा 'मैंने खाया' की जगह 'मैंने खायाया' कहता है। भाषा विकास में इसे क्या कहते हैं ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "योगात्मक आकलन सत्र के अंत में समग्र उपलब्धि मापता है और ग्रेड/पदोन्नति के लिए होता है; रचनात्मक आकलन सीखने के दौरान सुधार के लिए होता है।",
+  "mock_q": 30,
+  "n": 315,
+  "options": [
+   "रचनात्मक आकलन",
+   "योगात्मक आकलन (Summative assessment)",
+   "नैदानिक आकलन",
+   "अनौपचारिक आकलन"
+  ],
+  "options_en": [
+   "Formative assessment",
+   "Summative assessment",
+   "Diagnostic assessment",
+   "Informal assessment"
+  ],
+  "q_en": "The examination at the end of a term that evaluates a student's overall achievement is called —",
+  "q_hi": "सत्र के अंत में होने वाली परीक्षा, जो छात्र की समग्र उपलब्धि का मूल्यांकन करती है, क्या कहलाती है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "हिम + आलय — 'अ + आ = आ' होने से यह दीर्घ संधि का उदाहरण है।",
+  "mock_q": 31,
+  "n": 316,
+  "options": [
+   "हिमा + लय",
+   "हिम + अलय",
+   "हि + मालय",
+   "हिम + आलय"
+  ],
+  "options_en": [
+   "Hima + Laya",
+   "Him + Alaya",
+   "Hi + Malaya",
+   "Him + Aalaya"
+  ],
+  "q_en": "What is the correct sandhi-viccheda of the word 'हिमालय' ?",
+  "q_hi": "'हिमालय' शब्द का सही संधि-विच्छेद कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "त्रिभुवन = तीन भुवनों का समूह — पहला पद संख्यावाचक होने से यह द्विगु समास है।",
+  "mock_q": 32,
+  "n": 317,
+  "options": [
+   "द्विगु समास",
+   "द्वन्द्व समास",
+   "तत्पुरुष समास",
+   "अव्ययीभाव समास"
+  ],
+  "options_en": [
+   "Dvigu samaas",
+   "Dvandva samaas",
+   "Tatpurusha samaas",
+   "Avyayibhava samaas"
+  ],
+  "q_en": "Which samaas (compound) is there in the word 'त्रिभुवन' ?",
+  "q_hi": "'त्रिभुवन' शब्द में कौन-सा समास है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "धरा, भू और भूमि पृथ्वी के पर्यायवाची हैं; अंबर आकाश, गिरि पर्वत और सरिता नदी है।",
+  "mock_q": 33,
+  "n": 318,
+  "options": [
+   "अंबर",
+   "धरा",
+   "गिरि",
+   "सरिता"
+  ],
+  "options_en": [
+   "Ambar",
+   "Dhara",
+   "Giri",
+   "Sarita"
+  ],
+  "q_en": "Which is the synonym (paryayvachi) of the word 'पृथ्वी' ?",
+  "q_hi": "'पृथ्वी' शब्द का पर्यायवाची कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "उत्थान = ऊपर उठना और पतन = गिरना — ये दोनों विलोम शब्द हैं।",
+  "mock_q": 34,
+  "n": 319,
+  "options": [
+   "उन्नति",
+   "विकास",
+   "पतन",
+   "प्रगति"
+  ],
+  "options_en": [
+   "Unnati",
+   "Vikas",
+   "Patan",
+   "Pragati"
+  ],
+  "q_en": "Choose the antonym (vilom) of the word 'उत्थान' ?",
+  "q_hi": "'उत्थान' शब्द का विलोम कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "पढ़ + आई = पढ़ाई — 'आई' प्रत्यय है और 'पढ़' धातु है।",
+  "mock_q": 35,
+  "n": 320,
+  "options": [
+   "पढ़",
+   "आ",
+   "ई",
+   "आई"
+  ],
+  "options_en": [
+   "Padh",
+   "Aa",
+   "Ee",
+   "Aai"
+  ],
+  "q_en": "Which pratyaya (suffix) is used in the word 'पढ़ाई' ?",
+  "q_hi": "'पढ़ाई' शब्द में कौन-सा प्रत्यय प्रयुक्त हुआ है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'को' कर्म कारक का चिह्न है — जिस पर क्रिया का फल पड़ता है, वह कर्म कहलाता है।",
+  "mock_q": 36,
+  "n": 321,
+  "options": [
+   "कर्ता कारक",
+   "कर्म कारक",
+   "करण कारक",
+   "अपादान कारक"
+  ],
+  "options_en": [
+   "Karta karaka",
+   "Karma karaka",
+   "Karana karaka",
+   "Apadana karaka"
+  ],
+  "q_en": "In the sentence 'मोहन ने सोहन को किताब दी।', 'को' is the sign of which karaka ?",
+  "q_hi": "'मोहन ने सोहन को किताब दी।' इस वाक्य में 'को' किस कारक का चिह्न है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "आकारांत पुल्लिंग संज्ञा का बहुवचन 'ए' लगाकर बनता है — लड़का → लड़के।",
+  "mock_q": 37,
+  "n": 322,
+  "options": [
+   "लड़के",
+   "लड़कों",
+   "लड़का",
+   "लड़की"
+  ],
+  "options_en": [
+   "Ladke",
+   "Ladkon",
+   "Ladka",
+   "Ladki"
+  ],
+  "q_en": "What is the plural form of the word 'लड़का' ?",
+  "q_hi": "'लड़का' शब्द का बहुवचन रूप कौन-सा है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "'खाता है' का कर्म 'आम' है — कर्म वाली क्रिया सकर्मक कहलाती है।",
+  "mock_q": 38,
+  "n": 323,
+  "options": [
+   "अकर्मक क्रिया",
+   "संयुक्त क्रिया",
+   "सकर्मक क्रिया",
+   "पूर्वकालिक क्रिया"
+  ],
+  "options_en": [
+   "Akarmaka kriya",
+   "Sanyukta kriya",
+   "Sakarmaka kriya",
+   "Purvakalika kriya"
+  ],
+  "q_en": "In the sentence 'राम आम खाता है।', what kind of verb is 'खाता है' ?",
+  "q_hi": "'राम आम खाता है।' इस वाक्य में 'खाता है' क्रिया किस प्रकार की है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "नाक में दम करना = बहुत तंग करना या बहुत परेशान करना।",
+  "mock_q": 39,
+  "n": 324,
+  "options": [
+   "बहुत खुश होना",
+   "बुरी तरह हारना",
+   "चुपचाप बैठना",
+   "बहुत परेशान करना"
+  ],
+  "options_en": [
+   "To be very happy",
+   "To be badly defeated",
+   "To sit quietly",
+   "To trouble someone a lot"
+  ],
+  "q_en": "What is the correct meaning of the idiom 'नाक में दम करना' ?",
+  "q_hi": "'नाक में दम करना' मुहावरे का सही अर्थ क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "डायरी या अनुच्छेद लेखन में बच्चा स्वयं लिखता है — लेखन कौशल का यही सीधा अभ्यास है।",
+  "mock_q": 40,
+  "n": 325,
+  "options": [
+   "कहानी सुनना",
+   "डायरी लेखन",
+   "मौखिक प्रश्नोत्तर",
+   "कविता याद करना"
+  ],
+  "options_en": [
+   "Listening to a story",
+   "Diary writing",
+   "Oral question-answer",
+   "Memorising a poem"
+  ],
+  "q_en": "Which activity is most suitable for developing writing skills ?",
+  "q_hi": "लेखन कौशल के विकास के लिए सबसे उपयुक्त गतिविधि कौन-सी है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "'Courage' का अर्थ है साहस और इसका विलोम 'Cowardice' अर्थात कायरता है।",
+  "mock_q": 41,
+  "n": 326,
+  "options": [
+   "Bravery",
+   "Strength",
+   "Cowardice",
+   "Fear"
+  ],
+  "options_en": [
+   "Bravery",
+   "Strength",
+   "Cowardice",
+   "Fear"
+  ],
+  "q_en": "Choose the antonym of 'Courage'.",
+  "q_hi": "'Courage' शब्द का विलोम (antonym) चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "'Afraid of' सही प्रयोग है — भय के लिए 'of' आता है।",
+  "mock_q": 42,
+  "n": 327,
+  "options": [
+   "of",
+   "from",
+   "by",
+   "with"
+  ],
+  "options_en": [
+   "of",
+   "from",
+   "by",
+   "with"
+  ],
+  "q_en": "Choose the correct preposition: 'She is afraid ___ dogs.'",
+  "q_hi": "सही प्रीपोज़िशन चुनिए: 'She is afraid ___ dogs.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'By + future time' के साथ future perfect (will have + V3) आता है — 'will have completed' सही है।",
+  "mock_q": 43,
+  "n": 328,
+  "options": [
+   "will complete",
+   "has completed",
+   "is completing",
+   "will have completed"
+  ],
+  "options_en": [
+   "will complete",
+   "has completed",
+   "is completing",
+   "will have completed"
+  ],
+  "q_en": "Choose the correct verb form: 'By next year, he ___ his degree.'",
+  "q_hi": "सही क्रिया-रूप चुनिए: 'By next year, he ___ his degree.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "Present perfect passive = has/have + been + V3 — इसलिए 'The work has been finished by them.' सही है।",
+  "mock_q": 44,
+  "n": 329,
+  "options": [
+   "The work is finished by them.",
+   "The work has been finished by them.",
+   "The work was finished by them.",
+   "The work is being finished by them."
+  ],
+  "options_en": [
+   "The work is finished by them.",
+   "The work has been finished by them.",
+   "The work was finished by them.",
+   "The work is being finished by them."
+  ],
+  "q_en": "Choose the correct passive form: 'They have finished the work.'",
+  "q_hi": "'They have finished the work.' का सही passive रूप चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "आज्ञा वाले वाक्य का indirect speech asked + object + to + V1 से बनता है — 'asked the students to open their books' सही है।",
+  "mock_q": 45,
+  "n": 330,
+  "options": [
+   "The teacher asked the students to open their books.",
+   "The teacher asked the students open their books.",
+   "The teacher said that the students opened their books.",
+   "The teacher told the students that open your books."
+  ],
+  "options_en": [
+   "The teacher asked the students to open their books.",
+   "The teacher asked the students open their books.",
+   "The teacher said that the students opened their books.",
+   "The teacher told the students that open your books."
+  ],
+  "q_en": "Choose the correct indirect speech: 'The teacher said, \"Open your books.\"'",
+  "q_hi": "'The teacher said, \"Open your books.\"' का सही indirect speech चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "नियम या बाध्यता के लिए 'must' आता है — 'You must obey the traffic rules.' सही है।",
+  "mock_q": 46,
+  "n": 331,
+  "options": [
+   "may",
+   "might",
+   "must",
+   "could"
+  ],
+  "options_en": [
+   "may",
+   "might",
+   "must",
+   "could"
+  ],
+  "q_en": "Choose the correct modal: 'You ___ obey the traffic rules.'",
+  "q_hi": "सही modal चुनिए: 'You ___ obey the traffic rules.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'To bite the dust' का अर्थ है पराजित होना या हार जाना।",
+  "mock_q": 47,
+  "n": 332,
+  "options": [
+   "To eat dust",
+   "To work very hard",
+   "To hide in shame",
+   "To be defeated"
+  ],
+  "options_en": [
+   "To eat dust",
+   "To work very hard",
+   "To hide in shame",
+   "To be defeated"
+  ],
+  "q_en": "What does the idiom 'To bite the dust' mean ?",
+  "q_hi": "'To bite the dust' मुहावरे का अर्थ क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "दोनों हाथों से समान रूप से काम करने वाले व्यक्ति को 'Ambidextrous' कहते हैं।",
+  "mock_q": 48,
+  "n": 333,
+  "options": [
+   "Ambidextrous",
+   "Versatile",
+   "Bilingual",
+   "Ambiguous"
+  ],
+  "options_en": [
+   "Ambidextrous",
+   "Versatile",
+   "Bilingual",
+   "Ambiguous"
+  ],
+  "q_en": "Choose the one-word substitute: 'A person who can use both hands equally well'.",
+  "q_hi": "One-word substitute चुनिए: 'A person who can use both hands equally well'.",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'Occurrence' की सही वर्तनी में दो 'c' और दो 'r' होते हैं।",
+  "mock_q": 49,
+  "n": 334,
+  "options": [
+   "Occurence",
+   "Occurrence",
+   "Ocurrence",
+   "Occurrance"
+  ],
+  "options_en": [
+   "Occurence",
+   "Occurrence",
+   "Ocurrence",
+   "Occurrance"
+  ],
+  "q_en": "Choose the correctly spelt word.",
+  "q_hi": "सही वर्तनी (spelling) वाला शब्द चुनिए।",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "Extensive reading आनंद और सामान्य समझ के लिए अधिक पढ़ना है; intensive reading विस्तृत अध्ययन के लिए होता है।",
+  "mock_q": 50,
+  "n": 335,
+  "options": [
+   "To learn grammar rules",
+   "To memorise difficult words",
+   "To read for pleasure and general understanding",
+   "To practise pronunciation"
+  ],
+  "options_en": [
+   "To learn grammar rules",
+   "To memorise difficult words",
+   "To read for pleasure and general understanding",
+   "To practise pronunciation"
+  ],
+  "q_en": "What is the main purpose of extensive reading in a language classroom ?",
+  "q_hi": "भाषा की कक्षा में extensive reading का मुख्य उद्देश्य क्या है ?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ }
+]
