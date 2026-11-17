@@ -12,6 +12,12 @@ STATE_FILE (default ctet_state.json), SAVE_STATE=1|0.
 Output (temp workdir, prefix ctet_): final.mp4, thumb.jpg, title.txt, desc.txt
 Index format: [{"file": "mock1_p1.json", "paper": 1, "mock_no": 1,
   "playlist": "PLGc1wJxdjSuY"}]
+Subject-wise series (Paper 2 ke SST / Science mocks): index entry me optional
+  "title_subject": "SST" | "Science" aur "series_label": "SST" | "Science"
+  dene se title/intro/slide/thumbnail me subject ka naam aata hai
+  (jaise "CTET Paper 2 SST Mock Test 1 | 50 PYQ with Explanation |
+  Class 6 to 8"). Ye fields na hon to purana vyavhaar bilkul vaisa hi
+  rehta hai — common Paper 1 / Paper 2 series par koi asar nahi.
 Sawal JSON format (flat list): [{"n": N, "subject": "..", "q_hi": "..", "q_en": "..",
   "options": ["..", "..", "..", ".."], "options_en": ["..", "..", "..", ".."] (optional —
   ho to slide/awaaz par "Hindi / English" dikhega), "answer": 0-3, "exp_hi": "..", "source": ".."}]
@@ -38,6 +44,15 @@ TOPICS_LINES = {1: TOPICS_LINE,
 NEXT_LINE = {1: "अगला Mock Test — रोज़ दोपहर 12 बजे",
              2: "अगला Mock Test — रोज़ शाम 6:30 बजे"}
 CLASSES_LINE = {1: "Class 1 to 5", 2: "Class 6 to 8"}
+
+# Subject-wise series ke sthir shabdavali (sirf title_subject wali entry par)
+SUBJECT_TOPICS = {
+    "SST": ("Social Studies / Social Science - History, Geography, "
+            "Political Science, Economics and Social Science Pedagogy"),
+    "Science": "Science - Physics, Chemistry, Biology and Science Pedagogy",
+}
+SUBJECT_SPOKEN = {"SST": "सामाजिक अध्ययन (SST)", "Science": "विज्ञान (Science)"}
+SUBJECT_NEXT_LINE = "अगला Mock Test जल्द ही — Subscribe करें"
 
 MOCK_ENV = os.environ.get("MOCK_FILE", "").strip()
 INDEX_FILE = os.environ.get("INDEX_FILE", "ctet_index.json")
@@ -301,41 +316,63 @@ def display_option_texts(q):
         return speech_option_texts(q)
     return option_texts(q)
 
-def load_mock(path, paper, mock_no, playlist):
+def load_mock(path, paper, mock_no, playlist, title_subject="", series_label=""):
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
     questions = [adapt_question(q) for q in data]
+    subject = (title_subject or "").strip()
     return {"paper": int(paper), "mock_no": int(mock_no), "playlist": playlist,
-            "questions": questions}
+            "questions": questions, "subject": subject,
+            "series_label": (series_label or "").strip() or subject}
+
+def mock_label(mock):
+    """Video ka naam-roop: subject series me 'CTET Paper 2 SST Mock Test 1',
+    warna purana 'CTET Paper 1 Mock Test 1'."""
+    if mock.get("subject"):
+        return (f"CTET Paper {mock['paper']} {mock['subject']} "
+                f"Mock Test {mock['mock_no']}")
+    return f"CTET Paper {mock['paper']} Mock Test {mock['mock_no']}"
+
+def series_footer(mock):
+    """Title slide / thumbnail ke neeche wali series line."""
+    if mock.get("subject"):
+        return f"CTET {mock['series_label']} Mock Test Series"
+    return "CTET Mock Test Series"
 
 def make_title(mock, total):
-    paper, mock_no = mock["paper"], mock["mock_no"]
-    title = (f"CTET Paper {paper} Mock Test {mock_no} | {total} PYQ with Explanation | "
-             f"{CLASSES_LINE[paper]}")
+    title = (f"{mock_label(mock)} | {total} PYQ with Explanation | "
+             f"{CLASSES_LINE[mock['paper']]}")
     assert len(title) <= 100, f"Title 100 akshar se lamba hai ({len(title)}): {title}"
     return title
 
 def make_desc(mock, total):
     # Description SIRF English me (channel ka pakka niyam)
     paper, mock_no = mock["paper"], mock["mock_no"]
+    subject = mock.get("subject", "")
+    label = mock_label(mock)
     playlist_url = f"https://www.youtube.com/playlist?list={mock['playlist']}"
+    topics = SUBJECT_TOPICS.get(subject) if subject else None
+    topics = topics or TOPICS_LINES.get(paper, TOPICS_LINE)
+    series_line = (f"CTET Paper {paper} {subject} Mock Test Series" if subject
+                   else f"CTET Paper {paper} Mock Test Series")
+    tag_subj = f" #CTET{subject.replace(' ', '')}" if subject else ""
     return (
-        f"CTET Paper {paper} Mock Test {mock_no} | {total} PYQ with Explanation | "
+        f"{label} | {total} PYQ with Explanation | "
         f"{CLASSES_LINE[paper]}\n"
         f"\n"
-        f"CTET Paper {paper} Mock Test {mock_no} - {total} previous year questions (PYQ) "
+        f"{label} - {total} previous year questions (PYQ) "
         f"with correct answers verified from the CBSE official answer key and simple Hindi "
         f"explanations, for CTET Paper {paper} ({CLASSES_LINE[paper]}) aspirants. "
         f"A new mock test video comes every day.\n"
         f"\n"
-        f"Topics covered: {TOPICS_LINES.get(paper, TOPICS_LINE)}.\n"
+        f"Topics covered: {topics}.\n"
         f"\n"
-        f"CTET Paper {paper} Mock Test Series - Full Playlist: {playlist_url}\n"
+        f"{series_line} - Full Playlist: {playlist_url}\n"
         f"Channel: {CHANNEL_URL}\n"
         f"Telegram: {TELEGRAM_URL}\n"
         f"Instagram: {INSTAGRAM_URL}\n"
         f"\n"
-        f"#CTET #CTETPaper{paper} #CTETMockTest #CTETPYQ #TeacherEligibilityTest "
+        f"#CTET #CTETPaper{paper} #CTETMockTest #CTETPYQ{tag_subj} #TeacherEligibilityTest "
         f"#ApnaBiharSamachar\n"
     )
 
@@ -478,13 +515,14 @@ def compute_layout(d, q, reveal):
             "line_h": line_h, "pad_v": pad_v, "gap": gap, "orows": orows,
             "opts_bottom": opts_bottom, "limit": limit, "panel": panel}
 
-def question_slide(q, idx, total, reveal, mock_no=1, paper=1):
+def question_slide(q, idx, total, reveal, mock_no=1, paper=1, subject=""):
     img, d = base_slide()
     badge = f"प्रश्न {idx} / {total}"
     bw = text_w(d, badge, 26, True) + 36
     rrect(d, [40, 78, 40 + bw, 122], 22, fill=(255, 153, 51))
     draw_mixed(d, 58, 86, badge, 26, True, (11, 31, 74))
-    tag = f"Paper {paper} • Mock Test {mock_no}"
+    tag = (f"Paper {paper} {subject} • Mock Test {mock_no}" if subject
+           else f"Paper {paper} • Mock Test {mock_no}")
     draw_mixed(d, W - 40 - text_w(d, tag, 24), 88, tag, 24, False, (170, 190, 235))
 
     lay = compute_layout(d, q, reveal)
@@ -527,12 +565,12 @@ def question_slide(q, idx, total, reveal, mock_no=1, paper=1):
 def title_slide(mock, total):
     img, d = base_slide()
     center(d, "अपना बिहार समाचार", 120, 56, True, (255, 153, 51))
-    t = f"CTET Paper {mock['paper']} Mock Test {mock['mock_no']}"
+    t = mock_label(mock)
     center(d, t, 205, fit_size(d, t, 72, True, W - 120), True, (255, 255, 255))
     center(d, f"{total} PYQ with Explanation", 310, 48, True, (124, 252, 154))
     center(d, CLASSES_LINE[mock["paper"]], 385, 36, False, (200, 215, 250))
     center(d, "उत्तर + व्याख्या सहित", 455, 34, False, (255, 255, 255))
-    center(d, "CTET Mock Test Series", 545, 30, True, (255, 205, 90))
+    center(d, series_footer(mock), 545, 30, True, (255, 205, 90))
     return img
 
 def thumbnail_slide(mock, total):
@@ -543,22 +581,26 @@ def thumbnail_slide(mock, total):
     center(d, "Apna Bihar Samachar Live", 44, 38, True, (255, 153, 51))
     t = f"CTET PAPER {mock['paper']}"
     center(d, t, 118, fit_size(d, t, 92, True, W - 110), True, (255, 255, 255))
-    t2 = f"MOCK TEST {mock['mock_no']}"
+    t2 = (f"{mock['subject'].upper()} MOCK TEST {mock['mock_no']}"
+          if mock.get("subject") else f"MOCK TEST {mock['mock_no']}")
     center(d, t2, 232, fit_size(d, t2, 84, True, W - 110), True, (124, 252, 154))
     center(d, f"{total} PYQ Questions", 356, 72, True, (255, 255, 255))
     center(d, "With Explanation", 452, 52, True, (255, 205, 90))
     d.rectangle([240, 528, W - 240, 534], fill=(255, 153, 51))
     center(d, CLASSES_LINE[mock["paper"]], 552, 42, True, (255, 153, 51))
-    center(d, "CTET Mock Test Series", 622, 30, False, (190, 205, 240))
+    center(d, series_footer(mock), 622, 30, False, (190, 205, 240))
     return img
 
-def outro_slide(paper=1):
+def outro_slide(paper=1, subject=""):
     img, d = base_slide()
     center(d, "धन्यवाद!", 150, 60, True, (255, 153, 51))
-    center(d, "CTET Mock Test Series की पूरी Playlist देखें", 255, 36, False, (255, 255, 255))
+    series_hi = (f"CTET {subject} Mock Test Series" if subject
+                 else "CTET Mock Test Series")
+    center(d, f"{series_hi} की पूरी Playlist देखें", 255, 36, False, (255, 255, 255))
     center(d, "Like करें — Subscribe करें", 330, 40, True, (124, 252, 154))
     center(d, "Apna Bihar Samachar Live — @ApnaBiharSamacharLive", 415, 36, True, (255, 153, 51))
-    center(d, NEXT_LINE.get(paper, NEXT_LINE[1]), 480, 30, False, (200, 215, 250))
+    next_line = SUBJECT_NEXT_LINE if subject else NEXT_LINE.get(paper, NEXT_LINE[1])
+    center(d, next_line, 480, 30, False, (200, 215, 250))
     return img
 
 # ---------------- Segments ----------------
@@ -578,14 +620,17 @@ async def build(mock, workdir):
     # Title slide (DATE NAHI — channel ka pakka niyam)
     p = os.path.join(workdir, "intro.png"); title_slide(mock, total).save(p)
     a = os.path.join(workdir, "intro.mp3")
-    await tts(f"अपना बिहार समाचार में आपका स्वागत है। यह है सीटेट पेपर {paper} मॉक टेस्ट {mock_no}। "
+    spoken_subj = SUBJECT_SPOKEN.get(mock.get("subject", ""), mock.get("subject", ""))
+    intro_name = (f"सीटेट पेपर {paper} {spoken_subj} मॉक टेस्ट {mock_no}" if spoken_subj
+                  else f"सीटेट पेपर {paper} मॉक टेस्ट {mock_no}")
+    await tts(f"अपना बिहार समाचार में आपका स्वागत है। यह है {intro_name}। "
               f"इस वीडियो में {total} पिछले वर्षों के प्रश्न हैं — हर प्रश्न का सही उत्तर "
               f"और व्याख्या के साथ। चलिए शुरू करते हैं।", a)
     s = os.path.join(workdir, "seg_000.mp4"); make_segment(p, a, s); segs.append(s)
 
     for i, q in enumerate(questions, 1):
         opts_speech = "; ".join(f"{LETTERS[j]}, {o}" for j, o in enumerate(speech_option_texts(q)))
-        p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, mock_no, paper).save(p)
+        p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, mock_no, paper, mock.get("subject", "")).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
         qspeak = q["q_en"] if q.get("lang") == "en" and q.get("q_en") else q["q_hi"]
         await tts(f"प्रश्न {i}। {qspeak} … विकल्प हैं — {opts_speech}।", a)
@@ -594,15 +639,17 @@ async def build(mock, workdir):
         expl = q["explanation"]
         if len(expl) > 260:
             expl = expl[:260].rsplit("।", 1)[0] + "।"
-        p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, mock_no, paper).save(p)
+        p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, mock_no, paper, mock.get("subject", "")).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
         await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {speech_option_texts(q)[q['answer']]}। {expl}", a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 
-    p = os.path.join(workdir, "outro.png"); outro_slide(paper).save(p)
+    p = os.path.join(workdir, "outro.png"); outro_slide(paper, mock.get("subject", "")).save(p)
     a = os.path.join(workdir, "outro.mp3")
-    await tts("धन्यवाद। अगर वीडियो पसंद आया हो तो लाइक ज़रूर करें, और सीटेट मॉक टेस्ट "
+    outro_series = (f"सीटेट {spoken_subj} मॉक टेस्ट" if spoken_subj
+                    else "सीटेट मॉक टेस्ट")
+    await tts(f"धन्यवाद। अगर वीडियो पसंद आया हो तो लाइक ज़रूर करें, और {outro_series} "
               "सीरीज़ के बाकी वीडियो playlist में देखें। रोज़ ऐसे ही वीडियो के लिए "
               "अपना बिहार समाचार चैनल को सब्सक्राइब करें।", a)
     s = os.path.join(workdir, "seg_999.mp4"); make_segment(p, a, s); segs.append(s)
@@ -643,6 +690,8 @@ def main():
         paper = int(os.environ.get("CTET_PAPER", "1"))
         mock_no = int(os.environ.get("CTET_MOCK_NO", "1"))
         playlist = os.environ.get("CTET_PLAYLIST", PLAYLIST_ID)
+        title_subject = os.environ.get("CTET_TITLE_SUBJECT", "").strip()
+        series_label = os.environ.get("CTET_SERIES_LABEL", "").strip()
     else:
         idx_path = find_file(INDEX_FILE)
         if not idx_path:
@@ -662,9 +711,11 @@ def main():
         paper = int(entry.get("paper", 1))
         mock_no = int(entry.get("mock_no", nxt + 1))
         playlist = entry.get("playlist", PLAYLIST_ID)
+        title_subject = str(entry.get("title_subject", "") or "").strip()
+        series_label = str(entry.get("series_label", "") or "").strip()
         via_index = True
-    mock = load_mock(mock_path, paper, mock_no, playlist)
-    print(f"CTET Paper {mock['paper']} Mock Test {mock['mock_no']} ban raha hai — "
+    mock = load_mock(mock_path, paper, mock_no, playlist, title_subject, series_label)
+    print(f"{mock_label(mock)} ban raha hai — "
           f"{len(mock['questions'])} sawal ({mock_path})...")
     workdir = tempfile.mkdtemp(prefix="ctet_")
     out, thumb = asyncio.run(build(mock, workdir))

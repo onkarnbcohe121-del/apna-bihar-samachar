@@ -1,0 +1,1052 @@
+[
+ {
+  "n": 1,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सा राज्य कदंब मयूरशर्मण ने स्थापित किया था?",
+  "q_en": "Which of the following Kingdoms was established by Kadamba Mayurasharman?",
+  "options": [
+   "मध्य प्रदेश",
+   "कर्नाटक",
+   "राजस्थान",
+   "गुजरात"
+  ],
+  "options_en": [
+   "Madhya Pradesh",
+   "Karnataka",
+   "Rajasthan",
+   "Gujarat"
+  ],
+  "answer": 1,
+  "exp_hi": "कदंब वंश की स्थापना मयूरशर्मण ने की थी। इस वंश का शासन क्षेत्र आज के कर्नाटक में था और इनकी राजधानी बनवासी थी।",
+  "source": "CTET Dec 2024 Set D Q31"
+ },
+ {
+  "n": 2,
+  "subject": "SST",
+  "q_hi": "ग्रहों के बारे में निम्नलिखित में से कौनसा/से कथन सही है/हैं? (A) वे तारों के प्रकाश से प्रकाशित होते हैं। (B) वे केवल चट्टानों से बने होते हैं। (C) सभी ग्रहों के अपने चाँद होते हैं।",
+  "q_en": "Which of the following statements is/are correct about planets? (A) They are lit by the light of the stars. (B) They are made up of only rocks. (C) All planets have their moons.",
+  "options": [
+   "(A), (B) तथा (C) सभी",
+   "केवल (A)",
+   "केवल (A) तथा (B)",
+   "केवल (B) तथा (C)"
+  ],
+  "options_en": [
+   "All (A), (B) and (C)",
+   "Only (A)",
+   "Only (A) and (B)",
+   "Only (B) and (C)"
+  ],
+  "answer": 1,
+  "exp_hi": "ग्रह तारों के प्रकाश से प्रकाशित होते हैं, उनका अपना प्रकाश नहीं होता। ग्रह केवल चट्टानों से नहीं बने होते (कुछ गैसीय भी हैं) और सभी ग्रहों के अपने चंद्रमा भी नहीं होते — बुध और शुक्र के कोई चंद्रमा नहीं है।",
+  "source": "CTET Dec 2024 Set D Q32"
+ },
+ {
+  "n": 3,
+  "subject": "SST",
+  "q_hi": "पृथ्वी पर जो तापमान के वितरण को प्रभावित करता है, वह महत्त्वपूर्ण कारक है :",
+  "q_en": "The most important factor that influences the distribution of temperature on earth is:",
+  "options": [
+   "भीड़ वाले ऊँचे भवन",
+   "आतपन अथवा सूर्य से आने वाली विकिरण",
+   "ऋतुएँ",
+   "अस्फाल्ट से बनी सड़कें"
+  ],
+  "options_en": [
+   "Crowded high rise buildings",
+   "Insolation or Incoming Solar Radiation",
+   "Seasons",
+   "Asphalt of roads"
+  ],
+  "answer": 1,
+  "exp_hi": "पृथ्वी पर तापमान के वितरण को सबसे अधिक प्रभावित करने वाला कारक आतपन अर्थात सूर्य से आने वाला सौर विकिरण है। विषुवत रेखा पर यह अधिक और ध्रुवों की ओर क्रमशः कम होता जाता है।",
+  "source": "CTET Dec 2024 Set D Q33"
+ },
+ {
+  "n": 4,
+  "subject": "SST",
+  "q_hi": "गैर-ब्राह्मण आंदोलन पर निम्नलिखित कथनों पर विचार कीजिए और वैध विकल्प चुनिए : (a) यह आंदोलन गैर-ब्राह्मण जातियों से आया जिन्होंने शिक्षा तक पहुँच प्राप्त कर ली थी। (b) आंदोलन ने तर्क दिया कि आर्य लोग मूल लोग थे। (c) आंदोलन उन गैर-ब्राह्मण जातियों से आया जिनके पास धन एवं प्रभुत्व था।",
+  "q_en": "Consider the following statements on non-Brahman movement and choose the valid option: (a) The movement came from non-Brahman castes that had acquired access to education. (b) The movement argued that the Aryans were the indigenous people. (c) The movement came from non-Brahman castes with wealth and influence.",
+  "options": [
+   "केवल (b) वैध है",
+   "केवल (a) और (c) वैध हैं",
+   "केवल (b) और (c) वैध हैं",
+   "केवल (c) वैध है"
+  ],
+  "options_en": [
+   "Only (b) is valid",
+   "Only (a) and (c) are valid",
+   "Only (b) and (c) are valid",
+   "Only (c) is valid"
+  ],
+  "answer": 1,
+  "exp_hi": "गैर-ब्राह्मण आंदोलन उन गैर-ब्राह्मण जातियों से आया जिन्होंने शिक्षा तक पहुँच प्राप्त कर ली थी तथा जिनके पास धन और प्रभुत्व था, फिर भी उन्हें नीचा दर्जा दिया जाता था। आंदोलन का तर्क था कि आर्य बाहर से आए थे, वे मूल निवासी नहीं थे।",
+  "source": "CTET Dec 2024 Set D Q34"
+ },
+ {
+  "n": 5,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से किसने मध्य भारत में चमड़े का काम करने वालों के साथ काम किया तथा सतनामी आंदोलन की शुरुआत भी की?",
+  "q_en": "Who among the following worked with leather workers in Central India and also started Satnami Movement?",
+  "options": [
+   "यू.बी. फडके",
+   "ज्योतिराव फुले",
+   "घासीदास",
+   "हरीदास ठाकुर"
+  ],
+  "options_en": [
+   "U.B. Phadke",
+   "Jyotirao Phule",
+   "Ghasidas",
+   "Haridas Thakur"
+  ],
+  "answer": 2,
+  "exp_hi": "घासीदास ने मध्य भारत में चमड़े का काम करने वालों के साथ काम किया और सतनामी आंदोलन की शुरुआत की। उन्होंने जातिगत भेदभाव का विरोध किया।",
+  "source": "CTET Dec 2024 Set D Q35"
+ },
+ {
+  "n": 6,
+  "subject": "SST",
+  "q_hi": "किस प्रकार की पवनें, स्थल एवं समुद्री समीर होती हैं?",
+  "q_en": "What type of winds are Land and Sea breeze?",
+  "options": [
+   "स्थायी पवनें",
+   "चक्रवात",
+   "स्थानीय पवनें",
+   "मौसमी पवनें"
+  ],
+  "options_en": [
+   "Permanent winds",
+   "Cyclone",
+   "Local winds",
+   "Seasonal winds"
+  ],
+  "answer": 2,
+  "exp_hi": "स्थल समीर और समुद्री समीर स्थानीय पवनें हैं, जो स्थल और समुद्र के तापमान के अंतर के कारण छोटे क्षेत्र में दिन-रात चलती हैं।",
+  "source": "CTET Dec 2024 Set D Q36"
+ },
+ {
+  "n": 7,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से शैल चक्र का सही क्रम क्या है?",
+  "q_en": "Which of the following is the correct sequence of rock cycle?",
+  "options": [
+   "आग्नेय शैल, मैग्मा, कायांतरित शैल",
+   "अवसादी शैल, कायांतरित शैल, मैग्मा",
+   "आग्नेय शैल, कायांतरित शैल, अवसादी शैल",
+   "मैग्मा, कायांतरित शैल, अवसादी शैल"
+  ],
+  "options_en": [
+   "Igneous Rock, Magma, Metamorphic Rock",
+   "Sedimentary Rock, Metamorphic Rock, Magma",
+   "Igneous Rock, Metamorphic Rock, Sedimentary Rock",
+   "Magma, Metamorphic Rock, Sedimentary Rock"
+  ],
+  "answer": 1,
+  "exp_hi": "शैल चक्र में अवसादी शैल ताप व दाब से कायांतरित शैल बनती है और अधिक ताप से पिघलकर मैग्मा बन जाती है, जो ठंडा होकर पुनः आग्नेय शैल बनाता है। अतः सही क्रम है — अवसादी शैल, कायांतरित शैल, मैग्मा।",
+  "source": "CTET Dec 2024 Set D Q38"
+ },
+ {
+  "n": 8,
+  "subject": "SST",
+  "q_hi": "कथनों (A) तथा (R) को ध्यान से पढ़ें तथा निम्नलिखित में से सही विकल्प चुनें : (A) : संसाधनों का सतर्कतापूर्वक उपयोग करना और उन्हें नवीकरण के लिए समय देना, संसाधन संरक्षण कहलाता है। (R) : संसाधनों का उपयोग करने की आवश्यकता और भविष्य के लिए उनके संरक्षण में संतुलन बनाए रखना, सतत्पोषणीय विकास कहलाता है।",
+  "q_en": "Read the statements (A) and (R) carefully and choose the correct option. (A): Using resources carefully and giving them time to get renewed is called resource conservation. (R): Balancing the need to use resources and also conserve them for the future is called sustainable development.",
+  "options": [
+   "(A) गलत है किन्तु (R) सही है",
+   "दोनों कथन (A) एवं (R) सही हैं तथा (R), (A) की व्याख्या करता है",
+   "दोनों कथन (A) एवं (R) सही हैं किन्तु (R), (A) की व्याख्या नहीं करता है",
+   "(A) सही है किन्तु (R) गलत है"
+  ],
+  "options_en": [
+   "(A) is false but (R) is true",
+   "Both the statements (A) and (R) are true and (R) explains (A)",
+   "Both the statements (A) and (R) are true but (R) does not explain (A)",
+   "(A) is true but (R) is false"
+  ],
+  "answer": 2,
+  "exp_hi": "कथन (A) संसाधन संरक्षण की और कथन (R) सतत् पोषणीय विकास की परिभाषा देता है — दोनों सही हैं। परंतु (R), (A) की व्याख्या नहीं करता, क्योंकि दोनों अलग-अलग अवधारणाओं को परिभाषित करते हैं।",
+  "source": "CTET Dec 2024 Set D Q40"
+ },
+ {
+  "n": 9,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सा सही नहीं है?",
+  "q_en": "Which one of the following is incorrect?",
+  "options": [
+   "1870 और 1880 के दशकों में ब्रिटिश शासन के प्रति असंतोष और ज़्यादा गहरा हुआ।",
+   "1878 में आर्म्स एक्ट पारित किया गया जिसके ज़रिए भारतीयों द्वारा अपने पास हथियार रखने का अधिकार छीन लिया गया।",
+   "सरकार का समर्थन करने के लिए 1880 में वर्नाक्यूलर प्रेस एक्ट पारित किया गया था।",
+   "1883 में सरकार ने इल्बर्ट बिल लागू करने का प्रयास किया जिसे लेकर काफ़ी हंगामा हुआ।"
+  ],
+  "options_en": [
+   "The dissatisfaction with British rule intensified in 1870s and 1880s",
+   "The Arms Act was passed in 1878, disallowing Indians from possessing arms",
+   "The Vernacular Press Act was passed in 1880, to support the Government",
+   "In 1883, there was a furore over the attempt by the Government to introduce the Ilbert Bill"
+  ],
+  "answer": 2,
+  "exp_hi": "वर्नाक्यूलर प्रेस एक्ट 1880 में नहीं, 1878 में पारित हुआ था और इसका उद्देश्य सरकार की आलोचना करने वाले भारतीय भाषाओं के समाचार-पत्रों को दबाना था। शेष तीनों कथन सही हैं।",
+  "source": "CTET Dec 2024 Set D Q41"
+ },
+ {
+  "n": 10,
+  "subject": "SST",
+  "q_hi": "घास के मैदानों के बारे में दिए गए निम्न कथनों पर विचार कीजिए तथा सही विकल्प का चयन कीजिए। (A) घास के मैदानों के निर्माण में जलवायु एक महत्वपूर्ण भूमिका निभाती है। (B) प्रेयरीज़ में वार्षिक वर्षा मध्यम स्तर की होती है जबकि वेल्ड्स में सर्दियों के महीने में सूखा पड़ सकता है। (C) वेल्ड्स में वनस्पति आवरण विरल है। (D) वेल्ड्स उत्तरी गोलार्ध में पाया जाता है जबकि प्रेयरीज़ दक्षिणी गोलार्ध में।",
+  "q_en": "Consider the following statements about grasslands and choose the correct option. (A) Climate plays an important role in the formation of grasslands. (B) Annual rainfall is moderate in Prairies while velds could face drought in winter months. (C) The vegetation cover is sparse in Velds. (D) Velds lie in the Northern Hemisphere while Prairies in the Southern Hemisphere.",
+  "options": [
+   "(A), (B), (C) तथा (D) सभी सही हैं।",
+   "केवल (A), (B) तथा (C) सही हैं।",
+   "केवल (B), (C) तथा (D) सही हैं।",
+   "केवल (A), (C) तथा (D) सही हैं।"
+  ],
+  "options_en": [
+   "All (A), (B), (C) and (D) are correct",
+   "Only (A), (B) and (C) are correct",
+   "Only (B), (C) and (D) are correct",
+   "Only (A), (C) and (D) are correct"
+  ],
+  "answer": 1,
+  "exp_hi": "घास के मैदानों के निर्माण में जलवायु की महत्त्वपूर्ण भूमिका होती है, प्रेयरीज़ में वर्षा मध्यम होती है और वेल्ड में वनस्पति आवरण विरल होता है। वेल्ड दक्षिणी गोलार्ध (दक्षिण अफ्रीका) में और प्रेयरीज़ उत्तरी गोलार्ध में हैं, अतः कथन (D) गलत है।",
+  "source": "CTET Dec 2024 Set D Q42"
+ },
+ {
+  "n": 11,
+  "subject": "SST",
+  "q_hi": "उत्तरमेरुर अभिलेख के अनुसार सभा का सदस्य कौन हो सकता था? (A) ऐसी भूमि का स्वामी जहाँ से भू-राजस्व वसूला जाता था। (B) उनकी उम्र 25 और 70 के बीच होनी चाहिए। (C) उनके पास अपना घर होना चाहिए। (D) उन्हें वेदों का ज्ञान होना चाहिए।",
+  "q_en": "According to the Uttaramerur inscription, who could become a member of a Sabha? (A) The owners of land from which land revenue is collected. (B) They should be between 25 and 70 years of age. (C) They should have their own houses. (D) They should have knowledge of the Vedas.",
+  "options": [
+   "केवल (A), (C) और (D)",
+   "केवल (A)",
+   "केवल (A) और (B)",
+   "केवल (A) और (D)"
+  ],
+  "options_en": [
+   "Only (A), (C) and (D)",
+   "Only (A)",
+   "Only (A) and (B)",
+   "Only (A) and (D)"
+  ],
+  "answer": 0,
+  "exp_hi": "उत्तरमेरुर अभिलेख के अनुसार सभा का सदस्य वही बन सकता था जिसके पास ऐसी भूमि हो जिससे भू-राजस्व वसूला जाता हो, जिसका अपना घर हो और जिसे वेदों का ज्ञान हो। आयु सीमा 35 से 70 वर्ष थी, 25 से 70 वर्ष नहीं।",
+  "source": "CTET Dec 2024 Set D Q43"
+ },
+ {
+  "n": 12,
+  "subject": "SST",
+  "q_hi": "_____ एक स्थिति का संदर्भ देती है जहाँ किसी व्यक्ति के पास वे संसाधन और अवसर नहीं होते जो अन्य व्यक्तियों को उपलब्ध हैं।",
+  "q_en": "_______ refers to a situation where a person does not have resources and opportunities that are available to other persons.",
+  "options": [
+   "बेदख़ली",
+   "सोपानिकी",
+   "विविधीकरण",
+   "असमानता"
+  ],
+  "options_en": [
+   "Dispossession",
+   "Hierarchy",
+   "Diversification",
+   "Inequality"
+  ],
+  "answer": 3,
+  "exp_hi": "जब किसी व्यक्ति के पास वे संसाधन और अवसर उपलब्ध नहीं होते जो अन्य व्यक्तियों को उपलब्ध हैं, तो ऐसी स्थिति को असमानता कहते हैं।",
+  "source": "CTET Dec 2024 Set D Q44"
+ },
+ {
+  "n": 13,
+  "subject": "SST",
+  "q_hi": "निम्न में से कौन-से युग्म सही सुमेलित हैं? (A) निर्वाह कृषि — कृषक परिवार की आवश्यकताओं को पूरा करने के लिए की जाती है। (B) गहन निर्वाह कृषि — सघन जनसंख्या वाले क्षेत्रों में प्रचलित होती है। (C) स्थानांतरी कृषि — व्यक्ति और पशु एक स्थान से दूसरे स्थान पर जाते हैं। सही विकल्प का चुनाव कीजिए।",
+  "q_en": "Which of the following are correctly matched? (A) Subsistence Farming - Practiced to meet the needs of farmer's own family (B) Intensive Subsistence Agriculture - Prevalent in the thickly populated areas (C) Shifting Cultivation - People and animals move from place to place. Choose the correct option.",
+  "options": [
+   "(A), (B) और (C) सभी",
+   "(A) तथा (B)",
+   "(B) तथा (C)",
+   "(A) तथा (C)"
+  ],
+  "options_en": [
+   "All (A), (B) and (C)",
+   "(A) and (B)",
+   "(B) and (C)",
+   "(A) and (C)"
+  ],
+  "answer": 1,
+  "exp_hi": "निर्वाह कृषि किसान अपने परिवार की आवश्यकताओं को पूरा करने के लिए करता है और गहन निर्वाह कृषि सघन जनसंख्या वाले क्षेत्रों में प्रचलित है। स्थानांतरी कृषि में लोग व पशु स्थान नहीं बदलते, खेत बदले जाते हैं — अतः (C) का मिलान गलत है।",
+  "source": "CTET Dec 2024 Set D Q45"
+ },
+ {
+  "n": 14,
+  "subject": "SST",
+  "q_hi": "दिए गए कथनों (A) और (R) को पढ़ें और उपयुक्त विकल्प चुनें: (A): राजा राममोहन राय ने कलकत्ता में ब्रह्म सभा के नाम से एक सुधारवादी संगठन बनाया था। (R): वह मानते थे कि समाज में परिवर्तन लाना और अन्यायपूर्ण तौर-तरीक़ों से छुटकारा पाना ज़रूरी है।",
+  "q_en": "Read the statements (A) and (R) and choose the appropriate option. (A): Raja Rammohan Roy founded a reform association known as the Brahmo Sabha in Calcutta. (R): He felt that changes were necessary in society and unjust practices needed to be done away with.",
+  "options": [
+   "(A) और (R) दोनों गलत हैं।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are false",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false"
+  ],
+  "answer": 1,
+  "exp_hi": "राजा राममोहन राय ने कलकत्ता में ब्रह्म सभा नामक सुधार संस्था की स्थापना की, क्योंकि वे मानते थे कि समाज में परिवर्तन आवश्यक है और अन्यायपूर्ण प्रथाओं को समाप्त किया जाना चाहिए। अतः (R), (A) की सही व्याख्या है।",
+  "source": "CTET Dec 2024 Set D Q46"
+ },
+ {
+  "n": 15,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित का मिलान कीजिए तथा उपयुक्त विकल्प चुनें: (a) गृहपति — (i) भूमिहीन मज़दूर (b) श्रेणियाँ — (ii) स्वतंत्र कृषक (c) अडिमै — (iii) तटीय निवास (d) अरिकामेडु — (iv) शिल्पकार",
+  "q_en": "Match the following and choose the appropriate option. (a) Grihapatis - (i) Landless Labourers (b) Shrenis - (ii) Independent farmers (c) Adimai - (iii) Coastal Settlement (d) Arikamedu - (iv) Craft persons",
+  "options": [
+   "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+   "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+   "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+   "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+  ],
+  "options_en": [
+   "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+   "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+   "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+   "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+  ],
+  "answer": 0,
+  "exp_hi": "गृहपति स्वतंत्र किसान होते थे, श्रेणियाँ शिल्पकारों के संगठन थे, अडिमै भूमिहीन मज़दूर थे और अरिकमेडु एक तटीय बस्ती (बंदरगाह) थी।",
+  "source": "CTET Dec 2024 Set D Q47"
+ },
+ {
+  "n": 16,
+  "subject": "SST",
+  "q_hi": "साझा संपत्ति संसाधनों के बारे में निम्न में से क्या सही है? (A) इन पर सरकार का स्वामित्व होता है। (B) इन पर निजी कंपनियों का स्वामित्व होता है। (C) इन पर समुदायों का स्वामित्व होता है।",
+  "q_en": "Which of the following is true about common property resources? (A) These are owned by government. (B) These are owned by private companies. (C) These are owned by communities.",
+  "options": [
+   "केवल (A) व (C)",
+   "केवल (A) व (B)",
+   "केवल (B)",
+   "केवल (B) व (C)"
+  ],
+  "options_en": [
+   "Only (A) and (C)",
+   "Only (A) and (B)",
+   "Only (B)",
+   "Only (B) and (C)"
+  ],
+  "answer": 0,
+  "exp_hi": "साझा संपत्ति संसाधनों पर समुदायों का सामूहिक अधिकार होता है और ये सरकार के स्वामित्व में होते हैं, जैसे गाँव के चारागाह, तालाब और सामुदायिक वन। निजी कंपनियों के स्वामित्व वाले संसाधन साझा संपत्ति नहीं कहलाते।",
+  "source": "CTET Dec 2024 Set D Q49"
+ },
+ {
+  "n": 17,
+  "subject": "SST",
+  "q_hi": "अठारहवीं शताब्दी के अंत में और उन्नीसवीं शताब्दी के प्रारंभ में भारतीय उपनिवेश में विकसित सूती कपड़ा उद्योगों के संदर्भ में निम्नलिखित में से कौन से कथन सत्य हैं? (a) भारतीय कपड़ा उद्योग को यूरोपीय और अमेरिकी बाज़ारों में ब्रिटिश कपड़ा उद्योगों से प्रतिस्पर्धा करनी पड़ी। (b) भारतीय कपड़ों के लिए अब ब्रिटिश बाज़ार उपलब्ध था। (c) कपड़े की वस्तुओं को इंग्लैंड तक निर्यात करना लगातार कठिन होता गया। (d) बंगाल के बुनकरों को सबसे अधिक नुकसान हुआ क्योंकि अंग्रेज़ी और यूरोपीय कंपनियों ने भारतीय कपड़ा ख़रीदना बंद कर दिया।",
+  "q_en": "Which of the following statements are true about the development of cotton industries in the late 18th and early 19th century colonised India? (a) Indian textile industry had to compete with British textiles in the European and American markets. (b) British market was now available for Indian textiles. (c) Exporting textile goods to England became increasingly difficult. (d) Bengal weavers were worst hit as English and European companies stopped buying Indian textile.",
+  "options": [
+   "केवल (c) और (d)",
+   "केवल (a), (c) और (d)",
+   "केवल (b), (c) और (d)",
+   "केवल (a) और (b)"
+  ],
+  "options_en": [
+   "(c) and (d) only",
+   "(a), (c) and (d) only",
+   "(b), (c) and (d) only",
+   "(a) and (b) only"
+  ],
+  "answer": 1,
+  "exp_hi": "भारतीय वस्त्र उद्योग को यूरोप और अमेरिका के बाज़ारों में ब्रिटिश वस्त्रों से प्रतिस्पर्धा करनी पड़ी और इंग्लैंड को वस्त्र निर्यात करना कठिन होता गया। बंगाल के बुनकर सबसे अधिक प्रभावित हुए, क्योंकि अंग्रेज़ी व यूरोपीय कंपनियों ने भारतीय वस्त्र ख़रीदना बंद कर दिया था।",
+  "source": "CTET Dec 2024 Set D Q51"
+ },
+ {
+  "n": 18,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित कथनों (A) तथा (R) पर विचार कीजिए तथा सही विकल्प का चयन कीजिए: (A): प्रेयरीज़ को 'दुनिया का अन्न भंडार' के रूप में भी जाना जाता है। (R): खेती के वैज्ञानिक तरीक़ों और ट्रैक्टर व कंबाइन मशीनों के उपयोग ने दक्षिण अफ़्रीका को अधिशेष खाद्य उत्पादक देश बना दिया है।",
+  "q_en": "Consider the following statements (A) and (R) and choose the correct option. (A): The Prairies are also known as the 'Granaries of the world'. (R): Scientific methods of cultivation and use of tractors, harvesters and combines has made South Africa a surplus food producer.",
+  "options": [
+   "दोनों (A) तथा (R) ग़लत हैं।",
+   "दोनों (A) तथा (R) सही हैं, तथा (R), (A) की सही व्याख्या है।",
+   "दोनों (A) तथा (R) सही हैं, किन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है किन्तु (R) ग़लत है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are false",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रेयरीज़ को 'दुनिया का अन्न भंडार' कहा जाता है, यह सही है। परंतु (R) में दक्षिण अफ्रीका की बात कही गई है, जबकि प्रेयरीज़ उत्तरी अमेरिका में हैं — अतः (R) गलत है।",
+  "source": "CTET Dec 2024 Set D Q52"
+ },
+ {
+  "n": 19,
+  "subject": "SST",
+  "q_hi": "विविधता कुछ नया और अलग लेकर आती है —",
+  "q_en": "Diversity came with something new and different due to __________.",
+  "options": [
+   "सजातीय जनसंख्या के कारण",
+   "संस्कृतियों के परस्पर मिश्रण के कारण",
+   "आनुवंशिक रचना के कारण",
+   "समानताओं और समान लक्षणों के कारण"
+  ],
+  "options_en": [
+   "Homogeneous population",
+   "Intermixing of cultures",
+   "Genetic composition",
+   "Similarities and identical traits"
+  ],
+  "answer": 1,
+  "exp_hi": "विविधता संस्कृतियों के परस्पर मेल-मिलाप अर्थात अंतर्मिश्रण से आती है, जब अलग-अलग क्षेत्रों के लोग आपस में मिलते हैं और एक-दूसरे की संस्कृति को अपनाते हैं।",
+  "source": "CTET Dec 2024 Set D Q53"
+ },
+ {
+  "n": 20,
+  "subject": "SST",
+  "q_hi": "भारतीय संविधान द्वारा विधायिका में सीटों तथा सरकारी नौकरियों में आरक्षण दिया गया: (A) निम्न श्रेणी तथा स्कूल एवं महाविद्यालयी परीक्षाओं में कम अंकों की क्षतिपूर्ति हेतु, क्योंकि इस कारण से लोग प्रतिस्पर्धा करने योग्य नहीं थे। (B) वर्षों के ऐतिहासिक दमन तथा शैक्षणिक वंचना की क्षतिपूर्ति हेतु। (C) वोट बैंक के रूप में राजनीतिक समर्थन तथा रैली के लिए लोगों को तुष्ट करने हेतु।",
+  "q_en": "Reservation of seats in legislation and in Government jobs was granted by the Indian Constitution to: (A) Compensate for low grades and marks scored in School and University examinations, because of which people were not able to compete. (B) Compensate for years of historical suppression and educational deprivation. (C) Appease people for political support and rally as vote banks.",
+  "options": [
+   "(B) और (C) दोनों",
+   "केवल (A)",
+   "केवल (B)",
+   "(A) और (C) दोनों"
+  ],
+  "options_en": [
+   "Both (B) and (C)",
+   "Only (A)",
+   "Only (B)",
+   "Both (A) and (C)"
+  ],
+  "answer": 2,
+  "exp_hi": "भारतीय संविधान द्वारा आरक्षण वर्षों के ऐतिहासिक दमन और शैक्षिक वंचना की क्षतिपूर्ति के लिए दिया गया, ताकि वंचित वर्गों को समान अवसर मिल सकें।",
+  "source": "CTET Dec 2024 Set D Q54"
+ },
+ {
+  "n": 21,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से किन कारणों से नवपाषाण युगीन स्थल पुरापाषाण युगीन स्थलों से भिन्न हैं: (i) ओखली और मूसल का प्रयोग अनाज को पीसने के लिए किया जाता था। (ii) बर्तनों का प्रयोग खाना बनाने के लिए किया जाता था। (iii) विभिन्न प्रकार की चीज़ों से कपड़े बुने जाते थे। (iv) पत्थर के औज़ारों का प्रयोग आरंभ हो गया। सही विकल्प का चयन कीजिए।",
+  "q_en": "Neolithic sites are different than Palaeolithic sites because of the following: (i) Mortars and pestles were used for grinding grains. (ii) Pots were used for cooking food. (iii) Cloth was woven using different kinds of material. (iv) Use of stone tools began. Choose the correct option.",
+  "options": [
+   "केवल (i), (ii) और (iv)",
+   "केवल (i) और (ii)",
+   "केवल (i), (ii) और (iii)",
+   "केवल (i) और (iv)"
+  ],
+  "options_en": [
+   "(i), (ii) and (iv) only",
+   "(i) and (ii) only",
+   "(i), (ii) and (iii) only",
+   "(i) and (iv) only"
+  ],
+  "answer": 2,
+  "exp_hi": "नवपाषाण काल में अनाज पीसने के लिए ओखली-मूसल का, खाना बनाने के लिए बर्तनों का प्रयोग हुआ और कपड़े बुने जाने लगे। पाषाण उपकरणों का प्रयोग तो पुरापाषाण काल से ही होता आया था, अतः (iv) अंतर नहीं है।",
+  "source": "CTET Dec 2024 Set D Q56"
+ },
+ {
+  "n": 22,
+  "subject": "SST",
+  "q_hi": "दिए गए अभिकथन (A) एवं कारण (R) को पढ़ें और उपयुक्त विकल्प चुनिए: अभिकथन (A): उन्नीसवीं शताब्दी के अंत तक लोहे के प्रगलन की कला का पतन हो गया और अधिकांश गाँवों में भट्टियाँ अनुपयोगी हो गईं। कारण (R): लोहा प्रगलकों को जंगल विभाग को एक उच्च कर का भुगतान करना पड़ता था जिसने उनकी आय कम कर दी।",
+  "q_en": "Read the given Assertion (A) and Reason (R) statements and choose the appropriate option. Assertion (A): By the late 19th century, the craft of iron smelting declined and in most villages, furnaces fell into disuse. Reason (R): The iron smelters had to pay a very high tax to the Forest Department that reduced their income.",
+  "options": [
+   "(A) और (R) दोनों गलत हैं।",
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या करता है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं करता है।",
+   "(A) सही है लेकिन (R) गलत है।"
+  ],
+  "options_en": [
+   "Both (A) and (R) are false",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false"
+  ],
+  "answer": 1,
+  "exp_hi": "उन्नीसवीं शताब्दी के अंत तक लोहे के प्रगलन का पतन हुआ, क्योंकि वन विभाग को दिया जाने वाला ऊँचा कर लोहारों की आय घटा देता था और गाँवों की भट्ठियाँ बंद होती गईं। अतः (R), (A) की सही व्याख्या है।",
+  "source": "CTET Dec 2024 Set D Q57"
+ },
+ {
+  "n": 23,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन स्थानीय शासन का चुना हुआ सदस्य होता है? (A) वार्ड पंच (B) सरपंच (C) सचिव (D) वार्ड पार्षद",
+  "q_en": "Who among the following are elected members of the Local Governments? (A) Ward member (B) Panchayat President (C) Secretary (D) Ward Councillor",
+  "options": [
+   "केवल (A), (B) और (D)",
+   "केवल (A) और (B)",
+   "केवल (A) और (D)",
+   "केवल (A), (B) और (C)"
+  ],
+  "options_en": [
+   "(A), (B) and (D) only",
+   "(A) and (B) only",
+   "(A) and (D) only",
+   "(A), (B) and (C) only"
+  ],
+  "answer": 0,
+  "exp_hi": "स्थानीय शासन के निर्वाचित सदस्य वार्ड सदस्य, पंचायत अध्यक्ष (सरपंच) और वार्ड पार्षद होते हैं। सचिव निर्वाचित नहीं होता, वह नियुक्त कर्मचारी होता है।",
+  "source": "CTET Dec 2024 Set D Q58"
+ },
+ {
+  "n": 24,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से किस तारीख़ को गांधीजी ने भारतीय लोगों को 'रौलेट एक्ट' के अहिंसक विरोध का दिन मनाने को कहा था?",
+  "q_en": "On which of the following dates Gandhiji asked the Indian people to observe a day of non-violent opposition to the 'Rowlatt Act'?",
+  "options": [
+   "6 दिसंबर 1919",
+   "6 अप्रैल 1919",
+   "13 अप्रैल 1919",
+   "15 दिसंबर 1919"
+  ],
+  "options_en": [
+   "6 December 1919",
+   "6 April 1919",
+   "13 April 1919",
+   "15 December 1919"
+  ],
+  "answer": 1,
+  "exp_hi": "रौलेट एक्ट के अहिंसक विरोध का दिन गांधीजी ने 6 अप्रैल 1919 को मनाने का आह्वान किया था। इसी दिन देशभर में हड़ताल और विरोध प्रदर्शन हुए।",
+  "source": "CTET Dec 2024 Set D Q59"
+ },
+ {
+  "n": 25,
+  "subject": "SST",
+  "q_hi": "जब ग्रीनविच पर 1:00 अपराह्न का समय होगा तब ग्रीनविच के 60° पश्चिम तथा 60° पूर्व में क्रमशः क्या समय होगा?",
+  "q_en": "When it is 1:00 p.m. at Greenwich, what time will it be at 60° West and 60° East respectively?",
+  "options": [
+   "9:00 अपराह्न तथा 5:00 पूर्वाह्न",
+   "5:00 अपराह्न तथा 9:00 पूर्वाह्न",
+   "9:00 पूर्वाह्न तथा 5:00 अपराह्न",
+   "5:00 पूर्वाह्न तथा 9:00 अपराह्न"
+  ],
+  "options_en": [
+   "9:00 p.m. and 5:00 a.m.",
+   "5:00 p.m. and 9:00 a.m.",
+   "9:00 a.m. and 5:00 p.m.",
+   "5:00 a.m. and 9:00 p.m."
+  ],
+  "answer": 2,
+  "exp_hi": "प्रत्येक 15° देशांतर पर समय में 1 घंटे का अंतर होता है। अतः 60° पश्चिम में ग्रीनविच से 4 घंटे पीछे अर्थात प्रातः 9:00 बजे होंगे और 60° पूर्व में 4 घंटे आगे अर्थात सायं 5:00 बजे होंगे।",
+  "source": "CTET Dec 2024 Set D Q60"
+ },
+ {
+  "n": 26,
+  "subject": "SST",
+  "q_hi": "कथन (A) और (B) पर विचार कीजिए तथा निम्नलिखित में से सही विकल्प का चयन कीजिए। कथन (A): योगात्मक आकलन, शिक्षण-अधिगम प्रक्रिया के शुरू से अंत तक विद्यार्थी की प्रगति का निरीक्षण करता है। कथन (B): रचनात्मक आकलन पाठ्यक्रम के अंत में होता है।",
+  "q_en": "Consider the statements (A) and (B) and choose the correct option. Statement (A): Summative assessment monitors the learner's progress throughout the teaching-learning process. Statement (B): Formative assessment is conducted at the end of the course.",
+  "options": [
+   "(A) ग़लत है परन्तु (B) सही है।",
+   "(A) और (B) दोनों सही हैं।",
+   "(A) और (B) दोनों ग़लत हैं।",
+   "(A) सही है परन्तु (B) ग़लत है।"
+  ],
+  "options_en": [
+   "(A) is false but (B) is true",
+   "Both (A) and (B) are true",
+   "Both (A) and (B) are false",
+   "(A) is true but (B) is false"
+  ],
+  "answer": 2,
+  "exp_hi": "दोनों कथन उलट दिए गए हैं — शिक्षण-अधिगम प्रक्रिया के दौरान शिक्षार्थी की प्रगति का सतत निरीक्षण रचनात्मक आकलन करता है, जबकि योगात्मक आकलन पाठ्यक्रम के अंत में किया जाता है। अतः दोनों कथन गलत हैं।",
+  "source": "CTET Dec 2024 Set D Q61"
+ },
+ {
+  "n": 27,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन से प्रश्न आलोचनात्मक चिंतन को बढ़ावा देते हैं? (A) वे विभिन्न तरीक़े क्या हैं जिनके द्वारा सरकार सभी को स्वास्थ्य सेवाएँ प्रदान करने हेतु कदम उठा सकती है? चर्चा कीजिए। (B) कथन की जाँच कीजिए: अमेज़न की तुलना में गंगा नदी में प्रदूषण मानव जीवन को व्यापक रूप से प्रभावित करेगा। (C) ब्राज़ील एवं भारत की भू-आकृति के बीच भेद कीजिए। (D) हिमालय की महत्वपूर्ण विशेषताओं का वर्णन कीजिए। (E) मुग़ल प्रशासन में ज़मींदार की भूमिका क्या थी?",
+  "q_en": "Which of the following questions promote critical thinking? (A) What are the different ways through which the Government can take steps to provide healthcare for all? Discuss. (B) Examine the statement: As compared to Amazon, pollution in river Ganga will affect human life greatly. (C) Differentiate between the physiography of Brazil and India. (D) Describe important features of Himalayas. (E) What was the role of the Zamindar in Mughal administration?",
+  "options": [
+   "केवल (B), (C), (D) और (E)",
+   "केवल (A) और (B)",
+   "केवल (B) और (C)",
+   "केवल (A), (B), (C) और (D)"
+  ],
+  "options_en": [
+   "Only (B), (C), (D) and (E)",
+   "Only (A) and (B)",
+   "Only (B) and (C)",
+   "Only (A), (B), (C) and (D)"
+  ],
+  "answer": 1,
+  "exp_hi": "आलोचनात्मक चिंतन को बढ़ावा देने वाले प्रश्नों में चर्चा, परीक्षण और तर्क की गुंजाइश होती है — जैसे सभी के लिए स्वास्थ्य सुविधा पर चर्चा करना और गंगा प्रदूषण संबंधी कथन का परीक्षण करना। शेष प्रश्न स्मरण या वर्णन पर आधारित हैं।",
+  "source": "CTET Dec 2024 Set D Q62"
+ },
+ {
+  "n": 28,
+  "subject": "SST",
+  "q_hi": "छात्रों के लिए सामाजिक विज्ञान पाठ्यक्रम की गतिविधियों को और अधिक आकर्षक बनाया जा सकता है:",
+  "q_en": "Social Science curricular activities can be made more engaging for students by __________.",
+  "options": [
+   "व्याख्यान के पक्ष में आलोचनात्मक सोच और चर्चा को कम करने से।",
+   "प्रौद्योगिकी और मल्टीमीडिया संसाधनों को शामिल करने से।",
+   "केवल सबसे महत्वपूर्ण ऐतिहासिक घटनाओं और आँकड़ों पर ध्यान केंद्रित करने से।",
+   "तथ्यों और आँकड़ों को याद करने पर ज़ोर देने से।"
+  ],
+  "options_en": [
+   "reducing critical thinking and discussion in favour of lectures",
+   "incorporating technology and multimedia resources",
+   "focusing only on the most important historical events and figures",
+   "emphasizing memorization of facts and figures"
+  ],
+  "answer": 1,
+  "exp_hi": "प्रौद्योगिकी और मल्टीमीडिया संसाधनों को शामिल करने से सामाजिक विज्ञान की पाठ्यचर्या गतिविधियाँ छात्रों के लिए अधिक रोचक और आकर्षक बन जाती हैं।",
+  "source": "CTET Dec 2024 Set D Q64"
+ },
+ {
+  "n": 29,
+  "subject": "SST",
+  "q_hi": "निम्न का मिलान करें और सही विकल्प का चुनाव करें: (A) विवरण चार्ट — (i) एक प्रक्रिया के चरण (B) संबंध चार्ट — (ii) तालिका के रूप में डेटा (C) फ़्लोचार्ट — (iii) ऐतिहासिक विकास (D) सारणीकरण चार्ट — (iv) कार्य-कारण संबंधों को दर्शाता है",
+  "q_en": "Match the following and choose the correct option. (A) Narration charts - (i) steps in a process (B) Relationship charts - (ii) data in the form of table (C) Flow charts - (iii) historical development (D) Tabulation charts - (iv) show cause-and-effect relationships",
+  "options": [
+   "(A)-(ii), (B)-(iii), (C)-(iv), (D)-(i)",
+   "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
+   "(A)-(iv), (B)-(ii), (C)-(i), (D)-(iii)",
+   "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)"
+  ],
+  "options_en": [
+   "(A)-(ii), (B)-(iii), (C)-(iv), (D)-(i)",
+   "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
+   "(A)-(iv), (B)-(ii), (C)-(i), (D)-(iii)",
+   "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)"
+  ],
+  "answer": 1,
+  "exp_hi": "विवरण चार्ट ऐतिहासिक विकास को दर्शाते हैं, संबंध चार्ट कार्य-कारण संबंध दिखाते हैं, प्रवाह चार्ट किसी प्रक्रिया के चरण बताते हैं और सारणीकरण चार्ट आँकड़ों को तालिका के रूप में प्रस्तुत करते हैं।",
+  "source": "CTET Dec 2024 Set D Q65"
+ },
+ {
+  "n": 30,
+  "subject": "SST",
+  "q_hi": "न्यायपालिका की स्वतंत्रता दर्शाती है:",
+  "q_en": "The Independence of Judiciary implies:",
+  "options": [
+   "अगर आवश्यकता हो तो न्यायपालिका, विधायिका के दबाव में काम कर सकती है।",
+   "विधायिका और कार्यपालिका, न्यायपालिका के काम में हस्तक्षेप नहीं कर सकती हैं।",
+   "न्यायपालिका, विधायिका को उपयुक्त कानून का ढाँचा तैयार करने का निर्देश दे सकती है।",
+   "न्यायपालिका, कार्यपालिका को सही रूप से कानूनों को कार्यान्वित करने का निर्देश दे सकती है।"
+  ],
+  "options_en": [
+   "the judiciary can work under the pressure of legislature, if required",
+   "the legislature and the executive cannot interfere in the work of the judiciary",
+   "the judiciary can direct the legislature to frame appropriate laws",
+   "the judiciary can direct the executive to implement the laws properly"
+  ],
+  "answer": 1,
+  "exp_hi": "न्यायपालिका की स्वतंत्रता का अर्थ है कि विधायिका और कार्यपालिका न्यायपालिका के कार्यों में हस्तक्षेप नहीं कर सकतीं, ताकि वह निष्पक्ष होकर निर्णय दे सके।",
+  "source": "CTET Dec 2024 Set D Q66"
+ },
+ {
+  "n": 31,
+  "subject": "SST",
+  "q_hi": "सामाजिक विज्ञान विषय की प्रकृति के संबंध में निम्न में से कौन सा कथन सही है? (A) सामाजिक विज्ञान एक गत्यात्मक विषय है जो वाद-विवाद और परिचर्चा को उत्पन्न करता है। (B) सामाजिक विज्ञान में केवल व्यक्तिगत मानवीय संबंधों पर विचार किया जाता है न कि व्यक्तिगत कार्यों के लेखे-जोखे पर विचार किया जाता है। (C) सामाजिक विज्ञान मुख्य रूप से अंतर्विषयी है जिसका केंद्र बिंदु खोज और प्रयोग है। (D) सामाजिक विज्ञान का क्षेत्र बहुत ही संकुचित है इसलिए यह केवल प्राथमिक स्तर पर पढ़ाने के योग्य है।",
+  "q_en": "Which one of the following statements is correct regarding the nature of Social Science? (A) Social Science is a dynamic subject that generates debate and discussion. (B) In Social Science only individual human relations are considered and not the accounts of individual actions. (C) Social Science is primarily interdisciplinary subject with a focus on discovery and experimentation. (D) The scope of Social Science is very narrow and hence it is fit to teach it only at the primary level.",
+  "options": [
+   "केवल (A) और (B)",
+   "केवल (A) और (C)",
+   "केवल (C) और (D)",
+   "केवल (A), (B) और (C)"
+  ],
+  "options_en": [
+   "(A) and (B) only",
+   "(A) and (C) only",
+   "(C) and (D) only",
+   "(A), (B) and (C) only"
+  ],
+  "answer": 1,
+  "exp_hi": "सामाजिक विज्ञान एक गतिशील विषय है जो वाद-विवाद और चर्चा को जन्म देता है तथा यह मुख्य रूप से खोज और प्रयोग पर केंद्रित अंतर्विषयक विषय है। इसका क्षेत्र संकीर्ण नहीं, अत्यंत व्यापक है।",
+  "source": "CTET Dec 2024 Set D Q67"
+ },
+ {
+  "n": 32,
+  "subject": "SST",
+  "q_hi": "शिक्षक द्वारा सामाजिक विज्ञान के प्रश्न पत्र में 60% भार खुली राय वाले प्रश्नों को दिया जाता है। इस नीति के माध्यम से शिक्षक छात्रों के किस कौशल को जाँचना चाहता है? (A) केवल लेखन कौशल (B) अंतर्वैयक्तिक कौशल (C) तार्किक चिंतन एवं सृजनात्मक कौशल (D) अनुप्रयोगात्मक एवं प्रस्तुती कौशल",
+  "q_en": "Sixty-Percent weightage is given by the teacher to open-ended questions in a Social Science question paper. Which skill does the teacher want to test among students through this strategy? (A) Writing skills only (B) Intrapersonal skills (C) Logical thinking and creative skills (D) Application and presentation skills",
+  "options": [
+   "केवल (B), (C) और (D)",
+   "केवल (A) और (B)",
+   "केवल (C) और (D)",
+   "केवल (A), (B) और (C)"
+  ],
+  "options_en": [
+   "(B), (C) and (D) only",
+   "(A) and (B) only",
+   "(C) and (D) only",
+   "(A), (B) and (C) only"
+  ],
+  "answer": 2,
+  "exp_hi": "खुले सिरे वाले प्रश्नों में छात्रों को उत्तर तर्क सहित अपने शब्दों में प्रस्तुत करना होता है, इसलिए इनसे तार्किक व सृजनात्मक चिंतन के साथ-साथ अनुप्रयोग और प्रस्तुति कौशल की जाँच होती है।",
+  "source": "CTET Dec 2024 Set D Q68"
+ },
+ {
+  "n": 33,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से किस पक्ष पर शिक्षा का अधिकार अधिनियम, 2009 में मूल्यांकन कार्यविधियों के भाग के रूप में विचार किया गया है? (A) भारतीय संविधान में प्रतिष्ठापित मूल्यों का अनुमोदन करना (B) परीक्षा में मुख्यतः योगात्मक आकलन को सम्मिलित किया जाना चाहिए (C) विद्यार्थियों की शारीरिक क्षमताओं का पूर्ण सीमा तक विकास (D) परीक्षाएँ स्कूल परिसर में ही होती हैं",
+  "q_en": "Which of the following aspect is considered in the Right to Education Act, 2009 as part of evaluation procedures? (A) Confirm with the values enshrined in the Indian Constitution (B) Examination should involve mainly summative assessment (C) Development of the physical abilities of learners to the fullest extent (D) Examinations are conducted within the school premises",
+  "options": [
+   "केवल (A) और (C)",
+   "केवल (A), (B) और (C)",
+   "केवल (A), (C) और (D)",
+   "केवल (A) और (B)"
+  ],
+  "options_en": [
+   "(A) and (C) only",
+   "(A), (B) and (C) only",
+   "(A), (C) and (D) only",
+   "(A) and (B) only"
+  ],
+  "answer": 0,
+  "exp_hi": "शिक्षा का अधिकार अधिनियम, 2009 के अनुसार मूल्यांकन प्रक्रियाओं में भारतीय संविधान में निहित मूल्यों का अनुरूपण और शिक्षार्थियों की शारीरिक क्षमताओं का पूर्णतम विकास शामिल है। केवल योगात्मक आकलन पर बल देना इस अधिनियम की भावना के अनुरूप नहीं है।",
+  "source": "CTET Dec 2024 Set D Q69"
+ },
+ {
+  "n": 34,
+  "subject": "SST",
+  "q_hi": "कथन (A) और (B) को पढ़िए तथा उपयुक्त विकल्प का चयन कीजिए। कथन (A): लोकतांत्रिक समाज के सिद्धांतों की समकालीन चुनौतियाँ हैं जैसे कि व्यक्तिगत अधिकार और सामाजिक उत्तरदायित्वों के बीच विवाद। कथन (B): सामाजिक विज्ञान कक्षा के भीतर, लोकतंत्र की समस्याओं के अध्ययन में विद्यार्थियों को संलग्न रखने के लिए विवाद समाधान उपागम का प्रयोग किया जा सकता है।",
+  "q_en": "Read the statements (A) and (B) and choose the appropriate option. Statement (A): Contemporary challenges to the principle of a democratic society are conflicts such as those between individual rights and social responsibilities. Statement (B): Within a social science classroom, conflict resolution approach could be used to engage students to study 'Problems of democracy'.",
+  "options": [
+   "(A) ग़लत है लेकिन (B) सही है।",
+   "(A) और (B) दोनों सही हैं।",
+   "(A) और (B) दोनों ग़लत हैं।",
+   "(A) सही है लेकिन (B) ग़लत है।"
+  ],
+  "options_en": [
+   "(A) is false but (B) is true",
+   "Both (A) and (B) are true",
+   "Both (A) and (B) are false",
+   "(A) is true but (B) is false"
+  ],
+  "answer": 1,
+  "exp_hi": "दोनों कथन सही हैं — लोकतांत्रिक समाज के समक्ष व्यक्तिगत अधिकारों और सामाजिक उत्तरदायित्वों के बीच संघर्ष जैसी समकालीन चुनौतियाँ हैं, और सामाजिक विज्ञान की कक्षा में 'लोकतंत्र की समस्याओं' के अध्ययन हेतु विवाद-समाधान उपागम का प्रयोग किया जा सकता है।",
+  "source": "CTET Dec 2024 Set D Q70"
+ },
+ {
+  "n": 35,
+  "subject": "SST",
+  "q_hi": "भारतीय संविधान निर्धारित करता है —",
+  "q_en": "Indian Constitution lays down _________.",
+  "options": [
+   "सामाजिक आंदोलनों में उन लोगों, जो सरकार को चुनौती देना चाहते हैं, की भागीदारी के लिए नियम।",
+   "राष्ट्रीय पाठ्यचर्या रूपरेखा",
+   "बुनियादी कानून या नियम जिनका पालन सभी को करना होता है।",
+   "धार्मिक संस्थानों की संरचना।"
+  ],
+  "options_en": [
+   "norms for participation of people into social movements that seek to challenge the Government",
+   "the national curriculum framework",
+   "the basic laws or rules that have to be followed by everyone",
+   "the structure of religious institutions"
+  ],
+  "answer": 2,
+  "exp_hi": "भारतीय संविधान वे बुनियादी कानून या नियम निर्धारित करता है जिनका पालन सभी को करना होता है। यह देश के शासन की मूल रूपरेखा है।",
+  "source": "CTET Dec 2024 Set D Q71"
+ },
+ {
+  "n": 36,
+  "subject": "SST",
+  "q_hi": "भारत में पंचायती राज संस्थानों की स्थापना करने का उद्देश्य उपार्जित करना था। (A) सहभागिता द्वारा शासन (B) सांस्कृतिक एकरूपता (समांगता) (C) लोकतांत्रिक विकेंद्रीकरण (D) धार्मिक विविधता। सही विकल्प का चयन कीजिए।",
+  "q_en": "The objective of establishing Panchayati Raj institutions in India was to achieve __________. (A) Participatory governance (B) Cultural homogeneity (C) Democratic decentralization (D) Religious diversity. Choose the correct option.",
+  "options": [
+   "(A) और (C)",
+   "(A) और (B)",
+   "(B) और (C)",
+   "(C) और (D)"
+  ],
+  "options_en": [
+   "(A) and (C)",
+   "(A) and (B)",
+   "(B) and (C)",
+   "(C) and (D)"
+  ],
+  "answer": 0,
+  "exp_hi": "भारत में पंचायती राज संस्थाओं की स्थापना का उद्देश्य सहभागी शासन और लोकतांत्रिक विकेंद्रीकरण प्राप्त करना था, ताकि शासन जनता के निकट पहुँचे।",
+  "source": "CTET Dec 2024 Set D Q72"
+ },
+ {
+  "n": 37,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन से विषय मिडिल स्कूल विद्यार्थियों के लिए अति उपयुक्त हैं? (A) इतिहास में महात्मा गांधी का योगदान (B) भारत का आर्थिक विकास (C) वर्तमान परिदृश्य में महिलाओं की स्थिति (D) जनसंख्या वृद्धि के कारण",
+  "q_en": "Which of the following topics are highly appropriate for middle level students? (A) Contribution of Mahatma Gandhi in history. (B) Economic development of India. (C) Status of Women in present scenario. (D) Reasons for population growth.",
+  "options": [
+   "केवल (A), (C) और (D)",
+   "केवल (A) और (C)",
+   "केवल (A) और (D)",
+   "केवल (B), (C) और (D)"
+  ],
+  "options_en": [
+   "(A), (C) and (D) only",
+   "(A) and (C) only",
+   "(A) and (D) only",
+   "(B), (C) and (D) only"
+  ],
+  "answer": 1,
+  "exp_hi": "मिडिल स्तर के छात्रों के लिए इतिहास में महात्मा गांधी का योगदान और वर्तमान परिदृश्य में महिलाओं की स्थिति जैसे विषय अत्यंत उपयुक्त हैं। भारत का आर्थिक विकास और जनसंख्या वृद्धि के कारण अपेक्षाकृत जटिल विषय हैं।",
+  "source": "CTET Dec 2024 Set D Q73"
+ },
+ {
+  "n": 38,
+  "subject": "SST",
+  "q_hi": "एक सामाजिक विज्ञान शिक्षक विद्यार्थियों में किस प्रकार सामाजिक मूल्यों को विकसित कर सकता है? (i) अनुशासन के भाव का विकास करके (ii) स्कूल/कक्षा में उपयुक्त रूप से व्यवहार करके (iii) विद्यार्थियों को व्यावसायिक फ़िल्म देखने के लिए कहना (iv) कक्षा/स्कूल परिवेश में उपयुक्त लोकतांत्रिक मूल्यों का पालन करके। सही विकल्प का चुनाव करें।",
+  "q_en": "How can a Social Studies teacher develop social values among students? (i) Developing sense of discipline (ii) Behaving in the appropriate manner in school/class (iii) Asking Students to watch commercial movies (iv) Follow appropriate democratic values in class/school setting. Choose the correct option.",
+  "options": [
+   "केवल (iii) और (iv)",
+   "केवल (i) और (iii)",
+   "केवल (i), (ii) और (iii)",
+   "केवल (i), (ii) और (iv)"
+  ],
+  "options_en": [
+   "Only (iii) and (iv)",
+   "Only (i) and (iii)",
+   "Only (i), (ii) and (iii)",
+   "Only (i), (ii) and (iv)"
+  ],
+  "answer": 3,
+  "exp_hi": "छात्रों में सामाजिक मूल्यों का विकास अनुशासन की भावना विकसित करने, विद्यालय/कक्षा में उचित व्यवहार करने और कक्षा/विद्यालय परिवेश में लोकतांत्रिक मूल्यों का पालन करने से होता है। व्यावसायिक फिल्में दिखाना इसका उपाय नहीं है।",
+  "source": "CTET Dec 2024 Set D Q74"
+ },
+ {
+  "n": 39,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सी शिक्षण विधियाँ सामाजिक विज्ञान में आ रही चुनौतियों से पार पाने (निपटने) हेतु उपयुक्त हैं? (A) विशिष्ट से सामान्य तक (B) जटिल से सामान्य तक (C) ज्ञात से अज्ञात तक (D) विश्लेषण से संश्लेषण तक। सही विकल्प का चयन कीजिए।",
+  "q_en": "Which one of the following teaching methods are suitable to overcome the teaching challenges faced in Social Sciences? (A) From Specific to General (B) From Complex to General (C) From Known to Unknown (D) From Analysis to Synthesis. Choose the correct option.",
+  "options": [
+   "(A), (B) और (D)",
+   "(A), (B) और (C)",
+   "(B), (C) और (D)",
+   "(A), (C) और (D)"
+  ],
+  "options_en": [
+   "(A), (B) and (D)",
+   "(A), (B) and (C)",
+   "(B), (C) and (D)",
+   "(A), (C) and (D)"
+  ],
+  "answer": 3,
+  "exp_hi": "सामाजिक विज्ञान की शिक्षण चुनौतियों के लिए विशिष्ट से सामान्य की ओर, ज्ञात से अज्ञात की ओर और विश्लेषण से संश्लेषण की ओर जैसे शिक्षण सूत्र उपयुक्त हैं। 'जटिल से सामान्य की ओर' कोई मान्य शिक्षण सूत्र नहीं है।",
+  "source": "CTET Dec 2024 Set D Q75"
+ },
+ {
+  "n": 40,
+  "subject": "SST",
+  "q_hi": "सामाजिक विज्ञान कक्षा में शिक्षण में द्वंद्वात्मक उपागम के प्रयोग से क्या तात्पर्य है?",
+  "q_en": "What does it mean to use the dialectic approach to teaching in the Social Science classroom?",
+  "options": [
+   "विद्यार्थियों की भूगोल की समझ को समृद्ध बनाने हेतु मानचित्रों एवं एटलसों का प्रयोग करना",
+   "ज्ञान के विकास की मुख्य विधि के रूप में विद्यार्थी और शिक्षक के बीच वार्ता का प्रयोग करना",
+   "विद्यार्थियों में रुचि उत्पन्न करने हेतु कक्षा में ड्रामे का प्रयोग करना",
+   "अमूर्त अवधारणाओं को स्पष्ट करने हेतु उदाहरणों एवं सादृश्यों का प्रयोग करना"
+  ],
+  "options_en": [
+   "Using maps and atlases to enrich students' understanding of Geography",
+   "Using dialogue between student and teacher as the main method of knowledge generation",
+   "Using drama in the classroom to generate interest in students",
+   "Using examples and analogies to clarify abstract concepts"
+  ],
+  "answer": 1,
+  "exp_hi": "द्वंद्वात्मक उपागम में छात्र और शिक्षक के बीच संवाद (वाद-विवाद) ही ज्ञान निर्माण की मुख्य विधि होता है। इसमें प्रश्न-उत्तर और तर्क-वितर्क से निष्कर्ष निकाले जाते हैं।",
+  "source": "CTET Dec 2024 Set D Q76"
+ },
+ {
+  "n": 41,
+  "subject": "SST",
+  "q_hi": "कक्षा में शिक्षक द्वारा पूछे गए निम्न में से कौन से प्रश्न अन्वेषणात्मक और आलोचनात्मक प्रश्न की श्रेणी में आते हैं? (A) हिमालय के सबसे दक्षिणी भाग को क्या कहा जाता है? (B) क्या सूर्य एक तारा है? क्यों? (C) उत्तरी मैदान में अधिक जनसंख्या निवास क्यों करती है? (D) पाक जल संधि किन दो देशों के बीच स्थित है?",
+  "q_en": "Which of the following questions asked by the teacher come under the category of exploratory and critical questions? (A) What is the southernmost part of the Himalayas called? (B) Is the Sun a star? Why? (C) Why does more population reside in the Northern plains? (D) Between which two countries is the Pak Water Treaty located?",
+  "options": [
+   "केवल (C)",
+   "(B) और (C)",
+   "केवल (B)",
+   "(A), (B), (C) और (D)"
+  ],
+  "options_en": [
+   "(C) only",
+   "(B) and (C)",
+   "(B) only",
+   "(A), (B), (C) and (D)"
+  ],
+  "answer": 1,
+  "exp_hi": "'क्या सूर्य एक तारा है? क्यों?' और 'उत्तरी मैदानों में अधिक जनसंख्या क्यों निवास करती है?' — ये प्रश्न अन्वेषणात्मक और आलोचनात्मक हैं, क्योंकि इनमें कारण खोजने पड़ते हैं। शेष प्रश्न केवल तथ्यों के स्मरण पर आधारित हैं।",
+  "source": "CTET Dec 2024 Set D Q77"
+ },
+ {
+  "n": 42,
+  "subject": "SST",
+  "q_hi": "छोटी कार्यशालाएँ और कारख़ाने अनियमित श्रमिकों को रोज़गार देने में तरजीह देते हैं क्योंकि — (A) राज्य ने पहले ही श्रमिकों के लाभ का ख़्याल रखा हुआ है (B) उन्हें बिना किसी पूर्व नोटिस के नौकरी से निकाला जा सकता है (C) उनमें से अधिकांश शिक्षित नहीं होते हैं (D) उन्हें न्यूनतम संभावित वेतन दिया जा सकता है",
+  "q_en": "Small workshops and factories prefer to employ casual workers because _________. (A) state has already taken care of workers' benefits (B) they can be fired without any prior notice (C) most of them are not literate (D) they could be paid lowest possible wages",
+  "options": [
+   "(A) और (C)",
+   "(A) और (B)",
+   "(B) और (D)",
+   "(C) और (D)"
+  ],
+  "options_en": [
+   "(A) and (C)",
+   "(A) and (B)",
+   "(B) and (D)",
+   "(C) and (D)"
+  ],
+  "answer": 2,
+  "exp_hi": "छोटी कार्यशालाएँ और कारख़ाने अनियमित (आकस्मिक) मज़दूर इसलिए रखना पसंद करते हैं क्योंकि उन्हें बिना किसी पूर्व सूचना के काम से निकाला जा सकता है और उन्हें न्यूनतम संभव मज़दूरी दी जा सकती है।",
+  "source": "CTET Dec 2024 Set D Q78"
+ },
+ {
+  "n": 43,
+  "subject": "SST",
+  "q_hi": "नेल्सन मंडेला ने कैद के 28 वर्ष हज़ारों अश्वेत लोगों के साथ बिताए —",
+  "q_en": "Nelson Mandela spent 28 years of imprisonment along with thousands of black and coloured people.",
+  "options": [
+   "राजा और राजशाही के खिलाफ़ आवाज़ उठाने के लिए।",
+   "रंगभेद का विरोध करने और अलगाव की नीतियों के खिलाफ़ संघर्ष करने के लिए।",
+   "अपराध के लिए सज़ा पाने के लिए।",
+   "सरकारी सत्ताधारी पदों की प्राप्ति के लिए।"
+  ],
+  "options_en": [
+   "to raise voice against King and royal monarchy",
+   "for opposing apartheid and struggle against policies of segregation",
+   "to get punishment for offence",
+   "to get powerful positions in Government"
+  ],
+  "answer": 1,
+  "exp_hi": "नेल्सन मंडेला ने रंगभेद (अपार्थीड) का विरोध करने और पृथक्करण की नीतियों के विरुद्ध संघर्ष करने के कारण हज़ारों अश्वेत लोगों के साथ 28 वर्ष कारावास में बिताए।",
+  "source": "CTET Dec 2024 Set D Q79"
+ },
+ {
+  "n": 44,
+  "subject": "SST",
+  "q_hi": "ग्राम सभा के बारे में निम्न में से कौन-सा कथन ग़लत है?",
+  "q_en": "Which of the following is an incorrect statement about Gram Sabha?",
+  "options": [
+   "ग्राम सभा के सचिव का कार्य ग्राम सभा की बैठक और उसमें हुई चर्चा व निर्णयों का रिकॉर्ड रखना होता है।",
+   "ग्राम पंचायत के कार्य को ग्राम सभा से स्वीकृति लेनी पड़ती है।",
+   "ग्राम सभा का सचिव एक निर्वाचित व्यक्ति होता है।",
+   "ग्राम सभा के सचिव का काम ग्राम सभा और ग्राम पंचायत की बैठक बुलाने का है।"
+  ],
+  "options_en": [
+   "The Gram Sabha Secretary keeps a record of the Gram Sabha meeting proceedings",
+   "The work of the Gram Panchayat has to be approved by the Gram Sabha",
+   "The Gram Sabha Secretary is an elected person",
+   "The Gram Sabha Secretary is responsible for calling the meeting of Gram Sabha and Gram Panchayat"
+  ],
+  "answer": 2,
+  "exp_hi": "ग्राम सभा का सचिव निर्वाचित व्यक्ति नहीं होता — वह नियुक्त अधिकारी होता है, जो ग्राम सभा की बैठकों का अभिलेख रखता है और बैठकें बुलाने के लिए उत्तरदायी होता है। अतः कथन (3) गलत है।",
+  "source": "CTET Dec 2024 Set D Q80"
+ },
+ {
+  "n": 45,
+  "subject": "SST",
+  "q_hi": "निम्न कथनों (A) तथा (B) को पढ़िए। (A) 1909 में बने गवर्नमेंट ऑफ़ इंडिया एक्ट ने कुछ हद तक भारत में निर्वाचित प्रतिनिधित्व की व्यवस्था को मंज़ूरी दी थी। (B) 1909 के गवर्नमेंट ऑफ़ इंडिया एक्ट द्वारा सभी वयस्कों को वोट डालने का अधिकार दिया गया। सही विकल्प का चयन कीजिए।",
+  "q_en": "Consider the following statements (A) and (B). (A) The Government of India Act 1909, allowed for some elected representation system in India. (B) Through Government of India Act 1909 all adults were given the right to vote. Choose the correct option.",
+  "options": [
+   "न तो (A) सही है और न ही (B) सही है।",
+   "केवल (A) सही है।",
+   "केवल (B) सही है।",
+   "(A) तथा (B) दोनों सही हैं।"
+  ],
+  "options_en": [
+   "Neither (A) nor (B) is true",
+   "Only (A) is true",
+   "Only (B) is true",
+   "Both (A) and (B) are true"
+  ],
+  "answer": 1,
+  "exp_hi": "भारत सरकार अधिनियम, 1909 ने भारत में कुछ निर्वाचित प्रतिनिधित्व की व्यवस्था अवश्य दी, परंतु सभी वयस्कों को मताधिकार नहीं मिला — मताधिकार सीमित वर्गों तक ही सीमित था। अतः केवल (A) सही है।",
+  "source": "CTET Dec 2024 Set D Q82"
+ },
+ {
+  "n": 46,
+  "subject": "SST",
+  "q_hi": "सामाजिक विज्ञान में समालोचनात्मक सोच महत्त्वपूर्ण है क्योंकि: (A) यह छात्रों को परीक्षा पास करने में मदद करती है। (B) यह छात्रों को सही उत्तर का अनुमान लगाने की अनुमति देती है। (C) यह छात्रों को अधिक आसानी से जानकारी याद रखने में मदद करती है। (D) यह छात्रों को उच्च स्तरीय सोच के लिए तैयार करती है। (E) यह समस्या-समाधान करने की क्षमता को प्रोत्साहित करती है। सही विकल्प का चयन करें।",
+  "q_en": "Critical thinking is important in Social Science because: (A) It helps students to pass exam. (B) It allows students to guess the correct answer. (C) It helps students memorize information more easily. (D) It prepare students for higher-level-thinking. (E) It promotes problem-solving abilities. Choose the correct option.",
+  "options": [
+   "केवल (D) और (E)",
+   "केवल (A) और (B)",
+   "(A), (B) और (C)",
+   "केवल (A), (B), (C) और (E)"
+  ],
+  "options_en": [
+   "Only (D) and (E)",
+   "Only (A) and (B)",
+   "(A), (B) and (C)",
+   "Only (A), (B), (C) and (E)"
+  ],
+  "answer": 0,
+  "exp_hi": "आलोचनात्मक चिंतन छात्रों को उच्च-स्तरीय चिंतन के लिए तैयार करता है और उनकी समस्या-समाधान क्षमताओं को बढ़ावा देता है। यह रटने, अनुमान लगाने या केवल परीक्षा पास करने से संबंधित नहीं है।",
+  "source": "CTET Dec 2024 Set D Q83"
+ },
+ {
+  "n": 47,
+  "subject": "SST",
+  "q_hi": "भारतीय राज्यों और केंद्रशासित प्रदेशों में निर्धनता की प्रवृत्तियों एवं उनके तुलनात्मक अध्ययन को समझाने हेतु सर्वोत्तम शिक्षण अधिगम प्रणाली कौन सी होगी?",
+  "q_en": "Which would be the best teaching pedagogy to understand the trends in poverty in Indian States and Union Territories?",
+  "options": [
+   "विचारावेश प्रक्रिया (ब्रेनस्टॉर्मिंग)",
+   "क्षेत्र भ्रमण",
+   "वाद-विवाद",
+   "द्वितीयक आँकड़ों का विश्लेषण"
+  ],
+  "options_en": [
+   "Brainstorming",
+   "Field trip",
+   "Debate",
+   "Secondary data analysis"
+  ],
+  "answer": 3,
+  "exp_hi": "भारतीय राज्यों और केंद्र शासित प्रदेशों में निर्धनता की प्रवृत्तियों को समझने के लिए द्वितीयक आँकड़ों (सरकारी रिपोर्टों व सर्वेक्षणों) का विश्लेषण सबसे उपयुक्त शिक्षण विधि है।",
+  "source": "CTET Dec 2024 Set D Q84"
+ },
+ {
+  "n": 48,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन से प्रश्न संज्ञानात्मक क्षमताओं के मूल्यांकन पक्ष को आँकते हैं? (A) पोषण अभियान भारतीय बच्चों के पोषण स्तर को सुधारने हेतु एक महत्वपूर्ण कार्यक्रम है। साक्ष्यों सहित कथन की जाँच कीजिए। (B) दो शताब्दियों के भारत में औपनिवेशिक शासन ने भारत को अनिवर्त्य सामाजिक परिवर्तन की स्थिति में छोड़ दिया है। क्या आप इस कथन से सहमत हैं? व्याख्या कीजिए। (C) जन धन योजना की महत्वपूर्ण विशेषताओं का वर्णन कीजिए। (D) 1991 के उत्तरार्द्ध में भारत में ग़रीबी और बेरोज़गारी में गिरावट आई है। कथन का औचित्य सिद्ध कीजिए।",
+  "q_en": "Which of the following questions assess the evaluation aspect of cognitive abilities? (A) Poshan Abhiyan is an important programme to improve the nutrition level of Indian children. Examine the statement with evidences. (B) Colonial rule in India for two centuries left India with irreversible social change in India. Do you agree with this statement? Explain. (C) Describe the important features of Jan Dhan Yojana. (D) Poverty and unemployment in India has declined in the post 1991 India. Justify this statement.",
+  "options": [
+   "केवल (C) और (D)",
+   "केवल (A) और (B)",
+   "केवल (A), (B) और (C)",
+   "केवल (B), (C) और (D)"
+  ],
+  "options_en": [
+   "Only (C) and (D)",
+   "Only (A) and (B)",
+   "Only (A), (B) and (C)",
+   "Only (B), (C) and (D)"
+  ],
+  "answer": 1,
+  "exp_hi": "मूल्यांकन पक्ष की जाँच करने वाले प्रश्नों में किसी कथन का साक्ष्यों सहित परीक्षण करना या कथन पर सहमति/असहमति का औचित्य सिद्ध करना होता है — प्रश्न (A) और (B) यही माँगते हैं। प्रश्न (C) केवल वर्णनात्मक है।",
+  "source": "CTET Dec 2024 Set D Q85"
+ },
+ {
+  "n": 49,
+  "subject": "SST",
+  "q_hi": "एक शिक्षिका चाहती है कि छात्र ग्राम पंचायत जैसे सरकारी निकायों के कामकाज को समझें। निम्नलिखित में से कौन-सा आँकड़ा-संग्रहण का स्रोत प्रत्यक्ष और प्रामाणिक जानकारी प्रदान करेगा?",
+  "q_en": "A teacher wants students to understand the functioning of governmental bodies like Village Panchayat. Which of the following source of data collection will provide first-hand and authentic information?",
+  "options": [
+   "पाठ्यपुस्तक",
+   "अख़बारी लेख",
+   "अध्ययन यात्रा",
+   "जीवनी"
+  ],
+  "options_en": [
+   "Textbook",
+   "Newspaper articles",
+   "Field trip",
+   "Biography"
+  ],
+  "answer": 2,
+  "exp_hi": "ग्राम पंचायत जैसे सरकारी निकायों की कार्यप्रणाली को समझने के लिए अध्ययन यात्रा (क्षेत्र भ्रमण) से प्रत्यक्ष, प्रत्यक्षदर्शी और प्रामाणिक जानकारी प्राप्त होती है।",
+  "source": "CTET Dec 2024 Set D Q87"
+ },
+ {
+  "n": 50,
+  "subject": "SST",
+  "q_hi": "रोहित ने पाया कि उसकी कक्षा के कुछ बच्चे मानचित्र पर अक्षांश व देशांतर रेखाओं की स्थिति को स्पष्ट नहीं कर पाते हैं। बच्चों को इसमें सक्षम बनाने में मदद करने के लिए रोहित को क्या करना चाहिए?",
+  "q_en": "Rohit found that some children in his class could not explain the position of latitude and longitude lines on the map. What should Rohit do to help children acquire this competency?",
+  "options": [
+   "प्रायोगिक अनुसंधान",
+   "केस अध्ययन",
+   "आनुभाविक अनुसंधान",
+   "क्रियात्मक अनुसंधान"
+  ],
+  "options_en": [
+   "Applied research",
+   "Case study",
+   "Empirical research",
+   "Action research"
+  ],
+  "answer": 3,
+  "exp_hi": "कक्षा की व्यावहारिक समस्या का समाधान खोजने के लिए शिक्षक द्वारा स्वयं किया जाने वाला अनुसंधान क्रियात्मक अनुसंधान कहलाता है। रोहित को बच्चों की इसी समस्या के लिए क्रियात्मक अनुसंधान करना चाहिए।",
+  "source": "CTET Dec 2024 Set D Q90"
+ }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "n": 1,
+    "subject": "Science",
+    "q_hi": "अभिकथन (A) : STEM (स्टेम) संबंधी पाठ्यक्रमों में उपलब्धि लिंग (जेंडर) द्वारा प्रभावित होती है। तर्क (R) : लड़के एवं लड़कियों द्वारा प्रयोग की गई समस्या समाधान रणनीतियाँ भिन्न होती हैं।",
+    "q_en": "Assertion (A) : Achievement in STEM related courses is influenced by gender. Reason (R) : Problem solving strategies used by boys and girls are different.",
+    "options": [
+      "(A) और (R) दोनों गलत हैं",
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है तथा (R) गलत है"
+    ],
+    "options_en": [
+      "Both (A) and (R) are false",
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true and (R) is false"
+    ],
+    "answer": 0,
+    "exp_hi": "STEM पाठ्यक्रमों में उपलब्धि लिंग से प्रभावित नहीं होती; लड़के और लड़कियाँ दोनों समान रूप से सफल हो सकते हैं। समस्या-समाधान की रणनीतियाँ भी लिंग के आधार पर भिन्न नहीं होतीं, इसलिए (A) और (R) दोनों गलत हैं।",
+    "source": "CTET Dec 2024 Set D Q61"
+  },
+  {
+    "n": 2,
+    "subject": "Science",
+    "q_hi": "____(A)____ कायिक प्रवर्धन की एक प्रविधि (तकनीक) है, जिसमें तने (स्तंभ) के एक भाग अथवा पादप (पौधे) की तरुण शाखा को खींच कर आर्द्र मृदा में इस प्रकार (गाड़) दबा दिया जाता है कि वह शाखा अपने जनक पादप (पौधे) से फिर भी जुड़ी रहे। कुछ समय पश्चात, गाड़े गए भाग में जड़ें विकसित हो जाती हैं तथा यह एक नए पादप (पौधे) में विकसित हो जाता है। ____(B)____ सामान्यतः इस प्रविधि (तकनीक) के माध्यम से उगाए पादप (पौधे) का उदाहरण है। (A) और (B) क्रमशः हैं :",
+    "q_en": "____(A)____ is a technique of vegetative propagation in which a part of the stem or a young branch of a plant is pulled and buried in moist soil, such that the branch is still attached to the Parent Plant. After some time, roots develop in the buried part and it grows into a new plant. ____(B)____ is an example of plant usually grown through this technique. (A) and (B) respectively are :",
+    "options": [
+      "परतन, चमेली",
+      "कर्तन, आलू",
+      "रोपण, गुलाब",
+      "मुकुलन, हाइड्रा"
+    ],
+    "options_en": [
+      "Layering, Jasmine",
+      "Cutting, Potato",
+      "Grafting, Rose",
+      "Budding, Hydra"
+    ],
+    "answer": 0,
+    "exp_hi": "तने या तरुण शाखा को जनक पौधे से जोड़े रखकर नम मिट्टी में दबाने की विधि Layering (परतन) कहलाती है। चमेली (Jasmine) सामान्यतः इसी विधि से उगाई जाती है।",
+    "source": "CTET Dec 2024 Set D Q62"
+  },
+  {
+    "n": 3,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन-से कथन सही हैं ? (A) क्रिस्टलन (क्रिस्टलीकरण) एक रासायनिक परिवर्तन है। (B) प्रकाश-संश्लेषण एक रासायनिक परिवर्तन है। (C) फल का पक्वन एक भौतिक परिवर्तन है। (D) दूध से दही बनना एक रासायनिक परिवर्तन है।",
+    "q_en": "Which of the following statements are true ? (A) Crystallisation is a chemical change. (B) Photosynthesis is a chemical change. (C) Ripening of fruit is a physical change. (D) Formation of curd from milk is a chemical change.",
+    "options": [
+      "(C) और (D)",
+      "(A) और (B)",
+      "(B) और (D)",
+      "(B) और (C)"
+    ],
+    "options_en": [
+      "(C) and (D)",
+      "(A) and (B)",
+      "(B) and (D)",
+      "(B) and (C)"
+    ],
+    "answer": 2,
+    "exp_hi": "प्रकाश-संश्लेषण में नए पदार्थ बनते हैं और दूध से दही बनना भी रासायनिक परिवर्तन है। क्रिस्टलीकरण भौतिक परिवर्तन है और फल का पक्वन रासायनिक परिवर्तन है, इसलिए केवल (B) और (D) सही हैं।",
+    "source": "CTET Dec 2024 Set D Q63"
+  },
+  {
+    "n": 4,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सी रणनीति जाँच-पड़ताल उन्मुख विज्ञान शिक्षण का समर्थन करेगी ?",
+    "q_en": "Which of the following strategies would support inquiry oriented science teaching ?",
+    "options": [
+      "वास्तविक एवं आभासी भार के बीच के भेद समझाना",
+      "आर्किमिडीज सिद्धांत को परिभाषित एवं व्याख्या करना",
+      "जल में डुबाने पर किसी वस्तु के भार घटने को प्रदर्शित करना",
+      "विद्यार्थियों को तैरने एवं डूबने से संबंधित गतिविधियों में संलिप्त (लगाना) रखना"
+    ],
+    "options_en": [
+      "Explaining the difference between real and apparent weight",
+      "Define and explain Archimede's principle",
+      "Demonstrating the loss in weight of an object when immersed in water",
+      "Engaging students in floating and sinking activities"
+    ],
+    "answer": 3,
+    "exp_hi": "जाँच-पड़ताल उन्मुख शिक्षण में विद्यार्थी स्वयं करके सीखते हैं। तैरने-डूबने की गतिविधियों में विद्यार्थियों को स्वयं संलग्न रखना ही inquiry को बढ़ावा देता है, केवल व्याख्या या प्रदर्शन नहीं।",
+    "source": "CTET Dec 2024 Set D Q64"
+  },
+  {
+    "n": 5,
+    "subject": "Science",
+    "q_hi": "____(A)____ हार्मोन हमारे शरीर में कार्बोहाइड्रेट, प्रोटीन तथा वसा उपापचय को नियंत्रित करता है। यह ____(B)____ ग्रंथि द्वारा स्रावित होता है तथा हमारे आहार में ____(C)____ इस ग्रंथि के कामकाज को प्रभावित करता है। (A), (B), (C) क्रमशः हैं :",
+    "q_en": "____(A)____ hormone regulates Carbohydrate, protein and fat metabolism in our body. It is secreted by ____(B)____ gland and ____(C)____ in our diet impacts the functioning of this gland. (A), (B), (C) respectively are :",
+    "options": [
+      "वृद्धिकर हार्मोन, पीयूष, प्रोटीन",
+      "इन्सुलिन, अग्नाशय, शर्करा",
+      "ऐड्रिनीलन, एड्रिनल (अधिवृक्क), लवण",
+      "थायरॉक्सिन, थाइरॉइड, आयोडीन"
+    ],
+    "options_en": [
+      "Growth hormone, Pituitary, Proteins",
+      "Insulin, Pancreas, Sugar",
+      "Adrenaline, Adrenal, Salts",
+      "Thyroxine, Thyroid, Iodine"
+    ],
+    "answer": 3,
+    "exp_hi": "Thyroxine हार्मोन Thyroid ग्रंथि से स्रावित होता है और Carbohydrate, Protein तथा वसा के उपापचय को नियंत्रित करता है। इसके निर्माण के लिए आहार में Iodine आवश्यक है।",
+    "source": "CTET Dec 2024 Set D Q65"
+  },
+  {
+    "n": 6,
+    "subject": "Science",
+    "q_hi": "धातुओं की आपेक्षिक अभिक्रियाशीलता के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं ? (A) जिंक (जस्त), लोह से अधिक अभिक्रियाशील है परन्तु ऐलुमिनियम से कम अभिक्रियाशील है। (B) सोडियम, पोटैशियम और कैल्सियम से अधिक अभिक्रियाशील है। (C) ऐलुमिनियम, मैग्नीशियम से अधिक अभिक्रियाशील है।",
+    "q_en": "Which of the following statements is/are true regarding relative reactivity of metals ? (A) Zinc is more reactive than Iron but less reactive than Aluminium. (B) Sodium is more reactive than Potassium and Calcium. (C) Aluminium is more reactive than Magnesium.",
+    "options": [
+      "केवल (C)",
+      "(A) और (B)",
+      "केवल (A)",
+      "(B) और (C)"
+    ],
+    "options_en": [
+      "Only (C)",
+      "(A) and (B)",
+      "Only (A)",
+      "(B) and (C)"
+    ],
+    "answer": 2,
+    "exp_hi": "Reactivity series में क्रम K > Na > Ca > Mg > Al > Zn > Fe है। इसलिए Zinc, Iron से अधिक और Aluminium से कम अभिक्रियाशील है — केवल कथन (A) सही है।",
+    "source": "CTET Dec 2024 Set D Q66"
+  },
+  {
+    "n": 7,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा जलीय पादपों (पौधों) के संदर्भ में सही सुमेलन समुच्चय को निरूपित करता है ? अनुकूलन — उद्देश्य : (a) बृहत् वृत्तीय पर्ण — (i) क्षय से सुरक्षित होती है; (b) मोमी आवरण — (ii) जल धाराओं से प्रतिरोध (देता) प्रस्तुत होता है; (c) तनों (स्तंभों) में बृहत् सुरंगें और छिद्र होते हैं — (iii) उत्प्लावकता प्रदान होती है; (d) फीते (रिबन) जैसे पर्ण — (iv) तिरता (तैरते) रहने में सहायता होती है।",
+    "q_en": "Which of the following represents correct matching set in the context of aquatic plants ? Adaptation — Purpose : (a) Large circular leaves — (i) helpful in protecting against decay; (b) Waxy coating — (ii) helpful in offering resistance to water currents; (c) Stems have large tunnels and holes — (iii) helpful in providing buoyancy; (d) Ribbon like leaves — (iv) helpful in staying afloat.",
+    "options": [
+      "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+      "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+    ],
+    "options_en": [
+      "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+      "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+    ],
+    "answer": 0,
+    "exp_hi": "जलीय पौधों में बड़े वृत्तीय पत्ते तैरने (iv) में, मोमी आवरण क्षय से सुरक्षा (i) में, तनों की बड़ी सुरंगें व छिद्र उत्प्लावकता (iii) में और रिबन-जैसे पत्ते जल-धाराओं के प्रतिरोध (ii) में सहायक होते हैं।",
+    "source": "CTET Dec 2024 Set D Q67"
+  },
+  {
+    "n": 8,
+    "subject": "Science",
+    "q_hi": "कक्षा VII में निम्नलिखित गतिविधि की गई : विद्यार्थियों को चार लोह दंड दिए गए जिनमें से दो दंड चुंबक हैं। उन्हें दंड चुंबक की पहचान करने के लिए कहा गया। इस गतिविधि के माध्यम से निम्नलिखित में से कौन से प्रक्रिया कौशलों को प्रोत्साहित किया जा सकता है ?",
+    "q_en": "The following activity is done in the class VII : Students are given four iron bars out of which two are bar magnets. They are asked to identify the bar magnets. Which of the following process skills can be promoted through this activity ?",
+    "options": [
+      "प्रेक्षण (अवलोकन), अनुमान, प्रयोग, चरों को नियन्त्रित करना",
+      "प्रेक्षण (अवलोकन), परिकल्पना बनाना, मापना",
+      "प्रेक्षण (अवलोकन), वर्गीकरण, निष्कर्ष निकालना",
+      "प्रेक्षण (अवलोकन), वर्गीकरण, संप्रेषण (संचारण), माप"
+    ],
+    "options_en": [
+      "Observation, Estimation, Experimentation, Controlling variables",
+      "Observation, Formulating hypothesis, Measuring",
+      "Observation, Classification, Inferring",
+      "Observation, Classification, Communication, Measurement"
+    ],
+    "answer": 2,
+    "exp_hi": "चुंबक पहचानने में विद्यार्थी देखते हैं (Observation), छाँटते हैं (Classification) और निष्कर्ष निकालते हैं (Inferring)। इसमें मापन या चर-नियंत्रण की आवश्यकता नहीं होती।",
+    "source": "CTET Dec 2024 Set D Q68"
+  },
+  {
+    "n": 9,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा विज्ञान में खुली पुस्तक आकलन का उद्देश्य नहीं होना चाहिए ?",
+    "q_en": "Which of the following should not be the purpose of open book assessment in Science ?",
+    "options": [
+      "पुस्तक के अन्वेषण के अवसर प्रदान करना",
+      "अधिगमकर्ताओं में आकलन के भय को कम करना",
+      "अधिगमकर्ताओं की अवधारणात्मक समझ को मापना",
+      "परीक्षाओं में अधिक अंक लाना"
+    ],
+    "options_en": [
+      "To give opportunity to explore the book",
+      "To reduce the fear of assessment in learners",
+      "To gauge conceptual understanding of learners",
+      "To score more marks in tests"
+    ],
+    "answer": 3,
+    "exp_hi": "Open book assessment का उद्देश्य अवधारणात्मक समझ जाँचना और आकलन का भय कम करना है। केवल अधिक अंक लाना इसका उद्देश्य नहीं होना चाहिए।",
+    "source": "CTET Dec 2024 Set D Q69"
+  },
+  {
+    "n": 10,
+    "subject": "Science",
+    "q_hi": "माध्यम A का घनत्व B के घनत्व से अधिक है किन्तु माध्यम C के घनत्व से कम है। किस माध्यम में ध्वनि सबसे तेज़ गति करेगी ?",
+    "q_en": "The density of medium A is more than medium B but less than medium C. In which medium does the sound travels fastest ?",
+    "options": [
+      "इस सूचना से निष्कर्ष नहीं निकाला जा सकता",
+      "A",
+      "B",
+      "C"
+    ],
+    "options_en": [
+      "Can't be inferred from this information",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 3,
+    "exp_hi": "घनत्व का क्रम C > A > B है; सघन माध्यमों में ध्वनि की चाल अधिक होती है। इसलिए ध्वनि सबसे तेज़ माध्यम C में चलेगी।",
+    "source": "CTET Dec 2024 Set D Q70"
+  },
+  {
+    "n": 11,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित सारणी को पूरा कीजिए : परमाणु संख्या | द्रव्यमान संख्या | इलेक्ट्रॉन की संख्या | प्रोटॉन की संख्या | न्यूट्रॉन की संख्या — पंक्ति 1 : 9 | A | B | C | 10 ; पंक्ति 2 : D | 24 | E | 12 | F । A, B, C, D, E, F क्रमशः हैं :",
+    "q_en": "Complete the following table : Atomic number | Mass number | No. of electrons | No. of protons | No. of neutrons — Row 1 : 9 | A | B | C | 10 ; Row 2 : D | 24 | E | 12 | F. A, B, C, D, E, F respectively are :",
+    "options": [
+      "9, 9, 10, 24, 12, 12",
+      "19, 10, 9, 12, 12, 12",
+      "19, 9, 9, 12, 12, 12",
+      "9, 10, 9, 24, 12, 12"
+    ],
+    "options_en": [
+      "9, 9, 10, 24, 12, 12",
+      "19, 10, 9, 12, 12, 12",
+      "19, 9, 9, 12, 12, 12",
+      "9, 10, 9, 24, 12, 12"
+    ],
+    "answer": 2,
+    "exp_hi": "परमाणु संख्या 9 वाले तत्व में Proton = 9, Electron = 9 और द्रव्यमान संख्या = 9 + 10 = 19 होगा। दूसरे तत्व में परमाणु संख्या = 12, Electron = 12 और Neutron = 24 − 12 = 12 होगा।",
+    "source": "CTET Dec 2024 Set D Q71"
+  },
+  {
+    "n": 12,
+    "subject": "Science",
+    "q_hi": "अभिकथन (A) : अवमुख (उत्तल) दर्पणों का उपयोग वाहनों में पश्चदर्शन-दर्पणों (रियरव्यू-मिरर) के रूप में होता है। तर्क (R1) : वे ऊर्ध्वशीर्ष एवं विवर्धित प्रतिबिम्ब बनाते हैं। तर्क (R2) : उनका व्यापक दृष्टिक्षेत्र होता है।",
+    "q_en": "Assertion (A) : Convex mirrors are used as rearview-mirrors in vehicles. Reason (R1) : They form erect and enlarged image. Reason (R2) : They have wider field of view.",
+    "options": [
+      "(A) सही है परन्तु (R1) और (R2) दोनों ही (A) की सही व्याख्याएँ नहीं हैं",
+      "(A) सही है तथा (R1) और (R2) दोनों (A) के लिए सही व्याख्याएँ हैं",
+      "(A) सही है तथा केवल (R1) ही (A) की सही व्याख्या है",
+      "(A) सही है तथा केवल (R2) ही (A) की सही व्याख्या है"
+    ],
+    "options_en": [
+      "(A) is true but neither (R1) nor (R2) are correct explanation for (A)",
+      "(A) is true and both (R1) and (R2) are correct explanations for (A)",
+      "(A) is true and only (R1) is correct explanation for (A)",
+      "(A) is true and only (R2) is correct explanation for (A)"
+    ],
+    "answer": 3,
+    "exp_hi": "Convex mirror सीधा (erect) परंतु छोटा प्रतिबिम्ब बनाता है, विवर्धित नहीं; इसलिए (R1) गलत है। इसका दृष्टिक्षेत्र व्यापक होता है, इसलिए वाहनों में rear-view mirror के रूप में केवल (R2) ही सही व्याख्या है।",
+    "source": "CTET Dec 2024 Set D Q72"
+  },
+  {
+    "n": 13,
+    "subject": "Science",
+    "q_hi": "S1 - स्वपरागण केवल द्विलिंगी पुष्पों (फूलों) में हो सकता है। S2 - पर-परागण केवल एकलिंगी पुष्पों (फूलों) में हो सकता है।",
+    "q_en": "S1 - Self pollination can take place only in bisexual flowers. S2 - Cross pollination can take place only in Unisexual flowers.",
+    "options": [
+      "S1 गलत है तथा S2 सही है",
+      "S1 और S2 दोनों सही हैं",
+      "S1 और S2 दोनों गलत हैं",
+      "S1 सही है तथा S2 गलत है"
+    ],
+    "options_en": [
+      "S1 is false and S2 is true",
+      "Both S1 and S2 are true",
+      "Both S1 and S2 are false",
+      "S1 is true and S2 is false"
+    ],
+    "answer": 3,
+    "exp_hi": "स्वपरागण के लिए पुष्प में दोनों जननांग आवश्यक हैं, इसलिए यह केवल द्विलिंगी पुष्पों में होता है। पर-परागण द्विलिंगी पुष्पों में भी हो सकता है, इसलिए S2 गलत है।",
+    "source": "CTET Dec 2024 Set D Q73"
+  },
+  {
+    "n": 14,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा कथन सही है ?",
+    "q_en": "Which of the following statements is true ?",
+    "options": [
+      "निम्न जल-धारक क्षमता वाली मृदा का उत्तम वातन होता है तथा उच्च अंतःस्रवण दर होती है",
+      "निम्न जल-धारक क्षमता वाली मृदा का कमजोर वातन होता है तथा उच्च अंतःस्रवण दर होती है",
+      "निम्न जल-धारक क्षमता वाली मृदा का उत्तम वातन होता है तथा निम्न अंतःस्रवण दर होती है",
+      "निम्न जल-धारक क्षमता वाली मृदा का कमजोर वातन होता है तथा निम्न अंतःस्रवण दर होती है"
+    ],
+    "options_en": [
+      "Soil with low water holding capacity has good aeration and high percolation rate",
+      "Soil with low water holding capacity has poor aeration and high percolation rate",
+      "Soil with low water holding capacity has good aeration and low percolation rate",
+      "Soil with low water holding capacity has poor aeration and low percolation rate"
+    ],
+    "answer": 0,
+    "exp_hi": "जल-धारण क्षमता कम वाली मृदा (जैसे रेतीली मृदा) में कणों के बीच रिक्त स्थान अधिक होते हैं। इसलिए उसका वातन उत्तम होता है और अंतःस्रवण दर उच्च होती है।",
+    "source": "CTET Dec 2024 Set D Q74"
+  },
+  {
+    "n": 15,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन से कथन यौगिक के संबंध में सही नहीं हैं ? (A) यौगिक संघटक पदार्थों के गुणों को दर्शाते हैं। (B) केवल तत्व ही यौगिक बनाने के लिए अभिक्रिया कर सकते हैं। (C) प्रत्येक यौगिक का संयोजन सदैव स्थिर (निश्चित) होता है। (D) यौगिकों को भौतिक एवं रासायनिक विधियों द्वारा ही पृथक किया जा सकता है।",
+    "q_en": "Which of the following statements are not true regarding compounds ? (A) Compounds show the properties of constituent substances. (B) Only elements can react to form compounds. (C) The composition of each compound is always fixed. (D) Compounds can be separated by physical and chemical methods.",
+    "options": [
+      "(A), (C), (D)",
+      "(A), (B), (C)",
+      "(B), (C), (D)",
+      "(A), (B), (D)"
+    ],
+    "options_en": [
+      "(A), (C), (D)",
+      "(A), (B), (C)",
+      "(B), (C), (D)",
+      "(A), (B), (D)"
+    ],
+    "answer": 3,
+    "exp_hi": "यौगिक अपने संघटक तत्वों के गुण नहीं दिखाते, यौगिक तत्वों के अतिरिक्त अन्य यौगिकों से भी बन सकते हैं, और यौगिकों को केवल रासायनिक विधियों से पृथक किया जा सकता है। इसलिए (A), (B) और (D) सही नहीं हैं; केवल (C) सही कथन है।",
+    "source": "CTET Dec 2024 Set D Q75"
+  },
+  {
+    "n": 16,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन से कथन व्हेल और डॉल्फिन में श्वसन के संदर्भ में सही हैं ? (A) वे विलीन ऑक्सीजन का उपयोग नहीं कर सकती हैं। (B) उनके पास गिल (क्लोम) होते हैं। (C) उनके पास बृहत् नासाद्वार होते हैं। (D) वे प्रायः जल-पृष्ठ पर श्वास लेने के लिए आती हैं।",
+    "q_en": "Which of the following statements are true in the context of respiration in whales and dolphins ? (A) They cannot use dissolved Oxygen. (B) They have gills. (C) They have large nostrils. (D) They often come up to the water surface to breathe.",
+    "options": [
+      "(A), (B), (D)",
+      "(A), (B), (C)",
+      "(A), (C), (D)",
+      "(B), (C), (D)"
+    ],
+    "options_en": [
+      "(A), (B), (D)",
+      "(A), (B), (C)",
+      "(A), (C), (D)",
+      "(B), (C), (D)"
+    ],
+    "answer": 2,
+    "exp_hi": "व्हेल और डॉल्फिन स्तनधारी हैं; इनमें gills नहीं होते, ये फेफड़ों से साँस लेती हैं। ये घुली हुई Oxygen का उपयोग नहीं कर सकतीं, इनके बड़े नासाद्वार होते हैं और ये प्रायः जल-पृष्ठ पर श्वास लेने आती हैं — (A), (C), (D) सही हैं।",
+    "source": "CTET Dec 2024 Set D Q76"
+  },
+  {
+    "n": 17,
+    "subject": "Science",
+    "q_hi": "विज्ञान में कला एकीकृत अधिगम को बढ़ावा देने की संभावना निम्न में से किस में सबसे अधिक है ?",
+    "q_en": "Which of the following have the most scope for promoting Art integrated learning in Science ?",
+    "options": [
+      "जर्नल लेखन, क्षेत्र भ्रमणों द्वारा",
+      "पोर्टफोलियों, उपाख्यानात्मक प्रलेखों द्वारा",
+      "प्रायोजनाओं (परियोजनाओं), पोर्टफोलियों द्वारा",
+      "उपाख्यानात्मक प्रलेखों, जर्नल लेखन द्वारा"
+    ],
+    "options_en": [
+      "Journal writing, Field trips",
+      "Portfolios, Anecdotal records",
+      "Projects, Portfolios",
+      "Anecdotal records, Journal writing"
+    ],
+    "answer": 2,
+    "exp_hi": "Projects और Portfolios में विद्यार्थी चित्र, model, chart आदि बनाते हैं, इसलिए इनमें Art integrated learning की संभावना सबसे अधिक होती है।",
+    "source": "CTET Dec 2024 Set D Q77"
+  },
+  {
+    "n": 18,
+    "subject": "Science",
+    "q_hi": "अभिकथन (A) : निक्रोम का प्रयोग विद्युत-टोस्टर और विद्युत गीज़र जैसे यंत्रों में तापन तत्व के रूप में होता है। तर्क (R) : निक्रोम का उच्च गलनांक और निम्न प्रतिरोधकता होती है।",
+    "q_en": "Assertion (A) : Nichrome is used as a heating element in devices like electric toaster and electric geyser. Reason (R) : Nichrome has high melting point and low resistivity.",
+    "options": [
+      "(A) और (R) दोनों गलत हैं",
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है तथा (R) गलत है"
+    ],
+    "options_en": [
+      "Both (A) and (R) are false",
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true and (R) is false"
+    ],
+    "answer": 3,
+    "exp_hi": "Nichrome का गलनांक उच्च होता है परंतु इसकी Resistivity भी उच्च होती है, निम्न नहीं। उच्च Resistance के कारण ही यह तापन तत्व के रूप में गर्म होता है, इसलिए (A) सही और (R) गलत है।",
+    "source": "CTET Dec 2024 Set D Q78"
+  },
+  {
+    "n": 19,
+    "subject": "Science",
+    "q_hi": "मानव पाचकतंत्र में पित्त रस के कार्य के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं ? (A) यह आमाशय से आते हुए आंशिक रूप से पचे भोजन को क्षारीय बना देता है। (B) यह वसा के पाचन में सहायता करता है।",
+    "q_en": "Which of the following statements is/are true regarding the function of bile juice in human digestive system ? (A) It makes the partly digested food coming from stomach alkaline. (B) It helps in digestion of fats.",
+    "options": [
+      "(A) और (B) दोनों गलत हैं",
+      "(A) सही है तथा (B) गलत है",
+      "(A) गलत है तथा (B) सही है",
+      "(A) और (B) दोनों सही हैं"
+    ],
+    "options_en": [
+      "Both (A) and (B) are false",
+      "(A) is true and (B) is false",
+      "(A) is false and (B) is true",
+      "Both (A) and (B) are true"
+    ],
+    "answer": 3,
+    "exp_hi": "पित्त रस (Bile juice) आमाशय से आए अम्लीय भोजन को क्षारीय बनाता है और वसा की बड़ी बूंदों को छोटी बूंदों में तोड़कर उसके पाचन में सहायता करता है। इसलिए (A) और (B) दोनों सही हैं।",
+    "source": "CTET Dec 2024 Set D Q79"
+  },
+  {
+    "n": 20,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित सूचना के आधार पर उन पदार्थों की पहचान कीजिए जो जलने पर ज्वाला देते हैं : पदार्थ | अवस्था | जलने पर बाष्प बनता है — A | ठोस | नहीं ; B | द्रव (तरल) | हाँ ; C | ठोस | हाँ ; D | द्रव (तरल) | नहीं ।",
+    "q_en": "On the basis of the following information identify the substances which give flame on burning : Substance | State | Vapourises on burning — A | Solid | No ; B | Liquid | Yes ; C | Solid | Yes ; D | Liquid | No.",
+    "options": [
+      "C और D",
+      "A और D",
+      "A और B",
+      "B और C"
+    ],
+    "options_en": [
+      "C and D",
+      "A and D",
+      "A and B",
+      "B and C"
+    ],
+    "answer": 3,
+    "exp_hi": "ज्वाला केवल उन्हीं पदार्थों से बनती है जो जलने पर वाष्प (vapour) बनाते हैं। B (द्रव, वाष्प बनता है) और C (ठोस, वाष्प बनता है) ही ज्वाला देंगे।",
+    "source": "CTET Dec 2024 Set D Q80"
+  },
+  {
+    "n": 21,
+    "subject": "Science",
+    "q_hi": "अभिकथन (A) : शिराओं की तुलना में धमनियों की मोटी और प्रत्यास्थ भित्तियाँ होती हैं। तर्क (R) : शिराओं की तुलना में धमनियों में रक्त प्रवाह का दाब कम (निम्न) होता है।",
+    "q_en": "Assertion (A) : Arteries have thick and elastic walls as compared to veins. Reason (R) : The pressure of blood flow in arteries is low as compared to veins.",
+    "options": [
+      "(A) और (R) दोनों गलत हैं",
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है तथा (R) गलत है"
+    ],
+    "options_en": [
+      "Both (A) and (R) are false",
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true and (R) is false"
+    ],
+    "answer": 3,
+    "exp_hi": "धमनियों में रक्त का दाब शिराओं की तुलना में अधिक होता है, कम नहीं। इसी उच्च दाब को सहने के लिए धमनियों की भित्तियाँ मोटी और प्रत्यास्थ होती हैं — (A) सही, (R) गलत।",
+    "source": "CTET Dec 2024 Set D Q81"
+  },
+  {
+    "n": 22,
+    "subject": "Science",
+    "q_hi": "द्रव में डूबे (निमज्जित) बिम्ब पर उत्प्लावन बल कार्य करता है :",
+    "q_en": "The buoyant force on an object immersed in liquid acts in :",
+    "options": [
+      "तरल सतह से समांतर",
+      "ऊर्ध्वमुखी दिशा में",
+      "अधोमुखी दिशा में",
+      "सभी दिशाओं में"
+    ],
+    "options_en": [
+      "Parallel to liquid surface",
+      "Upward direction",
+      "Downward direction",
+      "All direction"
+    ],
+    "answer": 1,
+    "exp_hi": "द्रव में डूबी वस्तु पर लगने वाला उत्प्लावन बल (Buoyant force) सदैव ऊपर की ओर, अर्थात् ऊर्ध्वमुखी दिशा में कार्य करता है। यही बल वस्तुओं को तैरने में सहायता करता है।",
+    "source": "CTET Dec 2024 Set D Q82"
+  },
+  {
+    "n": 23,
+    "subject": "Science",
+    "q_hi": "निम्न में से कौन से प्रश्न अपसारी हैं ?",
+    "q_en": "Which of the following questions is a divergent question ?",
+    "options": [
+      "अगर पृथ्वी को आकार में आधा कर दिया जाए तो गुरुत्व (गुरुत्वाकर्षण) कैसे प्रभावित होगा ?",
+      "क्यों ऊपर की ओर फेंकी गई गेंद नीचे आती है ?",
+      "क्या होता अगर पृथ्वी पर कोई गुरुत्व (गुरुत्वाकर्षण) नहीं होता ?",
+      "कैसे ऊँचाई के साथ गुरुत्व (गुरुत्वाकर्षण) बदल जाता है ?"
+    ],
+    "options_en": [
+      "What would happen to gravity if the size of earth is reduced to half ?",
+      "Why does a ball thrown up comes down ?",
+      "What if there was no gravity on the earth ?",
+      "How does gravity vary with the altitude ?"
+    ],
+    "answer": 2,
+    "exp_hi": "अपसारी (divergent) प्रश्न का कोई एक निश्चित उत्तर नहीं होता; 'क्या होता अगर पृथ्वी पर गुरुत्व नहीं होता?' कल्पना और अनेक संभावित उत्तरों को आमंत्रित करता है।",
+    "source": "CTET Dec 2024 Set D Q83"
+  },
+  {
+    "n": 24,
+    "subject": "Science",
+    "q_hi": "जब प्रकाश की किरण माध्यम A से माध्यम B में प्रवेश करती है तब उसकी चाल (गति) घटती है और आगे माध्यम C में प्रवेश करने पर उसकी चाल (गति) बढ़ती है। इससे निम्नलिखित में से कौन सा निष्कर्ष निकाला जा सकता है ?",
+    "q_en": "When a ray of light enters from medium A to medium B, its speed decreases and on further entering into medium C, its speed increases. Which of the following conclusions can be drawn from this ?",
+    "options": [
+      "A, B, C के अपवर्तनांक की तुलना उपरोक्त सूचना के आधार पर नहीं की जा सकती है",
+      "A का अपवर्तनांक B और C से अधिक है",
+      "A का अपवर्तनांक B से कम है परन्तु C के समान है",
+      "A और C के अपवर्तनांक B से कम हैं"
+    ],
+    "options_en": [
+      "Refractive index of A, B, C cannot be compared from above information",
+      "Refractive index of A is more than B and C",
+      "Refractive index of A is less than B but equal to C",
+      "Refractive index of A and C are less than B"
+    ],
+    "answer": 3,
+    "exp_hi": "जिस माध्यम में प्रकाश की चाल घटती है उसका Refractive index अधिक होता है। B में चाल घटी, इसलिए B का अपवर्तनांक सबसे अधिक; A और C दोनों के अपवर्तनांक B से कम हैं।",
+    "source": "CTET Dec 2024 Set D Q84"
+  },
+  {
+    "n": 25,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन-सा कथन सही है ? S1 : मानव शरीर का सामान्य तापमान 37°C है। S2 : ऊष्मा उच्च तापमान वाले शरीर से निम्न तापमान वाले शरीर की ओर प्रवाहित होती है।",
+    "q_en": "Which of the following statements is correct ? S1 : The normal temperature of the human body is 37°C. S2 : Heat flows from a body at a higher temperature to a body at lower temperature.",
+    "options": [
+      "S1 अनुमान है तथा S2 अवलोकन (प्रेक्षण) है",
+      "S1 और S2 दोनों अवलोकन (प्रेक्षण) हैं",
+      "S1 और S2 दोनों अनुमान हैं",
+      "S1 अवलोकन (प्रेक्षण) है तथा S2 अनुमान है"
+    ],
+    "options_en": [
+      "S1 is inference and S2 is observation",
+      "Both S1 and S2 are observation",
+      "Both S1 and S2 are inferences",
+      "S1 is observation and S2 is inference"
+    ],
+    "answer": 2,
+    "exp_hi": "मानव शरीर का सामान्य तापमान 37°C मापकर जाना जाता है, यह Observation है। 'ऊष्मा उच्च से निम्न तापमान की ओर बहती है' एक सामान्य निष्कर्ष (Inference) है — S1 अवलोकन, S2 अनुमान।",
+    "source": "CTET Dec 2024 Set D Q85"
+  },
+  {
+    "n": 26,
+    "subject": "Science",
+    "q_hi": "(A) सुनीता परख-नली (टेस्ट-ट्यूब) में 0.5 ग्राम सोडियम कार्बोनेट लेती है फिर उसमें 5 मि.ली. तनु हाइड्रोक्लोरिक अम्ल डालती है। (B) वह उपरोक्त अभिक्रिया से उत्पन्न गैस को चूने के पानी के माध्यम से गुजारती है। निम्नलिखित में से कौन (A) और (B) में हो रही रासायनिक अभिक्रियाओं को निरूपित करता है ?",
+    "q_en": "(A) Sunita takes 0.5 g of Sodium Carbonate in a test-tube and adds 5 ml of Dilute Hydrochloric acid. (B) She passes the gas produced in the above reaction through Lime water. Which of the following represents the chemical reactions taking place in (A) and (B) ?",
+    "options": [
+      "(A) - NaHCO3 + HCl → NaCl + H2O + CO2 ; (B) - CaCO3 + H2O + CO2 → Ca(HCO3)2",
+      "(A) - Na2CO3 + 2HCl → 2NaCl + H2O + CO2 ; (B) - CaCO3 + H2O + CO2 → Ca(HCO3)2",
+      "(A) - Na2CO3 + 2HCl → 2NaCl + H2O + CO2 ; (B) - Ca(OH)2 + CO2 → CaCO3 + H2O",
+      "(A) - NaHCO3 + HCl → NaCl + H2O + CO2 ; (B) - Ca(OH)2 + CO2 → CaCO3 + H2O"
+    ],
+    "options_en": [
+      "(A) - NaHCO3 + HCl → NaCl + H2O + CO2 ; (B) - CaCO3 + H2O + CO2 → Ca(HCO3)2",
+      "(A) - Na2CO3 + 2HCl → 2NaCl + H2O + CO2 ; (B) - CaCO3 + H2O + CO2 → Ca(HCO3)2",
+      "(A) - Na2CO3 + 2HCl → 2NaCl + H2O + CO2 ; (B) - Ca(OH)2 + CO2 → CaCO3 + H2O",
+      "(A) - NaHCO3 + HCl → NaCl + H2O + CO2 ; (B) - Ca(OH)2 + CO2 → CaCO3 + H2O"
+    ],
+    "answer": 2,
+    "exp_hi": "Sodium carbonate तनु HCl से अभिक्रिया करके CO2 गैस देता है: Na2CO3 + 2HCl → 2NaCl + H2O + CO2। यह गैस चूने के पानी Ca(OH)2 से अभिक्रिया कर CaCO3 बनाती है: Ca(OH)2 + CO2 → CaCO3 + H2O, जिससे चूने का पानी दुधिया हो जाता है।",
+    "source": "CTET Dec 2024 Set D Q86"
+  },
+  {
+    "n": 27,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा/से कथन विज्ञान की प्रकृति के बारे में सही है/हैं ? (A) वैज्ञानिक विचार सांस्कृतिक संदर्भ द्वारा प्रभावित नहीं हैं। (B) कोई एकल वैज्ञानिक विधि (पद्धति) नहीं है।",
+    "q_en": "Which of the following statements is/are true regarding nature of science ? (A) Scientific ideas are not affected by cultural context. (B) There is no single scientific method.",
+    "options": [
+      "(A) और (B) दोनों गलत हैं",
+      "(A) और (B) दोनों सही हैं",
+      "(A) सही है और (B) गलत है",
+      "(A) गलत है और (B) सही है"
+    ],
+    "options_en": [
+      "Both (A) and (B) are false",
+      "Both (A) and (B) are true",
+      "(A) is true and (B) is false",
+      "(A) is false and (B) is true"
+    ],
+    "answer": 3,
+    "exp_hi": "वैज्ञानिक विचार सांस्कृतिक संदर्भ से प्रभावित होते हैं, इसलिए (A) गलत है। विज्ञान की कोई एकल निश्चित विधि नहीं होती, इसलिए (B) सही है।",
+    "source": "CTET Dec 2024 Set D Q87"
+  },
+  {
+    "n": 28,
+    "subject": "Science",
+    "q_hi": "जब बर्फ (हिम) 0°C पर पिघलती है तो उसका तापमान :",
+    "q_en": "While ice melts at 0°C, its temperature :",
+    "options": [
+      "पहले घटता है और फिर समान रहता है",
+      "बढ़ता है",
+      "घटता है",
+      "समान रहता है"
+    ],
+    "options_en": [
+      "first decreases and then remains same",
+      "increases",
+      "decreases",
+      "remains same"
+    ],
+    "answer": 3,
+    "exp_hi": "पिघलने के दौरान दी गई ऊष्मा अवस्था परिवर्तन में खर्च होती है (गुप्त ऊष्मा)। इसलिए 0°C पर बर्फ पिघलते समय तापमान समान रहता है।",
+    "source": "CTET Dec 2024 Set D Q88"
+  },
+  {
+    "n": 29,
+    "subject": "Science",
+    "q_hi": "सभी आयु वर्ग के बच्चों की विभिन्न धारणाएँ होती हैं जोकि विज्ञान अवधारणाओं से भिन्न हो सकती हैं। निम्नलिखित में से इन धारणाओं के संबंध में कौन से कथन सही हैं ? (A) ये धारणाएँ सामान्यतः स्थिर होती हैं। (B) ये प्रेक्षित (अनुपालनीय) परिघटनाओं के कारण बनती हैं। (C) ये समान विकासात्मक प्रतिरूप का पालन करती हैं। (D) उन्हें सरलता से परिवर्तित किया जा सकता है। (E) वे प्रायः प्रभाव-क्षेत्र (डोमेन) विशिष्ट होती हैं।",
+    "q_en": "Children of all age groups have various ideas which may be different from science concepts. Which of the following statements are true regarding these ideas ? (A) These ideas are usually stable (B) They are formed due to observable phenomenon (C) They tend to follow similar developmental pattern (D) They are easy to modify (E) They are often domain specific",
+    "options": [
+      "(A), (B), (C), (E)",
+      "(A), (B), (C)",
+      "(B), (C), (D)",
+      "(A), (B), (C), (D)"
+    ],
+    "options_en": [
+      "(A), (B), (C), (E)",
+      "(A), (B), (C)",
+      "(B), (C), (D)",
+      "(A), (B), (C), (D)"
+    ],
+    "answer": 0,
+    "exp_hi": "बच्चों की वैकल्पिक धारणाएँ सामान्यतः स्थिर होती हैं, देखी गई घटनाओं से बनती हैं, समान विकासात्मक प्रतिरूप दिखाती हैं और प्रायः domain specific होती हैं। वे सरलता से परिवर्तित नहीं होतीं, इसलिए (D) गलत है।",
+    "source": "CTET Dec 2024 Set D Q89"
+  },
+  {
+    "n": 30,
+    "subject": "Science",
+    "q_hi": "विज्ञान में नियमों एवं सिद्धांतों के संदर्भ में निम्नलिखित कथनों को पढ़िए : S1 : नियम सामान्यीकरण कथन हैं जबकि सिद्धांत व्याख्याएँ हैं। S2 : नियम बहुत पुराने हैं और सिद्धांत समकालीन हैं। S3 : नियम बदले नहीं जा सकते हैं जबकि सिद्धांत परिवर्तन के आधीन हैं।",
+    "q_en": "Read the following statements in the context of Laws and theories in Science : S1 : Laws are generalisation statement whereas theories are explanations. S2 : Laws are very old and theories are contemporary. S3 : Laws can't be changed whereas theories are subject to change.",
+    "options": [
+      "S3 सही है जबकि S1 और S2 गलत हैं",
+      "S1 सही है; S2 और S3 गलत हैं",
+      "S1 और S2 सही हैं जबकि S3 गलत है",
+      "S1 और S3 सही हैं जबकि S2 गलत है"
+    ],
+    "options_en": [
+      "S3 is true whereas S1 and S2 are false",
+      "S1 is true; S2 and S3 are false",
+      "S1 and S2 are true whereas S3 is false",
+      "S1 and S3 are true whereas S2 is false"
+    ],
+    "answer": 1,
+    "exp_hi": "वैज्ञानिक नियम सामान्यीकरण कथन होते हैं और सिद्धांत उनकी व्याख्याएँ देते हैं, इसलिए S1 सही है। नियम और सिद्धांत दोनों में परिवर्तन संभव है और पुराने-नए का भेद गलत है, इसलिए S2 और S3 गलत हैं।",
+    "source": "CTET Dec 2024 Set D Q90"
+  },
+  {
+    "n": 31,
+    "subject": "Science",
+    "q_hi": "(A) धातु-ऑक्साइड प्रकृति में क्षारकीय होते हैं। (B) वायु गर्म होने पर फैलती है। (C) कार्बन डाइऑक्साइड प्रवेश (डालने पर) कराने पर चूने का पानी दुधिया हो जाता है। (D) सोडियम हाइड्रोक्साइड एवं हाइड्रोक्लोरिक अम्ल एक दूसरे को उदासीन कर देते हैं। अगर अवलोकन O द्वारा निरूपित है एवं I द्वारा अध्याहार (निष्कर्ष) है तो निम्नलिखित में से कौन-सा कथन सही है ?",
+    "q_en": "(A) Metal oxides are basic in nature. (B) Air expands on heating. (C) Lime water turns milky on passing carbondioxide. (D) Sodium hydroxide and hydrochloric acid neutralise each other. If observation is represented by O and inference by I, which of the following statements is correct ?",
+    "options": [
+      "O - C, D; I - A, B",
+      "O - B, C; I - A, D",
+      "O - C; I - A, B, D",
+      "O - A, B; I - B, C"
+    ],
+    "options_en": [
+      "O - C, D; I - A, B",
+      "O - B, C; I - A, D",
+      "O - C; I - A, B, D",
+      "O - A, B; I - B, C"
+    ],
+    "answer": 2,
+    "exp_hi": "चूने के पानी का दुधिया होना आँखों से देखा जा सकता है, यह Observation (C) है। बाकी कथन — धातु-ऑक्साइड का क्षारकीय होना, वायु का फैलना और उदासीनीकरण — निष्कर्ष (Inference) हैं।",
+    "source": "CTET Jul 2024 Set I Q61"
+  },
+  {
+    "n": 32,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा विज्ञान में वैकल्पिक अवधारणाओं की विशेषता नहीं है ?",
+    "q_en": "Which of the following is not a feature of alternate conceptions in science ?",
+    "options": [
+      "विचार स्थिर होते हैं",
+      "विचार परिवर्तन प्रतिरोधी होते हैं",
+      "विचार अवलोकीकृत विशेषताओं से विकसित होते हैं",
+      "विचार, कारण और प्रभाव तर्क को प्रदर्शित नहीं करते हैं"
+    ],
+    "options_en": [
+      "Ideas are stable",
+      "Ideas are resistant to change",
+      "Ideas are developed from observable features",
+      "Ideas do not demonstrate cause and effect reasoning"
+    ],
+    "answer": 3,
+    "exp_hi": "आधिकारिक उत्तर कुंजी के अनुसार विकल्प (4) वैकल्पिक अवधारणाओं की विशेषता नहीं माना गया है। ये विचार स्थिर होते हैं, परिवर्तन प्रतिरोधी होते हैं और अवलोकित विशेषताओं से विकसित होते हैं।",
+    "source": "CTET Jul 2024 Set I Q62"
+  },
+  {
+    "n": 33,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित कथनों को पढ़िए और सही उत्तर का चुनाव कीजिए : अभिकथन (A) : यह अनुशंसित है कि अम्ल को तनु बनाने के लिए जल में अम्ल डाला जाना चाहिए न कि अम्ल में जल। तर्क (R) : अम्ल का मंदन (तनुकरण) करना उच्च रूप से ऊष्माक्षेपी अभिक्रिया है।",
+    "q_en": "Read the statements given below and choose the correct option : Assertion (A) : It is recommended that acid should be added to water for diluting the acid and not vice-versa. Reason (R) : Dilution of acid is a highly exothermic reaction.",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है परन्तु (R) गलत है",
+      "(A) और (R) दोनों गलत हैं"
+    ],
+    "options_en": [
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "Both (A) and (R) are false"
+    ],
+    "answer": 0,
+    "exp_hi": "अम्ल को तनु करना अत्यंत ऊष्माक्षेपी (exothermic) प्रक्रिया है; अम्ल में जल डालने से उत्पन्न ऊष्मा से छींटे पड़ सकते हैं। इसलिए सदैव जल में धीरे-धीरे अम्ल डालना चाहिए — (A) और (R) दोनों सही हैं और (R) ही (A) की व्याख्या है।",
+    "source": "CTET Jul 2024 Set I Q63"
+  },
+  {
+    "n": 34,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित कथनों को पढ़िए और सही उत्तर का चुनाव कीजिए : अभिकथन (A) : थल प्राणियों की तुलना में जलीय प्राणियों की श्वसन दर धीमी होती है। तर्क (R) : जल में घुली हुई ऑक्सीजन की उच्च मात्रा जलीय प्राणियों की श्वसन दर को प्रभावित करती है।",
+    "q_en": "Read the statements given below and choose the correct option : Assertion (A) : The rate of breathing in aquatic animals is slower than land animals. Reason (R) : Presence of large amounts of dissolved oxygen affects rate of breathing of aquatic animals.",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है परन्तु (R) गलत है",
+      "(A) और (R) दोनों गलत हैं"
+    ],
+    "options_en": [
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "Both (A) and (R) are false"
+    ],
+    "answer": 3,
+    "exp_hi": "जलीय प्राणी थल प्राणियों की तुलना में तेज़ श्वसन करते हैं, क्योंकि जल में घुली Oxygen की मात्रा वायु की तुलना में कम होती है। इसलिए (A) और (R) दोनों गलत हैं।",
+    "source": "CTET Jul 2024 Set I Q64"
+  },
+  {
+    "n": 35,
+    "subject": "Science",
+    "q_hi": "अभिकथन (A) : सिनेमा हॉल और संगीत समारोह हॉल की छतें सामान्यतः वक्रित होती हैं। तर्क (R) : एक वक्रित सतह से टकराने के पश्चात् ध्वनि तरंगें सभी दिशाओं में परावर्तित हो जाती हैं।",
+    "q_en": "Assertion (A) : The ceilings of cinema halls and concert halls are generally curved. Reason (R) : Sound waves after striking a curved surface get reflected in all directions.",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है परन्तु (R) गलत है",
+      "(A) और (R) दोनों गलत हैं"
+    ],
+    "options_en": [
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "Both (A) and (R) are false"
+    ],
+    "answer": 0,
+    "exp_hi": "सिनेमा व concert hall की वक्रित छत से ध्वनि तरंगें परावर्तित होकर hall के सभी भागों में समान रूप से पहुँचती हैं। इसलिए (A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+    "source": "CTET Jul 2024 Set I Q65"
+  },
+  {
+    "n": 36,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा/से वैज्ञानिक अनुसंधान/अन्वेषण के बारे में सही है/हैं ? (a) परिणाम क्रिया विधि द्वारा प्रभावित नहीं होते हैं। (b) किसी अनुसंधान/अन्वेषण में सामाजिक संदर्भ प्रभावित कर सकते हैं। (c) आकड़ें और साक्ष्य (प्रमाण) समान होते हैं। (d) कोई भी सार्विक (सर्वव्यापी) वैज्ञानिक विधि नहीं है।",
+    "q_en": "Which of the following is/are true regarding scientific investigations ? (a) Results are not influenced by procedure. (b) Social context may influence conclusions in any investigation. (c) Data and evidence are same. (d) There is no universal scientific method.",
+    "options": [
+      "(a) और (b)",
+      "(b) और (d)",
+      "(a) और (c)",
+      "(c) और (d)"
+    ],
+    "options_en": [
+      "(a) and (b)",
+      "(b) and (d)",
+      "(a) and (c)",
+      "(c) and (d)"
+    ],
+    "answer": 1,
+    "exp_hi": "वैज्ञानिक अनुसंधान में सामाजिक संदर्भ निष्कर्षों को प्रभावित कर सकता है और कोई सार्वभौमिक एकल वैज्ञानिक विधि नहीं होती। इसलिए (b) और (d) सही हैं।",
+    "source": "CTET Jul 2024 Set I Q66"
+  },
+  {
+    "n": 37,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित कथनों को पढ़िए और सही उत्तर का चुनाव कीजिए : अभिकथन (A) : एक तापदीप्त बल्ब का पुंतंतु (तंतु) टंगस्टेन का बना होता है। तर्क (R) : टंगस्टेन का निम्न प्रतिरोध एवं उच्च गलनांक होता है।",
+    "q_en": "Read the statements given below and choose the correct options : Assertion (A) : The filament of an incandescent bulb is made up of tungsten. Reason (R) : Tungsten has low resistance and high melting point.",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+      "(A) और (R) दोनों सही हैं परन्तु (R), (A) की सही व्याख्या नहीं है",
+      "(A) सही है परन्तु (R) गलत है",
+      "(A) और (R) दोनों गलत हैं"
+    ],
+    "options_en": [
+      "Both (A) and (R) are true and (R) is correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "Both (A) and (R) are false"
+    ],
+    "answer": 2,
+    "exp_hi": "बल्ब का filament Tungsten का बना होता है, परंतु Tungsten का Resistance निम्न नहीं, उच्च होता है; साथ ही इसका गलनांक भी उच्च होता है। इसलिए (A) सही है और (R) गलत है।",
+    "source": "CTET Jul 2024 Set I Q67"
+  },
+  {
+    "n": 38,
+    "subject": "Science",
+    "q_hi": "एक प्लास्टिक की बोतल में भिन्न-भिन्न स्तरों (ऊँचाइयों) पर समरूप (एकरूप) तीन छेद किए गए। बोतल को पानी से भर दिया गया। निम्नलिखित में से कौन सा कथन छेदों से पानी के (प्रवाह) बहाव के बारे में सही है ? (a) निम्नतम छेद से पानी अधिकतम बल के साथ बाहर आएगा (b) उच्चतम छेद से पानी अधिकतम बल के साथ बाहर आएगा (c) सभी छेदों से पानी समान रूप से बाहर आएगा (d) निम्नतम छेद से पानी अधिकतम दूरी पर गिरेगा (e) उच्चतम छेद से पानी अधिकतम दूरी पर गिरेगा (f) सभी छेदों से पानी समान दूरी पर गिरेगा",
+    "q_en": "Three identical holes are punched at different levels (heights) in a plastic bottle. The bottle is filled with water. Which of the following statements is true regarding the flow of water from the holes ? (a) Water from lowest hole comes out with greatest force (b) Water from highest hole comes out with greatest force (c) Water from all holes comes out with equal force (d) Water from lowest hole falls at maximum distance (e) Water from highest hole falls at maximum distance (f) Water from all holes falls at same distance",
+    "options": [
+      "(c) और (f)",
+      "(a) और (e)",
+      "(b) और (e)",
+      "(a) और (d)"
+    ],
+    "options_en": [
+      "(c) and (f)",
+      "(a) and (e)",
+      "(b) and (e)",
+      "(a) and (d)"
+    ],
+    "answer": 3,
+    "exp_hi": "द्रव में गहराई बढ़ने से Pressure बढ़ता है, इसलिए सबसे नीचे वाले छेद से पानी सबसे अधिक बल के साथ निकलता है और सबसे अधिक दूरी पर गिरता है — (a) और (d) सही हैं।",
+    "source": "CTET Jul 2024 Set I Q68"
+  },
+  {
+    "n": 39,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से क्या मानव परिसंचारी प्रणाली तंत्र को वर्णित करेगा ?",
+    "q_en": "Which of the following characterizes human circulatory system ?",
+    "options": [
+      "विवृत, एकल संचारी",
+      "विवृत, द्विकसंचारी",
+      "संवृत, एकल संचारी",
+      "संवृत, द्विकसंचारी"
+    ],
+    "options_en": [
+      "open, single circulation",
+      "open, double circulation",
+      "closed, single circulation",
+      "closed, double circulation"
+    ],
+    "answer": 3,
+    "exp_hi": "मानव परिसंचरण तंत्र में रक्त बंद वाहिकाओं में बहता है और हृदय से दो बार गुजरता है। इसलिए यह संवृत (closed) और द्विक (double) परिसंचरण है।",
+    "source": "CTET Jul 2024 Set I Q69"
+  },
+  {
+    "n": 40,
+    "subject": "Science",
+    "q_hi": "उर्वरकों एवं कीटनाशकों का अति प्रयोग के कारण निम्नलिखित में से कौन सा नहीं होता है ?",
+    "q_en": "Which of the following is not caused due to excessive use of fertilizer and pesticides ?",
+    "options": [
+      "मृदा अपरदन",
+      "नाइट्रीकरण",
+      "सुपोषण",
+      "जैव आवर्धन"
+    ],
+    "options_en": [
+      "Soil erosion",
+      "Nitrification",
+      "Eutrophication",
+      "Bio-magnification"
+    ],
+    "answer": 0,
+    "exp_hi": "उर्वरकों व कीटनाशकों के अति प्रयोग से सुपोषण (Eutrophication) और जैव आवर्धन (Bio-magnification) जैसी समस्याएँ होती हैं। मृदा अपरदन (Soil erosion) इनके अति प्रयोग का परिणाम नहीं है।",
+    "source": "CTET Jul 2024 Set I Q71"
+  },
+  {
+    "n": 41,
+    "subject": "Science",
+    "q_hi": "एक कार में ओडोमीटर मापता है :",
+    "q_en": "An odometer in a car measures :",
+    "options": [
+      "कार द्वारा तय की गई दूरी",
+      "कार की तात्कालिक चाल (गति)",
+      "कार की औसत चाल (गति)",
+      "कार का त्वरण (गतिवर्धन)"
+    ],
+    "options_en": [
+      "distance travelled by the car",
+      "instantaneous speed of the car",
+      "average speed of the car",
+      "acceleration of the car"
+    ],
+    "answer": 0,
+    "exp_hi": "Odometer वाहन द्वारा तय की गई कुल दूरी मापता है। तात्कालिक चाल Speedometer से मापी जाती है।",
+    "source": "CTET Jul 2024 Set I Q72"
+  },
+  {
+    "n": 42,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से वैज्ञानिक नियमों के बारे में कौन-सा सही है ?",
+    "q_en": "Which of the following is true regarding scientific laws ?",
+    "options": [
+      "वे अवलोकनशील परिघटनाओं के मध्य संबंधों का वर्णन करते हैं",
+      "वे वैज्ञानिक सिद्धांतों से बनते हैं",
+      "उन्हें चुनौती नहीं दी जा सकती है",
+      "वे भौतिक परिघटनाओं के लिए तर्क (विवेचन) प्रदान करते हैं"
+    ],
+    "options_en": [
+      "They describe relationships between observable phenomena",
+      "They are formed from scientific theories",
+      "They can't be challenged",
+      "They provide reasoning for physical phenomena"
+    ],
+    "answer": 0,
+    "exp_hi": "वैज्ञानिक नियम देखी जा सकने वाली घटनाओं के बीच संबंधों का वर्णन करते हैं; वे सिद्धांतों से नहीं बनते और उन्हें चुनौती दी जा सकती है। व्याख्या देना सिद्धांतों का कार्य है।",
+    "source": "CTET Jul 2024 Set I Q73"
+  },
+  {
+    "n": 43,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन-सी गतिविधि आगमिक विवेचन के लिए सर्वाधिक उपयुक्त है ?",
+    "q_en": "Which of the following activities is best suited to develop inductive reasoning ?",
+    "options": [
+      "विद्यार्थियों को परावर्तन के नियम बताने के लिए कहना",
+      "विद्यार्थियों को समतल दर्पण में आपतन-कोण के विभिन्न मापों के लिए परावर्तन-कोण मापने के लिए कहना",
+      "प्रयोगात्मक रूप से परावर्तन के नियमों को सत्यापित करना",
+      "परावर्तन के नियम पर आधारित संख्या विषयक (संख्यात्मक) समस्याओं को हल करना"
+    ],
+    "options_en": [
+      "asking students to state laws of reflection",
+      "asking students to measure angle of reflection for various cases of angle of incidence in a plane mirror",
+      "verify laws of reflection experimentally",
+      "solve numerical problems based on law of reflection"
+    ],
+    "answer": 1,
+    "exp_hi": "आगमिक विवेचन (Inductive reasoning) में विद्यार्थी पहले प्रेक्षण व मापन से आँकड़े जुटाते हैं और फिर नियम तक पहुँचते हैं। आपतन-कोण के विभिन्न मानों के लिए परावर्तन-कोण मापना इसी का उदाहरण है।",
+    "source": "CTET Jul 2024 Set I Q75"
+  },
+  {
+    "n": 44,
+    "subject": "Science",
+    "q_hi": "पुरुष के दो शुक्राणु स्त्री के दो अंडों (अंड) के साथ मिलते हैं। बनने वाले जुड़वाँ होते हैं :",
+    "q_en": "Two sperms of a man fuse with two eggs of a woman. The twins formed are :",
+    "options": [
+      "समरूप",
+      "भ्रात्रीय",
+      "समरूप अथवा भ्रात्रीय हो सकते हैं",
+      "सदैव संयुक्त"
+    ],
+    "options_en": [
+      "identical",
+      "fraternal",
+      "may be identical or fraternal",
+      "always conjoint"
+    ],
+    "answer": 1,
+    "exp_hi": "जब दो अलग अंडे दो अलग शुक्राणुओं से निषेचित होते हैं तो बनने वाले जुड़वाँ भ्रात्रीय (fraternal) होते हैं। समरूप जुड़वाँ एक ही युग्मनज के विभाजन से बनते हैं।",
+    "source": "CTET Jul 2024 Set I Q76"
+  },
+  {
+    "n": 45,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा/से कथन वर्षा-जल संरक्षण के बारे में सही है/हैं ? (a) यह भू-जल का संरक्षण करता है। (b) यह स्थानीय आप्लावन को कम करता है। (c) यह जल निकास संबंधी समस्याओं को उत्पन्न करता है। (d) इसका उपयोग फसलों की सिंचाई के लिए किया जा सकता है।",
+    "q_en": "Which of the following statements is/are true regarding Rainwater harvesting ? (a) It conserves ground water. (b) It reduces local flooding. (c) It creates drainage problems. (d) It can be used for irrigation of crops.",
+    "options": [
+      "(a), (b), (c)",
+      "(a), (c), (d)",
+      "(a), (b), (d)",
+      "(b), (c), (d)"
+    ],
+    "options_en": [
+      "(a), (b), (c)",
+      "(a), (c), (d)",
+      "(a), (b), (d)",
+      "(b), (c), (d)"
+    ],
+    "answer": 2,
+    "exp_hi": "वर्षा-जल संरक्षण से भू-जल का पुनर्भरण होता है, स्थानीय बाढ़ (आप्लावन) कम होता है और संचित जल सिंचाई में उपयोग हो सकता है। यह जल निकास की समस्या उत्पन्न नहीं करता — (a), (b), (d) सही हैं।",
+    "source": "CTET Jul 2024 Set I Q77"
+  },
+  {
+    "n": 46,
+    "subject": "Science",
+    "q_hi": "कक्षा में सामाजिक-वैज्ञानिक मामलों की परिचर्चा सहायता करती है : (a) अधिगमकर्ताओं में तर्कसंगत कौशल का विकास करने में (b) किसी मामले पर बहु-परिप्रेक्ष्यों का विकास करने में (c) नागरिक विज्ञान संबंधी गतिविधियों को प्रेरित करने में (d) विज्ञान के विकास में समाज की भूमिका के महत्व को स्वीकार करने में",
+    "q_en": "Discussion on socio-scientific issues in class helps in : (a) developing argumentative skills in learners (b) developing multiple perspectives on an issue (c) encouraging citizen science activities (d) appreciating the role of society in development of science",
+    "options": [
+      "(b) और (c)",
+      "(a), (b) और (c)",
+      "(c) और (d)",
+      "(b), (c) और (d)"
+    ],
+    "options_en": [
+      "(b) and (c)",
+      "(a), (b) and (c)",
+      "(c) and (d)",
+      "(b), (c) and (d)"
+    ],
+    "answer": 1,
+    "exp_hi": "आधिकारिक कुंजी के अनुसार सामाजिक-वैज्ञानिक मामलों की परिचर्चा से तर्कसंगत कौशल, बहु-परिप्रेक्ष्य और नागरिक विज्ञान गतिविधियों को बढ़ावा मिलता है — (a), (b) और (c)।",
+    "source": "CTET Jul 2024 Set I Q78"
+  },
+  {
+    "n": 47,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित में से कौन सा 'जाँच-पड़ताल की तरह विज्ञान' को चित्रित करता है ?",
+    "q_en": "Which of the following illustrates 'science as inquiry' ?",
+    "options": [
+      "दिए गए पादपों (पौधों) का शाकों, झाड़ियों एवं वृक्षों में वर्गीकरण करना",
+      "चने के बीजों में अंकुरण की दर को प्रभावित करने वाले कारकों का अन्वेषण करना",
+      "नारियल के पेड़ (वृक्ष) के पाँच उपयोग सूचिबद्ध करना",
+      "विभिन्न पर्णों में शिराबिन्यास के प्रकारों का अवलोकन करना"
+    ],
+    "options_en": [
+      "Classify the given plants into herbs, shrubs and trees",
+      "Explore factors which affect the rate of germination in gram seeds",
+      "List five uses of coconut tree",
+      "Observe the types of venation in various leaves"
+    ],
+    "answer": 1,
+    "exp_hi": "'जाँच-पड़ताल की तरह विज्ञान' में विद्यार्थी स्वयं प्रश्न पूछकर कारकों की खोज करते हैं। चने के बीजों में अंकुरण की दर को प्रभावित करने वाले कारकों का अन्वेषण इसका सही उदाहरण है।",
+    "source": "CTET Jul 2024 Set I Q79"
+  },
+  {
+    "n": 48,
+    "subject": "Science",
+    "q_hi": "विज्ञान में लिंग (जेंडर) प्रतिसंवेदी शिक्षाशास्त्र अपरिहार्य बनाता है : (a) लिंग संबंधित (जेंडर) संवेदनशील भाषा के उपयोग को (b) रूढ़िबद्ध धारणाओं की जाँच/परख करने में विद्यार्थियों को संलिप्त करने को (c) लिंग (जेंडर) आधारित समूह बनाने को (d) विभेदीकृत निर्देश एवं आकलन के प्रयोग को",
+    "q_en": "A gender responsive pedagogy in science entails. (a) Use of gender sensitive language (b) Engaging students in examining stereotypes (c) Making gender based groups (d) Using differentiated instruction and assessment",
+    "options": [
+      "(a), (b) और (c)",
+      "(a), (c) और (d)",
+      "(a) और (b)",
+      "(c) और (d)"
+    ],
+    "options_en": [
+      "(a), (b) and (c)",
+      "(a), (c) and (d)",
+      "(a) and (b)",
+      "(c) and (d)"
+    ],
+    "answer": 2,
+    "exp_hi": "Gender responsive pedagogy में लिंग-संवेदनशील भाषा का प्रयोग और रूढ़िबद्ध धारणाओं की जाँच में विद्यार्थियों को शामिल करना आता है। लिंग-आधारित समूह बनाना इसका भाग नहीं है — (a) और (b) सही हैं।",
+    "source": "CTET Jul 2024 Set I Q80"
+  },
+  {
+    "n": 49,
+    "subject": "Science",
+    "q_hi": "नीचे दिए कथनों को पढ़िए और सही उत्तर का चुनाव कीजिए : S1 - प्रकाश संश्लेषण ऊष्माशोषी अभिक्रिया है। S2 - श्वसन ऊष्माक्षेपी अभिक्रिया है।",
+    "q_en": "Read the following statements and choose the correct option : S1 - Photosynthesis is endothermic reaction. S2 - Respiration is exothermic reaction.",
+    "options": [
+      "S1 और S2 दोनों सही हैं",
+      "S1 और S2 दोनों गलत हैं",
+      "S1 सही है और S2 गलत है",
+      "S1 गलत है और S2 सही है"
+    ],
+    "options_en": [
+      "Both S1 and S2 are true",
+      "Both S1 and S2 are false",
+      "S1 is true and S2 is false",
+      "S1 is false and S2 is true"
+    ],
+    "answer": 0,
+    "exp_hi": "प्रकाश संश्लेषण में सूर्य की ऊर्जा संचित होती है, यह ऊष्माशोषी (endothermic) अभिक्रिया है। श्वसन में ऊर्जा मुक्त होती है, यह ऊष्माक्षेपी (exothermic) अभिक्रिया है — S1 और S2 दोनों सही हैं।",
+    "source": "CTET Jul 2024 Set I Q81"
+  },
+  {
+    "n": 50,
+    "subject": "Science",
+    "q_hi": "निम्नलिखित सारणी विभिन्न सूचकों के डाले जाने पर अम्ल और क्षार में होने वाले रंग परिवर्तन को चित्रित करती है : सूचक | अम्ल में होने वाला रंग परिवर्तन | क्षारक में होने वाला रंग परिवर्तन — हल्दी | कोई परिवर्तन नहीं | A ; चाइना रोज़ | गहरा गुलाबी | B ; फ़ीनॉलफ्थेलिन | C | गुलाबी ; मेथिल-ऑरैन्ज | D | गुलाबी । A, B, C, D क्रमशः हैं :",
+    "q_en": "Following table depicts colour changes in acids and bases when various indicators are added : Indicator | Colour change in acids | Colour change in bases — Turmeric | No change | A ; China rose | Dark Pink | B ; Phenolphthalein | C | Pink ; Methyl orange | D | Pink. A, B, C, D respectively are :",
+    "options": [
+      "रक्ताभ भूरा, हरा, रंगहीन, ऑरैन्ज (नारंगी)",
+      "पीला, हरा, ऑरैन्ज (नारंगी), रंगहीन",
+      "रक्ताभ भूरा, गुलाबी, ऑरैन्ज (नारंगी), रंगहीन",
+      "पीला, ऑरैन्ज, गुलाबी, रंगहीन"
+    ],
+    "options_en": [
+      "reddish brown, green, colourless, orange",
+      "yellow, green, orange, colourless",
+      "reddish brown, pink, orange, colourless",
+      "yellow, orange, pink, colourless"
+    ],
+    "answer": 0,
+    "exp_hi": "हल्दी क्षार में रक्ताभ भूरा रंग देती है (A), चाइना रोज़ क्षार में हरा होता है (B) और Phenolphthalein अम्ल में रंगहीन रहता है (C)। आधिकारिक कुंजी के अनुसार Methyl orange के लिए (D) ऑरैन्ज (नारंगी) है — क्रम है: रक्ताभ भूरा, हरा, रंगहीन, ऑरैन्ज।",
+    "source": "CTET Jul 2024 Set I Q82"
+  }
+]
