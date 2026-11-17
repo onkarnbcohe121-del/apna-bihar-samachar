@@ -13,6 +13,7 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install google-genai
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Generate intro in Leda voice
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
