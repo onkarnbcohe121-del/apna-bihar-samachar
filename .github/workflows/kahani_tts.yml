@@ -1,0 +1,44 @@
+name: Kahani TTS
+
+on:
+  workflow_dispatch:
+    inputs:
+      kahani_dir:
+        description: "Kahani folder in repo (e.g. kahani/kahani1-bhoot)"
+        required: true
+        type: string
+      voice:
+        description: "Voice name (Charon / Leda)"
+        required: false
+        default: "Charon"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: |
+          pip install google-genai
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Generate scene TTS
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          KAHANI_DIR: ${{ inputs.kahani_dir }}
+          VOICE: ${{ inputs.voice }}
+        run: python kahani_tts.py
+      - name: Publish audio release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="tts-$(basename ${{ inputs.kahani_dir }})-${{ github.run_number }}"
+          gh release create "$TAG" out/*.mp3 out/timings.json --title "Kahani TTS $TAG" --notes "Per-scene narration audio"
+          echo "RELEASE_TAG=$TAG" >> $GITHUB_STEP_SUMMARY
