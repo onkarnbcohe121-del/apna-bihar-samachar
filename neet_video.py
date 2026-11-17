@@ -2,13 +2,15 @@
 """
 Apna Bihar Samachar — NEET PYQ Mock Video Maker
 Ek run me EK subject (45 sawal) ka video: har sawal ke 2 slide —
-(1) sawal slide (English sawal + 4 vikalp), (2) jawab slide (sahi vikalp
-highlight + Hindi vyakhya). Jawab NTA Official Final Answer Key se verify.
+(1) sawal slide (English sawal + Hindi anuvaad + 4 vikalp), (2) jawab slide
+(sahi vikalp highlight + Hindi vyakhya + English explanation). BILINGUAL v2
+(user ka niyam, 17 Nov 2026): sawal aur solution — dono English + Hindi me.
+Jawab NTA Official Final Answer Key se verify.
 Awaaz: Leda (Live API) primary, Edge TTS Swara backup.
 Config (env): BANK_FILE (sawal JSON), NEET_YEAR, NEET_SUBJECT,
 NEET_PLAYLIST_YEAR, NEET_PLAYLIST_SUBJECT.
-Bank JSON format: [{"n": N, "subject": "..", "q_en": "..",
-  "options": ["..","..","..",".."], "answer": 0-3, "exp_hi": "..",
+Bank JSON format: [{"n": N, "subject": "..", "q_en": "..", "q_hi": "..",
+  "options": ["..","..","..",".."], "answer": 0-3, "exp_hi": "..", "exp_en": "..",
   "figure": true/false}]
 NIYAM: video/thumbnail/title me DATE NAHI; green tick NAHI.
 """
@@ -256,7 +258,8 @@ async def _tts_swara(text, out):
 def adapt_question(raw):
     """NEET bank JSON ko engine ke andarooani roop me badlo.
     Sawal English me (paper jaisa), vyakhya Hindi me."""
-    return {"q_hi": "", "q_en": raw["q_en"], "lang": "en",
+    return {"q_hi": raw.get("q_hi", ""), "q_en": raw["q_en"], "lang": "en",
+            "exp_en": raw.get("exp_en", ""),
             "options": list(raw["options"]), "options_en": [],
             "answer": int(raw["answer"]),
             "explanation": raw["exp_hi"], "subject": raw.get("subject", SUBJECT),
@@ -340,6 +343,17 @@ def F(family, size, bold=False):
         _font_cache[key] = ImageFont.truetype(font_path(family, "bold" if bold else "regular"), size)
     return _font_cache[key]
 
+def _sym_kind(ch):
+    """Greek akshar aur ganit chinh (θ, ρ, °, ⊕, √, ², ₂ aadi) Devanagari
+    font me NAHI hote — ye hamesha Latin (DejaVu/Noto Sans) run me jayenge,
+    warna Hindi text ke beech me tofu (dabba) ban jata hai."""
+    o = ord(ch)
+    if (0x370 <= o <= 0x3FF or o in (0xB0, 0xB1, 0xB9, 0xB2, 0xB3, 0xD7, 0xF7)
+            or 0x2070 <= o <= 0x2079 or 0x2080 <= o <= 0x2089
+            or 0x2190 <= o <= 0x21FF or 0x2200 <= o <= 0x22FF):
+        return "latin"
+    return None
+
 def split_runs(text):
     """Text ko Devanagari / Latin tukdon me todo (video.py jaisa)."""
     runs = []
@@ -349,7 +363,7 @@ def split_runs(text):
         elif ch.isascii() and ch.isalpha():
             kind = "latin"
         else:
-            kind = None
+            kind = _sym_kind(ch)
         if runs and (kind is None or kind == runs[-1][0]):
             runs[-1][1] += ch
         elif runs and runs[-1][0] is None:
@@ -415,62 +429,115 @@ def base_slide(label="NEET PYQ Mock"):
     draw_mixed(d, W - 40 - text_w(d, mk, 20, True), H - 34, mk, 20, True, (130, 150, 205))
     return img, d
 
+def _fit_panel(d, q):
+    """Reveal slide ka bilingual panel: pehle Hindi vyakhya (explanation),
+    phir 'Explanation in English' label ke neeche English explanation
+    (exp_en). Size jodi (24,22) se (16,14) tak ghata kar pehli woh jodi
+    chunta hai jiska panel 300px ke andar aa jaye (bina truncation ke)."""
+    combos = [(24, 22), (22, 20), (21, 19), (20, 18),
+              (19, 17), (18, 16), (17, 15), (16, 14)]
+    exp_en = (q.get("exp_en") or "").strip()
+    for hsize, esize in combos:
+        hlines = wrap_mixed(d, q["explanation"], hsize, False, W - 124)
+        elines = wrap_mixed(d, exp_en, esize, False, W - 124) if exp_en else []
+        hh = len(hlines) * (hsize + 6)
+        eh = len(elines) * (esize + 5)
+        panel_h = 44 + hh + 30 + eh + 8
+        if panel_h <= 300:
+            return {"hsize": hsize, "hlines": hlines, "esize": esize,
+                    "elines": elines, "top": H - 24 - panel_h, "h": panel_h,
+                    "trunc": False}
+    # Sabse chhoti jodi par bhi na aaye to English vyakhya ki aakhri linein
+    # kaat kar panel 300px ke andar rakho (Hindi vyakhya ko pehle bachao).
+    hsize, esize = combos[-1]
+    hlines = wrap_mixed(d, q["explanation"], hsize, False, W - 124)
+    elines = wrap_mixed(d, exp_en, esize, False, W - 124) if exp_en else []
+    hh = len(hlines) * (hsize + 6)
+    max_el = max(0, (300 - (44 + hh + 30 + 8)) // (esize + 5))
+    trunc = len(elines) > max_el
+    if trunc:
+        elines = elines[:max_el]
+        if elines:
+            elines[-1] = elines[-1].rstrip("।, ") + "…"
+    eh = len(elines) * (esize + 5)
+    panel_h = 44 + hh + 30 + eh + 8
+    if panel_h > 300:  # Hindi vyakhya hi bahut lambi — use bhi kaato
+        max_hl = max(1, (300 - (44 + 30 + eh + 8)) // (hsize + 6))
+        if len(hlines) > max_hl:
+            hlines = hlines[:max_hl]
+            hlines[-1] = hlines[-1].rstrip("।, ") + "…"
+            trunc = True
+        hh = len(hlines) * (hsize + 6)
+        panel_h = 44 + hh + 30 + eh + 8
+    return {"hsize": hsize, "hlines": hlines, "esize": esize,
+            "elines": elines, "top": H - 24 - panel_h, "h": panel_h,
+            "trunc": trunc}
+
+
 def compute_layout(d, q, reveal):
-    """Sawal slide ki geometry — NEET ke lambe sawalon ke liye poori fit-janch:
-    sawal ka font (44→25), vyakhya ka font (26→20, 4 line tak) aur vikalp
-    density profiles ko kram se ghata kar SAB KUCHH frame ke andar rakhta hai
-    (panel vikalp ke upar kabhi nahi chadhta)."""
+    """Sawal slide ki geometry — v2 BILINGUAL (user ka niyam, 17 Nov 2026):
+    sawal slide par English sawal (bold) + uske neeche Hindi anuvaad
+    (q_hi, halka neela), phir vikalp. Jawab slide par English sawal +
+    vikalp (sahi wala highlight) + bilingual panel (pehle Hindi vyakhya,
+    phir English explanation). Font/profile ladders ko kram se ghata kar
+    SAB KUCHH frame ke andar rakhta hai (panel vikalp ke upar kabhi nahi
+    chadhta). 'fit' False sirf tab jab sabse chhote roop me bhi
+    truncation/overflow majboori ho."""
     y = 140
     qmain = q["q_en"] if q.get("lang") == "en" and q.get("q_en") else q["q_hi"]
     enlines = [] if q.get("lang") else (wrap_mixed(d, q["q_en"], 27, False, W - 80)[:2] if q.get("q_en") else [])
+    hi_text = (q.get("q_hi") or "").strip()
 
-    panel = None
-    if reveal:
-        for esize in (26, 24, 22, 20):
-            elines = wrap_mixed(d, q["explanation"], esize, False, W - 124)
-            if len(elines) <= 4:
-                break
-        if len(elines) > 4:
-            elines = elines[:4]
-            elines[-1] = elines[-1].rstrip("।, ") + "…"
-        panel_h = 46 + len(elines) * (esize + 7) + 10
-        panel = {"esize": esize, "elines": elines,
-                 "top": H - 24 - panel_h, "h": panel_h}
-        limit = panel["top"] - 8
-    else:
-        limit = H - 64
+    panel = _fit_panel(d, q) if reveal else None
+    limit = (panel["top"] - 8) if reveal else (H - 64)
 
     profiles = [(30, 37, 20, 12), (28, 34, 18, 10), (26, 32, 16, 9),
-                (24, 30, 14, 8), (22, 27, 12, 7), (20, 25, 10, 6)]
+                (24, 30, 14, 8), (22, 27, 12, 7), (20, 25, 10, 6),
+                (18, 22, 8, 5)]
+    q_ladder = (36, 32, 28, 25, 22, 20, 18, 16) if reveal else (44, 40, 36, 32, 28, 25)
     best = None
-    for qsize in (44, 40, 36, 32, 28, 25):
+    for qsize in q_ladder:
         qlines = wrap_mixed(d, qmain, qsize, True, W - 80)
         qstep = int(qsize * 1.28)
         q_bottom = y + len(qlines) * qstep
-        opts_top = q_bottom + len(enlines) * 34 + 12
-        for prof in profiles:
-            osize, line_h, pad_v, gap = prof
-            rows, yy = [], opts_top
-            for opt in display_option_texts(q):
-                ol = wrap_mixed(d, opt, osize, False, W - 190)[:2]
-                rh = len(ol) * line_h + pad_v
-                rows.append((ol, rh))
-                yy += rh + gap
-            opts_bottom = yy - gap
-            if opts_bottom <= limit:
-                return {"qtop": y, "qsize": qsize, "qstep": qstep, "qlines": qlines,
-                        "enlines": enlines, "opts_top": opts_top, "osize": osize,
-                        "line_h": line_h, "pad_v": pad_v, "gap": gap, "orows": rows,
-                        "opts_bottom": opts_bottom, "limit": limit, "panel": panel}
-            if best is None:
-                best = (qsize, qlines, qstep, opts_top, prof, rows, opts_bottom)
-    # Kuchh bhi fit na ho to sabse chhota roop (-overflow kam se kam hoga)
-    qsize, qlines, qstep, opts_top, prof, rows, opts_bottom = best
+        if reveal or not hi_text:
+            hi_opts = [0]
+        else:
+            hi_opts = [s for s in (30, 27, 24, 22, 20, 18) if s <= qsize - 6] or [18]
+        for hisize in hi_opts:
+            if hisize:
+                hilines = wrap_mixed(d, hi_text, hisize, False, W - 80)
+                histep = int(hisize * 1.32)
+            else:
+                hilines, histep = [], 0
+            opts_top = q_bottom + len(hilines) * histep + (10 if hilines else 0) + len(enlines) * 34 + 12
+            for prof in profiles:
+                osize, line_h, pad_v, gap = prof
+                rows, yy = [], opts_top
+                for opt in display_option_texts(q):
+                    ol = wrap_mixed(d, opt, osize, False, W - 190)[:2]
+                    rh = len(ol) * line_h + pad_v
+                    rows.append((ol, rh))
+                    yy += rh + gap
+                opts_bottom = yy - gap
+                if opts_bottom <= limit:
+                    return {"qtop": y, "qsize": qsize, "qstep": qstep, "qlines": qlines,
+                            "enlines": enlines, "hilines": hilines, "hisize": hisize,
+                            "histep": histep, "opts_top": opts_top, "osize": osize,
+                            "line_h": line_h, "pad_v": pad_v, "gap": gap, "orows": rows,
+                            "opts_bottom": opts_bottom, "limit": limit, "panel": panel,
+                            "fit": not (panel and panel["trunc"])}
+                if best is None or opts_bottom < best[9]:
+                    best = (qsize, qlines, qstep, hilines, hisize, histep, opts_top, prof, rows, opts_bottom)
+    # Kuchh bhi fit na ho to sabse pehla (sabse kam overflow wala) roop
+    qsize, qlines, qstep, hilines, hisize, histep, opts_top, prof, rows, opts_bottom = best
     osize, line_h, pad_v, gap = prof
     return {"qtop": y, "qsize": qsize, "qstep": qstep, "qlines": qlines,
-            "enlines": enlines, "opts_top": opts_top, "osize": osize,
+            "enlines": enlines, "hilines": hilines, "hisize": hisize,
+            "histep": histep, "opts_top": opts_top, "osize": osize,
             "line_h": line_h, "pad_v": pad_v, "gap": gap, "orows": rows,
-            "opts_bottom": opts_bottom, "limit": limit, "panel": panel}
+            "opts_bottom": opts_bottom, "limit": limit, "panel": panel,
+            "fit": False}
 
 def question_slide(q, idx, total, reveal, year=2025, subject="Physics"):
     img, d = base_slide()
@@ -486,6 +553,8 @@ def question_slide(q, idx, total, reveal, year=2025, subject="Physics"):
     for ln in lay["qlines"]:
         draw_mixed(d, 40, y, ln, lay["qsize"], True, (255, 255, 255))
         y += lay["qstep"]
+    for ln in lay["hilines"]:
+        draw_mixed(d, 40, y + 2, ln, lay["hisize"], False, (170, 195, 255)); y += lay["histep"]
     for ln in lay["enlines"]:
         draw_mixed(d, 40, y + 2, ln, 27, False, (170, 195, 255)); y += 34
     y = lay["opts_top"]
@@ -509,11 +578,18 @@ def question_slide(q, idx, total, reveal, year=2025, subject="Physics"):
         p = lay["panel"]
         rrect(d, [40, p["top"], W - 40, H - 24], 14, fill=(10, 56, 40))
         head = f"सही उत्तर: {LETTERS[q['answer']]}"
-        draw_mixed(d, 62, p["top"] + 10, head, 29, True, (124, 252, 154))
-        ey = p["top"] + 46
-        for ln in p["elines"]:
-            draw_mixed(d, 62, ey, ln, p["esize"], False, (235, 245, 255))
-            ey += p["esize"] + 7
+        draw_mixed(d, 62, p["top"] + 8, head, 27, True, (124, 252, 154))
+        ey = p["top"] + 44
+        for ln in p["hlines"]:
+            draw_mixed(d, 62, ey, ln, p["hsize"], False, (235, 245, 255))
+            ey += p["hsize"] + 6
+        if p["elines"]:
+            ey += 4
+            draw_mixed(d, 62, ey, "Explanation in English:", 20, True, (255, 205, 90))
+            ey += 26
+            for ln in p["elines"]:
+                draw_mixed(d, 62, ey, ln, p["esize"], False, (235, 245, 255))
+                ey += p["esize"] + 5
     else:
         draw_mixed(d, 40, H - 52, "पहले खुद सोचिए — जवाब तुरंत बाद!", 26, False, (170, 190, 235))
     return img
@@ -582,15 +658,26 @@ async def build(bank, workdir):
         p = os.path.join(workdir, f"q{i}.png"); question_slide(q, i, total, False, year, subject).save(p)
         a = os.path.join(workdir, f"q{i}.mp3")
         qspeak = q["q_en"] if q.get("lang") == "en" and q.get("q_en") else q["q_hi"]
-        await tts(f"प्रश्न {i}। {qspeak} … विकल्प हैं — {opts_speech}।", a)
+        hi_speak = (q.get("q_hi") or "").strip()
+        if hi_speak:
+            await tts(f"प्रश्न {i}। {qspeak} … हिंदी में इसका अर्थ है — {hi_speak} … विकल्प हैं — {opts_speech}।", a)
+        else:
+            await tts(f"प्रश्न {i}। {qspeak} … विकल्प हैं — {opts_speech}।", a)
         s = os.path.join(workdir, f"seg_{i:03d}a.mp4"); make_segment(p, a, s); segs.append(s)
 
         expl = q["explanation"]
-        if len(expl) > 320:
-            expl = expl[:320].rsplit("।", 1)[0] + "।"
+        if len(expl) > 340:
+            expl = expl[:340].rsplit("।", 1)[0] + "।"
+        expl_en = (q.get("exp_en") or "").strip()
+        if len(expl_en) > 340:
+            cut = expl_en[:340].rsplit(". ", 1)[0]
+            expl_en = (cut + ".") if cut else expl_en[:340]
         p = os.path.join(workdir, f"a{i}.png"); question_slide(q, i, total, True, year, subject).save(p)
         a = os.path.join(workdir, f"a{i}.mp3")
-        await tts(f"सही उत्तर है — {LETTERS[q['answer']]}, {speech_option_texts(q)[q['answer']]}। {expl}", a)
+        reveal_speech = f"सही उत्तर है — {LETTERS[q['answer']]}, {speech_option_texts(q)[q['answer']]}। {expl}"
+        if expl_en:
+            reveal_speech += f" Now the explanation in English. {expl_en}"
+        await tts(reveal_speech, a)
         s = os.path.join(workdir, f"seg_{i:03d}b.mp4"); make_segment(p, a, s); segs.append(s)
         print(f"  sawal {i}/{total} taiyaar")
 

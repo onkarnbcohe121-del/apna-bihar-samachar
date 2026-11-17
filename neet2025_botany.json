@@ -12,7 +12,9 @@
   ],
   "answer": 2,
   "exp_hi": "Complex II को Succinate dehydrogenase कहते हैं। यह Krebs cycle में succinate से fumarate बनने की क्रिया से जुड़ा होता है और electron transport chain में electrons को ubiquinone तक पहुँचाता है। इसलिए यही सही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Mitochondrial electron transport chain का complex II इस नाम से भी जाना जाता है:",
+  "exp_en": "Complex II is called Succinate dehydrogenase. It is linked with the step of the Krebs cycle in which succinate is converted into fumarate, and it delivers electrons to ubiquinone in the electron transport chain. Hence this is the correct answer."
  },
  {
   "n": 2,
@@ -27,7 +29,9 @@
   ],
   "answer": 1,
   "exp_hi": "Monocot stem में vascular bundles बिखरे हुए, conjoint और closed होते हैं तथा phloem parenchyma अनुपस्थित होता है। लेकिन इसकी hypodermis parenchymatous नहीं होती — वह collenchymatous या sclerenchymatous होती है। इसलिए यही कथन गलत है और यही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Monocot stem की संरचना के संबंध में वह कथन खोजिए जो सही नहीं है:",
+  "exp_en": "In a monocot stem, the vascular bundles are scattered, conjoint and closed, and phloem parenchyma is absent. But its hypodermis is not parenchymatous — it is collenchymatous or sclerenchymatous. Hence this statement is incorrect, and this itself is the answer."
  },
  {
   "n": 3,
@@ -42,7 +46,9 @@
   ],
   "answer": 1,
   "exp_hi": "जीवों को भौतिक-रासायनिक (physico-chemical) दृष्टिकोण से अध्ययन करके समझने की पद्धति को Reductionist Biology कहते हैं। इसमें जीवित तंत्रों की व्याख्या उनके रासायनिक संघटन और भौतिक प्रक्रियाओं के आधार पर की जाती है। अतः सही उत्तर physico-chemical approach है। (टिप्पणी: ebook का छपा उत्तर इस प्रश्न में गलत था; यह उत्तर official paper व NTA key से सत्यापित है।)",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से कौन-सा कथन Reductionist Biology को संदर्भित करता है?",
+  "exp_en": "The approach of studying and understanding living organisms from a physico-chemical point of view is called Reductionist Biology. In this, living systems are explained on the basis of their chemical composition and physical processes. Hence the correct answer is the physico-chemical approach. (Note: the answer printed in the ebook was wrong for this question; this answer is verified from the official paper and the NTA key.)"
  },
  {
   "n": 4,
@@ -57,7 +63,9 @@
   ],
   "answer": 3,
   "exp_hi": "Beer एक non-distilled पेय है — यह yeast द्वारा शर्करा के fermentation से सीधे बनती है। Rum, Whisky और Brandy distilled पेय हैं, जिनमें fermentation के बाद आसवन (distillation) भी किया जाता है। इसलिए Beer सही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से कौन-सा yeast द्वारा उत्पादित non-distilled मद्य पेय का उदाहरण है?",
+  "exp_en": "Beer is a non-distilled beverage — it is made directly by the fermentation of sugars by yeast. Rum, Whisky and Brandy are distilled beverages, in which distillation is also carried out after fermentation. Hence Beer is the correct answer."
  },
  {
   "n": 5,
@@ -72,7 +80,9 @@
   ],
   "answer": 3,
   "exp_hi": "Bryophytes में पहले gametophyte substratum से जुड़ता है, फिर antherozoids जल में छूटते हैं और egg से fuse होते हैं। इससे sporophyte बनता है, जिसमें reduction division (meiosis) द्वारा haploid spores बनते हैं। अतः सही क्रम B, E, A, D, C है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Bryophytes के जीवन चक्र में घटनाओं का सही क्रम है: A. Antherozoid का egg के साथ संलयन (fusion)। B. Gametophyte का substratum से जुड़ना। C. Haploid spores बनाने के लिए reduction division। D. Sporophyte का निर्माण। E. Antherozoids का जल में मुक्त होना।",
+  "exp_en": "In bryophytes, first the gametophyte attaches to the substratum, then the antherozoids are released into water and fuse with the egg. This forms the sporophyte, in which haploid spores are produced by reduction division (meiosis). Hence the correct sequence is B, E, A, D, C."
  },
  {
   "n": 6,
@@ -87,7 +97,9 @@
   ],
   "answer": 0,
   "exp_hi": "Catalase एक haem-युक्त enzyme है; इसमें haem (iron-porphyrin) prosthetic group होता है, जो hydrogen peroxide को जल और oxygen में विघटित करता है। Carbonic anhydrase में zinc होता है, जबकि RuBisCo और Succinate dehydrogenase में haem prosthetic group नहीं पाया जाता। अतः सही उत्तर Catalase है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से किस enzyme में prosthetic group के रूप में 'Haem' होता है?",
+  "exp_en": "Catalase is a haem-containing enzyme; it has haem (iron-porphyrin) as the prosthetic group, which decomposes hydrogen peroxide into water and oxygen. Carbonic anhydrase contains zinc, while RuBisCo and Succinate dehydrogenase do not have a haem prosthetic group. Hence the correct answer is Catalase."
  },
  {
   "n": 7,
@@ -102,7 +114,9 @@
   ],
   "answer": 3,
   "exp_hi": "Hershey और Chase ने प्रयोग से सिद्ध किया कि DNA ही genetic material है। Euchromatin शिथिल बँधा और हल्का अभिरंजित भाग है, Griffith ने Streptococcus pneumoniae पर transformation का प्रयोग किया था, और heterochromatin सघन व गहरा अभिरंजित भाग है। अतः A-IV, B-III, C-I, D-II सही मिलान है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "सूची I का सूची II से मिलान कीजिए: सूची I: A. Alfred Hershey and Martha Chase, B. Euchromatin, C. Frederick Griffith, D. Heterochromatin। सूची II: I. Streptococcus pneumoniae, II. सघन रूप से बँधा और गहरा अभिरंजित, III. शिथिल रूप से बँधा और हल्का अभिरंजित, IV. DNA की genetic material के रूप में पुष्टि।",
+  "exp_en": "Hershey and Chase proved by experiment that DNA itself is the genetic material. Euchromatin is the loosely packed and light-stained part, Griffith had performed the transformation experiment on Streptococcus pneumoniae, and heterochromatin is the densely packed and dark-stained part. Hence A-IV, B-III, C-I, D-II is the correct matching."
  },
  {
   "n": 8,
@@ -117,7 +131,9 @@
   ],
   "answer": 0,
   "exp_hi": "कथन I गलत है, क्योंकि translation के समय tRNA और rRNA दोनों mRNA से interact करते हैं — mRNA ribosome से जुड़ता है और tRNA codon के अनुसार amino acids लाता है। कथन II सही है — RNA interference (RNAi) सभी eukaryotic जीवों में cellular defence की विधि के रूप में पाया जाता है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: कथन I: Transfer RNAs और ribosomal RNA, mRNA के साथ interact नहीं करते। कथन II: RNA interference (RNAi) सभी eukaryotic जीवों में cellular defence की विधि के रूप में होता है। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "Statement I is wrong, because during translation both tRNA and rRNA interact with mRNA — the mRNA binds to the ribosome and the tRNA brings amino acids according to the codons. Statement II is correct — RNA interference (RNAi) is found in all eukaryotic organisms as a method of cellular defence."
  },
  {
   "n": 9,
@@ -132,7 +148,9 @@
   ],
   "answer": 0,
   "exp_hi": "अनाज (cereals) के बीजों में endosperm की सबसे बाहरी परत aleurone layer होती है, जो protein से भरपूर होती है। यह परत embryo को endosperm से अलग करती है और अंकुरण के समय enzymes स्रावित करके संचित भोजन के पाचन में मदद करती है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "अनाजों (cereals) के बीजों में, endosperm का बाहरी आवरण embryo को एक protein-समृद्ध परत द्वारा अलग करता है, जिसे कहते हैं:",
+  "exp_en": "In the seeds of cereals, the outermost layer of the endosperm is the aleurone layer, which is rich in protein. This layer separates the embryo from the endosperm and, at the time of germination, helps in the digestion of stored food by secreting enzymes."
  },
  {
   "n": 10,
@@ -147,7 +165,9 @@
   ],
   "answer": 0,
   "exp_hi": "Cytokinin वह phytohormone है जो nutrient mobilisation को बढ़ावा देता है। इससे पत्तियों में पोषक तत्व बने रहते हैं और leaf senescence (पत्तियों का बुढ़ापा) देर से होता है। इसलिए सही उत्तर Cytokinin है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित phytohormones में से कौन-सा nutrient mobilisation को बढ़ावा देता है, जिससे पौधों में पत्तियों के बुढ़ापे (leaf senescence) में देरी होती है?",
+  "exp_en": "Cytokinin is the phytohormone that promotes nutrient mobilisation. Because of this, nutrients are retained in the leaves and leaf senescence (ageing of leaves) is delayed. Hence the correct answer is Cytokinin."
  },
  {
   "n": 11,
@@ -162,7 +182,9 @@
   ],
   "answer": 0,
   "exp_hi": "Floral formula में ⊕ चिह्न actinomorphic (त्रिज्या-सममित) पुष्प को दर्शाता है, zygomorphic को नहीं — इसलिए कथन I गलत है। कथन II सही है, क्योंकि यह चिह्न actinomorphic प्रकृति दर्शाता है और G superior ovary को सूचित करता है। अतः कथन I गलत परंतु कथन II सही है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: कथन I: Floral formula में, ⊕ zygomorphic प्रकृति के पुष्प को दर्शाता है, और G inferior ovary को दर्शाता है। कथन II: Floral formula में, ⊕ actinomorphic प्रकृति के पुष्प को दर्शाता है और G superior ovary को दर्शाता है। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "In a floral formula, the symbol ⊕ denotes an actinomorphic (radially symmetrical) flower, not a zygomorphic one — hence Statement I is wrong. Statement II is correct, because this symbol denotes actinomorphic nature and G indicates a superior ovary. Hence Statement I is incorrect but Statement II is correct."
  },
  {
   "n": 12,
@@ -177,7 +199,9 @@
   ],
   "answer": 3,
   "exp_hi": "परिपक्व angiosperm embryo sac 8-nucleate और 7-celled होता है — कथन A सही है। परंतु 2 polar nuclei egg apparatus में नहीं होते, वे central cell में होते हैं; egg apparatus में 1 egg cell और 2 synergids होती हैं। इसलिए R गलत है — A सही, R गलत।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: एक को अभिकथन (A) और दूसरे को कारण (R) कहा गया है। अभिकथन (A): परिपक्वता पर एक विशिष्ट अनिषेचित (unfertilised) angiosperm embryo sac 8-nucleate और 7-celled होता है। कारण (R): Egg apparatus में 2 polar nuclei होते हैं। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सही उत्तर चुनिए:",
+  "exp_en": "A mature angiosperm embryo sac is 8-nucleate and 7-celled — Assertion A is correct. But the 2 polar nuclei are not in the egg apparatus; they are in the central cell; the egg apparatus has 1 egg cell and 2 synergids. Hence R is false — A is true, R is false."
  },
  {
   "n": 13,
@@ -192,7 +216,9 @@
   ],
   "answer": 3,
   "exp_hi": "Azotobacter, Oscillatoria और Anabaena nitrogen fixation कर सकते हैं, क्योंकि इनमें nitrogenase enzyme तंत्र पाया जाता है। Volvox एक green alga है जिसमें nitrogen fixation की क्षमता नहीं होती। इसलिए Volvox सही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित जीवों में से कौन nitrogen fixation नहीं कर सकता?",
+  "exp_en": "Azotobacter, Oscillatoria and Anabaena can fix nitrogen, because they possess the nitrogenase enzyme system. Volvox is a green alga which does not have the capacity for nitrogen fixation. Hence Volvox is the correct answer."
  },
  {
   "n": 14,
@@ -207,7 +233,9 @@
   ],
   "answer": 3,
   "exp_hi": "Plasmid के lacZ gene वाले स्थान पर alien DNA जुड़ने से β-galactosidase enzyme नहीं बन पाता। Chromogenic substrate की उपस्थिति में recombinant colonies सफेद (white) रहती हैं, जबकि non-recombinant colonies नीली होती हैं। इसलिए white colonies चुनी जाती हैं।",
-  "figure": true
+  "figure": true,
+  "q_hi": "ऊपर दर्शाए गए plasmid में, EcoRI स्थल पर DNA का एक बाहरी (alien) टुकड़ा जोड़ा गया है। Recombinant colonies के चयन के लिए निम्नलिखित में से कौन-सी रणनीति चुनी जाएगी?",
+  "exp_en": "When alien DNA joins at the lacZ gene site of the plasmid, the β-galactosidase enzyme cannot be formed. In the presence of a chromogenic substrate, recombinant colonies remain white, while non-recombinant colonies are blue. Hence white colonies are selected."
  },
  {
   "n": 15,
@@ -222,7 +250,9 @@
   ],
   "answer": 2,
   "exp_hi": "PCR के प्रत्येक cycle में DNA की मात्रा दोगुनी हो जाती है। यदि कुल n cycles हों तो DNA अणुओं की संख्या 2ⁿ गुना हो जाती है। इसलिए सही समीकरण 2ⁿ है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Polymerase chain reaction (PCR) निम्नलिखित समीकरण के अनुसार DNA का प्रवर्धन (amplify) करता है:",
+  "exp_en": "In each cycle of PCR, the amount of DNA doubles. If there are n cycles in total, the number of DNA molecules becomes 2ⁿ times. Hence the correct equation is 2ⁿ."
  },
  {
   "n": 16,
@@ -237,7 +267,9 @@
   ],
   "answer": 1,
   "exp_hi": "Eli Lilly कंपनी ने recombinant DNA technology से human insulin बनाने के लिए E. coli bacterium का उपयोग किया। Bacterium में insulin की A और B chains के DNA डालकर दोनों chains अलग-अलग बनाई गईं और फिर उन्हें जोड़कर सक्रिय insulin तैयार किया गया।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से किस genetically engineered जीव का उपयोग Eli Lilly ने human insulin तैयार करने के लिए किया था?",
+  "exp_en": "The Eli Lilly company used the E. coli bacterium to prepare human insulin through recombinant DNA technology. The DNA for the A and B chains of insulin was inserted into the bacterium, both chains were produced separately, and then they were joined together to prepare active insulin."
  },
  {
   "n": 17,
@@ -252,7 +284,9 @@
   ],
   "answer": 2,
   "exp_hi": "Eukaryotic cell में hnRNA का processing nucleus में होता है — introns हटाकर exons जोड़े जाते हैं (splicing), 5′ सिरे पर methyl cap जुड़ता है और 3′ सिरे पर adenine residues की poly-A tail जुड़ती है। अतः B, C, D ही post-transcriptional events हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से कौन-से eukaryotic cell में post-transcriptional events हैं? A. Splicing से पहले pre-mRNA का cytoplasm में transport। B. Introns को हटाना और exons को जोड़ना। C. hnRNA के 5′ सिरे पर methyl group का जुड़ना। D. hnRNA के 3′ सिरे पर adenine residues का जुड़ना। E. दो complementary RNAs का base pairing।",
+  "exp_en": "In a eukaryotic cell, the processing of hnRNA takes place in the nucleus — introns are removed and exons are joined (splicing), a methyl cap is added at the 5′ end, and a poly-A tail of adenine residues is added at the 3′ end. Hence only B, C and D are post-transcriptional events."
  },
  {
   "n": 18,
@@ -267,7 +301,9 @@
   ],
   "answer": 3,
   "exp_hi": "इस अभिक्रिया में एक substrate (S-G) से group G हटकर दूसरे substrate (S') पर जुड़ जाता है, अर्थात् group का स्थानांतरण होता है। ऐसे enzyme Transferase वर्ग में आते हैं। Ligase दो अणुओं को जोड़ता है, Hydrolase जल की सहायता से बंध तोड़ता है और Lyase बिना जल के बंध तोड़ता है। अतः सही उत्तर Transferase है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "उस enzyme class का नाम बताइए जो सामान्यतः निम्नलिखित अभिक्रिया को catalyze करता है: S - G + S' -> S + S' - G (जहाँ G hydrogen के अलावा कोई group है, S एक substrate है और S' दूसरा substrate है)",
+  "exp_en": "In this reaction, group G is removed from one substrate (S-G) and joins the other substrate (S'), i.e. a transfer of the group takes place. Such enzymes come in the Transferase class. Ligase joins two molecules, Hydrolase breaks bonds with the help of water, and Lyase breaks bonds without water. Hence the correct answer is Transferase."
  },
  {
   "n": 19,
@@ -282,7 +318,9 @@
   ],
   "answer": 2,
   "exp_hi": "Photosynthetic pigments के रंग निश्चित होते हैं — Chlorophyll a का रंग blue-green, Chlorophyll b का yellow-green, Xanthophylls का yellow और Carotenoids का yellow से yellow-orange होता है। अतः A–3, B–1, C–2, D–4 सही मिलान है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित pigment types का उनके characteristic colours से मिलान कीजिए: सूची I (Pigments): A. Chlorophyll a, B. Chlorophyll b, C. Xanthophylls, D. Carotenoids। सूची II (Colours): 1. Yellow-green, 2. Yellow, 3. Blue-green, 4. Yellow to Yellow-orange।",
+  "exp_en": "The colours of photosynthetic pigments are fixed — Chlorophyll a is blue-green, Chlorophyll b is yellow-green, Xanthophylls are yellow, and Carotenoids are yellow to yellow-orange. Hence A–3, B–1, C–2, D–4 is the correct matching."
  },
  {
   "n": 20,
@@ -297,7 +335,9 @@
   ],
   "answer": 2,
   "exp_hi": "Polygenic trait कई genes (polygenes) द्वारा नियंत्रित होता है और प्रत्येक gene का छोटा-सा योगदान होता है, जिससे continuous variation दिखाई देता है। यह एकल gene के सरल Mendelian pattern से नहीं चलता, इसलिए इसे Non-Mendelian inheritance कहते हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Polygenic trait के लिए inheritance का pattern क्या होता है?",
+  "exp_en": "A polygenic trait is controlled by many genes (polygenes), and each gene makes a small contribution, due to which continuous variation is seen. It does not follow the simple Mendelian pattern of a single gene, so it is called Non-Mendelian inheritance."
  },
  {
   "n": 21,
@@ -312,7 +352,9 @@
   ],
   "answer": 1,
   "exp_hi": "RNA world के अनुसार RNA पहला genetic material था, क्योंकि RNA genetic material का कार्य भी करता है और ribozyme के रूप में catalyst भी बनता है। परंतु RNA अस्थिर और अधिक reactive होता है, इसलिए बाद में उससे अधिक स्थिर DNA विकसित हुआ, जिसकी double helix संरचना repair को संभव बनाती है। अतः दोनों कथन सही हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: कथन I: RNA world में, RNA को पहला genetic material माना जाता है जो आवश्यक जीवन प्रक्रियाओं को चलाने के लिए विकसित हुआ। RNA genetic material के रूप में और जीवित तंत्रों में कुछ महत्वपूर्ण जैव-रासायनिक अभिक्रियाओं के लिए catalyst के रूप में कार्य करता है। Reactive होने के कारण RNA अस्थिर होता है। कथन II: DNA, RNA से विकसित हुआ और अधिक स्थिर genetic material है। इसके double helical strands, complementary होने के कारण, repair mechanisms विकसित करके परिवर्तनों का प्रतिरोध करते हैं। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "According to the RNA world, RNA was the first genetic material, because RNA also performs the function of genetic material and also acts as a catalyst in the form of ribozyme. But RNA is unstable and more reactive, so later the more stable DNA evolved from it, whose double helix structure makes repair possible. Hence both statements are correct."
  },
  {
   "n": 22,
@@ -328,7 +370,9 @@
   "answer": 0,
   "exp_hi": "Gene cloning के लिए restriction enzymes (DNA को निश्चित स्थानों पर काटने हेतु), DNA ligase (DNA खंडों को जोड़ने हेतु) और DNA polymerase (DNA संश्लेषण हेतु) आवश्यक होते हैं। DNA mutase और DNA recombinase इस प्रक्रिया के लिए आवश्यक नहीं हैं। अतः सही उत्तर C and D only है।",
   "figure": false,
-  "recovered": true
+  "recovered": true,
+  "q_hi": "निम्नलिखित में से कौन-से enzyme(s) gene cloning के लिए आवश्यक नहीं हैं? A. Restriction enzymes, B. DNA ligase, C. DNA mutase, D. DNA recombinase, E. DNA polymerase। नीचे दिए गए विकल्पों में से सही उत्तर चुनिए:",
+  "exp_en": "For gene cloning, restriction enzymes (to cut DNA at definite sites), DNA ligase (to join DNA fragments) and DNA polymerase (for DNA synthesis) are essential. DNA mutase and DNA recombinase are not essential for this process. Hence the correct answer is C and D only."
  },
  {
   "n": 23,
@@ -343,7 +387,9 @@
   ],
   "answer": 1,
   "exp_hi": "Pteridophytes के जीवन चक्र में spore mother cells में meiosis से haploid spores बनते हैं, जिनसे prothallus (gametophyte) विकसित होता है। Gametophyte पर archegonia और antheridia बनते हैं और जल की उपस्थिति में antherozoids के स्थानांतरण से fertilisation पूर्ण होता है। कुंजी के अनुसार सही क्रम B, A, D, C, E है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे pteridophytes के जीवन चक्र की अवस्थाएँ दी गई हैं। उन्हें सही क्रम में व्यवस्थित कीजिए: A. Prothallus अवस्था। B. Spore mother cells में meiosis। C. Fertilisation। D. Gametophyte में archegonia और antheridia का निर्माण। E. जल की उपस्थिति में antherozoids का archegonia तक स्थानांतरण।",
+  "exp_en": "In the life cycle of pteridophytes, haploid spores are formed by meiosis in the spore mother cells, from which the prothallus (gametophyte) develops. Archegonia and antheridia are formed on the gametophyte, and fertilisation is completed by the transfer of antherozoids in the presence of water. According to the key, the correct sequence is B, A, D, C, E."
  },
  {
   "n": 24,
@@ -358,7 +404,9 @@
   ],
   "answer": 3,
   "exp_hi": "Human Genome Project के अनुसार Chromosome 1 मानव का सबसे बड़ा chromosome है और इसमें सबसे अधिक genes (लगभग 2968) पाए जाते हैं। इसके विपरीत Y chromosome में सबसे कम genes (लगभग 231) होते हैं। अतः सही उत्तर Chromosome 1 है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Human genome में किस chromosome में सबसे अधिक संख्या में genes होते हैं?",
+  "exp_en": "According to the Human Genome Project, Chromosome 1 is the largest chromosome of humans and the highest number of genes (about 2968) are found in it. In contrast, the Y chromosome has the fewest genes (about 231). Hence the correct answer is Chromosome 1."
  },
  {
   "n": 25,
@@ -373,7 +421,9 @@
   ],
   "answer": 2,
   "exp_hi": "Stirred-tank bioreactor में fermentation के दौरान बनने वाले झाग (foam) को तोड़ने के लिए foam breaker लगा होता है, ताकि झाग बाहर न बहे और aeration बना रहे। दिए गए चित्र में यह भाग B से दर्शाया गया है। इसलिए सही उत्तर B है।",
-  "figure": true
+  "figure": true,
+  "q_hi": "दिए गए चित्र से bioreactor के उस भाग को पहचानिए जो foam breaker के रूप में उपयोग होता है।",
+  "exp_en": "In a stirred-tank bioreactor, a foam breaker is fitted to break the foam formed during fermentation, so that the foam does not flow out and aeration is maintained. In the given figure, this part is shown by B. Therefore the correct answer is B."
  },
  {
   "n": 26,
@@ -388,7 +438,9 @@
   ],
   "answer": 0,
   "exp_hi": "Scutellum monocot बीज का cotyledon होता है और Perisperm बीज में बचा हुआ nucellus (persistent nucellus) कहलाता है। Epiblast monocot बीज से संबंधित संरचना है। इन्हीं मिलानों के आधार पर सही विकल्प A-II, B-IV, C-III, D-I है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "सूची I का सूची II से मिलान कीजिए: सूची I: A. Scutellum, B. Non-albuminous seed, C. Epiblast, D. Perisperm। सूची II: I. Persistent nucellus, II. Cotyledon of monocot seed, III. Monocot seed, IV. Rudimentary cotyledon।",
+  "exp_en": "Scutellum is the cotyledon of the monocot seed, and Perisperm is the remaining nucellus in the seed (persistent nucellus). Epiblast is a structure related to the monocot seed. On the basis of these matchings, the correct option is A-II, B-IV, C-III, D-I."
  },
  {
   "n": 27,
@@ -403,7 +455,9 @@
   ],
   "answer": 2,
   "exp_hi": "Salvinia एक जल-फर्न है, अतः Pteridophyte है; Polytrichum एक moss है, अतः Bryophyte है। Salvia पुष्पी पौधा होने से Angiosperm है और Ginkgo एक Gymnosperm है। अतः A-IV, B-III, C-I, D-II सही मिलान है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "सूची I का सूची II से मिलान कीजिए: सूची I: A. Pteridophyte, B. Bryophyte, C. Angiosperm, D. Gymnosperm। सूची II: I. Salvia, II. Ginkgo, III. Polytrichum, IV. Salvinia।",
+  "exp_en": "Salvinia is a water fern, hence it is a Pteridophyte; Polytrichum is a moss, hence a Bryophyte. Salvia is a flowering plant, hence an Angiosperm, and Ginkgo is a Gymnosperm. Hence A-IV, B-III, C-I, D-II is the correct matching."
  },
  {
   "n": 28,
@@ -418,7 +472,9 @@
   ],
   "answer": 2,
   "exp_hi": "Gemmae Marchantia जैसे bryophytes में पाए जाने वाले हरे, बहुकोशिकीय asexual buds हैं। ये gemma cups में बनते हैं और जल द्वारा बिखरकर नए पौधों को जन्म देते हैं। अतः gemmae asexual reproduction में सहायक होते हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Bryophytes में, gemmae निम्नलिखित में से किसमें सहायता करते हैं?",
+  "exp_en": "Gemmae are green, multicellular asexual buds found in bryophytes like Marchantia. They are formed in gemma cups and, on being dispersed by water, give rise to new plants. Hence gemmae help in asexual reproduction."
  },
  {
   "n": 29,
@@ -433,7 +489,9 @@
   ],
   "answer": 1,
   "exp_hi": "RNAi में target mRNA के complementary double-stranded RNA (dsRNA) द्वारा gene silencing होती है। यह dsRNA, RISC complex के माध्यम से संबंधित mRNA को नष्ट कर देता है, जिससे वह gene व्यक्त नहीं हो पाता। इसलिए complementary dsRNA ही सही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "विशिष्ट mRNA का silencing RNAi द्वारा किसके कारण संभव है:",
+  "exp_en": "In RNAi, gene silencing takes place by double-stranded RNA (dsRNA) complementary to the target mRNA. This dsRNA, through the RISC complex, destroys the related mRNA, so that the gene is not expressed. Therefore complementary dsRNA is the correct answer."
  },
  {
   "n": 30,
@@ -448,7 +506,9 @@
   ],
   "answer": 0,
   "exp_hi": "Blue-white screening में lacZ gene intact रहने पर β-galactosidase बनता है और colonies नीली होती हैं — ये non-recombinant होती हैं। DNA insert जुड़ने पर lacZ निष्क्रिय हो जाता है और colonies सफेद रहती हैं — ये recombinant होती हैं। अतः कथन I गलत और कथन II सही है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Blue और white selectable markers विकसित किए गए हैं जो chromogenic substrate की उपस्थिति में रंग उत्पन्न करने की क्षमता के आधार पर recombinant colonies को non-recombinant colonies से अलग करते हैं। इस विधि के बारे में नीचे दो कथन दिए गए हैं: कथन I: नीले रंग की colonies के plasmid में DNA insert होता है और वे recombinant colonies के रूप में पहचानी जाती हैं। कथन II: बिना नीले रंग की colonies के plasmid में DNA insert होता है और वे recombinant colonies के रूप में पहचानी जाती हैं। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "In blue-white screening, when the lacZ gene remains intact, β-galactosidase is formed and the colonies are blue — these are non-recombinant. When a DNA insert joins, lacZ becomes inactive and the colonies remain white — these are recombinant. Hence Statement I is wrong and Statement II is correct."
  },
  {
   "n": 31,
@@ -463,7 +523,9 @@
   ],
   "answer": 1,
   "exp_hi": "George Gamow ने तर्क दिया कि केवल 4 nitrogenous bases से 20 amino acids को code करने के लिए code का triplet (तीन nucleotides का समूह) होना आवश्यक है। इसलिए genetic code के triplet स्वरूप का प्रस्ताव Gamow ने दिया था।",
-  "figure": false
+  "figure": false,
+  "q_hi": "किसने प्रस्ताव दिया था कि amino acids के लिए genetic code तीन nucleotides से बना होना चाहिए?",
+  "exp_en": "George Gamow argued that to code for 20 amino acids with only 4 nitrogenous bases, the code must be a triplet (a group of three nucleotides). Therefore the triplet nature of the genetic code was proposed by Gamow."
  },
  {
   "n": 32,
@@ -478,7 +540,9 @@
   ],
   "answer": 1,
   "exp_hi": "Tapetum की कोशिकाओं का cytoplasm सघन होता है और वे प्रायः बहु-केन्द्रकीय (multinucleate) होती हैं — कथन A सही है। अधिक केन्द्रक होने से इनकी उपापचयी क्षमता बढ़ती है और ये विकसित होती microspore mother cells को बेहतर पोषण दे पाती हैं — अतः R, A की सही व्याख्या है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: एक को अभिकथन (A) और दूसरे को कारण (R) कहा गया है। अभिकथन (A): Tapetum की कोशिकाओं का cytoplasm सघन होता है और उनमें सामान्यतः एक से अधिक nucleus होता है। कारण (R): Tapetum में एक से अधिक nucleus की उपस्थिति, विकसित होती microspore mother cells को पोषण देने की दक्षता बढ़ाती है। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "The cells of the tapetum have dense cytoplasm and are generally multinucleate — Assertion A is correct. Having more than one nucleus increases their metabolic capacity, so they are able to nourish the developing microspore mother cells better — hence R is the correct explanation of A."
  },
  {
   "n": 33,
@@ -493,7 +557,9 @@
   ],
   "answer": 1,
   "exp_hi": "Auxins से parthenocarpy प्रेरित हो सकती है और plant growth regulators वृद्धि को बढ़ावा भी देते हैं व रोकते भी हैं; re-differentiation से पहले dedifferentiation आवश्यक है। परंतु abscisic acid वृद्धि-रोधक है और apical dominance पार्श्व कलियों की वृद्धि को दबाती है — इसलिए केवल A, B, C सही हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Plant growth और development पर निम्नलिखित कथन पढ़िए। A. Auxins द्वारा parthenocarpy प्रेरित की जा सकती है। B. Plant growth regulators वृद्धि को बढ़ावा देने के साथ-साथ रोकने में भी शामिल हो सकते हैं। C. Re-differentiation के लिए dedifferentiation पूर्व-आवश्यक है। D. Abscisic acid एक plant growth promoter है। E. Apical dominance, lateral buds की वृद्धि को बढ़ावा देती है।",
+  "exp_en": "Parthenocarpy can be induced by auxins, and plant growth regulators both promote and inhibit growth; dedifferentiation is necessary before re-differentiation. But abscisic acid is a growth inhibitor and apical dominance suppresses the growth of lateral buds — therefore only A, B and C are correct."
  },
  {
   "n": 34,
@@ -508,7 +574,9 @@
   ],
   "answer": 0,
   "exp_hi": "Pedigree से स्पष्ट है कि रोग X-linked recessive है। F2 पीढ़ी में carrier महिला और affected पुरुष के बच्चों में पुत्रियों का आधा भाग carrier होगा; कुल संतानों में रोगमुक्त परंतु carrier बच्चे की प्रायिकता 1/4 होती है। अतः सही उत्तर 1/4 है।",
-  "figure": true
+  "figure": true,
+  "q_hi": "दी गई pedigree की सहायता से, F3 पीढ़ी में ऐसे बच्चे के जन्म की प्रायिकता ज्ञात कीजिए जिसे कोई रोग न हो परंतु वह carrier हो (gene के एक allele में disease mutation हो)।",
+  "exp_en": "It is clear from the pedigree that the disease is X-linked recessive. In the F2 generation, among the children of a carrier female and an affected male, half of the daughters will be carriers; in the total offspring, the probability of a disease-free but carrier child is 1/4. Hence the correct answer is 1/4."
  },
  {
   "n": 35,
@@ -524,7 +592,9 @@
   "answer": 2,
   "exp_hi": "Prokaryotes में transcription की समाप्ति (termination) के लिए rho (ρ) factor आवश्यक होता है; यह RNA polymerase को DNA template से अलग होने में सहायता करता है। Sigma (σ) factor transcription के प्रारंभ (initiation) से जुड़ा होता है। अतः सही उत्तर rho factor है।",
   "figure": false,
-  "recovered": true
+  "recovered": true,
+  "q_hi": "Transcription के termination के लिए कौन-सा factor महत्वपूर्ण है?",
+  "exp_en": "In prokaryotes, the rho (ρ) factor is essential for the termination of transcription; it helps RNA polymerase to separate from the DNA template. The sigma (σ) factor is associated with the initiation of transcription. Hence the correct answer is the rho factor."
  },
  {
   "n": 36,
@@ -540,7 +610,9 @@
   "answer": 1,
   "exp_hi": "वायु और जल परागित पुष्पों को कीटों को आकर्षित करने की आवश्यकता नहीं होती, इसलिए वे रंगीन नहीं होते और nectar भी नहीं बनाते; अतः कथन A सत्य है। इन पुष्पों में परागकण अत्यधिक मात्रा में बनते हैं, इसलिए कथन R भी सत्य है, परंतु अधिक परागकण बनना रंग और nectar के अभाव की व्याख्या नहीं करता। अतः सही उत्तर है कि दोनों सत्य हैं, परंतु R, A की सही व्याख्या नहीं है।",
   "figure": false,
-  "recovered": true
+  "recovered": true,
+  "q_hi": "नीचे दो कथन दिए गए हैं: एक को अभिकथन (A) और दूसरे को कारण (R) कहा गया है। अभिकथन (A): वायु और जल परागित दोनों प्रकार के पुष्प बहुत रंगीन नहीं होते और nectar उत्पन्न नहीं करते। कारण (R): वायु और जल परागित पुष्पों में पुष्प अत्यधिक मात्रा में pollen grains उत्पन्न करते हैं। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सही उत्तर चुनिए:",
+  "exp_en": "Wind and water pollinated flowers do not need to attract insects, so they are not colourful and do not produce nectar either; hence Assertion A is true. In these flowers, pollen grains are produced in enormous amounts, so Reason R is also true, but producing more pollen grains does not explain the absence of colour and nectar. Hence the correct answer is that both are true, but R is not the correct explanation of A."
  },
  {
   "n": 37,
@@ -555,7 +627,9 @@
   ],
   "answer": 2,
   "exp_hi": "Adenosine एक nucleoside है, क्योंकि यह adenine और ribose sugar से बना होता है। Adenylic acid (AMP) में phosphate group भी होता है, इसलिए यह एक nucleotide है। Adenine एक nitrogenous base है और Alanine एक amino acid है। अतः सही मिलान A-III, B-II, C-I, D-IV है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "सूची I का सूची II से मिलान कीजिए: सूची I - A. Adenosine, B. Adenylic acid, C. Adenine, D. Alanine; सूची II - I. Nitrogen base, II. Nucleotide, III. Nucleoside, IV. Amino acid। सभी सही मिलानों वाला विकल्प चुनिए।",
+  "exp_en": "Adenosine is a nucleoside, because it is made of adenine and ribose sugar. Adenylic acid (AMP) also has a phosphate group, so it is a nucleotide. Adenine is a nitrogenous base and Alanine is an amino acid. Hence the correct matching is A-III, B-II, C-I, D-IV."
  },
  {
   "n": 38,
@@ -570,7 +644,9 @@
   ],
   "answer": 0,
   "exp_hi": "RuBisCO photosynthesis की Calvin cycle का प्रमुख enzyme है। यह RuBP के carboxylation को उत्प्रेरित करता है, जिससे CO₂ का स्थिरीकरण होकर 3-PGA बनता है — यही carbon fixation का पहला चरण है। इसलिए यही कथन सत्य है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "RuBisCO के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
+  "exp_en": "RuBisCO is the main enzyme of the Calvin cycle of photosynthesis. It catalyzes the carboxylation of RuBP, by which CO₂ is fixed and 3-PGA is formed — this is the first step of carbon fixation. Therefore this statement is true."
  },
  {
   "n": 39,
@@ -585,7 +661,9 @@
   ],
   "answer": 3,
   "exp_hi": "Enzyme का protein भाग Apoenzyme कहलाता है, जो अकेला निष्क्रिय होता है। Apoenzyme के साथ non-protein भाग (cofactor या coenzyme) जुड़ने पर ही सक्रिय holoenzyme बनता है। Prosthetic group वह non-protein भाग है जो enzyme से दृढ़ता से बंधा रहता है। अतः सही उत्तर Apoenzyme है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "किसी enzyme का protein भाग कहलाता है:",
+  "exp_en": "The protein portion of an enzyme is called Apoenzyme, which alone is inactive. Only when a non-protein part (cofactor or coenzyme) joins the apoenzyme does the active holoenzyme form. The prosthetic group is the non-protein part that remains firmly bound to the enzyme. Hence the correct answer is Apoenzyme."
  },
  {
   "n": 40,
@@ -600,7 +678,9 @@
   ],
   "answer": 2,
   "exp_hi": "Gymnosperms में बीज फलों के भीतर बंद नहीं होते — ovules तथा बीज ovary wall से ढके नहीं होते, इसलिए बीज naked (नग्न) होते हैं। इनमें flowers भी नहीं होते, प्रजनन cones द्वारा होता है। अतः naked seeds ही इनकी पहचान है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से कौन-सी gymnosperms की characteristic feature है?",
+  "exp_en": "In gymnosperms, seeds are not enclosed inside fruits — the ovules and seeds are not covered by the ovary wall, so the seeds are naked. They do not have flowers either; reproduction takes place through cones. Hence naked seeds are their identifying feature."
  },
  {
   "n": 41,
@@ -615,7 +695,9 @@
   ],
   "answer": 3,
   "exp_hi": "Zygomorphic flower केवल एक ही तल से दो समान भागों में बँट सकता है (bilateral symmetry)। Pea (मटर) का पुष्प zygomorphic होता है, जबकि Chilli, Petunia और Datura के पुष्प actinomorphic (त्रिज्या-सममित) होते हैं। इसलिए Pea सही उत्तर है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "निम्नलिखित में से कौन-सा zygomorphic flower का उदाहरण है?",
+  "exp_en": "A zygomorphic flower can be divided into two equal halves by only one plane (bilateral symmetry). The flower of Pea is zygomorphic, whereas the flowers of Chilli, Petunia and Datura are actinomorphic (radially symmetrical). Therefore Pea is the correct answer."
  },
  {
   "n": 42,
@@ -631,7 +713,9 @@
   "answer": 0,
   "exp_hi": "Histones क्षारीय (basic) proteins होते हैं, क्योंकि इनमें basic amino acids Lysine और Arginine प्रचुर मात्रा में पाए जाते हैं। इन्हीं धनावेशित amino acids के कारण histones ऋणावेशित DNA से बंधकर nucleosome बनाते हैं। अतः सही उत्तर Lysine and Arginine है।",
   "figure": false,
-  "recovered": true
+  "recovered": true,
+  "q_hi": "Histones में प्रचुर मात्रा में होते हैं -",
+  "exp_en": "Histones are basic proteins, because the basic amino acids Lysine and Arginine are found in them in abundance. Due to these positively charged amino acids, histones bind with the negatively charged DNA to form nucleosomes. Hence the correct answer is Lysine and Arginine."
  },
  {
   "n": 43,
@@ -646,7 +730,9 @@
   ],
   "answer": 3,
   "exp_hi": "R और Y genes independent assortment दर्शाते हैं। RRYY × rryy से F₁ पीढ़ी में सभी संतानें RrYy (round yellow) होती हैं और F₁ के स्व-परागण से F₂ पीढ़ी में dihybrid phenotypic ratio 9:3:3:1 प्राप्त होता है। इसलिए सही उत्तर 9:3:3:1 है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "Genes R और Y independent assortment का पालन करते हैं। यदि RRYY round yellow seeds और rryy wrinkled green seeds उत्पन्न करते हैं, तो F2 पीढ़ी का phenotypic ratio क्या होगा?",
+  "exp_en": "Genes R and Y show independent assortment. From RRYY × rryy, all offspring in the F₁ generation are RrYy (round yellow), and on self-pollination of F₁, the dihybrid phenotypic ratio 9:3:3:1 is obtained in the F₂ generation. Therefore the correct answer is 9:3:3:1."
  },
  {
   "n": 44,
@@ -661,7 +747,9 @@
   ],
   "answer": 3,
   "exp_hi": "कथन I सही है — gel electrophoresis से अलग किए गए DNA fragments को elution द्वारा निकालकर recombinant DNA के निर्माण में उपयोग किया जा सकता है। दी गई कुंजी के अनुसार कथन II सही नहीं माना गया है। अतः सही विकल्प कथन I सही परंतु कथन II गलत है।",
-  "figure": false
+  "figure": false,
+  "q_hi": "नीचे दो कथन दिए गए हैं: कथन I: Gel electrophoresis से निकाले गए DNA fragments का उपयोग recombinant DNA के निर्माण में किया जा सकता है। कथन II: Agarose gel में छोटे आकार के DNA fragments anode के पास देखे जाते हैं जबकि बड़े fragments wells के पास पाए जाते हैं। उपर्युक्त कथनों के आधार पर, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनिए:",
+  "exp_en": "Statement I is correct — DNA fragments separated by gel electrophoresis can be extracted by elution and used in the construction of recombinant DNA. According to the given key, Statement II has not been considered correct. Hence the correct option is: Statement I is correct but Statement II is incorrect."
  },
  {
   "n": 45,
@@ -676,6 +764,8 @@
   ],
   "answer": 3,
   "exp_hi": "Angiosperm में megaspore mother cell एक meiotic division से 4 haploid megaspores बनाती है, जिनमें से केवल एक functional megaspore बचता है। यह functional megaspore 3 mitotic divisions द्वारा 8-nucleate embryo sac (mature female gametophyte) बनाता है। अतः 1 meiosis और 3 mitosis आवश्यक हैं।",
-  "figure": false
+  "figure": false,
+  "q_hi": "किसी angiosperm पौधे में megaspore mother cell से परिपक्व female gametophyte के विकास के लिए कितने meiotic और mitotic divisions होने आवश्यक हैं?",
+  "exp_en": "In an angiosperm, the megaspore mother cell forms 4 haploid megaspores by one meiotic division, of which only one functional megaspore survives. This functional megaspore forms the 8-nucleate embryo sac (mature female gametophyte) by 3 mitotic divisions. Hence 1 meiosis and 3 mitosis are required."
  }
 ]
