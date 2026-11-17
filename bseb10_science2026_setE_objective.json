@@ -1,0 +1,1682 @@
+[
+ {
+  "answer": 3,
+  "exp_hi": "सिनेबार (HgS) पारे (Mercury) का प्रमुख अयस्क है। बॉक्साइट Aluminium का तथा हेमाटाइट और मैग्नेटाइट Iron के अयस्क हैं। अतः उत्तर सिनेबार है।",
+  "figure": null,
+  "n": 1,
+  "options": [
+   "बॉक्साइट",
+   "हेमाटाइट",
+   "मैग्नेटाइट",
+   "सिनेबार"
+  ],
+  "options_en": [
+   "Bauxite",
+   "Haematite",
+   "Magnetite",
+   "Cinnabar"
+  ],
+  "q_en": "An ore of mercury is",
+  "q_hi": "पारे का अयस्क है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "अभिक्रियाशीलता श्रेणी में क्रम Mg > Al > Zn > Fe होता है, अर्थात् इन चारों में Iron (Fe) सबसे कम अभिक्रियाशील धातु है। अतः उत्तर Fe है।",
+  "figure": null,
+  "n": 2,
+  "options": [
+   "Mg",
+   "Fe",
+   "Zn",
+   "Al"
+  ],
+  "options_en": [
+   "Mg",
+   "Fe",
+   "Zn",
+   "Al"
+  ],
+  "q_en": "Which of the following is the least reactive metal ?",
+  "q_hi": "निम्नलिखित में से कौन सबसे कम अभिक्रियाशील धातु है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "Hydrocarbon वे यौगिक होते हैं जिनमें केवल Hydrogen और Carbon होते हैं। C₄H₁₀ (Butane) में केवल C और H हैं, जबकि H₂O, CO₂ और HNO₃ में Oxygen या Nitrogen भी है। अतः उत्तर C₄H₁₀ है।",
+  "figure": null,
+  "n": 3,
+  "options": [
+   "H₂O",
+   "C₄H₁₀",
+   "CO₂",
+   "HNO₃"
+  ],
+  "options_en": [
+   "H₂O",
+   "C₄H₁₀",
+   "CO₂",
+   "HNO₃"
+  ],
+  "q_en": "Which of the following is a hydrocarbon ?",
+  "q_hi": "निम्नलिखित में से कौन हाइड्रोकार्बन है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "—OH समूह Alcohol का क्रियाशील (Functional) समूह है; जैसे Ethanol (C₂H₅OH)। कीटोन में >C=O और एल्डिहाइड में —CHO समूह होता है। अतः उत्तर अल्कोहल का है।",
+  "figure": null,
+  "n": 4,
+  "options": [
+   "कीटोन का",
+   "अल्कोहल का",
+   "एल्डिहाइड का",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Ketone",
+   "Alcohol",
+   "Aldehyde",
+   "None of these"
+  ],
+  "q_en": "— OH is the functional group of",
+  "q_hi": "— OH क्रियाशील समूह है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "मिथेन (CH₄) में Carbon अपने चारों Hydrogen परमाणुओं के साथ एक-एक सह-संयोजक (Covalent) बंधन बनाता है, अर्थात् कुल 4 बंधन होते हैं। अतः उत्तर 4 है।",
+  "figure": null,
+  "n": 5,
+  "options": [
+   "2",
+   "4",
+   "6",
+   "8"
+  ],
+  "options_en": [
+   "2",
+   "4",
+   "6",
+   "8"
+  ],
+  "q_en": "How many covalent bonds are there in methane ?",
+  "q_hi": "मिथेन में कितने सह-संयोजक बंधन होते हैं ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "C₆₀ फुलेरीन (Buckminsterfullerene) की आकृति फुटबॉल जैसी गोलाकार होती है, इसलिए इसे 'बकीबॉल' भी कहा जाता है। अतः उत्तर फुटबॉल है।",
+  "figure": null,
+  "n": 6,
+  "options": [
+   "नाशपाती",
+   "डमरू",
+   "फुटबॉल",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Pear",
+   "Damru",
+   "Football",
+   "None of these"
+  ],
+  "q_en": "The shape of C₆₀ Fullerene is similar to which of the following ?",
+  "q_hi": "C₆₀ फुलेरीन की आकृति निम्नलिखित में किसके जैसी होती है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "Carbon का परमाणु क्रमांक 6 है और इसके बाहरी कोश में 4 इलेक्ट्रॉन होते हैं; यह आवर्त सारणी के वर्ग (Group) 14 का सदस्य है। अतः उत्तर 14 है।",
+  "figure": null,
+  "n": 7,
+  "options": [
+   "3",
+   "13",
+   "6",
+   "14"
+  ],
+  "options_en": [
+   "3",
+   "13",
+   "6",
+   "14"
+  ],
+  "q_en": "Carbon belongs to which group of the periodic table ?",
+  "q_hi": "कार्बन आवर्त सारणी के किस वर्ग का सदस्य है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "आधुनिक आवर्त सारणी में कुल 7 आवर्त (Periods) और 18 वर्ग (Groups) होते हैं। अतः उत्तर 7 है।",
+  "figure": null,
+  "n": 8,
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "options_en": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "q_en": "How many periods are there in the periodic table ?",
+  "q_hi": "आवर्त सारणी में कितने आवर्त होते हैं ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "फ्यूज तार, MCB और भूमिगत (Earth) तार — ये तीनों विद्युत सुरक्षा युक्तियाँ हैं, जबकि Voltmeter केवल Voltage मापने का यंत्र है, सुरक्षा युक्ति नहीं है। अतः उत्तर वोल्टमीटर है।",
+  "figure": null,
+  "n": 9,
+  "options": [
+   "फ्यूज तार",
+   "एम.सी.बी.",
+   "भूमिगत तार",
+   "वोल्टमीटर"
+  ],
+  "options_en": [
+   "Fuse wire",
+   "MCB",
+   "Ground wire",
+   "Voltmeter"
+  ],
+  "q_en": "Which is not a safety device ?",
+  "q_hi": "कौन एक सुरक्षा युक्ति नहीं है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "LPG (Liquefied Petroleum Gas) का प्रमुख अवयव ब्यूटेन (Butane) होता है। अतः उत्तर ब्यूटेन है।",
+  "figure": null,
+  "n": 10,
+  "options": [
+   "मिथेन",
+   "ब्यूटेन",
+   "एथेन",
+   "प्रोपेन"
+  ],
+  "options_en": [
+   "Methane",
+   "Butane",
+   "Ethane",
+   "Propane"
+  ],
+  "q_en": "The main component of domestic gas ( LPG ) is",
+  "q_hi": "घरेलू गैस (LPG) का प्रमुख अवयव है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "कोयला और पेट्रोलियम पदार्थ दोनों ही जीवाश्म ईंधन हैं — ये लाखों वर्षों में जीवों के अवशेषों के दबने से बने हैं। अतः उत्तर (A) और (B) दोनों है।",
+  "figure": null,
+  "n": 11,
+  "options": [
+   "पेट्रोलियम पदार्थ",
+   "कोयला",
+   "(A) और (B) दोनों",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Petroleum products",
+   "Coal",
+   "Both (A) and (B)",
+   "None of these"
+  ],
+  "q_en": "An example of fossil fuel is",
+  "q_hi": "जीवाश्म ईंधन का उदाहरण है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "जिस अभिक्रिया में उत्पाद बनने के साथ-साथ ऊष्मा निकलती है, उसे ऊष्माक्षेपी (Exothermic) अभिक्रिया कहते हैं; जैसे ईंधन का दहन। अतः उत्तर ऊष्माक्षेपी है।",
+  "figure": null,
+  "n": 12,
+  "options": [
+   "ऊष्माक्षेपी",
+   "ऊष्माशोषी",
+   "प्रकाश संश्लेषण",
+   "उपचयन"
+  ],
+  "options_en": [
+   "exothermic",
+   "endothermic",
+   "photosynthesis",
+   "oxidation"
+  ],
+  "q_en": "The reaction in which heat is evolved along with the formation of products is called",
+  "q_hi": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "2Cu + O₂ → 2CuO में Copper के साथ Oxygen जुड़ रही है, अर्थात् Copper का उपचयन (Oxidation) हो रहा है। अतः यह उपचयन अभिक्रिया है।",
+  "figure": null,
+  "n": 13,
+  "options": [
+   "उपचयन",
+   "अपचयन",
+   "विस्थापन",
+   "उदासीनीकरण"
+  ],
+  "options_en": [
+   "Oxidation",
+   "Reduction",
+   "Displacement",
+   "Neutralization"
+  ],
+  "q_en": "The reaction 2Cu + O₂ ⟶ 2CuO is which type of chemical reaction ?",
+  "q_hi": "अभिक्रिया 2Cu + O₂ ⟶ 2CuO किस प्रकार की रासायनिक अभिक्रिया है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "O₃ (Ozone) एक प्रबल उपचायक (Oxidant) है क्योंकि यह आसानी से Oxygen देकर दूसरे पदार्थ का उपचयन करता है, जबकि H₂, CO और H₂S अपचायक की भाँति व्यवहार करते हैं। अतः उत्तर O₃ है।",
+  "figure": null,
+  "n": 14,
+  "options": [
+   "H₂",
+   "CO",
+   "O₃",
+   "H₂S"
+  ],
+  "options_en": [
+   "H₂",
+   "CO",
+   "O₃",
+   "H₂S"
+  ],
+  "q_en": "Which of the following is an oxidant ?",
+  "q_hi": "निम्नांकित में कौन-सा उपचायक है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "वैद्युत अपघटन (Electrolysis) में ऋणायन (Anions) ऐनोड पर पहुँचकर अपने इलेक्ट्रॉन मुक्त करते हैं, अर्थात् इलेक्ट्रॉन ऐनोड पर मुक्त होते हैं। अतः उत्तर ऐनोड पर है।",
+  "figure": null,
+  "n": 15,
+  "options": [
+   "ऐनोड पर",
+   "कैथोड पर",
+   "(A) और (B) दोनों",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "anode",
+   "cathode",
+   "both (A) and (B)",
+   "none of these"
+  ],
+  "q_en": "In electrolysis, electrons are liberated at",
+  "q_hi": "वैद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "अभिक्रियाशीलता श्रेणी में Mg, Zn से ऊपर है (Mg > Zn > Fe > Sn > Cu), इसलिए केवल Mg ही Zinc Sulphate के विलयन से जिंक को विस्थापित कर सकता है। अतः उत्तर Mg है।",
+  "figure": null,
+  "n": 16,
+  "options": [
+   "Sn",
+   "Fe",
+   "Mg",
+   "Cu"
+  ],
+  "options_en": [
+   "Sn",
+   "Fe",
+   "Mg",
+   "Cu"
+  ],
+  "q_en": "Which of the following metals can displace zinc from zinc sulphate solution ?",
+  "q_hi": "निम्नांकित में कौन-सा धातु जिंक सल्फेट के विलयन से जिंक को विस्थापित कर सकता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "समूह (Group) 18 के तत्व उत्कृष्ट (Noble) गैसें होते हैं; He (Helium) इसी समूह का तत्व है। H समूह 1 में और Cl समूह 17 में आता है। अतः उत्तर He है।",
+  "figure": null,
+  "n": 17,
+  "options": [
+   "H",
+   "He",
+   "Au",
+   "Cl"
+  ],
+  "options_en": [
+   "H",
+   "He",
+   "Au",
+   "Cl"
+  ],
+  "q_en": "The element of the group 18 of the periodic table is",
+  "q_hi": "आवर्त सारणी के समूह 18 का तत्व है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "बोरॉन (B) का परमाणु क्रमांक 5 है और इसका परमाणु भार (Atomic Mass) लगभग 11 u होता है। अतः उत्तर 11 है।",
+  "figure": null,
+  "n": 18,
+  "options": [
+   "14",
+   "11",
+   "12",
+   "13"
+  ],
+  "options_en": [
+   "14",
+   "11",
+   "12",
+   "13"
+  ],
+  "q_en": "What is the atomic mass of Boron ?",
+  "q_hi": "बोरॉन का परमाणु भार क्या है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "CO₂ एक प्रमुख ग्रीनहाउस गैस है जो वायुमंडल में ऊष्मा रोककर पृथ्वी का ताप बढ़ाती है और Global Warming के लिए उत्तरदायी है। अतः उत्तर CO₂ है।",
+  "figure": null,
+  "n": 19,
+  "options": [
+   "O₂",
+   "NH₃",
+   "N₂",
+   "CO₂"
+  ],
+  "options_en": [
+   "O₂",
+   "NH₃",
+   "N₂",
+   "CO₂"
+  ],
+  "q_en": "Which gas is responsible for global warming ?",
+  "q_hi": "ग्लोबल वार्मिंग के लिए कौन गैस उत्तरदायी है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "चिपको आंदोलन पेड़ों को कटने से बचाने के लिए प्रारंभ किया गया था; इसका नेतृत्व सुन्दरलाल बहुगुणा और चंडी प्रसाद भट्ट दोनों ने किया था। अतः उत्तर (B) और (C) दोनों है।",
+  "figure": null,
+  "n": 20,
+  "options": [
+   "अमृता देवी विश्नोई",
+   "सुन्दरलाल बहुगुणा",
+   "चंडी प्रसाद भट्ट",
+   "(B) और (C) दोनों"
+  ],
+  "options_en": [
+   "Amrita Devi Bishnoi",
+   "Sunderlal Bahuguna",
+   "Chandi Prasad Bhatt",
+   "Both (B) and (C)"
+  ],
+  "q_en": "Under whose leadership was the 'Chipko Movement' started ?",
+  "q_hi": "'चिपको आंदोलन' किसके नेतृत्व में प्रारंभ किया गया था ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "पृथ्वी पर ऊर्जा का मुख्य स्रोत सूर्य है; सूर्य-प्रकाश से ही प्रकाश संश्लेषण, पवन और जल-चक्र चलते हैं। अतः उत्तर सूर्य-प्रकाश है।",
+  "figure": null,
+  "n": 21,
+  "options": [
+   "कोयला",
+   "पानी",
+   "वायु",
+   "सूर्य-प्रकाश"
+  ],
+  "options_en": [
+   "Coal",
+   "Water",
+   "Air",
+   "Sunlight"
+  ],
+  "q_en": "Which of the following is the main source of energy on earth ?",
+  "q_hi": "पृथ्वी पर ऊर्जा का मुख्य स्रोत निम्नलिखित में से कौन है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'कट्टा' कर्नाटक की पारंपरिक जल संग्रहण व्यवस्था है, जिसमें बहते पानी को रोकने के लिए अस्थायी बाँध बनाया जाता है। अतः उत्तर कर्नाटक है।",
+  "figure": null,
+  "n": 22,
+  "options": [
+   "केरल",
+   "कर्नाटक",
+   "तमिलनाडु",
+   "बिहार"
+  ],
+  "options_en": [
+   "Kerala",
+   "Karnataka",
+   "Tamil Nadu",
+   "Bihar"
+  ],
+  "q_en": "Katta is the water storage system of which state ?",
+  "q_hi": "कट्टा किस राज्य की जल संग्रहण व्यवस्था है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सौर सेल (Solar Cell) में सिलिकन (Silicon) का उपयोग होता है, जो सूर्य-प्रकाश को सीधे विद्युत ऊर्जा में बदलता है। अतः उत्तर सिलिकन का है।",
+  "figure": null,
+  "n": 23,
+  "options": [
+   "यूरेनियम का",
+   "प्लूटोनियम का",
+   "सिलिकन का",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Uranium",
+   "Plutonium",
+   "Silicon",
+   "None of these"
+  ],
+  "q_en": "Which is used in solar cells ?",
+  "q_hi": "सौर सेल में किसका उपयोग होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "अमीबा अपने कूटपाद (Pseudopodia) फैलाकर भोजन के कण को चारों ओर से घेर लेता है और भोजन रसधानी बनाकर उसे ग्रहण करता है। अतः उत्तर कूटपाद द्वारा है।",
+  "figure": null,
+  "n": 24,
+  "options": [
+   "दाँत द्वारा",
+   "भोजन रसधानी द्वारा",
+   "कूटपाद द्वारा",
+   "केन्द्रक द्वारा"
+  ],
+  "options_en": [
+   "teeth",
+   "food vacuole",
+   "pseudopodia",
+   "the nucleus"
+  ],
+  "q_en": "Amoeba takes in its food by",
+  "q_hi": "अमीबा अपना भोजन ग्रहण करता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "परावर्तन के नियम (Law of Reflection) के अनुसार आपतन कोण सदैव परावर्तन कोण के बराबर होता है (∠i = ∠r)। अतः उत्तर परावर्तन का नियम के अनुसार है।",
+  "figure": null,
+  "n": 25,
+  "options": [
+   "न्यूटन का नियम के अनुसार",
+   "स्नेल का नियम के अनुसार",
+   "परावर्तन का नियम के अनुसार",
+   "फर्माट का सिद्धांत के अनुसार"
+  ],
+  "options_en": [
+   "Newton's law",
+   "Snell's law",
+   "Law of reflection",
+   "Fermat's principle"
+  ],
+  "q_en": "The angle of incidence equals the angle of reflection according to",
+  "q_hi": "आपतन कोण परावर्तन कोण के बराबर होता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "समतल दर्पण द्वारा बना प्रतिबिंब आभासी (Virtual), सीधा तथा वस्तु के बराबर आकार का होता है और उसे पर्दे पर नहीं लिया जा सकता। अतः उत्तर आभासी है।",
+  "figure": null,
+  "n": 26,
+  "options": [
+   "वास्तविक",
+   "आभासी",
+   "(A) और (B) दोनों",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Real",
+   "Virtual",
+   "Both (A) and (B)",
+   "None of these"
+  ],
+  "q_en": "The image formed by a plane mirror is",
+  "q_hi": "समतल दर्पण द्वारा बना प्रतिबिंब होता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "पिन होल कैमरे में छोटे छिद्र से होकर पर्दे पर वस्तु का उल्टा और वास्तविक प्रतिबिंब (Image) बनता है। अतः उत्तर प्रतिबिंब है।",
+  "figure": null,
+  "n": 27,
+  "options": [
+   "छाया",
+   "प्रतिबिंब",
+   "होलोग्राम",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Shadow",
+   "Image",
+   "Hologram",
+   "None of these"
+  ],
+  "q_en": "Which of the following is made in a pin hole camera ?",
+  "q_hi": "पिन होल कैमरा में निम्नलिखित में क्या बनता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "परावर्तन के नियम से परावर्तन कोण = आपतन कोण होता है। प्रतिस्थापन → आपतन कोण 45° है, इसलिए परावर्तित किरण एवं अभिलंब के बीच का कोण (परावर्तन कोण) भी 45° होगा। अतः उत्तर 45° है।",
+  "figure": null,
+  "n": 28,
+  "options": [
+   "45° से कम",
+   "45°",
+   "45° से अधिक",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "less than 45°",
+   "45°",
+   "more than 45°",
+   "none of these"
+  ],
+  "q_en": "If the angle of incidence is 45°, then the angle between the reflected ray and the normal will be",
+  "q_hi": "यदि आपतन कोण 45° हो तो परावर्तित किरण एवं अभिलंब के बीच कोण होगा",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "केरोसिन का अपवर्तनांक (लगभग 1.44) जल के अपवर्तनांक (1.33) से अधिक होता है, इसलिए प्रकाश के लिए केरोसिन, जल की अपेक्षा सघन माध्यम है। अतः उत्तर केरोसिन है।",
+  "figure": null,
+  "n": 29,
+  "options": [
+   "जल",
+   "हवा",
+   "केरोसिन",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Water",
+   "Air",
+   "Kerosene",
+   "None of these"
+  ],
+  "q_en": "Which of the following is a relatively denser medium for light ?",
+  "q_hi": "निम्नलिखित में कौन-सा प्रकाश के लिए अपेक्षाकृत सघन माध्यम है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "चाँद बहुत अधिक दूरी पर है, इसलिए उत्तल दर्पण से उसका प्रतिबिंब फोकस के निकट बिंदु-आकार का बनता है; अतः उसके प्रतिबिंब का आवर्धन (Magnification) नगण्य होता है। अतः उत्तर नगण्य है।",
+  "figure": null,
+  "n": 30,
+  "options": [
+   "1",
+   "−1",
+   "नगण्य",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "1",
+   "−1",
+   "negligible",
+   "None of these"
+  ],
+  "q_en": "The magnification of the image of the moon by a convex mirror will be",
+  "q_hi": "उत्तल दर्पण द्वारा चाँद के प्रतिबिंब का आवर्धन होगा",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "प्रकाश की चाल निर्वात (Vacuum) में सबसे अधिक, 3 × 10⁸ m/s होती है; किसी भी भौतिक माध्यम में यह इससे कम होती है। अतः उत्तर निर्वात में है।",
+  "figure": null,
+  "n": 31,
+  "options": [
+   "वायु में",
+   "काँच में",
+   "निर्वात में",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "air",
+   "glass",
+   "vacuum",
+   "none of these"
+  ],
+  "q_en": "The speed of light is maximum in",
+  "q_hi": "प्रकाश की चाल सबसे अधिक होती है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "प्रकाश तंतु (Optical Fibre) में प्रकाश बार-बार पूर्ण आंतरिक परावर्तन (Total Internal Reflection) द्वारा तंतु के अंदर ही आगे बढ़ता है। अतः उत्तर पूर्ण आंतरिक परावर्तन है।",
+  "figure": null,
+  "n": 32,
+  "options": [
+   "पूर्ण आंतरिक परावर्तन",
+   "परावर्तन",
+   "वर्ण-विक्षेपण",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "total internal reflection",
+   "reflection",
+   "dispersion of colours",
+   "none of these"
+  ],
+  "q_en": "In an optical fibre, the light undergoes",
+  "q_hi": "प्रकाश तंतु में प्रकाश में होता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "जड़ की वृद्धि गुरुत्व की दिशा में (धनात्मक) और तने की वृद्धि गुरुत्व के विपरीत दिशा में (ऋणात्मक) होती है — दोनों ही गुरुत्वानुवर्तन (Geotropism) के उदाहरण हैं। अतः उत्तर (A) और (B) दोनों है।",
+  "figure": null,
+  "n": 33,
+  "options": [
+   "तना की वृद्धि",
+   "जड़ की वृद्धि",
+   "फल की वृद्धि",
+   "(A) और (B) दोनों"
+  ],
+  "options_en": [
+   "growth of stem",
+   "growth of root",
+   "growth of fruit",
+   "both (A) and (B)"
+  ],
+  "q_en": "An example of geotropism is",
+  "q_hi": "गुरुत्वानुवर्तन का उदाहरण है",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "द्विखंडन (Binary Fission) द्वारा अमीबा, पैरामीशियम और युग्लीना — तीनों एककोशिकीय जीव अलैंगिक जनन करते हैं। अतः उत्तर इनमें से सभी है।",
+  "figure": null,
+  "n": 34,
+  "options": [
+   "अमीबा में",
+   "पैरामीशियम में",
+   "युग्लीना में",
+   "इनमें से सभी"
+  ],
+  "options_en": [
+   "Amoeba",
+   "Paramoecium",
+   "Euglena",
+   "All of these"
+  ],
+  "q_en": "In which of the following does binary fission occur ?",
+  "q_hi": "निम्नलिखित में किसमें द्विखंडन होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "एड्स (HIV द्वारा) और गोनोरिया दोनों लैंगिक संपर्क से संचारित रोग हैं, जबकि टाइफाइड दूषित जल और भोजन से फैलता है। अतः उत्तर (A) और (B) दोनों है।",
+  "figure": null,
+  "n": 35,
+  "options": [
+   "एड्स",
+   "गोनोरिया",
+   "टाइफाइड",
+   "(A) और (B) दोनों"
+  ],
+  "options_en": [
+   "AIDS",
+   "Gonorrhoea",
+   "Typhoid",
+   "Both (A) and (B)"
+  ],
+  "q_en": "Which of the following is a sexually transmitted disease ?",
+  "q_hi": "निम्नलिखित में कौन लैंगिक-जनन संचारित रोग है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "निषेचन के बाद बीजांड (Ovule) ही बीज में विकसित होता है, जबकि अंडाशय (Ovary) की दीवार फल बनाती है। अतः उत्तर बीजांड से है।",
+  "figure": null,
+  "n": 36,
+  "options": [
+   "बीजांड से",
+   "परागकोश से",
+   "अंडाशय से",
+   "पुंकेसर से"
+  ],
+  "options_en": [
+   "Ovule",
+   "Anther",
+   "Ovary",
+   "Stamen"
+  ],
+  "q_en": "The seed develops from",
+  "q_hi": "बीज विकसित होता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "मानव में कुल 23 जोड़ी गुणसूत्र होते हैं, जिनमें 22 जोड़ी ऑटोसोम (Autosomes) और 1 जोड़ी लिंग गुणसूत्र होते हैं। अतः उत्तर 22 जोड़ी है।",
+  "figure": null,
+  "n": 37,
+  "options": [
+   "22 जोड़ी",
+   "23 जोड़ी",
+   "11 जोड़ी",
+   "24 जोड़ी"
+  ],
+  "options_en": [
+   "22 pairs",
+   "23 pairs",
+   "11 pairs",
+   "24 pairs"
+  ],
+  "q_en": "The number of autosomes in humans is",
+  "q_hi": "मानव में ऑटोसोम की संख्या होती है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "DDT एक जैव अनिम्नीकरणीय (Non-biodegradable) पदार्थ है — यह सूक्ष्मजीवों द्वारा विघटित नहीं होता, जबकि कागज और वाहित मलजल जैव निम्नीकरणीय हैं। अतः उत्तर DDT है।",
+  "figure": null,
+  "n": 38,
+  "options": [
+   "DDT",
+   "कागज",
+   "वाहित मलजल",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "DDT",
+   "Paper",
+   "Sewage",
+   "None of these"
+  ],
+  "q_en": "Which of the following is a non-biodegradable substance ?",
+  "q_hi": "निम्नांकित में कौन एक जैव अनिम्नीकरणीय पदार्थ है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "खाद्य श्रृंखला में उत्पादक प्रथम पोषी-स्तर, शाकाहारी द्वितीय पोषी-स्तर और मांसाहारी तृतीय पोषी-स्तर पर होते हैं। बाघ एक मांसाहारी उपभोक्ता है। अतः उत्तर तृतीय पोषी-स्तर का है।",
+  "figure": null,
+  "n": 39,
+  "options": [
+   "प्रथम पोषी-स्तर का",
+   "द्वितीय पोषी-स्तर का",
+   "तृतीय पोषी-स्तर का",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "First trophic level",
+   "Second trophic level",
+   "Third trophic level",
+   "None of these"
+  ],
+  "q_en": "Tiger is a consumer of",
+  "q_hi": "बाघ उपभोक्ता है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "बैक्टीरिया (Bacteria) मृत जीवों और अपशिष्ट पदार्थों को विघटित करने वाले अपघटक (Decomposer) हैं। शैवाल उत्पादक है और अमरबेल परजीवी है। अतः उत्तर बैक्टीरिया है।",
+  "figure": null,
+  "n": 40,
+  "options": [
+   "शैवाल",
+   "गोलकृमि",
+   "बैक्टीरिया",
+   "अमरबेल"
+  ],
+  "options_en": [
+   "Algae",
+   "Round worm",
+   "Bacteria",
+   "Amarbel"
+  ],
+  "q_en": "Which of the following is a decomposer ?",
+  "q_hi": "निम्नलिखित में कौन एक अपघटक है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "पाचन की क्रिया छोटी आँत (Small Intestine) में पूर्ण होती है और यहीं पचे हुए भोजन का अवशोषण भी होता है। अतः उत्तर छोटी आँत में है।",
+  "figure": null,
+  "n": 41,
+  "options": [
+   "आमाशय में",
+   "कोलोन में",
+   "ग्रासनली में",
+   "छोटी आँत में"
+  ],
+  "options_en": [
+   "In the stomach",
+   "In the colon",
+   "In the oesophagus",
+   "In the small intestine"
+  ],
+  "q_en": "In which part of the alimentary canal is the digestion process completed ?",
+  "q_hi": "आहारनाल के किस भाग में पाचन क्रिया पूर्ण होती है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "गोबरछत्ता (Mushroom) एक कवक है जो मृत कार्बनिक पदार्थों से भोजन प्राप्त करता है, अर्थात् यह मृतोपजीवी (Saprophyte) है। अमरबेल एक परजीवी पौधा है। अतः उत्तर गोबरछत्ता है।",
+  "figure": null,
+  "n": 42,
+  "options": [
+   "अमीबा",
+   "अमरबेल",
+   "उड़हुल",
+   "गोबरछत्ता"
+  ],
+  "options_en": [
+   "Amoeba",
+   "Amarbel",
+   "Hibiscus",
+   "Mushroom"
+  ],
+  "q_en": "An example of saprophyte is",
+  "q_hi": "मृतोपजीवी का उदाहरण है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "पित्त रस (Bile Juice) यकृत (Liver) से स्रावित होता है; यह वसा के बड़े गोलों को छोटे-छोटे गोलों में तोड़ने (Emulsification) में सहायता करता है। अतः उत्तर यकृत है।",
+  "figure": null,
+  "n": 43,
+  "options": [
+   "अग्न्याशय",
+   "आमाशय",
+   "यकृत",
+   "लार ग्रंथि"
+  ],
+  "options_en": [
+   "Pancreas",
+   "Stomach",
+   "Liver",
+   "Salivary gland"
+  ],
+  "q_en": "Bile juice is secreted from",
+  "q_hi": "पित्त रस किससे स्रावित होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "मत्स्य (मछली) का मुख्य श्वसन अंग गिल्स (Gills) है, जिनके द्वारा वह जल में घुली हुई Oxygen ग्रहण करती है। अतः उत्तर गिल्स है।",
+  "figure": null,
+  "n": 44,
+  "options": [
+   "फेफड़ा",
+   "ट्रैकिया",
+   "नाक",
+   "गिल्स"
+  ],
+  "options_en": [
+   "Lungs",
+   "Trachea",
+   "Nose",
+   "Gills"
+  ],
+  "q_en": "The main respiratory organ of fish is",
+  "q_hi": "मत्स्य का मुख्य श्वसन अंग है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "ग्लूकोस (Glucose) को कोशिकीय ईंधन (Cellular Fuel) कहा जाता है, क्योंकि कोशिकीय श्वसन में इसके विखंडन से कोशिका को ऊर्जा (ATP) प्राप्त होती है। अतः उत्तर ग्लूकोस को है।",
+  "figure": null,
+  "n": 45,
+  "options": [
+   "वसा को",
+   "प्रोटीन को",
+   "ग्लूकोस को",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Fat",
+   "Protein",
+   "Glucose",
+   "None of these"
+  ],
+  "q_en": "What is called cellular fuel ?",
+  "q_hi": "कोशिकीय ईंधन किसे कहा जाता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "किण्वन (Fermentation) क्रिया यीस्ट (Yeast) में पाई जाती है, जिसमें ग्लूकोस का अनॉक्सी विखंडन होकर Alcohol और CO₂ बनते हैं। अतः उत्तर यीस्ट में है।",
+  "figure": null,
+  "n": 46,
+  "options": [
+   "अमीबा में",
+   "यीस्ट में",
+   "हाइड्रा में",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Amoeba",
+   "Yeast",
+   "Hydra",
+   "None of these"
+  ],
+  "q_en": "Fermentation process is found in",
+  "q_hi": "किण्वन क्रिया पाई जाती है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "रक्त (Blood) एक तरल संयोजी ऊतक (Connective Tissue) है, जो शरीर के विभिन्न भागों में पदार्थों का परिवहन करता है। अतः उत्तर संयोजी ऊतक है।",
+  "figure": null,
+  "n": 47,
+  "options": [
+   "संयोजी ऊतक",
+   "एपीथेलियम",
+   "वसा",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Connective tissue",
+   "Epithelium",
+   "Fat",
+   "None of these"
+  ],
+  "q_en": "What is blood ?",
+  "q_hi": "रक्त क्या है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "मानव-हृदय परिवहन तंत्र (Transportation System) का भाग है; यह रक्त को पंप करके पूरे शरीर में पहुँचाता है। अतः उत्तर परिवहन है।",
+  "figure": null,
+  "n": 48,
+  "options": [
+   "पाचन",
+   "श्वसन",
+   "उत्सर्जन",
+   "परिवहन"
+  ],
+  "options_en": [
+   "Digestion",
+   "Respiration",
+   "Excretion",
+   "Transportation"
+  ],
+  "q_en": "The human heart is a part of which system ?",
+  "q_hi": "मानव-हृदय किस तंत्र का भाग है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "Formula → श्रेणीक्रम (Series) संयोजन में कुल प्रतिरोध R = R₁ + R₂ + R₃ होता है, अर्थात् सभी प्रतिरोध जुड़ जाते हैं, इसलिए प्रतिरोध का मान बढ़ता है। समानांतर क्रम में कुल प्रतिरोध घटता है। अतः उत्तर श्रेणीक्रम है।",
+  "figure": null,
+  "n": 49,
+  "options": [
+   "श्रेणीक्रम",
+   "समानांतर क्रम",
+   "(A) और (B) दोनों",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Series",
+   "Parallel",
+   "Both (A) and (B)",
+   "None of these"
+  ],
+  "q_en": "Which of the following combinations increases the value of resistance ?",
+  "q_hi": "निम्नलिखित में किस संयोजन द्वारा प्रतिरोध का मान बढ़ता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "धातुओं में विद्युत धारा मुक्त इलेक्ट्रॉनों (Electrons) के प्रवाह के कारण बहती है; प्रोटॉन और न्यूट्रॉन नाभिक में बँधे रहते हैं और गति नहीं करते। अतः आवेश-वाहक इलेक्ट्रॉन होते हैं।",
+  "figure": null,
+  "n": 50,
+  "options": [
+   "इलेक्ट्रॉन",
+   "प्रोटॉन",
+   "न्यूट्रॉन",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Electrons",
+   "Protons",
+   "Neutrons",
+   "None of these"
+  ],
+  "q_en": "The charge carriers in metal are",
+  "q_hi": "धातु में आवेश-वाहक होते हैं",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "शुद्ध जल में आयन लगभग नहीं होते, इसलिए यह विद्युत का कुचालक (Bad Conductor) होता है; लवण मिला जल ही चालक बनता है। अतः उत्तर कुचालक है।",
+  "figure": null,
+  "n": 51,
+  "options": [
+   "चालक",
+   "कुचालक",
+   "अतिचालक",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Conductor",
+   "Bad conductor",
+   "Super conductor",
+   "None of these"
+  ],
+  "q_en": "What kind of conductor is pure water ?",
+  "q_hi": "शुद्ध जल किस प्रकार का चालक होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "चाँदी (Silver) विद्युत का सर्वाधिक सुचालक है; चालकता का क्रम Silver > Copper > Aluminium होता है। अतः उत्तर चाँदी है।",
+  "figure": null,
+  "n": 52,
+  "options": [
+   "ऐलुमिनियम",
+   "ताँबा",
+   "चाँदी",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Aluminium",
+   "Copper",
+   "Silver",
+   "None of these"
+  ],
+  "q_en": "Which of the following is the best conductor ?",
+  "q_hi": "निम्नलिखित में कौन-सा सर्वाधिक सुचालक है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "विद्युत-धारा के चुम्बकीय प्रभाव की खोज ओस्टेंड (Oersted) ने की थी — धारावाही तार के निकट रखी चुम्बकीय सुई धारा बहने पर विचलित हो जाती है। अतः उत्तर ओस्टेंड है।",
+  "figure": null,
+  "n": 53,
+  "options": [
+   "ओस्टेंड",
+   "एम्पियर",
+   "बोर",
+   "फैराडे"
+  ],
+  "options_en": [
+   "Oersted",
+   "Ampere",
+   "Bohr",
+   "Faraday"
+  ],
+  "q_en": "Who discovered the magnetic effect of electric current ?",
+  "q_hi": "विद्युत-धारा के चुम्बकीय प्रभाव की खोज किसने की ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "फ्लेमिंग के बाएँ हाथ के नियम में मध्यमा उंगली चालक में विद्युत धारा (Current) की दिशा दर्शाती है; तर्जनी चुम्बकीय क्षेत्र की और अंगूठा चालक पर लगने वाले बल की दिशा दर्शाता है। अतः उत्तर चालक में विद्युत धारा की दिशा है।",
+  "figure": null,
+  "n": 54,
+  "options": [
+   "चालक पर आरोपित बल की दिशा",
+   "चालक में विद्युत धारा की दिशा",
+   "चुम्बकीय क्षेत्र की दिशा",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Direction of electric force applied on the conductor",
+   "Direction of electric current in the conductor",
+   "Direction of the magnetic field",
+   "None of these"
+  ],
+  "q_en": "What does the middle finger of Fleming's left hand rule indicate ?",
+  "q_hi": "फ्लेमिंग के बाएँ हाथ के नियम में मध्यमा उंगली क्या दर्शाती है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "भारत में घरों में आपूर्ति की जाने वाली प्रत्यावर्ती धारा (AC) की आवृत्ति (Frequency) 50 Hz होती है। अतः उत्तर 50 Hz है।",
+  "figure": null,
+  "n": 55,
+  "options": [
+   "50 Hz",
+   "60 Hz",
+   "70 Hz",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "50 Hz",
+   "60 Hz",
+   "70 Hz",
+   "None of these"
+  ],
+  "q_en": "The frequency of alternating current supplied to houses in India is",
+  "q_hi": "भारत में घरों में आपूर्ति की गई प्रत्यावर्ती धारा की आवृत्ति होती है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "फ्यूज तार का गलनांक (Melting Point) कम होना चाहिए, ताकि परिपथ में अधिक Current बहते ही वह पिघलकर परिपथ तोड़ दे और उपकरण सुरक्षित रहें। अतः उत्तर कम है।",
+  "figure": null,
+  "n": 56,
+  "options": [
+   "कम",
+   "उच्च",
+   "बहुत उच्च",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "low",
+   "high",
+   "very high",
+   "none of these"
+  ],
+  "q_en": "The melting point of a fuse should be",
+  "q_hi": "एक फ्यूज का गलनांक होना चाहिए",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "पौधों में जाइलम (Xylem) ऊतक जल और खनिज लवणों का संवहन जड़ से पत्तियों तक करता है, जबकि फ्लोएम (Phloem) भोजन का संवहन करता है। अतः उत्तर जाइलम है।",
+  "figure": null,
+  "n": 57,
+  "options": [
+   "जाइलम",
+   "फ्लोएम",
+   "चालनी नलिकाएँ",
+   "मूलरोम"
+  ],
+  "options_en": [
+   "Xylem",
+   "Phloem",
+   "Sieve tube",
+   "Root hair"
+  ],
+  "q_en": "Which of the following is water-conducting tissue in plants ?",
+  "q_hi": "निम्नलिखित में कौन पौधों में जल-संवाहक ऊतक है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "वृक्क (Kidney) का प्रधान कार्य रक्त को छानकर उसमें से अपशिष्ट पदार्थ निकालना और मूत्र बनाना है, अर्थात् उत्सर्जन (Excretion)। अतः उत्तर उत्सर्जन है।",
+  "figure": null,
+  "n": 58,
+  "options": [
+   "प्रजनन",
+   "पाचन",
+   "ATP निर्माण",
+   "उत्सर्जन"
+  ],
+  "options_en": [
+   "reproduction",
+   "digestion",
+   "formation of ATP",
+   "excretion"
+  ],
+  "q_en": "The main function of kidney is",
+  "q_hi": "वृक्क का प्रधान कार्य है",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "पादप अपशिष्ट पदार्थ छाल में, कोशिकीय रिक्तिकाओं (Vacuoles) में तथा पत्तियों में संचित रहते हैं, जो बाद में गिरकर अलग हो जाते हैं। अतः उत्तर इनमें से सभी है।",
+  "figure": null,
+  "n": 59,
+  "options": [
+   "छाल में",
+   "कोशिकीय रिक्तिकाओं में",
+   "पत्तियों में",
+   "इनमें से सभी"
+  ],
+  "options_en": [
+   "bark",
+   "cellular vacuoles",
+   "leaves",
+   "all of these"
+  ],
+  "q_en": "Plant wastes are stored in the",
+  "q_hi": "पादप अपशिष्ट संचित रहते हैं",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "गोंद, टैनिन और रेजिन — ये सभी पौधों के उत्सर्जी (Excretory) पदार्थ हैं, जो पौधे विभिन्न भागों में संचित करते हैं। अतः उत्तर इनमें से सभी है।",
+  "figure": null,
+  "n": 60,
+  "options": [
+   "गोंद",
+   "टैनिन",
+   "रेजिन",
+   "इनमें से सभी"
+  ],
+  "options_en": [
+   "glue",
+   "tanin",
+   "resin",
+   "all of these"
+  ],
+  "q_en": "The excretory substances of plants are",
+  "q_hi": "पौधों के उत्सर्जी पदार्थ हैं",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "एमीनो अम्लों (प्रोटीन) के विखंडन से NH₃ (Ammonia) बनता है, जो यकृत में यूरिया में बदलकर शरीर से उत्सर्जित होता है। अतः उत्तर NH₃ है।",
+  "figure": null,
+  "n": 61,
+  "options": [
+   "CO",
+   "CO₂",
+   "NH₃",
+   "SO₂"
+  ],
+  "options_en": [
+   "CO",
+   "CO₂",
+   "NH₃",
+   "SO₂"
+  ],
+  "q_en": "Which of the following is formed by the breakdown of amino acid ?",
+  "q_hi": "निम्नलिखित में से कौन एमीनो अम्ल के विखंडन से बनता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "इंसुलिन (Insulin) हार्मोन की कमी से मधुमेह (Diabetes) रोग होता है, जिसमें रक्त में Glucose का स्तर सामान्य से बढ़ जाता है। अतः उत्तर मधुमेह है।",
+  "figure": null,
+  "n": 62,
+  "options": [
+   "घेंघा",
+   "क्रेटिनिज्म",
+   "बौनापन",
+   "मधुमेह"
+  ],
+  "options_en": [
+   "Goitre",
+   "Cretinism",
+   "Dwarfism",
+   "Diabetes"
+  ],
+  "q_en": "Which of the following diseases is caused by the deficiency of insulin ?",
+  "q_hi": "इंसुलिन की कमी के कारण निम्नलिखित में से कौन रोग होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "छींक का आना, मिठाई देखकर मुँह में पानी आना और आँखों का झपकना — ये सभी अनैच्छिक प्रतिवर्ती क्रियाएँ (Reflex Actions) हैं, जो मेरुरज्जु द्वारा नियंत्रित होती हैं। अतः उत्तर इनमें से सभी है।",
+  "figure": null,
+  "n": 63,
+  "options": [
+   "छींक का आना",
+   "मिठाई देखकर मुँह में पानी आना",
+   "आँखों का झपकना",
+   "इनमें से सभी"
+  ],
+  "options_en": [
+   "Sneezing",
+   "Mouth watering after seeing sweets",
+   "Blinking of eyes",
+   "All of these"
+  ],
+  "q_en": "Which of the following is an example of reflex action ?",
+  "q_hi": "निम्नलिखित में कौन एक प्रतिवर्ती क्रिया का उदाहरण है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "एस्ट्रोजेन (Estrogen) एक मादा हार्मोन (Female Hormone) है, जो अंडाशय से स्रावित होता है और मादा जनन अंगों के विकास को नियंत्रित करता है। अतः उत्तर मादा हार्मोन है।",
+  "figure": null,
+  "n": 64,
+  "options": [
+   "नर हार्मोन",
+   "मादा हार्मोन",
+   "पाचक रस",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Male hormone",
+   "Female hormone",
+   "Digestive juice",
+   "None of these"
+  ],
+  "q_en": "What is estrogen ?",
+  "q_hi": "एस्ट्रोजेन क्या है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "संगमरमर (Marble) मुख्यतः Calcium Carbonate होता है, जिसका रासायनिक सूत्र CaCO₃ है। अतः उत्तर CaCO₃ है।",
+  "figure": null,
+  "n": 65,
+  "options": [
+   "MgCO₃",
+   "CaO",
+   "CaCO₃",
+   "CuSO₄"
+  ],
+  "options_en": [
+   "MgCO₃",
+   "CaO",
+   "CaCO₃",
+   "CuSO₄"
+  ],
+  "q_en": "Chemical formula of marble is",
+  "q_hi": "संगमरमर का रासायनिक सूत्र है",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "H₂SO₄, HCl और HNO₃ — तीनों ही प्रबल अम्ल (Strong Acids) हैं, क्योंकि ये जलीय विलयन में पूर्णतः आयनित हो जाते हैं। अतः उत्तर इनमें से सभी है।",
+  "figure": null,
+  "n": 66,
+  "options": [
+   "H₂SO₄",
+   "HCl",
+   "HNO₃",
+   "इनमें से सभी"
+  ],
+  "options_en": [
+   "H₂SO₄",
+   "HCl",
+   "HNO₃",
+   "All of these"
+  ],
+  "q_en": "Which of the following is a strong acid ?",
+  "q_hi": "निम्नांकित में कौन प्रबल अम्ल है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "जो विलयन नीले लिटमस पत्र को लाल कर देता है वह अम्लीय होता है, अर्थात् उसका pH 7 से कम होगा। दिए गए विकल्पों में केवल 5 ही 7 से कम है। अतः उत्तर 5 है।",
+  "figure": null,
+  "n": 67,
+  "options": [
+   "5",
+   "7",
+   "8",
+   "11"
+  ],
+  "options_en": [
+   "5",
+   "7",
+   "8",
+   "11"
+  ],
+  "q_en": "A solution turns blue litmus paper, red. Its pH will be probably",
+  "q_hi": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH सम्भवतः होगा",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "बुझा हुआ चुना (Slaked Lime) Ca(OH)₂ होता है; यह बिना बुझे चुने (CaO) में जल मिलाने से बनता है। अतः उत्तर Ca(OH)₂ है।",
+  "figure": null,
+  "n": 68,
+  "options": [
+   "CaO",
+   "Ca(OH)₂",
+   "CaCO₃",
+   "Ca"
+  ],
+  "options_en": [
+   "CaO",
+   "Ca(OH)₂",
+   "CaCO₃",
+   "Ca"
+  ],
+  "q_en": "Which of the following is slaked lime ?",
+  "q_hi": "निम्नलिखित में से कौन-सा बुझा हुआ चुना है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "ऑक्सैलिक अम्ल (Oxalic Acid) का प्राकृतिक स्रोत टमाटर है; संतरे में Citric Acid और इमली में Tartaric Acid पाया जाता है। अतः उत्तर टमाटर है।",
+  "figure": null,
+  "n": 69,
+  "options": [
+   "संतरा",
+   "टमाटर",
+   "सिरका",
+   "इमली"
+  ],
+  "options_en": [
+   "Orange",
+   "Tomato",
+   "Vinegar",
+   "Tamarind"
+  ],
+  "q_en": "Which of the following is a natural source of oxalic acid ?",
+  "q_hi": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "Fe, Al और Au धातुएँ हैं, जबकि C (Carbon) एक अधातु (Non-metal) है। अतः उत्तर C है।",
+  "figure": null,
+  "n": 70,
+  "options": [
+   "Fe",
+   "C",
+   "Al",
+   "Au"
+  ],
+  "options_en": [
+   "Fe",
+   "C",
+   "Al",
+   "Au"
+  ],
+  "q_en": "Which of the following is a non-metal ?",
+  "q_hi": "निम्नलिखित में से कौन अधातु है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "हीलियम (He) का परमाणु क्रमांक 2 है; इसकी एकमात्र (बाहरी) कक्षा में 2 इलेक्ट्रॉन रहते हैं, जिससे इसका Duplet पूर्ण रहता है। अतः उत्तर 2 है।",
+  "figure": null,
+  "n": 71,
+  "options": [
+   "1",
+   "2",
+   "3",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "1",
+   "2",
+   "3",
+   "None of these"
+  ],
+  "q_en": "How many electrons are there in the outer orbit of helium atom ?",
+  "q_hi": "हीलियम परमाणु के बाहरी कक्षा में कितने इलेक्ट्रॉन रहते हैं ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "सीसा (Lead) और टीन (Tin) की मिश्रधातु को सोल्डर (Solder) कहते हैं; इसका गलनांक कम होता है, इसलिए यह जोड़ने और फ्यूज तार के काम आता है। अतः उत्तर सोल्डर है।",
+  "figure": null,
+  "n": 72,
+  "options": [
+   "सोल्डर",
+   "स्टील",
+   "कांसा",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Solder",
+   "Steel",
+   "Bronze",
+   "None of these"
+  ],
+  "q_en": "An alloy of lead and tin is",
+  "q_hi": "सीसा और टीन का मिश्रधातु है",
+  "subject": "Science"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "उत्तल लेंस (Convex Lens) समांतर प्रकाश किरणों को एक बिंदु पर अभिसरित करता है, इसलिए इसे अभिसारी लेंस (Converging Lens) कहते हैं। अतः उत्तर उत्तल लेंस है।",
+  "figure": null,
+  "n": 73,
+  "options": [
+   "अवतल लेंस",
+   "उत्तल लेंस",
+   "(A) और (B) दोनों",
+   "बाइफोकल"
+  ],
+  "options_en": [
+   "Concave lens",
+   "Convex lens",
+   "Both (A) and (B)",
+   "Bifocal"
+  ],
+  "q_en": "Which of the following lenses is called a converging lens ?",
+  "q_hi": "निम्नलिखित में किस लेंस को अभिसारी लेंस कहते हैं ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "Formula → लेंस की क्षमता P = 1/f होती है, जहाँ Focal Length (f) मीटर में ली जाती है। इसलिए क्षमता का SI मात्रक m⁻¹ होता है, जिसे Dioptre भी कहते हैं। अतः उत्तर m⁻¹ है।",
+  "figure": null,
+  "n": 74,
+  "options": [
+   "cm⁻¹",
+   "cm",
+   "m⁻¹",
+   "m"
+  ],
+  "options_en": [
+   "cm⁻¹",
+   "cm",
+   "m⁻¹",
+   "m"
+  ],
+  "q_en": "The SI unit of power of the lens is",
+  "q_hi": "लेंस की क्षमता का SI मात्रक है",
+  "subject": "Science"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "मानव नेत्र में नेत्र लेंस से रेटिना की दूरी लगभग 2.5 cm होती है और प्रतिबिंब सदैव रेटिना पर ही बनता है। अतः उत्तर 2.5 cm है।",
+  "figure": null,
+  "n": 75,
+  "options": [
+   "25 cm",
+   "1 cm",
+   "2.5 cm",
+   "5 cm"
+  ],
+  "options_en": [
+   "25 cm",
+   "1 cm",
+   "2.5 cm",
+   "5 cm"
+  ],
+  "q_en": "The distance between the eye lens and the retina is approximately",
+  "q_hi": "नेत्र लेंस से रेटिना की दूरी लगभग है",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "मानव नेत्र में उत्तल (Convex) प्रकार का लेंस पाया जाता है, जो रेटिना पर वास्तविक और उल्टा प्रतिबिंब बनाता है। अतः उत्तर उत्तल है।",
+  "figure": null,
+  "n": 76,
+  "options": [
+   "उत्तल",
+   "अवतल",
+   "वलयाकार",
+   "बाइफोकल"
+  ],
+  "options_en": [
+   "Convex",
+   "Concave",
+   "Cylindrical",
+   "Bifocal"
+  ],
+  "q_en": "Which type of lens is found in the human eye ?",
+  "q_hi": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "निकट-दृष्टि दोष (Myopia) में प्रतिबिंब रेटिना से पहले बन जाता है; इसे ठीक करने के लिए अवतल लेंस (Concave Lens) का उपयोग किया जाता है। अतः उत्तर अवतल लेंस है।",
+  "figure": null,
+  "n": 77,
+  "options": [
+   "अवतल लेंस",
+   "उत्तल लेंस",
+   "समोत्तल लेंस",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Concave lens",
+   "Convex lens",
+   "Planoconvex lens",
+   "None of these"
+  ],
+  "q_en": "Which of the following lenses is used to correct near sightedness ?",
+  "q_hi": "निम्नलिखित में से कौन-सा लेंस निकट-दृष्टि दोष को ठीक करने के लिए उपयोग किया जाता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "प्रकीर्णन (Scattering) तरंगदैर्ध्य पर निर्भर करता है — लाल वर्ण की तरंगदैर्ध्य सबसे अधिक होती है, इसलिए वायुमंडल में इसका प्रकीर्णन सबसे कम होता है। अतः उत्तर लाल है।",
+  "figure": null,
+  "n": 78,
+  "options": [
+   "लाल",
+   "नीला",
+   "पीला",
+   "हरा"
+  ],
+  "options_en": [
+   "Red",
+   "Blue",
+   "Yellow",
+   "Green"
+  ],
+  "q_en": "Which colour of light is scattered least in the atmosphere ?",
+  "q_hi": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन सबसे कम होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "काँच के प्रिज्म में लाल रंग की तरंगदैर्ध्य सबसे अधिक होने के कारण उसका विचलन (Deviation) न्यूनतम होता है, जबकि बैंगनी रंग का विचलन अधिकतम होता है। अतः उत्तर लाल है।",
+  "figure": null,
+  "n": 79,
+  "options": [
+   "लाल",
+   "पीला",
+   "नीला",
+   "बैंगनी"
+  ],
+  "options_en": [
+   "Red",
+   "Yellow",
+   "Blue",
+   "Violet"
+  ],
+  "q_en": "Which colour deviates minimum in a glass prism ?",
+  "q_hi": "काँच के प्रिज्म में किस रंग का विचलन न्यूनतम होता है ?",
+  "subject": "Science"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "वोल्टमीटर, विद्युत सेल और ऐमीटर — इन सभी में धन (+) और ऋण (−) टर्मिनल के चिह्न होते हैं, जबकि परिनालिका (Solenoid) में ऐसे चिह्न नहीं होते। अतः उत्तर परिनालिका में है।",
+  "figure": null,
+  "n": 80,
+  "options": [
+   "वोल्टमीटर में",
+   "विद्युत सेल में",
+   "ऐमीटर में",
+   "परिनालिका में"
+  ],
+  "options_en": [
+   "Voltmeter",
+   "An electric cell",
+   "Ammeter",
+   "Solenoid"
+  ],
+  "q_en": "Which instrument does not have positive ( + ) and negative ( − ) signs ?",
+  "q_hi": "किस उपकरण में धन ( + ) और ऋण ( − ) के चिह्न नहीं होता है ?",
+  "subject": "Science"
+ }
+]
