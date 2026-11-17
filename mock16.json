@@ -1,0 +1,556 @@
+{
+ "mock_no": 16,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "फेयोल के अनुसार सोपान-शृंखला (स्केलर चेन) का कठोर पालन संचार में देरी करता है। इसलिए समान स्तर के दो कर्मचारियों को अपने वरिष्ठों की जानकारी में सीधे संपर्क करने की छूट दी गई, जिसे उन्होंने 'गैंगप्लांक' अर्थात स्तर-सेतु कहा।",
+   "options": {
+    "A": "अनुशासन का सिद्धांत / Principle of Discipline",
+    "B": "समान स्तर के दो कर्मचारियों के बीच सोपान-शृंखला को लांघकर सीधे संपर्क हेतु बनाया गया सेतु / A bridge for direct communication between two employees at the same level, bypassing the scalar chain",
+    "C": "आदेश की एकता / Unity of Command",
+    "D": "केंद्रीयकरण का सिद्धांत / Principle of Centralisation"
+   },
+   "q": "हेनरी फेयोल के 'गैंगप्लांक' (Gangplank) सिद्धांत से क्या तात्पर्य है? / What does Henri Fayol's 'Gangplank' principle imply?"
+  },
+  {
+   "answer": "A",
+   "explanation": "फेयोल के 'निर्देशन की एकता' सिद्धांत के अनुसार समान उद्देश्य वाली गतिविधियों के लिए एक ही प्रमुख और एक ही योजना होनी चाहिए। इससे भिन्न, 'आदेश की एकता' में एक कर्मचारी को एक ही अधिकारी से आदेश मिलने की बात होती है।",
+   "options": {
+    "A": "समान उद्देश्य वाली गतिविधियों के समूह के लिए एक प्रमुख और एक ही योजना / One head and one plan for a group of activities having the same objective",
+    "B": "एक कर्मचारी को केवल एक ही अधिकारी से आदेश मिलना / An employee should receive orders from one superior only",
+    "C": "सभी निर्णय केवल शीर्ष स्तर पर लिए जाना / All decisions taken only at the top level",
+    "D": "प्रत्येक कर्मचारी का एक ही कार्य होना / Every employee should have only one task"
+   },
+   "q": "'निर्देशन की एकता' (Unity of Direction) सिद्धांत का अर्थ है— / The principle of 'Unity of Direction' means—"
+  },
+  {
+   "answer": "C",
+   "explanation": "फेयोल की पुस्तक 1916 में फ़्रेंच भाषा में 'एडमिनिस्ट्रेशन इंडस्ट्रियेल एट जेनेराले' शीर्षक से प्रकाशित हुई थी। इसका अंग्रेज़ी अनुवाद 'इंडस्ट्रियल एंड जनरल एडमिनिस्ट्रेशन' नाम से 1949 में आया।",
+   "options": {
+    "A": "अंग्रेज़ी, 1911 / English, 1911",
+    "B": "जर्मन, 1925 / German, 1925",
+    "C": "फ़्रेंच, 1916 / French, 1916",
+    "D": "फ़्रेंच, 1949 / French, 1949"
+   },
+   "q": "हेनरी फेयोल की प्रसिद्ध कृति 'Industrial and General Administration' मूलतः किस भाषा में और किस वर्ष प्रकाशित हुई थी? / In which language and year was Henri Fayol's famous work 'Industrial and General Administration' originally published?"
+  },
+  {
+   "answer": "D",
+   "explanation": "लूथर गुलिक के पॉस्डकॉर्ब में पी = नियोजन, ओ = संगठन, एस = कर्मिक व्यवस्था, डी = निर्देशन, को = समन्वय, आर = प्रतिवेदन और बी = बजट-निर्माण है। विभिन्न विभागों की गतिविधियों में तालमेल ही समन्वय है।",
+   "options": {
+    "A": "नियंत्रण / Controlling",
+    "B": "संचार / Communication",
+    "C": "सहयोग / Co-operation",
+    "D": "समन्वय / Co-ordination"
+   },
+   "q": "POSDCORB में 'Co' अक्षर किसका प्रतीक है? / In POSDCORB, the letters 'Co' stand for—"
+  },
+  {
+   "answer": "A",
+   "explanation": "पॉस्डकॉर्ब में 'आर' का अर्थ रिपोर्टिंग अर्थात प्रतिवेदन है — अधीनस्थों द्वारा वरिष्ठों को कार्य-प्रगति की जानकारी देना तथा अभिलेखों, शोध व निरीक्षण द्वारा स्वयं को सूचित रखना।",
+   "options": {
+    "A": "प्रतिवेदन / Reporting",
+    "B": "अभिलेखन / Recording",
+    "C": "भर्ती / Recruitment",
+    "D": "पुनर्गठन / Reorganisation"
+   },
+   "q": "POSDCORB में 'R' अक्षर किसका प्रतीक है? / In POSDCORB, the letter 'R' stands for—"
+  },
+  {
+   "answer": "B",
+   "explanation": "1937 में प्रकाशित 'पेपर्स ऑन द साइंस ऑफ़ एडमिनिस्ट्रेशन' का संपादन लूथर गुलिक और लिंडल उर्विक ने किया था। इसी ग्रंथ में गुलिक का पॉस्डकॉर्ब वाला प्रसिद्ध लेख 'नोट्स ऑन द थ्योरी ऑफ़ ऑर्गनाइज़ेशन' प्रकाशित हुआ था।",
+   "options": {
+    "A": "फेयोल व टेलर / Fayol and Taylor",
+    "B": "लूथर गुलिक व लिंडल उर्विक / Luther Gulick and Lyndall Urwick",
+    "C": "मायो व रोथलिसबर्गर / Mayo and Roethlisberger",
+    "D": "साइमन व बर्नार्ड / Simon and Barnard"
+   },
+   "q": "'Papers on the Science of Administration' (1937) नामक प्रसिद्ध ग्रंथ के संपादक कौन थे? / Who edited the famous volume 'Papers on the Science of Administration' (1937)?"
+  },
+  {
+   "answer": "C",
+   "explanation": "वैज्ञानिक प्रबंधन के सिद्धांतों को व्यवस्थित रूप देने वाली यह पुस्तक 1911 में फ्रेडरिक विंसलो टेलर द्वारा लिखी गई थी। इसमें समय-अध्ययन और विभेदक मज़दूरी दर जैसी अवधारणाएँ प्रस्तुत हुईं।",
+   "options": {
+    "A": "हेनरी गैंट / Henry Gantt",
+    "B": "फ़्रैंक गिलब्रेथ / Frank Gilbreth",
+    "C": "एफ़. डब्ल्यू. टेलर / F. W. Taylor",
+    "D": "हेनरी फेयोल / Henri Fayol"
+   },
+   "q": "'The Principles of Scientific Management' (1911) नामक पुस्तक के लेखक कौन हैं? / Who is the author of the book 'The Principles of Scientific Management' (1911)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "फ्रैंक गिलब्रेथ ने अनावश्यक शारीरिक गतियों को घटाकर कार्य-दक्षता बढ़ाने हेतु गति अध्ययन दिया और गतियों के मूल तत्वों को 'थर्ब्लिग' कहा। टेलर का क्षेत्र समय अध्ययन था।",
+   "options": {
+    "A": "फ़्रैंक गिलब्रेथ / Frank Gilbreth",
+    "B": "एफ़. डब्ल्यू. टेलर / F. W. Taylor",
+    "C": "हेनरी गैंट / Henry Gantt",
+    "D": "हैरिंगटन एमर्सन / Harrington Emerson"
+   },
+   "q": "'गति अध्ययन' (Motion Study) के प्रवर्तक किसे माना जाता है? / Who is regarded as the pioneer of 'Motion Study'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "1924 से 1932 के बीच एल्टन मायो व उनके साथियों द्वारा किए गए हॉथोर्न प्रयोग अमेरिका के शिकागो स्थित वेस्टर्न इलेक्ट्रिक कंपनी के हॉथोर्न संयंत्र में हुए थे। इन्हीं से मानव-संबंध विचारधारा का विकास हुआ।",
+   "options": {
+    "A": "फ़ोर्ड मोटर कंपनी / Ford Motor Company",
+    "B": "जनरल इलेक्ट्रिक कंपनी / General Electric Company",
+    "C": "बेथलेहम स्टील कंपनी / Bethlehem Steel Company",
+    "D": "वेस्टर्न इलेक्ट्रिक कंपनी, शिकागो / Western Electric Company, Chicago"
+   },
+   "q": "प्रसिद्ध हॉथोर्न प्रयोग (Hawthorne Experiments) किस कंपनी के संयंत्र में किए गए थे? / The famous Hawthorne Experiments were conducted at the plant of which company?"
+  },
+  {
+   "answer": "B",
+   "explanation": "हॉथोर्न प्रयोगों में पाया गया कि भौतिक परिस्थितियों के बदलाव से अधिक, कर्मचारियों पर दिया गया ध्यान और अवलोकन की जानकारी ही उत्पादकता बढ़ाती है। इसी प्रवृत्ति को 'हॉथोर्न प्रभाव' कहा जाता है।",
+   "options": {
+    "A": "थकान बढ़ने से उत्पादन का घटना / Decrease in production due to fatigue",
+    "B": "कर्मचारियों का प्रदर्शन इसलिए सुधरना क्योंकि वे जानते हैं कि उनका अवलोकन किया जा रहा है और उन पर ध्यान दिया जा रहा है / Improvement in workers' performance because they know they are being observed and given attention",
+    "C": "वेतन वृद्धि से कार्य-संतुष्टि का बढ़ना / Increase in job satisfaction due to wage hike",
+    "D": "समूह-दबाव से कार्य-गति का घटना / Decrease in work speed due to group pressure"
+   },
+   "q": "'हॉथोर्न प्रभाव' (Hawthorne Effect) से क्या तात्पर्य है? / What does the 'Hawthorne Effect' mean?"
+  },
+  {
+   "answer": "A",
+   "explanation": "डगलस मैकग्रेगर ने 1960 की अपनी पुस्तक में प्रबंधकों की दो विपरीत मान्यताओं को थ्योरी एक्स (नकारात्मक — मनुष्य स्वभावतः कार्य से बचना चाहता है) और थ्योरी वाई (सकारात्मक — उपयुक्त दशाओं में मनुष्य कार्य को स्वाभाविक मानता है) के रूप में प्रस्तुत किया।",
+   "options": {
+    "A": "डगलस मैकग्रेगर / Douglas McGregor",
+    "B": "विलियम आउची / William Ouchi",
+    "C": "अब्राहम मस्लो / Abraham Maslow",
+    "D": "फ़्रेडरिक हर्ज़बर्ग / Frederick Herzberg"
+   },
+   "q": "Theory X और Theory Y का प्रतिपादन अपनी पुस्तक 'The Human Side of Enterprise' (1960) में किसने किया था? / Who propounded Theory X and Theory Y in his book 'The Human Side of Enterprise' (1960)?"
+  },
+  {
+   "answer": "C",
+   "explanation": "अब्राहम मस्लो के पाँच-स्तरीय पदानुक्रम में क्रम है — शारीरिक, सुरक्षा, सामाजिक, सम्मान और सर्वोच्च स्तर पर आत्म-साक्षात्कार, अर्थात अपनी पूर्ण क्षमता की प्राप्ति।",
+   "options": {
+    "A": "सुरक्षा आवश्यकताएँ / Safety Needs",
+    "B": "सामाजिक आवश्यकताएँ / Social Needs",
+    "C": "आत्म-साक्षात्कार की आवश्यकता / Self-Actualisation Need",
+    "D": "सम्मान आवश्यकताएँ / Esteem Needs"
+   },
+   "q": "मस्लो के आवश्यकता-पदानुक्रम (Hierarchy of Needs) में सर्वोच्च स्तर की आवश्यकता कौन-सी है? / Which is the highest level need in Maslow's Hierarchy of Needs?"
+  },
+  {
+   "answer": "B",
+   "explanation": "चेस्टर आई. बर्नार्ड ने 1938 की इस पुस्तक में संगठन को सहकारी व्यवस्था मानते हुए 'अधिकार की स्वीकृति का सिद्धांत' और अनौपचारिक संगठन के महत्व को प्रतिपादित किया।",
+   "options": {
+    "A": "हर्बर्ट साइमन / Herbert Simon",
+    "B": "चेस्टर बर्नार्ड / Chester Barnard",
+    "C": "मैक्स वेबर / Max Weber",
+    "D": "लिंडल उर्विक / Lyndall Urwick"
+   },
+   "q": "'The Functions of the Executive' (1938) नामक पुस्तक के लेखक कौन हैं? / Who is the author of the book 'The Functions of the Executive' (1938)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "हर्बर्ट साइमन के अनुसार निर्णयकर्ता पूर्ण तार्किक नहीं होता; उसकी जानकारी, समय और मानसिक क्षमता सीमित होती है, इसलिए वह सर्वोत्तम के बजाय 'संतोषजनक' निर्णय लेता है। इसी को सीमित तार्किकता कहा गया।",
+   "options": {
+    "A": "हर्बर्ट साइमन / Herbert Simon",
+    "B": "चेस्टर बर्नार्ड / Chester Barnard",
+    "C": "पीटर ड्रकर / Peter Drucker",
+    "D": "लूथर गुलिक / Luther Gulick"
+   },
+   "q": "'सीमित तार्किकता' (Bounded Rationality) की अवधारणा किसने दी थी? / Who gave the concept of 'Bounded Rationality'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "फ़्रांसीसी प्रबंधन विशेषज्ञ वी. ए. ग्रेकुनास ने गणितीय सूत्र द्वारा बताया कि अधीनस्थों की संख्या बढ़ने पर उनके बीच संभावित संबंधों की संख्या ज्यामितीय गति से बढ़ती है, इसलिए नियंत्रण-विस्तार सीमित रखना चाहिए।",
+   "options": {
+    "A": "लिंडल उर्विक / Lyndall Urwick",
+    "B": "लूथर गुलिक / Luther Gulick",
+    "C": "वी. ए. ग्रेकुनास / V. A. Graicunas",
+    "D": "ऑलिवर शेल्डन / Oliver Sheldon"
+   },
+   "q": "प्रबंधन-विस्तार (Span of Control) के संदर्भ में अधीनस्थों के बीच संभावित संबंधों की संख्या का गणितीय सूत्र किसने दिया था? / Who gave the mathematical formula for the number of possible relationships among subordinates in the context of Span of Control?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पीटर ड्रकर को 'आधुनिक प्रबंधन का जनक' कहा जाता है। टेलर वैज्ञानिक प्रबंधन के और फेयोल प्रशासनिक प्रबंधन के जनक माने जाते हैं, जबकि मायो मानव-संबंध विचारधारा से जुड़े हैं।",
+   "options": {
+    "A": "एफ़. डब्ल्यू. टेलर / F. W. Taylor",
+    "B": "हेनरी फेयोल / Henri Fayol",
+    "C": "एल्टन मायो / Elton Mayo",
+    "D": "पीटर एफ़. ड्रकर / Peter F. Drucker"
+   },
+   "q": "'आधुनिक प्रबंधन का जनक' (Father of Modern Management) किसे कहा जाता है? / Who is called the 'Father of Modern Management'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "मूलतः वाल्टर शेवहार्ट द्वारा प्रस्तावित इस चक्र को डेमिंग ने जापान में लोकप्रिय बनाया, इसलिए इसे 'डेमिंग चक्र' भी कहते हैं। इसके चार चरण हैं — योजना बनाना, करना, जाँचना और कार्यवाही करना।",
+   "options": {
+    "A": "डब्ल्यू. एडवर्ड्स डेमिंग / W. Edwards Deming",
+    "B": "जोसेफ़ जुरान / Joseph Juran",
+    "C": "फ़िलिप क्रॉस्बी / Philip Crosby",
+    "D": "काओरु इशिकावा / Kaoru Ishikawa"
+   },
+   "q": "PDCA चक्र (Plan-Do-Check-Act) गुणवत्ता सुधार के संदर्भ में मुख्यतः किससे जुड़ा है? / The PDCA cycle (Plan-Do-Check-Act) in quality improvement is mainly associated with—"
+  },
+  {
+   "answer": "B",
+   "explanation": "जोसेफ़ जुरान की गुणवत्ता त्रयी में तीन प्रक्रियाएँ हैं — गुणवत्ता नियोजन, गुणवत्ता नियंत्रण और गुणवत्ता सुधार। केवल अंतिम निरीक्षण पर निर्भरता को जुरान गुणवत्ता प्रबंधन का अंग नहीं मानते।",
+   "options": {
+    "A": "गुणवत्ता नियोजन / Quality Planning",
+    "B": "गुणवत्ता निरीक्षण / Quality Inspection",
+    "C": "गुणवत्ता नियंत्रण / Quality Control",
+    "D": "गुणवत्ता सुधार / Quality Improvement"
+   },
+   "q": "निम्न में से कौन-सा 'जुरान त्रयी' (Juran Trilogy) का अंग नहीं है? / Which of the following is NOT a part of the 'Juran Trilogy'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "फ़िलिप क्रॉस्बी ने अपनी पुस्तक 'क्वालिटी इज़ फ़्री' (1979) में कहा कि गुणवत्ता में निवेश अंततः लागत घटाता है, और उनका प्रसिद्ध नारा था — 'पहली बार में ही सही करो' अर्थात शून्य दोष।",
+   "options": {
+    "A": "डब्ल्यू. एडवर्ड्स डेमिंग / W. Edwards Deming",
+    "B": "जोसेफ़ जुरान / Joseph Juran",
+    "C": "फ़िलिप क्रॉस्बी / Philip Crosby",
+    "D": "आर्मंड फ़ीगेनबॉम / Armand Feigenbaum"
+   },
+   "q": "'Quality is Free' पुस्तक और 'शून्य दोष' (Zero Defects) की अवधारणा किससे जुड़ी है? / The book 'Quality is Free' and the concept of 'Zero Defects' are associated with—"
+  },
+  {
+   "answer": "D",
+   "explanation": "गुणवत्ता वृत्त की शुरुआत 1962 में जापान में हुई, जहाँ काओरु इशिकावा के प्रयासों से कर्मचारियों के छोटे समूह स्वेच्छा से गुणवत्ता संबंधी समस्याओं पर विचार-विमर्श करने लगे। बाद में यह पद्धति विश्व भर में फैली।",
+   "options": {
+    "A": "अमेरिका / America",
+    "B": "जर्मनी / Germany",
+    "C": "ब्रिटेन / Britain",
+    "D": "जापान / Japan"
+   },
+   "q": "गुणवत्ता वृत्त (Quality Circle) की अवधारणा का उद्गम किस देश में हुआ? / The concept of Quality Circle originated in which country?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ड्रकर ने 1954 की अपनी पुस्तक 'द प्रैक्टिस ऑफ़ मैनेजमेंट' में उद्देश्यों द्वारा प्रबंधन (एमबीओ) प्रस्तुत किया, जिसमें संगठन और कर्मचारी के उद्देश्य साथ मिलकर निर्धारित किए जाते हैं और उन्हीं के आधार पर मूल्यांकन होता है।",
+   "options": {
+    "A": "The Practice of Management / The Practice of Management",
+    "B": "Management: Tasks, Responsibilities, Practices / Management: Tasks, Responsibilities, Practices",
+    "C": "The Effective Executive / The Effective Executive",
+    "D": "Innovation and Entrepreneurship / Innovation and Entrepreneurship"
+   },
+   "q": "पीटर ड्रकर ने 'उद्देश्यों द्वारा प्रबंधन' (MBO) की अवधारणा सर्वप्रथम किस पुस्तक (1954) में प्रस्तुत की थी? / In which book (1954) did Peter Drucker first present the concept of 'Management by Objectives' (MBO)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "बेंचमार्किंग में संस्था अपने उत्पादों, सेवाओं व प्रक्रियाओं की तुलना क्षेत्र की सर्वश्रेष्ठ संस्थाओं से करके अंतर ज्ञात करती है और सुधार के लक्ष्य तय करती है। यह समग्र गुणवत्ता प्रबंधन (टीक्यूएम) की एक प्रमुख तकनीक है।",
+   "options": {
+    "A": "बजट में समानुपातिक कटौती करना / Making proportional cuts in the budget",
+    "B": "अन्य संस्थाओं की सर्वोत्तम प्रथाओं से तुलना करके अपनी कार्यप्रणाली में सुधार करना / Comparing one's processes with the best practices of other organisations and improving accordingly",
+    "C": "कर्मचारियों की वार्षिक रैंकिंग करना / Preparing annual ranking of employees",
+    "D": "अनुपयोगी पुस्तकों की छंटनी करना / Weeding out unusable books"
+   },
+   "q": "प्रबंधन में 'बेंचमार्किंग' (Benchmarking) से क्या तात्पर्य है? / What does 'Benchmarking' mean in management?"
+  },
+  {
+   "answer": "C",
+   "explanation": "रंगनाथन के कर्मचारी सूत्र के अनुसार पत्रिका अनुभाग में प्रत्येक 500 सामयिकियों पर एक कर्मचारी होना चाहिए। इसी प्रकार ग्रंथ अनुभाग में वार्षिक 6,000 आगत जिल्दों पर एक और संदर्भ अनुभाग में प्रतिदिन 50 पाठकों पर एक कर्मचारी का मानक दिया गया है।",
+   "options": {
+    "A": "तीन / Three",
+    "B": "दो / Two",
+    "C": "एक / One",
+    "D": "पाँच / Five"
+   },
+   "q": "डॉ. रंगनाथन के 'कर्मचारी सूत्र' (Staff Formula) के अनुसार पत्रिका (Periodicals) अनुभाग में प्रत्येक 500 अभिदानित सामयिकियों पर कितने कर्मचारियों का प्रावधान है? / According to Dr. Ranganathan's 'Staff Formula', how many staff members are provided in the Periodicals Section for every 500 periodicals subscribed?"
+  },
+  {
+   "answer": "D",
+   "explanation": "कार्य-विश्लेषण से दो दस्तावेज़ बनते हैं — कार्य-विवरण, जिसमें पद के कर्तव्य व दायित्व लिखे होते हैं, और कार्य-विशिष्टता, जिसमें उस पद हेतु आवश्यक योग्यता व कौशल का वर्णन होता है।",
+   "options": {
+    "A": "वेतनमान व भत्ते / Pay scale and allowances",
+    "B": "भर्ती व चयन / Recruitment and selection",
+    "C": "प्रशिक्षण व पदोन्नति / Training and promotion",
+    "D": "कार्य-विवरण व कार्य-विशिष्टता / Job Description and Job Specification"
+   },
+   "q": "कार्य-विश्लेषण (Job Analysis) के दो प्रमुख उत्पाद कौन-से हैं? / What are the two main products of Job Analysis?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कार्य-विशिष्टता व्यक्ति-केंद्रित दस्तावेज़ है — इसमें पदाधिकारी में अपेक्षित शिक्षा, अनुभव, कौशल व व्यक्तिगत गुणों का वर्णन होता है। पद के कर्तव्यों का वर्णन कार्य-विवरण में होता है।",
+   "options": {
+    "A": "पद हेतु आवश्यक योग्यताएँ, शिक्षा, अनुभव व कौशल / The qualifications, education, experience and skills required for the job",
+    "B": "पद के कर्तव्य व उत्तरदायित्व / The duties and responsibilities of the job",
+    "C": "पद का वेतन-ढाँचा / The pay structure of the job",
+    "D": "कार्य-स्थल का भौतिक नक्शा / The physical layout of the workplace"
+   },
+   "q": "कार्य-विशिष्टता (Job Specification) में मुख्यतः किसका वर्णन होता है? / What does a Job Specification mainly describe?"
+  },
+  {
+   "answer": "B",
+   "explanation": "अभिविन्यास प्रशिक्षण नए कर्मचारी को संस्था के उद्देश्य, नियम, कार्य-प्रणाली और सहकर्मियों से परिचित कराता है, जिससे वह शीघ्र कार्य-वातावरण में समायोजित हो सके।",
+   "options": {
+    "A": "पुनश्चर्या प्रशिक्षण / Refresher Training",
+    "B": "अभिविन्यास (Induction) प्रशिक्षण / Induction (Orientation) Training",
+    "C": "पदोन्नति प्रशिक्षण / Promotion Training",
+    "D": "विशिष्ट तकनीकी प्रशिक्षण / Special Technical Training"
+   },
+   "q": "नव-नियुक्त कर्मचारी को संस्था के नियमों, अनुभागों व सहकर्मियों से परिचित कराने हेतु दिया जाने वाला प्रशिक्षण क्या कहलाता है? / The training given to a newly appointed employee to familiarise him with the rules, sections and colleagues of the institution is called—"
+  },
+  {
+   "answer": "C",
+   "explanation": "360-अंश मूल्यांकन में कर्मचारी के कार्य का आकलन उसके वरिष्ठ, सहकर्मियों, अधीनस्थों तथा स्वयं के द्वारा किया जाता है, इसलिए इसे 'सर्वांगीण प्रतिपुष्टि' भी कहते हैं।",
+   "options": {
+    "A": "केवल वरिष्ठ अधिकारी से / Only from the superior officer",
+    "B": "केवल अधीनस्थों से / Only from subordinates",
+    "C": "वरिष्ठ, सहकर्मी, अधीनस्थ व स्वयं — सभी ओर से / From superior, peers, subordinates and self — from all sides",
+    "D": "केवल पाठकों से / Only from readers"
+   },
+   "q": "360-अंश (360-Degree) निष्पादन मूल्यांकन में प्रतिपुष्टि किनसे ली जाती है? / In 360-Degree performance appraisal, feedback is taken from—"
+  },
+  {
+   "answer": "D",
+   "explanation": "कार्य-चक्रण में कर्मचारी को नियोजित ढंग से एक अनुभाग से दूसरे अनुभाग में भेजा जाता है। इससे वह पुस्तकालय की समग्र कार्यप्रणाली समझता है और किसी की अनुपस्थिति में अन्य कार्य भी संभाल सकता है।",
+   "options": {
+    "A": "कुल वेतन-व्यय घटाना / To reduce total wage cost",
+    "B": "कर्मचारियों की संख्या घटाना / To reduce the number of employees",
+    "C": "अनुशासनहीनता पर नियंत्रण करना / To control indiscipline",
+    "D": "कर्मचारियों को विभिन्न अनुभागों के कार्यों का अनुभव देकर बहु-कौशल बनाना / To give employees experience of different sections and make them multi-skilled"
+   },
+   "q": "प्रशिक्षण की विधि के रूप में 'कार्य-चक्रण' (Job Rotation) का मुख्य उद्देश्य क्या है? / What is the main purpose of 'Job Rotation' as a method of training?"
+  },
+  {
+   "answer": "A",
+   "explanation": "जॉन सी. फ़्लैनगन ने महत्वपूर्ण घटना तकनीक दी, जिसमें मूल्यांकनकर्ता वर्ष भर कर्मचारी के अत्यंत प्रभावी या अप्रभावी व्यवहार की वास्तविक घटनाएँ दर्ज करता है और मूल्यांकन उन्हीं पर आधारित होता है।",
+   "options": {
+    "A": "जॉन फ़्लैनगन / John Flanagan",
+    "B": "पीटर ड्रकर / Peter Drucker",
+    "C": "एडवर्ड्स डेमिंग / Edwards Deming",
+    "D": "डगलस मैकग्रेगर / Douglas McGregor"
+   },
+   "q": "निष्पादन मूल्यांकन की 'महत्वपूर्ण घटना तकनीक' (Critical Incident Technique) किसने विकसित की थी? / Who developed the 'Critical Incident Technique' of performance appraisal?"
+  },
+  {
+   "answer": "B",
+   "explanation": "भर्ती के आंतरिक स्रोत संस्था के भीतर से ही उपलब्ध होते हैं — जैसे पदोन्नति, स्थानांतरण और कार्य-विस्तार। विज्ञापन, रोजगार कार्यालय व परिसर भर्ती बाह्य स्रोत हैं।",
+   "options": {
+    "A": "समाचार-पत्र में विज्ञापन / Advertisement in newspapers",
+    "B": "पदोन्नति व स्थानांतरण / Promotion and transfer",
+    "C": "रोजगार कार्यालय / Employment exchange",
+    "D": "परिसर भर्ती (Campus Recruitment) / Campus recruitment"
+   },
+   "q": "निम्न में से कौन-सा भर्ती का 'आंतरिक स्रोत' (Internal Source) है? / Which of the following is an 'Internal Source' of recruitment?"
+  },
+  {
+   "answer": "C",
+   "explanation": "जिन राज्यों में पुस्तकालय अधिनियम से उपकर की व्यवस्था है, वहाँ पुस्तकालय उपकर स्थानीय निकायों द्वारा वसूले जाने वाले संपत्ति कर या गृह कर पर निश्चित पैसे प्रति रुपया की दर से अधिभार के रूप में लगाया जाता है और सार्वजनिक पुस्तकालयों के वित्त का मुख्य स्रोत है।",
+   "options": {
+    "A": "आयकर / Income Tax",
+    "B": "बिक्री कर / Sales Tax",
+    "C": "संपत्ति कर (गृह कर) / Property Tax (House Tax)",
+    "D": "मनोरंजन कर / Entertainment Tax"
+   },
+   "q": "पुस्तकालय उपकर (Library Cess) सामान्यतः किस कर पर अधिभार (Surcharge) के रूप में लगाया जाता है? / The Library Cess is generally levied as a surcharge on which tax?"
+  },
+  {
+   "answer": "D",
+   "explanation": "अनावर्ती अनुदान एक बार मिलने वाला अनुदान है जो भवन, फ़र्नीचर, उपकरण तथा प्रारंभिक संग्रह जैसी पूंजीगत मदों पर व्यय होता है। वेतन व अभिदान जैसी नियमित मदों हेतु आवर्ती अनुदान मिलता है।",
+   "options": {
+    "A": "कर्मचारियों का वेतन / Salaries of staff",
+    "B": "बिजली-पानी के बिल / Electricity and water bills",
+    "C": "पत्रिकाओं का वार्षिक अभिदान / Annual subscription of periodicals",
+    "D": "भवन निर्माण, फ़र्नीचर व उपकरण जैसी पूंजीगत मदें / Capital items like building construction, furniture and equipment"
+   },
+   "q": "अनावर्ती अनुदान (Non-Recurring Grant) सामान्यतः किन मदों पर व्यय किया जाता है? / A Non-Recurring Grant is generally spent on which items?"
+  },
+  {
+   "answer": "A",
+   "explanation": "आवर्ती अनुदान प्रतिवर्ष नियमित रूप से मिलता है और इसका उपयोग वेतन, पुस्तकालय रखरखाव, पत्रिका अभिदान व अन्य दैनिक व्ययों में होता है। भवन व भूमि जैसी मदों हेतु अनावर्ती अनुदान दिया जाता है।",
+   "options": {
+    "A": "वेतन, रखरखाव व अभिदान जैसी नियमित मदें / Regular items like salary, maintenance and subscriptions",
+    "B": "नए भवन का निर्माण / Construction of a new building",
+    "C": "भूमि का क्रय / Purchase of land",
+    "D": "वाहन का क्रय / Purchase of a vehicle"
+   },
+   "q": "आवर्ती अनुदान (Recurring Grant) का उपयोग मुख्यतः किन मदों में होता है? / A Recurring Grant is mainly used for which items?"
+  },
+  {
+   "answer": "B",
+   "explanation": "सूत्र बजट में धन का आवंटन निर्धारित मानकों — जैसे प्रति छात्र, प्रति पाठक या प्रति अध्यापक निश्चित राशि — के सूत्र से किया जाता है। विश्वविद्यालय अनुदान आयोग के मानक इसी पद्धति के उदाहरण हैं।",
+   "options": {
+    "A": "यह पिछले वर्ष के व्यय पर आधारित होता है / It is based on the previous year's expenditure",
+    "B": "इसमें आवंटन पूर्व-निर्धारित मानकों व सूत्रों, जैसे प्रति-छात्र दर, के आधार पर होता है / Allocation is made on the basis of predetermined norms and formulae, such as per-student rate",
+    "C": "इसमें प्रत्येक मद का औचित्य शून्य से सिद्ध करना पड़ता है / Every item has to be justified from zero base",
+    "D": "इसमें कार्यक्रमों के परिणामों को मापा जाता है / Results of programmes are measured in it"
+   },
+   "q": "'सूत्र बजट' (Formula Budgeting) की प्रमुख विशेषता क्या है? / What is the main feature of 'Formula Budgeting'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पीपीबीएस 1961 में अमेरिका के रक्षा सचिव रॉबर्ट मैकनामारा द्वारा रक्षा विभाग में लागू किया गया था। इसमें बजट को कार्यक्रमों व उनके उद्देश्यों से जोड़कर दीर्घकालीन नियोजन पर बल दिया जाता है।",
+   "options": {
+    "A": "ब्रिटेन का वित्त मंत्रालय / Finance Ministry of Britain",
+    "B": "भारत का योजना आयोग / Planning Commission of India",
+    "C": "अमेरिका का रक्षा विभाग / Department of Defense, USA",
+    "D": "विश्व बैंक / World Bank"
+   },
+   "q": "PPBS (Planning Programming Budgeting System) सर्वप्रथम 1961 में कहाँ लागू किया गया था? / Where was PPBS (Planning Programming Budgeting System) first introduced in 1961?"
+  },
+  {
+   "answer": "D",
+   "explanation": "एकमुश्त बजट में कुल राशि एक साथ स्वीकृत कर दी जाती है और मद-वार वितरण का अधिकार संस्था को रहता है। यह सरल है, परंतु इसमें वित्तीय नियंत्रण अपेक्षाकृत ढीला रहता है।",
+   "options": {
+    "A": "मद-वार विस्तृत विवरण वाला बजट / A budget with detailed item-wise break-up",
+    "B": "शून्य से प्रारंभ होने वाला बजट / A budget starting from zero base",
+    "C": "निष्पादन पर आधारित बजट / A performance-based budget",
+    "D": "संपूर्ण राशि एक साथ स्वीकृत होना, जिसका आंतरिक वितरण संस्था के विवेक पर छोड़ा जाता है / The total amount is sanctioned at once, its internal distribution being left to the discretion of the institution"
+   },
+   "q": "'एकमुश्त बजट' (Lump-Sum Budget) से क्या तात्पर्य है? / What is meant by a 'Lump-Sum Budget'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पुस्तकालय का बजट-प्रारूप पुस्तकालयाध्यक्ष तैयार करता है। यह पुस्तकालय समिति के समक्ष रखा जाता है और उसकी अनुशंसा के बाद सक्षम प्राधिकारी द्वारा स्वीकृत होता है।",
+   "options": {
+    "A": "कुलपति / Vice-Chancellor",
+    "B": "वित्त अधिकारी / Finance Officer",
+    "C": "कुलसचिव / Registrar",
+    "D": "पुस्तकालयाध्यक्ष / Librarian"
+   },
+   "q": "विश्वविद्यालय पुस्तकालय में वार्षिक बजट का प्रारूप सामान्यतः कौन तैयार करता है? / Who generally prepares the draft of the annual budget in a university library?"
+  },
+  {
+   "answer": "C",
+   "explanation": "सामान्य वित्तीय नियमों के अनुसार यदि समुचित जाँच में चोरी या उपेक्षा सिद्ध न हो, तो प्रतिवर्ष प्रति एक हज़ार निर्गत या परामर्शित पुस्तकों पर पाँच पुस्तकों तक की हानि उचित मानी जाती है। भंडार-सत्यापन के समय इसी मानक का प्रयोग होता है।",
+   "options": {
+    "A": "दो / Two",
+    "B": "दस / Ten",
+    "C": "पाँच / Five",
+    "D": "पंद्रह / Fifteen"
+   },
+   "q": "सरकारी वित्तीय नियमों (GFR) के अनुसार, पुस्तकालय में प्रतिवर्ष प्रति 1,000 निर्गत/परामर्शित पुस्तकों पर कितनी पुस्तकों की हानि उचित मानी जाती है? / According to the General Financial Rules (GFR), the loss of how many books per 1,000 books issued/consulted in a year is considered reasonable in a library?"
+  },
+  {
+   "answer": "C",
+   "explanation": "आधुनिक कागज़ निर्माण में प्रयुक्त एलम-रोज़िन साइज़िंग से कागज़ में अम्ल बनता है, जो सेल्युलोज़ के रेशों को तोड़कर कागज़ को पीला व भंगुर बनाता है। यही पुस्तकों के क्षरण का सबसे बड़ा कारण है।",
+   "options": {
+    "A": "धूल का जमाव / Accumulation of dust",
+    "B": "अत्यधिक प्रकाश / Excessive light",
+    "C": "कागज़ में अम्ल (एसिड) की उपस्थिति / Presence of acid in the paper",
+    "D": "पृष्ठों का बार-बार पलटना / Frequent turning of pages"
+   },
+   "q": "कागज़ के क्षरण (Deterioration) का प्रमुख कारण क्या है? / What is the main cause of deterioration of paper?"
+  },
+  {
+   "answer": "D",
+   "explanation": "अम्ल-निष्क्रियण में क्षारीय पदार्थों द्वारा कागज़ के अम्ल को निष्क्रिय किया जाता है और भविष्य के अम्लीय प्रभाव से बचाव हेतु क्षारीय भंडार भी छोड़ा जाता है, जिससे प्रलेख का जीवन बढ़ता है।",
+   "options": {
+    "A": "पुस्तकों के कीटों का नाश करना / To destroy book insects",
+    "B": "पुस्तकों की धूल साफ़ करना / To clean the dust of books",
+    "C": "जीर्ण जिल्द की मरम्मत करना / To repair damaged binding",
+    "D": "कागज़ में मौजूद अम्ल को निष्क्रिय करके उसका जीवन बढ़ाना / To neutralise the acid present in paper and prolong its life"
+   },
+   "q": "'अम्ल-निष्क्रियण' (Deacidification) प्रक्रिया का उद्देश्य क्या है? / What is the purpose of 'Deacidification'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "एनकैप्सुलेशन में भंगुर प्रलेख को पारदर्शी पॉलिएस्टर फ़िल्म (मायलर) की दो शीटों के बीच किनारों से सील किया जाता है। इसमें कोई चिपकने वाला पदार्थ प्रलेख को नहीं छूता, इसलिए यह विधि प्रतिवर्ती और सुरक्षित मानी जाती है।",
+   "options": {
+    "A": "पॉलिएस्टर (मायलर) फ़िल्म / Polyester (Mylar) film",
+    "B": "साधारण प्लास्टिक रैप / Ordinary plastic wrap",
+    "C": "मोटा कपड़ा / Thick cloth",
+    "D": "मोमिया कागज़ / Wax paper"
+   },
+   "q": "'एनकैप्सुलेशन' (Encapsulation) संरक्षण विधि में भंगुर प्रलेख को किसके बीच रखकर सील किया जाता है? / In the 'Encapsulation' preservation method, a brittle document is sealed between sheets of—"
+  },
+  {
+   "answer": "B",
+   "explanation": "वायु में मौजूद सल्फर डाइऑक्साइड व नमी से चमड़े में अम्ल बनता है, जिससे वनस्पति-अभिरंजित चमड़ा लाल-भूरे चूर्ण के रूप में झड़ने लगता है। इसी क्षरण को 'लाल सड़न' कहते हैं।",
+   "options": {
+    "A": "दीमक द्वारा चमड़े का खाया जाना / Eating of leather by termites",
+    "B": "अम्लीय अपघटन से चमड़े का चूर्ण बनकर झड़ना / Leather turning into powder due to acidic decomposition",
+    "C": "प्रकाश से चमड़े का रंग उड़ना / Fading of leather colour due to light",
+    "D": "चूहों द्वारा जिल्द का कुतरा जाना / Gnawing of binding by rats"
+   },
+   "q": "चमड़े की जिल्द में होने वाला 'लाल सड़न' (Red Rot) क्षरण क्या है? / What is the 'Red Rot' decay in leather bindings?"
+  },
+  {
+   "answer": "C",
+   "explanation": "थाइमोल एक फ़फूंदनाशक है; इसके धूमन से पुस्तकों पर लगी फ़फूंद व उसके बीजाणु नष्ट होते हैं। कीट नियंत्रण हेतु पैराडाइक्लोरोबेंज़ीन जैसे पदार्थों का प्रयोग होता है।",
+   "options": {
+    "A": "दीमक / Termites",
+    "B": "चूहे / Rats",
+    "C": "फ़फूंद (मोल्ड) / Mould (fungi)",
+    "D": "कॉक्रोच / Cockroaches"
+   },
+   "q": "थाइमोल धूमन (Thymol Fumigation) का प्रयोग मुख्यतः किसके नियंत्रण हेतु किया जाता है? / Thymol fumigation is mainly used for the control of—"
+  },
+  {
+   "answer": "D",
+   "explanation": "सिल्वरफ़िश नमीयुक्त अंधेरे स्थानों में रहती है और कागज़ की सतह, जिल्द के गोंद तथा स्टार्चयुक्त पदार्थों को खुरचकर खाती है, जिससे पृष्ठों पर अनियमित छिद्र व क्षति दिखाई देती है।",
+   "options": {
+    "A": "पृष्ठों को काटकर अपना बिल बनाता है / It cuts pages to make its nest",
+    "B": "पुस्तकों की स्याही पी जाता है / It drinks the ink of books",
+    "C": "लकड़ी की अलमारियाँ खाता है / It eats wooden shelves",
+    "D": "कागज़ की सतह तथा जिल्द के गोंद व स्टार्च को खुरचकर खाता है / It scrapes and eats the paper surface and the glue and starch of bindings"
+   },
+   "q": "सिल्वरफ़िश (Silverfish) नामक कीट पुस्तकों को किस प्रकार क्षति पहुँचाता है? / How does the insect Silverfish damage books?"
+  },
+  {
+   "answer": "A",
+   "explanation": "पुस्तकालय संग्रह हेतु आदर्श दशाएँ लगभग 20–24 डिग्री सेल्सियस तापमान और 45–55 प्रतिशत सापेक्ष आर्द्रता मानी जाती हैं। आर्द्रता अधिक होने पर फ़फूंद व कीट और कम होने पर कागज़ भंगुर होने का भय रहता है।",
+   "options": {
+    "A": "45–55 प्रतिशत / 45–55 percent",
+    "B": "20–30 प्रतिशत / 20–30 percent",
+    "C": "65–75 प्रतिशत / 65–75 percent",
+    "D": "80–90 प्रतिशत / 80–90 percent"
+   },
+   "q": "पुस्तक-संग्रह के सुरक्षित भंडारण हेतु आदर्श सापेक्ष आर्द्रता (Relative Humidity) कितनी मानी जाती है? / What is considered the ideal Relative Humidity for safe storage of a book collection?"
+  },
+  {
+   "answer": "B",
+   "explanation": "जिल्दसाजी में सर्वप्रथम मिलान किया जाता है — पुस्तक के सभी पृष्ठ व चित्र क्रम में व पूर्ण हैं या नहीं, यह जाँचा जाता है। इसके बाद मोड़ना, सिलाई, दबाना आदि चरण आते हैं।",
+   "options": {
+    "A": "सिलाई करना / Sewing",
+    "B": "पृष्ठों का मिलान (Collation) / Collation of pages",
+    "C": "आवरण चढ़ाना / Casing in",
+    "D": "किनारों की छंटाई / Trimming of edges"
+   },
+   "q": "जिल्दसाजी (Binding) की प्रक्रिया का प्रथम चरण कौन-सा है? / What is the first step in the process of book binding?"
+  },
+  {
+   "answer": "C",
+   "explanation": "अर्ध जिल्द में पुस्तक की पीठ और कोने — जहाँ सबसे अधिक घिसाव होता है — चमड़े जैसी मज़बूत सामग्री से और दोनों पार्श्व कपड़े या अन्य सामग्री से ढके जाते हैं। केवल पीठ पर चमड़ा हो तो वह 'चतुर्थ जिल्द' कहलाती है।",
+   "options": {
+    "A": "पुस्तक का केवल आधा भाग जिल्दबंद होना / Only half of the book being bound",
+    "B": "केवल आवरण पृष्ठ की जिल्दबंदी / Binding of the cover page only",
+    "C": "पीठ (Spine) व कोने उत्तम सामग्री (चमड़े) से तथा पार्श्व भाग कपड़े आदि से आवृत होना / The spine and corners covered with superior material (leather) and the sides with cloth etc.",
+    "D": "बिना पीठ वाली जिल्द / Binding without a spine"
+   },
+   "q": "'अर्ध जिल्द' (Half Binding) से क्या तात्पर्य है? / What is meant by 'Half Binding'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "भीगी पुस्तकों को पहले हिमीकृत करने से फ़फूंद रुक जाती है, फिर निर्वात हिम-शुष्कन में जल बर्फ़ से सीधे वाष्प बनकर निकल जाता है। इससे पृष्ठ चिपकते नहीं और स्याही भी नहीं फैलती, इसलिए यह सर्वोत्तम उद्धार विधि है।",
+   "options": {
+    "A": "तेज़ धूप में सुखाना / Drying in strong sunlight",
+    "B": "पंखे के सामने फैलाकर सुखाना / Spreading out before a fan",
+    "C": "रेत में दबाकर रखना / Burying in sand",
+    "D": "हिम-शुष्कन (Freeze Drying) / Freeze drying"
+   },
+   "q": "बाढ़ या जल-प्लावन से भीगी हुई पुस्तकों के उद्धार (Salvage) की सर्वोत्तम विधि कौन-सी है? / Which is the best method for the salvage of books soaked in a flood or water inundation?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कार्बन डाइऑक्साइड अग्निशामक आग बुझाने के बाद कोई अवशेष नहीं छोड़ता और पुस्तकों को जल से होने वाली क्षति भी नहीं होती, इसलिए यह पुस्तकालय व विद्युत उपकरणों की आग हेतु उपयुक्त है। जल प्रकार का अग्निशामक पुस्तकों को भिगोकर अधिक हानि पहुँचा सकता है।",
+   "options": {
+    "A": "कार्बन डाइऑक्साइड (CO₂) प्रकार / Carbon Dioxide (CO₂) type",
+    "B": "जल प्रकार / Water type",
+    "C": "फ़ोम प्रकार / Foam type",
+    "D": "रेत की बाल्टी / Sand bucket"
+   },
+   "q": "पुस्तकालय में पुस्तकों व विद्युत उपकरणों की आग हेतु सर्वाधिक उपयुक्त अग्निशामक कौन-सा है? / Which fire extinguisher is most suitable for fires involving books and electrical equipment in a library?"
+  },
+  {
+   "answer": "B",
+   "explanation": "गर्म व आर्द्र वातावरण में भीगी पुस्तकों पर 24 से 48 घंटों के भीतर फ़फूंद पनपने लगती है। इसीलिए आपदा प्रबंधन में भीगी सामग्री को तुरंत हिमीकृत या शुष्क करना सर्वोच्च प्राथमिकता होती है।",
+   "options": {
+    "A": "एक सप्ताह बाद / After one week",
+    "B": "24–48 घंटों के भीतर / Within 24–48 hours",
+    "C": "एक माह बाद / After one month",
+    "D": "छह माह बाद / After six months"
+   },
+   "q": "जल से भीगने के बाद अनुकूल दशाओं में पुस्तकों पर फ़फूंद सामान्यतः कितने समय के भीतर पनपने लगती है? / Within how much time does mould generally begin to grow on water-soaked books under favourable conditions?"
+  }
+ ],
+ "subject": "BLIS"
+}

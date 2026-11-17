@@ -1,0 +1,1472 @@
+[
+ {
+  "n": 1,
+  "subject": "Physics",
+  "q_hi": "जब एक विद्युत द्विध्रुव p⃗ को एकसमान वैद्युत क्षेत्र E⃗ में रखा जाता है तो p⃗ व E⃗ के बीच किस कोण पर बल आघूर्ण का मान महत्तम होगा ?",
+  "q_en": "When an electric dipole p⃗ is placed in a uniform electric field E⃗, then at what angle between p⃗ and E⃗, the value of torque will be maximum ?",
+  "options": [
+   "0°",
+   "45°",
+   "90°",
+   "180°"
+  ],
+  "options_en": [
+   "0°",
+   "45°",
+   "90°",
+   "180°"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula → बल आघूर्ण τ = pE sinθ होता है। sinθ का मान θ = 90° पर महत्तम (1) होता है, इसलिए Torque भी महत्तम होता है। अतः उत्तर 90° है।",
+  "figure": null
+ },
+ {
+  "n": 2,
+  "subject": "Physics",
+  "q_hi": "R त्रिज्या वाला एक वृत्ताकार लूप धारा I प्रवाहित करता है। इसका चुम्बकीय द्विध्रुव आघूर्ण है",
+  "q_en": "A circular loop radius R carries a current I. Its magnetic dipole moment is",
+  "options": [
+   "IR²",
+   "IR",
+   "2π IR",
+   "πIR²"
+  ],
+  "options_en": [
+   "IR²",
+   "IR",
+   "2π IR",
+   "πIR²"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula → Magnetic Dipole Moment M = I × A होता है। वृत्ताकार लूप का क्षेत्रफल A = πR² है। प्रतिस्थापन → M = I × πR² = πIR²। अतः उत्तर πIR² है।",
+  "figure": null
+ },
+ {
+  "n": 3,
+  "subject": "Physics",
+  "q_hi": "जब सूक्ष्मदर्शी की नली की लम्बाई बढ़ायी जाती है तब आवर्धन क्षमता",
+  "q_en": "When the tube length of microscope is increased, its magnifying power",
+  "options": [
+   "बढ़ती है",
+   "घटती है",
+   "शून्य हो जाती है",
+   "अपरिवर्तित रहती है"
+  ],
+  "options_en": [
+   "increases",
+   "decreases",
+   "becomes zero",
+   "remains unchanged"
+  ],
+  "answer": 0,
+  "exp_hi": "सूक्ष्मदर्शी की Magnifying Power नली की लम्बाई L के समानुपाती होती है। L बढ़ाने से वस्तु का प्रतिबिम्ब बड़ा बनता है, इसलिए आवर्धन क्षमता बढ़ती है।",
+  "figure": null
+ },
+ {
+  "n": 4,
+  "subject": "Physics",
+  "q_hi": "कैथोड किरणें समूह हैं",
+  "q_en": "Cathode rays are group of",
+  "options": [
+   "इलेक्ट्रॉनों के",
+   "प्रोटॉनों के",
+   "न्यूट्रॉनों के",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "electrons",
+   "protons",
+   "neutrons",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "Cathode किरणें ऋण आवेशित कणों की धारा होती हैं। ये कण Electron होते हैं, इसलिए कैथोड किरणें इलेक्ट्रॉनों का समूह हैं।",
+  "figure": null
+ },
+ {
+  "n": 5,
+  "subject": "Physics",
+  "q_hi": "जब एक साबुन के बुलबुले को आवेशित किया जाता है, तो इसका आकार",
+  "q_en": "When a soap bubble is charged, then its size",
+  "options": [
+   "बढ़ जाता है",
+   "घट जाता है",
+   "अपरिवर्तित रहता है",
+   "कुछ कहा नहीं जा सकता"
+  ],
+  "options_en": [
+   "increases",
+   "decreases",
+   "remains unchanged",
+   "nothing can be said"
+  ],
+  "answer": 0,
+  "exp_hi": "बुलबुले को आवेशित करने पर उसकी सतह पर समान आवेश फैल जाता है और समान आवेशों के बीच प्रतिकर्षण होता है। इस प्रतिकर्षण से बुलबुला फैलता है, इसलिए इसका आकार बढ़ जाता है।",
+  "figure": null
+ },
+ {
+  "n": 6,
+  "subject": "Physics",
+  "q_hi": "यदि संधारित्र के प्लेटों का क्षेत्रफल आधा कर दिया जाय, तो संधारित्र की धारिता हो जायेगी",
+  "q_en": "If the area of plates of a capacitor is halved, then the capacitance will",
+  "options": [
+   "दुगुनी",
+   "आधी",
+   "वही रहेगी",
+   "चौगुनी"
+  ],
+  "options_en": [
+   "become double",
+   "become half",
+   "remain same",
+   "become four times"
+  ],
+  "answer": 1,
+  "exp_hi": "Formula → Capacitance C = ε₀A/d होता है, अर्थात C, क्षेत्रफल A के समानुपाती है। प्रतिस्थापन → A आधा करने पर C भी आधी हो जायेगी। अतः उत्तर आधी है।",
+  "figure": null
+ },
+ {
+  "n": 7,
+  "subject": "Physics",
+  "q_hi": "चोक कुण्डली किस सिद्धान्त पर कार्य करती है ?",
+  "q_en": "Choke coil works on the principle of",
+  "options": [
+   "स्वप्रेरण",
+   "क्षणिक धारा",
+   "अन्योन्य प्रेरण",
+   "वाटहीन धारा"
+  ],
+  "options_en": [
+   "self induction",
+   "transient current",
+   "mutual induction",
+   "wattless current"
+  ],
+  "answer": 0,
+  "exp_hi": "Choke Coil Self Induction के सिद्धान्त पर कार्य करती है। यह AC परिपथ में बिना अधिक Power क्षय के Current को नियंत्रित करती है, क्योंकि इसका Resistance बहुत कम और Inductance अधिक होता है।",
+  "figure": null
+ },
+ {
+  "n": 8,
+  "subject": "Physics",
+  "q_hi": "यदि एक छड़ चुम्बक को उसकी लम्बाई के लम्बवत् दो बराबर भागों में काटा जाय, तो प्रत्येक टुकड़ा",
+  "q_en": "If a bar magnet is cut into two equal pieces transverse to its length, then each piece will",
+  "options": [
+   "अपना चुम्बकत्व खो देगा",
+   "एकल ध्रुव बन जायेगा",
+   "ज्यादा चुम्बकीय आघूर्ण के साथ एक नए चुम्बक की तरह व्यवहार करेगा",
+   "कम चुम्बकीय आघूर्ण के साथ एक नए चुम्बक की तरह व्यवहार करेगा"
+  ],
+  "options_en": [
+   "lose its magnetism",
+   "become a single pole",
+   "behave as a new magnet with a greater magnetic moment",
+   "behave as a new magnet with reduced magnetic moment"
+  ],
+  "answer": 3,
+  "exp_hi": "चुम्बक को काटने पर प्रत्येक टुकड़ा अपने दोनों ध्रुवों के साथ एक नया चुम्बक बनता है, एकल ध्रुव कभी नहीं बनता। लम्बाई आधी होने से Magnetic Moment M = ध्रुव सामर्थ्य × लम्बाई भी कम हो जाता है। अतः प्रत्येक टुकड़ा कम चुम्बकीय आघूर्ण के साथ नए चुम्बक की तरह व्यवहार करेगा।",
+  "figure": null
+ },
+ {
+  "n": 9,
+  "subject": "Physics",
+  "q_hi": "धारितीय प्रत्यावर्ती धारा परिपथ में धारा, विभवान्तर के",
+  "q_en": "In an ac circuit of capacitance the current from potential difference is",
+  "options": [
+   "अग्रगामी होती है",
+   "पश्चगामी होती है",
+   "एक ही कला में होती है",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "forward",
+   "backward",
+   "both are in same phase",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "शुद्ध Capacitive AC परिपथ में Current, Potential Difference से 90° अर्थात π/2 कला से आगे रहती है। इसलिए धारा विभवान्तर के अग्रगामी होती है।",
+  "figure": null
+ },
+ {
+  "n": 10,
+  "subject": "Physics",
+  "q_hi": "संधारित्र एक आदर्श कुचालक है",
+  "q_en": "A capacitor is a perfect insulator for",
+  "options": [
+   "प्रत्यावर्ती धाराओं के लिए",
+   "दिष्ट धाराओं के लिए",
+   "(A) और (B) दोनों के लिए",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "alternating currents",
+   "direct currents",
+   "both (A) and (B)",
+   "none of these"
+  ],
+  "answer": 1,
+  "exp_hi": "Capacitor DC को रोक देता है, क्योंकि स्थिर अवस्था में DC के लिए इसकी Capacitive Reactance अनन्त होती है, जबकि AC को यह गुजरने देता है। इसलिए संधारित्र दिष्ट धाराओं (Direct Currents) के लिए आदर्श कुचालक है।",
+  "figure": null
+ },
+ {
+  "n": 11,
+  "subject": "Physics",
+  "q_hi": "विस्थापन धारा का मात्रक होता है",
+  "q_en": "The unit of displacement current is",
+  "options": [
+   "Am",
+   "A",
+   "ΩA",
+   "ΩmA"
+  ],
+  "options_en": [
+   "Am",
+   "A",
+   "ΩA",
+   "ΩmA"
+  ],
+  "answer": 1,
+  "exp_hi": "Displacement Current भी एक प्रकार की Current है, इसलिए इसका मात्रक वही होता है जो Conduction Current का होता है, अर्थात Ampere (A)।",
+  "figure": null
+ },
+ {
+  "n": 12,
+  "subject": "Physics",
+  "q_hi": "सूर्य के प्रकाश का स्पेक्ट्रम होता है",
+  "q_en": "The solar spectrum is",
+  "options": [
+   "सतत",
+   "रैखिक स्पेक्ट्रम",
+   "काली रेखा का स्पेक्ट्रम",
+   "काली पट्टी का स्पेक्ट्रम"
+  ],
+  "options_en": [
+   "continuous",
+   "line spectrum",
+   "spectrum of black lines",
+   "spectrum of black bands"
+  ],
+  "answer": 2,
+  "exp_hi": "सूर्य का Spectrum सतत उत्सर्जन Spectrum पर अध्यारोपित अवशोषण रेखाओं वाला होता है, जिन्हें Fraunhofer रेखाएँ कहते हैं। इसलिए सूर्य के प्रकाश का स्पेक्ट्रम काली रेखा का स्पेक्ट्रम होता है।",
+  "figure": null
+ },
+ {
+  "n": 13,
+  "subject": "Physics",
+  "q_hi": "दृश्य क्षेत्र अधिकतम होगा",
+  "q_en": "The field of view is maximum for",
+  "options": [
+   "समतल दर्पण के लिए",
+   "उत्तल दर्पण के लिए",
+   "अवतल दर्पण के लिए",
+   "बेलनाकार दर्पण के लिए"
+  ],
+  "options_en": [
+   "plane mirror",
+   "convex mirror",
+   "concave mirror",
+   "cylindrical mirror"
+  ],
+  "answer": 1,
+  "exp_hi": "उत्तल दर्पण (Convex Mirror) हमेशा सीधा और छोटा प्रतिबिंब बनाता है और बहुत बड़े क्षेत्र की वस्तुओं को दिखा सकता है। इसलिए दृश्य क्षेत्र (Field of View) उत्तल दर्पण के लिए अधिकतम होता है।",
+  "figure": null
+ },
+ {
+  "n": 14,
+  "subject": "Physics",
+  "q_hi": "हवा में लाल प्रकाश तथा नीले प्रकाश के अपवर्तनांक का अनुपात है",
+  "q_en": "The ratio of the refractive index of red light to blue light in air is",
+  "options": [
+   "एक से कम",
+   "एक से अधिक",
+   "एक के बराबर",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "less than unity",
+   "greater than unity",
+   "equal to unity",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "लाल प्रकाश की Wavelength नीले प्रकाश से अधिक होती है, इसलिए लाल प्रकाश का Refractive Index नीले प्रकाश के Refractive Index से कम होता है। अतः इनका अनुपात एक से कम होता है।",
+  "figure": null
+ },
+ {
+  "n": 15,
+  "subject": "Physics",
+  "q_hi": "नाभिकीय घनत्व लगभग होता है",
+  "q_en": "The nuclear density is approximately",
+  "options": [
+   "द्रव्यमान संख्या से स्वतंत्र",
+   "द्रव्यमान संख्या के समानुपाती",
+   "द्रव्यमान संख्या के व्युत्क्रमानुपाती",
+   "A^(1/3) के समानुपाती"
+  ],
+  "options_en": [
+   "independent of mass number",
+   "directly proportional to mass number",
+   "inversely proportional to mass number",
+   "directly proportional to A^(1/3)"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula → नाभिक की त्रिज्या R = R₀ A^(1/3) होती है, इसलिए आयतन V ∝ A और द्रव्यमान भी ∝ A होता है। प्रतिस्थापन → घनत्व = द्रव्यमान / आयतन ∝ A/A = नियतांक। अतः नाभिकीय घनत्व लगभग द्रव्यमान संख्या से स्वतंत्र होता है।",
+  "figure": null
+ },
+ {
+  "n": 16,
+  "subject": "Physics",
+  "q_hi": "एक ट्रांजिस्टर में",
+  "q_en": "In a transistor",
+  "options": [
+   "संग्राहक के अपद्रव्य का सान्द्रण न्यूनतम होता है",
+   "उत्सर्जक के अपद्रव्य का सान्द्रण न्यूनतम होता है",
+   "आधार के अपद्रव्य का सान्द्रण न्यूनतम होता है",
+   "तीनों क्षेत्रों के अपद्रव्य के सान्द्रण समान होते हैं"
+  ],
+  "options_en": [
+   "concentration of impurities in the collector is minimum",
+   "concentration of impurities in the emitter is minimum",
+   "concentration of impurities in the base is minimum",
+   "concentrations of impurities in all the three regions are same"
+  ],
+  "answer": 2,
+  "exp_hi": "Transistor में Emitter सबसे अधिक Doped होता है, Collector उससे कम और Base सबसे कम Doped होता है। इसलिए आधार (Base) के अपद्रव्य का सान्द्रण न्यूनतम होता है।",
+  "figure": null
+ },
+ {
+  "n": 17,
+  "subject": "Physics",
+  "q_hi": "कूलाम का नियम मान्य है",
+  "q_en": "Coulomb's law is valid for",
+  "options": [
+   "केवल बिन्दु आवेशों के लिए",
+   "केवल वितरित आवेशों के लिए",
+   "बिन्दु आवेश व वितरित आवेश दोनों के लिए",
+   "उदासीन कणों के लिए"
+  ],
+  "options_en": [
+   "Point charges only",
+   "Dispersed charges only",
+   "Both point charges and dispersed charges",
+   "Neutral particles"
+  ],
+  "answer": 0,
+  "exp_hi": "Coulomb का नियम दो स्थिर बिन्दु आवेशों के बीच लगने वाले बल के लिए दिया गया है। इसलिए कूलाम का नियम केवल बिन्दु आवेशों के लिए मान्य है।",
+  "figure": null
+ },
+ {
+  "n": 18,
+  "subject": "Physics",
+  "q_hi": "वैद्युत फ्लक्स का S.I. मात्रक है",
+  "q_en": "S.I. unit of electric flux is",
+  "options": [
+   "Vm",
+   "Vm²",
+   "Jm",
+   "NC⁻¹"
+  ],
+  "options_en": [
+   "Vm",
+   "Vm²",
+   "Jm",
+   "NC⁻¹"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula → Electric Flux Φ = Electric Field × Area होता है। प्रतिस्थापन → मात्रक = (V/m) × m² = Vm। अतः वैद्युत फ्लक्स का S.I. मात्रक Vm है।",
+  "figure": null
+ },
+ {
+  "n": 19,
+  "subject": "Physics",
+  "q_hi": "आंतरिक प्रतिरोध r का एक सेल बाह्य प्रतिरोध R से जुड़ा है। R में धारा अधिकतम होगी, यदि",
+  "q_en": "A cell of internal resistance r is connected to an external resistance R. The current will be maximum in R, if",
+  "options": [
+   "R = r/2",
+   "R = r",
+   "R > r",
+   "R < r"
+  ],
+  "options_en": [
+   "R = r/2",
+   "R = r",
+   "R > r",
+   "R < r"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula → Current I = E/(R + r) होती है। प्रतिस्थापन → R का मान जितना कम होगा, हर (R + r) उतना ही कम होगा और Current उतनी ही अधिक होगी। इसलिए R < r होने पर R में धारा अधिकतम होती है; इसी कारण R = r/2 वाला विकल्प भी इसी शर्त में आता है। नोट: Board की official key में इस प्रश्न के दो उत्तर (A और D) सही माने गए हैं।",
+  "figure": null
+ },
+ {
+  "n": 20,
+  "subject": "Physics",
+  "q_hi": "यदि L तथा R क्रमशः प्रेरकत्व तथा प्रतिरोध को व्यक्त करते हैं, तब L/R का मात्रक है",
+  "q_en": "If L and R represent inductance and resistance respectively, then the unit of L/R will be",
+  "options": [
+   "ओम",
+   "सेकण्ड",
+   "वोल्ट",
+   "ऐम्पियर"
+  ],
+  "options_en": [
+   "ohm",
+   "second",
+   "volt",
+   "ampere"
+  ],
+  "answer": 1,
+  "exp_hi": "L/R, L-R Circuit का Time Constant होता है। Formula → L/R का मात्रक = Henry / Ohm = Second होता है। अतः L/R का मात्रक सेकण्ड है।",
+  "figure": null
+ },
+ {
+  "n": 21,
+  "subject": "Physics",
+  "q_hi": "एक धात्विक चालक में धारा प्रवाहित होती है",
+  "q_en": "In a metallic conductor, the current is carried by",
+  "options": [
+   "मुक्त इलेक्ट्रॉनों द्वारा",
+   "प्रोटॉनों द्वारा",
+   "मुक्त इलेक्ट्रॉनों व प्रोटॉनों द्वारा",
+   "बद्ध इलेक्ट्रॉनों द्वारा"
+  ],
+  "options_en": [
+   "free electrons",
+   "protons",
+   "free electrons and protons",
+   "bound electrons"
+  ],
+  "answer": 0,
+  "exp_hi": "धात्विक चालक में Proton नाभिक में बंधे रहते हैं और गति नहीं करते। केवल मुक्त Electron ही Electric Field के विपरीत दिशा में गति करके Current प्रवाहित करते हैं। इसलिए धात्विक चालक में धारा मुक्त इलेक्ट्रॉनों द्वारा प्रवाहित होती है।",
+  "figure": null
+ },
+ {
+  "n": 22,
+  "subject": "Physics",
+  "q_hi": "'World Wide Web' का आविष्कार किसने किया था ?",
+  "q_en": "'World Wide Web' was invented by",
+  "options": [
+   "टिम बर्नर-ली",
+   "जॉन लोगी बेयर्ड",
+   "अलेक्जैंडर बेन",
+   "जी. मार्कोनी"
+  ],
+  "options_en": [
+   "Tim Berner-Lee",
+   "John Logie Baird",
+   "Alexander Bain",
+   "G. Marconi"
+  ],
+  "answer": 0,
+  "exp_hi": "World Wide Web का आविष्कार टिम बर्नर-ली ने किया था। इसलिए सही उत्तर टिम बर्नर-ली है।",
+  "figure": null
+ },
+ {
+  "n": 23,
+  "subject": "Physics",
+  "q_hi": "निम्नलिखित में से कौन-सा व्यंजक वैद्युत ऊर्जा को दर्शाता है ?",
+  "q_en": "Which of the following expressions represents electrical energy ?",
+  "options": [
+   "V.I.t",
+   "V.I",
+   "I.R².t",
+   "V²/R"
+  ],
+  "options_en": [
+   "V.I.t",
+   "V.I",
+   "I.R².t",
+   "V²/R"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula → Electrical Energy = Power × Time होता है और Power P = V.I होता है। प्रतिस्थापन → ऊर्जा W = P × t = V.I.t। अतः वैद्युत ऊर्जा को V.I.t व्यंजक दर्शाता है।",
+  "figure": null
+ },
+ {
+  "n": 24,
+  "subject": "Physics",
+  "q_hi": "एक ऐल्फा-कण को दूसरे ऐल्फा-कण की ओर लाने पर निकाय की स्थितिज ऊर्जा",
+  "q_en": "When an alpha-particle is brought towards another alpha-particle, the potential energy of the system",
+  "options": [
+   "बढ़ती है",
+   "घटती है",
+   "अपरिवर्तित रहती है",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "increases",
+   "decreases",
+   "remains unchanged",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "दोनों ऐल्फा-कण धनावेशित होते हैं, इसलिए उनके बीच प्रतिकर्षण होता है। उन्हें पास लाने में प्रतिकर्षण के विरुद्ध कार्य करना पड़ता है, जिससे निकाय की स्थितिज ऊर्जा बढ़ती है।",
+  "figure": null
+ },
+ {
+  "n": 25,
+  "subject": "Physics",
+  "q_hi": "पानी का परावैद्युत स्थिरांक होता है",
+  "q_en": "Dielectric constant of water is",
+  "options": [
+   "80",
+   "1",
+   "0",
+   "∞"
+  ],
+  "options_en": [
+   "80",
+   "1",
+   "0",
+   "∞"
+  ],
+  "answer": 0,
+  "exp_hi": "पानी का परावैद्युत स्थिरांक (Dielectric Constant) लगभग 80 होता है। निर्वात के लिए इसका मान 1 होता है।",
+  "figure": null
+ },
+ {
+  "n": 26,
+  "subject": "Physics",
+  "q_hi": "धारा घनत्व J⃗ , विशिष्ट चालकता σ तथा वैद्युत क्षेत्र की तीव्रता E⃗ के बीच संबंध है",
+  "q_en": "The relationship between current density J⃗ , specific conductance σ and electric field intensity E⃗ is",
+  "options": [
+   "E⃗ = σ J⃗",
+   "E⃗ = σ/J⃗",
+   "J⃗ = E⃗/σ",
+   "J⃗ = σ E⃗"
+  ],
+  "options_en": [
+   "E⃗ = σ J⃗",
+   "E⃗ = σ/J⃗",
+   "J⃗ = E⃗/σ",
+   "J⃗ = σ E⃗"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula → Ohm's Law का सूक्ष्म रूप J⃗ = σ E⃗ होता है, जहाँ J⃗ Current Density, σ विशिष्ट चालकता (Conductivity) और E⃗ Electric Field है।",
+  "figure": null
+ },
+ {
+  "n": 27,
+  "subject": "Physics",
+  "q_hi": "कार्बन प्रतिरोध के पीले रंग के कोड का मान है",
+  "q_en": "The yellow colour code value of carbon resistance is",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "5"
+  ],
+  "options_en": [
+   "4",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "exp_hi": "Carbon Resistance के Colour Code में पीले (Yellow) रंग का मान 4 होता है। क्रम में काला 0, भूरा 1, लाल 2, नारंगी 3, पीला 4 होता है।",
+  "figure": null
+ },
+ {
+  "n": 28,
+  "subject": "Physics",
+  "q_hi": "सापेक्ष पारगम्यता बराबर है",
+  "q_en": "Relative permeability is equal to",
+  "options": [
+   "μ_r = μ_o . μ",
+   "μ_r = μ/μ_o",
+   "μ_r = μ_o/μ",
+   "μ_r = √(μ . μ_o)"
+  ],
+  "options_en": [
+   "μ_r = μ_o . μ",
+   "μ_r = μ/μ_o",
+   "μ_r = μ_o/μ",
+   "μ_r = √(μ . μ_o)"
+  ],
+  "answer": 1,
+  "exp_hi": "Formula → सापेक्ष पारगम्यता (Relative Permeability) μ_r = μ/μ_o होती है, जहाँ μ माध्यम की पारगम्यता और μ_o निर्वात की पारगम्यता है। यह एक मात्रकहीन राशि है।",
+  "figure": null
+ },
+ {
+  "n": 29,
+  "subject": "Physics",
+  "q_hi": "विद्युत चुम्बकीय तरंगों को सर्वप्रथम किसने गणितीय रूप से समझाया ?",
+  "q_en": "Who first explained electromagnetic waves mathematically ?",
+  "options": [
+   "आइंस्टीन",
+   "फैराडे",
+   "मैक्सवेल",
+   "हर्ट्ज"
+  ],
+  "options_en": [
+   "Einstein",
+   "Faraday",
+   "Maxwell",
+   "Hertz"
+  ],
+  "answer": 2,
+  "exp_hi": "विद्युत चुम्बकीय तरंगों को सर्वप्रथम मैक्सवेल ने अपने समीकरणों द्वारा गणितीय रूप से समझाया था। हर्ट्ज ने बाद में इन तरंगों को प्रयोग द्वारा सिद्ध किया।",
+  "figure": null
+ },
+ {
+  "n": 30,
+  "subject": "Physics",
+  "q_hi": "निम्न में से कौन-सा कारक एक चालक तार के प्रतिरोध को प्रभावित नहीं करता है ?",
+  "q_en": "Which factor of the following does not affect resistance of a conducting wire ?",
+  "options": [
+   "लम्बाई",
+   "तापमान",
+   "पदार्थ",
+   "आरोपित विभव"
+  ],
+  "options_en": [
+   "Length",
+   "Temperature",
+   "Material",
+   "Voltage applied"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula → Resistance R = ρl/A, इसलिए Resistance लम्बाई, पदार्थ (ρ) और तापमान पर निर्भर करता है। आरोपित विभव (Voltage) बदलने से Current बदलता है, Resistance नहीं बदलता।",
+  "figure": null
+ },
+ {
+  "n": 31,
+  "subject": "Physics",
+  "q_hi": "जब एक परावैद्युत को बाहरी विद्युत क्षेत्र में रखा जाता है, तो परावैद्युत के अंदर प्रभावी वैद्युत क्षेत्र",
+  "q_en": "When a dielectric is placed in an external electric field, the effective electric field inside the dielectric",
+  "options": [
+   "घटता है",
+   "बढ़ता है",
+   "शून्य हो जाता है",
+   "वही रहता है"
+  ],
+  "options_en": [
+   "Decreases",
+   "Increases",
+   "Becomes zero",
+   "Remains same"
+  ],
+  "answer": 0,
+  "exp_hi": "बाहरी Electric Field में परावैद्युत का ध्रुवण होता है और उसके अंदर बाहरी क्षेत्र के विपरीत दिशा में एक आंतरिक क्षेत्र बनता है। इससे परावैद्युत के अंदर प्रभावी Electric Field घटता है, परंतु शून्य नहीं होता।",
+  "figure": null
+ },
+ {
+  "n": 32,
+  "subject": "Physics",
+  "q_hi": "1 μF धारिता वाले संधारित्र की पट्टियों के बीच 1 V विभवान्तर रखने पर आवेशित संधारित्र पर आवेश होगा",
+  "q_en": "A capacitor of capacitance 1 μF is kept at 1 V potential difference between the plates. The charge on the charged capacitor will be",
+  "options": [
+   "1 C",
+   "शून्य",
+   "1 μC",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "1 C",
+   "zero",
+   "1 μC",
+   "none of these"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula → Q = C V → प्रतिस्थापन → Q = 1 μF × 1 V = 1 × 10⁻⁶ F × 1 V → उत्तर → Q = 1 × 10⁻⁶ C = 1 μC । यहाँ C Capacitance और V Potential Difference है।",
+  "figure": null
+ },
+ {
+  "n": 33,
+  "subject": "Physics",
+  "q_hi": "m द्रव्यमान तथा q आवेश का एक आवेशित कण एकसमान चुम्बकीय क्षेत्र B में क्षेत्र की दिशा से θ कोण पर v वेग से प्रवेश करता है, तो कण का पथ कुण्डलिनी के रूप में होता है। इस कुण्डलिनी के वृत्तीय पथ की त्रिज्या होगी",
+  "q_en": "If a charged particle of mass m and charge q enters a uniform magnetic field B at an angle θ in the direction of field with velocity v, then the path of the particle is helical. The radius of circular path of the helix will be",
+  "options": [
+   "mv/qB",
+   "mv cos θ/qB",
+   "mv sin θ/qB",
+   "2πmv/qB"
+  ],
+  "options_en": [
+   "mv/qB",
+   "mv cos θ/qB",
+   "mv sin θ/qB",
+   "2πmv/qB"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula → वेग का Magnetic Field के लम्बवत घटक v sin θ वृत्तीय गति देता है, इसलिए r = m(v sin θ)/qB → प्रतिस्थापन → r = mv sin θ/qB । समान्तर घटक v cos θ कण को आगे बढ़ाता है, जिससे पथ कुण्डलिनी (Helical) बनता है।",
+  "figure": null
+ },
+ {
+  "n": 34,
+  "subject": "Physics",
+  "q_hi": "एक आदर्श अमीटर में होता है",
+  "q_en": "An ideal ammeter has",
+  "options": [
+   "शून्य प्रतिरोध",
+   "अनन्त प्रतिरोध",
+   "उच्च प्रतिरोध",
+   "ऋणात्मक प्रतिरोध"
+  ],
+  "options_en": [
+   "zero resistance",
+   "infinite resistance",
+   "high resistance",
+   "negative resistance"
+  ],
+  "answer": 0,
+  "exp_hi": "आदर्श Ammeter का Resistance शून्य होता है, ताकि वह परिपथ में श्रेणीक्रम में जुड़कर Current को बिल्कुल प्रभावित न करे। इसके विपरीत आदर्श Voltmeter का Resistance अनन्त होता है।",
+  "figure": null
+ },
+ {
+  "n": 35,
+  "subject": "Physics",
+  "q_hi": "टेलीविजन के रिमोट कंट्रोल में उपयोग होती हैं",
+  "q_en": "Remote control for televisions uses",
+  "options": [
+   "अवरक्त तरंगें",
+   "पराबैंगनी तरंगें",
+   "रेडियो तरंगें",
+   "सूक्ष्म तरंगें"
+  ],
+  "options_en": [
+   "infrared waves",
+   "ultraviolet waves",
+   "radio waves",
+   "microwaves"
+  ],
+  "answer": 0,
+  "exp_hi": "टेलीविजन के Remote Control में Infrared तरंगों का उपयोग होता है। ये तरंगें कम दूरी पर Signal भेजने के लिए उपयुक्त होती हैं।",
+  "figure": null
+ },
+ {
+  "n": 36,
+  "subject": "Physics",
+  "q_hi": "फोटान का संवेग ( p ) होता है",
+  "q_en": "The momentum ( p ) of photon is",
+  "options": [
+   "λ/h",
+   "h/λ",
+   "hc/λ",
+   "hλ"
+  ],
+  "options_en": [
+   "λ/h",
+   "h/λ",
+   "hc/λ",
+   "hλ"
+  ],
+  "answer": 1,
+  "exp_hi": "Formula: Photon की Energy E = hc/λ और E = pc → p = E/c = hc/(λc) → p = h/λ। इसलिए Photon का संवेग h/λ होता है।",
+  "figure": null
+ },
+ {
+  "n": 37,
+  "subject": "Physics",
+  "q_hi": "हाइड्रोजन परमाणु में बोहर की निम्नतम कक्षा की त्रिज्या r0 है। बोहर की दूसरी कक्षा की त्रिज्या है",
+  "q_en": "The radius of the lowest Bohr's orbit in hydrogen atom is r0. The radius of Bohr's second orbit is",
+  "options": [
+   "r0",
+   "2r0",
+   "4r0",
+   "r0/2"
+  ],
+  "options_en": [
+   "r0",
+   "2r0",
+   "4r0",
+   "r0/2"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula: Bohr कक्षा की त्रिज्या r_n ∝ n² → r_n = n²r0। प्रतिस्थापन: दूसरी कक्षा के लिए n = 2 → r_2 = 2² × r0 = 4r0। इसलिए उत्तर 4r0 है।",
+  "figure": null
+ },
+ {
+  "n": 38,
+  "subject": "Physics",
+  "q_hi": "यदि चुम्बकीय क्षेत्र समान है लेकिन लूप का क्षेत्रफल बढ़ाया जाय, तो फ्लक्स",
+  "q_en": "If magnetic field is same but the area of the loop is increased, then the flux",
+  "options": [
+   "बढ़ता है",
+   "घटता है",
+   "शून्य हो जाता है",
+   "अपरिवर्तित रहता है"
+  ],
+  "options_en": [
+   "increases",
+   "decreases",
+   "becomes zero",
+   "remains unchanged"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula: Magnetic Flux Φ = BA cosθ। B समान रहने पर क्षेत्रफल A बढ़ने से Φ भी बढ़ता है। इसलिए फ्लक्स बढ़ता है।",
+  "figure": null
+ },
+ {
+  "n": 39,
+  "subject": "Physics",
+  "q_hi": "घरेलू प्रत्यावर्ती धारा विभव 220 V होता है। यह क्या दर्शाता है ?",
+  "q_en": "The voltage of domestic ac is 220 V. What does this represent ?",
+  "options": [
+   "शिखर मान विभव",
+   "औसत मान विभव",
+   "मूल माध्य विभव",
+   "मूल माध्य वर्ग विभव"
+  ],
+  "options_en": [
+   "Peak value voltage",
+   "Mean value voltage",
+   "Root mean voltage",
+   "Root mean square voltage"
+  ],
+  "answer": 3,
+  "exp_hi": "घरेलू AC Supply पर लिखा 220 V मान Root Mean Square (RMS) Voltage होता है। AC के सभी सामान्य माप RMS मान में ही दिए जाते हैं।",
+  "figure": null
+ },
+ {
+  "n": 40,
+  "subject": "Physics",
+  "q_hi": "किसी बिन्दुवत् स्रोत से परिमित दूरी पर तरंगाग्र होता है",
+  "q_en": "The wavefront due to a point source at a finite distance from the source is",
+  "options": [
+   "समतल",
+   "वृत्ताकार",
+   "बेलनाकार",
+   "गोलाकार"
+  ],
+  "options_en": [
+   "plane",
+   "circular",
+   "cylindrical",
+   "spherical"
+  ],
+  "answer": 3,
+  "exp_hi": "बिन्दु स्रोत से तरंगें सभी दिशाओं में समान चाल से फैलती हैं, इसलिए परिमित दूरी पर समान कला वाले बिन्दुओं का पृष्ठ गोलाकार होता है। अतः तरंगाग्र गोलाकार होता है।",
+  "figure": null
+ },
+ {
+  "n": 41,
+  "subject": "Physics",
+  "q_hi": "विनाशकारी व्यतिकरण के लिए पथांतर बराबर होता है",
+  "q_en": "For destructive interference, the path difference should be equal to",
+  "options": [
+   "nλ के",
+   "(2n+1) λ/2 के",
+   "शून्य के",
+   "अनंत के"
+  ],
+  "options_en": [
+   "nλ",
+   "(2n+1) λ/2",
+   "zero",
+   "infinity"
+  ],
+  "answer": 1,
+  "exp_hi": "विनाशकारी व्यतिकरण तब होता है जब दो तरंगें विपरीत कला में मिलती हैं। इसके लिए पथांतर λ/2 का विषम गुणज होता है, अर्थात् (2n+1) λ/2, जहाँ n = 0, 1, 2, ...",
+  "figure": null
+ },
+ {
+  "n": 42,
+  "subject": "Physics",
+  "q_hi": "E = 0 तीव्रता वाले वैद्युत क्षेत्र में विभव V का दूरी r के साथ परिवर्तन होगा",
+  "q_en": "In an electric field with intensity E = 0, the change of potential V with distance r will be",
+  "options": [
+   "V ∝ 1/r²",
+   "V ∝ 1/r",
+   "V ∝ r",
+   "V = नियत व r से स्वतंत्र"
+  ],
+  "options_en": [
+   "V ∝ 1/r²",
+   "V ∝ 1/r",
+   "V ∝ r",
+   "V = constant and independent of r"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula: E = -dV/dr। यदि E = 0 तो dV/dr = 0 → V = नियत। इसलिए विभव दूरी r से स्वतंत्र और नियत रहता है।",
+  "figure": null
+ },
+ {
+  "n": 43,
+  "subject": "Physics",
+  "q_hi": "समानांतर संयोजन में प्रतिरोधों का तुल्य प्रतिरोध",
+  "q_en": "The equivalent resistance of resistors in parallel combination",
+  "options": [
+   "घट जाता है",
+   "बढ़ जाता है",
+   "वही रहता है",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "decreases",
+   "increases",
+   "remains same",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula: समानांतर संयोजन में 1/R_eq = 1/R1 + 1/R2 + ...। इससे तुल्य Resistance सबसे छोटे Resistance से भी कम हो जाता है, अर्थात् घट जाता है।",
+  "figure": null
+ },
+ {
+  "n": 44,
+  "subject": "Physics",
+  "q_hi": "धारावाही परिनालिका के अंदर चुम्बकीय क्षेत्र रेखाएँ हैं",
+  "q_en": "The magnetic field lines inside a current-carrying solenoid are",
+  "options": [
+   "वृत्ताकार",
+   "अपसारी",
+   "परवलय",
+   "समानांतर तथा सीधी"
+  ],
+  "options_en": [
+   "circular",
+   "diverging",
+   "parabola",
+   "parallel and straight"
+  ],
+  "answer": 3,
+  "exp_hi": "धारावाही Solenoid के अंदर Magnetic Field लगभग एकसमान होता है। इसलिए अंदर क्षेत्र रेखाएँ समानांतर तथा सीधी होती हैं।",
+  "figure": null
+ },
+ {
+  "n": 45,
+  "subject": "Physics",
+  "q_hi": "कलासंबद्ध स्रोत वे स्रोत हैं जिनके लिए",
+  "q_en": "Coherent sources are those sources for which",
+  "options": [
+   "कलान्तर स्थिर रहता है",
+   "आयाम स्थिर रहता है",
+   "आवृत्ति स्थिर रहती है",
+   "कलान्तर तथा आवृत्ति दोनों स्थिर रहते हैं"
+  ],
+  "options_en": [
+   "phase difference remains constant",
+   "amplitude remains constant",
+   "frequency remains constant",
+   "both phase difference and frequency remain constant"
+  ],
+  "answer": 3,
+  "exp_hi": "Coherent स्रोतों की Frequency समान होती है और उनके बीच Phase Difference समय के साथ स्थिर रहता है। इसलिए कलान्तर तथा आवृत्ति दोनों स्थिर रहते हैं।",
+  "figure": null
+ },
+ {
+  "n": 46,
+  "subject": "Physics",
+  "q_hi": "सूर्य से प्राप्त प्राकृतिक प्रकाश होता है",
+  "q_en": "Natural light from the sun is",
+  "options": [
+   "ध्रुवित",
+   "अध्रुवित",
+   "आंशिक ध्रुवित",
+   "रेखीय ध्रुवित"
+  ],
+  "options_en": [
+   "polarised",
+   "unpolarised",
+   "partially polarised",
+   "linearly polarised"
+  ],
+  "answer": 1,
+  "exp_hi": "सूर्य से प्राप्त प्राकृतिक प्रकाश में Electric Field के कंपन सभी दिशाओं में होते हैं। ऐसा प्रकाश अध्रुवित कहलाता है।",
+  "figure": null
+ },
+ {
+  "n": 47,
+  "subject": "Physics",
+  "q_hi": "रेडियोधर्मिता की खोज किसने की थी ?",
+  "q_en": "Radioactivity was discovered by",
+  "options": [
+   "मैरी क्यूरी",
+   "पियरे क्यूरी",
+   "अर्नेस्ट रदरफोर्ड",
+   "हेनरी बेक्वेरेल"
+  ],
+  "options_en": [
+   "Marie Curie",
+   "Pierre Curie",
+   "Ernest Rutherford",
+   "Henri Becquerel"
+  ],
+  "answer": 3,
+  "exp_hi": "Radioactivity की खोज हेनरी बेक्वेरेल ने की थी। उन्होंने Uranium से स्वतः विकिरण निकलते हुए देखा था।",
+  "figure": null
+ },
+ {
+  "n": 48,
+  "subject": "Physics",
+  "q_hi": "प्रसारण विधि द्वारा संचार का उदाहरण है",
+  "q_en": "The example of a broadcast mode of communication is",
+  "options": [
+   "रेडियो",
+   "टेलीफोन",
+   "टेलीविजन",
+   "(A) और (C) दोनों"
+  ],
+  "options_en": [
+   "radio",
+   "telephone",
+   "television",
+   "both (A) and (C)"
+  ],
+  "answer": 3,
+  "exp_hi": "Broadcast विधि में एक Transmitter से अनेक Receivers तक Signal एक साथ भेजा जाता है। Radio और Television दोनों इसके उदाहरण हैं, इसलिए (A) और (C) दोनों सही हैं।",
+  "figure": null
+ },
+ {
+  "n": 49,
+  "subject": "Physics",
+  "q_hi": "किस उपकरण का उपयोग विभव नियंत्रक के रूप में किया जाता है ?",
+  "q_en": "Which device is used as a voltage regulator ?",
+  "options": [
+   "ट्रांजिस्टर",
+   "ट्रांसफार्मर",
+   "जेनर डायोड",
+   "प्रकाश डायोड"
+  ],
+  "options_en": [
+   "Transistor",
+   "Transformer",
+   "Zener diode",
+   "Photodiode"
+  ],
+  "answer": 2,
+  "exp_hi": "Zener Diode को Reverse Breakdown क्षेत्र में चलाकर Voltage Regulator के रूप में उपयोग किया जाता है। Current बदलने पर भी इसके सिरों पर Voltage लगभग स्थिर रहता है। इसलिए सही उत्तर जेनर डायोड है।",
+  "figure": null
+ },
+ {
+  "n": 50,
+  "subject": "Physics",
+  "q_hi": "दूर दृष्टिदोष को दूर करने के लिए प्रयुक्त लेंस होता है",
+  "q_en": "To remove hypermetropia, lens used is",
+  "options": [
+   "उत्तल",
+   "अवतल",
+   "बेलनाकार",
+   "समतलोत्तल"
+  ],
+  "options_en": [
+   "convex",
+   "concave",
+   "cylindrical",
+   "plano-convex"
+  ],
+  "answer": 0,
+  "exp_hi": "दूर दृष्टिदोष (Hypermetropia) में पास की वस्तु का प्रतिबिम्ब Retina के पीछे बनता है। उत्तल (Convex) Lens किरणों को अभिसरित करके प्रतिबिम्ब को Retina पर बनाता है। इसलिए उत्तल लेंस प्रयुक्त होता है।",
+  "figure": null
+ },
+ {
+  "n": 51,
+  "subject": "Physics",
+  "q_hi": "प्रकाश की तीव्रता का व्युत्क्रम वर्ग नियम अर्थात् तीव्रता ∝ 1/r² मान्य होता है",
+  "q_en": "Inverse square law of intensity of light, i.e., intensity ∝ 1/r² is applicable for",
+  "options": [
+   "बिन्दु स्रोत के लिए",
+   "रेखीय स्रोत के लिए",
+   "बेलनाकार स्रोत के लिए",
+   "समतल स्रोत के लिए"
+  ],
+  "options_en": [
+   "point source",
+   "linear source",
+   "cylindrical source",
+   "plane source"
+  ],
+  "answer": 0,
+  "exp_hi": "बिन्दु स्रोत से ऊर्जा सभी दिशाओं में गोलीय पृष्ठ पर फैलती है, जिसका क्षेत्रफल ∝ r² होता है। इसलिए Intensity ∝ 1/r² होता है। यह नियम बिन्दु स्रोत के लिए मान्य है।",
+  "figure": null
+ },
+ {
+  "n": 52,
+  "subject": "Physics",
+  "q_hi": "बोहर कक्षा में एक इलेक्ट्रॉन की गतिज ऊर्जा ( K ) उसकी स्थितिज ऊर्जा ( U ) से किस प्रकार सम्बन्धित होती है ?",
+  "q_en": "The kinetic energy ( K ) of an electron in a Bohr orbit is related to its potential energy ( U ) by",
+  "options": [
+   "K = U",
+   "K = -U",
+   "K = -U/2",
+   "K = -2U"
+  ],
+  "options_en": [
+   "K = U",
+   "K = -U",
+   "K = -U/2",
+   "K = -2U"
+  ],
+  "answer": 2,
+  "exp_hi": "Bohr कक्षा में कुल ऊर्जा E = K + U तथा E = -K होता है। इसलिए K = -E और U = 2E → K = -U/2। अतः गतिज ऊर्जा, स्थितिज ऊर्जा के ऋणात्मक मान की आधी होती है।",
+  "figure": null
+ },
+ {
+  "n": 53,
+  "subject": "Physics",
+  "q_hi": "अर्द्धचालक को प्रबल धारा से क्षति किस कारण होती है ?",
+  "q_en": "Semiconductor is damaged by the strong current due to",
+  "options": [
+   "मुक्त इलेक्ट्रॉनों की कमी से",
+   "प्रोटॉनों की अधिकता से",
+   "इलेक्ट्रॉनों की अधिकता से",
+   "न्यूट्रॉनों की अधिकता से"
+  ],
+  "options_en": [
+   "lack of free electrons",
+   "excess of protons",
+   "excess of electrons",
+   "excess of neutrons"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रबल Current बहने से Semiconductor में इलेक्ट्रॉनों की अधिकता से अत्यधिक ऊष्मा उत्पन्न होती है और सहसंयोजक बंध टूटने लगते हैं, जिससे अर्द्धचालक क्षतिग्रस्त हो जाता है। इसलिए सही उत्तर इलेक्ट्रॉनों की अधिकता है।",
+  "figure": null
+ },
+ {
+  "n": 54,
+  "subject": "Physics",
+  "q_hi": "किसी जर्मेनियम क्रिस्टल को p-टाइप अर्द्धचालक में परिवर्तित करने के लिए अपद्रव्य तत्व की संयोजकता है",
+  "q_en": "The valency of impurity element to convert a germanium crystal into a p-type semiconductor is",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "options_en": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 1,
+  "exp_hi": "p-type Semiconductor बनाने के लिए त्रिसंयोजक (संयोजकता 3) अपद्रव्य, जैसे Indium या Boron, मिलाया जाता है। इससे Crystal में Hole की अधिकता होती है। इसलिए संयोजकता 3 है।",
+  "figure": null
+ },
+ {
+  "n": 55,
+  "subject": "Physics",
+  "q_hi": "संचार प्रणाली में पुनरावर्तक होता है",
+  "q_en": "In a communication system, a repeater is",
+  "options": [
+   "अभिग्राही",
+   "प्रेषित्र",
+   "अभिग्राही तथा प्रेषित्र का संयोजन",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "a receiver",
+   "a transmitter",
+   "a combination of a receiver and transmitter",
+   "none of these"
+  ],
+  "answer": 2,
+  "exp_hi": "Repeater पहले Signal को Receiver के रूप में ग्रहण करता है, उसे प्रवर्धित करता है और फिर Transmitter के रूप में आगे भेजता है। इसलिए यह अभिग्राही तथा प्रेषित्र का संयोजन होता है।",
+  "figure": null
+ },
+ {
+  "n": 56,
+  "subject": "Physics",
+  "q_hi": "किसी धातु पृष्ठ से उत्सर्जित इलेक्ट्रॉन का अधिकतम वेग दोगुना हो जाता है जब आपतित प्रकाश की आवृत्ति ν को दोगुना करते हैं। धातु का कार्यफलन है",
+  "q_en": "The maximum velocity of an electron emitted from a metal surface becomes two times when the frequency ν of the incident light is doubled. The work function of the metal is",
+  "options": [
+   "2hν/3",
+   "hν/3",
+   "शून्य",
+   "hν/2"
+  ],
+  "options_en": [
+   "2hν/3",
+   "hν/3",
+   "zero",
+   "hν/2"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula: Einstein समीकरण hν = φ₀ + (1/2)mv² और 2hν = φ₀ + (1/2)m(2v)² = φ₀ + 4×(1/2)mv²। प्रतिस्थापन: दूसरे समीकरण से पहले का चार गुना घटाने पर 2hν - hν हल करने से 3φ₀ = 2hν → φ₀ = 2hν/3। इसलिए कार्यफलन 2hν/3 है।",
+  "figure": null
+ },
+ {
+  "n": 57,
+  "subject": "Physics",
+  "q_hi": "B₀²/μ₀ की विमाएँ वही होंगी जो",
+  "q_en": "The dimensions of B₀²/μ₀ will be the same as that of",
+  "options": [
+   "ऊर्जा घनत्व की होगी",
+   "कार्य की होगी",
+   "संवेग की होगी",
+   "वैद्युत फ्लक्स की होगी"
+  ],
+  "options_en": [
+   "energy density",
+   "work",
+   "momentum",
+   "electric flux"
+  ],
+  "answer": 0,
+  "exp_hi": "Formula: चुम्बकीय Energy Density u = B₀²/(2μ₀)। इसमें 2 केवल एक संख्या है, इसलिए B₀²/μ₀ की विमाएँ Energy Density के समान होंगी। इसलिए सही उत्तर ऊर्जा घनत्व है।",
+  "figure": null
+ },
+ {
+  "n": 58,
+  "subject": "Physics",
+  "q_hi": "निकेल है",
+  "q_en": "Nickel is",
+  "options": [
+   "अनुचुम्बकीय",
+   "प्रतिचुम्बकीय",
+   "लौहचुम्बकीय",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "paramagnetic",
+   "diamagnetic",
+   "ferromagnetic",
+   "none of these"
+  ],
+  "answer": 2,
+  "exp_hi": "Nickel, Iron और Cobalt की तरह Ferromagnetic पदार्थ है। यह चुम्बकीय क्षेत्र में प्रबल रूप से आकर्षित होता है। इसलिए निकेल लौहचुम्बकीय है।",
+  "figure": null
+ },
+ {
+  "n": 59,
+  "subject": "Physics",
+  "q_hi": "अर्द्ध-तरंग दिष्टकारी में यदि निवेशी आवृत्ति 50 Hz है, तो निर्गम आवृत्ति होगी",
+  "q_en": "In a half-wave rectifier, if the input frequency is 50 Hz, then output frequency will be",
+  "options": [
+   "25 Hz",
+   "100 Hz",
+   "0 Hz",
+   "50 Hz"
+  ],
+  "options_en": [
+   "25 Hz",
+   "100 Hz",
+   "0 Hz",
+   "50 Hz"
+  ],
+  "answer": 3,
+  "exp_hi": "Half-Wave Rectifier में प्रत्येक Input Cycle में केवल एक Output Pulse मिलता है। इसलिए Output Frequency = Input Frequency = 50 Hz। अतः निर्गम आवृत्ति 50 Hz होगी।",
+  "figure": null
+ },
+ {
+  "n": 60,
+  "subject": "Physics",
+  "q_hi": "1 मिलीग्राम द्रव्यमान क्षति से कितने जूल ऊर्जा मुक्त होगी ?",
+  "q_en": "How many joules of energy will be released due to mass defect of 1 mg ?",
+  "options": [
+   "9 × 10⁶ J",
+   "3 × 10⁸ J",
+   "9 × 10¹⁰ J",
+   "3 × 10² J"
+  ],
+  "options_en": [
+   "9 × 10⁶ J",
+   "3 × 10⁸ J",
+   "9 × 10¹⁰ J",
+   "3 × 10² J"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula: E = mc²। प्रतिस्थापन: m = 1 mg = 10⁻⁶ kg, c = 3 × 10⁸ m/s → E = 10⁻⁶ × (3 × 10⁸)² = 10⁻⁶ × 9 × 10¹⁶ = 9 × 10¹⁰ J। इसलिए मुक्त ऊर्जा 9 × 10¹⁰ J होगी।",
+  "figure": null
+ },
+ {
+  "n": 61,
+  "subject": "Physics",
+  "q_hi": "49 V और 64 V से त्वरित दो इलेक्ट्रॉनों से जुड़े डी ब्रॉग्ली तरंगदैर्घ्य का अनुपात है",
+  "q_en": "The ratio of de Broglie wavelength associated with two electrons accelerated through 49 V and 64 V is",
+  "options": [
+   "49/64",
+   "64/49",
+   "7/8",
+   "8/7"
+  ],
+  "options_en": [
+   "49/64",
+   "64/49",
+   "7/8",
+   "8/7"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula: de Broglie तरंगदैर्घ्य λ = h/√(2meV) → λ ∝ 1/√V। प्रतिस्थापन: λ₁/λ₂ = √(V₂/V₁) = √(64/49) = 8/7। इसलिए अनुपात 8/7 है।",
+  "figure": null
+ },
+ {
+  "n": 62,
+  "subject": "Physics",
+  "q_hi": "प्रकाश की एक किरण समतल दर्पण पर अभिलम्बवत् रूप से आपतित होती है। परावर्तन कोण होगा",
+  "q_en": "A ray of light is incident normally on a plane mirror. The angle of reflection will be",
+  "options": [
+   "90°",
+   "0°",
+   "परावर्तित नहीं होगी",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "90°",
+   "0°",
+   "will not be reflected",
+   "none of these"
+  ],
+  "answer": 1,
+  "exp_hi": "अभिलम्बवत् आपतन में आपतित किरण अभिलम्ब के साथ 0° का कोण बनाती है, अर्थात् आपतन कोण = 0°। परावर्तन नियम से परावर्तन कोण = आपतन कोण = 0°। इसलिए उत्तर 0° है।",
+  "figure": null
+ },
+ {
+  "n": 63,
+  "subject": "Physics",
+  "q_hi": "कलांतर φ पथांतर λ से संबंधित है",
+  "q_en": "The phase difference φ is related to path difference λ by",
+  "options": [
+   "(λ/π) φ",
+   "(π/λ) φ",
+   "(λ/2π) φ",
+   "(2π/λ) φ"
+  ],
+  "options_en": [
+   "(λ/π) φ",
+   "(π/λ) φ",
+   "(λ/2π) φ",
+   "(2π/λ) φ"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula: पथांतर = (λ/2π) × कलांतर। अर्थात् पथांतर = (λ/2π) φ। इसलिए सही संबंध विकल्प (C) है।",
+  "figure": null
+ },
+ {
+  "n": 64,
+  "subject": "Physics",
+  "q_hi": "r₁ तथा r₂ त्रिज्याओं के दो चालक गोलों के पृष्ठों पर आवेश के पृष्ठ घनत्व बराबर हैं। पृष्ठों पर वैद्युत क्षेत्र की तीव्रताओं का अनुपात है",
+  "q_en": "The surface charge densities on the surface of two conducting spheres of radii r₁ and r₂ are equal. The ratio of electric field intensities on the surfaces is",
+  "options": [
+   "r₁/r₂",
+   "r₁²/r₂²",
+   "r₂²/r₁²",
+   "1 : 1"
+  ],
+  "options_en": [
+   "r₁/r₂",
+   "r₁²/r₂²",
+   "r₂²/r₁²",
+   "1 : 1"
+  ],
+  "answer": 3,
+  "exp_hi": "Formula: चालक गोले के पृष्ठ पर Electric Field E = σ/ε₀, जहाँ σ पृष्ठ आवेश घनत्व है। दोनों गोलों के σ बराबर हैं, इसलिए E₁ = E₂ → E₁/E₂ = 1 : 1। अतः अनुपात 1 : 1 है।",
+  "figure": null
+ },
+ {
+  "n": 65,
+  "subject": "Physics",
+  "q_hi": "ओम का नियम तब लागू नहीं होता है, जब",
+  "q_en": "Ohm's law does not apply, when",
+  "options": [
+   "तापमान बदलता हो",
+   "तापमान स्थिर रहता हो",
+   "विभवान्तर बदलता हो",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "temperature changes",
+   "temperature is constant",
+   "potential difference changes",
+   "none of these"
+  ],
+  "answer": 0,
+  "exp_hi": "Ohm का नियम V = IR तभी लागू होता है जब चालक का Temperature स्थिर रहे। Temperature बदलने से Resistance बदल जाता है, इसलिए नियम लागू नहीं होता। अतः सही उत्तर तापमान बदलता हो है।",
+  "figure": null
+ },
+ {
+  "n": 66,
+  "subject": "Physics",
+  "q_hi": "प्राकृतिक विद्युत चुम्बकीय प्रेरण का उदाहरण है",
+  "q_en": "An example of natural electromagnetic induction is",
+  "options": [
+   "रेडियो",
+   "टेलीविजन",
+   "बैटरी चार्जिंग",
+   "बिजली गिरना"
+  ],
+  "options_en": [
+   "radio",
+   "television",
+   "battery charging",
+   "lightning strike"
+  ],
+  "answer": 3,
+  "exp_hi": "बिजली गिरना (Lightning Strike) प्रकृति में होने वाली Electromagnetic Induction की घटना का उदाहरण माना जाता है, जिसमें बदलते Current से आस-पास प्रेरित प्रभाव उत्पन्न होते हैं। इसलिए सही उत्तर बिजली गिरना है।",
+  "figure": null
+ },
+ {
+  "n": 67,
+  "subject": "Physics",
+  "q_hi": "अपचायी ट्रांसफार्मर में कौन-सी राशि घटती है ?",
+  "q_en": "Which quantity decreases in step-down transformer ?",
+  "options": [
+   "धारा",
+   "वोल्टेज",
+   "आवृत्ति",
+   "शक्ति"
+  ],
+  "options_en": [
+   "Current",
+   "Voltage",
+   "Frequency",
+   "Power"
+  ],
+  "answer": 1,
+  "exp_hi": "अपचायी (Step-down) Transformer में द्वितीयक कुंडली के फेरों की संख्या प्राथमिक से कम होती है, इसलिए Output Voltage घटता है। Formula: Vs/Vp = Ns/Np < 1 ⇒ Vs < Vp। आवृत्ति (Frequency) अपरिवर्तित रहती है, जबकि धारा बढ़ती है।",
+  "figure": null
+ },
+ {
+  "n": 68,
+  "subject": "Physics",
+  "q_hi": "पानी का अपवर्तनांक 1.33 है। पानी में प्रकाश की चाल क्या होगी ?",
+  "q_en": "The refractive index of water is 1.33. What will be the speed of light in water ?",
+  "options": [
+   "1.33 × 10⁸ m/s",
+   "4 × 10⁸ m/s",
+   "2.25 × 10⁸ m/s",
+   "3 × 10⁸ m/s"
+  ],
+  "options_en": [
+   "1.33 × 10⁸ m/s",
+   "4 × 10⁸ m/s",
+   "2.25 × 10⁸ m/s",
+   "3 × 10⁸ m/s"
+  ],
+  "answer": 2,
+  "exp_hi": "Formula: अपवर्तनांक μ = c/v ⇒ v = c/μ। प्रतिस्थापन: v = 3 × 10⁸ / 1.33 ≈ 2.25 × 10⁸ m/s। अतः पानी में प्रकाश की चाल 2.25 × 10⁸ m/s होगी।",
+  "figure": null
+ },
+ {
+  "n": 69,
+  "subject": "Physics",
+  "q_hi": "प्रकाशीय इलेक्ट्रॉनों की अधिकतम गतिज ऊर्जा किस प्रकार परिवर्तनशील होती है ?",
+  "q_en": "The maximum kinetic energy of the photoelectrons varies",
+  "options": [
+   "रैखिक रूप से आवृत्ति के साथ तथा आपतित विकिरण की तीव्रता के साथ",
+   "रैखिक रूप से आवृत्ति के साथ तथा आपतित विकिरण की तीव्रता से स्वतन्त्र",
+   "आवृत्ति के व्युत्क्रम रूप में तथा आपतित विकिरण की तीव्रता से स्वतंत्र",
+   "तीव्रता के व्युत्क्रम रूप में तथा आपतित विकिरण की आवृत्ति से स्वतंत्र"
+  ],
+  "options_en": [
+   "linearly with the frequency and the intensity of the incident radiation",
+   "linearly with the frequency and is independent of the intensity of the incident radiation",
+   "inversely with the frequency and is independent of the intensity of the incident radiation",
+   "inversely with the intensity and is independent of the frequency of the incident radiation"
+  ],
+  "answer": 1,
+  "exp_hi": "Einstein के प्रकाश-वैद्युत समीकरण से: K_max = hν − φ₀। इससे स्पष्ट है कि अधिकतम गतिज ऊर्जा आपतित प्रकाश की आवृत्ति (Frequency) के साथ रैखिक रूप से बढ़ती है, जबकि तीव्रता (Intensity) से यह स्वतंत्र रहती है — तीव्रता केवल उत्सर्जित इलेक्ट्रॉनों की संख्या को प्रभावित करती है।",
+  "figure": null
+ },
+ {
+  "n": 70,
+  "subject": "Physics",
+  "q_hi": "निम्नलिखित में से किसे न्यूक्लियॉन के रूप में जाना जाता है ?",
+  "q_en": "Which of the following are known as nucleons ?",
+  "options": [
+   "केवल प्रोटॉन",
+   "प्रोटॉन तथा इलेक्ट्रॉन",
+   "प्रोटॉन तथा न्यूट्रॉन",
+   "न्यूट्रॉन तथा इलेक्ट्रॉन"
+  ],
+  "options_en": [
+   "Only protons",
+   "Protons and electrons",
+   "Protons and neutrons",
+   "Neutrons and electrons"
+  ],
+  "answer": 2,
+  "exp_hi": "नाभिक (Nucleus) के अंदर पाए जाने वाले कणों — प्रोटॉन तथा न्यूट्रॉन — को सम्मिलित रूप से न्यूक्लियॉन (Nucleons) कहा जाता है। इलेक्ट्रॉन नाभिक के बाहर कक्षाओं में रहता है, इसलिए वह न्यूक्लियॉन नहीं है।",
+  "figure": null
+ }
+]

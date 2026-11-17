@@ -1,0 +1,556 @@
+{
+ "mock_no": 13,
+ "questions": [
+  {
+   "answer": "A",
+   "explanation": "APUPA प्रतिमान में प्रलेख इस क्रम में व्यवस्थित होते हैं — एलियन (अप्रासंगिक), पेनम्ब्रल (आंशिक प्रासंगिक), अम्ब्रल (पूर्ण प्रासंगिक), पुनः पेनम्ब्रल और एलियन। अतः आंशिक प्रासंगिकता वाले प्रलेख पेनम्ब्रल क्षेत्र में आते हैं।",
+   "options": {
+    "A": "आंशिक (पेनम्ब्रल) क्षेत्र / Penumbral region",
+    "B": "केंद्र (अम्ब्रल) क्षेत्र / Umbral region",
+    "C": "परकीय (एलियन) क्षेत्र / Alien region",
+    "D": "मुख्य वर्ग क्षेत्र / Main class region"
+   },
+   "q": "APUPA विन्यास प्रतिमान में आंशिक प्रासंगिकता वाले प्रलेख किस क्षेत्र में रखे जाते हैं? / In the APUPA pattern of arrangement, documents of partial (marginal) relevance are placed in which region?"
+  },
+  {
+   "answer": "B",
+   "explanation": "औज़ार प्रावस्था संबंध में एक विषय दूसरे विषय के अध्ययन का साधन बनता है, जैसे — भौतिकी के अध्ययन के लिए गणित। रंगनाथन ने कोलन वर्गीकरण में विभिन्न प्रावस्था संबंधों का प्रतिपादन किया है।",
+   "options": {
+    "A": "प्रभाव प्रावस्था / Influence Phase",
+    "B": "औज़ार प्रावस्था / Tool Phase",
+    "C": "तुलना प्रावस्था / Comparison Phase",
+    "D": "अंतर प्रावस्था / Difference Phase"
+   },
+   "q": "जब एक विषय का अध्ययन दूसरे विषय के औज़ार (साधन) के रूप में किया जाता है, तो यह कौन-सा प्रावस्था संबंध (Phase Relation) दर्शाता है? / When one subject is used as a tool for studying another subject, which phase relation does it show?"
+  },
+  {
+   "answer": "C",
+   "explanation": "जब एक विषय या विचारधारा दूसरे विषय को प्रभावित करती है, तो उसे प्रभाव प्रावस्था संबंध कहते हैं। इसमें प्रभावित होने वाला विषय पहले और प्रभावित करने वाला विषय बाद में रखा जाता है।",
+   "options": {
+    "A": "पक्षपात प्रावस्था / Bias Phase",
+    "B": "सामान्य प्रावस्था / General Phase",
+    "C": "प्रभाव प्रावस्था / Influence Phase",
+    "D": "औज़ार प्रावस्था / Tool Phase"
+   },
+   "q": "जैसे 'हिन्दू धर्म पर बौद्ध धर्म का प्रभाव' — ऐसे विषय में कौन-सा प्रावस्था संबंध पाया जाता है? / In a subject like 'Influence of Buddhism on Hinduism', which phase relation is found?"
+  },
+  {
+   "answer": "D",
+   "explanation": "प्रावस्था संबंध तीन स्तरों पर बनते हैं — दो मुख्य वर्गों के बीच अंतर्विषय, एक ही पहलू के दो वियोजकों के बीच अंतः-पहलू, और एक ही पंक्ति के दो वियोजकों के बीच अंतः-पंक्ति प्रावस्था संबंध।",
+   "options": {
+    "A": "अंतर्विषय प्रावस्था संबंध / Inter-subject Phase Relation",
+    "B": "अंतः-पहलू प्रावस्था संबंध / Intra-facet Phase Relation",
+    "C": "सामान्य प्रावस्था संबंध / General Phase Relation",
+    "D": "अंतः-पंक्ति प्रावस्था संबंध / Intra-array Phase Relation"
+   },
+   "q": "एक ही पंक्ति (Array) के दो वियोजकों (Isolates) के बीच बनने वाला प्रावस्था संबंध कहलाता है — / The phase relation formed between two isolates of the same array is called —"
+  },
+  {
+   "answer": "A",
+   "explanation": "रंगनाथन के अनुसार व्यक्तित्व सबसे कठिन और अवशेषी श्रेणी है। जो पहलू शेष चार श्रेणियों में न आए, वही व्यक्तित्व माना जाता है — इसी को अवशेष विधि कहते हैं।",
+   "options": {
+    "A": "व्यक्तित्व (Personality) / Personality",
+    "B": "पदार्थ (Matter) / Matter",
+    "C": "ऊर्जा (Energy) / Energy",
+    "D": "काल (Time) / Time"
+   },
+   "q": "PMEST में यदि कोई पहलू पदार्थ, ऊर्जा, स्थान या काल में से किसी में न रखा जा सके, तो अवशेष विधि (Method of Residues) से उसे किस मूलभूत श्रेणी में रखा जाता है? / In PMEST, if a facet cannot be placed under Matter, Energy, Space or Time, by the Method of Residues it is treated as which fundamental category?"
+  },
+  {
+   "answer": "B",
+   "explanation": "गाय-बछड़ा सिद्धान्त के अनुसार जिस प्रकार बछड़े को गाय से अलग नहीं किया जाता, उसी प्रकार एक ही सत्ता (Entity) के दो पहलुओं को पहलू-अनुक्रम में अलग नहीं करना चाहिए। यह रंगनाथन का पहलू-अनुक्रम संबंधी सिद्धान्त है।",
+   "options": {
+    "A": "पंक्ति में वियोजकों का क्रम / Order of isolates in an array",
+    "B": "एक ही सत्ता से जुड़े पहलुओं को अलग न करना / Not separating the facets belonging to the same entity",
+    "C": "शृंखला में कड़ियों की पूर्णता / Completeness of links in a chain",
+    "D": "संकेतन की संक्षिप्तता / Brevity of notation"
+   },
+   "q": "'गाय-बछड़ा सिद्धान्त' (Cow-Calf Principle) वर्गीकरण में किससे संबंधित है? / The 'Cow-Calf Principle' in classification is related to —"
+  },
+  {
+   "answer": "C",
+   "explanation": "मॉड्यूलेशन के कैनन के अनुसार वर्गीकरण की शृंखला में विभाजन के प्रत्येक चरण की एक सही कड़ी होनी चाहिए — न कोई कड़ी छूटे और न कोई मिथ्या कड़ी आए।",
+   "options": {
+    "A": "शृंखला यथासंभव छोटी होनी चाहिए / A chain should be as short as possible",
+    "B": "शृंखला में केवल लोकप्रिय पद होने चाहिए / A chain should contain only popular terms",
+    "C": "शृंखला में कोई कड़ी छूटी हुई नहीं होनी चाहिए / A chain should have no missing link",
+    "D": "शृंखला वर्णक्रम में होनी चाहिए / A chain should be alphabetical"
+   },
+   "q": "शृंखला (Chain) के लिए 'मॉड्यूलेशन का कैनन' (Canon of Modulation) क्या कहता है? / What does the 'Canon of Modulation' state for a chain?"
+  },
+  {
+   "answer": "D",
+   "explanation": "समूहक वह संग्रह है जिसमें अनेक मुख्य वर्ग एक साथ इस प्रकार रखे जाते हैं मानो वे एक ही वर्ग हों, जैसे — प्राकृतिक विज्ञान (Natural Sciences) और सामाजिक विज्ञान (Social Sciences)।",
+   "options": {
+    "A": "एक मुख्य वर्ग का उपविभाजन / A subdivision of a main class",
+    "B": "दो विषयों का विलय / Fusion of two subjects",
+    "C": "वियोजकों की पंक्ति / An array of isolates",
+    "D": "कई मुख्य वर्गों का संग्रह जिसे एक वर्ग की भाँति माना जाए / A collection of main classes treated as a single class"
+   },
+   "q": "वर्गीकरण में 'समूहक' (Agglomerate) से क्या तात्पर्य है? / What is meant by an 'Agglomerate' in classification?"
+  },
+  {
+   "answer": "A",
+   "explanation": "रंगनाथन के निधन के बाद कोलन वर्गीकरण का सातवाँ संस्करण 1987 में एम. ए. गोपीनाथ के संपादन में प्रकाशित हुआ। गोपीनाथ रंगनाथन के शिष्य और डीआरटीसी से जुड़े प्रमुख वर्गीकरणविद् थे।",
+   "options": {
+    "A": "एम. ए. गोपीनाथ / M. A. Gopinath",
+    "B": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "C": "डब्ल्यू. सी. बर्विक सेयर्स / W. C. Berwick Sayers",
+    "D": "पी. एन. कौला / P. N. Kaula"
+   },
+   "q": "कोलन वर्गीकरण के सातवें संस्करण (1987) के संपादक कौन थे? / Who was the editor of the 7th edition (1987) of Colon Classification?"
+  },
+  {
+   "answer": "B",
+   "explanation": "UDC में काल की सामान्य सहायक संख्याएँ दोहरे उद्धरण चिह्नों में लिखी जाती हैं, जैसे — \"2005\" अर्थात वर्ष 2005। स्थान के लिए (1/9) और भाषा के लिए = चिह्न प्रयुक्त होता है।",
+   "options": {
+    "A": "(1/9) / (1/9)",
+    "B": "\"...\" (दोहरे उद्धरण चिह्न) / \"...\" (double quotation marks)",
+    "C": "=... / =...",
+    "D": "-... / -..."
+   },
+   "q": "UDC में सामान्य सहायक 'काल' (Time) को किस चिह्न से दर्शाया जाता है? / In UDC, the common auxiliaries of time are indicated by which sign?"
+  },
+  {
+   "answer": "C",
+   "explanation": "DDC के तीन सारांश हैं — प्रथम सारांश में 10 मुख्य वर्ग, द्वितीय सारांश में 100 विभाजन और तृतीय सारांश में 1000 अनुभाग होते हैं।",
+   "options": {
+    "A": "10 विभाजन / 10 divisions",
+    "B": "1000 विभाजन / 1000 divisions",
+    "C": "100 विभाजन / 100 divisions",
+    "D": "7 विभाजन / 7 divisions"
+   },
+   "q": "DDC की 'द्वितीय सारांश' (Second Summary) में कुल कितने विभाजन (Divisions) होते हैं? / How many divisions are there in the 'Second Summary' of DDC?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पहलू (Facet) शब्द का प्रयोग रंगनाथन ने कोलन वर्गीकरण में किया। किसी विषय के विभिन्न पहलुओं — व्यक्तित्व, पदार्थ, ऊर्जा, स्थान और काल — का विश्लेषण ही पहलू-विश्लेषण (Facet Analysis) कहलाता है।",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "हेनरी ब्लिस / Henry Bliss",
+    "C": "पॉल ऑटलेट / Paul Otlet",
+    "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+   },
+   "q": "वर्गीकरण में 'पहलू' (Facet) शब्द का प्रयोग सर्वप्रथम किसने किया? / Who first introduced the term 'Facet' in classification?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इस कैनन के अनुसार पंक्ति के वियोजकों को पाठकों के लिए सहायक क्रम में रखना चाहिए — जैसे कालक्रम, विकासक्रम, स्थानिक क्रम या जटिलता का क्रम; वर्णक्रम अंतिम विकल्प होता है।",
+   "options": {
+    "A": "पंक्ति में वियोजकों को उपयोगी क्रम में व्यवस्थित करना / Arranging isolates in an array in a sequence helpful to users",
+    "B": "शीर्षक का चुनाव / Choice of heading",
+    "C": "संकेतन की लंबाई / Length of notation",
+    "D": "मुख्य प्रविष्टि का क्रम / Order of the main entry"
+   },
+   "q": "'सहायक अनुक्रम का कैनन' (Canon of Helpful Sequence) किससे संबंधित है? / The 'Canon of Helpful Sequence' is related to —"
+  },
+  {
+   "answer": "B",
+   "explanation": "पूर्ववर्ती सामान्य वियोजक (जैसे — a ग्रंथसूची, c शब्दकोश, k विश्वकोश) मेज़बान वर्ग से पहले आते हैं, इसलिए इन्हें 'पूर्ववर्ती' कहा जाता है। इनके विपरीत पश्चवर्ती सामान्य वियोजक वर्ग के बाद आते हैं।",
+   "options": {
+    "A": "मेज़बान वर्ग के बाद / After the host class",
+    "B": "मेज़बान वर्ग से पहले / Before the host class",
+    "C": "केवल समय पहलू के बाद / Only after the Time facet",
+    "D": "पुस्तक संख्या के अंत में / At the end of the Book Number"
+   },
+   "q": "कोलन वर्गीकरण में 'पूर्ववर्ती सामान्य वियोजक' (Anteriorising Common Isolates) कहाँ रखे जाते हैं? / In Colon Classification, where are the 'Anteriorising Common Isolates' placed?"
+  },
+  {
+   "answer": "C",
+   "explanation": "RDA में GMD को समाप्त कर तीन अलग तत्व अपनाए गए — सामग्री प्रकार (Content), माध्यम प्रकार (Media) और वाहक प्रकार (Carrier)। MARC 21 में इन्हें क्रमशः 336, 337 और 338 क्षेत्रों में अंकित किया जाता है।",
+   "options": {
+    "A": "भौतिक विवरण क्षेत्र / Physical description area",
+    "B": "प्रकाशन विवरण / Publication statement",
+    "C": "सामग्री प्रकार, माध्यम प्रकार और वाहक प्रकार / Content type, Media type and Carrier type",
+    "D": "शृंखला विवरण / Series statement"
+   },
+   "q": "RDA में AACR-2 के 'सामान्य सामग्री पदनाम' (GMD) के स्थान पर क्या अपनाया गया है? / In RDA, what has replaced the 'General Material Designation' (GMD) of AACR-2?"
+  },
+  {
+   "answer": "D",
+   "explanation": "MARC 21 में 336 सामग्री प्रकार (Content Type), 337 माध्यम प्रकार (Media Type) और 338 वाहक प्रकार (Carrier Type) के लिए प्रयुक्त होता है। 300 भौतिक विवरण का क्षेत्र है।",
+   "options": {
+    "A": "337 / 337",
+    "B": "338 / 338",
+    "C": "300 / 300",
+    "D": "336 / 336"
+   },
+   "q": "RDA अभिलेखों में 'सामग्री प्रकार' (Content Type) MARC 21 के किस टैग में दिया जाता है? / In RDA records, the 'Content Type' is given in which MARC 21 tag?"
+  },
+  {
+   "answer": "A",
+   "explanation": "RDA में AACR-2 के संक्षेपों और लैटिन पदों (जैसे [s.l.], [s.n.]) को छोड़कर सूचना को स्रोत पर दिए गए रूप में ही अंकित किया जाता है — यही 'जैसा दिखे वैसा लिखो' का सिद्धान्त है।",
+   "options": {
+    "A": "विवरण स्रोत पर जैसा दिखाई दे, वैसा ही अंकित करो / Data should be transcribed exactly as it appears on the source",
+    "B": "विवरण सदैव संक्षिप्त रखो / Description should always be abbreviated",
+    "C": "शीर्षक सदैव लेखक के नाम से बनाओ / Heading should always be under the author",
+    "D": "प्रकाशन स्थान कभी न लिखो / Place of publication should never be recorded"
+   },
+   "q": "RDA का 'प्रतिनिधित्व का सिद्धान्त' (Principle of Representation), जिसे 'जैसा दिखे वैसा लिखो' (Take what you see) कहा जाता है, क्या कहता है? / RDA's 'Principle of Representation', popularly called 'Take what you see', states that —"
+  },
+  {
+   "answer": "B",
+   "explanation": "RDA ने कई पुराने पद बदल दिए — 'Uniform Title' अब 'Preferred Title of the Work' कहलाता है और 'Main Entry' के स्थान पर रचयिता और वरीय शीर्षक का संयोजन अभिगम बिंदु बनता है।",
+   "options": {
+    "A": "मुख्य प्रविष्टि / Main Entry",
+    "B": "कृति का वरीय शीर्षक / Preferred Title of the Work",
+    "C": "अभिगम बिंदु / Access Point",
+    "D": "सामग्री पदनाम / Material Designation"
+   },
+   "q": "RDA में AACR-2 के 'एकरूप शीर्षक' (Uniform Title) के स्थान पर किस पद का प्रयोग होता है? / In RDA, which term is used in place of the 'Uniform Title' of AACR-2?"
+  },
+  {
+   "answer": "C",
+   "explanation": "FRAD (Functional Requirements for Authority Data) IFLA का 2009 में प्रकाशित मॉडल है, जो नामों और शीर्षकों के प्राधिकरण अभिलेखों की आवश्यकताओं को बताता है। यह FRBR परिवार का ही एक मॉडल है।",
+   "options": {
+    "A": "ग्रंथपरक आँकड़ों से / Bibliographic data",
+    "B": "पत्रिका प्रबंधन से / Serials management",
+    "C": "प्राधिकरण आँकड़ों (Authority Data) से / Authority data",
+    "D": "अंकीय संग्रह से / Digital collections"
+   },
+   "q": "FRAD मॉडल का संबंध किससे है? / The FRAD model is related to —"
+  },
+  {
+   "answer": "D",
+   "explanation": "IFLA ने 2009 में अंतर्राष्ट्रीय सूचीकरण सिद्धान्तों का वक्तव्य जारी किया, जिसने 1961 के पेरिस सिद्धान्तों का स्थान लिया। बाद में इसका संशोधित संस्करण 2016 में आया।",
+   "options": {
+    "A": "1978 / 1978",
+    "B": "1998 / 1998",
+    "C": "2010 / 2010",
+    "D": "2009 / 2009"
+   },
+   "q": "1961 के 'पेरिस सिद्धान्तों' (Paris Principles) के स्थान पर IFLA का 'अंतर्राष्ट्रीय सूचीकरण सिद्धान्तों का वक्तव्य' (Statement of International Cataloguing Principles) किस वर्ष प्रकाशित हुआ? / In which year was IFLA's 'Statement of International Cataloguing Principles', replacing the Paris Principles (1961), published?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्थायित्व के कैनन के अनुसार शीर्षक का चुनाव और रूप स्थायी रखना चाहिए; जब तक नियम या परिस्थिति न बदले, सूची में बार-बार परिवर्तन नहीं करना चाहिए। यह नवीनता के कैनन (Canon of Currency) के साथ संतुलन बनाकर चलता है।",
+   "options": {
+    "A": "एक बार चुना गया शीर्षक बार-बार नहीं बदलना चाहिए / A heading once chosen should not be changed frequently",
+    "B": "शीर्षक सदैव नवीनतम पद से बनाना चाहिए / Heading should always use the latest term",
+    "C": "शीर्षक स्थानीय भाषा में होना चाहिए / Heading should be in the local language",
+    "D": "प्रत्येक प्रविष्टि स्थायी कार्ड पर ही बने / Every entry should be on a permanent card only"
+   },
+   "q": "सूचीकरण का 'स्थायित्व का कैनन' (Canon of Permanence) क्या कहता है? / What does the 'Canon of Permanence' in cataloguing state?"
+  },
+  {
+   "answer": "B",
+   "explanation": "MODS (Metadata Object Description Schema) का विकास और रखरखाव लाइब्रेरी ऑफ कांग्रेस के नेटवर्क डेवलपमेंट एवं MARC मानक कार्यालय द्वारा किया जाता है। यह MARC 21 का सरल XML रूप माना जाता है।",
+   "options": {
+    "A": "IFLA / IFLA",
+    "B": "लाइब्रेरी ऑफ कांग्रेस (अमेरिका) / Library of Congress (USA)",
+    "C": "OCLC / OCLC",
+    "D": "ब्रिटिश लाइब्रेरी / British Library"
+   },
+   "q": "MODS मेटाडेटा स्कीमा का रखरखाव कौन-सी संस्था करती है? / Which institution maintains the MODS metadata schema?"
+  },
+  {
+   "answer": "C",
+   "explanation": "MODS एक XML स्कीमा है, इसलिए इसके अभिलेख XML में बनाए जाते हैं। यह MARC की समृद्धि और Dublin Core की सरलता के बीच का मार्ग प्रस्तुत करता है।",
+   "options": {
+    "A": "HTML / HTML",
+    "B": "SGML / SGML",
+    "C": "XML / XML",
+    "D": "CSV / CSV"
+   },
+   "q": "MODS अभिलेख मुख्यतः किस प्रारूप में व्यक्त किए जाते हैं? / MODS records are primarily expressed in which format?"
+  },
+  {
+   "answer": "D",
+   "explanation": "METS (Metadata Encoding and Transmission Standard) अंकीय वस्तु के तीनों प्रकार के मेटाडेटा — वर्णनात्मक, प्रशासनिक और संरचनात्मक — को एक XML दस्तावेज़ में बाँधता है, जिससे अंकीय वस्तु का आदान-प्रदान और संरक्षण संभव होता है।",
+   "options": {
+    "A": "केवल विषय शीर्षक देना / To give subject headings only",
+    "B": "पुस्तकों की खरीद करना / To purchase books",
+    "C": "जर्नलों का प्रभाव कारक निकालना / To calculate journal impact factor",
+    "D": "अंकीय पुस्तकालय की वस्तुओं के वर्णनात्मक, प्रशासनिक और संरचनात्मक मेटाडेटा को एक साथ कूटबद्ध करना / To encode descriptive, administrative and structural metadata of digital library objects together"
+   },
+   "q": "METS स्कीमा का मुख्य उद्देश्य क्या है? / What is the main purpose of the METS schema?"
+  },
+  {
+   "answer": "A",
+   "explanation": "EAD (Encoded Archival Description) अभिलेखागारों की खोज-सहायिकाओं (Finding Aids) को XML में कूटबद्ध करने का अंतर्राष्ट्रीय मानक है।",
+   "options": {
+    "A": "Encoded Archival Description / Encoded Archival Description",
+    "B": "Electronic Archival Data / Electronic Archival Data",
+    "C": "Encoded Article Description / Encoded Article Description",
+    "D": "European Archival Database / European Archival Database"
+   },
+   "q": "EAD का पूर्ण रूप क्या है? / What is the full form of EAD?"
+  },
+  {
+   "answer": "B",
+   "explanation": "खोज-सहायिकाएँ अभिलेखागार की सामग्री की सूची और मार्गदर्शिका होती हैं। EAD इन्हीं को मशीन-पठनीय XML रूप देता है, ताकि अभिलेखागारीय संग्रह इंटरनेट पर खोजे जा सकें।",
+   "options": {
+    "A": "पत्रिकाओं के सार / Journal abstracts",
+    "B": "अभिलेखागारीय खोज-सहायिकाएँ (Finding Aids) / Archival finding aids",
+    "C": "पुस्तकालय बजट / Library budgets",
+    "D": "पाठक अभिलेख / Reader records"
+   },
+   "q": "EAD मानक का प्रयोग मुख्यतः किसके कूटलेखन के लिए होता है? / The EAD standard is mainly used for encoding what?"
+  },
+  {
+   "answer": "C",
+   "explanation": "VRA Core, Visual Resources Association द्वारा विकसित मानक है, जो चित्रों, चित्रकलाओं, मूर्तियों और अन्य दृश्य कलाकृतियों के वर्णन के लिए प्रयुक्त होता है।",
+   "options": {
+    "A": "श्रव्य संसाधन / Audio resources",
+    "B": "मानचित्र / Maps",
+    "C": "दृश्य संसाधन (चित्र, कलाकृतियाँ) / Visual resources (images, works of art)",
+    "D": "शोध-प्रबंध / Theses"
+   },
+   "q": "VRA Core मेटाडेटा मानक किस प्रकार के संसाधनों के वर्णन के लिए है? / The VRA Core metadata standard is meant for describing which type of resources?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ONIX (Online Information Exchange) प्रकाशकों और पुस्तक विक्रेताओं के बीच पुस्तकों की उत्पाद-जानकारी (शीर्षक, ISBN, मूल्य आदि) के आदान-प्रदान का XML मानक है।",
+   "options": {
+    "A": "चिकित्सा सूचना / Medical information",
+    "B": "कृषि सूचना / Agricultural information",
+    "C": "सरकारी अभिलेख / Government records",
+    "D": "पुस्तक प्रकाशन और पुस्तक व्यापार / Book publishing and book trade"
+   },
+   "q": "ONIX मेटाडेटा मानक मुख्यतः किस क्षेत्र से संबंधित है? / The ONIX metadata standard is mainly related to which sector?"
+  },
+  {
+   "answer": "A",
+   "explanation": "PREMIS (Preservation Metadata: Implementation Strategies) अंकीय वस्तुओं के दीर्घकालीन संरक्षण के लिए आवश्यक मेटाडेटा का अंतर्राष्ट्रीय मानक है, जिसका रखरखाव लाइब्रेरी ऑफ कांग्रेस करती है।",
+   "options": {
+    "A": "अंकीय संरक्षण (Preservation) / Digital preservation",
+    "B": "विषय अनुक्रमण / Subject indexing",
+    "C": "ग्रंथ अधिग्रहण / Book acquisition",
+    "D": "संदर्भ सेवा / Reference service"
+   },
+   "q": "PREMIS मेटाडेटा मानक किससे संबंधित है? / The PREMIS metadata standard is related to —"
+  },
+  {
+   "answer": "B",
+   "explanation": "TEI साहित्यिक और भाषायी पाठों — पांडुलिपियों, कविताओं, नाटकों आदि — को XML में कूटबद्ध करने के दिशानिर्देश देता है, ताकि पाठों का अंकीय अध्ययन और आदान-प्रदान संभव हो।",
+   "options": {
+    "A": "छवियों का संपीड़न / Compression of images",
+    "B": "इलेक्ट्रॉनिक पाठों का कूटलेखन / Encoding of electronic texts",
+    "C": "पुस्तकों का अनुवाद / Translation of books",
+    "D": "नेटवर्क सुरक्षा / Network security"
+   },
+   "q": "TEI (Text Encoding Initiative) दिशानिर्देशों का प्रयोग किसके लिए होता है? / The TEI (Text Encoding Initiative) guidelines are used for —"
+  },
+  {
+   "answer": "C",
+   "explanation": "क्रॉसवॉक दो मेटाडेटा स्कीमाओं के तत्वों के बीच समतुल्यता की तालिका होती है, जैसे — Dublin Core से MARC 21 में रूपांतरण। इससे भिन्न प्रणालियों के बीच अभिलेखों का आदान-प्रदान संभव होता है।",
+   "options": {
+    "A": "मेटाडेटा का मुद्रण / Printing of metadata",
+    "B": "मेटाडेटा का सत्यापन / Verification of metadata",
+    "C": "एक मेटाडेटा स्कीमा के तत्वों का दूसरी स्कीमा के तत्वों से मिलान (Mapping) / Mapping of elements of one metadata schema to another",
+    "D": "मेटाडेटा का भंडारण / Storage of metadata"
+   },
+   "q": "मेटाडेटा के संदर्भ में 'क्रॉसवॉक' (Crosswalk) से क्या तात्पर्य है? / In the context of metadata, what does a 'Crosswalk' mean?"
+  },
+  {
+   "answer": "D",
+   "explanation": "खुले प्रश्नों (जैसे — आप किस विषय पर, किस उद्देश्य से जानकारी चाहते हैं?) से पाठक अपनी वास्तविक आवश्यकता खुलकर बताता है, जबकि बंद प्रश्न केवल सीमित उत्तर देते हैं। कुशल संदर्भ साक्षात्कार में दोनों का संतुलित प्रयोग होता है।",
+   "options": {
+    "A": "साक्षात्कार शीघ्र समाप्त हो जाता है / The interview ends quickly",
+    "B": "पाठक केवल 'हाँ' या 'नहीं' में उत्तर देता है / The user answers only in 'yes' or 'no'",
+    "C": "ग्रंथपाल को प्रश्न याद नहीं रखने पड़ते / The librarian need not remember the questions",
+    "D": "पाठक अपनी आवश्यकता को स्वतंत्र रूप से विस्तार से बता पाता है / The user can explain his need freely and in detail"
+   },
+   "q": "संदर्भ साक्षात्कार में 'खुले प्रश्न' (Open-ended Questions) पूछने का मुख्य लाभ क्या है? / What is the main advantage of asking 'Open-ended Questions' in a reference interview?"
+  },
+  {
+   "answer": "A",
+   "explanation": "रॉबर्ट एस. टेलर ने 1968 में प्रश्न-वार्ता की अवधारणा दी — ग्रंथपाल और पाठक के बीच संवाद द्वारा पाठक के पूछे गए प्रश्न से उसकी वास्तविक आवश्यकता तक पहुँचने की प्रक्रिया ही प्रश्न-वार्ता है।",
+   "options": {
+    "A": "रॉबर्ट एस. टेलर / Robert S. Taylor",
+    "B": "सैमुअल ग्रीन / Samuel Green",
+    "C": "जेम्स वायर / James Wyer",
+    "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+   },
+   "q": "संदर्भ सेवा में 'प्रश्न-वार्ता' (Question Negotiation) की अवधारणा किसने दी? / Who gave the concept of 'Question Negotiation' in reference service?"
+  },
+  {
+   "answer": "B",
+   "explanation": "टेलर ने आवश्यकता के चार स्तर बताए — आंतरिक (Visceral), सचेत (Conscious), औपचारिक (Formalised) और समझौता की हुई (Compromised)। अंतिम स्तर पर पाठक अपनी आवश्यकता को प्रणाली की भाषा और सीमाओं के अनुसार ढालकर प्रस्तुत करता है।",
+   "options": {
+    "A": "वह आवश्यकता जो मन में अस्पष्ट रूप से होती है / The need existing vaguely in the mind",
+    "B": "वह रूप जिसमें आवश्यकता ग्रंथपाल या प्रणाली के समक्ष प्रस्तुत की जाती है / The form in which the need is presented to the librarian or the system",
+    "C": "लिखित रूप में स्पष्ट की गई आवश्यकता / The need stated in a formalised written form",
+    "D": "वह आवश्यकता जो कभी पूरी नहीं होती / The need that is never satisfied"
+   },
+   "q": "टेलर के अनुसार 'समझौता की हुई आवश्यकता' (Compromised Need) से क्या तात्पर्य है? / According to Taylor, what is meant by the 'Compromised Need'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "रंगनाथन ने नए सदस्यों को पुस्तकालय की व्यवस्था, सूची और सेवाओं से परिचित कराने की प्रक्रिया को 'Initiation of Freshman' कहा। यह पाठक-शिक्षा (User Education) का प्रारंभिक चरण है।",
+   "options": {
+    "A": "मेल्विल डेवी / Melvil Dewey",
+    "B": "डब्ल्यू. ए. बोरडेन / W. A. Borden",
+    "C": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "D": "जॉन कॉटन डाना / John Cotton Dana"
+   },
+   "q": "'नवागंतुक का दीक्षा-संस्कार' (Initiation of Freshman) पद का प्रयोग नए पाठकों के परिचय-कार्यक्रम के लिए किसने किया? / Who used the term 'Initiation of Freshman' for the orientation programme of new readers?"
+  },
+  {
+   "answer": "D",
+   "explanation": "SDI में पाठक की रुचि की प्रोफ़ाइल और नए प्रलेखों की प्रोफ़ाइल का कंप्यूटर द्वारा मिलान किया जाता है। जिन प्रलेखों का मिलान होता है, उनकी सूचना संबंधित पाठक को भेजी जाती है और उसकी प्रतिक्रिया से प्रोफ़ाइल सुधारी जाती है।",
+   "options": {
+    "A": "दो पुस्तकालयों की सूचियों के बीच / Catalogues of two libraries",
+    "B": "पुस्तक और पाठक के बीच / Book and reader",
+    "C": "बजट और व्यय के बीच / Budget and expenditure",
+    "D": "पाठक प्रोफ़ाइल और प्रलेख प्रोफ़ाइल / User profile and Document profile"
+   },
+   "q": "SDI सेवा में 'मिलान' (Matching) किसके बीच किया जाता है? / In SDI service, 'Matching' is done between what?"
+  },
+  {
+   "answer": "A",
+   "explanation": "नई पत्रिकाओं के अंक आते ही उनकी विषय-सूची पाठकों तक पहुँचाना CAS का प्रमुख रूप है। CAS समूह-स्तर पर दी जाती है, जबकि SDI व्यक्तिगत प्रोफ़ाइल पर आधारित होती है।",
+   "options": {
+    "A": "नई पत्रिकाओं की विषय-सूची (Current Contents) का प्रसारण / Circulation of contents pages of new periodicals (Current Contents)",
+    "B": "अंतर-पुस्तकालय ऋण / Inter-Library Loan",
+    "C": "पुस्तक मरम्मत / Book binding and repair",
+    "D": "स्टॉक सत्यापन / Stock verification"
+   },
+   "q": "निम्नलिखित में से कौन-सी सेवा सामयिक जागरूकता सेवा (CAS) का एक रूप है? / Which of the following is a form of Current Awareness Service (CAS)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "ISO 10160/10161 अंतर-पुस्तकालय ऋण लेनदेन की परिभाषा और प्रोटोकॉल के मानक हैं। ISO 2709 ग्रंथपरक अभिलेखों के आदान-प्रदान प्रारूप और ISO 15836 Dublin Core से संबंधित है।",
+   "options": {
+    "A": "ISO 2709 / ISO 2709",
+    "B": "ISO 10161 / ISO 10161",
+    "C": "ISO 9001 / ISO 9001",
+    "D": "ISO 15836 / ISO 15836"
+   },
+   "q": "अंतर-पुस्तकालय ऋण (ILL) प्रोटोकॉल से संबंधित ISO मानक कौन-सा है? / Which ISO standard is related to the Inter-Library Loan (ILL) protocol?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कोई भी पुस्तकालय सभी सामग्री स्वयं नहीं रख सकता। संसाधन सहभाजन से सहभागी पुस्तकालय एक-दूसरे के संसाधनों का सामूहिक उपयोग करते हैं, जिससे दोहराव घटता है और पाठकों को अधिक सामग्री कम लागत में मिलती है।",
+   "options": {
+    "A": "प्रत्येक पुस्तकालय का संग्रह बढ़ाना / To increase the collection of every library",
+    "B": "पुस्तकालय कर्मचारियों की संख्या घटाना / To reduce the number of library staff",
+    "C": "कम लागत में अधिक सामग्री पाठकों को उपलब्ध कराना / To make more material available to users at less cost",
+    "D": "पुस्तकों की कीमतें नियंत्रित करना / To control the prices of books"
+   },
+   "q": "पुस्तकालयों में संसाधन सहभाजन (Resource Sharing) का मुख्य उद्देश्य क्या है? / What is the main objective of Resource Sharing among libraries?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ब्रिटिश लाइब्रेरी का प्रलेख आपूर्ति केन्द्र यॉर्कशायर के बॉस्टन स्पा में स्थित है। यह विश्व भर के पुस्तकालयों को अंतर-पुस्तकालय ऋण और प्रतिलिपि आपूर्ति की सेवा देता है।",
+   "options": {
+    "A": "लंदन / London",
+    "B": "ऑक्सफ़ोर्ड / Oxford",
+    "C": "एडिनबर्ग / Edinburgh",
+    "D": "बॉस्टन स्पा / Boston Spa"
+   },
+   "q": "ब्रिटिश लाइब्रेरी का प्रसिद्ध प्रलेख आपूर्ति केन्द्र (Document Supply Centre) कहाँ स्थित है? / Where is the famous Document Supply Centre of the British Library located?"
+  },
+  {
+   "answer": "A",
+   "explanation": "OCLC (Online Computer Library Center) विश्व का सबसे बड़ा पुस्तकालय सहकारी संगठन है, जिसका संघ सूचीपत्र WorldCat संसाधन सहभाजन और अंतर-पुस्तकालय ऋण की रीढ़ है। इसकी स्थापना 1967 में अमेरिका में हुई थी।",
+   "options": {
+    "A": "OCLC / OCLC",
+    "B": "DELNET / DELNET",
+    "C": "INFLIBNET / INFLIBNET",
+    "D": "JANET / JANET"
+   },
+   "q": "विश्व का सबसे बड़ा पुस्तकालय सहकारी नेटवर्क (Cooperative) कौन-सा है? / Which is the largest library cooperative network in the world?"
+  },
+  {
+   "answer": "B",
+   "explanation": "ILL में प्रतिलिपि आपूर्ति प्रतिलिप्यधिकार कानून की सीमाओं के भीतर ही की जा सकती है — संपूर्ण पुस्तक की प्रतिलिपि या व्यावसायिक उपयोग कानून का उल्लंघन हो सकता है। इसलिए माँगकर्ता पुस्तकालय को नियमों का पालन सुनिश्चित करना होता है।",
+   "options": {
+    "A": "प्रति का आकार A4 ही होना चाहिए / The copy must be of A4 size only",
+    "B": "प्रतिलिप्यधिकार (Copyright) अधिनियम के प्रावधानों का पालन / Compliance with the provisions of the Copyright Act",
+    "C": "प्रति केवल डाक से ही भेजी जाए / The copy must be sent by post only",
+    "D": "प्रति पर पुस्तकालय की मुहर न लगे / The copy should not bear the library stamp"
+   },
+   "q": "अंतर-पुस्तकालय ऋण के अंतर्गत किसी लेख की छायाप्रति (Photocopy) भेजते समय किस बात का विशेष ध्यान रखना आवश्यक है? / While supplying a photocopy of an article under Inter-Library Loan, what must be specially kept in mind?"
+  },
+  {
+   "answer": "C",
+   "explanation": "वास्तुकार हैरी फॉकनर-ब्राउन ने अच्छे पुस्तकालय भवन के दस गुण बताए — लचीला, सघन, सुलभ, विस्तारयोग्य, विविध, संगठित, आरामदायक, स्थिर वातावरण वाला, सुरक्षित और मितव्ययी।",
+   "options": {
+    "A": "कीज़ मेटकाफ़ / Keyes Metcalf",
+    "B": "राल्फ एल्सवर्थ / Ralph Ellsworth",
+    "C": "हैरी फॉकनर-ब्राउन / Harry Faulkner-Brown",
+    "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+   },
+   "q": "पुस्तकालय भवन नियोजन के प्रसिद्ध 'दस आदेश' (Ten Commandments) किसने दिए? / Who gave the famous 'Ten Commandments' of library building planning?"
+  },
+  {
+   "answer": "D",
+   "explanation": "हार्वर्ड विश्वविद्यालय के ग्रंथपाल कीज़ डी. मेटकाफ़ की यह पुस्तक पुस्तकालय भवन नियोजन की प्रतिनिधि कृति मानी जाती है, जिसमें स्थल-चयन से लेकर आंतरिक व्यवस्था तक के सिद्धान्त दिए गए हैं।",
+   "options": {
+    "A": "हैरी फॉकनर-ब्राउन / Harry Faulkner-Brown",
+    "B": "राल्फ एल्सवर्थ / Ralph Ellsworth",
+    "C": "जे. डी. ब्राउन / J. D. Brown",
+    "D": "कीज़ डी. मेटकाफ़ / Keyes D. Metcalf"
+   },
+   "q": "'Planning Academic and Research Library Buildings' (1965) पुस्तक के लेखक कौन हैं? / Who is the author of the book 'Planning Academic and Research Library Buildings' (1965)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "राल्फ एल्सवर्थ ने मॉड्यूलर नियोजन को लोकप्रिय बनाया, जिसमें भवन समान माप के मॉड्यूलों में बना होता है और स्तंभों के बीच की जगह पुस्तक-रैक या पठन-क्षेत्र किसी के लिए भी बदली जा सकती है — इससे भवन लचीला बनता है।",
+   "options": {
+    "A": "कीज़ डी. मेटकाफ़ / Keyes D. Metcalf",
+    "B": "राल्फ ई. एल्सवर्थ / Ralph E. Ellsworth",
+    "C": "मेल्विल डेवी / Melvil Dewey",
+    "D": "हैरी फॉकनर-ब्राउन / Harry Faulkner-Brown"
+   },
+   "q": "पुस्तकालय भवनों में 'मॉड्यूलर नियोजन' (Modular Planning) की अवधारणा के प्रमुख समर्थक कौन थे? / Who was the leading advocate of the concept of 'Modular Planning' in library buildings?"
+  },
+  {
+   "answer": "A",
+   "explanation": "संहत शेल्फ़िंग में रैक रेलों पर खिसकते हैं और केवल एक चल गलियारा रहता है, जिससे स्थायी गलियारों की जगह बचती है और उसी क्षेत्र में लगभग दोगुनी पुस्तकें रखी जा सकती हैं।",
+   "options": {
+    "A": "कम स्थान में अधिक पुस्तकें रखने के लिए / To store more books in less space",
+    "B": "पुस्तकों की सुरक्षा घटाने के लिए / To reduce the security of books",
+    "C": "पठन कक्ष को सजाने के लिए / To decorate the reading room",
+    "D": "सूचीपत्र रखने के लिए / To keep the catalogue"
+   },
+   "q": "संहत शेल्फ़िंग (Compact Shelving) का प्रयोग भंडार कक्ष में क्यों किया जाता है? / Why is Compact Shelving used in the stack room?"
+  },
+  {
+   "answer": "D",
+   "explanation": "उत्तर दिशा से आने वाला प्रकाश विसरित (diffused) और एकसमान होता है — न चकाचौंध होती है और न तेज़ छाया पड़ती है, इसलिए पठन कक्षों के लिए उत्तरी प्रकाश सर्वोत्तम माना जाता है।",
+   "options": {
+    "A": "दक्षिण / South",
+    "B": "पूर्व / East",
+    "C": "पश्चिम / West",
+    "D": "उत्तर / North"
+   },
+   "q": "पठन कक्ष के लिए किस दिशा से आने वाला प्राकृतिक प्रकाश सबसे उपयुक्त माना जाता है? / Natural light coming from which direction is considered most suitable for a reading room?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कैरल शोध-पाठकों के लिए बनाया गया एकांत अध्ययन-स्थान होता है, जहाँ एक पाठक बिना विघ्न के लंबे समय तक अध्ययन कर सकता है। ये प्रायः भंडार कक्ष के समीप या पठन कक्ष के किनारे बनाए जाते हैं।",
+   "options": {
+    "A": "पत्रिकाओं का रैक / A rack for periodicals",
+    "B": "सूचीपत्र का दराज़ / A catalogue drawer",
+    "C": "एकल पाठक के लिए छोटा अध्ययन कक्ष/मेज़ / A small individual study desk/booth for a single reader",
+    "D": "पुस्तकों की ट्रॉली / A book trolley"
+   },
+   "q": "पुस्तकालय में 'कैरल' (Carrel) से क्या तात्पर्य है? / What is meant by a 'Carrel' in a library?"
+  },
+  {
+   "answer": "B",
+   "explanation": "AND से दोनों पदों का प्रतिच्छेदन (Intersection) मिलता है, अतः केवल वे अभिलेख आते हैं जिनमें दोनों पद हों — परिणाम घटते हैं। OR से परिणाम बढ़ते हैं और NOT से संबंधित अभिलेख हटते हैं।",
+   "options": {
+    "A": "परिणाम विस्तृत होते हैं / The result is broadened",
+    "B": "परिणाम संकुचित होते हैं, कम अभिलेख मिलते हैं / The result is narrowed, fewer records are retrieved",
+    "C": "परिणामों का क्रम बदल जाता है / The order of results changes",
+    "D": "खोज स्वतः बंद हो जाती है / The search stops automatically"
+   },
+   "q": "बूलियन खोज में 'AND' ऑपरेटर का प्रयोग करने से खोज परिणाम पर क्या प्रभाव पड़ता है? / What is the effect of using the 'AND' operator in a Boolean search?"
+  },
+  {
+   "answer": "A",
+   "explanation": "IR थिसॉरस नियंत्रित शब्दावली का उपकरण है, जो समानार्थी, व्यापक (BT), संकीर्ण (NT) और संबंधित (RT) पद दिखाकर खोजकर्ता को सही खोज-पद चुनने में सहायता करता है, जैसे — MeSH और ERIC Thesaurus।",
+   "options": {
+    "A": "शब्दावली नियंत्रण और संबंधित पदों (BT/NT/RT) द्वारा खोज में सहायता / Vocabulary control and helping the search through related terms (BT/NT/RT)",
+    "B": "द्विभाषी अनुवाद करना / Bilingual translation",
+    "C": "पुस्तकों का वर्गीकरण करना / Classifying books",
+    "D": "सार तैयार करना / Preparing abstracts"
+   },
+   "q": "सूचना पुनःप्राप्ति में थिसॉरस (Thesaurus) का मुख्य उपयोग क्या है? / What is the main use of a Thesaurus in Information Retrieval?"
+  }
+ ],
+ "subject": "BLIS"
+}

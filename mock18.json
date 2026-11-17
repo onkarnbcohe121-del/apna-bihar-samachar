@@ -1,0 +1,556 @@
+{
+ "mock_no": 18,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "यह ऑपरेटर किसी अवांछित पद वाले प्रलेखों को खोज परिणाम से बाहर कर देता है, जिससे खोज अधिक केंद्रित हो जाती है। इसका प्रयोग सावधानी से करना चाहिए, क्योंकि कभी-कभी उपयोगी प्रलेख भी छूट सकते हैं।",
+   "options": {
+    "A": "दोनों पदों का एक साथ होना अनिवार्य करना / To make both terms mandatory together",
+    "B": "किसी अवांछित पद वाले प्रलेखों को परिणाम से बाहर करना / To exclude documents containing an unwanted term",
+    "C": "परिणामों का विस्तार करना / To broaden the results",
+    "D": "वाक्यांश खोज करना / To perform phrase searching"
+   },
+   "q": "बूलियन खोज में 'NOT' ऑपरेटर का मुख्य कार्य क्या है? / What is the main function of the 'NOT' operator in Boolean searching?"
+  },
+  {
+   "answer": "A",
+   "explanation": "जब दो पदों को इस ऑपरेटर से जोड़ा जाता है तो जिस प्रलेख में दोनों में से कोई एक भी पद होता है, वह परिणाम में आ जाता है। इसलिए परिणामों की संख्या बढ़ती है और रिकॉल में वृद्धि होती है। पर्यायवाची शब्दों को जोड़ने में इसका विशेष उपयोग होता है।",
+   "options": {
+    "A": "परिणामों की संख्या बढ़ती है, क्योंकि किसी एक पद का मिलना ही पर्याप्त होता है / The number of results increases, as matching any one term is sufficient",
+    "B": "परिणामों की संख्या घट जाती है / The number of results decreases",
+    "C": "केवल दोनों पदों वाले प्रलेख मिलते हैं / Only documents with both terms are retrieved",
+    "D": "कोई प्रभाव नहीं पड़ता / There is no effect"
+   },
+   "q": "'OR' ऑपरेटर का प्रयोग करने से खोज परिणामों पर क्या प्रभाव पड़ता है? / What is the effect of using the 'OR' operator on search results?"
+  },
+  {
+   "answer": "C",
+   "explanation": "खोज पदों को दोहरे उद्धरण चिह्नों के भीतर लिखने से प्रणाली शब्दों को उसी क्रम और उसी निकटता में खोजती है, जैसे किसी पुस्तक का ठीक-ठाक शीर्षक खोजना हो। इससे अनावश्यक परिणाम घटते हैं और परिशुद्धता बढ़ती है।",
+   "options": {
+    "A": "तारांकन चिह्न / Asterisk mark",
+    "B": "प्रश्नवाचक चिह्न / Question mark",
+    "C": "दोहरे उद्धरण चिह्न / Double quotation marks",
+    "D": "विस्मयादिबोधक चिह्न / Exclamation mark"
+   },
+   "q": "वाक्यांश खोज (Phrase Searching) के लिए सामान्यतः किसका प्रयोग किया जाता है? / What is generally used for phrase searching?"
+  },
+  {
+   "answer": "D",
+   "explanation": "प्रश्नवाचक चिह्न किसी शब्द में एक अक्षर के स्थान पर प्रयुक्त होता है, जिससे वर्तनी के भिन्न रूपों वाले शब्द एक साथ खोजे जा सकते हैं। उदाहरण के लिए किसी शब्द के अमेरिकी और ब्रिटिश वर्तनी रूपों को एक ही खोज में पाया जा सकता है।",
+   "options": {
+    "A": "शब्द को बीच से काटने के लिए / To truncate a word in the middle",
+    "B": "वाक्यांश बनाने के लिए / To form a phrase",
+    "C": "खोज को किसी क्षेत्र तक सीमित करने के लिए / To limit the search to a field",
+    "D": "किसी एक अक्षर के स्थान पर विकल्प के रूप में / As a substitute for any single character"
+   },
+   "q": "खोज में वाइल्डकार्ड '?' चिह्न का प्रयोग किसके लिए किया जाता है? / For what is the wildcard '?' symbol used in searching?"
+  },
+  {
+   "answer": "A",
+   "explanation": "सामीप्य ऑपरेटर यह सुनिश्चित करता है कि दोनों खोज पद प्रलेख में एक-दूसरे के निकट, प्रायः निर्धारित शब्द-दूरी के भीतर, उपस्थित हों। इससे ऐसे परिणाम मिलते हैं जिनमें पद अर्थपूर्ण संदर्भ में साथ-साथ आए होते हैं।",
+   "options": {
+    "A": "दो पदों की परस्पर निकटता के आधार पर खोज में / In searching based on the proximity of two terms",
+    "B": "प्रकाशन तिथि के आधार पर खोज में / In searching by publication date",
+    "C": "भाषा के आधार पर खोज में / In searching by language",
+    "D": "केवल लेखक के नाम से खोज में / In searching by author name only"
+   },
+   "q": "'NEAR' ऑपरेटर किस प्रकार की खोज में प्रयुक्त होता है? / In which type of searching is the 'NEAR' operator used?"
+  },
+  {
+   "answer": "B",
+   "explanation": "डेटाबेस के अभिलेख शीर्षक, लेखक, विषय, प्रकाशन वर्ष जैसे क्षेत्रों में विभाजित होते हैं। खोज को किसी एक क्षेत्र तक सीमित करने से परिणाम अधिक सटीक होते हैं, जैसे केवल शीर्षक क्षेत्र में खोजने से वही प्रलेख मिलते हैं जिनके शीर्षक में वह पद हो।",
+   "options": {
+    "A": "केवल पूर्ण-पाठ में खोज करना / Searching only in the full text",
+    "B": "खोज को शीर्षक, लेखक या विषय जैसे किसी विशिष्ट क्षेत्र तक सीमित करना / Limiting the search to a specific field such as title, author or subject",
+    "C": "केवल मुद्रित स्रोतों में खोज करना / Searching only in print sources",
+    "D": "बिना किसी पद के खोज करना / Searching without any term"
+   },
+   "q": "क्षेत्र-आधारित खोज (Field Searching) से क्या अभिप्राय है? / What is meant by field searching?"
+  },
+  {
+   "answer": "C",
+   "explanation": "मार्टिन पोर्टर ने 1980 में शब्दों के मूल रूप तक पहुँचने की यह प्रसिद्ध विधि प्रस्तुत की थी। स्टेमिंग में शब्दों के प्रत्यय हटाकर उन्हें मूल धातु रूप में बदल दिया जाता है, जिससे एक ही मूल के विभिन्न रूपों वाले प्रलेख एक साथ खोजे जा सकते हैं।",
+   "options": {
+    "A": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "B": "जेरार्ड साल्टन / Gerard Salton",
+    "C": "मार्टिन पोर्टर / Martin Porter",
+    "D": "कैरेन स्पार्क जोन्स / Karen Sparck Jones"
+   },
+   "q": "प्रसिद्ध 'पोर्टर स्टेमर' एल्गोरिथ्म किसने विकसित किया था? / Who developed the famous 'Porter Stemmer' algorithm?"
+  },
+  {
+   "answer": "D",
+   "explanation": "प्रत्येक भाषा में कुछ शब्द अत्यंत सामान्य होते हैं और विषय की पहचान में सहायक नहीं होते। ऐसे शब्दों को अनुक्रमण और खोज के समय छोड़ दिया जाता है, जिससे अनुक्रमणिका का आकार घटता है और प्रणाली की गति बढ़ती है।",
+   "options": {
+    "A": "वे शब्द जिन पर खोज अनिवार्य रूप से रुक जाती है / Words at which the search compulsorily stops",
+    "B": "केवल शीर्षक में आने वाले शब्द / Words occurring only in the title",
+    "C": "दुर्लभ और अत्यंत महत्वपूर्ण शब्द / Rare and highly important words",
+    "D": "सामान्य शब्द, जिन्हें अनुक्रमण में प्रायः छोड़ दिया जाता है / Common words that are usually omitted during indexing"
+   },
+   "q": "खोज प्रणालियों में 'स्टॉप वर्ड्स' (विराम शब्द) से क्या अभिप्राय है? / What is meant by 'stop words' in search systems?"
+  },
+  {
+   "answer": "A",
+   "explanation": "सामान्य फ़ाइल में प्रलेख से उसके शब्दों की ओर जाया जाता है, जबकि इनवर्टेड फ़ाइल में प्रत्येक शब्द के साथ उन सभी प्रलेखों की सूची जुड़ी होती है जिनमें वह शब्द आया है। खोज इंजन और डेटाबेस इसी संरचना के कारण तीव्र गति से खोज कर पाते हैं।",
+   "options": {
+    "A": "शब्दों से उन प्रलेखों की ओर संकेत करने वाली अनुक्रमणिका संरचना / An index structure that points from words to the documents containing them",
+    "B": "प्रलेखों की उल्टी क्रम में रखी सूची / A list of documents kept in reverse order",
+    "C": "केवल छवियों का संग्रह / A collection of images only",
+    "D": "पुस्तकों की आरक्षित सूची / A reserve list of books"
+   },
+   "q": "सूचना पुनःप्राप्ति में 'इनवर्टेड फ़ाइल' (Inverted File) क्या है? / What is an 'inverted file' in information retrieval?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इस तकनीक में खोजकर्ता पहले एक ऐसा प्रलेख खोजता है जो उसकी आवश्यकता के अत्यंत निकट हो। फिर उसी प्रलेख के अनुक्रमण पदों, संदर्भों और उद्धरणों का उपयोग करके खोज को चरणबद्ध ढंग से विस्तारित किया जाता है, जिससे प्रासंगिक सामग्री बढ़ती जाती है।",
+   "options": {
+    "A": "केवल शब्दकोश के पर्यायवाची शब्दों से / Only through synonyms from a dictionary",
+    "B": "एक अत्यंत प्रासंगिक प्रलेख से प्रारंभ कर उसके विषय-पदों और उद्धरणों से खोज का विस्तार करके / By starting from one highly relevant document and expanding the search through its subject terms and citations",
+    "C": "यादृच्छिक प्रलेख चुनकर / By selecting documents at random",
+    "D": "केवल नवीनतम प्रलेखों से / Only through the latest documents"
+   },
+   "q": "'पर्ल ग्रोइंग' (Pearl Growing) खोज तकनीक में खोज कैसे आगे बढ़ती है? / How does the search proceed in the 'pearl growing' technique?"
+  },
+  {
+   "answer": "C",
+   "explanation": "इस विधि में किसी ज्ञात प्रासंगिक प्रलेख से प्रारंभ करके उन नए प्रलेखों को खोजा जाता है जिन्होंने उसे उद्धृत किया है। इस प्रकार विषय के विकास का पता चलता है और नवीनतम संबंधित शोध तक पहुँचना सरल हो जाता है।",
+   "options": {
+    "A": "पुस्तक के मूल्य के आधार पर / On the basis of the price of the book",
+    "B": "प्रकाशक के नाम के आधार पर / On the basis of the publisher's name",
+    "C": "किसी ज्ञात प्रलेख को उद्धृत करने वाले बाद के प्रलेखों के आधार पर / On the basis of later documents that have cited a known document",
+    "D": "पृष्ठों की संख्या के आधार पर / On the basis of the number of pages"
+   },
+   "q": "उद्धरण खोज (Citation Searching) में खोज किसके आधार पर आगे बढ़ाई जाती है? / On what basis is the search extended in citation searching?"
+  },
+  {
+   "answer": "D",
+   "explanation": "क्रॉलर एक स्वचालित प्रोग्राम है जो एक पेज के लिंक से दूसरे पेज तक जाते हुए वेब पर निरंतर भ्रमण करता है। एकत्र की गई सामग्री से खोज इंजन अपनी विशाल अनुक्रमणिका बनाता है, जिससे उपयोगकर्ता के प्रश्न पर क्षण भर में परिणाम दिए जा सकते हैं।",
+   "options": {
+    "A": "विज्ञापन प्रदर्शित करता है / It displays advertisements",
+    "B": "उपयोगकर्ता के प्रश्न का उत्तर लिखता है / It writes answers to user queries",
+    "C": "वेब पेजों को हटाता है / It deletes web pages",
+    "D": "वेब पर भ्रमण कर पेजों की जानकारी एकत्र कर अनुक्रमणिका हेतु लाता है / It traverses the web and collects information from pages for indexing"
+   },
+   "q": "सर्च इंजन का 'क्रॉलर' (स्पाइडर) घटक क्या कार्य करता है? / What does the 'crawler' (spider) component of a search engine do?"
+  },
+  {
+   "answer": "A",
+   "explanation": "पेजरैंक वेब पेजों को उनके लिंक-आधारित महत्व के अनुसार क्रम देता है। इसका नाम गूगल के सह-संस्थापक लैरी पेज के नाम पर रखा गया है। जिस पेज को अधिक और महत्वपूर्ण पेजों से लिंक मिलते हैं, उसकी रैंक उतनी ही ऊँची मानी जाती है।",
+   "options": {
+    "A": "लैरी पेज / Larry Page",
+    "B": "सर्गेई ब्रिन / Sergey Brin",
+    "C": "एरिक श्मिट / Eric Schmidt",
+    "D": "टिम बर्नर्स-ली / Tim Berners-Lee"
+   },
+   "q": "गूगल के 'पेजरैंक' एल्गोरिथ्म का नाम मुख्यतः किसके नाम पर रखा गया है? / After whom is Google's 'PageRank' algorithm mainly named?"
+  },
+  {
+   "answer": "B",
+   "explanation": "मेटा सर्च इंजन की अपनी अनुक्रमणिका नहीं होती। यह उपयोगकर्ता के प्रश्न को एक साथ कई खोज इंजनों को भेजता है और उनसे प्राप्त परिणामों को मिलाकर प्रस्तुत करता है। डॉगपाइल इसी श्रेणी का प्रसिद्ध उदाहरण है।",
+   "options": {
+    "A": "गूगल / Google",
+    "B": "डॉगपाइल / Dogpile",
+    "C": "बिंग / Bing",
+    "D": "यांडेक्स / Yandex"
+   },
+   "q": "निम्नलिखित में से कौन-सा मेटा सर्च इंजन का उदाहरण है? / Which of the following is an example of a meta search engine?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यह सेवा शोध पत्रिकाओं के लेख, सम्मेलन पत्र, शोध-प्रबंध और पुस्तकों जैसी विद्वत्तापूर्ण सामग्री को खोजती है। इसमें प्रत्येक परिणाम के उद्धरणों की संख्या भी दिखाई देती है, जिससे शोधकर्ता किसी कार्य के प्रभाव का अनुमान लगा सकता है।",
+   "options": {
+    "A": "समाचार-पत्रों की / Of newspapers",
+    "B": "मनोरंजन वीडियो की / Of entertainment videos",
+    "C": "विद्वत्तापूर्ण साहित्य, जैसे शोध लेख और शोध-प्रबंध, की / Of scholarly literature, such as research articles and theses",
+    "D": "खरीदारी उत्पादों की / Of shopping products"
+   },
+   "q": "'गूगल स्कॉलर' मुख्यतः किस प्रकार की सामग्री की खोज हेतु बनाया गया है? / 'Google Scholar' is mainly designed to search which type of material?"
+  },
+  {
+   "answer": "D",
+   "explanation": "स्कोपस का शुभारंभ 2004 में एल्सेवियर द्वारा किया गया था। यह विश्व के सबसे बड़े सार और उद्धरण डेटाबेसों में से एक है, जिसमें हज़ारों पत्रिकाओं के शोध लेखों के अभिलेख और उनके उद्धरण-विवरण उपलब्ध हैं।",
+   "options": {
+    "A": "1996 / 1996",
+    "B": "2000 / 2000",
+    "C": "2010 / 2010",
+    "D": "2004 / 2004"
+   },
+   "q": "स्कोपस (Scopus) उद्धरण डेटाबेस का शुभारंभ किस वर्ष हुआ था? / In which year was the Scopus citation database launched?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यूजीन गारफ़ील्ड ने इंस्टीट्यूट फ़ॉर साइंटिफ़िक इन्फ़ॉर्मेशन के माध्यम से 1964 में इसका प्रारंभ किया था। उद्धरण अनुक्रमण की यह अवधारणा बाद में वेब ऑफ़ साइंस का आधार बनी, जिससे किसी शोध कार्य को उद्धृत करने वाले नए कार्यों को खोजा जा सकता है।",
+   "options": {
+    "A": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "B": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "C": "पॉल ऑटले / Paul Otlet",
+    "D": "मेल्विल डेवी / Melvil Dewey"
+   },
+   "q": "'साइंस साइटेशन इंडेक्स' (SCI) का प्रारंभ किसने किया था, जो बाद में वेब ऑफ़ साइंस की आधारशिला बना? / Who started the 'Science Citation Index' (SCI), which later became the foundation of Web of Science?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इसका पूर्ण रूप जर्नल स्टोरेज है। इसकी स्थापना 1995 में पत्रिकाओं के पुराने अंकों को डिजिटल रूप में सुरक्षित रखने के उद्देश्य से की गई थी, ताकि पुस्तकालयों में शेल्फ़ स्थान की बचत हो और पुरानी शोध सामग्री सुलभ बनी रहे।",
+   "options": {
+    "A": "जर्नल सिस्टम / Journal System",
+    "B": "जर्नल स्टोरेज / Journal Storage",
+    "C": "जॉइंट स्टोर / Joint Store",
+    "D": "जूनियर स्टोरेज / Junior Storage"
+   },
+   "q": "JSTOR का पूर्ण रूप क्या है? / What is the full form of JSTOR?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यह मंच हज़ारों शोध पत्रिकाओं के प्रारंभिक अंकों से लेकर हाल के वर्षों तक के पुराने अंकों का विशाल डिजिटल अभिलेखागार उपलब्ध कराता है। प्रायः नवीनतम कुछ वर्षों के अंक एक निर्धारित अंतराल के कारण इसमें कुछ विलंब से उपलब्ध होते हैं।",
+   "options": {
+    "A": "केवल नवीनतम समाचार देने के लिए / For providing only the latest news",
+    "B": "पुस्तकें बेचने के लिए / For selling books",
+    "C": "शोध पत्रिकाओं के पुराने अंकों (Back Files) के डिजिटल अभिलेखागार के लिए / For the digital archive of back files of research journals",
+    "D": "सॉफ़्टवेयर वितरण के लिए / For software distribution"
+   },
+   "q": "JSTOR मुख्यतः किसके लिए प्रसिद्ध है? / JSTOR is mainly known for what?"
+  },
+  {
+   "answer": "D",
+   "explanation": "यह कृषि विज्ञान और उससे संबंधित विषयों की अंतरराष्ट्रीय सूचना प्रणाली है, जिसका समन्वय खाद्य एवं कृषि संगठन करता है। इसमें विश्व भर के कृषि शोध साहित्य के अभिलेख खोजे जा सकते हैं।",
+   "options": {
+    "A": "चिकित्सा विज्ञान / Medical Science",
+    "B": "शिक्षा / Education",
+    "C": "विधि / Law",
+    "D": "कृषि विज्ञान / Agricultural Science"
+   },
+   "q": "'AGRIS' डेटाबेस मुख्यतः किस विषय क्षेत्र से संबंधित है? / The 'AGRIS' database is mainly related to which subject area?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यूजीसी के पीएच.डी. नियमनों के अनुसार विश्वविद्यालयों को डिग्री प्रदान करने के पश्चात निर्धारित अवधि में शोध-प्रबंध की सॉफ़्ट कॉपी इन्फ़्लिबनेट केंद्र को भेजनी होती है, जिसे शोधगंगा भंडार में उपलब्ध कराया जाता है। इससे शोध कार्यों की पुनरावृत्ति रुकती है और पारदर्शिता बढ़ती है।",
+   "options": {
+    "A": "यूजीसी के पीएच.डी. नियमनों से, जिनके अंतर्गत शोध-प्रबंध की इलेक्ट्रॉनिक प्रति जमा करना अपेक्षित है / The UGC Ph.D. Regulations, under which depositing an electronic copy of the thesis is required",
+    "B": "पुस्तकालय अधिनियम से / The Library Act",
+    "C": "कॉपीराइट अधिनियम से / The Copyright Act",
+    "D": "विश्वविद्यालय अनुदान आयोग के बजट नियमों से / The budget rules of the UGC"
+   },
+   "q": "विश्वविद्यालयों द्वारा 'शोधगंगा' में शोध-प्रबंधों की सॉफ़्ट कॉपी जमा करना मुख्यतः किससे जुड़ा है? / The submission of soft copies of theses to 'Shodhganga' by universities is mainly linked to what?"
+  },
+  {
+   "answer": "B",
+   "explanation": "यह शिक्षा क्षेत्र का विशाल ग्रंथसूची डेटाबेस है, जिसमें शिक्षा संबंधी पत्रिका लेखों, रिपोर्टों और सम्मेलन पत्रों के अभिलेख मिलते हैं। शिक्षा शोधकर्ताओं और शिक्षकों के लिए यह प्रमुख संदर्भ स्रोत है।",
+   "options": {
+    "A": "इलेक्ट्रॉनिक रिसोर्स इंडेक्स सेंटर / Electronic Resource Index Centre",
+    "B": "एजुकेशन रिसोर्सेज़ इन्फ़ॉर्मेशन सेंटर / Education Resources Information Center",
+    "C": "इंडियन रिसर्च इन्फ़ॉर्मेशन सेंटर / Indian Research Information Centre",
+    "D": "इलेक्ट्रॉनिक रीडिंग इन्फ़ॉर्मेशन क्लब / Electronic Reading Information Club"
+   },
+   "q": "ERIC का पूर्ण रूप क्या है? / What is the full form of ERIC?"
+  },
+  {
+   "answer": "C",
+   "explanation": "इलेक्ट्रॉनिक संसाधन प्रबंधन में ई-पत्रिकाओं और डेटाबेसों के चयन, अनुज्ञापत्र, अभिगम व्यवस्था, नवीनीकरण और उपयोग-मूल्यांकन जैसी सभी प्रक्रियाएँ आती हैं। आधुनिक पुस्तकालयों में इसके लिए विशेष सॉफ़्टवेयर प्रणालियों का प्रयोग होता है।",
+   "options": {
+    "A": "इलेक्ट्रॉनिक रीडिंग मशीन / Electronic Reading Machine",
+    "B": "एजुकेशनल रिसोर्स मैनेजमेंट / Educational Resource Management",
+    "C": "इलेक्ट्रॉनिक रिसोर्स मैनेजमेंट / Electronic Resource Management",
+    "D": "इलेक्ट्रॉनिक रिकॉर्ड मैनेजमेंट / Electronic Record Management"
+   },
+   "q": "पुस्तकालय संदर्भ में 'ERM' का पूर्ण रूप क्या है? / What is the full form of 'ERM' in the library context?"
+  },
+  {
+   "answer": "D",
+   "explanation": "यह अंतरराष्ट्रीय पहल प्रकाशकों और विक्रेताओं के लिए उपयोग-आँकड़े प्रस्तुत करने के मानक नियम तय करती है। इससे पुस्तकालय विभिन्न प्रकाशकों के आँकड़ों की परस्पर तुलना कर सकते हैं और सदस्यता जारी रखने या बंद करने का निर्णय तथ्यों के आधार पर ले सकते हैं।",
+   "options": {
+    "A": "पुस्तकों की गिनती करना / To count books",
+    "B": "पाठकों की उपस्थिति गिनना / To count reader attendance",
+    "C": "पत्रिकाओं के मूल्य तय करना / To fix journal prices",
+    "D": "ई-संसाधनों के उपयोग की सांख्यिकी का मानकीकृत और तुलनीय मापन / Standardised and comparable measurement of usage statistics of e-resources"
+   },
+   "q": "'COUNTER' परियोजना का मुख्य उद्देश्य क्या है? / What is the main purpose of the 'COUNTER' project?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इस प्रोटोकॉल की सहायता से पुस्तकालय की प्रणाली विभिन्न प्रकाशकों से मानक उपयोग-रिपोर्टें मशीन द्वारा स्वतः प्राप्त कर लेती है। इससे प्रत्येक प्रकाशक की वेबसाइट पर जाकर अलग-अलग रिपोर्ट डाउनलोड करने का श्रम बचता है।",
+   "options": {
+    "A": "उपयोग सांख्यिकी रिपोर्टों के स्वचालित संग्रह (Harvesting) के लिए / For the automated harvesting of usage statistics reports",
+    "B": "पुस्तकों की जिल्दबंदी के लिए / For the binding of books",
+    "C": "बारकोड छापने के लिए / For printing barcodes",
+    "D": "पाठक पंजीकरण के लिए / For reader registration"
+   },
+   "q": "'SUSHI' प्रोटोकॉल का प्रयोग किसके लिए किया जाता है? / For what is the 'SUSHI' protocol used?"
+  },
+  {
+   "answer": "B",
+   "explanation": "अनुज्ञापत्र की इस शर्त के अंतर्गत पुस्तकालय जितने वर्षों की सदस्यता लेता है, उन वर्षों की सामग्री का अधिकार उसके पास स्थायी रूप से बना रहता है। सदस्यता बंद होने पर भी उन वर्षों के अंक पाठकों के लिए उपलब्ध रहते हैं।",
+   "options": {
+    "A": "सदस्यता के बिना ही सदैव मुफ़्त अभिगम / Free access forever without subscription",
+    "B": "सदस्यता समाप्त होने पर भी सदस्यता-काल में प्रकाशित सामग्री तक अभिगम बना रहना / Continued access to the content published during the subscription period even after the subscription ends",
+    "C": "केवल एक वर्ष का अभिगम / Access for one year only",
+    "D": "केवल मुद्रित संस्करण का अधिकार / Right to the print version only"
+   },
+   "q": "ई-पत्रिका अनुज्ञापत्र (License) में 'सतत अभिगम' (Perpetual Access) का क्या अर्थ है? / What does 'perpetual access' mean in an e-journal license?"
+  },
+  {
+   "answer": "C",
+   "explanation": "प्रकाशक संस्था के इंटरनेट पतों की सूची अपने यहाँ दर्ज कर लेता है। जब कोई उपयोगकर्ता संस्था के परिसर-नेटवर्क से जुड़ता है तो प्रणाली उसे स्वतः पहचान लेती है और बिना पासवर्ड माँगे संसाधन खोल देती है।",
+   "options": {
+    "A": "आधार संख्या से / By Aadhaar number",
+    "B": "पंजीकरण संख्या से / By registration number",
+    "C": "संस्था के नेटवर्क के आई.पी. पते के आधार पर, बिना अलग पासवर्ड के / By the IP address of the institution's network, without a separate password",
+    "D": "हस्ताक्षर के आधार पर / By signature"
+   },
+   "q": "ई-संसाधनों में 'आई.पी.-आधारित अभिगम' में उपयोगकर्ता की पहचान कैसे होती है? / How is a user identified in IP-based access to e-resources?"
+  },
+  {
+   "answer": "D",
+   "explanation": "इस मॉडल में पुस्तकालय या कंसोर्टियम प्रकाशक की लगभग सभी पत्रिकाओं का पैकेज एकमुश्त मूल्य पर लेता है। इससे प्रति पत्रिका लागत घटती है, परंतु अनावश्यक पत्रिकाओं की बाध्यता और प्रतिवर्ष मूल्य-वृद्धि इसकी प्रमुख आलोचनाएँ हैं।",
+   "options": {
+    "A": "एक पत्रिका पर भारी छूट / A heavy discount on one journal",
+    "B": "केवल एक वर्ष की निःशुल्क सदस्यता / Free subscription for one year only",
+    "C": "मुद्रित पत्रिकाओं का थोक क्रय / Bulk purchase of print journals",
+    "D": "किसी प्रकाशक की पत्रिकाओं का संपूर्ण या बड़ा पैकेज एक साथ सदस्यता में लेना / Subscribing to the complete or large package of a publisher's journals together"
+   },
+   "q": "ई-पत्रिकाओं के संदर्भ में 'बिग डील' (Big Deal) मॉडल क्या है? / What is the 'Big Deal' model in the context of e-journals?"
+  },
+  {
+   "answer": "A",
+   "explanation": "आई.पी.-आधारित सदस्यता सामान्यतः केवल परिसर में कार्य करती है। दूरस्थ अभिगम व्यवस्था पंजीकृत उपयोगकर्ताओं को सुरक्षित लॉगिन के माध्यम से कहीं से भी वही संसाधन उपलब्ध कराती है, जिससे शोध कार्य स्थान की बाधा से मुक्त हो जाता है।",
+   "options": {
+    "A": "परिसर से बाहर, जैसे घर से, भी सदस्यता-प्राप्त ई-संसाधनों का उपयोग संभव करना / To enable use of subscribed e-resources from outside the campus, such as from home",
+    "B": "पुस्तकालय का समय बढ़ाना / To extend library hours",
+    "C": "पुस्तकों का घर पर वितरण करना / To deliver books at home",
+    "D": "पाठकों की संख्या गिनना / To count the number of readers"
+   },
+   "q": "पुस्तकालयों में 'दूरस्थ अभिगम' (Remote Access) सेवा का मुख्य उद्देश्य क्या है? / What is the main purpose of 'remote access' service in libraries?"
+  },
+  {
+   "answer": "B",
+   "explanation": "यह भारत में व्यापक रूप से प्रयुक्त दूरस्थ अभिगम समाधान है, जिसके माध्यम से संस्थाएँ अपने सदस्यों को एक ही लॉगिन से सभी सदस्यता-प्राप्त ई-संसाधन परिसर के बाहर भी उपलब्ध कराती हैं। इसमें उपयोग की रिपोर्ट भी संस्था को मिलती है।",
+   "options": {
+    "A": "एक वर्गीकरण प्रणाली / A classification scheme",
+    "B": "ई-संसाधनों तक दूरस्थ अभिगम प्रदान करने वाला मंच / A platform providing remote access to e-resources",
+    "C": "एक बारकोड प्रिंटर / A barcode printer",
+    "D": "एक ग्रंथसूची डेटाबेस / A bibliographic database"
+   },
+   "q": "'RemoteXs' क्या है? / What is 'RemoteXs'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "जब दूरस्थ उपयोगकर्ता प्रॉक्सी के माध्यम से जुड़ता है तो प्रकाशक को अनुरोध संस्था के मान्य आई.पी. पते से आता हुआ दिखाई देता है। इस प्रकार उपयोगकर्ता भौतिक रूप से कहीं भी हो, अभिगम संस्थागत सदस्यता के अंतर्गत मिल जाता है।",
+   "options": {
+    "A": "पुस्तकों का बैकअप रखना / To keep a backup of books",
+    "B": "वायरस हटाना / To remove viruses",
+    "C": "उपयोगकर्ता के अनुरोध को संस्था के नेटवर्क के माध्यम से भेजना, जिससे प्रकाशक उसे संस्थागत उपयोगकर्ता माने / To route the user's request through the institution's network so that the publisher treats it as an institutional user",
+    "D": "इंटरनेट की गति मापना / To measure internet speed"
+   },
+   "q": "दूरस्थ अभिगम में 'प्रॉक्सी सर्वर' की मुख्य भूमिका क्या है? / What is the main role of a 'proxy server' in remote access?"
+  },
+  {
+   "answer": "D",
+   "explanation": "इस व्यवस्था में उपयोगकर्ता अपनी संस्था के खाते से एक बार लॉगिन करता है और पहचान की पुष्टि संस्था स्वयं करती है। प्रकाशक को पासवर्ड नहीं दिया जाता, केवल यह सूचना मिलती है कि उपयोगकर्ता मान्य संस्था का सदस्य है। इससे अभिगम सुरक्षित और सुविधाजनक बनता है।",
+   "options": {
+    "A": "पुस्तक मरम्मत से / Book repair",
+    "B": "वर्गीकरण से / Classification",
+    "C": "पत्रिका बंधाई से / Journal binding",
+    "D": "संघीय पहचान-आधारित एकल साइन-ऑन (SSO) द्वारा ई-संसाधनों तक अभिगम से / Access to e-resources through federated identity-based single sign-on (SSO)"
+   },
+   "q": "'शिब्बोलेथ' (Shibboleth) प्रणाली मुख्यतः किससे संबंधित है? / The 'Shibboleth' system is mainly related to what?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यह सेवा पुस्तकालय के सभी स्रोतों के अभिलेखों को पहले से एक केंद्रीय अनुक्रमणिका में मिला लेती है। पाठक को प्रत्येक डेटाबेस में अलग-अलग खोजने की आवश्यकता नहीं रहती; एक ही स्थान से पुस्तकें, लेख और अन्य सामग्री मिल जाती है।",
+   "options": {
+    "A": "एक ही खोज खिड़की से सूचीपत्र, डेटाबेस और भंडार सहित सभी संसाधनों की संयुक्त खोज / A single search window to search all resources together, including the catalogue, databases and repositories",
+    "B": "केवल नई पुस्तकों की खोज / Search of new books only",
+    "C": "केवल छवियों की खोज / Search of images only",
+    "D": "इंटरनेट पर सामान्य खोज / General search on the internet"
+   },
+   "q": "'डिस्कवरी सेवा' (Discovery Service) की मुख्य विशेषता क्या है? / What is the main feature of a 'discovery service'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इस विधि में प्रणाली उपयोगकर्ता का प्रश्न उसी समय विभिन्न डेटाबेसों को प्रेषित करती है और वहाँ से आए परिणामों को मिलाकर दिखाती है। डिस्कवरी सेवा से इसका अंतर यह है कि इसमें पहले से कोई संयुक्त अनुक्रमणिका नहीं बनाई जाती।",
+   "options": {
+    "A": "पहले से बनी एक ही अनुक्रमणिका में / In a single pre-built index",
+    "B": "प्रश्न को एक साथ अनेक डेटाबेसों को भेजकर वास्तविक समय में परिणाम एकत्र किए जाते हैं / The query is sent to many databases simultaneously and results are collected in real time",
+    "C": "केवल एक डेटाबेस में बारी-बारी से / In one database at a time manually",
+    "D": "बिना इंटरनेट के / Without the internet"
+   },
+   "q": "'फ़ेडरेटेड सर्च' (Federated Search) में खोज किस प्रकार होती है? / How does searching take place in 'federated search'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यह वेब सामग्री के नवीन अद्यतनों को मानक रूप में प्रसारित करने की तकनीक है। जिस वेबसाइट या पत्रिका की फ़ीड से पाठक जुड़ता है, वहाँ नई सामग्री आते ही उसे सूचना मिल जाती है, बिना बार-बार वेबसाइट खोले।",
+   "options": {
+    "A": "रीडर सर्विस सिस्टम / Reader Service System",
+    "B": "रिमोट सर्च सर्विस / Remote Search Service",
+    "C": "रियली सिंपल सिंडिकेशन / Really Simple Syndication",
+    "D": "रिसर्च सोर्स सिस्टम / Research Source System"
+   },
+   "q": "RSS का पूर्ण रूप क्या है? / What is the full form of RSS?"
+  },
+  {
+   "answer": "D",
+   "explanation": "पुस्तकालय अपनी नवीन पुस्तकों, पत्रिकाओं के नए अंकों और सूचनाओं की फ़ीड जारी कर सकता है। इससे पाठकों को नवीन सामग्री की जानकारी स्वतः मिलती रहती है, जो आधुनिक रूप में सामयिक सजगता सेवा का ही एक रूप है।",
+   "options": {
+    "A": "पुस्तक मरम्मत के लिए / For book repair",
+    "B": "पाठक पंजीकरण के लिए / For reader registration",
+    "C": "जुर्माना गणना के लिए / For fine calculation",
+    "D": "नवीन आगमन और नई सामग्री की त्वरित सूचना (सजगता सेवा) के लिए / For quick alerts of new arrivals and new content (alert service)"
+   },
+   "q": "पुस्तकालय सेवा में RSS फ़ीड का उपयोग मुख्यतः किसके लिए किया जा सकता है? / For what can RSS feeds be mainly used in library service?"
+  },
+  {
+   "answer": "A",
+   "explanation": "वेब 2.0 के युग में पाठक स्वयं सामग्री पर अपनी भाषा में टैग लगाते हैं। इन्हीं सामूहिक टैगों से जो अनौपचारिक वर्गीकरण बनता है, वही फ़ोक्सोनॉमी कहलाता है। यह पारंपरिक नियंत्रित शब्दावली से भिन्न, उपयोगकर्ता-केंद्रित व्यवस्था है।",
+   "options": {
+    "A": "उपयोगकर्ताओं द्वारा स्वतंत्र रूप से दिए गए टैगों से बनने वाला वर्गीकरण / A classification created from tags freely assigned by users",
+    "B": "सरकार द्वारा बनाया गया वर्गीकरण / A classification made by the government",
+    "C": "केवल लोक साहित्य का संग्रह / A collection of folk literature only",
+    "D": "डेवी दशमलव वर्गीकरण का नया संस्करण / A new edition of Dewey Decimal Classification"
+   },
+   "q": "'फ़ोक्सोनॉमी' (Folksonomy) से क्या अभिप्राय है? / What is meant by 'folksonomy'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इस सेवा में पाठक पुस्तकालय में आए बिना चैट या संदेश के माध्यम से संदर्भ पुस्तकालयाध्यक्ष से प्रश्न पूछता है और उत्तर पाता है। ईमेल, चैट और वीडियो वार्ता इसके प्रमुख माध्यम हैं, जिससे संदर्भ सेवा स्थान की सीमा से बाहर निकल गई है।",
+   "options": {
+    "A": "दूरभाष संदर्भ सेवा / Telephone reference service",
+    "B": "आभासी (वर्चुअल) संदर्भ सेवा / Virtual reference service",
+    "C": "अंतर-पुस्तकालय ऋण सेवा / Inter-library loan service",
+    "D": "प्रलेख वितरण सेवा / Document delivery service"
+   },
+   "q": "तत्काल संदेश/चैट (Instant Messaging) द्वारा दी जाने वाली संदर्भ सेवा क्या कहलाती है? / What is the reference service provided through instant messaging/chat called?"
+  },
+  {
+   "answer": "C",
+   "explanation": "वेब के प्रथम रूप में उपयोगकर्ता मुख्यतः पाठक था, जबकि वेब 2.0 में वह स्वयं सामग्री बनाता, साझा करता और उस पर टिप्पणी करता है। ब्लॉग, विकी और सामाजिक माध्यम इसी भागीदारी के उदाहरण हैं, जिनका पुस्तकालयों ने सेवा-विस्तार में भरपूर उपयोग किया है।",
+   "options": {
+    "A": "केवल पढ़ने की सुविधा / Read-only facility",
+    "B": "केवल स्थिर वेब पेज / Static web pages only",
+    "C": "उपयोगकर्ता की भागीदारी, अंतःक्रियात्मकता और उपयोगकर्ता-निर्मित सामग्री / User participation, interactivity and user-generated content",
+    "D": "केवल सरकारी वेबसाइटें / Government websites only"
+   },
+   "q": "वेब 2.0 की मूलभूत विशेषता क्या है? / What is the fundamental feature of Web 2.0?"
+  },
+  {
+   "answer": "D",
+   "explanation": "स्वचालित पुस्तकालय प्रणाली पाठक के मोबाइल पर देय तिथि से पहले स्मरण संदेश भेजती है और आरक्षित पुस्तक उपलब्ध होते ही सूचना देती है। इससे पुस्तकें समय पर लौटती हैं और पाठक को बार-बार पुस्तकालय आकर पूछताछ नहीं करनी पड़ती।",
+   "options": {
+    "A": "पुस्तकों का वर्गीकरण करना / To classify books",
+    "B": "वेतन गणना करना / To calculate salary",
+    "C": "पत्रिकाएँ बाँधना / To bind journals",
+    "D": "देय तिथि की याद और आरक्षित पुस्तक उपलब्ध होने की सूचना देना / To remind about due dates and inform about the availability of reserved books"
+   },
+   "q": "पुस्तकालयों में एस.एम.एस. चेतावनी सेवा का सामान्य उपयोग क्या है? / What is the common use of SMS alert service in libraries?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यह ऑनलाइन सूचीपत्र का मोबाइल-अनुकूल रूप है, जिससे पाठक अपने फ़ोन से कहीं भी संग्रह खोज सकता है, पुस्तक की उपलब्धता देख सकता है और अपना खाता भी जाँच सकता है। पुस्तकालय ऐप में प्रायः यही सुविधा मुख्य रूप से दी जाती है।",
+   "options": {
+    "A": "मोबाइल उपकरणों पर उपलब्ध पुस्तकालय का ऑनलाइन सूचीपत्र / The library's online catalogue available on mobile devices",
+    "B": "चल पुस्तकालय वाहन / A mobile library van",
+    "C": "पुस्तकालय का मोबाइल नंबर / The library's mobile number",
+    "D": "मोबाइल मरम्मत सेवा / A mobile repair service"
+   },
+   "q": "'मोबाइल ओपैक' (M-OPAC) से क्या अभिप्राय है? / What is meant by 'mobile OPAC' (M-OPAC)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पाठक अपने मोबाइल से कोड स्कैन करके तुरंत संबंधित वेब पेज, ई-पुस्तक या सहायता सामग्री तक पहुँच जाता है। शेल्फ़ पर लगे कोड से उसी विषय के ई-संसाधनों की सूची खुल जाती है, जिससे मुद्रित और डिजिटल संग्रह आपस में जुड़ जाते हैं।",
+   "options": {
+    "A": "पुस्तकों की जिल्द मज़बूत करना / To strengthen book binding",
+    "B": "शेल्फ़ या सूचना-पट्ट पर कोड लगाकर पाठक को सीधे संबंधित ई-संसाधन या सूचीपत्र पृष्ठ से जोड़ना / To link readers directly to the related e-resource or catalogue page by placing codes on shelves or notice boards",
+    "C": "जुर्माना वसूलना / To collect fines",
+    "D": "पुस्तकें गिनना / To count books"
+   },
+   "q": "पुस्तकालयों में क्यू.आर. कोड का एक व्यावहारिक उपयोग क्या है? / What is a practical use of QR codes in libraries?"
+  },
+  {
+   "answer": "C",
+   "explanation": "टैग में लगी सूक्ष्म चिप में पुस्तक की पहचान संख्या संग्रहीत रहती है और एंटीना रेडियो तरंगों के माध्यम से रीडर से संवाद करता है। इन्हीं दो घटकों के कारण बिना संपर्क के ही सामग्री की पहचान संभव होती है।",
+   "options": {
+    "A": "बैटरी और तार / Battery and wire",
+    "B": "काग़ज़ और स्याही / Paper and ink",
+    "C": "माइक्रोचिप और एंटीना / Microchip and antenna",
+    "D": "चुंबक और प्लास्टिक / Magnet and plastic"
+   },
+   "q": "RFID टैग के दो मुख्य घटक कौन-से हैं? / What are the two main components of an RFID tag?"
+  },
+  {
+   "answer": "D",
+   "explanation": "निष्क्रिय टैग रीडर से आने वाली रेडियो ऊर्जा से सक्रिय होता है और अपनी सूचना वापस भेजता है। बैटरी न होने से ये छोटे, सस्ते और दीर्घकालीन होते हैं, इसलिए पुस्तकालयों की लाखों पुस्तकों के लिए यही उपयुक्त माने जाते हैं।",
+   "options": {
+    "A": "इनमें बड़ी बैटरी होती है / They have a large battery",
+    "B": "ये स्वयं संकेत प्रसारित करते रहते हैं / They keep transmitting signals on their own",
+    "C": "ये केवल ध्वनि उत्पन्न करते हैं / They only produce sound",
+    "D": "इनमें स्वयं की बैटरी नहीं होती; ये रीडर के संकेत से ऊर्जा प्राप्त करते हैं / They have no battery of their own; they draw energy from the reader's signal"
+   },
+   "q": "पुस्तकालयों में प्रयुक्त 'निष्क्रिय' (Passive) RFID टैग की विशेषता क्या है? / What is the characteristic of 'passive' RFID tags used in libraries?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यह मानक पुस्तकालय सामग्री पर लगे टैग में आँकड़े लिखने का प्रारूप तय करता है। मानक के पालन से विभिन्न विक्रेताओं के टैग और उपकरण एक-दूसरे के साथ काम कर सकते हैं और पुस्तकालय किसी एक विक्रेता पर निर्भर नहीं रहता।",
+   "options": {
+    "A": "आई.एस.ओ. 28560 / ISO 28560",
+    "B": "आई.एस.ओ. 9001 / ISO 9001",
+    "C": "आई.एस.ओ. 2709 / ISO 2709",
+    "D": "आई.एस.ओ. 690 / ISO 690"
+   },
+   "q": "पुस्तकालयों में RFID प्रयोग हेतु अंतरराष्ट्रीय मानक कौन-सा है? / Which is the international standard for the use of RFID in libraries?"
+  },
+  {
+   "answer": "B",
+   "explanation": "द्वार पर लगे पैनल बाहर निकलती सामग्री के टैग को पढ़ते हैं। यदि किसी पुस्तक का निर्गमन पंजीकृत नहीं है या उसका सुरक्षा बिट सक्रिय है तो द्वार ध्वनि और प्रकाश से चेतावनी देता है, जिससे संग्रह की चोरी रुकती है।",
+   "options": {
+    "A": "पाठकों की गिनती करना / To count readers",
+    "B": "बिना निर्गमन-पंजीकरण (Check-out) किए बाहर ले जाई जा रही सामग्री पर चेतावनी देना / To raise an alarm for material being taken out without check-out",
+    "C": "पुस्तकों को स्कैन कर सूची बनाना / To scan books and make a list",
+    "D": "प्रवेश पत्र जारी करना / To issue entry passes"
+   },
+   "q": "पुस्तकालय के RFID सुरक्षा द्वार (Security Gate) का मुख्य कार्य क्या है? / What is the main function of the RFID security gate of a library?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कियोस्क पर पाठक अपना कार्ड और पुस्तक का टैग स्वयं स्कैन करके निर्गमन या वापसी पूरी कर लेता है। इससे काउंटर की भीड़ घटती है, समय बचता है और कर्मचारी अन्य पाठक-सेवाओं में समय दे पाते हैं।",
+   "options": {
+    "A": "मुफ़्त पुस्तकें मिलना / Getting free books",
+    "B": "जुर्माना माफ़ होना / Waiver of fines",
+    "C": "कर्मचारी की सहायता के बिना स्वयं पुस्तक लेना और लौटाना / Issuing and returning books by oneself without staff assistance",
+    "D": "पुस्तक घर बैठे मिलना / Getting books delivered at home"
+   },
+   "q": "स्व-निर्गमन (Self Check-out) कियोस्क से पाठकों को मुख्य लाभ क्या है? / What is the main benefit of a self check-out kiosk for readers?"
+  },
+  {
+   "answer": "D",
+   "explanation": "बारकोड को स्कैनर के ठीक सामने एक-एक करके लाना पड़ता है, जबकि रेडियो तरंगें आवरण के आर-पार भी टैग पढ़ लेती हैं। इसलिए एक साथ रखी कई पुस्तकों का निर्गमन और भंडार-सत्यापन अत्यंत शीघ्र हो जाता है।",
+   "options": {
+    "A": "यह अधिक महँगी होती है / It is more expensive",
+    "B": "इसमें काग़ज़ का प्रयोग होता है / It uses paper",
+    "C": "यह केवल एक पुस्तक पढ़ सकती है / It can read only one book",
+    "D": "इसे पढ़ने के लिए प्रत्यक्ष दृष्टि-रेखा (Line of Sight) आवश्यक नहीं होती और एक साथ कई वस्तुएँ पढ़ी जा सकती हैं / It does not require line of sight for reading, and many items can be read at once"
+   },
+   "q": "बारकोड की तुलना में RFID तकनीक का प्रमुख लाभ क्या है? / What is the major advantage of RFID technology over barcodes?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कोडाबार संख्याओं और कुछ विशेष चिह्नों को कूटबद्ध करने वाली पुरानी और सरल प्रणाली है, जिसका प्रयोग दशकों से पुस्तकालयों की पुस्तकों और पाठक कार्डों के बारकोड में होता आया है। बाद में कोड 39 और कोड 128 जैसी प्रणालियाँ भी प्रचलित हुईं।",
+   "options": {
+    "A": "कोडाबार / Codabar",
+    "B": "क्यू.आर. कोड / QR Code",
+    "C": "आज़्टेक कोड / Aztec Code",
+    "D": "डेटा मैट्रिक्स / Data Matrix"
+   },
+   "q": "पुस्तकालय बारकोडों में परंपरागत रूप से प्रयुक्त सांकेतिक प्रणाली (Symbology) कौन-सी है? / Which symbology is traditionally used in library barcodes?"
+  },
+  {
+   "answer": "B",
+   "explanation": "स्मार्ट कार्ड में अंतर्निहित चिप में पाठक की जानकारी सुरक्षित रहती है। एक ही कार्ड से प्रवेश, पुस्तक निर्गमन, मुद्रण-प्रति शुल्क का भुगतान और अन्य परिसर सेवाएँ संभव होती हैं, इसलिए इसे बहुउद्देश्यीय कार्ड कहा जाता है।",
+   "options": {
+    "A": "केवल अलमारी की चाबी के रूप में / Only as a cupboard key",
+    "B": "बहुउद्देश्यीय चिप कार्ड के रूप में — पहचान, अभिगम नियंत्रण और भुगतान हेतु / As a multipurpose chip card — for identification, access control and payment",
+    "C": "केवल बुकमार्क के रूप में / Only as a bookmark",
+    "D": "केवल कैलेंडर के रूप में / Only as a calendar"
+   },
+   "q": "पुस्तकालय में 'स्मार्ट कार्ड' का उपयोग किस रूप में किया जा सकता है? / In what form can a 'smart card' be used in a library?"
+  }
+ ],
+ "subject": "BLIS"
+}

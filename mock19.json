@@ -1,0 +1,556 @@
+{
+ "mock_no": 19,
+ "questions": [
+  {
+   "answer": "B",
+   "explanation": "'लाइब्रेरी' शब्द लैटिन भाषा के शब्द 'लिबर' से बना है, जिसका मूल अर्थ पुस्तक अथवा वृक्ष की छाल होता है, क्योंकि प्राचीन काल में छाल पर लिखा जाता था।",
+   "options": {
+    "A": "ग्रीक / Greek",
+    "B": "लैटिन / Latin",
+    "C": "फ्रांसीसी / French",
+    "D": "जर्मन / German"
+   },
+   "q": "'लाइब्रेरी' (Library) शब्द की उत्पत्ति किस भाषा के शब्द 'लिबर' (Liber) से मानी जाती है? / The word 'Library' is derived from the word 'Liber' of which language?"
+  },
+  {
+   "answer": "C",
+   "explanation": "मुद्रण के प्रारंभिक काल, अर्थात पंद्रहवीं शताब्दी में सन् 1501 से पूर्व मुद्रित पुस्तकों को इन्कुनाबुला कहा जाता है। ये पुस्तकें दुर्लभ संग्रह की दृष्टि से अत्यंत महत्वपूर्ण मानी जाती हैं।",
+   "options": {
+    "A": "प्राचीन पांडुलिपियाँ / Ancient manuscripts",
+    "B": "दुर्लभ हस्तलिखित ग्रंथ / Rare handwritten books",
+    "C": "सन् 1501 से पूर्व मुद्रित पुस्तकें / Books printed before the year 1501",
+    "D": "किसी लेखक की प्रथम प्रकाशित कृति / The first published work of an author"
+   },
+   "q": "पुस्तकालय विज्ञान में 'इन्कुनाबुला' (Incunabula) किसे कहा जाता है? / In library science, what is meant by 'Incunabula'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "कैलिमेकस को अलेक्ज़ेंड्रिया पुस्तकालय का प्रथम सूचीकार माना जाता है। उन्होंने लगभग 120 खंडों में 'पिनाकेस' नामक सूची तैयार की थी, जिसे ग्रंथसूची का प्रारंभिक रूप माना जाता है।",
+   "options": {
+    "A": "कैलिमेकस / Callimachus",
+    "B": "इरेटोस्थनीज़ / Eratosthenes",
+    "C": "टॉलेमी / Ptolemy",
+    "D": "यूक्लिड / Euclid"
+   },
+   "q": "अलेक्ज़ेंड्रिया पुस्तकालय की प्रसिद्ध सूची 'पिनाकेस' (Pinakes) के संकलनकर्ता कौन थे? / Who compiled the famous catalogue 'Pinakes' of the Library of Alexandria?"
+  },
+  {
+   "answer": "D",
+   "explanation": "कॉनराड गेसनर ने सन् 1545 में 'बिब्लियोथेका यूनिवर्सालिस' नामक सार्वभौमिक ग्रंथसूची प्रकाशित की थी, इसलिए उन्हें आधुनिक ग्रंथसूची का जनक माना जाता है।",
+   "options": {
+    "A": "गेब्रियल नौडे / Gabriel Naudé",
+    "B": "मार्टिन श्रेटिंगर / Martin Schrettinger",
+    "C": "एंथनी पैनिज़ी / Anthony Panizzi",
+    "D": "कॉनराड गेसनर / Conrad Gesner"
+   },
+   "q": "'आधुनिक ग्रंथसूची के जनक' (Father of Modern Bibliography) किसे माना जाता है? / Who is regarded as the 'Father of Modern Bibliography'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "फ्रांसीसी पुस्तकालयाध्यक्ष गेब्रियल नौडे ने सन् 1627 में पुस्तकालय स्थापना और व्यवस्था पर यह प्रारंभिक ग्रंथ लिखा था, जिसमें पुस्तक चयन और सूची पर महत्वपूर्ण विचार दिए गए थे।",
+   "options": {
+    "A": "जॉन ड्यूरी / John Dury",
+    "B": "गेब्रियल नौडे / Gabriel Naudé",
+    "C": "गॉटफ़्रीड लाइबनिज़ / Gottfried Leibniz",
+    "D": "कॉनराड गेसनर / Conrad Gesner"
+   },
+   "q": "पुस्तकालय-व्यवस्था पर प्रारंभिक प्रसिद्ध ग्रंथ 'एडवाइस ऑन एस्टैब्लिशिंग अ लाइब्रेरी' (1627) के लेखक कौन थे? / Who wrote the early famous treatise on library organisation 'Advice on Establishing a Library' (1627)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "मार्टिन श्रेटिंगर ने सन् 1808 में पुस्तकालय विज्ञान पर प्रारंभिक पाठ्यपुस्तक लिखी और इस विषय के लिए जर्मन पद 'बिब्लियोथेक्सविसेनशाफ़्ट' का प्रयोग किया, जिसका अंग्रेज़ी रूपांतर ही 'लाइब्रेरी साइंस' है।",
+   "options": {
+    "A": "मार्टिन श्रेटिंगर / Martin Schrettinger",
+    "B": "फ्रेडरिक एबर्ट / Friedrich Ebert",
+    "C": "कार्ल डिज़ियात्ज़को / Karl Dziatzko",
+    "D": "पॉल लाडेविग / Paul Ladewig"
+   },
+   "q": "'पुस्तकालय विज्ञान' (Library Science) शब्द का प्रतिपादन करने का श्रेय किस जर्मन पुस्तकालयाध्यक्ष को दिया जाता है? / Which German librarian is credited with coining the term 'Library Science'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "मेल्विल डेवी ने दशमलव वर्गीकरण, प्रथम पुस्तकालय विद्यालय और पुस्तकालय संघ की स्थापना जैसे कार्यों से आधुनिक पुस्तकालयाध्यक्षता की नींव रखी, इसलिए उन्हें इसका जनक कहा जाता है।",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "चार्ल्स एमी कटर / Charles Ammi Cutter",
+    "C": "मेल्विल डेवी / Melvil Dewey",
+    "D": "विलियम वार्नर बिशप / William Warner Bishop"
+   },
+   "q": "'आधुनिक पुस्तकालयाध्यक्षता के जनक' (Father of Modern Librarianship) किसे कहा जाता है? / Who is called the 'Father of Modern Librarianship'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "इस वर्गीकरण में पक्षों को जोड़ने के लिए सर्वप्रथम द्विबिंदु अर्थात कोलन चिह्न का प्रयोग प्रमुखता से किया गया था, इसी कारण इसका नाम द्विबिंदु अथवा कोलन वर्गीकरण पड़ा।",
+   "options": {
+    "A": "इसके आविष्कारक का नाम कोलन था / Its inventor was named Colon",
+    "B": "इसमें केवल दो वर्ग हैं / It has only two classes",
+    "C": "इसका प्रकाशन कोलन नगर से हुआ था / It was published from the city of Cologne",
+    "D": "इसमें योजक चिह्न के रूप में द्विबिंदु ( : ) का प्रयोग प्रमुखता से हुआ / The colon ( : ) was prominently used as a connecting symbol"
+   },
+   "q": "रंगनाथन के वर्गीकरण का नाम 'द्विबिंदु (कोलन) वर्गीकरण' क्यों पड़ा? / Why is Ranganathan's classification named 'Colon Classification'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "रोमन विद्वान प्लिनी द एल्डर ने 'नैचुरालिस हिस्टोरिया' नामक विशाल ग्रंथ की रचना की थी, जो 37 खंडों में विभाजित था और प्राचीनतम विश्वकोशों में गिना जाता है।",
+   "options": {
+    "A": "प्लिनी द एल्डर / Pliny the Elder",
+    "B": "अरस्तू / Aristotle",
+    "C": "टॉलेमी / Ptolemy",
+    "D": "सिसरो / Cicero"
+   },
+   "q": "प्राचीन विश्वकोशों में से एक 'नैचुरालिस हिस्टोरिया' (Naturalis Historia) के लेखक कौन थे? / Who was the author of 'Naturalis Historia', one of the earliest encyclopaedias?"
+  },
+  {
+   "answer": "B",
+   "explanation": "शिकागो विश्वविद्यालय के पियर्स बटलर ने सन् 1933 में यह पुस्तक लिखकर पुस्तकालय विज्ञान के सामाजिक और दार्शनिक आधारों पर बल दिया था।",
+   "options": {
+    "A": "जेसी शेरा / Jesse Shera",
+    "B": "पियर्स बटलर / Pierce Butler",
+    "C": "डगलस फ़ॉस्केट / Douglas Foskett",
+    "D": "पैट्रिक विल्सन / Patrick Wilson"
+   },
+   "q": "'एन इंट्रोडक्शन टू लाइब्रेरी साइंस' (1933) पुस्तक के लेखक कौन थे? / Who wrote the book 'An Introduction to Library Science' (1933)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "जे. ओ. काइज़र ने सन् 1911 में 'सिस्टेमैटिक इंडेक्सिंग' पुस्तक लिखी, जिसमें उन्होंने विषय-अनुक्रमण की व्यवस्थित विधि प्रस्तुत की थी।",
+   "options": {
+    "A": "एच. ई. ब्लिस / H. E. Bliss",
+    "B": "जे. डफ़ ब्राउन / J. Duff Brown",
+    "C": "ई. जे. कोट्स / E. J. Coates",
+    "D": "जे. ओ. काइज़र / J. O. Kaiser"
+   },
+   "q": "'सिस्टेमैटिक इंडेक्सिंग' (Systematic Indexing, 1911) पुस्तक के लेखक कौन थे? / Who authored the book 'Systematic Indexing' (1911)?"
+  },
+  {
+   "answer": "C",
+   "explanation": "फ्रांसीसी प्रलेखन-विशेषज्ञ सुज़ैन ब्रिए ने सन् 1951 में प्रलेख की विस्तृत परिभाषा देते हुए कहा था कि कोई भी वस्तु, जो किसी तथ्य का साक्ष्य प्रस्तुत करे, प्रलेख हो सकती है, जैसे चिड़ियाघर का मृग।",
+   "options": {
+    "A": "पॉल ऑटलेट / Paul Otlet",
+    "B": "डब्ल्यू. सी. बी. सेयर्स / W. C. B. Sayers",
+    "C": "सुज़ैन ब्रिए / Suzanne Briet",
+    "D": "एस. सी. ब्रैडफ़ोर्ड / S. C. Bradford"
+   },
+   "q": "प्रसिद्ध विचार — 'चिड़ियाघर में रखा मृग (Antelope) भी एक प्रलेख हो सकता है' — किस प्रलेखन-विशेषज्ञ से जुड़ा है? / The famous idea — 'an antelope in a zoo can also be a document' — is associated with which documentation expert?"
+  },
+  {
+   "answer": "A",
+   "explanation": "जेसी शेरा ने मार्गरेट ईगन के साथ मिलकर 'सामाजिक ज्ञानमीमांसा' की अवधारणा दी, जिसके अनुसार पुस्तकालय विज्ञान का आधार समाज में ज्ञान के उत्पादन, प्रवाह और उपयोग का अध्ययन होना चाहिए।",
+   "options": {
+    "A": "जेसी शेरा और मार्गरेट ईगन / Jesse Shera and Margaret Egan",
+    "B": "माइकल बकलैंड / Michael Buckland",
+    "C": "निकोलस बेल्किन / Nicholas Belkin",
+    "D": "टी. डी. विल्सन / T. D. Wilson"
+   },
+   "q": "'सामाजिक ज्ञानमीमांसा' (Social Epistemology) की अवधारणा का प्रतिपादन किसने किया था? / Who propounded the concept of 'Social Epistemology'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "क्लॉड शैनन और वॉरेन वीवर ने संचार के गणितीय सिद्धांत पर आधारित प्रतिरूप दिया, जिसमें सूचना स्रोत, प्रेषक, माध्यम, शोर और प्राप्तकर्ता जैसे तत्व बताए गए हैं। यह सूचना विज्ञान की आधारभूत अवधारणाओं में से एक है।",
+   "options": {
+    "A": "हेरोल्ड लैसवेल / Harold Lasswell",
+    "B": "शैनन और वीवर / Shannon and Weaver",
+    "C": "विल्बर श्राम / Wilbur Schramm",
+    "D": "डेविड बर्लो / David Berlo"
+   },
+   "q": "संचार प्रक्रिया का प्रसिद्ध गणितीय प्रतिरूप (Model) किनके द्वारा प्रस्तुत किया गया था? / The famous mathematical model of the communication process was presented by whom?"
+  },
+  {
+   "answer": "D",
+   "explanation": "निकोलस बेल्किन के अनुसार पाठक की सूचना आवश्यकता उसके ज्ञान की विषम अथवा अपूर्ण अवस्था से उत्पन्न होती है, जिसे उन्होंने 'ज्ञान की विषम अवस्था' कहा।",
+   "options": {
+    "A": "कैरोल कुहलथाउ / Carol Kuhlthau",
+    "B": "ब्रेंडा डर्विन / Brenda Dervin",
+    "C": "डेविड एलिस / David Ellis",
+    "D": "निकोलस बेल्किन / Nicholas Belkin"
+   },
+   "q": "सूचना-खोज व्यवहार का 'ए.एस.के.' (ASK — Anomalous State of Knowledge) प्रतिरूप किसने दिया था? / Who gave the 'ASK' (Anomalous State of Knowledge) model of information-seeking behaviour?"
+  },
+  {
+   "answer": "C",
+   "explanation": "ब्रेंडा डर्विन ने 'सेंस-मेकिंग' सिद्धांत दिया, जिसके अनुसार व्यक्ति अपने जीवन की स्थितियों में आए अंतरालों को पाटने के लिए सूचना का प्रयोग करता है।",
+   "options": {
+    "A": "सांडा एर्डेलेज़ / Sanda Erdelez",
+    "B": "रॉबर्ट टेलर / Robert Taylor",
+    "C": "ब्रेंडा डर्विन / Brenda Dervin",
+    "D": "एल्फ़्रेडा चैटमैन / Elfreda Chatman"
+   },
+   "q": "'सेंस-मेकिंग' (Sense-Making) सिद्धांत का प्रतिपादन किसने किया था? / Who propounded the 'Sense-Making' theory?"
+  },
+  {
+   "answer": "A",
+   "explanation": "टेलर ने सूचना आवश्यकता के चार स्तर बताए हैं, जिनमें प्रथम स्तर 'आंतरिक आवश्यकता' है, जो पाठक के मन में अस्पष्ट असंतोष के रूप में रहती है और वह उसे शब्दों में व्यक्त नहीं कर पाता।",
+   "options": {
+    "A": "आंतरिक आवश्यकता / Visceral Need",
+    "B": "सचेत आवश्यकता / Conscious Need",
+    "C": "औपचारिक आवश्यकता / Formalized Need",
+    "D": "समझौता की हुई आवश्यकता / Compromised Need"
+   },
+   "q": "रॉबर्ट टेलर के अनुसार सूचना आवश्यकता का प्रथम और अव्यक्त स्तर कौन-सा है? / According to Robert Taylor, what is the first and unexpressed level of information need?"
+  },
+  {
+   "answer": "B",
+   "explanation": "परंपरागत आकार-वर्गीकरण में वह पुस्तक ऑक्टेवो कहलाती है, जिसमें प्रत्येक मुद्रित शीट को मोड़कर आठ पत्ते अर्थात सोलह पृष्ठ बनाए जाते हैं।",
+   "options": {
+    "A": "पुस्तक में आठ अध्याय होना / The book has eight chapters",
+    "B": "मुद्रित शीट को मोड़कर आठ पत्ते (सोलह पृष्ठ) बनना / A printed sheet folded into eight leaves (sixteen pages)",
+    "C": "पुस्तक की ऊँचाई आठ इंच होना / The book is eight inches tall",
+    "D": "आठ प्रतियों का समूह / A set of eight copies"
+   },
+   "q": "पुस्तकों के आकार-वर्गीकरण में 'ऑक्टेवो' (Octavo / 8vo) से क्या अभिप्राय है? / In the size classification of books, what does 'Octavo' (8vo) mean?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कोलोफ़ोन पुस्तक के अंत में दिया जाने वाला वह कथन है, जिसमें प्रकाशन, मुद्रण और कभी-कभी अक्षर-विन्यास संबंधी विवरण दिया जाता है। प्राचीन हस्तलिखित ग्रंथों में इसका विशेष महत्व था।",
+   "options": {
+    "A": "प्रस्तावना / Preface",
+    "B": "अर्ध-शीर्षक / Half Title",
+    "C": "कोलोफ़ोन / Colophon",
+    "D": "समर्पण / Dedication"
+   },
+   "q": "पुस्तक के अंत में दिया गया वह विवरण, जिसमें प्रकाशक, मुद्रक और प्रकाशन संबंधी जानकारी होती है, क्या कहलाता है? / The statement given at the end of a book containing details of the publisher, printer and publication is called:"
+  },
+  {
+   "answer": "D",
+   "explanation": "खुली पुस्तक के दाहिने हाथ वाले पृष्ठ को रेक्टो कहते हैं, जिस पर सामान्यतः विषम संख्या अंकित होती है, जबकि बाएँ पृष्ठ को वर्सो कहा जाता है।",
+   "options": {
+    "A": "पुस्तक का पहला पृष्ठ / The first page of a book",
+    "B": "शीर्षक पृष्ठ का पिछला भाग / The back of the title page",
+    "C": "पुस्तक का अंतिम पृष्ठ / The last page of a book",
+    "D": "खुली पुस्तक का दायाँ (विषम संख्यक) पृष्ठ / The right-hand (odd-numbered) page of an open book"
+   },
+   "q": "पुस्तक-विवरण में 'रेक्टो' (Recto) से क्या अभिप्राय है? / In book description, what does 'Recto' mean?"
+  },
+  {
+   "answer": "A",
+   "explanation": "थिसॉरस शब्द ग्रीक भाषा से आया है, जिसका शाब्दिक अर्थ भंडार अथवा ख़ज़ाना होता है। सूचना पुनःप्राप्ति में यह नियंत्रित शब्दावली का वह साधन है, जिसमें शब्दों के पदानुक्रमिक और सहचारी संबंध दिखाए जाते हैं।",
+   "options": {
+    "A": "भंडार अथवा ख़ज़ाना / Storehouse or treasure",
+    "B": "शब्दों की सूची / A list of words",
+    "C": "ज्ञान का मानचित्र / A map of knowledge",
+    "D": "पर्यायवाची कोश / A book of synonyms"
+   },
+   "q": "'थिसॉरस' (Thesaurus) शब्द का शाब्दिक अर्थ क्या है? / What is the literal meaning of the word 'Thesaurus'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पारंपरिक ज्ञान डिजिटल पुस्तकालय की स्थापना वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद और आयुष विभाग द्वारा संयुक्त रूप से की गई थी, ताकि भारतीय पारंपरिक चिकित्सा ज्ञान को अनुचित पेटेंट से बचाया जा सके।",
+   "options": {
+    "A": "इन्फ़्लिबनेट और यूजीसी / INFLIBNET and UGC",
+    "B": "सीएसआईआर और आयुष मंत्रालय / CSIR and the Ministry of AYUSH",
+    "C": "निस्केयर और डीएसआईआर / NISCAIR and DSIR",
+    "D": "राष्ट्रीय पुस्तकालय और संस्कृति मंत्रालय / National Library and the Ministry of Culture"
+   },
+   "q": "पारंपरिक ज्ञान डिजिटल पुस्तकालय (TKDL) परियोजना किन संस्थाओं की संयुक्त पहल है? / The Traditional Knowledge Digital Library (TKDL) project is a joint initiative of which institutions?"
+  },
+  {
+   "answer": "C",
+   "explanation": "टिप्पणी किसी प्रलेख के साथ दी जाने वाली वह संक्षिप्त व्याख्या है, जिससे पाठक को उसकी विषय-वस्तु, उपयोगिता और क्षेत्र का पता चलता है। टिप्पणी-युक्त ग्रंथसूची सामान्य ग्रंथसूची से अधिक उपयोगी मानी जाती है।",
+   "options": {
+    "A": "पुस्तक की कीमत का उल्लेख / Mention of the price of a book",
+    "B": "लेखक की जीवनी / Biography of the author",
+    "C": "प्रलेख की विषय-वस्तु पर संक्षिप्त व्याख्यात्मक टिप्पणी / A brief explanatory note on the content of a document",
+    "D": "पुस्तक के पृष्ठों की गिनती / Counting the pages of a book"
+   },
+   "q": "ग्रंथसूची में 'टिप्पणी' (Annotation) से क्या अभिप्राय है? / What is meant by 'Annotation' in a bibliography?"
+  },
+  {
+   "answer": "D",
+   "explanation": "विद्वान डेटाबेस में देश के प्रमुख शैक्षणिक और शोध संस्थानों के वैज्ञानिकों, शोधकर्ताओं और शिक्षकों की विशेषज्ञता संबंधी प्रोफ़ाइल संग्रहीत की जाती है, जिसका रखरखाव इन्फ़्लिबनेट केंद्र करता है।",
+   "options": {
+    "A": "शोध-प्रबंधों के पूर्ण पाठ से / Full texts of theses",
+    "B": "पत्रिकाओं के उद्धरणों से / Citations of journals",
+    "C": "पुस्तकों की संघ सूची से / Union catalogue of books",
+    "D": "वैज्ञानिकों और शोधकर्ताओं की प्रोफ़ाइल से / Profiles of scientists and researchers"
+   },
+   "q": "इन्फ़्लिबनेट का 'विद्वान' (VIDWAN) डेटाबेस किससे संबंधित है? / INFLIBNET's 'VIDWAN' database is related to:"
+  },
+  {
+   "answer": "A",
+   "explanation": "मौन ज्ञान व्यक्ति के अनुभव, कौशल और अंतर्दृष्टि में निहित होता है, जिसे आसानी से लिखा या स्थानांतरित नहीं किया जा सकता। इसके विपरीत, दस्तावेज़ों में व्यक्त ज्ञान को स्पष्ट ज्ञान कहा जाता है।",
+   "options": {
+    "A": "अनुभव में निहित वह ज्ञान, जिसे शब्दों में व्यक्त करना कठिन हो / Knowledge embedded in experience, which is difficult to express in words",
+    "B": "पुस्तकों में लिखा हुआ ज्ञान / Knowledge written in books",
+    "C": "डेटाबेस में संग्रहीत ज्ञान / Knowledge stored in databases",
+    "D": "सार्वजनिक रूप से उपलब्ध ज्ञान / Publicly available knowledge"
+   },
+   "q": "ज्ञान प्रबंधन में 'मौन ज्ञान' (Tacit Knowledge) से क्या अभिप्राय है? / In knowledge management, what is meant by 'Tacit Knowledge'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "संकर पुस्तकालय वह पुस्तकालय है, जो पारंपरिक मुद्रित संग्रह और आधुनिक डिजिटल संसाधनों तथा सेवाओं को एक ही व्यवस्था में एकीकृत रूप से उपलब्ध कराता है।",
+   "options": {
+    "A": "दो संस्थानों का संयुक्त पुस्तकालय / A joint library of two institutions",
+    "B": "मुद्रित और डिजिटल, दोनों प्रकार के संसाधनों का एकीकृत पुस्तकालय / A library integrating both print and digital resources",
+    "C": "केवल ई-पुस्तकों का पुस्तकालय / A library of e-books only",
+    "D": "चलायमान पुस्तकालय / A mobile library"
+   },
+   "q": "'संकर पुस्तकालय' (Hybrid Library) से क्या अभिप्राय है? / What is meant by a 'Hybrid Library'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "ग्रंथ-चिकित्सा में उपयुक्त पुस्तकों के पठन द्वारा रोगियों और तनावग्रस्त व्यक्तियों के मानसिक और भावनात्मक उपचार में सहायता की जाती है। इसका प्रयोग अस्पताल पुस्तकालयों में विशेष रूप से होता है।",
+   "options": {
+    "A": "पुरानी पुस्तकों की मरम्मत / Repair of old books",
+    "B": "पुस्तकों का रासायनिक संरक्षण / Chemical preservation of books",
+    "C": "पुस्तकों के पठन द्वारा मानसिक और भावनात्मक उपचार में सहायता / Helping mental and emotional healing through reading of books",
+    "D": "पुस्तकों का वर्गीकरण / Classification of books"
+   },
+   "q": "'ग्रंथ-चिकित्सा' (Bibliotherapy) से क्या अभिप्राय है? / What is meant by 'Bibliotherapy'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "मेकरस्पेस पुस्तकालय में बनाया गया वह साझा स्थान है, जहाँ पाठक विभिन्न उपकरणों और तकनीकों की सहायता से सृजन, प्रयोग और नवाचार कर सकते हैं। यह पुस्तकालयों की बदलती भूमिका का उदाहरण है।",
+   "options": {
+    "A": "पुस्तकों के भंडारण का स्थान / A place for storing books",
+    "B": "कर्मचारियों का विश्राम कक्ष / A rest room for staff",
+    "C": "पत्रिकाओं का प्रदर्शन क्षेत्र / A display area for periodicals",
+    "D": "पाठकों के लिए सृजन, प्रयोग और निर्माण हेतु साझा कार्य-स्थान / A shared workspace for readers to create, experiment and make things"
+   },
+   "q": "आधुनिक पुस्तकालयों में 'मेकरस्पेस' (Makerspace) से क्या अभिप्राय है? / What is meant by a 'Makerspace' in modern libraries?"
+  },
+  {
+   "answer": "A",
+   "explanation": "हरित पुस्तकालय की अवधारणा पर्यावरण-अनुकूल भवन-निर्माण, ऊर्जा और जल की बचत तथा सतत कार्यप्रणालियों से जुड़ी है, ताकि पुस्तकालय का पर्यावरण पर प्रतिकूल प्रभाव न्यूनतम हो।",
+   "options": {
+    "A": "पर्यावरण-अनुकूल भवन और सतत (टिकाऊ) कार्यप्रणाली से / Environment-friendly buildings and sustainable practices",
+    "B": "हरे रंग से रंगे पुस्तकालय भवन से / A library building painted green",
+    "C": "वनस्पति विज्ञान के पुस्तकालय से / A library of botany",
+    "D": "केवल डिजिटल पुस्तकालय से / A digital-only library"
+   },
+   "q": "'हरित पुस्तकालय' (Green Library) की अवधारणा मुख्यतः किससे संबंधित है? / The concept of 'Green Library' is mainly related to:"
+  },
+  {
+   "answer": "B",
+   "explanation": "कॉन्स्टेंस मेलन ने सन् 1986 में 'पुस्तकालय चिंता' की अवधारणा दी, जिसके अनुसार अनेक पाठक पुस्तकालय का उपयोग करते समय भय, असहजता और अपर्याप्तता की भावना अनुभव करते हैं।",
+   "options": {
+    "A": "माइकल गोरमैन / Michael Gorman",
+    "B": "कॉन्स्टेंस मेलन / Constance Mellon",
+    "C": "कैरोल कुहलथाउ / Carol Kuhlthau",
+    "D": "डेविड बोडेन / David Bawden"
+   },
+   "q": "'पुस्तकालय चिंता' (Library Anxiety) की अवधारणा किसने प्रस्तुत की थी? / Who introduced the concept of 'Library Anxiety'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "चेस्टर कार्लसन ने सन् 1938 में विद्युत-स्थैतिक शुष्क प्रतिलिपि प्रक्रिया का आविष्कार किया, जिसे ज़ेरोग्राफ़ी कहा गया। यही तकनीक आगे चलकर फ़ोटोकॉपी मशीन का आधार बनी।",
+   "options": {
+    "A": "जोहान गुटेनबर्ग / Johann Gutenberg",
+    "B": "विलियम बुलॉक / William Bullock",
+    "C": "चेस्टर कार्लसन / Chester Carlson",
+    "D": "फ़्रेडरिक आइव्स / Frederic Ives"
+   },
+   "q": "ज़ेरोग्राफ़ी (Xerography) शुष्क प्रतिलिपि प्रक्रिया के आविष्कारक कौन थे? / Who invented the Xerography dry copying process?"
+  },
+  {
+   "answer": "D",
+   "explanation": "फ़ार्मिंगटन योजना अमेरिका के शोध पुस्तकालयों की वह सहकारी व्यवस्था थी, जिसके अंतर्गत विश्व के विभिन्न देशों के महत्वपूर्ण प्रकाशनों का अधिग्रहण आपसी बँटवारे के आधार पर किया जाता था, ताकि कोई महत्वपूर्ण कृति छूटे नहीं।",
+   "options": {
+    "A": "पुस्तकालय भवनों के मानकीकरण से / Standardisation of library buildings",
+    "B": "पुस्तकालय कर्मचारियों के प्रशिक्षण से / Training of library staff",
+    "C": "वर्गीकरण के संशोधन से / Revision of classification",
+    "D": "विदेशी प्रकाशनों के सहकारी अधिग्रहण से / Cooperative acquisition of foreign publications"
+   },
+   "q": "'फ़ार्मिंगटन योजना' (Farmington Plan, 1948) किससे संबंधित थी? / The 'Farmington Plan' (1948) was related to:"
+  },
+  {
+   "answer": "A",
+   "explanation": "यूनिसिस्ट विश्व वैज्ञानिक सूचना प्रणाली हेतु यूनेस्को और अंतरराष्ट्रीय वैज्ञानिक संघ परिषद की संयुक्त पहल थी, जिसका उद्देश्य विश्व स्तर पर वैज्ञानिक सूचना के प्रवाह को सुव्यवस्थित करना था।",
+   "options": {
+    "A": "यूनेस्को और आईसीएसयू / UNESCO and ICSU",
+    "B": "यूनेस्को और इफ़्ला / UNESCO and IFLA",
+    "C": "एफ़आईडी और इफ़्ला / FID and IFLA",
+    "D": "यूएनडीपी और विश्व बैंक / UNDP and the World Bank"
+   },
+   "q": "'यूनिसिस्ट' (UNISIST) कार्यक्रम किन दो संस्थाओं की संयुक्त पहल था? / The 'UNISIST' programme was a joint initiative of which two organisations?"
+  },
+  {
+   "answer": "B",
+   "explanation": "सन् 1992 में प्रारंभ यह कार्यक्रम विश्व की महत्वपूर्ण दस्तावेज़ी विरासत, जैसे पांडुलिपियों, दुर्लभ ग्रंथों और अभिलेखों के संरक्षण और उनकी उपलब्धता सुनिश्चित करने हेतु चलाया जाता है।",
+   "options": {
+    "A": "विश्व के विद्वानों की सूची से / A list of world scholars",
+    "B": "दस्तावेज़ी विरासत के संरक्षण से / Preservation of documentary heritage",
+    "C": "पुस्तकालयों के कम्प्यूटरीकरण से / Computerisation of libraries",
+    "D": "अनुवाद कार्यक्रम से / A translation programme"
+   },
+   "q": "यूनेस्को का 'मेमोरी ऑफ़ द वर्ल्ड' (Memory of the World) कार्यक्रम किससे संबंधित है? / UNESCO's 'Memory of the World' programme is related to:"
+  },
+  {
+   "answer": "C",
+   "explanation": "विश्व डिजिटल पुस्तकालय का शुभारंभ सन् 2009 में यूनेस्को और कांग्रेस पुस्तकालय के सहयोग से हुआ था, जिसका उद्देश्य विश्व की सांस्कृतिक विरासत को डिजिटल रूप में मुक्त उपलब्ध कराना था।",
+   "options": {
+    "A": "2005 / 2005",
+    "B": "2007 / 2007",
+    "C": "2009 / 2009",
+    "D": "2012 / 2012"
+   },
+   "q": "'विश्व डिजिटल पुस्तकालय' (World Digital Library) का शुभारंभ किस वर्ष हुआ था? / In which year was the 'World Digital Library' launched?"
+  },
+  {
+   "answer": "D",
+   "explanation": "नालंदा के प्रसिद्ध पुस्तकालय धर्मगंज के तीन भवन थे — रत्नोदधि, रत्नसागर और रत्नरंजक। इनमें रत्नोदधि सबसे ऊँचा, नौ मंज़िला भवन था, जिसमें पवित्र ग्रंथ रखे जाते थे।",
+   "options": {
+    "A": "रत्नसागर / Ratnasagara",
+    "B": "रत्नरंजक / Ratnaranjaka",
+    "C": "रत्नाकर / Ratnakara",
+    "D": "रत्नोदधि / Ratnodadhi"
+   },
+   "q": "नालंदा विश्वविद्यालय के पुस्तकालय 'धर्मगंज' के तीन भवनों में सबसे ऊँचा नौ-मंज़िला भवन कौन-सा था? / Which was the tallest nine-storeyed building among the three buildings of Nalanda University's library 'Dharmaganja'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "सन् 1948 में मद्रास अर्थात तमिलनाडु प्रथम राज्य था, जबकि सन् 1960 में आंध्र प्रदेश सार्वजनिक पुस्तकालय अधिनियम पारित करने वाला दूसरा राज्य बना।",
+   "options": {
+    "A": "आंध्र प्रदेश / Andhra Pradesh",
+    "B": "कर्नाटक / Karnataka",
+    "C": "महाराष्ट्र / Maharashtra",
+    "D": "पश्चिम बंगाल / West Bengal"
+   },
+   "q": "सार्वजनिक पुस्तकालय अधिनियम पारित करने वाला भारत का दूसरा राज्य कौन-सा था? / Which was the second Indian state to enact a Public Libraries Act?"
+  },
+  {
+   "answer": "B",
+   "explanation": "अरुणाचल प्रदेश सार्वजनिक पुस्तकालय अधिनियम सन् 2009 में पारित हुआ था, जिससे राज्य में सार्वजनिक पुस्तकालय व्यवस्था को वैधानिक आधार मिला।",
+   "options": {
+    "A": "2005 / 2005",
+    "B": "2009 / 2009",
+    "C": "2011 / 2011",
+    "D": "2015 / 2015"
+   },
+   "q": "अरुणाचल प्रदेश सार्वजनिक पुस्तकालय अधिनियम किस वर्ष पारित हुआ था? / In which year was the Arunachal Pradesh Public Libraries Act enacted?"
+  },
+  {
+   "answer": "C",
+   "explanation": "भारत सरकार ने डॉ. रंगनाथन को सन् 1965 में पुस्तकालय विज्ञान का राष्ट्रीय प्रोफेसर नियुक्त किया था। इससे पूर्व सन् 1957 में उन्हें पद्मश्री से सम्मानित किया गया था।",
+   "options": {
+    "A": "1957 / 1957",
+    "B": "1962 / 1962",
+    "C": "1965 / 1965",
+    "D": "1972 / 1972"
+   },
+   "q": "डॉ. एस. आर. रंगनाथन को पुस्तकालय विज्ञान के 'राष्ट्रीय प्रोफेसर' (National Professor) का सम्मान किस वर्ष प्राप्त हुआ था? / In which year did Dr. S. R. Ranganathan receive the honour of 'National Professor' of Library Science?"
+  },
+  {
+   "answer": "D",
+   "explanation": "अमेरिकन लाइब्रेरी एसोसिएशन की स्थापना सन् 1876 में हुई थी, जबकि विशेष पुस्तकालय संघ सन् 1909, इफ़्ला सन् 1927 और भारतीय पुस्तकालय संघ सन् 1933 में स्थापित हुए। अतः कालक्रम में अमेरिकन लाइब्रेरी एसोसिएशन सबसे प्राचीन है।",
+   "options": {
+    "A": "इफ़्ला / IFLA",
+    "B": "भारतीय पुस्तकालय संघ / Indian Library Association",
+    "C": "विशेष पुस्तकालय संघ / Special Libraries Association",
+    "D": "अमेरिकन लाइब्रेरी एसोसिएशन / American Library Association"
+   },
+   "q": "स्थापना की दृष्टि से निम्न में से सबसे प्राचीन पुस्तकालय संघ कौन-सा है? / Which of the following library associations is the oldest by year of establishment?"
+  },
+  {
+   "answer": "A",
+   "explanation": "यूनेस्को का सीडीएस/आईएसआईएस सन् 1985 में आया था, जबकि कोहा सन् 1999, ईप्रिंट्स सन् 2000 और डीस्पेस सन् 2002 में विकसित हुए। अतः कालक्रम में सीडीएस/आईएसआईएस सबसे प्राचीन है।",
+   "options": {
+    "A": "सीडीएस/आईएसआईएस / CDS/ISIS",
+    "B": "कोहा / Koha",
+    "C": "ईप्रिंट्स / EPrints",
+    "D": "डीस्पेस / DSpace"
+   },
+   "q": "निम्न पुस्तकालय सॉफ़्टवेयरों में से सबसे पहले विकसित कौन-सा हुआ था? / Which of the following library softwares was developed first?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पाँच सूत्र सन् 1931, वर्गीकृत सूची संहिता सन् 1934 और प्रोलिगोमेना सन् 1937 में प्रकाशित हुई थीं, जबकि 'रेफ़रेंस सर्विस' सन् 1961 में प्रकाशित हुई, अतः यह सबसे बाद की कृति है।",
+   "options": {
+    "A": "पुस्तकालय विज्ञान के पाँच सूत्र / The Five Laws of Library Science",
+    "B": "संदर्भ सेवा / Reference Service",
+    "C": "वर्गीकृत सूची संहिता / Classified Catalogue Code",
+    "D": "प्रोलिगोमेना टू लाइब्रेरी क्लासिफ़िकेशन / Prolegomena to Library Classification"
+   },
+   "q": "डॉ. रंगनाथन की निम्न कृतियों में से सबसे बाद में प्रकाशित कौन-सी है? / Which of the following works of Dr. Ranganathan was published last?"
+  },
+  {
+   "answer": "A",
+   "explanation": "'द प्रैक्टिस ऑफ़ मैनेजमेंट' पीटर ड्रकर की प्रसिद्ध कृति है। शेष जोड़ियाँ गलत हैं — 'लिटिल साइंस, बिग साइंस' डेरेक डी सोला प्राइस की, 'क्वालिटी इज़ फ़्री' फ़िलिप क्रॉसबी की और 'ऐज़ वी मे थिंक' वैनिवर बुश का प्रसिद्ध लेख है।",
+   "options": {
+    "A": "'द प्रैक्टिस ऑफ़ मैनेजमेंट' — पीटर ड्रकर / 'The Practice of Management' — Peter Drucker",
+    "B": "'लिटिल साइंस, बिग साइंस' — यूजीन गारफ़ील्ड / 'Little Science, Big Science' — Eugene Garfield",
+    "C": "'क्वालिटी इज़ फ़्री' — एडवर्ड्स डेमिंग / 'Quality is Free' — W. Edwards Deming",
+    "D": "'ऐज़ वी मे थिंक' — टेड नेल्सन / 'As We May Think' — Ted Nelson"
+   },
+   "q": "निम्न में से कौन-सी जोड़ी सही सुमेलित है? / Which of the following pairs is correctly matched?"
+  },
+  {
+   "answer": "C",
+   "explanation": "शृंखला प्रक्रिया का विकास मेल्विल डेवी ने नहीं, बल्कि डॉ. एस. आर. रंगनाथन ने किया था। शेष तीनों जोड़ियाँ सही हैं।",
+   "options": {
+    "A": "केडब्ल्यूआईसी — हांस पीटर लून / KWIC — Hans Peter Luhn",
+    "B": "प्रेसिस — डेरेक ऑस्टिन / PRECIS — Derek Austin",
+    "C": "शृंखला प्रक्रिया — मेल्विल डेवी / Chain Procedure — Melvil Dewey",
+    "D": "पॉप्सी — गणेश भट्टाचार्य / POPSI — Ganesh Bhattacharyya"
+   },
+   "q": "निम्न में से कौन-सी जोड़ी गलत है? / Which of the following pairs is incorrect?"
+  },
+  {
+   "answer": "D",
+   "explanation": "एग्रिस का पूर्ण रूप 'इंटरनेशनल सिस्टम फ़ॉर एग्रीकल्चरल साइंस एंड टेक्नोलॉजी' है। यह कृषि विज्ञान और प्रौद्योगिकी की अंतरराष्ट्रीय सूचना प्रणाली है, जिसका समन्वय खाद्य एवं कृषि संगठन करता है।",
+   "options": {
+    "A": "एग्रीकल्चरल रिसर्च इन्फ़ॉर्मेशन सर्विस / Agricultural Research Information Service",
+    "B": "एसोसिएशन ऑफ़ गवर्नमेंट रिकॉर्ड्स एंड इन्फ़ॉर्मेशन सिस्टम्स / Association of Government Records and Information Systems",
+    "C": "ऑटोमेटेड ग्लोबल रिकॉर्ड्स इंडेक्सिंग सिस्टम / Automated Global Records Indexing System",
+    "D": "इंटरनेशनल सिस्टम फ़ॉर एग्रीकल्चरल साइंस एंड टेक्नोलॉजी / International System for Agricultural Science and Technology"
+   },
+   "q": "'एग्रिस' (AGRIS) का पूर्ण रूप क्या है? / What is the full form of 'AGRIS'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इनिस का पूर्ण रूप 'इंटरनेशनल न्यूक्लियर इन्फ़ॉर्मेशन सिस्टम' है। यह परमाणु विज्ञान और प्रौद्योगिकी के शांतिपूर्ण उपयोगों से संबंधित अंतरराष्ट्रीय सूचना प्रणाली है, जिसका संचालन अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी करती है।",
+   "options": {
+    "A": "इंडियन नेशनल इन्फ़ॉर्मेशन सिस्टम / Indian National Information System",
+    "B": "इंटरनेशनल न्यूक्लियर इन्फ़ॉर्मेशन सिस्टम / International Nuclear Information System",
+    "C": "इंटरनेशनल नेटवर्क ऑफ़ इन्फ़ॉर्मेशन सेंटर्स / International Network of Information Centres",
+    "D": "इंटीग्रेटेड नेशनल इंडेक्सिंग सर्विस / Integrated National Indexing Service"
+   },
+   "q": "'इनिस' (INIS) का पूर्ण रूप क्या है? / What is the full form of 'INIS'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्वयं भारत सरकार का विशाल मुक्त ऑनलाइन पाठ्यक्रम मंच है, जिसका पूर्ण रूप 'स्टडी वेब्स ऑफ़ एक्टिव-लर्निंग फ़ॉर यंग एस्पायरिंग माइंड्स' है।",
+   "options": {
+    "A": "स्टडी वेब्स ऑफ़ एक्टिव-लर्निंग फ़ॉर यंग एस्पायरिंग माइंड्स / Study Webs of Active-Learning for Young Aspiring Minds",
+    "B": "स्कीम फ़ॉर वेब-बेस्ड एकेडमिक ईयर मैनेजमेंट / Scheme for Web-based Academic Year Management",
+    "C": "सिस्टम ऑफ़ वर्ल्डवाइड एकेडमिक यूट्यूब मीडिया / System of Worldwide Academic YouTube Media",
+    "D": "स्टूडेंट वेब पोर्टल फ़ॉर एकेडमिक ईयर / Student Web Portal for Academic Year"
+   },
+   "q": "'स्वयं' (SWAYAM) मंच के नाम का पूर्ण रूप क्या है? / What is the full form of the name of the 'SWAYAM' platform?"
+  },
+  {
+   "answer": "C",
+   "explanation": "मूक का पूर्ण रूप 'मैसिव ओपन ऑनलाइन कोर्स' है। ये ऐसे ऑनलाइन पाठ्यक्रम हैं, जिनमें कोई भी, कहीं से भी, बड़ी संख्या में निःशुल्क अथवा न्यून शुल्क पर भाग ले सकता है।",
+   "options": {
+    "A": "मॉडर्न ऑनलाइन ओपन कोर्सेज़ / Modern Online Open Courses",
+    "B": "मिनिस्ट्री ऑफ़ ऑनलाइन कोर्सेज़ / Ministry of Online Courses",
+    "C": "मैसिव ओपन ऑनलाइन कोर्स / Massive Open Online Course",
+    "D": "मल्टीमीडिया ओपन ऑनलाइन सर्टिफ़िकेट / Multimedia Open Online Certificate"
+   },
+   "q": "'मूक' (MOOC) का पूर्ण रूप क्या है? / What is the full form of 'MOOC'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ओर्किड शोधकर्ताओं को दी जाने वाली विशिष्ट सोलह अंकों की स्थायी पहचान है, जिससे समान नाम वाले शोधकर्ताओं के कार्यों में भ्रम नहीं होता और उनकी कृतियाँ सही रूप से जुड़ती हैं।",
+   "options": {
+    "A": "पत्रिकाओं की पहचान हेतु / For identifying journals",
+    "B": "पुस्तकों की पहचान हेतु / For identifying books",
+    "C": "संस्थानों की पहचान हेतु / For identifying institutions",
+    "D": "शोधकर्ताओं की विशिष्ट और स्थायी पहचान हेतु / For the unique and persistent identification of researchers"
+   },
+   "q": "'ओर्किड' (ORCID) पहचान का प्रयोग मुख्यतः किसके लिए होता है? / The 'ORCID' identifier is mainly used for whom?"
+  },
+  {
+   "answer": "B",
+   "explanation": "इस्नी व्यक्तियों और संगठनों, जैसे लेखकों, कलाकारों और प्रकाशकों, की सार्वजनिक पहचान हेतु प्रयुक्त अंतरराष्ट्रीय मानक पहचान संख्या है, जिससे विभिन्न डेटाबेसों में एक ही सत्ता की पहचान सुनिश्चित होती है।",
+   "options": {
+    "A": "केवल पत्रिकाओं के लिए / Only for journals",
+    "B": "रचनाकारों, व्यक्तियों और संगठनों की सार्वजनिक पहचान हेतु / For the public identities of creators, persons and organisations",
+    "C": "केवल डिजिटल वस्तुओं के लिए / Only for digital objects",
+    "D": "पुस्तकालय भवनों के लिए / For library buildings"
+   },
+   "q": "'इस्नी' (ISNI) मानक पहचान संख्या किनके लिए प्रयुक्त होती है? / The 'ISNI' standard identifier is used for:"
+  }
+ ],
+ "subject": "BLIS"
+}

@@ -1,0 +1,556 @@
+{
+ "mock_no": 15,
+ "questions": [
+  {
+   "answer": "A",
+   "explanation": "डीस्पेस में सामग्री का संगठन कम्युनिटी (समुदाय) से शुरू होता है। कम्युनिटी के अंतर्गत उप-समुदाय और कलेक्शन (संग्रह) होते हैं, संग्रह में आइटम रखे जाते हैं और आइटम के भीतर वास्तविक फ़ाइलें बिटस्ट्रीम के रूप में संग्रहीत होती हैं।",
+   "options": {
+    "A": "कम्युनिटी / Community",
+    "B": "कलेक्शन / Collection",
+    "C": "आइटम / Item",
+    "D": "बिटस्ट्रीम / Bitstream"
+   },
+   "q": "DSpace भंडार में सामग्री को व्यवस्थित करने की शीर्ष-स्तरीय (सबसे ऊपरी) इकाई क्या कहलाती है? / In the DSpace repository, what is the top-level unit for organising content called?"
+  },
+  {
+   "answer": "B",
+   "explanation": "डीस्पेस में प्रत्येक आइटम से जुड़ी वास्तविक फ़ाइलें बिटस्ट्रीम कहलाती हैं। ये बिटस्ट्रीम बंडलों में समूहित रहते हैं, जबकि हैंडल आइटम का स्थायी पहचानकर्ता होता है।",
+   "options": {
+    "A": "हैंडल / Handles",
+    "B": "बिटस्ट्रीम / Bitstreams",
+    "C": "ई-पीपुल / E-People",
+    "D": "मेटाडेटा रिकॉर्ड / Metadata Records"
+   },
+   "q": "DSpace में किसी आइटम के भीतर संग्रहीत वास्तविक डिजिटल फ़ाइलों (जैसे PDF) को क्या कहा जाता है? / In DSpace, the actual digital files (such as PDFs) stored within an item are called:"
+  },
+  {
+   "answer": "C",
+   "explanation": "डीस्पेस डिफ़ॉल्ट रूप से क्वालिफ़ाइड डबलिन कोर मेटाडेटा स्कीमा का प्रयोग करता है, जिसमें शीर्षक, रचयिता, विषय, तिथि आदि तत्वों से प्रत्येक आइटम का विवरण दिया जाता है।",
+   "options": {
+    "A": "MARC 21 / MARC 21",
+    "B": "MODS / MODS",
+    "C": "क्वालिफ़ाइड डबलिन कोर / Qualified Dublin Core",
+    "D": "EAD / EAD"
+   },
+   "q": "DSpace डिफ़ॉल्ट रूप से अपने मेटाडेटा विवरण के लिए किस मानक का प्रयोग करता है? / DSpace by default uses which standard for its metadata description?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ग्रीनस्टोन लाइब्रेरियन इंटरफ़ेस (जीएलआई) एक ग्राफ़िकल उपकरण है जिसकी सहायता से पुस्तकालयकर्मी दस्तावेज़ एकत्र कर, मेटाडेटा जोड़कर और संग्रह की संरचना तय करके डिजिटल संग्रह बनाते हैं।",
+   "options": {
+    "A": "ग्रीनस्टोन रीडर / Greenstone Reader",
+    "B": "कलेक्शन मैनेजर / Collection Manager",
+    "C": "ग्रीनस्टोन एडिटर / Greenstone Editor",
+    "D": "ग्रीनस्टोन लाइब्रेरियन इंटरफ़ेस (GLI) / Greenstone Librarian Interface (GLI)"
+   },
+   "q": "ग्रीनस्टोन (Greenstone) में संग्रह (collections) बनाने और संपादित करने के लिए प्रयुक्त उपकरण कौन-सा है? / Which tool is used to build and edit collections in Greenstone?"
+  },
+  {
+   "answer": "B",
+   "explanation": "वाइकाटो विश्वविद्यालय के न्यूज़ीलैंड डिजिटल लाइब्रेरी प्रोजेक्ट द्वारा विकसित ग्रीनस्टोन का वितरण यूनेस्को और ह्यूमन इन्फ़ो एनजीओ के सहयोग से विशेषकर विकासशील देशों के लिए किया जाता है।",
+   "options": {
+    "A": "IFLA / IFLA",
+    "B": "UNESCO / UNESCO",
+    "C": "WIPO / WIPO",
+    "D": "OCLC / OCLC"
+   },
+   "q": "ग्रीनस्टोन (Greenstone) डिजिटल लाइब्रेरी सॉफ़्टवेयर का वितरण किस अंतरराष्ट्रीय संगठन के सहयोग से किया जाता है? / Greenstone digital library software is distributed in cooperation with which international organisation?"
+  },
+  {
+   "answer": "A",
+   "explanation": "साउथम्पटन विश्वविद्यालय द्वारा विकसित ईप्रिंट्स सॉफ़्टवेयर पर्ल भाषा में लिखा गया है और यह संस्थागत भंडार बनाने के प्रारंभिक व लोकप्रिय मुक्त स्रोत सॉफ़्टवेयरों में से एक है।",
+   "options": {
+    "A": "पर्ल / Perl",
+    "B": "PHP / PHP",
+    "C": "पायथन / Python",
+    "D": "जावा / Java"
+   },
+   "q": "EPrints भंडार सॉफ़्टवेयर मुख्यतः किस प्रोग्रामिंग भाषा में लिखा गया है? / EPrints repository software is primarily written in which programming language?"
+  },
+  {
+   "answer": "C",
+   "explanation": "फ़ेडोरा (फ़्लेक्सिबल एक्सटेंसिबल डिजिटल ऑब्जेक्ट रिपॉज़िटरी आर्किटेक्चर) का विकास कॉर्नेल विश्वविद्यालय और वर्जीनिया विश्वविद्यालय के सहयोग से हुआ था।",
+   "options": {
+    "A": "MIT और HP / MIT and HP",
+    "B": "ऑक्सफ़ोर्ड और कैम्ब्रिज / Oxford and Cambridge",
+    "C": "कॉर्नेल और वर्जीनिया / Cornell and University of Virginia",
+    "D": "स्टैनफ़ोर्ड और येल / Stanford and Yale"
+   },
+   "q": "फ़ेडोरा (Fedora) डिजिटल भंडार आर्किटेक्चर का विकास किन विश्वविद्यालयों द्वारा किया गया था? / The Fedora digital repository architecture was developed by which universities?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ओएआई-पीएमएच में गेटरिकॉर्ड क्रिया (वर्ब) किसी एकल रिकॉर्ड को उसके पहचानकर्ता के आधार पर प्राप्त करती है, जबकि लिस्टरिकॉर्ड्स एक साथ अनेक रिकॉर्ड देती है।",
+   "options": {
+    "A": "ListSets / ListSets",
+    "B": "Identify / Identify",
+    "C": "ListRecords / ListRecords",
+    "D": "GetRecord / GetRecord"
+   },
+   "q": "OAI-PMH में किसी एकल (individual) मेटाडेटा रिकॉर्ड को प्राप्त करने के लिए किस 'verb' का प्रयोग होता है? / In OAI-PMH, which 'verb' is used to retrieve an individual metadata record?"
+  },
+  {
+   "answer": "B",
+   "explanation": "हैंडल सिस्टम का विकास कॉर्पोरेशन फ़ॉर नेशनल रिसर्च इनिशिएटिव्स (सीएनआरआई) ने किया था। यही प्रणाली डीओआई और डीस्पेस के स्थायी पहचानकर्ताओं (हैंडल) का आधार है।",
+   "options": {
+    "A": "W3C / W3C",
+    "B": "CNRI / CNRI",
+    "C": "IETF / IETF",
+    "D": "गूगल / Google"
+   },
+   "q": "DOI और DSpace हैंडल के लिए प्रयुक्त 'हैंडल सिस्टम' (Handle System) का विकास किसने किया था? / The 'Handle System', used for DOIs and DSpace handles, was developed by:"
+  },
+  {
+   "answer": "C",
+   "explanation": "आर्काइव की स्थापना 1991 में भौतिकविद् पॉल गिन्सपार्ग ने लॉस अलामोस प्रयोगशाला में की थी। यह भौतिकी, गणित, संगणक विज्ञान आदि विषयों के प्रीप्रिंट का विश्वप्रसिद्ध भंडार है।",
+   "options": {
+    "A": "स्टीफ़न हार्नाड / Stevan Harnad",
+    "B": "पीटर सुबर / Peter Suber",
+    "C": "पॉल गिन्सपार्ग / Paul Ginsparg",
+    "D": "रिचर्ड स्टॉलमैन / Richard Stallman"
+   },
+   "q": "विश्व के प्रथम प्रमुख प्रीप्रिंट सर्वर 'arXiv' की स्थापना (1991) किसने की थी? / Who founded 'arXiv', the world's first major preprint server (1991)?"
+  },
+  {
+   "answer": "A",
+   "explanation": "क्लॉकसेज़ (कंट्रोल्ड लॉट्स ऑफ़ कॉपीज़ कीप स्टफ़ सेफ़) एक डार्क आर्काइव है — इसमें सामग्री सामान्यतः सुलभ नहीं होती और प्रकाशक के सामग्री हटा देने जैसी विशेष (ट्रिगर) स्थिति में ही वह मुक्त की जाती है।",
+   "options": {
+    "A": "डार्क आर्काइव / Dark Archive",
+    "B": "मुक्त अभिगम पोर्टल / Open Access Portal",
+    "C": "संघ सूची / Union Catalogue",
+    "D": "खोज इंजन / Search Engine"
+   },
+   "q": "CLOCKSS किस प्रकार का डिजिटल संरक्षण संग्रह (archive) है? / CLOCKSS is which type of digital preservation archive?"
+  },
+  {
+   "answer": "D",
+   "explanation": "डीस्पेस 7 में पुरानी दोहरी इंटरफ़ेस प्रणाली हटाकर एंगुलर पर आधारित एकल आधुनिक उपयोगकर्ता इंटरफ़ेस अपनाया गया, जो बैकएंड से रेस्ट एपीआई द्वारा जुड़ता है।",
+   "options": {
+    "A": "JSP / JSP",
+    "B": "रिएक्ट / React",
+    "C": "व्यू / Vue",
+    "D": "एंगुलर / Angular"
+   },
+   "q": "DSpace 7 का उपयोगकर्ता इंटरफ़ेस (user interface) किस तकनीक/फ़्रेमवर्क पर आधारित है? / The user interface of DSpace 7 is based on which technology/framework?"
+  },
+  {
+   "answer": "B",
+   "explanation": "फ़ोरसा (फ़ोरम फ़ॉर रिसोर्स शेयरिंग इन एस्ट्रोनॉमी एंड एस्ट्रोफ़िज़िक्स) भारत के खगोल विज्ञान संस्थानों के पुस्तकालयों का संसाधन-साझेदारी मंच है, जिसकी स्थापना 1981 में हुई थी।",
+   "options": {
+    "A": "चिकित्सा / Medicine",
+    "B": "खगोल विज्ञान / Astronomy",
+    "C": "कृषि / Agriculture",
+    "D": "विधि / Law"
+   },
+   "q": "भारत का 'FORSA' कंसोर्टियम किस विषय क्षेत्र के पुस्तकालयों से संबंधित है? / India's 'FORSA' consortium is related to libraries of which subject area?"
+  },
+  {
+   "answer": "A",
+   "explanation": "डायमंड (या प्लेटिनम) मुक्त अभिगम में पत्रिकाएँ पाठकों से सदस्यता शुल्क और लेखकों से लेख प्रसंस्करण शुल्क (एपीसी) — दोनों नहीं लेतीं; इनका संचालन प्रायः संस्थानों या अनुदानों से होता है।",
+   "options": {
+    "A": "न पाठकों से शुल्क, न लेखकों से APC / No fee from readers and no APC from authors",
+    "B": "लेखक APC देता है / Author pays APC",
+    "C": "पुस्तकालय सदस्यता लेता है / Library pays subscription",
+    "D": "केवल सारांश मुफ़्त मिलता है / Only abstracts are free"
+   },
+   "q": "'डायमंड मुक्त अभिगम' (Diamond Open Access) से तात्पर्य है— / 'Diamond Open Access' means—"
+  },
+  {
+   "answer": "C",
+   "explanation": "हाइब्रिड मुक्त अभिगम में पारंपरिक सदस्यता-पत्रिका का कोई एक लेख एपीसी देकर मुक्त अभिगम बनाया जाता है, जबकि पत्रिका के शेष लेख सदस्यता के पीछे रहते हैं।",
+   "options": {
+    "A": "हरित मुक्त अभिगम / Green Open Access",
+    "B": "स्वर्ण मुक्त अभिगम / Gold Open Access",
+    "C": "संकर (हाइब्रिड) मुक्त अभिगम / Hybrid Open Access",
+    "D": "डायमंड मुक्त अभिगम / Diamond Open Access"
+   },
+   "q": "किसी सदस्यता-आधारित पत्रिका में शुल्क देकर किसी एक लेख को मुक्त अभिगम बनाना क्या कहलाता है? / Making a single article open access in a subscription journal by paying a fee is called:"
+  },
+  {
+   "answer": "D",
+   "explanation": "ब्रॉन्ज़ मुक्त अभिगम में लेख प्रकाशक की वेबसाइट पर मुफ़्त पढ़ा जा सकता है, किंतु उस पर कोई खुला लाइसेंस (जैसे क्रिएटिव कॉमन्स) नहीं होता, इसलिए पुनः उपयोग के अधिकार स्पष्ट नहीं होते।",
+   "options": {
+    "A": "लेखक स्वयं संग्रहीत करता है / Author self-archives",
+    "B": "CC लाइसेंस अनिवार्य है / CC licence is mandatory",
+    "C": "APC सबसे अधिक होता है / APC is the highest",
+    "D": "प्रकाशक की साइट पर पढ़ना मुफ़्त है, परंतु कोई मुक्त लाइसेंस नहीं होता / Free to read on publisher's site, but without an open licence"
+   },
+   "q": "'कांस्य मुक्त अभिगम' (Bronze Open Access) की पहचान क्या है? / What characterises 'Bronze Open Access'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "एपीसी अर्थात आर्टिकल प्रोसेसिंग चार्ज वह शुल्क है जो स्वर्ण मुक्त अभिगम पत्रिकाएँ लेख के प्रकाशन, समीक्षा-प्रबंधन व ऑनलाइन उपलब्धता की लागत हेतु लेखक या उसकी संस्था से लेती हैं।",
+   "options": {
+    "A": "Article Publication Charge / Article Publication Charge",
+    "B": "Article Processing Charge / Article Processing Charge",
+    "C": "Author Publication Cost / Author Publication Cost",
+    "D": "Article Printing Charge / Article Printing Charge"
+   },
+   "q": "मुक्त अभिगम प्रकाशन में 'APC' का पूर्ण रूप क्या है? / What is the full form of 'APC' in open access publishing?"
+  },
+  {
+   "answer": "A",
+   "explanation": "शेर्पा/रोमियो की रंग-व्यवस्था में हरा रंग उन प्रकाशकों को दर्शाता है जो लेखक को प्री-प्रिंट और पोस्ट-प्रिंट दोनों संस्करणों को संस्थागत भंडार में संग्रहीत करने की अनुमति देते हैं। नीला केवल पोस्ट-प्रिंट, पीला केवल प्री-प्रिंट और सफ़ेद कोई अनुमति नहीं दर्शाता है।",
+   "options": {
+    "A": "प्रकाशक प्री-प्रिंट और पोस्ट-प्रिंट दोनों के संग्रहण की अनुमति देता है / Publisher allows archiving of both pre-print and post-print",
+    "B": "प्रकाशक कोई संग्रहण नहीं करने देता / Publisher allows no archiving",
+    "C": "केवल प्री-प्रिंट संग्रहीत हो सकता है / Only pre-print can be archived",
+    "D": "पत्रिका पूर्णतः मुक्त अभिगम है / Journal is fully open access"
+   },
+   "q": "SHERPA/RoMEO में 'हरा' (Green) रंग क्या दर्शाता है? / In SHERPA/RoMEO, what does the 'Green' colour indicate?"
+  },
+  {
+   "answer": "C",
+   "explanation": "एनडी अर्थात नो डेरिवेटिव्ज़ — इस शर्त के अंतर्गत कृति को जैसा है वैसा साझा किया जा सकता है, किंतु उसमें परिवर्तन करके बनाई गई व्युत्पन्न कृति (अनुवाद, रूपांतरण आदि) वितरित नहीं की जा सकती।",
+   "options": {
+    "A": "No Distribution / No Distribution",
+    "B": "Non-Digital / Non-Digital",
+    "C": "No Derivatives / No Derivatives",
+    "D": "National Domain / National Domain"
+   },
+   "q": "क्रिएटिव कॉमन्स लाइसेंस 'CC BY-NC-ND' में 'ND' का अर्थ है— / In the Creative Commons licence 'CC BY-NC-ND', 'ND' stands for—"
+  },
+  {
+   "answer": "B",
+   "explanation": "प्लान एस सितंबर 2018 में यूरोपीय शोध-वित्तपोषक संस्थाओं के समूह 'कोएलिशन एस' द्वारा प्रारंभ किया गया, जिसका लक्ष्य है कि सार्वजनिक धन से वित्तपोषित शोध के परिणाम तुरंत मुक्त अभिगम में उपलब्ध हों।",
+   "options": {
+    "A": "UNESCO / UNESCO",
+    "B": "cOAlition S / cOAlition S",
+    "C": "IFLA / IFLA",
+    "D": "गूगल स्कॉलर / Google Scholar"
+   },
+   "q": "'Plan S' पहल (2018) किसके द्वारा प्रारंभ की गई थी? / The 'Plan S' initiative (2018) was launched by:"
+  },
+  {
+   "answer": "D",
+   "explanation": "मुक्त अभिगम आंदोलन की तीन आधारभूत घोषणाएँ हैं — बुडापेस्ट (2002), बेथेस्डा (2003) और बर्लिन (2003)। इन्हीं तीनों से इन्हें बीबीबी घोषणाएँ कहा जाता है।",
+   "options": {
+    "A": "बॉन / Bonn",
+    "B": "बीजिंग / Beijing",
+    "C": "ब्रसेल्स / Brussels",
+    "D": "बर्लिन / Berlin"
+   },
+   "q": "मुक्त अभिगम की तीन प्रसिद्ध घोषणाएँ — बुडापेस्ट, बेथेस्डा और ______ — सामूहिक रूप से 'BBB घोषणाएँ' कहलाती हैं। / The three famous open access declarations — Budapest, Bethesda and ______ — are collectively called the 'BBB declarations'."
+  },
+  {
+   "answer": "A",
+   "explanation": "एम्बार्गो अवधि वह समय है जिसके दौरान प्रकाशक लेखक को अपने स्वीकृत पांडुलिपि-संस्करण को भंडार में रखने से रोकता है; यह अवधि प्रायः 6 से 24 माह तक होती है।",
+   "options": {
+    "A": "एम्बार्गो अवधि / Embargo Period",
+    "B": "ग्रेस अवधि / Grace Period",
+    "C": "कूलिंग अवधि / Cooling Period",
+    "D": "बफ़र अवधि / Buffer Period"
+   },
+   "q": "हरित मुक्त अभिगम में प्रकाशक द्वारा स्वयं-संग्रहण (self-archiving) से पहले लगाई गई प्रतीक्षा अवधि क्या कहलाती है? / In Green Open Access, the waiting period imposed by the publisher before self-archiving is called:"
+  },
+  {
+   "answer": "B",
+   "explanation": "लोटका के नियम के अनुसार अधिक लेख लिखने वाले लेखकों की संख्या लेखों की संख्या के वर्ग के व्युत्क्रमानुपाती घटती है। अतः 2 लेख लिखने वाले लेखक = 100 ÷ (2 × 2) = 25 होंगे।",
+   "options": {
+    "A": "50 / 50",
+    "B": "25 / 25",
+    "C": "10 / 10",
+    "D": "5 / 5"
+   },
+   "q": "लोटका के व्युत्क्रम-वर्ग नियम (Inverse Square Law) के अनुसार, यदि किसी क्षेत्र में 100 लेखकों ने एक-एक लेख लिखा हो, तो लगभग कितने लेखकों ने 2 लेख लिखे होंगे? / According to Lotka's Inverse Square Law, if 100 authors have written one paper each, approximately how many authors will have written 2 papers?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ज़िप्फ़ के नियम के अनुसार किसी शब्द की आवृत्ति उसके क्रम के व्युत्क्रमानुपाती होती है, अर्थात क्रम × आवृत्ति ≈ स्थिरांक। इसीलिए कुछ शब्द बार-बार आते हैं और अधिकांश शब्द बहुत कम बार।",
+   "options": {
+    "A": "लगभग स्थिर (constant) / Approximately constant",
+    "B": "हमेशा बढ़ता हुआ / Always increasing",
+    "C": "शून्य / Zero",
+    "D": "आवृत्ति के बराबर / Equal to frequency"
+   },
+   "q": "ज़िप्फ़ के नियम के अनुसार किसी पाठ (text) में किसी शब्द के क्रम (rank) और उसकी आवृत्ति (frequency) का गुणनफल होता है— / According to Zipf's Law, the product of a word's rank and its frequency in a text is—"
+  },
+  {
+   "answer": "D",
+   "explanation": "यूजीन गारफ़ील्ड के संकेंद्रण नियम के अनुसार किसी विषय की मूल पत्रिकाओं का छोटा-सा समूह ही अन्य अनेक विषयों के लिए भी मूल साहित्य उपलब्ध कराता है — यही सिद्धांत साइंस साइटेशन इंडेक्स की नींव बना।",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "एस. सी. ब्रैडफ़ोर्ड / S. C. Bradford",
+    "C": "अल्फ़्रेड लोटका / Alfred Lotka",
+    "D": "यूजीन गारफ़ील्ड / Eugene Garfield"
+   },
+   "q": "'संकेंद्रण का नियम' (Law of Concentration) किसने प्रतिपादित किया था? / Who propounded the 'Law of Concentration'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "एम. एम. केस्लर ने 1963 में ग्रंथसूची युग्मन की अवधारणा दी — दो दस्तावेज़ तब युग्मित माने जाते हैं जब वे एक या अधिक समान संदर्भों को उद्धृत करते हैं।",
+   "options": {
+    "A": "हेनरी स्मॉल / Henry Small",
+    "B": "डेरेक डी सोला प्राइस / Derek de Solla Price",
+    "C": "एम. एम. केस्लर / M. M. Kessler",
+    "D": "बी. सी. विकरी / B. C. Vickery"
+   },
+   "q": "'ग्रंथसूची युग्मन' (Bibliographic Coupling) की अवधारणा किसने दी थी? / Who gave the concept of 'Bibliographic Coupling'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "हेनरी स्मॉल ने 1973 में सह-उद्धरण की अवधारणा दी। यह ग्रंथसूची युग्मन से भिन्न है, क्योंकि इसमें संबंध बाद के दस्तावेज़ों द्वारा बनाए जाते हैं और समय के साथ बदल सकते हैं।",
+   "options": {
+    "A": "एम. एम. केस्लर / M. M. Kessler",
+    "B": "हेनरी स्मॉल / Henry Small",
+    "C": "लियो एग्गे / Leo Egghe",
+    "D": "ब्लेज़ क्रोनिन / Blaise Cronin"
+   },
+   "q": "'सह-उद्धरण' (Co-citation) की अवधारणा सर्वप्रथम किसने प्रस्तुत की थी? / Who first introduced the concept of 'Co-citation'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "इम्पैक्ट फ़ैक्टर = निर्दिष्ट वर्ष में पिछले दो वर्षों के लेखों को मिले उद्धरण ÷ उन दो वर्षों में प्रकाशित लेखों की संख्या = 450 ÷ (120 + 105) = 450 ÷ 225 = 2.0।",
+   "options": {
+    "A": "4.5 / 4.5",
+    "B": "3.0 / 3.0",
+    "C": "2.0 / 2.0",
+    "D": "1.5 / 1.5"
+   },
+   "q": "किसी पत्रिका को वर्ष 2023 में अपने 2021 में प्रकाशित 120 लेखों और 2022 में प्रकाशित 105 लेखों पर कुल 450 उद्धरण मिले। पत्रिका का 2023 का Impact Factor कितना होगा? / A journal received 450 citations in 2023 to its 120 articles published in 2021 and 105 articles published in 2022. What will be its 2023 Impact Factor?"
+  },
+  {
+   "answer": "A",
+   "explanation": "एच-इंडेक्स वह अधिकतम संख्या है जिसके लिए शोधकर्ता के कम से कम उतने ही लेखों को उतने या अधिक उद्धरण मिले हों। यहाँ 4 लेखों को 4 से अधिक उद्धरण मिले हैं, किंतु पाँचवाँ लेख (4 उद्धरण) 5 की शर्त पूरी नहीं करता, अतः एच-इंडेक्स = 4।",
+   "options": {
+    "A": "4 / 4",
+    "B": "5 / 5",
+    "C": "3 / 3",
+    "D": "6 / 6"
+   },
+   "q": "किसी शोधकर्ता के 6 लेखों के उद्धरण क्रमशः 12, 9, 6, 5, 4 और 2 हैं। उसका h-index कितना होगा? / A researcher's 6 papers have citations 12, 9, 6, 5, 4 and 2 respectively. What will be his h-index?"
+  },
+  {
+   "answer": "B",
+   "explanation": "लियो एग्गे द्वारा प्रस्तावित जी-इंडेक्स की शर्त है कि शीर्ष लेखों के सामूहिक उद्धरण कम से कम उन लेखों की संख्या के वर्ग के बराबर हों — जैसे शीर्ष 6 लेखों के लिए कम से कम 36 उद्धरण। यह एच-इंडेक्स की उस कमी को दूर करता है जिसमें अत्यधिक उद्धृत लेखों को अतिरिक्त महत्व नहीं मिलता था।",
+   "options": {
+    "A": "g / g",
+    "B": "g² / g²",
+    "C": "2g / 2g",
+    "D": "g/2 / g/2"
+   },
+   "q": "g-index में किसी शोधकर्ता के शीर्ष g लेखों को सामूहिक रूप से कम से कम कितने उद्धरण मिलने चाहिए? / In the g-index, the top g papers of a researcher must collectively have received at least how many citations?"
+  },
+  {
+   "answer": "D",
+   "explanation": "वॉशिंगटन विश्वविद्यालय में विकसित आइगेनफ़ैक्टर गूगल के पेजरैंक एल्गोरिथ्म के सिद्धांत पर कार्य करता है — इसमें प्रभावशाली पत्रिकाओं से मिलने वाले उद्धरणों को सामान्य पत्रिकाओं के उद्धरणों से अधिक महत्व दिया जाता है।",
+   "options": {
+    "A": "हिट्स / HITS",
+    "B": "रैंडम फ़ॉरेस्ट / Random Forest",
+    "C": "के-मीन्स / K-Means",
+    "D": "पेजरैंक / PageRank"
+   },
+   "q": "Eigenfactor स्कोर की गणना किस प्रसिद्ध एल्गोरिथ्म की अवधारणा पर आधारित है? / The Eigenfactor score calculation is based on the concept of which famous algorithm?"
+  },
+  {
+   "answer": "C",
+   "explanation": "एसजेआर सूचक स्पेन के साइमागो शोध समूह द्वारा विकसित किया गया है। यह स्कोपस के आँकड़ों पर पेजरैंक-जैसी विधि से पत्रिकाओं की प्रतिष्ठा मापता है, जिसमें उद्धरण देने वाली पत्रिका की प्रतिष्ठा भी गिनी जाती है।",
+   "options": {
+    "A": "CWTS, लाइडेन / CWTS, Leiden",
+    "B": "थॉमसन रॉयटर्स / Thomson Reuters",
+    "C": "SCImago शोध समूह, स्पेन / SCImago Research Group, Spain",
+    "D": "गारफ़ील्ड संस्थान / Garfield Institute"
+   },
+   "q": "'SCImago Journal Rank' (SJR) सूचक किस शोध समूह द्वारा विकसित किया गया है? / The 'SCImago Journal Rank' (SJR) indicator has been developed by which research group?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इमीडिएसी इंडेक्स बताता है कि किसी पत्रिका के लेख प्रकाशन के उसी वर्ष कितनी शीघ्रता से उद्धृत होते हैं। यह उन क्षेत्रों में उपयोगी है जहाँ शोध तेज़ी से आगे बढ़ता है।",
+   "options": {
+    "A": "लेखों को प्रकाशन के उसी वर्ष में मिले औसत उद्धरण / Average citations received by articles in the same year of publication",
+    "B": "पत्रिका की कुल आयु / Total age of the journal",
+    "C": "लेखों की औसत लंबाई / Average length of articles",
+    "D": "स्व-उद्धरणों का प्रतिशत / Percentage of self-citations"
+   },
+   "q": "Journal Citation Reports का 'Immediacy Index' क्या मापता है? / What does the 'Immediacy Index' of Journal Citation Reports measure?"
+  },
+  {
+   "answer": "B",
+   "explanation": "जेसीआर में पत्रिकाओं को इम्पैक्ट फ़ैक्टर के आधार पर चार चतुर्थकों में बाँटा जाता है — क्यू1 शीर्ष 25 प्रतिशत, क्यू2 25 से 50 प्रतिशत, क्यू3 50 से 75 प्रतिशत और क्यू4 अंतिम 25 प्रतिशत पत्रिकाओं को दर्शाता है।",
+   "options": {
+    "A": "10% / 10%",
+    "B": "25% / 25%",
+    "C": "50% / 50%",
+    "D": "75% / 75%"
+   },
+   "q": "किसी विषय-श्रेणी में 'Q1' चतुर्थक (Quartile) में आने वाली पत्रिका का अर्थ है कि वह पत्रिका उस श्रेणी की शीर्ष ______ पत्रिकाओं में है। / A journal in the 'Q1' quartile of a subject category means it ranks among the top ______ journals of that category."
+  },
+  {
+   "answer": "D",
+   "explanation": "सह-उद्धरण में दो पूर्ववर्ती दस्तावेज़ों के बीच संबंध किसी बाद के दस्तावेज़ द्वारा स्थापित होता है, जो दोनों को एक साथ उद्धृत करता है। जितनी अधिक बार दो दस्तावेज़ साथ उद्धृत होते हैं, उनका विषय-संबंध उतना ही प्रबल माना जाता है।",
+   "options": {
+    "A": "वे एक ही लेखक द्वारा लिखे गए हों / They are written by the same author",
+    "B": "वे एक ही पत्रिका में छपे हों / They are published in the same journal",
+    "C": "वे एक-दूसरे को उद्धृत करते हों / They cite each other",
+    "D": "कोई तीसरा बाद का दस्तावेज़ उन दोनों को एक साथ उद्धृत करे / A third, later document cites both of them together"
+   },
+   "q": "दो दस्तावेज़ 'सह-उद्धृत' (co-cited) तब कहलाते हैं जब— / Two documents are said to be 'co-cited' when—"
+  },
+  {
+   "answer": "D",
+   "explanation": "पीटर इंग्वर्सन ने 1998 में वेब इम्पैक्ट फ़ैक्टर का प्रस्ताव दिया, जिसमें किसी वेबसाइट को मिलने वाले इन-लिंक्स की संख्या को उसमें मौजूद पृष्ठों की संख्या से विभाजित किया जाता है — यह पत्रिका इम्पैक्ट फ़ैक्टर का वेब-रूप है।",
+   "options": {
+    "A": "टॉमस अल्माइंड / Tomas Almind",
+    "B": "इसिद्रो एगुइलो / Isidro Aguillo",
+    "C": "माइक थेलवाल / Mike Thelwall",
+    "D": "पीटर इंग्वर्सन / Peter Ingwersen"
+   },
+   "q": "'वेब इम्पैक्ट फ़ैक्टर' (Web Impact Factor) का प्रस्ताव किसने दिया था? / Who proposed the 'Web Impact Factor'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "डेरेक डी सोला प्राइस को विज्ञानमिति का जनक माना जाता है। उनकी पुस्तक 'लिटिल साइंस, बिग साइंस' (1963) में विज्ञान की घातांकीय वृद्धि और आधुनिक बड़े विज्ञान के उदय का विश्लेषण किया गया है।",
+   "options": {
+    "A": "डेरेक जे. डी सोला प्राइस / Derek J. de Solla Price",
+    "B": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "C": "रॉबर्ट मर्टन / Robert Merton",
+    "D": "वी. वी. नालिमोव / V. V. Nalimov"
+   },
+   "q": "प्रसिद्ध पुस्तक 'Little Science, Big Science' (1963) के लेखक कौन हैं? / Who is the author of the famous book 'Little Science, Big Science' (1963)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "हंगरी के टिबोर ब्राउन ने 1978 में 'सायंटोमेट्रिक्स' पत्रिका की स्थापना की, जो विज्ञानमिति के क्षेत्र की प्रमुख अंतरराष्ट्रीय पत्रिका है।",
+   "options": {
+    "A": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "B": "टिबोर ब्राउन / Tibor Braun",
+    "C": "हेनरी स्मॉल / Henry Small",
+    "D": "एंड्राश शुबर्ट / Andras Schubert"
+   },
+   "q": "अंतरराष्ट्रीय पत्रिका 'Scientometrics' (1978) के संस्थापक संपादक कौन थे? / Who was the founding editor of the international journal 'Scientometrics' (1978)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "विश्वविद्यालयों की वेबोमेट्रिक्स रैंकिंग स्पेन की साइबरमेट्रिक्स लैब (सीएसआईसी) द्वारा प्रकाशित की जाती है, जिसमें विश्वविद्यालयों की वेब उपस्थिति, दृश्यता और मुक्त अभिगम गतिविधियों का मूल्यांकन होता है।",
+   "options": {
+    "A": "टाइम्स हायर एजुकेशन / Times Higher Education",
+    "B": "क्यूएस / QS",
+    "C": "शंघाई रैंकिंग / Shanghai Ranking",
+    "D": "साइबरमेट्रिक्स लैब, CSIC (स्पेन) / Cybermetrics Lab, CSIC (Spain)"
+   },
+   "q": "'Webometrics Ranking of World Universities' किसके द्वारा प्रकाशित की जाती है? / The 'Webometrics Ranking of World Universities' is published by:"
+  },
+  {
+   "answer": "C",
+   "explanation": "प्लमएक्स मेट्रिक्स एल्सेवियर का उत्पाद है, जो शोध-उत्पादों के उपयोग, उद्धरण, उल्लेख, सोशल मीडिया और कैप्चर — इन पाँच श्रेणियों में प्रभाव मापता है। उल्लेखनीय है कि ऑल्टमेट्रिक सेवा डिजिटल साइंस का उत्पाद है।",
+   "options": {
+    "A": "क्लैरिवेट / Clarivate",
+    "B": "डिजिटल साइंस / Digital Science",
+    "C": "एल्सेवियर / Elsevier",
+    "D": "स्प्रिंगर नेचर / Springer Nature"
+   },
+   "q": "'PlumX Metrics' (प्लमएक्स) ऑल्टमेट्रिक्स सेवा किस संस्था का उत्पाद है? / 'PlumX Metrics' altmetrics service is a product of:"
+  },
+  {
+   "answer": "B",
+   "explanation": "कोप अर्थात कमेटी ऑन पब्लिकेशन एथिक्स (स्थापना 1997) पत्रिका संपादकों और प्रकाशकों को शोध-प्रकाशन नैतिकता हेतु दिशानिर्देश और फ़्लोचार्ट उपलब्ध कराता है।",
+   "options": {
+    "A": "Committee on Publishing Excellence / Committee on Publishing Excellence",
+    "B": "Committee on Publication Ethics / Committee on Publication Ethics",
+    "C": "Council of Publication Editors / Council of Publication Editors",
+    "D": "Commission on Publication Ethics / Commission on Publication Ethics"
+   },
+   "q": "प्रकाशन नैतिकता के क्षेत्र में 'COPE' का पूर्ण रूप क्या है? / What is the full form of 'COPE' in the field of publication ethics?"
+  },
+  {
+   "answer": "D",
+   "explanation": "शोध कदाचार की मूल त्रयी एफ़एफ़पी है — फ़ैब्रिकेशन (आँकड़े गढ़ना), फ़ाल्सिफ़िकेशन (आँकड़ों या प्रक्रिया से छेड़छाड़) और प्लेजियरिज़्म (दूसरे के विचार या शब्द बिना श्रेय दिए अपनाना)। सम्मान करना (फ़ेलिसिटेशन) इसका भाग नहीं है।",
+   "options": {
+    "A": "फ़ैब्रिकेशन (आँकड़े गढ़ना) / Fabrication",
+    "B": "फ़ाल्सिफ़िकेशन (आँकड़ों से छेड़छाड़) / Falsification",
+    "C": "प्लेजियरिज़्म (साहित्यिक चोरी) / Plagiarism",
+    "D": "फ़ेलिसिटेशन (सम्मान करना) / Felicitation"
+   },
+   "q": "शोध कदाचार की 'FFP' त्रयी में कौन-सा शामिल नहीं है? / Which of the following is NOT a part of the 'FFP' trio of research misconduct?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यूजीसी विनियम 2018 के अनुसार समानता का स्तर 0 दस प्रतिशत तक, स्तर 1 दस से चालीस प्रतिशत, स्तर 2 चालीस से साठ प्रतिशत और स्तर 3 साठ प्रतिशत से अधिक समानता पर लागू होता है; स्तर बढ़ने के साथ दंड भी कठोर होता जाता है।",
+   "options": {
+    "A": "स्तर 1 / Level 1",
+    "B": "स्तर 2 / Level 2",
+    "C": "स्तर 3 / Level 3",
+    "D": "स्तर 0 / Level 0"
+   },
+   "q": "UGC (शैक्षणिक ईमानदारी को बढ़ावा और उच्च शिक्षा संस्थानों में साहित्यिक चोरी की रोकथाम) विनियम, 2018 के अनुसार 60% से अधिक समानता (similarity) किस स्तर (Level) में आती है? / According to the UGC (Promotion of Academic Integrity and Prevention of Plagiarism in HEIs) Regulations, 2018, similarity above 60% falls under which level?"
+  },
+  {
+   "answer": "A",
+   "explanation": "टर्निटिन का प्रतिशत 'सिमिलैरिटी इंडेक्स' कहलाता है — यह केवल मिलान हुए पाठ का अनुपात बताता है, स्वयं साहित्यिक चोरी का प्रमाण नहीं होता; उद्धरण, ग्रंथसूची और सामान्य वाक्यांश भी इसमें गिन जाते हैं, इसलिए रिपोर्ट की मानवीय समीक्षा आवश्यक है।",
+   "options": {
+    "A": "समानता सूचकांक (Similarity Index) / Similarity Index",
+    "B": "चोरी प्रतिशत / Plagiarism Percentage",
+    "C": "मौलिकता सूचकांक / Originality Index",
+    "D": "त्रुटि दर / Error Rate"
+   },
+   "q": "Turnitin रिपोर्ट में दिखाया गया प्रतिशत तकनीकी रूप से क्या कहलाता है? / The percentage shown in a Turnitin report is technically called:"
+  },
+  {
+   "answer": "A",
+   "explanation": "टर्निटिन और आईथेंटिकेट दोनों आईपैराडाइम्स एलएलसी के उत्पाद हैं — टर्निटिन मुख्यतः शैक्षणिक संस्थानों में और आईथेंटिकेट प्रकाशकों व शोधकर्ताओं द्वारा पांडुलिपि-जाँच में प्रयुक्त होता है।",
+   "options": {
+    "A": "आईपैराडाइम्स / iParadigms",
+    "B": "एल्सेवियर / Elsevier",
+    "C": "क्लैरिवेट / Clarivate",
+    "D": "प्रोक्वेस्ट / ProQuest"
+   },
+   "q": "Turnitin और iThenticate — दोनों साहित्यिक चोरी-जाँच सॉफ़्टवेयर किस कंपनी के उत्पाद हैं? / Turnitin and iThenticate — both plagiarism detection software — are products of which company?"
+  },
+  {
+   "answer": "D",
+   "explanation": "सलामी स्लाइसिंग में एक ही अध्ययन को न्यूनतम प्रकाशन-योग्य इकाइयों में बाँटकर अनेक लेख बनाए जाते हैं। यह प्रकाशन नैतिकता के विरुद्ध माना जाता है, क्योंकि इससे साहित्य अनावश्यक रूप से फूलता है और परिणामों की समग्र तस्वीर धुंधली होती है।",
+   "options": {
+    "A": "एक ही लेख को कई भाषाओं में छापना / Publishing the same paper in many languages",
+    "B": "दूसरे के आँकड़े चुराना / Stealing others' data",
+    "C": "समीक्षा प्रक्रिया को टालना / Avoiding peer review",
+    "D": "एक ही शोध-कार्य को छोटे-छोटे टुकड़ों में बाँटकर कई लेखों के रूप में प्रकाशित करना / Dividing one research work into small pieces and publishing them as multiple papers"
+   },
+   "q": "शोध प्रकाशन में 'Salami Slicing' से क्या आशय है? / What is meant by 'Salami Slicing' in research publication?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कोलोराडो विश्वविद्यालय के पुस्तकालयकर्मी जेफ़री बील ने 'प्रिडेटरी पब्लिशर्स' की प्रसिद्ध सूची (बील्स लिस्ट) बनाई और उन प्रकाशकों को उजागर किया जो केवल एपीसी के लिए बिना वास्तविक समीक्षा के लेख छापते हैं।",
+   "options": {
+    "A": "पीटर सुबर / Peter Suber",
+    "B": "जॉन बोहैनन / John Bohannon",
+    "C": "जेफ़री बील / Jeffrey Beall",
+    "D": "रिचर्ड वैन नोर्डन / Richard Van Noorden"
+   },
+   "q": "'प्रिडेटरी (शिकारी) मुक्त अभिगम प्रकाशन' शब्दावली को लोकप्रिय बनाने का श्रेय किसे दिया जाता है? / Who is credited with popularising the term 'predatory open-access publishing'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "घोस्ट ऑथर वह होता है — प्रायः पेशेवर लेखक या प्रायोजक कंपनी का कर्मचारी — जिसने लेख तैयार करने में महत्वपूर्ण भूमिका निभाई हो, फिर भी लेखक-सूची में उसका नाम या योगदान प्रकट नहीं किया जाता। यह पारदर्शिता के विरुद्ध है।",
+   "options": {
+    "A": "वह व्यक्ति जिसने लेख में महत्वपूर्ण योगदान दिया, किंतु लेखकों की सूची में उसका नाम नहीं है / A person who made a significant contribution to the paper but is not named in the author list",
+    "B": "वह लेखक जो छद्म नाम से लिखता है / An author who writes under a pseudonym",
+    "C": "मृत लेखक / A deceased author",
+    "D": "वह लेखक जिसका कोई पिछला प्रकाशन नहीं / An author with no previous publications"
+   },
+   "q": "प्रकाशन नैतिकता में 'घोस्ट ऑथर' (Ghost Author) से आशय है— / In publication ethics, a 'Ghost Author' means—"
+  },
+  {
+   "answer": "B",
+   "explanation": "सीरा कृषि क्षेत्र का ई-संसाधन कंसोर्टियम है, जिसका संचालन भारतीय कृषि अनुसंधान परिषद (आईसीएआर) करती है। यह कृषि विश्वविद्यालयों और संस्थानों को कृषि-विषयक पत्रिकाओं की साझा पहुँच देता है।",
+   "options": {
+    "A": "UGC / UGC",
+    "B": "ICAR / ICAR",
+    "C": "CSIR / CSIR",
+    "D": "ICMR / ICMR"
+   },
+   "q": "'CeRA' (Consortium for e-Resources in Agriculture) कंसोर्टियम किस संस्था द्वारा संचालित है? / The 'CeRA' (Consortium for e-Resources in Agriculture) consortium is maintained by which organisation?"
+  },
+  {
+   "answer": "C",
+   "explanation": "एक राष्ट्र एक सदस्यता योजना के अंतर्गत देश के सभी सरकारी उच्च शिक्षा संस्थानों को अंतरराष्ट्रीय शोध-पत्रिकाओं की एकल सदस्यता-आधारित पहुँच मिलती है, और इसके कार्यान्वयन की नोडल संस्था इन्फ़्लिबनेट केंद्र, गांधीनगर है।",
+   "options": {
+    "A": "राष्ट्रीय पुस्तकालय, कोलकाता / National Library, Kolkata",
+    "B": "UGC मुख्यालय / UGC Headquarters",
+    "C": "INFLIBNET केंद्र / INFLIBNET Centre",
+    "D": "NIScPR / NIScPR"
+   },
+   "q": "'One Nation One Subscription' (ONOS) योजना के कार्यान्वयन की नोडल संस्था कौन-सी है? / Which is the nodal agency for implementing the 'One Nation One Subscription' (ONOS) scheme?"
+  }
+ ],
+ "subject": "BLIS"
+}

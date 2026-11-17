@@ -1,0 +1,556 @@
+{
+ "mock_no": 14,
+ "questions": [
+  {
+   "answer": "A",
+   "explanation": "प्राथमिक स्रोत वे होते हैं जिनमें मूल (मौलिक) जानकारी प्रथम बार प्रस्तुत होती है। शोध-पत्रिकाओं के शोध लेख, शोध प्रबंध, शोध प्रतिवेदन, पेटेंट और मानक इसी श्रेणी में आते हैं।",
+   "options": {
+    "A": "प्राथमिक स्रोत / Primary sources",
+    "B": "द्वितीयक स्रोत / Secondary sources",
+    "C": "तृतीयक स्रोत / Tertiary sources",
+    "D": "संदर्भ स्रोत / Reference sources"
+   },
+   "q": "शोध-पत्रिका में प्रकाशित मूल शोध लेख तथा शोध प्रबंध (Thesis) किस श्रेणी के सूचना स्रोत हैं? / Original research articles published in research journals and theses belong to which category of information sources?"
+  },
+  {
+   "answer": "D",
+   "explanation": "तृतीयक स्रोत स्वयं विषय-जानकारी नहीं देते, बल्कि प्राथमिक और द्वितीयक स्रोतों तक पहुँचने का मार्गदर्शन करते हैं। ग्रंथसूचियों की ग्रंथसूची, निर्देशिकाएँ और संघ सूचियाँ इसी श्रेणी में आती हैं।",
+   "options": {
+    "A": "प्राथमिक स्रोत / Primary source",
+    "B": "द्वितीयक स्रोत / Secondary source",
+    "C": "संदर्भ स्रोत / Reference source",
+    "D": "तृतीयक स्रोत / Tertiary source"
+   },
+   "q": "'ग्रंथसूचियों की ग्रंथसूची' (Bibliography of Bibliographies) किस श्रेणी का सूचना स्रोत है? / 'Bibliography of Bibliographies' belongs to which category of information sources?"
+  },
+  {
+   "answer": "B",
+   "explanation": "तृतीयक स्रोत सूचना के स्रोत नहीं, सूचना तक पहुँचने के साधन होते हैं। ये पाठक को बताते हैं कि आवश्यक प्राथमिक या द्वितीयक स्रोत कहाँ और कैसे मिलेगा।",
+   "options": {
+    "A": "मूल शोध परिणाम प्रस्तुत करना / To present original research results",
+    "B": "प्राथमिक व द्वितीयक स्रोतों तक मार्गदर्शन करना / To guide users to primary and secondary sources",
+    "C": "दैनिक समाचार देना / To provide daily news",
+    "D": "आँकड़ों का विश्लेषण करना / To analyse statistical data"
+   },
+   "q": "तृतीयक (Tertiary) सूचना स्रोतों का मुख्य कार्य क्या है? / What is the main function of tertiary information sources?"
+  },
+  {
+   "answer": "C",
+   "explanation": "द्वितीयक स्रोत प्राथमिक स्रोतों में बिखरी जानकारी को संकलित, व्यवस्थित और समीक्षित करके प्रस्तुत करते हैं। समीक्षा लेख, प्रवृत्ति प्रतिवेदन (ट्रेंड रिपोर्ट), पाठ्यपुस्तकें और अनुक्रमण-सारकरण पत्रिकाएँ इसी श्रेणी में हैं।",
+   "options": {
+    "A": "प्राथमिक स्रोत / Primary sources",
+    "B": "तृतीयक स्रोत / Tertiary sources",
+    "C": "द्वितीयक स्रोत / Secondary sources",
+    "D": "अप्रलेखीय स्रोत / Non-documentary sources"
+   },
+   "q": "समीक्षा लेख (Review Articles) तथा वार्षिक प्रगति-समीक्षाएँ (जैसे Annual Review) किस श्रेणी के स्रोत हैं? / Review articles and annual reviews of progress belong to which category of sources?"
+  },
+  {
+   "answer": "C",
+   "explanation": "अप्रलेखीय स्रोत वे हैं जो किसी प्रलेख के रूप में नहीं होते — जैसे मानव स्रोत (विशेषज्ञ, सलाहकार) और संस्थागत स्रोत (सूचना केंद्र, परामर्श संस्थाएँ)। पुस्तकें, पत्रिकाएँ और प्रतिवेदन प्रलेखीय स्रोत हैं।",
+   "options": {
+    "A": "पुस्तकें / Books",
+    "B": "शोध प्रतिवेदन / Research reports",
+    "C": "मानव विशेषज्ञ एवं संस्थाएँ / Human experts and institutions",
+    "D": "पत्रिकाएँ / Periodicals"
+   },
+   "q": "निम्न में से कौन-सा अप्रलेखीय (Non-documentary) सूचना स्रोत है? / Which of the following is a non-documentary source of information?"
+  },
+  {
+   "answer": "B",
+   "explanation": "अनुक्रमण पत्रिकाएँ प्राथमिक साहित्य (लेखों) की जानकारी व्यवस्थित रूप से देती हैं, इसलिए ये द्वितीयक स्रोत हैं। पेटेंट, शोध प्रबंध और प्रयोगशाला अभिलेख प्राथमिक स्रोत हैं।",
+   "options": {
+    "A": "पेटेंट / Patent",
+    "B": "अनुक्रमण पत्रिका / Indexing periodical",
+    "C": "शोध प्रबंध / Thesis",
+    "D": "प्रयोगशाला पंजी / Laboratory notebook"
+   },
+   "q": "निम्न में से कौन-सा एक द्वितीयक (Secondary) सूचना स्रोत है? / Which of the following is a secondary source of information?"
+  },
+  {
+   "answer": "D",
+   "explanation": "मानक और विनिर्देश किसी उत्पाद, प्रक्रिया या माप की मूल और आधिकारिक जानकारी प्रथम बार निर्धारित करते हैं, इसलिए इन्हें पेटेंट की भाँति प्राथमिक स्रोत माना जाता है।",
+   "options": {
+    "A": "द्वितीयक स्रोत / Secondary sources",
+    "B": "तृतीयक स्रोत / Tertiary sources",
+    "C": "संदर्भ स्रोत / Reference sources",
+    "D": "प्राथमिक स्रोत / Primary sources"
+   },
+   "q": "मानक (Standards) तथा विनिर्देश (Specifications) किस श्रेणी के सूचना स्रोत माने जाते हैं? / Standards and specifications are treated as which category of information sources?"
+  },
+  {
+   "answer": "C",
+   "explanation": "रंगनाथन ने प्रलेखीय स्रोतों के चार वर्ग बताए हैं — परंपरागत (Conventional), नव-परंपरागत (Neo-conventional), अपरंपरागत (Non-conventional) और मेटा प्रलेख (Meta documents)।",
+   "options": {
+    "A": "दो / Two",
+    "B": "तीन / Three",
+    "C": "चार / Four",
+    "D": "पाँच / Five"
+   },
+   "q": "डॉ. रंगनाथन ने प्रलेखीय स्रोतों को कितने वर्गों में विभाजित किया है? / Into how many classes did Dr. Ranganathan divide documentary sources?"
+  },
+  {
+   "answer": "A",
+   "explanation": "द्वितीयक स्रोत प्राथमिक स्रोतों में उपलब्ध मूल जानकारी को ही संकलित, संक्षिप्त और व्यवस्थित करके बनाए जाते हैं; इसलिए उनका आधार प्राथमिक स्रोत ही होते हैं।",
+   "options": {
+    "A": "प्राथमिक स्रोतों पर / Primary sources",
+    "B": "तृतीयक स्रोतों पर / Tertiary sources",
+    "C": "मौखिक परंपरा पर / Oral tradition",
+    "D": "काल्पनिक साहित्य पर / Fiction"
+   },
+   "q": "द्वितीयक स्रोत मुख्यतः किस पर आधारित होते हैं? / Secondary sources are mainly based on what?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पाठ्यपुस्तकें और मोनोग्राफ़ प्राथमिक स्रोतों से जानकारी लेकर उसे समेकित और व्यवस्थित रूप में प्रस्तुत करते हैं, अतः इन्हें द्वितीयक स्रोत माना जाता है।",
+   "options": {
+    "A": "प्राथमिक स्रोत / Primary sources",
+    "B": "द्वितीयक स्रोत / Secondary sources",
+    "C": "तृतीयक स्रोत / Tertiary sources",
+    "D": "अप्रलेखीय स्रोत / Non-documentary sources"
+   },
+   "q": "किसी विषय की समेकित एवं व्यवस्थित जानकारी देने वाली पाठ्यपुस्तकें सामान्यतः किस श्रेणी में रखी जाती हैं? / Textbooks presenting consolidated knowledge of a subject are generally placed in which category?"
+  },
+  {
+   "answer": "A",
+   "explanation": "इफ़्रेम चेम्बर्स ने 1728 में दो खंडों में 'साइक्लोपीडिया' प्रकाशित किया, जिसे आधुनिक विश्वकोशों की नींव माना जाता है। बाद का फ्रांसीसी विश्वकोश भी इसी से प्रेरित हुआ था।",
+   "options": {
+    "A": "इफ़्रेम चेम्बर्स / Ephraim Chambers",
+    "B": "डेनिस दिदरो / Denis Diderot",
+    "C": "सैमुअल जॉनसन / Samuel Johnson",
+    "D": "मेलविल डेवी / Melvil Dewey"
+   },
+   "q": "'Cyclopaedia' (1728), प्रारंभिक अंग्रेज़ी विश्वकोशों में से एक, के संकलनकर्ता कौन थे? / Who compiled the 'Cyclopaedia' (1728), one of the earliest English encyclopaedias?"
+  },
+  {
+   "answer": "C",
+   "explanation": "फ्रांसीसी विश्वकोश का संपादन डेनिस दिदरो ने किया था (दालाँबेर सह-संपादक थे)। यह ज्ञानोदय (एनलाइटेनमेंट) काल की सबसे प्रभावशाली कृतियों में गिना जाता है।",
+   "options": {
+    "A": "वोल्टेयर / Voltaire",
+    "B": "ज्याँ रूसो / Jean Rousseau",
+    "C": "डेनिस दिदरो / Denis Diderot",
+    "D": "इफ़्रेम चेम्बर्स / Ephraim Chambers"
+   },
+   "q": "प्रसिद्ध फ्रांसीसी 'Encyclopédie' (1751–1772) के मुख्य संपादक कौन थे? / Who was the chief editor of the famous French 'Encyclopédie' (1751–1772)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "ब्रिटैनिका के 15वें संस्करण के तीन भाग हैं — प्रोपीडिया (ज्ञान की रूपरेखा), माइक्रोपीडिया (संक्षिप्त प्रविष्टियाँ) और मैक्रोपीडिया (विस्तृत लेख)। प्रोपीडिया विषयों की वर्गीकृत रूपरेखा देता है।",
+   "options": {
+    "A": "माइक्रोपीडिया / Micropaedia",
+    "B": "मैक्रोपीडिया / Macropaedia",
+    "C": "अनुक्रमणिका / Index",
+    "D": "प्रोपीडिया / Propedia"
+   },
+   "q": "न्यू एनसाइक्लोपीडिया ब्रिटैनिका (15वाँ संस्करण) का वह भाग जो समस्त ज्ञान की रूपरेखा (Outline of Knowledge) प्रस्तुत करता है, कहलाता है— / The part of the New Encyclopaedia Britannica (15th edition) which presents an outline of knowledge is called—"
+  },
+  {
+   "answer": "B",
+   "explanation": "प्राधिकार का अर्थ है कि कृति के पीछे कौन है — प्रकाशक की प्रतिष्ठा, संपादक मंडल और लेखकों की विषय-विशेषज्ञता ही विश्वकोश की विश्वसनीयता का पहला मापदंड है।",
+   "options": {
+    "A": "पुस्तक के मूल्य से / The price of the book",
+    "B": "प्रकाशक, संपादकों व लेखकों की प्रतिष्ठा और योग्यता से / The reputation and qualifications of the publisher, editors and contributors",
+    "C": "पृष्ठों की संख्या से / The number of pages",
+    "D": "जिल्द की गुणवत्ता से / The quality of binding"
+   },
+   "q": "विश्वकोश के मूल्यांकन में 'प्राधिकार' (Authority) मानदंड मुख्यतः किससे संबंधित है? / In evaluating an encyclopaedia, the criterion of 'Authority' is mainly related to—"
+  },
+  {
+   "answer": "C",
+   "explanation": "पुस्तकालय एवं सूचना विज्ञान का यह प्रमुख विषय-विश्वकोश एलेन केंट (हैरोल्ड लैंकौर सह-संपादक) के संपादन में प्रकाशित हुआ था।",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "चार्ल्स ए. कटर / Charles A. Cutter",
+    "C": "एलेन केंट / Allen Kent",
+    "D": "यूजीन गारफ़ील्ड / Eugene Garfield"
+   },
+   "q": "'Encyclopedia of Library and Information Science' के प्रमुख संपादक कौन थे? / Who was the chief editor of the 'Encyclopedia of Library and Information Science'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ऑक्सफ़ोर्ड अंग्रेज़ी शब्दकोश का प्रकाशन 1884 से 'ए न्यू इंग्लिश डिक्शनरी ऑन हिस्टोरिकल प्रिंसिपल्स' शीर्षक से प्रारंभ हुआ था; बाद में इसका नाम ऑक्सफ़ोर्ड इंग्लिश डिक्शनरी पड़ा।",
+   "options": {
+    "A": "A New English Dictionary on Historical Principles",
+    "B": "Webster's English Dictionary",
+    "C": "Dictionary of the English Language",
+    "D": "The Imperial Dictionary"
+   },
+   "q": "Oxford English Dictionary मूलतः किस शीर्षक से प्रकाशित होना प्रारंभ हुआ था? / The Oxford English Dictionary originally began publication under which title?"
+  },
+  {
+   "answer": "B",
+   "explanation": "लेक्सिकोग्राफ़ी शब्दकोश संकलन की कला और विज्ञान है, जबकि लेक्सिकोलॉजी शब्दों का वैज्ञानिक अध्ययन है।",
+   "options": {
+    "A": "ग्रंथसूची विज्ञान / Bibliography",
+    "B": "कोश-विज्ञान (लेक्सिकोग्राफ़ी) / Lexicography",
+    "C": "मानचित्रकला / Cartography",
+    "D": "मुद्रणकला / Typography"
+   },
+   "q": "शब्दकोशों के संकलन की कला और विज्ञान को क्या कहा जाता है? / The art and science of compiling dictionaries is called—"
+  },
+  {
+   "answer": "B",
+   "explanation": "व्युत्पत्ति-कोश प्रत्येक शब्द की उत्पत्ति, उसकी मूल भाषा और कालांतर में हुए अर्थ-परिवर्तन का इतिहास बताता है।",
+   "options": {
+    "A": "शब्दों के पर्यायवाची / Synonyms of words",
+    "B": "शब्दों की उत्पत्ति और ऐतिहासिक विकास / Origin and historical development of words",
+    "C": "शब्दों का उच्चारण / Pronunciation of words",
+    "D": "शब्दों के विलोम / Antonyms of words"
+   },
+   "q": "व्युत्पत्ति-कोश (Etymological Dictionary) में मुख्यतः क्या जानकारी दी जाती है? / What information is mainly given in an etymological dictionary?"
+  },
+  {
+   "answer": "C",
+   "explanation": "कॉन्कॉर्डेंस किसी महत्वपूर्ण ग्रंथ (जैसे बाइबिल या शेक्सपियर की रचनाएँ) में आए प्रत्येक महत्वपूर्ण शब्द की, उसके संदर्भ और स्थान सहित, वर्णानुक्रम सूची होती है।",
+   "options": {
+    "A": "मानचित्रों का जिल्दबंद संग्रह / A bound collection of maps",
+    "B": "जीवनी-कोश / A biographical dictionary",
+    "C": "किसी ग्रंथ में प्रयुक्त शब्दों की संदर्भ सहित वर्णानुक्रम सूची / An alphabetical index of the words used in a text, with their contexts",
+    "D": "वार्षिक सांख्यिकी पुस्तिका / An annual statistical handbook"
+   },
+   "q": "कॉन्कॉर्डेंस (Concordance) क्या है? / What is a concordance?"
+  },
+  {
+   "answer": "A",
+   "explanation": "ज्ञान तेज़ी से बदलता है, इसलिए विश्वकोश की उपयोगिता उसके निरंतर संशोधन पर निर्भर करती है — नियमित वार्षिक पूरक और संशोधित संस्करण ही उसकी अद्यतनता के प्रमाण हैं।",
+   "options": {
+    "A": "नियमित संशोधन और नए संस्करणों/पूरकों की आवृत्ति से / Regular revision and frequency of new editions/supplements",
+    "B": "चित्रों की संख्या से / Number of illustrations",
+    "C": "केवल प्रकाशन वर्ष से / Year of publication only",
+    "D": "खंडों के आकार से / Size of the volumes"
+   },
+   "q": "किसी विश्वकोश की 'अद्यतनता' (Currency) का मूल्यांकन मुख्यतः किस आधार पर किया जाता है? / The 'currency' of an encyclopaedia is mainly judged on the basis of—"
+  },
+  {
+   "answer": "A",
+   "explanation": "नैटमो (पूर्व नाम — राष्ट्रीय एटलस संगठन) का मुख्यालय कोलकाता में है। यह संस्था भारत का राष्ट्रीय एटलस और विभिन्न विषयगत मानचित्र तैयार करती है।",
+   "options": {
+    "A": "कोलकाता / Kolkata",
+    "B": "देहरादून / Dehradun",
+    "C": "नई दिल्ली / New Delhi",
+    "D": "हैदराबाद / Hyderabad"
+   },
+   "q": "राष्ट्रीय एटलस एवं थीमैटिक मानचित्रण संगठन (NATMO) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the National Atlas and Thematic Mapping Organisation (NATMO) located?"
+  },
+  {
+   "answer": "C",
+   "explanation": "भारत के सबसे पुराने वैज्ञानिक विभागों में से एक, भारतीय सर्वेक्षण विभाग (स्थापना 1767) का मुख्यालय देहरादून (उत्तराखंड) में स्थित है।",
+   "options": {
+    "A": "कोलकाता / Kolkata",
+    "B": "चेन्नई / Chennai",
+    "C": "देहरादून / Dehradun",
+    "D": "पुणे / Pune"
+   },
+   "q": "भारतीय सर्वेक्षण विभाग (Survey of India) का मुख्यालय कहाँ है? / Where is the headquarters of the Survey of India?"
+  },
+  {
+   "answer": "D",
+   "explanation": "थीमैटिक (विषयगत) मानचित्र किसी विशेष विषय या तत्व के स्थानिक वितरण को दर्शाता है; नैटमो द्वारा तैयार किए गए अधिकांश मानचित्र इसी प्रकार के होते हैं।",
+   "options": {
+    "A": "राजनीतिक मानचित्र / Political map",
+    "B": "स्थलाकृतिक मानचित्र / Topographical map",
+    "C": "भू-संपत्ति मानचित्र / Cadastral map",
+    "D": "थीमैटिक मानचित्र / Thematic map"
+   },
+   "q": "किसी एक तत्व या विषय — जैसे वर्षा, जनसंख्या घनत्व या मृदा — के वितरण को दर्शाने वाला मानचित्र कहलाता है— / A map showing the distribution of a single feature or theme, such as rainfall or population density, is called—"
+  },
+  {
+   "answer": "A",
+   "explanation": "एटलस विभिन्न प्रकार के मानचित्रों का व्यवस्थित और जिल्दबंद संग्रह होता है, जिसमें प्रायः स्थान-नामों की अनुक्रमणिका (गज़ेटियर भाग) भी होती है।",
+   "options": {
+    "A": "मानचित्रों का जिल्दबंद संग्रह / A bound collection of maps",
+    "B": "शब्दों का वर्णानुक्रम कोश / An alphabetical dictionary of words",
+    "C": "घटनाओं का कालक्रम / A chronology of events",
+    "D": "पुस्तकों की मूल्य-सूची / A price list of books"
+   },
+   "q": "एटलस (Atlas) क्या है? / What is an atlas?"
+  },
+  {
+   "answer": "D",
+   "explanation": "एटलस, ग्लोब और गज़ेटियर भौगोलिक सूचना स्रोत हैं, जबकि जीवनी-कोश व्यक्तियों के जीवन से संबंधित जीवनीपरक स्रोत है।",
+   "options": {
+    "A": "एटलस / Atlas",
+    "B": "ग्लोब / Globe",
+    "C": "गज़ेटियर / Gazetteer",
+    "D": "जीवनी-कोश / Biographical dictionary"
+   },
+   "q": "निम्न में से कौन-सा भौगोलिक स्रोत नहीं है? / Which of the following is NOT a geographical source?"
+  },
+  {
+   "answer": "B",
+   "explanation": "'हू वाज़ हू' 'हूज़ हू' का पूरक है — इसमें उन प्रसिद्ध व्यक्तियों की जीवनियाँ रखी जाती हैं जिनका निधन हो चुका है, जबकि 'हूज़ हू' में केवल जीवित व्यक्तियों की जीवनियाँ होती हैं।",
+   "options": {
+    "A": "केवल जीवित व्यक्तियों की / Only living persons",
+    "B": "दिवंगत (मृत) प्रसिद्ध व्यक्तियों की / Deceased notable persons",
+    "C": "केवल राजनीतिज्ञों की / Only politicians",
+    "D": "केवल वैज्ञानिकों की / Only scientists"
+   },
+   "q": "'Who Was Who' में मुख्यतः किन व्यक्तियों की जीवनियाँ दी जाती हैं? / 'Who Was Who' mainly contains biographies of which persons?"
+  },
+  {
+   "answer": "B",
+   "explanation": "लंदन स्थित यूरोपा पब्लिकेशन्स 1935 से 'इंटरनेशनल हूज़ हू' प्रकाशित करता है, जिसमें विश्व के प्रमुख जीवित व्यक्तियों की जीवनियाँ होती हैं।",
+   "options": {
+    "A": "एच. डब्ल्यू. विल्सन / H. W. Wilson",
+    "B": "यूरोपा पब्लिकेशन्स / Europa Publications",
+    "C": "ऑक्सफ़ोर्ड यूनिवर्सिटी प्रेस / Oxford University Press",
+    "D": "आर. आर. बाउकर / R. R. Bowker"
+   },
+   "q": "'International Who's Who' का प्रकाशक कौन है? / Who publishes the 'International Who's Who'?"
+  },
+  {
+   "answer": "C",
+   "explanation": "'करंट बायोग्राफ़ी' 1940 से एच. डब्ल्यू. विल्सन कंपनी द्वारा मासिक रूप से प्रकाशित होती है और इसमें समकालीन प्रमुख व्यक्तियों के जीवनी-लेख होते हैं।",
+   "options": {
+    "A": "गेल रिसर्च / Gale Research",
+    "B": "मैकमिलन / Macmillan",
+    "C": "एच. डब्ल्यू. विल्सन / H. W. Wilson",
+    "D": "व्हिटेकर / Whitaker"
+   },
+   "q": "'Current Biography' (मासिक) का प्रकाशक कौन है? / Who publishes 'Current Biography' (monthly)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "राष्ट्रीय जीवनी-कोश (डीएनबी) का प्रथम खंड 1885 में प्रकाशित हुआ था; इसके प्रथम संपादक लेसली स्टीफ़न थे। इसमें ब्रिटेन के दिवंगत प्रसिद्ध व्यक्तियों की जीवनियाँ हैं।",
+   "options": {
+    "A": "1857 / 1857",
+    "B": "1885 / 1885",
+    "C": "1901 / 1901",
+    "D": "1921 / 1921"
+   },
+   "q": "ब्रिटेन की 'Dictionary of National Biography' का प्रथम खंड किस वर्ष प्रकाशित हुआ था? / In which year was the first volume of Britain's 'Dictionary of National Biography' published?"
+  },
+  {
+   "answer": "D",
+   "explanation": "भारत के प्रमुख जीवित व्यक्तियों का यह वार्षिक जीवनी-कोश नई दिल्ली स्थित इन्फ़ा पब्लिकेशन्स द्वारा प्रकाशित किया जाता है।",
+   "options": {
+    "A": "प्रकाशन विभाग / Publications Division",
+    "B": "साहित्य अकादेमी / Sahitya Akademi",
+    "C": "राष्ट्रीय पुस्तक न्यास / National Book Trust",
+    "D": "इन्फ़ा पब्लिकेशन्स / INFA Publications"
+   },
+   "q": "'India Who's Who' का प्रकाशन कौन-सी संस्था करती है? / Which organisation publishes 'India Who's Who'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "अल्मानक एक वार्षिक प्रकाशन है जिसमें कैलेंडर, सूर्य-चंद्र के उदय-अस्त, ग्रहण, त्योहारों और ऋतु संबंधी खगोलीय जानकारी के साथ विविध उपयोगी तथ्य होते हैं।",
+   "options": {
+    "A": "कैलेंडर, खगोलीय और ऋतु संबंधी जानकारी / Calendar, astronomical and weather-related information",
+    "B": "पुस्तकों की विस्तृत समीक्षाएँ / Detailed book reviews",
+    "C": "व्यक्तियों की जीवनियाँ / Biographies of persons",
+    "D": "देशों के मानचित्र / Maps of countries"
+   },
+   "q": "अल्मानक/पंचांग (Almanac) में मुख्यतः कौन-सी जानकारी होती है? / What information does an almanac mainly contain?"
+  },
+  {
+   "answer": "C",
+   "explanation": "भारत की दशवार्षिक जनगणना का संचालन और प्रकाशन गृह मंत्रालय के अधीन महापंजीयक एवं जनगणना आयुक्त के कार्यालय द्वारा किया जाता है।",
+   "options": {
+    "A": "योजना आयोग / Planning Commission",
+    "B": "राष्ट्रीय नमूना सर्वेक्षण कार्यालय / NSSO",
+    "C": "महापंजीयक एवं जनगणना आयुक्त / Registrar General and Census Commissioner",
+    "D": "केंद्रीय सांख्यिकी संगठन / Central Statistical Organisation"
+   },
+   "q": "'भारत की जनगणना' (Census of India) का प्रकाशन किसके कार्यालय द्वारा किया जाता है? / The 'Census of India' is published by the office of—"
+  },
+  {
+   "answer": "B",
+   "explanation": "भारत का सांख्यिकी सार केंद्रीय सांख्यिकी संगठन (अब राष्ट्रीय सांख्यिकी कार्यालय का भाग) द्वारा वार्षिक रूप से प्रकाशित होता है और यह देश के प्रमुख आँकड़ों का आधिकारिक स्रोत है।",
+   "options": {
+    "A": "भारतीय रिज़र्व बैंक / Reserve Bank of India",
+    "B": "केंद्रीय सांख्यिकी संगठन (CSO) / Central Statistical Organisation",
+    "C": "विश्वविद्यालय अनुदान आयोग / UGC",
+    "D": "भारतीय मानक ब्यूरो / Bureau of Indian Standards"
+   },
+   "q": "'Statistical Abstract of India' का प्रकाशक कौन है? / Who publishes the 'Statistical Abstract of India'?"
+  },
+  {
+   "answer": "D",
+   "explanation": "वार्षिकी, अल्मानक, शब्दकोश और निर्देशिकाएँ तैयार संदर्भ स्रोत हैं, क्योंकि इनसे तथ्यात्मक प्रश्नों के उत्तर तुरंत मिल जाते हैं।",
+   "options": {
+    "A": "शोध प्रबंध / Thesis",
+    "B": "शोध-पत्रिका / Research journal",
+    "C": "उपन्यास / Novel",
+    "D": "वार्षिकी (ईयर बुक) / Year Book"
+   },
+   "q": "निम्न में से कौन-सा तैयार संदर्भ (Ready Reference) स्रोत है? / Which of the following is a ready reference source?"
+  },
+  {
+   "answer": "A",
+   "explanation": "निर्देशिका किसी क्षेत्र, व्यवसाय या समुदाय की संस्थाओं और व्यक्तियों के नाम, पते और संपर्क-विवरण की व्यवस्थित सूची होती है।",
+   "options": {
+    "A": "संस्थाओं और व्यक्तियों के नाम व पते / Names and addresses of institutions and persons",
+    "B": "शब्दों के अर्थ और पर्याय / Meanings and synonyms of words",
+    "C": "ऐतिहासिक घटनाओं का वर्णन / Description of historical events",
+    "D": "वैज्ञानिक सूत्र / Scientific formulae"
+   },
+   "q": "निर्देशिका (Directory) मुख्यतः कौन-सी जानकारी प्रदान करती है? / What information does a directory mainly provide?"
+  },
+  {
+   "answer": "D",
+   "explanation": "राष्ट्रीय ग्रंथसूची किसी देश की सीमाओं के भीतर प्रकाशित सभी प्रकाशनों की आधिकारिक और व्यापक सूची होती है, जैसे भारतीय राष्ट्रीय ग्रंथसूची।",
+   "options": {
+    "A": "केवल विदेशों में प्रकाशित पुस्तकों का / Only books published abroad",
+    "B": "केवल पत्रिकाओं का / Only periodicals",
+    "C": "केवल पांडुलिपियों का / Only manuscripts",
+    "D": "किसी देश में प्रकाशित समस्त प्रकाशनों का / All publications published within a country"
+   },
+   "q": "राष्ट्रीय ग्रंथसूची (National Bibliography) में किसका अभिलेख होता है? / What does a national bibliography record?"
+  },
+  {
+   "answer": "B",
+   "explanation": "विषय ग्रंथसूची किसी एक विषय या क्षेत्र से संबंधित प्रकाशनों की चयनित या व्यापक सूची होती है, जो शोधकर्ताओं के लिए अत्यंत उपयोगी होती है।",
+   "options": {
+    "A": "किसी लेखक की समस्त रचनाओं की सूची / A list of all works of an author",
+    "B": "किसी विशिष्ट विषय पर उपलब्ध साहित्य की सूची / A list of literature available on a specific subject",
+    "C": "किसी देश की समस्त पुस्तकों की सूची / A list of all books of a country",
+    "D": "दुर्लभ पुस्तकों की सूची / A list of rare books"
+   },
+   "q": "विषय ग्रंथसूची (Subject Bibliography) क्या है? / What is a subject bibliography?"
+  },
+  {
+   "answer": "C",
+   "explanation": "पूर्वव्यापी ग्रंथसूची किसी बीती हुई अवधि के प्रकाशनों को सूचीबद्ध करती है, जबकि चालू (करंट) ग्रंथसूची नवीनतम प्रकाशनों की होती है।",
+   "options": {
+    "A": "आगामी वर्ष के प्रकाशन / Forthcoming publications",
+    "B": "केवल चालू वर्ष के प्रकाशन / Only current-year publications",
+    "C": "भूतकाल में प्रकाशित साहित्य / Literature published in the past",
+    "D": "अप्रकाशित सामग्री / Unpublished material"
+   },
+   "q": "पूर्वव्यापी ग्रंथसूची (Retrospective Bibliography) में क्या शामिल होता है? / What does a retrospective bibliography include?"
+  },
+  {
+   "answer": "A",
+   "explanation": "थियोडोर बेस्टरमैन ने विश्व भर की ग्रंथसूचियों की यह विशाल ग्रंथसूची संकलित की थी, जो अपने आप में एक तृतीयक स्रोत का उत्कृष्ट उदाहरण है।",
+   "options": {
+    "A": "थियोडोर बेस्टरमैन / Theodore Besterman",
+    "B": "एलेन केंट / Allen Kent",
+    "C": "पॉल ऑटले / Paul Otlet",
+    "D": "यूजीन गारफ़ील्ड / Eugene Garfield"
+   },
+   "q": "'A World Bibliography of Bibliographies' के संकलनकर्ता कौन हैं? / Who compiled 'A World Bibliography of Bibliographies'?"
+  },
+  {
+   "answer": "B",
+   "explanation": "पॉल ऑटले और हेनरी ला फ़ॉन्टेन ने 1895 में ब्रसेल्स में सार्वभौमिक ग्रंथसूची संग्रह की शुरुआत की थी, जिसका उद्देश्य विश्व के समस्त प्रकाशनों की एक ही व्यापक सूची बनाना था।",
+   "options": {
+    "A": "मेलविल डेवी / Melvil Dewey",
+    "B": "पॉल ऑटले / Paul Otlet",
+    "C": "चार्ल्स ए. कटर / Charles A. Cutter",
+    "D": "एस. आर. रंगनाथन / S. R. Ranganathan"
+   },
+   "q": "'Répertoire Bibliographique Universel' (सार्वभौमिक ग्रंथसूची संग्रह) की शुरुआत किसने की थी? / Who started the 'Répertoire Bibliographique Universel' (Universal Bibliographic Repertory)?"
+  },
+  {
+   "answer": "D",
+   "explanation": "क्युमुलेटिव बुक इंडेक्स (1898–1999) एच. डब्ल्यू. विल्सन कंपनी द्वारा प्रकाशित अंग्रेज़ी भाषा की पुस्तकों की मासिक ग्रंथसूची थी।",
+   "options": {
+    "A": "आर. आर. बाउकर / R. R. Bowker",
+    "B": "जॉन व्हिटेकर / J. Whitaker",
+    "C": "गेल रिसर्च / Gale Research",
+    "D": "एच. डब्ल्यू. विल्सन / H. W. Wilson"
+   },
+   "q": "'Cumulative Book Index' (CBI) का प्रकाशक कौन था? / Who published the 'Cumulative Book Index' (CBI)?"
+  },
+  {
+   "answer": "B",
+   "explanation": "भारत में प्रकाशित अंग्रेज़ी पुस्तकों की यह प्रमुख व्यापारिक ग्रंथसूची दिल्ली स्थित इंडियन बिब्लियोग्राफ़ीज़ ब्यूरो द्वारा प्रकाशित की जाती है।",
+   "options": {
+    "A": "केंद्रीय संदर्भ पुस्तकालय / Central Reference Library",
+    "B": "इंडियन बिब्लियोग्राफ़ीज़ ब्यूरो / Indian Bibliographies Bureau",
+    "C": "साहित्य अकादेमी / Sahitya Akademi",
+    "D": "दिल्ली पब्लिक लाइब्रेरी / Delhi Public Library"
+   },
+   "q": "'Indian Books in Print' का प्रकाशक कौन है? / Who publishes 'Indian Books in Print'?"
+  },
+  {
+   "answer": "A",
+   "explanation": "KWOC (कीवर्ड आउट ऑफ़ कॉन्टेक्स्ट) में शीर्षक के प्रत्येक महत्वपूर्ण शब्द को प्रविष्टि-शब्द बनाकर शीर्षक को उसी मूल रूप में दोहराया जाता है; यह KWIC का एक रूपांतर है।",
+   "options": {
+    "A": "Keyword Out of Context",
+    "B": "Keyword On Card",
+    "C": "Key Words of Classification",
+    "D": "Knowledge Web of Citations"
+   },
+   "q": "KWOC का पूर्ण रूप क्या है? / What is the full form of KWOC?"
+  },
+  {
+   "answer": "D",
+   "explanation": "KWIC (कीवर्ड इन कॉन्टेक्स्ट) में प्रलेख के शीर्षक के महत्वपूर्ण शब्दों को ही बारी-बारी से प्रविष्टि-शब्द बनाया जाता है, इसलिए यह शीर्षक-आधारित अनुक्रमण प्रणाली है।",
+   "options": {
+    "A": "लेखक के नाम से / The author's name",
+    "B": "प्रकाशक के नाम से / The publisher's name",
+    "C": "विषय वर्गीकरण संख्या से / The class number",
+    "D": "प्रलेख के शीर्षक से / The title of the document"
+   },
+   "q": "KWIC अनुक्रमण प्रणाली में मुख्य शब्द (Keywords) मुख्यतः कहाँ से लिए जाते हैं? / In KWIC indexing, the keywords are mainly taken from—"
+  },
+  {
+   "answer": "A",
+   "explanation": "गणेश भट्टाचार्य द्वारा विकसित POPSI रंगनाथन के ज्ञान वर्गीकरण के सामान्य सिद्धांत और उसके अध्यादेशों (पोस्टुलेट्स) पर आधारित है।",
+   "options": {
+    "A": "ज्ञान वर्गीकरण का सामान्य सिद्धांत / General Theory of Knowledge Classification",
+    "B": "डेवी दशमलव वर्गीकरण / Dewey Decimal Classification",
+    "C": "मशीन अनुवाद / Machine translation",
+    "D": "ग्रंथमिति / Bibliometrics"
+   },
+   "q": "POPSI अनुक्रमण प्रणाली मुख्यतः किस सैद्धांतिक आधार पर विकसित की गई है? / The POPSI indexing system is mainly based on which theoretical foundation?"
+  },
+  {
+   "answer": "C",
+   "explanation": "ISO 2788 एकभाषी थिसॉरस के निर्माण और विकास के लिए दिशानिर्देश देता है, जबकि ISO 5964 बहुभाषी थिसॉरस से संबंधित है।",
+   "options": {
+    "A": "ISO 9001 / ISO 9001",
+    "B": "ISO 2709 / ISO 2709",
+    "C": "ISO 2788 / ISO 2788",
+    "D": "ISO 3166 / ISO 3166"
+   },
+   "q": "एकभाषी थिसॉरस (Monolingual Thesaurus) के निर्माण और विकास हेतु अंतरराष्ट्रीय मानक कौन-सा है? / Which international standard deals with the construction and development of monolingual thesauri?"
+  },
+  {
+   "answer": "D",
+   "explanation": "थिसॉरस में केवल तीन प्रकार के संबंध दिखाए जाते हैं — समतुल्यता (USE/UF), पदानुक्रम (BT/NT) और साहचर्य (RT)। ध्वन्यात्मक संबंध थिसॉरस का भाग नहीं होता।",
+   "options": {
+    "A": "समतुल्यता संबंध / Equivalence relationship",
+    "B": "पदानुक्रम संबंध / Hierarchical relationship",
+    "C": "साहचर्य संबंध / Associative relationship",
+    "D": "ध्वन्यात्मक संबंध / Phonetic relationship"
+   },
+   "q": "थिसॉरस में निम्न में से कौन-सा संबंध सामान्यतः प्रदर्शित नहीं होता? / Which of the following relationships is generally NOT displayed in a thesaurus?"
+  },
+  {
+   "answer": "A",
+   "explanation": "स्कोप नोट किसी पद के अर्थ, उसके प्रयोग की सीमा या विशेष प्रयोग-विधि को स्पष्ट करता है, जिससे अनुक्रमणकर्ता और खोजकर्ता दोनों को सही पद चुनने में सहायता मिलती है।",
+   "options": {
+    "A": "पद के अर्थ और प्रयोग-क्षेत्र को स्पष्ट करने के लिए / To clarify the meaning and scope of a term",
+    "B": "पदों को वर्णक्रम में रखने के लिए / To arrange terms alphabetically",
+    "C": "मूल्य अंकित करने के लिए / To record the price",
+    "D": "पृष्ठ संख्या बताने के लिए / To give the page number"
+   },
+   "q": "थिसॉरस में 'Scope Note' का प्रयोग किस लिए किया जाता है? / What is the purpose of a 'Scope Note' in a thesaurus?"
+  },
+  {
+   "answer": "D",
+   "explanation": "उद्धरण अनुक्रमणिका उद्धरणों की सूची होती है — इससे पता चलता है कि किसी ज्ञात प्रलेख को उसके बाद के किन शोध कार्यों ने उद्धृत किया, जिससे साहित्य की आगे की खोज (फ़ॉरवर्ड सर्च) संभव होती है।",
+   "options": {
+    "A": "यह पुस्तकों को वर्गीकृत करती है / It classifies books",
+    "B": "यह प्रलेखों के सार देती है / It provides abstracts of documents",
+    "C": "यह पत्रिकाओं की मूल्य-सूची देती है / It gives prices of journals",
+    "D": "यह बताती है कि किसी पूर्ववर्ती प्रलेख को बाद के किन प्रलेखों ने उद्धृत किया है / It shows which later documents have cited an earlier document"
+   },
+   "q": "उद्धरण अनुक्रमणिका (Citation Index) की मुख्य विशेषता क्या है? / What is the main feature of a citation index?"
+  },
+  {
+   "answer": "C",
+   "explanation": "यूजीन गारफ़ील्ड ने 1960 में इंस्टीट्यूट फ़ॉर साइंटिफ़िक इन्फ़ॉर्मेशन (ISI) की स्थापना की थी, जिसने साइंस साइटेशन इंडेक्स जैसी उद्धरण अनुक्रमणिकाएँ प्रकाशित कीं।",
+   "options": {
+    "A": "डेरेक ऑस्टिन / Derek Austin",
+    "B": "मेलविल डेवी / Melvil Dewey",
+    "C": "यूजीन गारफ़ील्ड / Eugene Garfield",
+    "D": "हंस पीटर लून / Hans Peter Luhn"
+   },
+   "q": "इंस्टीट्यूट फ़ॉर साइंटिफ़िक इन्फ़ॉर्मेशन (ISI) की स्थापना किसने की थी? / Who founded the Institute for Scientific Information (ISI)?"
+  }
+ ],
+ "subject": "BLIS"
+}
