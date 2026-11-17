@@ -1,0 +1,1102 @@
+[
+ {
+  "n": 386,
+  "subject": "Child Development",
+  "q_hi": "पियाजे के अनुसार, छोटे बच्चे का खेलते समय स्वयं से बातें करना क्या कहलाता है?",
+  "q_en": "According to Piaget, a young child talking to himself while playing is called —",
+  "options": [
+   "निजी वाक्",
+   "आंतरिक वाक्",
+   "अहंकेंद्रित वाक्",
+   "सामाजिक वाक्"
+  ],
+  "options_en": [
+   "Private speech",
+   "Inner speech",
+   "Egocentric speech",
+   "Social speech"
+  ],
+  "answer": 2,
+  "exp_hi": "पियाजे ने बच्चों के स्वयं से बात करने को अहंकेंद्रित वाक् कहा — उनके अनुसार यह चिंतन की अपरिपक्वता दर्शाता है। वाइगोत्स्की ने इसी को 'निजी वाक्' कहकर आत्म-नियमन का साधन माना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 1
+ },
+ {
+  "n": 387,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के 'पाड़' (स्कैफोल्डिंग) उपागम में शिक्षक को दी जा रही सहायता कब धीरे-धीरे घटानी चाहिए?",
+  "q_en": "In Vygotsky's 'scaffolding' approach, when should the teacher gradually reduce the support being given?",
+  "options": [
+   "जब विद्यार्थी कार्य स्वयं करने में सक्षम होने लगे",
+   "पाठ शुरू होते ही",
+   "परीक्षा समाप्त होने के बाद",
+   "जब विद्यार्थी पहली गलती करे"
+  ],
+  "options_en": [
+   "When the learner starts becoming able to do the task independently",
+   "Right at the start of the lesson",
+   "After the examination is over",
+   "When the learner makes the first mistake"
+  ],
+  "answer": 0,
+  "exp_hi": "पाड़ अस्थायी सहायता है — जैसे-जैसे विद्यार्थी कार्य में सक्षम होता जाता है, सहायता क्रमशः घटाई जाती है, ताकि अंत में वह कार्य पूरी तरह स्वतंत्र रूप से कर सके।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 2
+ },
+ {
+  "n": 388,
+  "subject": "Child Development",
+  "q_hi": "कोहलबर्ग के नैतिक विकास में 'सार्वभौमिक नैतिक सिद्धांत' अभिमुखता कौन-सी अवस्था है?",
+  "q_en": "In Kohlberg's moral development, the 'universal ethical principles' orientation belongs to which stage?",
+  "options": [
+   "तीसरी अवस्था",
+   "छठी अवस्था",
+   "चौथी अवस्था",
+   "पाँचवीं अवस्था"
+  ],
+  "options_en": [
+   "Third stage",
+   "Sixth stage",
+   "Fourth stage",
+   "Fifth stage"
+  ],
+  "answer": 1,
+  "exp_hi": "छठी अवस्था उत्तर-परंपरागत स्तर की सर्वोच्च अवस्था है — इसमें व्यक्ति कानून से ऊपर उठकर न्याय और मानवीय गरिमा जैसे सार्वभौमिक सिद्धांतों के अनुसार निर्णय लेता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 3
+ },
+ {
+  "n": 389,
+  "subject": "Child Development",
+  "q_hi": "फ्रायड के मनोलैंगिक विकास की प्रथम अवस्था, जिसमें शिशु को मुँह की क्रियाओं (चूसना आदि) से आनंद मिलता है, कौन-सी है?",
+  "q_en": "Which is the first stage of Freud's psychosexual development, in which the infant gets pleasure from mouth activities such as sucking?",
+  "options": [
+   "गुदा अवस्था",
+   "फैलिक अवस्था",
+   "जनन अवस्था",
+   "मुख अवस्था"
+  ],
+  "options_en": [
+   "Anal stage",
+   "Phallic stage",
+   "Genital stage",
+   "Oral stage"
+  ],
+  "answer": 3,
+  "exp_hi": "मनोलैंगिक विकास की पहली अवस्था मुख अवस्था (जन्म से लगभग डेढ़ वर्ष) है — इसमें शिशु की आनंद-प्राप्ति का केंद्र मुँह होता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 4
+ },
+ {
+  "n": 390,
+  "subject": "Child Development",
+  "q_hi": "एरिक्सन के अनुसार, जीवन के प्रथम वर्ष का मुख्य मनोसामाजिक संकट क्या है?",
+  "q_en": "According to Erikson, what is the main psychosocial crisis of the first year of life?",
+  "options": [
+   "स्वायत्तता बनाम लज्जा",
+   "विश्वास बनाम अविश्वास",
+   "पहल बनाम अपराध-बोध",
+   "पहचान बनाम भूमिका-भ्रम"
+  ],
+  "options_en": [
+   "Autonomy vs. shame",
+   "Trust vs. mistrust",
+   "Initiative vs. guilt",
+   "Identity vs. role confusion"
+  ],
+  "answer": 1,
+  "exp_hi": "प्रथम वर्ष में शिशु देखभाल करने वालों की संवेदनशील देखभाल से संसार पर विश्वास विकसित करता है; उपेक्षा होने पर अविश्वास बनता है — यही विश्वास बनाम अविश्वास का संकट है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 5
+ },
+ {
+  "n": 391,
+  "subject": "Child Development",
+  "q_hi": "बंडूरा के 'परस्पर निर्धारणवाद' के अनुसार मानव व्यवहार किन कारकों की अंतःक्रिया का परिणाम है?",
+  "q_en": "According to Bandura's 'reciprocal determinism', human behaviour is the result of the interaction of which factors?",
+  "options": [
+   "केवल वातावरण",
+   "केवल जन्मजात प्रवृत्तियाँ",
+   "व्यक्ति, व्यवहार और वातावरण",
+   "केवल पुनर्बलन का इतिहास"
+  ],
+  "options_en": [
+   "Only the environment",
+   "Only innate tendencies",
+   "Person, behaviour and environment",
+   "Only the history of reinforcement"
+  ],
+  "answer": 2,
+  "exp_hi": "परस्पर निर्धारणवाद के अनुसार व्यक्ति के संज्ञान, उसका व्यवहार और वातावरण — तीनों एक-दूसरे को निरंतर प्रभावित करते हैं; व्यवहार किसी एक कारक से नहीं बनता।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 6
+ },
+ {
+  "n": 392,
+  "subject": "Child Development",
+  "q_hi": "स्किनर के सिद्धांत पर आधारित वह शिक्षण-विधि, जिसमें विषय-वस्तु छोटे-छोटे चरणों में बाँटकर प्रत्येक चरण पर तत्काल प्रतिपुष्टि दी जाती है, क्या कहलाती है?",
+  "q_en": "The teaching method based on Skinner's theory, in which content is divided into small steps and immediate feedback is given at each step, is called —",
+  "options": [
+   "खोज अधिगम",
+   "सहकारी अधिगम",
+   "बहु-संवेदी अधिगम",
+   "कार्यक्रमित अधिगम"
+  ],
+  "options_en": [
+   "Discovery learning",
+   "Cooperative learning",
+   "Multi-sensory learning",
+   "Programmed learning"
+  ],
+  "answer": 3,
+  "exp_hi": "कार्यक्रमित अधिगम में सामग्री छोटे चरणों (फ्रेम) में प्रस्तुत होती है, विद्यार्थी सक्रिय अनुक्रिया करता है और उसे तुरंत सही-गलत की प्रतिपुष्टि मिलती है — यह स्किनर के क्रिया-प्रसूत अनुबंधन पर आधारित है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 7
+ },
+ {
+  "n": 393,
+  "subject": "Child Development",
+  "q_hi": "थॉर्नडाइक के अधिगम सिद्धांत को किस नाम से जाना जाता है?",
+  "q_en": "Thorndike's theory of learning is known by which name?",
+  "options": [
+   "संबंधवाद",
+   "अंतर्दृष्टि सिद्धांत",
+   "क्षेत्र सिद्धांत",
+   "सामाजिक अधिगम सिद्धांत"
+  ],
+  "options_en": [
+   "Connectionism",
+   "Insight theory",
+   "Field theory",
+   "Social learning theory"
+  ],
+  "answer": 0,
+  "exp_hi": "थॉर्नडाइक के अनुसार अधिगम उद्दीपक और अनुक्रिया के बीच बंधन (संबंध) बनने की प्रक्रिया है — इसलिए उनके सिद्धांत को संबंधवाद कहा जाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 8
+ },
+ {
+  "n": 394,
+  "subject": "Child Development",
+  "q_hi": "गेस्ताल्ट के संगठन नियमों में, समान दिखने वाली वस्तुओं को एक समूह के रूप में देखने की प्रवृत्ति किस नियम से जुड़ी है?",
+  "q_en": "In Gestalt laws of organisation, the tendency to see similar-looking objects as one group is related to which law?",
+  "options": [
+   "निकटता का नियम",
+   "समापन का नियम",
+   "निरंतरता का नियम",
+   "समानता का नियम"
+  ],
+  "options_en": [
+   "Law of proximity",
+   "Law of closure",
+   "Law of continuity",
+   "Law of similarity"
+  ],
+  "answer": 3,
+  "exp_hi": "समानता के नियम के अनुसार रंग, आकार या रूप में समान तत्वों को मन एक समूह के रूप में संगठित करके देखता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 9
+ },
+ {
+  "n": 395,
+  "subject": "Child Development",
+  "q_hi": "बैडली के कार्यशील स्मृति मॉडल में बोले गए शब्दों को कुछ क्षण ध्वनि-रूप में धारण करने वाला घटक कौन-सा है?",
+  "q_en": "In Baddeley's working memory model, which component holds spoken words in sound form for a few moments?",
+  "options": [
+   "दृश्य-स्थानिक रेखाचित्र पट्ट",
+   "ध्वन्यात्मक पाश",
+   "केंद्रीय कार्यकारी",
+   "प्रासंगिक बफर"
+  ],
+  "options_en": [
+   "Visuospatial sketchpad",
+   "Phonological loop",
+   "Central executive",
+   "Episodic buffer"
+  ],
+  "answer": 1,
+  "exp_hi": "ध्वन्यात्मक पाश श्रवण-आधारित जानकारी (शब्द, ध्वनियाँ) को कुछ क्षणों तक धारण करता है — मौखिक निर्देश याद रखना इसी से संभव होता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 10
+ },
+ {
+  "n": 396,
+  "subject": "Child Development",
+  "q_hi": "अप्रिय स्मृति को अचेतन मन में धकेलकर भूल जाने की प्रक्रिया फ्रायड के अनुसार क्या कहलाती है?",
+  "q_en": "According to Freud, the process of pushing an unpleasant memory into the unconscious and forgetting it is called —",
+  "options": [
+   "दमन",
+   "क्षय",
+   "व्यतिकरण",
+   "प्रक्षेपण"
+  ],
+  "options_en": [
+   "Repression",
+   "Decay",
+   "Interference",
+   "Projection"
+  ],
+  "answer": 0,
+  "exp_hi": "दमन एक रक्षा-युक्ति है — इसमें दुखद या चिंताजनक स्मृतियाँ अचेतन में धकेल दी जाती हैं, जिससे व्यक्ति उन्हें सचेत रूप से याद नहीं कर पाता।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 11
+ },
+ {
+  "n": 397,
+  "subject": "Child Development",
+  "q_hi": "अपनी भावनाओं, शक्तियों और कमज़ोरियों को अच्छी तरह समझने की क्षमता गार्डनर की कौन-सी बुद्धि है?",
+  "q_en": "The ability to understand one's own feelings, strengths and weaknesses well is which intelligence of Gardner?",
+  "options": [
+   "अंतर्वैयक्तिक बुद्धि",
+   "प्राकृतिक बुद्धि",
+   "अंतःवैयक्तिक बुद्धि",
+   "स्थानिक बुद्धि"
+  ],
+  "options_en": [
+   "Interpersonal intelligence",
+   "Naturalistic intelligence",
+   "Intrapersonal intelligence",
+   "Spatial intelligence"
+  ],
+  "answer": 2,
+  "exp_hi": "अंतःवैयक्तिक बुद्धि स्वयं को समझने की क्षमता है, जबकि अंतर्वैयक्तिक बुद्धि दूसरों को समझने और उनसे संबंध बनाने की क्षमता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 12
+ },
+ {
+  "n": 398,
+  "subject": "Child Development",
+  "q_hi": "बुद्धि की संरचना (Structure of Intellect) मॉडल किसने प्रस्तुत किया?",
+  "q_en": "Who presented the Structure of Intellect model of intelligence?",
+  "options": [
+   "चार्ल्स स्पीयरमैन",
+   "एल. एल. थर्स्टन",
+   "हॉवर्ड गार्डनर",
+   "जे. पी. गिलफोर्ड"
+  ],
+  "options_en": [
+   "Charles Spearman",
+   "L. L. Thurstone",
+   "Howard Gardner",
+   "J. P. Guilford"
+  ],
+  "answer": 3,
+  "exp_hi": "गिलफोर्ड ने बुद्धि की संरचना का त्रि-आयामी मॉडल दिया, जिसमें संक्रियाएँ, विषय-वस्तु और उत्पाद — इन तीनों के संयोजन से बौद्धिक क्षमताओं का वर्णन किया गया।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 13
+ },
+ {
+  "n": 399,
+  "subject": "Child Development",
+  "q_hi": "टॉरेंस के अनुसार, सृजनात्मकता का वह तत्व जिसमें व्यक्ति किसी विषय पर अधिक से अधिक विचार या उत्तर दे पाता है, क्या कहलाता है?",
+  "q_en": "According to Torrance, the element of creativity in which a person can give the maximum number of ideas or responses on a topic is called —",
+  "options": [
+   "लचीलापन",
+   "मौलिकता",
+   "विस्तारण",
+   "प्रवाह"
+  ],
+  "options_en": [
+   "Flexibility",
+   "Originality",
+   "Elaboration",
+   "Fluency"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रवाह का अर्थ है — दिए गए समय में अधिक से अधिक विचार उत्पन्न कर पाना। लचीलापन विचारों की विविधता, मौलिकता उनकी नवीनता और विस्तारण उनमें विवरण जोड़ने से जुड़ा है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 14
+ },
+ {
+  "n": 400,
+  "subject": "Child Development",
+  "q_hi": "जिस विद्यार्थी का लक्ष्य विषय को सचमुच समझना और अपने कौशल में सुधार करना होता है, उसका लक्ष्य किस प्रकार का कहलाता है?",
+  "q_en": "A student whose goal is to truly understand the subject and improve his own skill has which type of goal?",
+  "options": [
+   "प्रदर्शन लक्ष्य",
+   "परिहार लक्ष्य",
+   "प्रवीणता (मास्टरी) लक्ष्य",
+   "बाह्य पुरस्कार लक्ष्य"
+  ],
+  "options_en": [
+   "Performance goal",
+   "Avoidance goal",
+   "Mastery goal",
+   "External reward goal"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रवीणता लक्ष्य में विद्यार्थी सीखने और योग्यता बढ़ाने पर केंद्रित रहता है, जबकि प्रदर्शन लक्ष्य में वह दूसरों से बेहतर दिखने या अंक पाने पर केंद्रित रहता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 15
+ },
+ {
+  "n": 401,
+  "subject": "Child Development",
+  "q_hi": "बंडूरा के अनुसार, आत्म-प्रभावकारिता बढ़ाने का सबसे प्रभावी स्रोत कौन-सा है?",
+  "q_en": "According to Bandura, which is the most effective source of increasing self-efficacy?",
+  "options": [
+   "दूसरों की प्रशंसा",
+   "स्वयं के सफल अनुभव",
+   "मॉडल को देखना मात्र",
+   "शारीरिक उत्तेजना"
+  ],
+  "options_en": [
+   "Praise from others",
+   "One's own successful experiences",
+   "Merely watching a model",
+   "Physiological arousal"
+  ],
+  "answer": 1,
+  "exp_hi": "स्वयं किसी कार्य को सफलतापूर्वक कर लेना आत्म-प्रभावकारिता का सबसे मज़बूत स्रोत है, क्योंकि यह प्रत्यक्ष प्रमाण होता है कि 'मैं यह कर सकता हूँ'।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 16
+ },
+ {
+  "n": 402,
+  "subject": "Child Development",
+  "q_hi": "जिस बच्चे को लिखने में अत्यधिक कठिनाई होती है — अक्षर अस्पष्ट बनते हैं और लिखावट अव्यवस्थित रहती है — वह किस अधिगम अक्षमता से जुड़ा है?",
+  "q_en": "A child who has extreme difficulty in writing — letters are unclear and handwriting is disorganised — is associated with which learning disability?",
+  "options": [
+   "डिस्लेक्सिया",
+   "डिस्कैलकुलिया",
+   "डिस्ग्राफिया",
+   "डिस्प्रेक्सिया"
+  ],
+  "options_en": [
+   "Dyslexia",
+   "Dyscalculia",
+   "Dysgraphia",
+   "Dyspraxia"
+  ],
+  "answer": 2,
+  "exp_hi": "डिस्ग्राफिया लेखन संबंधी अधिगम अक्षमता है; डिस्लेक्सिया पठन से, डिस्कैलकुलिया गणित से और डिस्प्रेक्सिया गतिक समन्वय से जुड़ी है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 17
+ },
+ {
+  "n": 403,
+  "subject": "Child Development",
+  "q_hi": "समावेशी शिक्षा और 'मुख्यधारा में मिलाने' (मेनस्ट्रीमिंग) में मुख्य अंतर क्या है?",
+  "q_en": "What is the main difference between inclusive education and mainstreaming?",
+  "options": [
+   "समावेश में विद्यालय स्वयं को बच्चे की आवश्यकताओं के अनुसार ढालता है",
+   "दोनों का अर्थ बिल्कुल एक ही है",
+   "समावेश में बच्चे को अलग कक्षा दी जाती है",
+   "मेनस्ट्रीमिंग में पूरा पाठ्यक्रम बदलना पड़ता है"
+  ],
+  "options_en": [
+   "In inclusion, the school adapts itself to the needs of the child",
+   "Both mean exactly the same",
+   "In inclusion, the child is given a separate classroom",
+   "In mainstreaming, the whole curriculum has to be changed"
+  ],
+  "answer": 0,
+  "exp_hi": "मेनस्ट्रीमिंग में बच्चे को सामान्य कक्षा के अनुकूल बनने की अपेक्षा रहती है, जबकि समावेश में विद्यालय, पाठ्यक्रम और शिक्षण-विधियाँ स्वयं बच्चे की आवश्यकताओं के अनुसार ढलती हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 18
+ },
+ {
+  "n": 404,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति 2020 में 'SEDG' से क्या अभिप्राय है?",
+  "q_en": "In the National Education Policy 2020, what does 'SEDG' mean?",
+  "options": [
+   "विशेष आवश्यकता वाले दिव्यांग समूह",
+   "अनुसूचित जनजाति विकास समूह",
+   "शैक्षिक रूप से गतिशील समूह",
+   "सामाजिक-आर्थिक रूप से वंचित समूह"
+  ],
+  "options_en": [
+   "Special-needs disability groups",
+   "Scheduled Tribe development groups",
+   "Educationally mobile groups",
+   "Socio-Economically Disadvantaged Groups"
+  ],
+  "answer": 3,
+  "exp_hi": "NEP 2020 में SEDG का अर्थ है — सामाजिक-आर्थिक रूप से वंचित समूह, जिनकी शिक्षा तक समान पहुँच सुनिश्चित करने पर नीति में विशेष बल दिया गया है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 19
+ },
+ {
+  "n": 405,
+  "subject": "Child Development",
+  "q_hi": "निदानात्मक परीक्षण के बाद विद्यार्थियों की कठिनाइयों को दूर करने के लिए किया जाने वाला शिक्षण क्या कहलाता है?",
+  "q_en": "The teaching done after diagnostic testing to remove the difficulties of learners is called —",
+  "options": [
+   "त्वरित शिक्षण",
+   "उपचारात्मक शिक्षण",
+   "संवर्धन शिक्षण",
+   "पुनरावृत्ति शिक्षण"
+  ],
+  "options_en": [
+   "Accelerated teaching",
+   "Remedial teaching",
+   "Enrichment teaching",
+   "Repetition teaching"
+  ],
+  "answer": 1,
+  "exp_hi": "पहले निदानात्मक परीक्षण से कठिनाई का कारण जाना जाता है, फिर उसी के अनुसार उपचारात्मक शिक्षण दिया जाता है — यह चिकित्सा के निदान और उपचार जैसा क्रम है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 20
+ },
+ {
+  "n": 406,
+  "subject": "Child Development",
+  "q_hi": "वृद्धि और विकास में मुख्य अंतर क्या है?",
+  "q_en": "What is the main difference between growth and development?",
+  "options": [
+   "दोनों का अर्थ एक ही है",
+   "वृद्धि मात्रात्मक होती है, विकास मात्रात्मक और गुणात्मक दोनों",
+   "विकास केवल शारीरिक होता है",
+   "वृद्धि जीवनभर चलती है, विकास नहीं"
+  ],
+  "options_en": [
+   "Both mean the same",
+   "Growth is quantitative, development is both quantitative and qualitative",
+   "Development is only physical",
+   "Growth goes on lifelong, development does not"
+  ],
+  "answer": 1,
+  "exp_hi": "वृद्धि से तात्पर्य आकार, लंबाई, भार आदि में मापन योग्य बढ़ोतरी से है, जबकि विकास में इनके साथ-साथ कौशल, व्यवहार और परिपक्वता जैसे गुणात्मक परिवर्तन भी आते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 21
+ },
+ {
+  "n": 407,
+  "subject": "Child Development",
+  "q_hi": "किशोर का यह मानना कि 'सब लोग मुझे ही देख रहे हैं', एलकिंड ने क्या कहा है?",
+  "q_en": "What did Elkind call an adolescent's belief that 'everyone is watching me only'?",
+  "options": [
+   "काल्पनिक दर्शक",
+   "व्यक्तिगत कल्पना-कथा",
+   "पहचान संकट",
+   "औपचारिक चिंतन"
+  ],
+  "options_en": [
+   "Imaginary audience",
+   "Personal fable",
+   "Identity crisis",
+   "Formal thinking"
+  ],
+  "answer": 0,
+  "exp_hi": "काल्पनिक दर्शक किशोर अहंकेंद्रितता का रूप है — किशोर मानता है कि अन्य लोग उसकी उपस्थिति और व्यवहार पर उसी तरह ध्यान दे रहे हैं, जैसा वह स्वयं देता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 22
+ },
+ {
+  "n": 408,
+  "subject": "Child Development",
+  "q_hi": "भाषा सीखने की 'क्रांतिक अवधि' (critical period) परिकल्पना किससे जुड़ी है?",
+  "q_en": "The 'critical period' hypothesis of language learning is associated with whom?",
+  "options": [
+   "चॉम्स्की",
+   "स्किनर",
+   "लेनेबर्ग",
+   "वाइगोत्स्की"
+  ],
+  "options_en": [
+   "Chomsky",
+   "Skinner",
+   "Lenneberg",
+   "Vygotsky"
+  ],
+  "answer": 2,
+  "exp_hi": "लेनेबर्ग के अनुसार भाषा सीखने की एक क्रांतिक अवधि (लगभग यौवनावस्था तक) होती है, जिसमें भाषा सहजता से सीखी जाती है; उसके बाद यह कठिन हो जाती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 23
+ },
+ {
+  "n": 409,
+  "subject": "Child Development",
+  "q_hi": "पार्टेन के खेल-विकास में वह अवस्था, जिसमें बच्चे साझा लक्ष्य के साथ भूमिकाएँ बाँटकर खेलते हैं, कौन-सी है?",
+  "q_en": "In Parten's stages of play, the stage in which children play with a shared goal by dividing roles is —",
+  "options": [
+   "समानांतर खेल",
+   "सहकारी खेल",
+   "साहचर्य खेल",
+   "एकांत खेल"
+  ],
+  "options_en": [
+   "Parallel play",
+   "Cooperative play",
+   "Associative play",
+   "Solitary play"
+  ],
+  "answer": 1,
+  "exp_hi": "सहकारी खेल खेल-विकास की सबसे विकसित अवस्था है — इसमें बच्चे समूह बनाकर, भूमिकाएँ तय करके और नियमों के साथ साझा लक्ष्य के लिए खेलते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 24
+ },
+ {
+  "n": 410,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सा माध्यमिक समाजीकरण का अभिकरण है?",
+  "q_en": "Which of the following is an agency of secondary socialisation?",
+  "options": [
+   "विद्यालय और जनसंचार माध्यम",
+   "परिवार",
+   "माता-पिता",
+   "संयुक्त परिवार के बुज़ुर्ग"
+  ],
+  "options_en": [
+   "School and mass media",
+   "Family",
+   "Parents",
+   "Elders of the joint family"
+  ],
+  "answer": 0,
+  "exp_hi": "परिवार प्राथमिक समाजीकरण का अभिकरण है; विद्यालय, सहपाठी समूह और जनसंचार माध्यम जीवन के बाद के चरणों में समाजीकरण करते हैं, इसलिए ये माध्यमिक अभिकरण हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 25
+ },
+ {
+  "n": 411,
+  "subject": "Child Development",
+  "q_hi": "शिक्षक की उच्च अपेक्षाओं से विद्यार्थी का प्रदर्शन सचमुच सुधर जाना किस प्रभाव का उदाहरण है?",
+  "q_en": "A student's performance actually improving because of the teacher's high expectations is an example of which effect?",
+  "options": [
+   "हॉथोर्न प्रभाव",
+   "विलोपन प्रभाव",
+   "स्थानांतरण प्रभाव",
+   "पिग्मेलियन प्रभाव"
+  ],
+  "options_en": [
+   "Hawthorne effect",
+   "Extinction effect",
+   "Transfer effect",
+   "Pygmalion effect"
+  ],
+  "answer": 3,
+  "exp_hi": "पिग्मेलियन प्रभाव में शिक्षक की सकारात्मक अपेक्षाएँ विद्यार्थी के व्यवहार और प्रदर्शन को सचमुच बेहतर बना देती हैं — इसे शिक्षक-अपेक्षा प्रभाव भी कहते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 26
+ },
+ {
+  "n": 412,
+  "subject": "Child Development",
+  "q_hi": "प्रामाणिक आकलन का सही उदाहरण कौन-सा है?",
+  "q_en": "Which is a correct example of authentic assessment?",
+  "options": [
+   "विद्यार्थी वास्तविक जीवन की समस्या पर परियोजना कार्य करके दिखाए",
+   "केवल बहुविकल्पीय परीक्षा देना",
+   "पाठ मौखिक रटकर सुनाना",
+   "केवल वार्षिक परीक्षा के अंक"
+  ],
+  "options_en": [
+   "The student demonstrates through a project work on a real-life problem",
+   "Only taking a multiple-choice test",
+   "Reciting the lesson orally by rote",
+   "Only the annual examination marks"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रामाणिक आकलन में विद्यार्थी अपने ज्ञान का प्रयोग वास्तविक परिस्थितियों जैसे कार्य — परियोजना, प्रयोग, प्रस्तुति — द्वारा करके दिखाता है, केवल रटे उत्तर नहीं देता।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 27
+ },
+ {
+  "n": 413,
+  "subject": "Child Development",
+  "q_hi": "डिस्लेक्सिया वाले बच्चों के लिए बहु-संवेदी उपागम 'VAKT' में 'K' किससे संबंधित है?",
+  "q_en": "In the multi-sensory approach 'VAKT' for children with dyslexia, what does 'K' relate to?",
+  "options": [
+   "केवल दृश्य माध्यम",
+   "केवल श्रवण माध्यम",
+   "गतिबोधक (स्पर्श और गति द्वारा सीखना)",
+   "मौखिक अभ्यास"
+  ],
+  "options_en": [
+   "Only the visual medium",
+   "Only the auditory medium",
+   "Kinaesthetic (learning through touch and movement)",
+   "Oral drill"
+  ],
+  "answer": 2,
+  "exp_hi": "VAKT में V = दृश्य, A = श्रवण, K = गतिबोधक (स्पर्श-गति) और T = स्पर्श-संबंधी अनुभव — बच्चा अक्षरों को छूकर और बनाकर सीखता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 28
+ },
+ {
+  "n": 414,
+  "subject": "Child Development",
+  "q_hi": "पार्श्व चिंतन (lateral thinking) की अवधारणा किसने दी?",
+  "q_en": "Who gave the concept of lateral thinking?",
+  "options": [
+   "ई. पॉल टॉरेंस",
+   "एडवर्ड डी बोनो",
+   "जे. पी. गिलफोर्ड",
+   "रॉबर्ट स्टर्नबर्ग"
+  ],
+  "options_en": [
+   "E. Paul Torrance",
+   "Edward de Bono",
+   "J. P. Guilford",
+   "Robert Sternberg"
+  ],
+  "answer": 1,
+  "exp_hi": "एडवर्ड डी बोनो ने पार्श्व चिंतन की अवधारणा दी — इसमें समस्या को सीधी तर्क-पंक्ति से हटकर नए और अप्रत्याशित कोणों से देखा जाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 29
+ },
+ {
+  "n": 415,
+  "subject": "Child Development",
+  "q_hi": "प्रश्न पूछने के बाद शिक्षक द्वारा उत्तर हेतु दिया जाने वाला सोचने का समय (प्रतीक्षा समय) बढ़ाने से क्या होता है?",
+  "q_en": "What happens when the teacher increases the 'wait time' given for thinking after asking a question?",
+  "options": [
+   "विद्यार्थी अधिक सोचे-समझे और विस्तृत उत्तर देते हैं",
+   "कक्षा में शोर बढ़ता है",
+   "पाठ कभी पूरा नहीं होता",
+   "केवल तेज़ विद्यार्थी ही उत्तर देते हैं"
+  ],
+  "options_en": [
+   "Students give more thoughtful and elaborate answers",
+   "Noise increases in the class",
+   "The lesson never gets completed",
+   "Only fast learners answer"
+  ],
+  "answer": 0,
+  "exp_hi": "पर्याप्त प्रतीक्षा समय मिलने पर विद्यार्थी प्रश्न पर विचार करके अधिक तर्कपूर्ण, लंबे और आत्मविश्वास भरे उत्तर देते हैं तथा अधिक विद्यार्थी भाग लेते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 30
+ },
+ {
+  "n": 416,
+  "subject": "Language-I",
+  "q_hi": "'पुस्तकालय' शब्द का सही संधि-विच्छेद कौन-सा है?",
+  "q_en": "What is the correct sandhi-viccheda of the word 'पुस्तकालय'?",
+  "options": [
+   "पुस्तक + अलय",
+   "पुस्तका + लय",
+   "पुस्तक + आलय",
+   "पुस्त + कालय"
+  ],
+  "options_en": [
+   "Pustak + Alaya",
+   "Pustaka + Laya",
+   "Pustak + Aalaya",
+   "Pust + Kalaya"
+  ],
+  "answer": 2,
+  "exp_hi": "पुस्तक + आलय = पुस्तकालय — 'अ + आ = आ' होने से यह दीर्घ संधि का उदाहरण है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 31
+ },
+ {
+  "n": 417,
+  "subject": "Language-I",
+  "q_hi": "'दशानन' शब्द में कौन-सा समास है?",
+  "q_en": "Which samaas is there in the word 'दशानन'?",
+  "options": [
+   "द्विगु समास",
+   "तत्पुरुष समास",
+   "द्वन्द्व समास",
+   "बहुव्रीहि समास"
+  ],
+  "options_en": [
+   "Dvigu samaas",
+   "Tatpurusha samaas",
+   "Dvandva samaas",
+   "Bahuvrihi samaas"
+  ],
+  "answer": 3,
+  "exp_hi": "दशानन = दस हैं आनन (मुख) जिसके — अर्थात रावण। इसमें कोई पद प्रधान न होकर अन्य पदार्थ (रावण) प्रधान है, इसलिए यह बहुव्रीहि समास है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 32
+ },
+ {
+  "n": 418,
+  "subject": "Language-I",
+  "q_hi": "'सागर' शब्द का पर्यायवाची कौन-सा है?",
+  "q_en": "Which is a synonym of the word 'सागर'?",
+  "options": [
+   "रत्नाकर",
+   "सरिता",
+   "तड़ाग",
+   "निर्झर"
+  ],
+  "options_en": [
+   "Ratnakar",
+   "Sarita",
+   "Tadag",
+   "Nirjhar"
+  ],
+  "answer": 0,
+  "exp_hi": "सागर के पर्यायवाची हैं — समुद्र, रत्नाकर, जलधि, सिंधु। सरिता = नदी, तड़ाग = तालाब, निर्झर = झरना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 33
+ },
+ {
+  "n": 419,
+  "subject": "Language-I",
+  "q_hi": "'कृतज्ञ' शब्द का विलोम कौन-सा है?",
+  "q_en": "Which is the antonym of the word 'कृतज्ञ'?",
+  "options": [
+   "कृतार्थ",
+   "कृतघ्न",
+   "कृतकृत्य",
+   "ऋणी"
+  ],
+  "options_en": [
+   "Kritarth",
+   "Kritaghna",
+   "Kritkritya",
+   "Rini"
+  ],
+  "answer": 1,
+  "exp_hi": "कृतज्ञ का अर्थ है उपकार मानने वाला और कृतघ्न का अर्थ है उपकार न मानने वाला — अतः कृतज्ञ का विलोम कृतघ्न है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 34
+ },
+ {
+  "n": 420,
+  "subject": "Language-I",
+  "q_hi": "'अनुशासन' शब्द में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "q_en": "Which prefix is used in the word 'अनुशासन'?",
+  "options": [
+   "अन्",
+   "अ",
+   "शासन",
+   "अनु"
+  ],
+  "options_en": [
+   "An",
+   "A",
+   "Shasan",
+   "Anu"
+  ],
+  "answer": 3,
+  "exp_hi": "अनुशासन = अनु + शासन — इसमें 'अनु' उपसर्ग है, जिसका अर्थ है पीछे या अनुसार।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 35
+ },
+ {
+  "n": 421,
+  "subject": "Language-I",
+  "q_hi": "'वह कलम से पत्र लिखता है।' इस वाक्य में 'से' किस कारक का चिह्न है?",
+  "q_en": "In the sentence 'वह कलम से पत्र लिखता है।', 'से' is the marker of which karaka?",
+  "options": [
+   "अपादान कारक",
+   "संबंध कारक",
+   "करण कारक",
+   "अधिकरण कारक"
+  ],
+  "options_en": [
+   "Apadan karaka",
+   "Sambandh karaka",
+   "Karan karaka",
+   "Adhikaran karaka"
+  ],
+  "answer": 2,
+  "exp_hi": "जिस साधन से क्रिया की जाती है, वह करण कारक होता है — यहाँ लिखने का साधन कलम है और उसका चिह्न 'से' है, अतः यह करण कारक है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 36
+ },
+ {
+  "n": 422,
+  "subject": "Language-I",
+  "q_hi": "'थोड़ा पानी पियो।' इस वाक्य में 'थोड़ा' किस प्रकार का विशेषण है?",
+  "q_en": "In the sentence 'थोड़ा पानी पियो।', what type of adjective is 'थोड़ा'?",
+  "options": [
+   "संख्यावाचक विशेषण",
+   "परिमाणवाचक विशेषण",
+   "गुणवाचक विशेषण",
+   "सार्वनामिक विशेषण"
+  ],
+  "options_en": [
+   "Sankhyavachak visheshan",
+   "Parimanvachak visheshan",
+   "Gunvachak visheshan",
+   "Sarvanamik visheshan"
+  ],
+  "answer": 1,
+  "exp_hi": "जो विशेषण किसी वस्तु की मात्रा या परिमाण बताए, वह परिमाणवाचक विशेषण होता है — 'थोड़ा' पानी की मात्रा बता रहा है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 37
+ },
+ {
+  "n": 423,
+  "subject": "Language-I",
+  "q_hi": "निम्नलिखित में से किस वाक्य में अकर्मक क्रिया है?",
+  "q_en": "In which of the following sentences is the verb intransitive (akarmak)?",
+  "options": [
+   "बच्चा सोता है।",
+   "बच्चा दूध पीता है।",
+   "माँ खाना बनाती है।",
+   "वह पत्र लिखता है।"
+  ],
+  "options_en": [
+   "The child sleeps.",
+   "The child drinks milk.",
+   "Mother cooks food.",
+   "He writes a letter."
+  ],
+  "answer": 0,
+  "exp_hi": "'सोना' क्रिया का कोई कर्म नहीं है — 'क्या सोता है?' का उत्तर नहीं मिलता, अतः यह अकर्मक क्रिया है। बाकी वाक्यों में दूध, खाना और पत्र कर्म हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 38
+ },
+ {
+  "n": 424,
+  "subject": "Language-I",
+  "q_hi": "'हाथ मलना' मुहावरे का सही अर्थ क्या है?",
+  "q_en": "What is the correct meaning of the idiom 'हाथ मलना'?",
+  "options": [
+   "मेहनत करना",
+   "स्वागत करना",
+   "पछताना",
+   "हाथ धोना"
+  ],
+  "options_en": [
+   "To work hard",
+   "To welcome",
+   "To repent",
+   "To wash hands"
+  ],
+  "answer": 2,
+  "exp_hi": "'हाथ मलना' मुहावरे का अर्थ है — अवसर निकल जाने के बाद पछताना या अफ़सोस करना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 39
+ },
+ {
+  "n": 425,
+  "subject": "Language-I",
+  "q_hi": "प्राथमिक स्तर पर कविता शिक्षण का मुख्य उद्देश्य क्या होना चाहिए?",
+  "q_en": "What should be the main objective of teaching poetry at the primary level?",
+  "options": [
+   "कविता कंठस्थ करवाना",
+   "कठिन शब्दों के अर्थ रटवाना",
+   "व्याकरण के नियम सिखाना",
+   "बच्चों में भाषा का आनंद, लय और कल्पना का विकास"
+  ],
+  "options_en": [
+   "Making children memorise the poem",
+   "Making children cram the meanings of difficult words",
+   "Teaching the rules of grammar",
+   "Developing love for language, rhythm and imagination in children"
+  ],
+  "answer": 3,
+  "exp_hi": "प्राथमिक स्तर पर कविता का उद्देश्य भाषा से प्रेम, लय-ताल की अनुभूति और कल्पना का विकास है — कविता को रटवाना या उसका व्याकरण-विश्लेषण इस स्तर का उद्देश्य नहीं है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 40
+ },
+ {
+  "n": 426,
+  "subject": "Language-II",
+  "q_hi": "'Expand' शब्द का विलोम (antonym) चुनिए।",
+  "q_en": "Choose the antonym of 'Expand'.",
+  "options": [
+   "Extend",
+   "Contract",
+   "Enlarge",
+   "Stretch"
+  ],
+  "options_en": [
+   "Extend",
+   "Contract",
+   "Enlarge",
+   "Stretch"
+  ],
+  "answer": 1,
+  "exp_hi": "'Expand' का अर्थ है फैलाना या विस्तार करना और इसका विलोम 'Contract' अर्थात सिकुड़ना या संकुचित होना है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 41
+ },
+ {
+  "n": 427,
+  "subject": "Language-II",
+  "q_hi": "'Candid' शब्द का समानार्थी (synonym) चुनिए।",
+  "q_en": "Choose the synonym of 'Candid'.",
+  "options": [
+   "Clever",
+   "Rude",
+   "Frank",
+   "Timid"
+  ],
+  "options_en": [
+   "Clever",
+   "Rude",
+   "Frank",
+   "Timid"
+  ],
+  "answer": 2,
+  "exp_hi": "'Candid' का अर्थ है स्पष्टवादी या खुलकर कहने वाला — इसका समानार्थी 'Frank' है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 42
+ },
+ {
+  "n": 428,
+  "subject": "Language-II",
+  "q_hi": "सही preposition चुनिए: 'He congratulated me ___ my success.'",
+  "q_en": "Choose the correct preposition: 'He congratulated me ___ my success.'",
+  "options": [
+   "on",
+   "for",
+   "at",
+   "by"
+  ],
+  "options_en": [
+   "on",
+   "for",
+   "at",
+   "by"
+  ],
+  "answer": 0,
+  "exp_hi": "किसी की सफलता पर बधाई देने के लिए 'congratulate someone on something' का प्रयोग होता है — अतः सही preposition 'on' है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 43
+ },
+ {
+  "n": 429,
+  "subject": "Language-II",
+  "q_hi": "'The train ___ before we reached the station.' सही क्रिया-रूप चुनिए।",
+  "q_en": "'The train ___ before we reached the station.' Choose the correct verb form.",
+  "options": [
+   "has left",
+   "leaves",
+   "will leave",
+   "had left"
+  ],
+  "options_en": [
+   "has left",
+   "leaves",
+   "will leave",
+   "had left"
+  ],
+  "answer": 3,
+  "exp_hi": "जब भूतकाल की दो क्रियाओं में एक पहले पूरी हो चुकी हो, तो पहले वाली क्रिया के लिए past perfect (had + V3) आता है — ट्रेन पहले ही जा चुकी थी, इसलिए 'had left' सही है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 44
+ },
+ {
+  "n": 430,
+  "subject": "Language-II",
+  "q_hi": "'They are repairing the road.' का सही passive voice चुनिए।",
+  "q_en": "Choose the correct passive voice of: 'They are repairing the road.'",
+  "options": [
+   "The road is repaired.",
+   "The road was being repaired.",
+   "The road is being repaired.",
+   "The road has been repaired."
+  ],
+  "options_en": [
+   "The road is repaired.",
+   "The road was being repaired.",
+   "The road is being repaired.",
+   "The road has been repaired."
+  ],
+  "answer": 2,
+  "exp_hi": "वाक्य present continuous tense में है — इसका passive 'is being + V3' बनता है, अतः 'The road is being repaired.' सही है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 45
+ },
+ {
+  "n": 431,
+  "subject": "Language-II",
+  "q_hi": "He said, \"What a beautiful scene!\" का सही indirect speech चुनिए।",
+  "q_en": "Choose the correct indirect speech of: He said, \"What a beautiful scene!\"",
+  "options": [
+   "He said that what a beautiful scene.",
+   "He exclaimed with joy that it was a very beautiful scene.",
+   "He asked if it was a beautiful scene.",
+   "He told that it is a beautiful scene."
+  ],
+  "options_en": [
+   "He said that what a beautiful scene.",
+   "He exclaimed with joy that it was a very beautiful scene.",
+   "He asked if it was a beautiful scene.",
+   "He told that it is a beautiful scene."
+  ],
+  "answer": 1,
+  "exp_hi": "विस्मयादिबोधक वाक्य के indirect speech में 'exclaimed with joy' का प्रयोग होता है और वाक्य साधारण कथन में बदल जाता है — 'it was a very beautiful scene'।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 46
+ },
+ {
+  "n": 432,
+  "subject": "Language-II",
+  "q_hi": "'___ you live long!' शुभकामना व्यक्त करने के लिए सही modal चुनिए।",
+  "q_en": "'___ you live long!' Choose the correct modal to express a wish.",
+  "options": [
+   "Will",
+   "Shall",
+   "Must",
+   "May"
+  ],
+  "options_en": [
+   "Will",
+   "Shall",
+   "Must",
+   "May"
+  ],
+  "answer": 3,
+  "exp_hi": "शुभकामना या आशीर्वाद देने के लिए वाक्य के आरंभ में 'May' का प्रयोग होता है — 'May you live long!' अर्थात 'तुम दीर्घायु हो!'",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 47
+ },
+ {
+  "n": 433,
+  "subject": "Language-II",
+  "q_hi": "'To smell a rat' मुहावरे का अर्थ क्या है?",
+  "q_en": "What does the idiom 'To smell a rat' mean?",
+  "options": [
+   "To suspect that something is wrong",
+   "To catch a thief",
+   "To keep a pet",
+   "To cook food"
+  ],
+  "options_en": [
+   "To suspect that something is wrong",
+   "To catch a thief",
+   "To keep a pet",
+   "To cook food"
+  ],
+  "answer": 0,
+  "exp_hi": "'To smell a rat' का अर्थ है — किसी गड़बड़ी या धोखे का संदेह होना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 48
+ },
+ {
+  "n": 434,
+  "subject": "Language-II",
+  "q_hi": "One-word substitute चुनिए: 'A speech delivered without any preparation'.",
+  "q_en": "Choose the one-word substitution: 'A speech delivered without any preparation'.",
+  "options": [
+   "Oration",
+   "Debate",
+   "Extempore",
+   "Elocution"
+  ],
+  "options_en": [
+   "Oration",
+   "Debate",
+   "Extempore",
+   "Elocution"
+  ],
+  "answer": 2,
+  "exp_hi": "बिना तैयारी के दिया गया भाषण 'Extempore' कहलाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 49
+ },
+ {
+  "n": 435,
+  "subject": "Language-II",
+  "q_hi": "निम्नलिखित में से कौन-सा intensive reading का उदाहरण है?",
+  "q_en": "Which of the following is an example of intensive reading?",
+  "options": [
+   "Reading a novel for pleasure",
+   "Reading a short text carefully to answer detailed comprehension questions",
+   "Quickly going through a newspaper",
+   "Reading many storybooks in the library period"
+  ],
+  "options_en": [
+   "Reading a novel for pleasure",
+   "Reading a short text carefully to answer detailed comprehension questions",
+   "Quickly going through a newspaper",
+   "Reading many storybooks in the library period"
+  ],
+  "answer": 1,
+  "exp_hi": "Intensive reading में छोटे पाठ को ध्यानपूर्वक, भाषा और विवरण समझने के लिए पढ़ा जाता है; आनंद के लिए विस्तृत पठन extensive reading कहलाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 50
+ }
+]
