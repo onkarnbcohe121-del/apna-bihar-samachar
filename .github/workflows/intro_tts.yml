@@ -1,0 +1,26 @@
+name: Intro TTS (Leda)
+on:
+  workflow_dispatch:
+jobs:
+  intro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install google-genai
+      - name: Generate intro in Leda voice
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python intro_tts.py
+      - name: Save intro audio
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add intro/intro_leda.wav intro/intro_leda.mp3
+          git commit -m "Add Leda channel intro audio" || echo "nothing to commit"
+          git push
