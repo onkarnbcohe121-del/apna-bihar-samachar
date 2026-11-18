@@ -1,0 +1,1072 @@
+[
+ {
+  "n": 201,
+  "subject": "Child Development",
+  "q_hi": "किंडरगार्टन (बालवाड़ी) पद्धति के प्रवर्तक कौन हैं?",
+  "q_en": "Who is the founder of the Kindergarten method?",
+  "options": [
+   "मॉन्टेसरी",
+   "फ्रॉबेल",
+   "किलपैट्रिक",
+   "जॉन डेवी"
+  ],
+  "options_en": [
+   "Montessori",
+   "Froebel",
+   "Kilpatrick",
+   "John Dewey"
+  ],
+  "answer": 1,
+  "exp_hi": "जर्मन शिक्षाविद् फ्रॉबेल ने किंडरगार्टन (बच्चों का बगीचा) पद्धति शुरू की, जिसमें खेल और गतिविधियों द्वारा शिक्षा पर बल दिया गया।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 1
+ },
+ {
+  "n": 202,
+  "subject": "Child Development",
+  "q_hi": "'करके सीखना' (Learning by Doing) के सिद्धांत पर सर्वाधिक बल किस शिक्षाविद् ने दिया?",
+  "q_en": "Which educationist laid the greatest emphasis on the principle of 'Learning by Doing'?",
+  "options": [
+   "जॉन डेवी",
+   "रूसो",
+   "प्लेटो",
+   "हरबर्ट स्पेंसर"
+  ],
+  "options_en": [
+   "John Dewey",
+   "Rousseau",
+   "Plato",
+   "Herbert Spencer"
+  ],
+  "answer": 0,
+  "exp_hi": "जॉन डेवी के प्रयोजनवाद (प्रैग्मेटिज़्म) में बच्चा अपने अनुभवों और क्रियाओं द्वारा स्वयं करके सीखता है; शिक्षक केवल मार्गदर्शक होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 2
+ },
+ {
+  "n": 203,
+  "subject": "Child Development",
+  "q_hi": "पूर्व-संक्रियात्मक अवस्था (2–7 वर्ष) का बच्चा दूसरों के दृष्टिकोण को समझ नहीं पाता और हर बात को अपने नज़रिए से ही देखता है। पियाजे ने इसे क्या कहा है?",
+  "q_en": "A child in the pre-operational stage (2–7 years) cannot understand others' viewpoints and sees everything from his own perspective only. What has Piaget called this?",
+  "options": [
+   "संरक्षण की समझ",
+   "प्रतिवर्ती चिंतन",
+   "आत्मकेंद्रिता",
+   "वर्गीकरण की क्षमता"
+  ],
+  "options_en": [
+   "Understanding of conservation",
+   "Reversible thinking",
+   "Egocentrism",
+   "Ability to classify"
+  ],
+  "answer": 2,
+  "exp_hi": "पूर्व-संक्रियात्मक अवस्था की मुख्य विशेषता आत्मकेंद्रिता (egocentrism) है — बच्चा मानता है कि सब उसी की तरह सोचते और देखते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 3
+ },
+ {
+  "n": 204,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के अनुसार 'MKO' (More Knowledgeable Other — अधिक जानकार अन्य) से क्या अभिप्राय है?",
+  "q_en": "According to Vygotsky, what is meant by 'MKO' (More Knowledgeable Other)?",
+  "options": [
+   "कक्षा का सबसे बड़ा बच्चा",
+   "केवल पाठ्यपुस्तक",
+   "केवल कंप्यूटर",
+   "कोई भी व्यक्ति जो बच्चे की तुलना में अधिक कुशल हो और उसका मार्गदर्शन कर सके"
+  ],
+  "options_en": [
+   "The eldest child of the class",
+   "Only the textbook",
+   "Only a computer",
+   "Any person who is more skilled than the child and can guide him/her"
+  ],
+  "answer": 3,
+  "exp_hi": "MKO वह शिक्षक, अभिभावक या साथी होता है जो बच्चे से अधिक जानकार हो और सहायता देकर उसे समीपस्थ विकास क्षेत्र (ZPD) में आगे बढ़ाए।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 4
+ },
+ {
+  "n": 205,
+  "subject": "Child Development",
+  "q_hi": "'अभिक्रमित अनुदेशन' (Programmed Instruction) के जनक कौन माने जाते हैं?",
+  "q_en": "Who is considered the father of 'Programmed Instruction'?",
+  "options": [
+   "पावलव",
+   "स्किनर",
+   "थॉर्नडाइक",
+   "वॉटसन"
+  ],
+  "options_en": [
+   "Pavlov",
+   "Skinner",
+   "Thorndike",
+   "Watson"
+  ],
+  "answer": 1,
+  "exp_hi": "बी.एफ. स्किनर ने शिक्षण मशीन और अभिक्रमित अनुदेशन दिया, जिसमें विषय-वस्तु छोटे-छोटे चरणों में बाँटकर तत्काल प्रतिपुष्टि दी जाती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 5
+ },
+ {
+  "n": 206,
+  "subject": "Child Development",
+  "q_hi": "किसी परीक्षण में बच्चे के प्रदर्शन की तुलना उसके समूह के अन्य बच्चों के प्रदर्शन से की जाती है। यह कौन-सा परीक्षण है?",
+  "q_en": "In a test, a child's performance is compared with the performance of other children of his group. Which test is this?",
+  "options": [
+   "मानक-संदर्भित परीक्षण",
+   "मानदंड-संदर्भित परीक्षण",
+   "निदानात्मक परीक्षण",
+   "रचनात्मक परीक्षण"
+  ],
+  "options_en": [
+   "Norm-referenced test",
+   "Criterion-referenced test",
+   "Diagnostic test",
+   "Formative test"
+  ],
+  "answer": 0,
+  "exp_hi": "मानक-संदर्भित (norm-referenced) परीक्षण में बच्चे की स्थिति समूह के औसत/मानक से तुलना करके बताई जाती है, जबकि मानदंड-संदर्भित में तुलना निश्चित मानदंड से होती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 6
+ },
+ {
+  "n": 207,
+  "subject": "Child Development",
+  "q_hi": "कक्षा में एक दृष्टिबाधित बच्चा पढ़ता है। शिक्षक को उसके लिए कौन-सी व्यवस्था करनी चाहिए?",
+  "q_en": "A visually impaired child studies in the class. Which arrangement should the teacher make for him?",
+  "options": [
+   "उसे अन्य बच्चों से अलग कमरे में पढ़ाना",
+   "उसे केवल गृहकार्य से छूट देना",
+   "बड़े अक्षरों वाली/ब्रेल सामग्री देना, आगे बैठाना और पाठ का मौखिक वर्णन करना",
+   "उससे केवल सुनने का कार्य कराना"
+  ],
+  "options_en": [
+   "Teach him in a separate room away from other children",
+   "Exempt him from homework only",
+   "Provide large-print/Braille material, seat him in front and describe the lesson orally",
+   "Make him only listen"
+  ],
+  "answer": 2,
+  "exp_hi": "दृष्टिबाधित बच्चे को समावेशी कक्षा में ब्रेल/बड़े अक्षरों की सामग्री, आगे की सीट और शिक्षक का स्पष्ट मौखिक वर्णन मिलना चाहिए, ताकि वह अन्य बच्चों के साथ सीख सके।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 7
+ },
+ {
+  "n": 208,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा कक्षा में साथियों और शिक्षक से प्रशंसा व सम्मान पाने का प्रयास करता है। मास्लो के आवश्यकता-क्रम के अनुसार यह कौन-सी आवश्यकता है?",
+  "q_en": "A child tries to get praise and respect from classmates and the teacher. According to Maslow's hierarchy of needs, which need is this?",
+  "options": [
+   "शारीरिक आवश्यकता",
+   "सुरक्षा की आवश्यकता",
+   "स्नेह व अपनापन की आवश्यकता",
+   "आत्म-सम्मान की आवश्यकता"
+  ],
+  "options_en": [
+   "Physiological need",
+   "Safety need",
+   "Love and belongingness need",
+   "Esteem (self-respect) need"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रशंसा, सम्मान और पहचान की चाह मास्लो के क्रम में चौथे स्तर की आत्म-सम्मान (esteem) आवश्यकता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 8
+ },
+ {
+  "n": 209,
+  "subject": "Child Development",
+  "q_hi": "टॉलमैन के अनुसार चूहा भूलभुलैया में घूमते हुए उसके रास्तों का 'संज्ञानात्मक मानचित्र' बना लेता है और बिना किसी पुरस्कार के भी सीख लेता है। इस प्रकार के सीखने को क्या कहते हैं?",
+  "q_en": "According to Tolman, while moving in a maze the rat forms a 'cognitive map' of its paths and learns even without any reward. What is this type of learning called?",
+  "options": [
+   "शास्त्रीय अनुबंधन",
+   "अंतर्दृष्टि अधिगम",
+   "अनुकरण अधिगम",
+   "अव्यक्त अधिगम"
+  ],
+  "options_en": [
+   "Classical conditioning",
+   "Insight learning",
+   "Imitation learning",
+   "Latent learning"
+  ],
+  "answer": 3,
+  "exp_hi": "बिना पुरस्कार के, आवश्यकता पड़ने पर प्रकट होने वाला सीखना अव्यक्त अधिगम (latent learning) कहलाता है; टॉलमैन ने इसे संज्ञानात्मक मानचित्र से जोड़ा।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 9
+ },
+ {
+  "n": 210,
+  "subject": "Child Development",
+  "q_hi": "शिशु पहले पूरी हथेली से वस्तु पकड़ता है, बाद में उँगलियों के सिरों से पकड़ने लगता है। यह विकास के किस सिद्धांत को दर्शाता है?",
+  "q_en": "An infant first grasps an object with the whole palm and later starts holding it with the fingertips. Which principle of development does this show?",
+  "options": [
+   "सामान्य से विशिष्ट की ओर विकास",
+   "सिर से पाँव की ओर विकास",
+   "केंद्र से परिधि की ओर विकास",
+   "सरल से जटिल की ओर विकास"
+  ],
+  "options_en": [
+   "Development from general to specific",
+   "Development from head to toe",
+   "Development from centre to periphery",
+   "Development from simple to complex"
+  ],
+  "answer": 0,
+  "exp_hi": "विकास सामान्य क्रियाओं से विशिष्ट क्रियाओं की ओर बढ़ता है — पहले पूरे हाथ की पकड़ (सामान्य), फिर उँगलियों की सूक्ष्म पकड़ (विशिष्ट)।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 10
+ },
+ {
+  "n": 211,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के अनुसार 'बुनियादी चरण' (Foundational Stage) में किस आयु-वर्ग के बच्चे आते हैं?",
+  "q_en": "According to the National Education Policy (NEP) 2020, children of which age group come under the 'Foundational Stage'?",
+  "options": [
+   "6–11 वर्ष",
+   "8–11 वर्ष",
+   "3–8 वर्ष",
+   "11–14 वर्ष"
+  ],
+  "options_en": [
+   "6–11 years",
+   "8–11 years",
+   "3–8 years",
+   "11–14 years"
+  ],
+  "answer": 2,
+  "exp_hi": "NEP 2020 की 5+3+3+4 संरचना में बुनियादी चरण 3–8 वर्ष का है — इसमें 3 वर्ष की पूर्व-प्राथमिक शिक्षा और कक्षा 1–2 शामिल हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 11
+ },
+ {
+  "n": 212,
+  "subject": "Child Development",
+  "q_hi": "उत्तर बाल्यावस्था (6–12 वर्ष) को 'टोली अवस्था' (Gang Age) क्यों कहा जाता है?",
+  "q_en": "Why is late childhood (6–12 years) called the 'Gang Age'?",
+  "options": [
+   "बच्चे अकेले रहना पसंद करते हैं",
+   "बच्चे अपने साथी-समूह (टोली) के प्रति अत्यंत निष्ठावान होते हैं",
+   "बच्चे खेल में रुचि नहीं लेते",
+   "बच्चे केवल माता-पिता की बात मानते हैं"
+  ],
+  "options_en": [
+   "Children like to stay alone",
+   "Children are extremely loyal to their peer group (gang)",
+   "Children lose interest in play",
+   "Children obey only their parents"
+  ],
+  "answer": 1,
+  "exp_hi": "इस अवस्था में बच्चा अपने मित्र-समूह से गहराई से जुड़ता है, समूह के नियमों को मानता है और टोली के प्रति निष्ठा दिखाता है, इसलिए इसे टोली अवस्था कहते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 12
+ },
+ {
+  "n": 213,
+  "subject": "Child Development",
+  "q_hi": "सृजनात्मकता के किस घटक का संबंध किसी विषय पर सबसे अधिक संख्या में विचार प्रस्तुत करने से है?",
+  "q_en": "Which component of creativity is related to producing the largest number of ideas on a topic?",
+  "options": [
+   "लचीलापन",
+   "मौलिकता",
+   "विस्तारण",
+   "प्रवाहिता"
+  ],
+  "options_en": [
+   "Flexibility",
+   "Originality",
+   "Elaboration",
+   "Fluency"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रवाहिता (fluency) का अर्थ है — कम समय में अधिक से अधिक विचार देना; लचीलापन विचारों की विविधता और मौलिकता उनकी नवीनता को दर्शाती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 13
+ },
+ {
+  "n": 214,
+  "subject": "Child Development",
+  "q_hi": "शिक्षा का अधिकार अधिनियम (RTE) 2009 के अनुसार कक्षा 1 से 5 तक के लिए निर्धारित शिक्षक-छात्र अनुपात कितना है?",
+  "q_en": "According to the Right to Education (RTE) Act 2009, what is the prescribed pupil-teacher ratio for classes 1 to 5?",
+  "options": [
+   "1:30",
+   "1:35",
+   "1:40",
+   "1:45"
+  ],
+  "options_en": [
+   "1:30",
+   "1:35",
+   "1:40",
+   "1:45"
+  ],
+  "answer": 0,
+  "exp_hi": "RTE 2009 के मानदंडों के अनुसार प्राथमिक स्तर (कक्षा 1–5) पर 30 बच्चों पर एक शिक्षक (1:30) का अनुपात निर्धारित है; उच्च प्राथमिक (6–8) के लिए यह 1:35 है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 14
+ },
+ {
+  "n": 215,
+  "subject": "Maths",
+  "q_hi": "संख्या 4,07,382 में अंक 7 किस मान को दर्शाता है?",
+  "q_en": "In the number 4,07,382, the digit 7 stands for —",
+  "options": [
+   "700",
+   "70,000",
+   "7,000",
+   "7"
+  ],
+  "options_en": [
+   "700",
+   "70,000",
+   "7,000",
+   "7"
+  ],
+  "answer": 2,
+  "exp_hi": "4,07,382 में 7 हज़ार के स्थान पर है, अतः उसका स्थानीय मान 7 × 1,000 = 7,000 है। (अंक का अपना मान 7 उसका अंकित मान है।)",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 15
+ },
+ {
+  "n": 216,
+  "subject": "Maths",
+  "q_hi": "भिन्नों 2/3 और 1/6 का योग कितना है?",
+  "q_en": "What is the sum of the fractions 2/3 and 1/6?",
+  "options": [
+   "5/6",
+   "3/9",
+   "2/9",
+   "1/3"
+  ],
+  "options_en": [
+   "5/6",
+   "3/9",
+   "2/9",
+   "1/3"
+  ],
+  "answer": 0,
+  "exp_hi": "2/3 = 4/6 होता है; 4/6 + 1/6 = 5/6।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 16
+ },
+ {
+  "n": 217,
+  "subject": "Maths",
+  "q_hi": "एक बोतल में 2.4 लीटर पानी है। आधी बोतल में कितना पानी होगा?",
+  "q_en": "A bottle holds 2.4 litres of water. How much water will there be in half the bottle?",
+  "options": [
+   "12 लीटर",
+   "1.2 लीटर",
+   "0.12 लीटर",
+   "2.9 लीटर"
+  ],
+  "options_en": [
+   "12 litres",
+   "1.2 litres",
+   "0.12 litres",
+   "2.9 litres"
+  ],
+  "answer": 1,
+  "exp_hi": "आधी बोतल = 2.4 × 0.5; 24 × 5 = 120 और दो दशमलव स्थानों से 2.4 × 0.5 = 1.20 = 1.2 लीटर।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 17
+ },
+ {
+  "n": 218,
+  "subject": "Maths",
+  "q_hi": "एक दुकानदार ₹600 मूल्य की घड़ी पर 10% छूट देता है। ग्राहक को घड़ी के लिए कितने रुपये देने होंगे?",
+  "q_en": "A shopkeeper offers a discount of 10% on a watch priced at ₹600. How much will the customer pay for the watch?",
+  "options": [
+   "₹590",
+   "₹560",
+   "₹660",
+   "₹540"
+  ],
+  "options_en": [
+   "₹590",
+   "₹560",
+   "₹660",
+   "₹540"
+  ],
+  "answer": 3,
+  "exp_hi": "छूट = 600 का 10% = ₹60; अतः ग्राहक को 600 − 60 = ₹540 देने होंगे।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 18
+ },
+ {
+  "n": 219,
+  "subject": "Maths",
+  "q_hi": "एक रेलगाड़ी सुबह 9:45 बजे चलकर दोपहर 1:30 बजे पहुँचती है। यात्रा में कुल कितना समय लगा?",
+  "q_en": "A train starts at 9:45 a.m. and reaches at 1:30 p.m. How much time did the journey take in all?",
+  "options": [
+   "3 घंटे 15 मिनट",
+   "4 घंटे 15 मिनट",
+   "3 घंटे 45 मिनट",
+   "4 घंटे 45 मिनट"
+  ],
+  "options_en": [
+   "3 hours 15 minutes",
+   "4 hours 15 minutes",
+   "3 hours 45 minutes",
+   "4 hours 45 minutes"
+  ],
+  "answer": 2,
+  "exp_hi": "9:45 से 12:00 तक = 2 घंटे 15 मिनट और 12:00 से 1:30 तक = 1 घंटा 30 मिनट; कुल = 3 घंटे 45 मिनट।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 19
+ },
+ {
+  "n": 220,
+  "subject": "Maths",
+  "q_hi": "कक्षा के एक चार्ट की लंबाई 14 सेमी और चौड़ाई 6 सेमी है। चार्ट का क्षेत्रफल कितना है?",
+  "q_en": "A classroom chart is 14 cm long and 6 cm wide. What is the area of the chart?",
+  "options": [
+   "40 वर्ग सेमी",
+   "84 वर्ग सेमी",
+   "20 वर्ग सेमी",
+   "96 वर्ग सेमी"
+  ],
+  "options_en": [
+   "40 sq cm",
+   "84 sq cm",
+   "20 sq cm",
+   "96 sq cm"
+  ],
+  "answer": 1,
+  "exp_hi": "आयताकार चार्ट का क्षेत्रफल = लंबाई × चौड़ाई = 14 × 6 = 84 वर्ग सेमी।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 20
+ },
+ {
+  "n": 221,
+  "subject": "Maths",
+  "q_hi": "किसी घनाभ के फलक, किनारे और शीर्षों की संख्या क्रमशः कितनी होती है?",
+  "q_en": "What are the numbers of faces, edges and vertices of a cuboid respectively?",
+  "options": [
+   "6, 12, 8",
+   "6, 8, 12",
+   "8, 12, 6",
+   "12, 6, 8"
+  ],
+  "options_en": [
+   "6, 12, 8",
+   "6, 8, 12",
+   "8, 12, 6",
+   "12, 6, 8"
+  ],
+  "answer": 0,
+  "exp_hi": "घनाभ में 6 फलक, 12 किनारे और 8 शीर्ष (कोने) होते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 21
+ },
+ {
+  "n": 222,
+  "subject": "Maths",
+  "q_hi": "एक आयताकार कागज़ को कितनी प्रकार से मोड़ा जा सकता है कि उसके दोनों भाग एक-दूसरे पर पूरी तरह मिल जाएँ?",
+  "q_en": "In how many ways can a rectangular sheet of paper be folded so that its two halves overlap each other exactly?",
+  "options": [
+   "1",
+   "3",
+   "4",
+   "2"
+  ],
+  "options_en": [
+   "1",
+   "3",
+   "4",
+   "2"
+  ],
+  "answer": 3,
+  "exp_hi": "कागज़ उतनी ही प्रकार से मोड़ा जा सकता है जितनी उसकी सममिति रेखाएँ हैं; आयत में 2 सममिति रेखाएँ होती हैं। (वर्ग में 4 होती हैं।)",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 22
+ },
+ {
+  "n": 223,
+  "subject": "Maths",
+  "q_hi": "पैटर्न 2, 5, 10, 17, 26, ? में अगली संख्या कौन-सी है?",
+  "q_en": "What is the next number in the pattern 2, 5, 10, 17, 26, ?",
+  "options": [
+   "35",
+   "36",
+   "37",
+   "38"
+  ],
+  "options_en": [
+   "35",
+   "36",
+   "37",
+   "38"
+  ],
+  "answer": 2,
+  "exp_hi": "संख्याएँ 1²+1, 2²+1, 3²+1, 4²+1, 5²+1 हैं; अगली संख्या 6²+1 = 37 होगी। (अंतर भी 3, 5, 7, 9, 11 के क्रम में बढ़ता है।)",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 23
+ },
+ {
+  "n": 224,
+  "subject": "Maths",
+  "q_hi": "864 को 9 से भाग देने पर भागफल कितना होगा?",
+  "q_en": "On dividing 864 by 9, what will be the quotient?",
+  "options": [
+   "86",
+   "96",
+   "94",
+   "106"
+  ],
+  "options_en": [
+   "86",
+   "96",
+   "94",
+   "106"
+  ],
+  "answer": 1,
+  "exp_hi": "9 × 96 = 864, अतः 864 ÷ 9 = 96।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 24
+ },
+ {
+  "n": 225,
+  "subject": "Maths",
+  "q_hi": "अभाज्य संख्याओं की सूची किस संख्या से शुरू होती है?",
+  "q_en": "The list of prime numbers begins with —",
+  "options": [
+   "2",
+   "1",
+   "0",
+   "3"
+  ],
+  "options_en": [
+   "2",
+   "1",
+   "0",
+   "3"
+  ],
+  "answer": 0,
+  "exp_hi": "2 सबसे छोटी अभाज्य संख्या है और यह एकमात्र सम अभाज्य संख्या भी है; 1 न अभाज्य है न भाज्य।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 25
+ },
+ {
+  "n": 226,
+  "subject": "Maths",
+  "q_hi": "सोनू के पास ₹350 थे। उसने ₹95 की किताब और ₹45 का पेन खरीदा। अब उसके पास कितने रुपये बचे?",
+  "q_en": "Sonu had ₹350. He bought a book for ₹95 and a pen for ₹45. How much money is left with him now?",
+  "options": [
+   "₹190",
+   "₹200",
+   "₹255",
+   "₹210"
+  ],
+  "options_en": [
+   "₹190",
+   "₹200",
+   "₹255",
+   "₹210"
+  ],
+  "answer": 3,
+  "exp_hi": "कुल खर्च = 95 + 45 = ₹140; शेष = 350 − 140 = ₹210।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 26
+ },
+ {
+  "n": 227,
+  "subject": "Maths",
+  "q_hi": "2 मीटर 75 सेंटीमीटर बराबर है —",
+  "q_en": "2 metres 75 centimetres is equal to —",
+  "options": [
+   "2075 सेंटीमीटर",
+   "2750 सेंटीमीटर",
+   "275 सेंटीमीटर",
+   "175 सेंटीमीटर"
+  ],
+  "options_en": [
+   "2075 centimetres",
+   "2750 centimetres",
+   "275 centimetres",
+   "175 centimetres"
+  ],
+  "answer": 2,
+  "exp_hi": "1 मीटर = 100 सेंटीमीटर, अतः 2 मीटर 75 सेंटीमीटर = 200 + 75 = 275 सेंटीमीटर।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 27
+ },
+ {
+  "n": 228,
+  "subject": "Maths",
+  "q_hi": "संख्याओं 6, 9, 15, 20 और 10 का औसत (माध्य) कितना है?",
+  "q_en": "What is the average (mean) of the numbers 6, 9, 15, 20 and 10?",
+  "options": [
+   "10",
+   "12",
+   "14",
+   "60"
+  ],
+  "options_en": [
+   "10",
+   "12",
+   "14",
+   "60"
+  ],
+  "answer": 1,
+  "exp_hi": "योग = 6 + 9 + 15 + 20 + 10 = 60; औसत = 60 ÷ 5 = 12।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 28
+ },
+ {
+  "n": 229,
+  "subject": "Maths",
+  "q_hi": "'गणित शिक्षा का मुख्य लक्ष्य बच्चे की चिंतन-प्रक्रिया का गणितीकरण है' — यह विचार किस दस्तावेज़ में दिया गया है?",
+  "q_en": "The idea that 'the main goal of mathematics education is the mathematisation of the child's thinking process' was given in which document?",
+  "options": [
+   "राष्ट्रीय पाठ्यचर्या रूपरेखा (NCF) 2005",
+   "शिक्षा का अधिकार अधिनियम 2009",
+   "राष्ट्रीय शिक्षा नीति (NEP) 2020",
+   "कोठारी आयोग रिपोर्ट"
+  ],
+  "options_en": [
+   "National Curriculum Framework (NCF) 2005",
+   "Right to Education Act 2009",
+   "National Education Policy (NEP) 2020",
+   "Kothari Commission Report"
+  ],
+  "answer": 0,
+  "exp_hi": "NCF 2005 और उसके गणित-शिक्षण स्थिति-पत्र के अनुसार गणित शिक्षा का मुख्य लक्ष्य बच्चे की चिंतन-प्रक्रिया का गणितीकरण है — बच्चा तर्क से सोचे और समस्याओं को गणितीय ढंग से हल करे।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 29
+ },
+ {
+  "n": 230,
+  "subject": "EVS",
+  "q_hi": "पौधों की पत्तियों से जल का वाष्प बनकर उड़ना क्या कहलाता है?",
+  "q_en": "What is the process of water vapour escaping from the leaves of plants called?",
+  "options": [
+   "संघनन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश-संश्लेषण",
+   "परागण"
+  ],
+  "options_en": [
+   "Condensation",
+   "Transpiration",
+   "Photosynthesis",
+   "Pollination"
+  ],
+  "answer": 1,
+  "exp_hi": "पत्तियों के छोटे-छोटे छिद्रों (रंध्रों) से जल वाष्प बनकर उड़ता है — यही वाष्पोत्सर्जन है, जिससे पौधे में जल ऊपर चढ़ता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 30
+ },
+ {
+  "n": 231,
+  "subject": "EVS",
+  "q_hi": "रेगिस्तानी पौधे कैक्टस की पत्तियाँ काँटों में क्यों बदल जाती हैं?",
+  "q_en": "Why do the leaves of the desert plant cactus change into spines?",
+  "options": [
+   "फूलों को खिलाने के लिए",
+   "जड़ों को मज़बूत करने के लिए",
+   "जल की हानि कम करने के लिए",
+   "पक्षियों को बैठने के लिए"
+  ],
+  "options_en": [
+   "To make flowers bloom",
+   "To strengthen the roots",
+   "To reduce the loss of water",
+   "For birds to sit on"
+  ],
+  "answer": 2,
+  "exp_hi": "काँटों का सतह-क्षेत्र पत्तियों से बहुत कम होता है, इसलिए वाष्पोत्सर्जन घटता है और रेगिस्तान में पौधे का पानी बचता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 31
+ },
+ {
+  "n": 232,
+  "subject": "EVS",
+  "q_hi": "साँप के बाहरी कान नहीं होते। वह अपने आसपास के खतरे को कैसे महसूस करता है?",
+  "q_en": "A snake has no external ears. How does it sense danger around it?",
+  "options": [
+   "पेट की त्वचा से धरती के कंपन महसूस करके",
+   "आँखों से देखकर",
+   "जीभ से चखकर",
+   "नाक से सूँघकर"
+  ],
+  "options_en": [
+   "By feeling the vibrations of the ground through the skin of its belly",
+   "By seeing with its eyes",
+   "By tasting with its tongue",
+   "By smelling with its nose"
+  ],
+  "answer": 0,
+  "exp_hi": "NCERT के अनुसार साँप के बाहरी कान नहीं होते; वह धरती पर होने वाले कंपन को अपने शरीर/पेट की त्वचा से महसूस करता है — बीन की ध्वनि पर उसका हिलना भी कंपन की ही प्रतिक्रिया है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 32
+ },
+ {
+  "n": 233,
+  "subject": "EVS",
+  "q_hi": "बच्चों में रक्ताल्पता (एनीमिया) मुख्यतः किसकी कमी से होती है?",
+  "q_en": "Anaemia in children is mainly caused by the deficiency of which of the following?",
+  "options": [
+   "कैल्शियम",
+   "लौह तत्व (आयरन)",
+   "विटामिन C",
+   "आयोडीन"
+  ],
+  "options_en": [
+   "Calcium",
+   "Iron",
+   "Vitamin C",
+   "Iodine"
+  ],
+  "answer": 1,
+  "exp_hi": "लौह तत्व से रक्त में हीमोग्लोबिन बनता है; इसकी कमी से रक्ताल्पता होती है। गुड़, चना, हरी पत्तेदार सब्ज़ियाँ लौह के अच्छे स्रोत हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 33
+ },
+ {
+  "n": 234,
+  "subject": "EVS",
+  "q_hi": "'इग्लू' नामक बर्फ़ से बने घर मुख्यतः कहाँ के लोग बनाते हैं?",
+  "q_en": "People of which region mainly build houses made of snow, called 'igloos'?",
+  "options": [
+   "रेगिस्तानी क्षेत्रों के",
+   "तटीय क्षेत्रों के",
+   "पहाड़ी क्षेत्रों के",
+   "ध्रुवीय (बर्फ़ीले) प्रदेशों के"
+  ],
+  "options_en": [
+   "Desert regions",
+   "Coastal regions",
+   "Hilly regions",
+   "Polar (snowy) regions"
+  ],
+  "answer": 3,
+  "exp_hi": "ध्रुवीय प्रदेशों में रहने वाले एस्किमो बर्फ़ की ईंटों से इग्लू बनाते हैं; बर्फ़ की परत अंदर की गर्मी को बाहर जाने से रोकती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 34
+ },
+ {
+  "n": 235,
+  "subject": "EVS",
+  "q_hi": "बच्चे की 'पहली पाठशाला' किसे कहा जाता है?",
+  "q_en": "What is called the child's 'first school'?",
+  "options": [
+   "आँगनवाड़ी",
+   "प्राथमिक विद्यालय",
+   "परिवार",
+   "मोहल्ला"
+  ],
+  "options_en": [
+   "Anganwadi",
+   "Primary school",
+   "Family",
+   "Neighbourhood"
+  ],
+  "answer": 2,
+  "exp_hi": "बच्चा सबसे पहले परिवार से ही भाषा, व्यवहार, संस्कार और सामाजिक जीवन की शुरुआत सीखता है, इसलिए परिवार को उसकी पहली पाठशाला कहते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 35
+ },
+ {
+  "n": 236,
+  "subject": "EVS",
+  "q_hi": "अंतरिक्ष में जाने वाली भारतीय मूल की प्रथम महिला कौन थीं?",
+  "q_en": "Who was the first woman of Indian origin to go into space?",
+  "options": [
+   "कल्पना चावला",
+   "बछेंद्री पाल",
+   "पी.टी. उषा",
+   "मेरी कॉम"
+  ],
+  "options_en": [
+   "Kalpana Chawla",
+   "Bachendri Pal",
+   "P.T. Usha",
+   "Mary Kom"
+  ],
+  "answer": 0,
+  "exp_hi": "कल्पना चावला 1997 में पहली बार अंतरिक्ष गईं; वे भारतीय मूल की प्रथम महिला अंतरिक्ष यात्री थीं। (बछेंद्री पाल एवरेस्ट चढ़ने वाली प्रथम भारतीय महिला हैं।)",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 36
+ },
+ {
+  "n": 237,
+  "subject": "EVS",
+  "q_hi": "'चिपको आंदोलन' किसके संरक्षण के लिए चलाया गया था?",
+  "q_en": "The 'Chipko Movement' was carried out for the protection of what?",
+  "options": [
+   "नदियों के संरक्षण के लिए",
+   "मिट्टी के संरक्षण के लिए",
+   "वन्य जीवों के संरक्षण के लिए",
+   "वनों (पेड़ों) के संरक्षण के लिए"
+  ],
+  "options_en": [
+   "For protection of rivers",
+   "For protection of soil",
+   "For protection of wild animals",
+   "For protection of forests (trees)"
+  ],
+  "answer": 3,
+  "exp_hi": "उत्तराखंड में ग्रामीणों, विशेषकर महिलाओं, ने पेड़ों से चिपककर उनकी कटाई रोकी थी — यह आंदोलन वनों के संरक्षण के लिए था।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 37
+ },
+ {
+  "n": 238,
+  "subject": "EVS",
+  "q_hi": "EVS की कक्षा में बच्चे अपने आसपास के पेड़-पौधों को ध्यान से देखकर उनकी सूची बनाते हैं। यह किस प्रक्रिया-कौशल का उदाहरण है?",
+  "q_en": "In an EVS class, children observe the trees and plants around them carefully and make a list of them. This is an example of which process skill?",
+  "options": [
+   "वर्गीकरण",
+   "अवलोकन",
+   "मापन",
+   "प्रयोग"
+  ],
+  "options_en": [
+   "Classification",
+   "Observation",
+   "Measurement",
+   "Experimentation"
+  ],
+  "answer": 1,
+  "exp_hi": "इंद्रियों द्वारा ध्यान से देखकर जानकारी एकत्र करना अवलोकन (observation) कौशल है; सूची बनाना उसी का अभिलेखन है। समूहों में बाँटना वर्गीकरण कहलाता।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 38
+ },
+ {
+  "n": 239,
+  "subject": "EVS",
+  "q_hi": "मानव शरीर की सबसे लंबी और मज़बूत हड्डी कौन-सी है?",
+  "q_en": "Which is the longest and strongest bone in the human body?",
+  "options": [
+   "बाँह की हड्डी",
+   "पसली",
+   "जांघ की हड्डी (फीमर)",
+   "खोपड़ी की हड्डी"
+  ],
+  "options_en": [
+   "Arm bone",
+   "Rib",
+   "Thigh bone (femur)",
+   "Skull bone"
+  ],
+  "answer": 2,
+  "exp_hi": "जांघ की हड्डी (फीमर) शरीर की सबसे लंबी और मज़बूत हड्डी है, जो पूरे शरीर का भार सहती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 39
+ },
+ {
+  "n": 240,
+  "subject": "EVS",
+  "q_hi": "पृथ्वी पर ऋतुओं का परिवर्तन मुख्यतः किस कारण होता है?",
+  "q_en": "Change of seasons on the Earth is mainly caused by which of the following?",
+  "options": [
+   "पृथ्वी का झुके हुए अक्ष के साथ सूर्य के चारों ओर परिक्रमण",
+   "पृथ्वी का अपने अक्ष पर घूमना",
+   "चंद्रमा का पृथ्वी के चारों ओर घूमना",
+   "सूर्य का घूमना"
+  ],
+  "options_en": [
+   "Revolution of the Earth around the Sun on its tilted axis",
+   "Rotation of the Earth on its axis",
+   "Revolution of the Moon around the Earth",
+   "Rotation of the Sun"
+  ],
+  "answer": 0,
+  "exp_hi": "पृथ्वी अपने झुके अक्ष के साथ सूर्य की परिक्रमा करती है, इसलिए वर्ष भर सूर्य की किरणों का झुकाव बदलता रहता है और ऋतुएँ बनती हैं; अपने अक्ष पर घूमने से दिन-रात होते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 40
+ },
+ {
+  "n": 241,
+  "subject": "EVS",
+  "q_hi": "'बिहू' किस राज्य का प्रमुख लोक त्योहार है?",
+  "q_en": "'Bihu' is the main folk festival of which state?",
+  "options": [
+   "केरल",
+   "पंजाब",
+   "असम",
+   "गुजरात"
+  ],
+  "options_en": [
+   "Kerala",
+   "Punjab",
+   "Assam",
+   "Gujarat"
+  ],
+  "answer": 2,
+  "exp_hi": "बिहू असम का प्रमुख त्योहार है, जो फसलों के चक्र से जुड़ा है; रोंगाली बिहू असमिया नववर्ष के रूप में मनाया जाता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 41
+ },
+ {
+  "n": 242,
+  "subject": "EVS",
+  "q_hi": "धान (चावल) की फसल मुख्यतः किस ऋतु में बोई जाती है, क्योंकि उसे अधिक जल की आवश्यकता होती है?",
+  "q_en": "The paddy (rice) crop is mainly sown in which season, as it needs a lot of water?",
+  "options": [
+   "रबी",
+   "खरीफ़",
+   "जायद",
+   "इनमें से कोई नहीं"
+  ],
+  "options_en": [
+   "Rabi",
+   "Kharif",
+   "Zaid",
+   "None of these"
+  ],
+  "answer": 1,
+  "exp_hi": "धान खरीफ़ की फसल है — यह वर्षा ऋतु में बोई जाती है, क्योंकि इसके खेतों में पानी भरा रहना आवश्यक होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 42
+ },
+ {
+  "n": 243,
+  "subject": "EVS",
+  "q_hi": "मछली पानी के अंदर किसके द्वारा साँस लेती है?",
+  "q_en": "Through what does a fish breathe under water?",
+  "options": [
+   "फेफड़ों से",
+   "त्वचा से",
+   "गलफड़ों से",
+   "मुँह से"
+  ],
+  "options_en": [
+   "Through lungs",
+   "Through skin",
+   "Through gills",
+   "Through mouth"
+  ],
+  "answer": 2,
+  "exp_hi": "मछली के गलफड़े (gills) पानी में घुली हुई ऑक्सीजन को सोख लेते हैं, इसीलिए वह पानी के अंदर साँस ले पाती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 43
+ },
+ {
+  "n": 244,
+  "subject": "EVS",
+  "q_hi": "एक वयस्क मनुष्य के मुँह में कुल कितने स्थायी दाँत होते हैं?",
+  "q_en": "How many permanent teeth does an adult human have in all?",
+  "options": [
+   "32",
+   "28",
+   "30",
+   "36"
+  ],
+  "options_en": [
+   "32",
+   "28",
+   "30",
+   "36"
+  ],
+  "answer": 0,
+  "exp_hi": "वयस्क मनुष्य के 32 स्थायी दाँत होते हैं, जबकि छोटे बच्चों के दूध के दाँत केवल 20 होते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 44
+ },
+ {
+  "n": 245,
+  "subject": "Hindi",
+  "q_hi": "'विद्या + आलय' के मेल से 'विद्यालय' शब्द बनता है। इसमें कौन-सी संधि है?",
+  "q_en": "",
+  "options": [
+   "गुण संधि",
+   "दीर्घ संधि",
+   "यण संधि",
+   "वृद्धि संधि"
+  ],
+  "options_en": [],
+  "answer": 1,
+  "exp_hi": "विद्या + आलय में 'आ + आ = आ' होता है, अतः यह दीर्घ संधि है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 45
+ },
+ {
+  "n": 246,
+  "subject": "Hindi",
+  "q_hi": "'नीला है जो कमल' — इस विग्रह वाला शब्द 'नीलकमल' किस समास का उदाहरण है?",
+  "q_en": "",
+  "options": [
+   "द्विगु समास",
+   "कर्मधारय समास",
+   "द्वंद्व समास",
+   "बहुव्रीहि समास"
+  ],
+  "options_en": [],
+  "answer": 1,
+  "exp_hi": "नीलकमल का विग्रह है — 'नीला है जो कमल'; यहाँ विशेषण-विशेष्य का भाव है, अतः कर्मधारय समास है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 46
+ },
+ {
+  "n": 247,
+  "subject": "Hindi",
+  "q_hi": "'शशि' शब्द किसका पर्यायवाची है?",
+  "q_en": "",
+  "options": [
+   "सूर्य का",
+   "तारे का",
+   "बादल का",
+   "चंद्रमा का"
+  ],
+  "options_en": [],
+  "answer": 3,
+  "exp_hi": "शशि चंद्रमा का पर्यायवाची है; सूर्य के पर्यायवाची दिनकर, भानु और रवि हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 47
+ },
+ {
+  "n": 248,
+  "subject": "Hindi",
+  "q_hi": "'निराशा' किस शब्द का विलोम है?",
+  "q_en": "",
+  "options": [
+   "आशा",
+   "इच्छा",
+   "उम्मीद",
+   "अभिलाषा"
+  ],
+  "options_en": [],
+  "answer": 0,
+  "exp_hi": "निराशा, आशा का विलोम शब्द है; इच्छा, उम्मीद और अभिलाषा आशा के समानार्थी हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 48
+ },
+ {
+  "n": 249,
+  "subject": "Hindi",
+  "q_hi": "प्राथमिक कक्षा में 'श्रुतलेख' (सुनकर लिखना) कराने का मुख्य उद्देश्य क्या है?",
+  "q_en": "",
+  "options": [
+   "सुलेख सुंदर बनाने के लिए",
+   "तेज़ बोलने का अभ्यास करने के लिए",
+   "सुनकर शुद्ध वर्तनी में लिखने का अभ्यास करने के लिए",
+   "व्याकरण के नियम रटाने के लिए"
+  ],
+  "options_en": [],
+  "answer": 2,
+  "exp_hi": "श्रुतलेख में बच्चा सुनकर लिखता है, इसलिए श्रवण-कौशल और वर्तनी की शुद्धता दोनों का अभ्यास होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 49
+ },
+ {
+  "n": 250,
+  "subject": "Hindi",
+  "q_hi": "प्राथमिक स्तर पर कविता शिक्षण का प्रमुख उद्देश्य क्या है?",
+  "q_en": "",
+  "options": [
+   "कठिन शब्द रटवाने के लिए",
+   "भाषा की लय, ध्वनि और भाव का आनंद लेने के लिए",
+   "व्याकरण सिखाने के लिए",
+   "केवल परीक्षा की तैयारी के लिए"
+  ],
+  "options_en": [],
+  "answer": 1,
+  "exp_hi": "प्राथमिक स्तर पर कविता का उद्देश्य बच्चों को भाषा की लय-ध्वनि और भावों का आनंद देना है, ताकि उनमें भाषा के प्रति प्रेम और रसानुभूति विकसित हो।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 50
+ }
+]

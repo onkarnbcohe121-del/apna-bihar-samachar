@@ -1,0 +1,1072 @@
+[
+ {
+  "n": 251,
+  "subject": "Child Development",
+  "q_hi": "एक बच्ची को एक ही मात्रा का रस दो गिलासों में दिया गया — एक छोटा-चौड़ा और दूसरा लंबा-पतला। बच्ची कहती है कि लंबे गिलास में रस ज़्यादा है। पियाजे के अनुसार यह क्या दर्शाता है?",
+  "q_en": "A child is given the same quantity of juice in two glasses — one short and wide, the other tall and thin. The child says the tall glass has more juice. According to Piaget, what does this show?",
+  "options": [
+   "बच्ची जानबूझकर गलत उत्तर दे रही है",
+   "बच्ची की स्मरण शक्ति कमज़ोर है",
+   "बच्ची में संरक्षण (conservation) की समझ अभी विकसित नहीं हुई है",
+   "बच्ची में तर्क क्षमता पूर्ण विकसित है"
+  ],
+  "options_en": [
+   "The child is deliberately giving a wrong answer",
+   "The child has a weak memory",
+   "The child has not yet developed the understanding of conservation",
+   "The child's reasoning ability is fully developed"
+  ],
+  "answer": 2,
+  "exp_hi": "पूर्व-संक्रियात्मक अवस्था (2–7 वर्ष) में बच्चा किसी वस्तु के केवल एक पहलू पर ध्यान देता है; मात्रा के संरक्षण (conservation) की समझ मूर्त-संक्रियात्मक अवस्था में विकसित होती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 1
+ },
+ {
+  "n": 252,
+  "subject": "Child Development",
+  "q_hi": "वाइगोत्स्की के सिद्धांत में 'अधिक जानकार अन्य' (More Knowledgeable Other – MKO) से क्या अभिप्राय है?",
+  "q_en": "In Vygotsky's theory, what is meant by 'More Knowledgeable Other' (MKO)?",
+  "options": [
+   "वह व्यक्ति जो किसी कार्य में बच्चे की तुलना में अधिक समझ या कौशल रखता है और उसका मार्गदर्शन कर सकता है",
+   "कक्षा का सबसे बड़ा बच्चा",
+   "केवल विद्यालय का प्रधानाचार्य",
+   "पाठ्यपुस्तक लिखने वाला लेखक"
+  ],
+  "options_en": [
+   "A person who has more understanding or skill than the child in a task and can guide him/her",
+   "The eldest child in the class",
+   "Only the principal of the school",
+   "The author of the textbook"
+  ],
+  "answer": 0,
+  "exp_hi": "वाइगोत्स्की के अनुसार बच्चा अपने से अधिक जानकार व्यक्ति — शिक्षक, माता-पिता या साथी — के सहयोग से वह कार्य भी सीख लेता है जो वह अकेले नहीं कर पाता।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 2
+ },
+ {
+  "n": 253,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा कहता है — 'मैं अपना खिलौना तुम्हें दूँगा, तुम मुझे अपनी टॉफ़ी देना।' कोहलबर्ग के अनुसार यह नैतिक तर्क किस अवस्था को दर्शाता है?",
+  "q_en": "A child says — 'I will give you my toy, you give me your toffee.' According to Kohlberg, which stage of moral reasoning does this show?",
+  "options": [
+   "दण्ड-आज्ञाकारिता अवस्था",
+   "स्वार्थ-विनिमय अवस्था (जैसा करोगे, वैसा पाओगे)",
+   "अच्छा लड़का–अच्छी लड़की अवस्था",
+   "सार्वभौमिक नैतिक सिद्धांतों की अवस्था"
+  ],
+  "options_en": [
+   "Punishment-obedience stage",
+   "Self-interest/exchange stage (you scratch my back, I scratch yours)",
+   "Good boy-good girl stage",
+   "Universal ethical principles stage"
+  ],
+  "answer": 1,
+  "exp_hi": "पूर्व-परंपरागत स्तर की दूसरी अवस्था में बच्चा अपने स्वार्थ और परस्पर लेन-देन के आधार पर नैतिक निर्णय लेता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 3
+ },
+ {
+  "n": 254,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा नृत्य, खेल और शारीरिक गतिविधियों में असाधारण निपुणता दिखाता है। गार्डनर के बहु-बुद्धि सिद्धांत के अनुसार उसमें कौन-सी बुद्धि प्रधान है?",
+  "q_en": "A child shows exceptional skill in dance, sports and physical activities. According to Gardner's theory of multiple intelligences, which intelligence is dominant in him?",
+  "options": [
+   "भाषायी बुद्धि",
+   "तार्किक-गणितीय बुद्धि",
+   "स्थानिक बुद्धि",
+   "शारीरिक-गतिज (bodily-kinesthetic) बुद्धि"
+  ],
+  "options_en": [
+   "Linguistic intelligence",
+   "Logical-mathematical intelligence",
+   "Spatial intelligence",
+   "Bodily-kinesthetic intelligence"
+  ],
+  "answer": 3,
+  "exp_hi": "शारीरिक-गतिज बुद्धि शरीर की गतिविधियों पर नियंत्रण और वस्तुओं को कुशलता से संचालित करने की क्षमता है — यह खिलाड़ियों और नर्तकों में प्रधान होती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 4
+ },
+ {
+  "n": 255,
+  "subject": "Child Development",
+  "q_hi": "एक विद्यार्थी किसी अवधारणा को अपने शब्दों में समझाकर बताता है। ब्लूम के वर्गीकरण के अनुसार यह किस स्तर का व्यवहार है?",
+  "q_en": "A student explains a concept in his own words. According to Bloom's taxonomy, which level of behaviour is this?",
+  "options": [
+   "ज्ञान (याद करना)",
+   "बोध/समझ (Understanding)",
+   "विश्लेषण",
+   "मूल्यांकन"
+  ],
+  "options_en": [
+   "Knowledge (remembering)",
+   "Understanding",
+   "Analysis",
+   "Evaluation"
+  ],
+  "answer": 1,
+  "exp_hi": "किसी जानकारी को अपने शब्दों में व्यक्त करना, उदाहरण देना या सार बताना 'बोध' (Understanding) स्तर को दर्शाता है — यह केवल रटने से एक कदम आगे है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 5
+ },
+ {
+  "n": 256,
+  "subject": "Child Development",
+  "q_hi": "कक्षा में कम दृष्टि (low vision) वाले बच्चे के लिए सबसे उपयुक्त सहायता कौन-सी है?",
+  "q_en": "What is the most appropriate support for a child with low vision in the classroom?",
+  "options": [
+   "उसे अलग कक्षा में बैठाना",
+   "उसे केवल सुनकर ही पढ़ने को कहना",
+   "बड़े अक्षरों वाली पुस्तकें, आगे की सीट और बोर्ड पर साफ़ व बड़े अक्षर लिखना",
+   "उससे लिखित कार्य बिल्कुल न करवाना"
+  ],
+  "options_en": [
+   "Seating him in a separate classroom",
+   "Asking him to learn only by listening",
+   "Large-print books, front seat and writing clearly in large letters on the board",
+   "Not giving him any written work at all"
+  ],
+  "answer": 2,
+  "exp_hi": "कम दृष्टि वाले बच्चे के लिए बड़े अक्षरों की सामग्री, उचित प्रकाश, आगे की सीट और स्पष्ट लेखन जैसी सरल व्यवस्थाएँ उसे सामान्य कक्षा में ही सीखने में सहायक होती हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 6
+ },
+ {
+  "n": 257,
+  "subject": "Child Development",
+  "q_hi": "शिक्षा का अधिकार अधिनियम (RTE), 2009 के अंतर्गत कितनी आयु के बच्चों को निःशुल्क और अनिवार्य शिक्षा का अधिकार प्राप्त है?",
+  "q_en": "Under the Right to Education (RTE) Act, 2009, children of which age group have the right to free and compulsory education?",
+  "options": [
+   "6 से 14 वर्ष",
+   "3 से 6 वर्ष",
+   "5 से 15 वर्ष",
+   "6 से 18 वर्ष"
+  ],
+  "options_en": [
+   "6 to 14 years",
+   "3 to 6 years",
+   "5 to 15 years",
+   "6 to 18 years"
+  ],
+  "answer": 0,
+  "exp_hi": "RTE अधिनियम, 2009 के अनुसार 6 से 14 वर्ष तक के प्रत्येक बच्चे को निःशुल्क और अनिवार्य प्रारंभिक शिक्षा का अधिकार है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 7
+ },
+ {
+  "n": 258,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सा योगात्मक (summative) आकलन का उदाहरण है?",
+  "q_en": "Which of the following is an example of summative assessment?",
+  "options": [
+   "पाठ के बीच में पूछे गए प्रश्न",
+   "गृहकार्य पर शिक्षक की टिप्पणी",
+   "कक्षा में दैनिक अवलोकन",
+   "सत्र के अंत में ली जाने वाली वार्षिक परीक्षा"
+  ],
+  "options_en": [
+   "Questions asked during the lesson",
+   "Teacher's comments on homework",
+   "Daily observation in the classroom",
+   "Annual examination conducted at the end of the session"
+  ],
+  "answer": 3,
+  "exp_hi": "योगात्मक आकलन किसी अवधि/सत्र के अंत में सीखने के समग्र स्तर को मापता है, जैसे वार्षिक परीक्षा; जबकि पाठ के दौरान होने वाला आकलन रचनात्मक (formative) कहलाता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 8
+ },
+ {
+  "n": 259,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा अपने रोते हुए साथी को चुप कराता है और अपनी टिफ़िन उससे बाँटता है। यह व्यवहार मुख्यतः किसके विकास को दर्शाता है?",
+  "q_en": "A child consoles his crying classmate and shares his tiffin with him. This behaviour mainly shows the development of what?",
+  "options": [
+   "तार्किक चिंतन",
+   "समानुभूति (empathy) और सामाजिक-भावनात्मक विकास",
+   "शारीरिक विकास",
+   "भाषा विकास"
+  ],
+  "options_en": [
+   "Logical thinking",
+   "Empathy and socio-emotional development",
+   "Physical development",
+   "Language development"
+  ],
+  "answer": 1,
+  "exp_hi": "दूसरों की भावनाओं को समझना और उनके प्रति संवेदनशील व्यवहार करना समानुभूति है — यह बच्चे के सामाजिक-भावनात्मक विकास का महत्वपूर्ण संकेत है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 9
+ },
+ {
+  "n": 260,
+  "subject": "Child Development",
+  "q_hi": "बच्चे के समाजीकरण का प्रथम और सबसे प्रभावशाली माध्यम कौन-सा है?",
+  "q_en": "Which is the first and most influential agency of a child's socialisation?",
+  "options": [
+   "विद्यालय",
+   "मित्र-मंडली",
+   "परिवार",
+   "मीडिया"
+  ],
+  "options_en": [
+   "School",
+   "Peer group",
+   "Family",
+   "Media"
+  ],
+  "answer": 2,
+  "exp_hi": "बच्चा सबसे पहले परिवार से भाषा, मूल्य, आदतें और व्यवहार सीखता है; इसलिए परिवार समाजीकरण की प्राथमिक संस्था कहलाता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 10
+ },
+ {
+  "n": 261,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा छड़ी को घोड़ा बनाकर उस पर सवारी का खेल खेलता है। यह किस प्रकार का खेल है?",
+  "q_en": "A child pretends that a stick is a horse and plays riding on it. What type of play is this?",
+  "options": [
+   "प्रतीकात्मक/कल्पनाशील खेल",
+   "रचनात्मक खेल",
+   "नियम-आधारित खेल",
+   "शारीरिक व्यायाम"
+  ],
+  "options_en": [
+   "Symbolic/pretend play",
+   "Constructive play",
+   "Rule-based play",
+   "Physical exercise"
+  ],
+  "answer": 0,
+  "exp_hi": "जब बच्चा किसी वस्तु को दूसरी वस्तु का प्रतीक मानकर खेलता है तो वह प्रतीकात्मक खेल कहलाता है — यह पूर्व-संक्रियात्मक अवस्था की प्रमुख विशेषता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 11
+ },
+ {
+  "n": 262,
+  "subject": "Child Development",
+  "q_hi": "स्किनर के अनुसार बच्चे भाषा कैसे सीखते हैं?",
+  "q_en": "According to Skinner, how do children learn language?",
+  "options": [
+   "जन्मजात भाषा-अर्जन यंत्र द्वारा",
+   "केवल पुस्तकें पढ़कर",
+   "सपनों के माध्यम से",
+   "अनुकरण और पुनर्बलन (प्रोत्साहन) द्वारा"
+  ],
+  "options_en": [
+   "Through an innate language acquisition device",
+   "Only by reading books",
+   "Through dreams",
+   "Through imitation and reinforcement"
+  ],
+  "answer": 3,
+  "exp_hi": "स्किनर के व्यवहारवादी दृष्टिकोण के अनुसार बच्चा बड़ों का अनुकरण करके भाषा सीखता है और सही शब्दों पर मिले प्रोत्साहन (पुनर्बलन) से वह व्यवहार मज़बूत होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 12
+ },
+ {
+  "n": 263,
+  "subject": "Child Development",
+  "q_hi": "बौद्धिक अक्षमता वाले बच्चे के शिक्षण के लिए सबसे उपयुक्त उपाय कौन-सा है?",
+  "q_en": "What is the most appropriate approach for teaching a child with intellectual disability?",
+  "options": [
+   "उसे कक्षा की गतिविधियों से अलग रखना",
+   "मूर्त वस्तुओं व गतिविधियों द्वारा छोटे-छोटे चरणों में बार-बार अभ्यास कराना",
+   "उसे केवल कठिन प्रश्न देना",
+   "उसकी तुलना अन्य बच्चों से करना"
+  ],
+  "options_en": [
+   "Keeping him away from classroom activities",
+   "Teaching in small steps through concrete objects and activities with repeated practice",
+   "Giving him only difficult questions",
+   "Comparing him with other children"
+  ],
+  "answer": 1,
+  "exp_hi": "बौद्धिक अक्षमता वाले बच्चे मूर्त अनुभवों, छोटे चरणों और पुनरावृत्ति से बेहतर सीखते हैं; अमूर्त व्याख्या उनके लिए कठिन होती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 13
+ },
+ {
+  "n": 264,
+  "subject": "Child Development",
+  "q_hi": "'अधिज्ञान' (metacognition) से क्या अभिप्राय है?",
+  "q_en": "What is meant by 'metacognition'?",
+  "options": [
+   "तेज़ी से याद करने की क्षमता",
+   "समूह में कार्य करना",
+   "अपनी ही चिंतन और सीखने की प्रक्रिया के बारे में सोचना और उसे नियंत्रित करना",
+   "चित्र बनाकर सीखना"
+  ],
+  "options_en": [
+   "Ability to memorise quickly",
+   "Working in a group",
+   "Thinking about and regulating one's own thinking and learning process",
+   "Learning by drawing pictures"
+  ],
+  "answer": 2,
+  "exp_hi": "अधिज्ञान में विद्यार्थी अपनी सीखने की प्रक्रिया की योजना बनाता है, निगरानी करता है और मूल्यांकन करता है — जैसे यह जानना कि कौन-सी विधि से उसे विषय सबसे अच्छी तरह समझ आता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 14
+ },
+ {
+  "n": 265,
+  "subject": "Maths",
+  "q_hi": "संख्या 5,07,246 का सही विस्तारित रूप (expanded form) कौन-सा है?",
+  "q_en": "Which is the correct expanded form of the number 5,07,246?",
+  "options": [
+   "5,00,000 + 70,000 + 200 + 40 + 6",
+   "5,00,000 + 7,000 + 200 + 40 + 6",
+   "5,00,000 + 7,000 + 2,000 + 40 + 6",
+   "50,000 + 7,000 + 200 + 40 + 6"
+  ],
+  "options_en": [
+   "5,00,000 + 70,000 + 200 + 40 + 6",
+   "5,00,000 + 7,000 + 200 + 40 + 6",
+   "5,00,000 + 7,000 + 2,000 + 40 + 6",
+   "50,000 + 7,000 + 200 + 40 + 6"
+  ],
+  "answer": 1,
+  "exp_hi": "5,07,246 में 5 लाख के, 0 दस-हज़ार के, 7 हज़ार के, 2 सैकड़े के, 4 दहाई के और 6 इकाई के स्थान पर हैं; इसलिए विस्तारित रूप 5,00,000 + 7,000 + 200 + 40 + 6 होगा।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 15
+ },
+ {
+  "n": 266,
+  "subject": "Maths",
+  "q_hi": "7/12 + 1/4 का मान क्या है?",
+  "q_en": "What is the value of 7/12 + 1/4?",
+  "options": [
+   "8/16",
+   "7/16",
+   "5/6",
+   "2/3"
+  ],
+  "options_en": [
+   "8/16",
+   "7/16",
+   "5/6",
+   "2/3"
+  ],
+  "answer": 2,
+  "exp_hi": "1/4 = 3/12; इसलिए 7/12 + 3/12 = 10/12 = 5/6।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 16
+ },
+ {
+  "n": 267,
+  "subject": "Maths",
+  "q_hi": "4.8 ÷ 0.6 का मान क्या है?",
+  "q_en": "What is the value of 4.8 ÷ 0.6?",
+  "options": [
+   "0.8",
+   "80",
+   "0.08",
+   "8"
+  ],
+  "options_en": [
+   "0.8",
+   "80",
+   "0.08",
+   "8"
+  ],
+  "answer": 3,
+  "exp_hi": "4.8 ÷ 0.6 = 48 ÷ 6 = 8 (अंश और हर दोनों को 10 से गुणा करने पर)।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 17
+ },
+ {
+  "n": 268,
+  "subject": "Maths",
+  "q_hi": "राम ने एक साइकिल ₹2,400 में खरीदी और ₹2,760 में बेच दी। उसे कितना लाभ हुआ?",
+  "q_en": "Ram bought a bicycle for ₹2,400 and sold it for ₹2,760. How much profit did he make?",
+  "options": [
+   "₹360",
+   "₹260",
+   "₹460",
+   "₹560"
+  ],
+  "options_en": [
+   "₹360",
+   "₹260",
+   "₹460",
+   "₹560"
+  ],
+  "answer": 0,
+  "exp_hi": "लाभ = विक्रय मूल्य − क्रय मूल्य = 2,760 − 2,400 = ₹360।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 18
+ },
+ {
+  "n": 269,
+  "subject": "Maths",
+  "q_hi": "एक फ़िल्म शाम 6:45 पर शुरू हुई और रात 9:15 पर समाप्त हुई। फ़िल्म की अवधि कितनी है?",
+  "q_en": "A film started at 6:45 p.m. and ended at 9:15 p.m. What is the duration of the film?",
+  "options": [
+   "2 घंटे 15 मिनट",
+   "3 घंटे 30 मिनट",
+   "2 घंटे 30 मिनट",
+   "2 घंटे 45 मिनट"
+  ],
+  "options_en": [
+   "2 hours 15 minutes",
+   "3 hours 30 minutes",
+   "2 hours 30 minutes",
+   "2 hours 45 minutes"
+  ],
+  "answer": 2,
+  "exp_hi": "6:45 से 9:15 तक = 2 घंटे 30 मिनट (6:45 → 8:45 = 2 घंटे, फिर 8:45 → 9:15 = 30 मिनट)।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 19
+ },
+ {
+  "n": 270,
+  "subject": "Maths",
+  "q_hi": "एक समबाहु त्रिभुज की प्रत्येक भुजा 14 सेमी है। उसका परिमाप क्या होगा?",
+  "q_en": "Each side of an equilateral triangle is 14 cm. What is its perimeter?",
+  "options": [
+   "28 सेमी",
+   "42 सेमी",
+   "56 सेमी",
+   "196 सेमी"
+  ],
+  "options_en": [
+   "28 cm",
+   "42 cm",
+   "56 cm",
+   "196 cm"
+  ],
+  "answer": 1,
+  "exp_hi": "समबाहु त्रिभुज का परिमाप = 3 × भुजा = 3 × 14 = 42 सेमी।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 20
+ },
+ {
+  "n": 271,
+  "subject": "Maths",
+  "q_hi": "एक आयत का क्षेत्रफल 96 वर्ग सेमी है और उसकी लंबाई 12 सेमी है। उसकी चौड़ाई कितनी है?",
+  "q_en": "The area of a rectangle is 96 sq cm and its length is 12 cm. What is its breadth?",
+  "options": [
+   "6 सेमी",
+   "10 सेमी",
+   "84 सेमी",
+   "8 सेमी"
+  ],
+  "options_en": [
+   "6 cm",
+   "10 cm",
+   "84 cm",
+   "8 cm"
+  ],
+  "answer": 3,
+  "exp_hi": "चौड़ाई = क्षेत्रफल ÷ लंबाई = 96 ÷ 12 = 8 सेमी।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 21
+ },
+ {
+  "n": 272,
+  "subject": "Maths",
+  "q_hi": "पैटर्न 100, 90, 81, 73, 66, ? में अगली संख्या क्या होगी?",
+  "q_en": "What will be the next number in the pattern 100, 90, 81, 73, 66, ?",
+  "options": [
+   "60",
+   "59",
+   "61",
+   "58"
+  ],
+  "options_en": [
+   "60",
+   "59",
+   "61",
+   "58"
+  ],
+  "answer": 0,
+  "exp_hi": "क्रम में घटाव 10, 9, 8, 7 इस प्रकार एक-एक कम हो रहा है; अगला घटाव 6 होगा, इसलिए 66 − 6 = 60।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 22
+ },
+ {
+  "n": 273,
+  "subject": "Maths",
+  "q_hi": "संख्या 36 के कुल कितने गुणनखंड (factors) हैं?",
+  "q_en": "How many factors does the number 36 have in all?",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "options_en": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer": 2,
+  "exp_hi": "36 के गुणनखंड हैं — 1, 2, 3, 4, 6, 9, 12, 18 और 36; कुल 9 गुणनखंड हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 23
+ },
+ {
+  "n": 274,
+  "subject": "Maths",
+  "q_hi": "संख्या 1 के बारे में सही कथन कौन-सा है?",
+  "q_en": "Which statement about the number 1 is correct?",
+  "options": [
+   "1 एक अभाज्य संख्या है",
+   "1 न तो अभाज्य है और न ही भाज्य",
+   "1 एक भाज्य संख्या है",
+   "1 एक सम अभाज्य संख्या है"
+  ],
+  "options_en": [
+   "1 is a prime number",
+   "1 is neither prime nor composite",
+   "1 is a composite number",
+   "1 is an even prime number"
+  ],
+  "answer": 1,
+  "exp_hi": "अभाज्य संख्या के ठीक दो गुणनखंड होते हैं और भाज्य के दो से अधिक; 1 का केवल एक ही गुणनखंड (स्वयं) होता है, इसलिए वह न अभाज्य है न भाज्य।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 24
+ },
+ {
+  "n": 275,
+  "subject": "Maths",
+  "q_hi": "5 मीटर 25 सेंटीमीटर को केवल सेंटीमीटर में लिखने पर क्या होगा?",
+  "q_en": "Writing 5 metres 25 centimetres in centimetres only gives —",
+  "options": [
+   "525 सेमी",
+   "5025 सेमी",
+   "550 सेमी",
+   "255 सेमी"
+  ],
+  "options_en": [
+   "525 cm",
+   "5025 cm",
+   "550 cm",
+   "255 cm"
+  ],
+  "answer": 0,
+  "exp_hi": "1 मीटर = 100 सेमी, इसलिए 5 मीटर = 500 सेमी; 500 + 25 = 525 सेमी।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 25
+ },
+ {
+  "n": 276,
+  "subject": "Maths",
+  "q_hi": "निम्नलिखित में से किस त्रि-आयामी आकृति में केवल एक शीर्ष (vertex) होता है?",
+  "q_en": "Which of the following three-dimensional shapes has only one vertex?",
+  "options": [
+   "शंकु (cone)",
+   "घन (cube)",
+   "बेलन (cylinder)",
+   "गोला (sphere)"
+  ],
+  "options_en": [
+   "Cone",
+   "Cube",
+   "Cylinder",
+   "Sphere"
+  ],
+  "answer": 0,
+  "exp_hi": "शंकु में केवल एक शीर्ष होता है — उसका नुकीला बिंदु; घन में 8 शीर्ष होते हैं, जबकि बेलन और गोले में कोई शीर्ष नहीं होता।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 26
+ },
+ {
+  "n": 277,
+  "subject": "Maths",
+  "q_hi": "जिस भिन्न में अंश, हर से बड़ा होता है, उसे क्या कहते हैं?",
+  "q_en": "A fraction in which the numerator is greater than the denominator is called —",
+  "options": [
+   "उचित भिन्न",
+   "समान भिन्न",
+   "अनुचित भिन्न (improper fraction)",
+   "दशमलव भिन्न"
+  ],
+  "options_en": [
+   "Proper fraction",
+   "Like fraction",
+   "Improper fraction",
+   "Decimal fraction"
+  ],
+  "answer": 2,
+  "exp_hi": "जैसे 7/4 में अंश (7) हर (4) से बड़ा है — ऐसी भिन्न अनुचित भिन्न कहलाती है; अंश छोटा होने पर वह उचित भिन्न होती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 27
+ },
+ {
+  "n": 278,
+  "subject": "Maths",
+  "q_hi": "यदि 1 किग्रा चीनी का मूल्य ₹46 है, तो 3.5 किग्रा चीनी का मूल्य कितना होगा?",
+  "q_en": "If the cost of 1 kg of sugar is ₹46, what will be the cost of 3.5 kg of sugar?",
+  "options": [
+   "₹138",
+   "₹161",
+   "₹149.50",
+   "₹184"
+  ],
+  "options_en": [
+   "₹138",
+   "₹161",
+   "₹149.50",
+   "₹184"
+  ],
+  "answer": 1,
+  "exp_hi": "3.5 किग्रा का मूल्य = 46 × 3.5 = 46 × 3 + 46 × 0.5 = 138 + 23 = ₹161।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 28
+ },
+ {
+  "n": 279,
+  "subject": "Maths",
+  "q_hi": "648 विद्यार्थियों को 18-18 के समूहों में बाँटा गया। कुल कितने समूह बनेंगे?",
+  "q_en": "648 students are divided into groups of 18 each. How many groups will be formed in all?",
+  "options": [
+   "34",
+   "38",
+   "32",
+   "36"
+  ],
+  "options_en": [
+   "34",
+   "38",
+   "32",
+   "36"
+  ],
+  "answer": 3,
+  "exp_hi": "समूहों की संख्या = 648 ÷ 18 = 36।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 29
+ },
+ {
+  "n": 280,
+  "subject": "EVS",
+  "q_hi": "कौन-सा पक्षी पेड़ की टहनी से लटकता हुआ, घास-पत्तियों को बुनकर सुंदर घोंसला बनाता है?",
+  "q_en": "Which bird weaves grass and leaves to make a beautiful nest that hangs from a tree branch?",
+  "options": [
+   "कौआ",
+   "कबूतर",
+   "बया (weaver bird)",
+   "गौरैया"
+  ],
+  "options_en": [
+   "Crow",
+   "Pigeon",
+   "Baya (weaver bird)",
+   "Sparrow"
+  ],
+  "answer": 2,
+  "exp_hi": "नर बया घास के तिनकों को बुनकर बोतल के आकार का लटकता घोंसला बनाता है; यह उसकी विशेष पहचान है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 30
+ },
+ {
+  "n": 281,
+  "subject": "EVS",
+  "q_hi": "लद्दाख जैसे ठंडे मरुस्थलीय क्षेत्रों में सामान ढोने और दूध के लिए मुख्यतः कौन-सा जानवर पाला जाता है?",
+  "q_en": "In cold desert regions like Ladakh, which animal is mainly kept for carrying loads and for milk?",
+  "options": [
+   "याक",
+   "ऊँट",
+   "भैंस",
+   "हाथी"
+  ],
+  "options_en": [
+   "Yak",
+   "Camel",
+   "Buffalo",
+   "Elephant"
+  ],
+  "answer": 0,
+  "exp_hi": "याक के शरीर पर लंबे घने बाल होते हैं जो उसे कड़ाके की ठंड से बचाते हैं; पहाड़ी ठंडे क्षेत्रों में यह बोझ ढोने, दूध और ऊन के लिए उपयोगी है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 31
+ },
+ {
+  "n": 282,
+  "subject": "EVS",
+  "q_hi": "अनाज को भंडारण से पहले धूप में अच्छी तरह क्यों सुखाया जाता है?",
+  "q_en": "Why are grains dried thoroughly in the sun before storage?",
+  "options": [
+   "रंग अच्छा करने के लिए",
+   "वज़न बढ़ाने के लिए",
+   "स्वाद बदलने के लिए",
+   "नमी दूर करने के लिए, ताकि फफूंद और कीड़े न लगें"
+  ],
+  "options_en": [
+   "To improve their colour",
+   "To increase their weight",
+   "To change their taste",
+   "To remove moisture so that fungus and insects do not spoil them"
+  ],
+  "answer": 3,
+  "exp_hi": "नमी रहने पर अनाज में फफूंद लगती है और कीड़े पड़ जाते हैं; धूप में सुखाने से नमी निकल जाती है और अनाज लंबे समय तक सुरक्षित रहता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 32
+ },
+ {
+  "n": 283,
+  "subject": "EVS",
+  "q_hi": "पीने के पानी को उबालने का मुख्य लाभ क्या है?",
+  "q_en": "What is the main benefit of boiling drinking water?",
+  "options": [
+   "पानी का स्वाद मीठा हो जाता है",
+   "पानी के रोगाणु (कीटाणु) नष्ट हो जाते हैं",
+   "पानी की मात्रा बढ़ जाती है",
+   "पानी ठंडा हो जाता है"
+  ],
+  "options_en": [
+   "Water becomes sweet in taste",
+   "The germs in water are destroyed",
+   "The quantity of water increases",
+   "Water becomes cold"
+  ],
+  "answer": 1,
+  "exp_hi": "उबालने से पानी में मौजूद अधिकांश रोगाणु मर जाते हैं, इसलिए उबला पानी पीने से हैजा, टायफ़ॉइड जैसी जल-जनित बीमारियाँ नहीं फैलतीं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 33
+ },
+ {
+  "n": 284,
+  "subject": "EVS",
+  "q_hi": "गेहूँ किस ऋतु की फ़सल (रबी) है?",
+  "q_en": "Wheat is a crop of which season (rabi)?",
+  "options": [
+   "बरसात में बोई जाने वाली फ़सल",
+   "गर्मियों में बोई जाने वाली फ़सल",
+   "सर्दियों में बोई जाने वाली फ़सल",
+   "पूरे वर्ष बोई जाने वाली फ़सल"
+  ],
+  "options_en": [
+   "Sown in the rainy season",
+   "Sown in summer",
+   "Sown in winter",
+   "Sown throughout the year"
+  ],
+  "answer": 2,
+  "exp_hi": "रबी की फ़सलें सर्दियों (अक्टूबर–नवंबर) में बोई जाती हैं और बसंत (अप्रैल–मई) में काटी जाती हैं — गेहूँ, चना और सरसों इसके उदाहरण हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 34
+ },
+ {
+  "n": 285,
+  "subject": "EVS",
+  "q_hi": "सामान्यतः मानचित्र में ऊपर की ओर कौन-सी दिशा दर्शाई जाती है?",
+  "q_en": "Generally, which direction is shown towards the top of a map?",
+  "options": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "options_en": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "answer": 0,
+  "exp_hi": "मानचित्र बनाने की परंपरा के अनुसार ऊपर की ओर उत्तर दिशा मानी जाती है; मानचित्र पर बने दिशा-तीर से भी यही स्पष्ट होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 35
+ },
+ {
+  "n": 286,
+  "subject": "EVS",
+  "q_hi": "'बिहू' किस राज्य का प्रमुख फ़सल-त्योहार है?",
+  "q_en": "'Bihu' is the main harvest festival of which state?",
+  "options": [
+   "पंजाब",
+   "केरल",
+   "गुजरात",
+   "असम"
+  ],
+  "options_en": [
+   "Punjab",
+   "Kerala",
+   "Gujarat",
+   "Assam"
+  ],
+  "answer": 3,
+  "exp_hi": "बिहू असम का प्रमुख त्योहार है; रोंगाली बिहू अप्रैल में नए वर्ष और बोआई के मौसम की शुरुआत पर मनाया जाता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 36
+ },
+ {
+  "n": 287,
+  "subject": "EVS",
+  "q_hi": "'इग्लू' किससे बने घर होते हैं?",
+  "q_en": "What are 'igloos' made of?",
+  "options": [
+   "लकड़ी से",
+   "बर्फ़ की ईंटों से",
+   "मिट्टी से",
+   "बाँस से"
+  ],
+  "options_en": [
+   "Wood",
+   "Blocks of snow/ice",
+   "Mud",
+   "Bamboo"
+  ],
+  "answer": 1,
+  "exp_hi": "ध्रुवीय क्षेत्रों में रहने वाले लोग बर्फ़ की ईंटों को जोड़कर गुम्बदाकार इग्लू बनाते हैं; बर्फ़ के बीच की हवा ठंड को अंदर आने से रोकती है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 37
+ },
+ {
+  "n": 288,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से कौन-सा पक्षी उड़ नहीं सकता, लेकिन बहुत तेज़ दौड़ सकता है?",
+  "q_en": "Which of the following birds cannot fly but can run very fast?",
+  "options": [
+   "कबूतर",
+   "चील",
+   "शुतुरमुर्ग (ostrich)",
+   "तोता"
+  ],
+  "options_en": [
+   "Pigeon",
+   "Kite (bird)",
+   "Ostrich",
+   "Parrot"
+  ],
+  "answer": 2,
+  "exp_hi": "शुतुरमुर्ग संसार का सबसे बड़ा पक्षी है; यह उड़ नहीं सकता, परंतु अपने मज़बूत पैरों से बहुत तेज़ दौड़ सकता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 38
+ },
+ {
+  "n": 289,
+  "subject": "EVS",
+  "q_hi": "नीम के पेड़ को 'गाँव का दवाखाना' क्यों कहा जाता है?",
+  "q_en": "Why is the neem tree called the 'village pharmacy'?",
+  "options": [
+   "इसके पत्ते, छाल और बीज अनेक रोगों व कीट-नाशन में उपयोगी हैं",
+   "इसकी लकड़ी मज़बूत होती है",
+   "यह बहुत ऊँचा होता है",
+   "इसमें मीठे फल लगते हैं"
+  ],
+  "options_en": [
+   "Its leaves, bark and seeds are useful in many diseases and as an insecticide",
+   "Its wood is very strong",
+   "It grows very tall",
+   "It bears sweet fruits"
+  ],
+  "answer": 0,
+  "exp_hi": "नीम के पत्तों और बीजों में रोगाणु-नाशक गुण होते हैं; पारंपरिक रूप से यह त्वचा रोग, दाँतों की देखभाल और फ़सल की कीट-सुरक्षा में उपयोग होता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 39
+ },
+ {
+  "n": 290,
+  "subject": "EVS",
+  "q_hi": "साँप के बारे में कौन-सा कथन सही है?",
+  "q_en": "Which statement about snakes is correct?",
+  "options": [
+   "साँप के बाहरी कान होते हैं और वह हवा की आवाज़ सुनता है",
+   "साँप बीन की धुन सुनकर नाचता है",
+   "साँप दूध पीता है",
+   "साँप के बाहरी कान नहीं होते; वह ज़मीन के कंपन को महसूस करता है"
+  ],
+  "options_en": [
+   "Snakes have external ears and hear sounds in the air",
+   "Snakes dance on hearing the tune of the flute (been)",
+   "Snakes drink milk",
+   "Snakes do not have external ears; they feel vibrations through the ground"
+  ],
+  "answer": 3,
+  "exp_hi": "साँपों के बाहरी कान नहीं होते — वे ज़मीन पर होने वाले कंपन को अपने शरीर से महसूस करते हैं। बीन बजने पर साँप उसकी गति देखकर हिलता है, धुन सुनकर नहीं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 40
+ },
+ {
+  "n": 291,
+  "subject": "EVS",
+  "q_hi": "निम्नलिखित में से कौन-सा प्राथमिक स्तर के पर्यावरण अध्ययन (EVS) का एक थीम (विषय-क्षेत्र) नहीं है?",
+  "q_en": "Which of the following is NOT a theme of Environmental Studies (EVS) at the primary level?",
+  "options": [
+   "भोजन (Food)",
+   "भारतीय संविधान",
+   "आवास (Shelter)",
+   "यात्रा (Travel)"
+  ],
+  "options_en": [
+   "Food",
+   "Indian Constitution",
+   "Shelter",
+   "Travel"
+  ],
+  "answer": 1,
+  "exp_hi": "प्राथमिक EVS के छह थीम हैं — परिवार और मित्र, भोजन, आवास, पानी, यात्रा और चीज़ें जो हम बनाते और करते हैं। 'भारतीय संविधान' EVS का थीम नहीं है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 41
+ },
+ {
+  "n": 292,
+  "subject": "EVS",
+  "q_hi": "मलेरिया रोग किसके काटने से फैलता है?",
+  "q_en": "Malaria spreads by the bite of which of the following?",
+  "options": [
+   "घरेलू मक्खी",
+   "तिलचट्टा",
+   "मादा एनोफ़िलीज़ मच्छर",
+   "रेत मक्खी (sand fly)"
+  ],
+  "options_en": [
+   "Housefly",
+   "Cockroach",
+   "Female Anopheles mosquito",
+   "Sand fly"
+  ],
+  "answer": 2,
+  "exp_hi": "मलेरिया मादा एनोफ़िलीज़ मच्छर के काटने से फैलता है; यह मच्छर आमतौर पर ठहरे हुए पानी में पनपता है, इसलिए आसपास पानी जमा न होने देना बचाव है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 42
+ },
+ {
+  "n": 293,
+  "subject": "EVS",
+  "q_hi": "शरीर में आयरन (लौह तत्व) की कमी से कौन-सा रोग होता है?",
+  "q_en": "Deficiency of iron in the body causes which disease?",
+  "options": [
+   "एनीमिया (रक्त-अल्पता)",
+   "रतौंधी",
+   "स्कर्वी",
+   "गॉइटर (घेघा)"
+  ],
+  "options_en": [
+   "Anaemia",
+   "Night blindness",
+   "Scurvy",
+   "Goitre"
+  ],
+  "answer": 0,
+  "exp_hi": "आयरन की कमी से खून में हीमोग्लोबिन कम हो जाता है, जिससे एनीमिया होता है — कमज़ोरी और थकान इसके लक्षण हैं; हरी पत्तेदार सब्ज़ियाँ और गुड़ आयरन के स्रोत हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 43
+ },
+ {
+  "n": 294,
+  "subject": "EVS",
+  "q_hi": "अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?",
+  "q_en": "Who was the first Indian to go into space?",
+  "options": [
+   "कल्पना चावला",
+   "सुनीता विलियम्स",
+   "यूरी गागरिन",
+   "राकेश शर्मा"
+  ],
+  "options_en": [
+   "Kalpana Chawla",
+   "Sunita Williams",
+   "Yuri Gagarin",
+   "Rakesh Sharma"
+  ],
+  "answer": 3,
+  "exp_hi": "राकेश शर्मा सन् 1984 में सोवियत अंतरिक्ष यान से अंतरिक्ष गए और अंतरिक्ष में जाने वाले पहले भारतीय बने।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "mock_q": 44
+ },
+ {
+  "n": 295,
+  "subject": "Hindi",
+  "q_hi": "'नौ दो ग्यारह होना' मुहावरे का सही अर्थ क्या है?",
+  "q_en": "",
+  "options": [
+   "गिनती करना",
+   "झगड़ा करना",
+   "चुपके से भाग जाना",
+   "बहुत खुश होना"
+  ],
+  "options_en": [],
+  "answer": 2,
+  "exp_hi": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है — मौका पाकर चुपके से भाग जाना या गायब हो जाना।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 45
+ },
+ {
+  "n": 296,
+  "subject": "Hindi",
+  "q_hi": "'राम ने रोटी खाई।' इस वाक्य में 'ने' किस कारक का चिह्न है?",
+  "q_en": "",
+  "options": [
+   "करण कारक",
+   "कर्ता कारक",
+   "कर्म कारक",
+   "संबंध कारक"
+  ],
+  "options_en": [],
+  "answer": 1,
+  "exp_hi": "क्रिया करने वाले को कर्ता कहते हैं; 'राम ने' में 'ने' कर्ता कारक का चिह्न (विभक्ति) है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 46
+ },
+ {
+  "n": 297,
+  "subject": "Hindi",
+  "q_hi": "'अनजान' शब्द में प्रयुक्त उपसर्ग कौन-सा है?",
+  "q_en": "",
+  "options": [
+   "जान",
+   "न",
+   "अ",
+   "अन"
+  ],
+  "options_en": [],
+  "answer": 3,
+  "exp_hi": "'अनजान' = 'अन' + 'जान' — यहाँ 'अन' उपसर्ग है, जो शब्द के आरंभ में जुड़कर 'नहीं जानने वाला' का अर्थ देता है।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 47
+ },
+ {
+  "n": 298,
+  "subject": "Hindi",
+  "q_hi": "'कवि' शब्द का स्त्रीलिंग रूप कौन-सा है?",
+  "q_en": "",
+  "options": [
+   "कवयित्री",
+   "कविता",
+   "कविनी",
+   "कवियत्री"
+  ],
+  "options_en": [],
+  "answer": 0,
+  "exp_hi": "'कवि' का स्त्रीलिंग रूप 'कवयित्री' होता है — जैसे कवि अपनी रचनाओं से प्रसिद्ध होता है, वैसे ही महिला रचनाकार को कवयित्री कहते हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 48
+ },
+ {
+  "n": 299,
+  "subject": "Hindi",
+  "q_hi": "प्राथमिक स्तर पर कविता शिक्षण का मुख्य उद्देश्य क्या होना चाहिए?",
+  "q_en": "",
+  "options": [
+   "व्याकरण के नियम रटवाना",
+   "कठिन शब्दों के अर्थ याद कराना",
+   "बच्चों को भाषा का आनंद लेना और लय-भाव से परिचित कराना",
+   "केवल परीक्षा की तैयारी कराना"
+  ],
+  "options_en": [],
+  "answer": 2,
+  "exp_hi": "प्राथमिक स्तर पर कविता का उद्देश्य बच्चों में भाषा के प्रति प्रेम, लय-बोध और कल्पनाशीलता विकसित करना है — नियम रटाना नहीं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 49
+ },
+ {
+  "n": 300,
+  "subject": "Hindi",
+  "q_hi": "'क्ष' वर्ण किस प्रकार का वर्ण है?",
+  "q_en": "",
+  "options": [
+   "स्वर",
+   "संयुक्त वर्ण (संयुक्ताक्षर)",
+   "अनुस्वार",
+   "विसर्ग"
+  ],
+  "options_en": [],
+  "answer": 1,
+  "exp_hi": "'क्ष' दो व्यंजनों — 'क्' और 'ष' — के मेल से बना संयुक्त वर्ण है; इसी प्रकार 'त्र' और 'ज्ञ' भी संयुक्ताक्षर हैं।",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "mock_q": 50
+ }
+]

@@ -1,0 +1,1102 @@
+[
+ {
+  "n": 436,
+  "subject": "Child Development",
+  "q_hi": "पियाजे के अनुसार, मूर्त संक्रियात्मक अवस्था में बच्चे में विकसित होने वाली 'क्रमबद्धता' (seriation) योग्यता का अर्थ है —",
+  "q_en": "According to Piaget, the ability of 'seriation' that develops in the concrete operational stage means —",
+  "options": [
+   "वस्तुओं को आकार या लंबाई के क्रम में व्यवस्थित करना",
+   "किसी क्रिया को मानसिक रूप से उलट देना",
+   "दूसरों के दृष्टिकोण को समझना",
+   "काल्पनिक स्थितियों पर तर्क करना"
+  ],
+  "options_en": [
+   "Arranging objects in order of size or length",
+   "Mentally reversing an action",
+   "Understanding others' point of view",
+   "Reasoning about hypothetical situations"
+  ],
+  "answer": 0,
+  "exp_hi": "क्रमबद्धता अर्थात छड़ियों को लंबाई के क्रम में या वस्तुओं को आकार के क्रम में लगाना मूर्त संक्रियात्मक अवस्था (7–11 वर्ष) की प्रमुख उपलब्धि है। क्रिया को उलट देना 'उत्क्रमणीयता' है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 1
+ },
+ {
+  "n": 437,
+  "subject": "Child Development",
+  "q_hi": "एक बच्चा समझता है कि मिट्टी के गोले को साँप जैसी आकृति में बदलने पर भी मिट्टी की मात्रा उतनी ही रहती है, क्योंकि उसे फिर से गोला बनाया जा सकता है। यह समझ किस संज्ञानात्मक योग्यता को दर्शाती है?",
+  "q_en": "A child understands that when a ball of clay is rolled into a snake-like shape, the amount of clay remains the same because it can be made into a ball again. This understanding shows which cognitive ability?",
+  "options": [
+   "अहंकेंद्रितता",
+   "केंद्रीयकरण",
+   "जीवंतवाद",
+   "उत्क्रमणीयता (पलटनीयता)"
+  ],
+  "options_en": [
+   "Egocentrism",
+   "Centration",
+   "Animism",
+   "Reversibility"
+  ],
+  "answer": 3,
+  "exp_hi": "उत्क्रमणीयता अर्थात किसी परिवर्तन को मानसिक रूप से उलटकर मूल स्थिति में लौटने की समझ — यही संरक्षण (conservation) की समझ का आधार है, जो मूर्त संक्रियात्मक अवस्था में विकसित होती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 2
+ },
+ {
+  "n": 438,
+  "subject": "Child Development",
+  "q_hi": "ब्रूनर द्वारा प्रतिपादित 'खोज अधिगम' (discovery learning) में शिक्षक की सबसे उपयुक्त भूमिका क्या है?",
+  "q_en": "In Bruner's 'discovery learning', what is the most appropriate role of the teacher?",
+  "options": [
+   "ऐसी परिस्थितियाँ बनाना जिनमें विद्यार्थी स्वयं खोजकर निष्कर्ष तक पहुँचें",
+   "तथ्यों को व्याख्यान द्वारा सीधे बता देना",
+   "विद्यार्थियों को केवल पाठ्यपुस्तक पढ़ने को कहना",
+   "सही उत्तरों को रटने के लिए प्रोत्साहित करना"
+  ],
+  "options_en": [
+   "To create situations in which learners discover and reach conclusions themselves",
+   "To directly tell the facts through lectures",
+   "To ask learners only to read the textbook",
+   "To encourage rote learning of correct answers"
+  ],
+  "answer": 0,
+  "exp_hi": "ब्रूनर के अनुसार बच्चे स्वयं खोज करके सीखते हैं तो ज्ञान स्थायी होता है। शिक्षक मार्गदर्शक बनकर ऐसी सामग्री और परिस्थितियाँ देता है जिनसे विद्यार्थी स्वयं नियम व निष्कर्ष खोज सके।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 3
+ },
+ {
+  "n": 439,
+  "subject": "Child Development",
+  "q_hi": "शास्त्रीय अनुबंधन में, जब जीव मूल अनुबंधित उद्दीपक से मिलते-जुलते अन्य उद्दीपकों पर भी वही अनुक्रिया देने लगता है, तो इसे कहते हैं —",
+  "q_en": "In classical conditioning, when the organism starts giving the same response to other stimuli similar to the original conditioned stimulus, it is called —",
+  "options": [
+   "उद्दीपक विभेदीकरण",
+   "विलोपन",
+   "स्वतः पुनःप्राप्ति",
+   "उद्दीपक सामान्यीकरण"
+  ],
+  "options_en": [
+   "Stimulus discrimination",
+   "Extinction",
+   "Spontaneous recovery",
+   "Stimulus generalization"
+  ],
+  "answer": 3,
+  "exp_hi": "उद्दीपक सामान्यीकरण में जीव घंटी जैसी मिलती-जुलती आवाज़ों पर भी लार टपकाने लगता है। इसके विपरीत, केवल मूल उद्दीपक पर अनुक्रिया देना विभेदीकरण कहलाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 4
+ },
+ {
+  "n": 440,
+  "subject": "Child Development",
+  "q_hi": "थॉर्नडाइक के 'तत्परता के नियम' (Law of Readiness) का कक्षा-शिक्षण के लिए सही निहितार्थ है —",
+  "q_en": "The correct implication of Thorndike's 'Law of Readiness' for classroom teaching is —",
+  "options": [
+   "विद्यार्थी को बार-बार अभ्यास कराना चाहिए",
+   "कठिन पाठ सबसे पहले पढ़ाना चाहिए",
+   "सफलता पर पुरस्कार अवश्य देना चाहिए",
+   "जब विद्यार्थी मानसिक रूप से तैयार हो, तभी नया पाठ पढ़ाना अधिक प्रभावी होता है"
+  ],
+  "options_en": [
+   "Learners should be made to practise again and again",
+   "The difficult lesson should be taught first",
+   "Reward must be given on success",
+   "Teaching a new lesson is more effective when the learner is mentally ready"
+  ],
+  "answer": 3,
+  "exp_hi": "तत्परता के नियम के अनुसार जब विद्यार्थी सीखने के लिए तैयार होता है तो सीखना संतोषजनक और शीघ्र होता है; बिना तैयारी के जबरदस्ती सिखाने से झुंझलाहट होती है। इसलिए शिक्षक को पूर्व-ज्ञान और रुचि जगाकर तैयार करना चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 5
+ },
+ {
+  "n": 441,
+  "subject": "Child Development",
+  "q_hi": "'संज्ञानात्मक मानचित्र' (cognitive map) की अवधारणा किसने दी थी?",
+  "q_en": "Who gave the concept of 'cognitive map'?",
+  "options": [
+   "इवान पावलोव",
+   "बी.एफ. स्किनर",
+   "एडवर्ड टॉलमैन",
+   "जॉन वॉटसन"
+  ],
+  "options_en": [
+   "Ivan Pavlov",
+   "B.F. Skinner",
+   "Edward Tolman",
+   "John Watson"
+  ],
+  "answer": 2,
+  "exp_hi": "टॉलमैन ने चूहों के भूलभुलैया प्रयोगों से दिखाया कि जीव अपने मन में पर्यावरण का संज्ञानात्मक मानचित्र बना लेता है — यही उनके 'चिह्न अधिगम' (sign learning) सिद्धांत का आधार है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 6
+ },
+ {
+  "n": 442,
+  "subject": "Child Development",
+  "q_hi": "फ्रायड के मनोलैंगिक विकास में 6 वर्ष से यौवनारंभ तक की वह अवस्था, जिसमें लैंगिक रुचियाँ शांत रहती हैं और बच्चा विद्यालय व साथियों में अधिक रुचि लेता है, कहलाती है —",
+  "q_en": "In Freud's psychosexual development, the stage from about 6 years to puberty, in which sexual interests remain dormant and the child takes more interest in school and peers, is called —",
+  "options": [
+   "मुखीय अवस्था",
+   "सुप्त (अव्यक्त) अवस्था",
+   "गुदा अवस्था",
+   "जननेंद्रिय अवस्था"
+  ],
+  "options_en": [
+   "Oral stage",
+   "Latency stage",
+   "Anal stage",
+   "Genital stage"
+  ],
+  "answer": 1,
+  "exp_hi": "सुप्त अवस्था (Latency stage) में बच्चे की ऊर्जा पढ़ाई, खेल और सामाजिक कौशलों की ओर मुड़ जाती है। इससे पहले लिंग-प्रधान (phallic) अवस्था 3–6 वर्ष में आती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 7
+ },
+ {
+  "n": 443,
+  "subject": "Child Development",
+  "q_hi": "एरिक्सन के अनुसार, युवा वयस्कता (लगभग 18–40 वर्ष) का मुख्य मनोसामाजिक संकट है —",
+  "q_en": "According to Erikson, the main psychosocial crisis of young adulthood (about 18–40 years) is —",
+  "options": [
+   "विश्वास बनाम अविश्वास",
+   "पहचान बनाम भूमिका संभ्रम",
+   "उत्पादकता बनाम ठहराव",
+   "घनिष्ठता बनाम एकाकीपन"
+  ],
+  "options_en": [
+   "Trust vs Mistrust",
+   "Identity vs Role confusion",
+   "Generativity vs Stagnation",
+   "Intimacy vs Isolation"
+  ],
+  "answer": 3,
+  "exp_hi": "एरिक्सन के अनुसार युवा वयस्कता में व्यक्ति दूसरों से गहरे, प्रतिबद्ध संबंध बनाने का प्रयास करता है — इसमें सफलता से घनिष्ठता और असफलता से एकाकीपन की भावना आती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 8
+ },
+ {
+  "n": 444,
+  "subject": "Child Development",
+  "q_hi": "परीक्षा में असफल होने पर विद्यार्थी कहता है — 'अच्छा हुआ मैं पास नहीं हुआ, वह विद्यालय वैसे भी अच्छा नहीं था।' फ्रायड के अनुसार यह किस रक्षा-युक्ति का उदाहरण है?",
+  "q_en": "On failing an examination, a student says — 'It is good that I did not pass, that school was not good anyway.' According to Freud, this is an example of which defence mechanism?",
+  "options": [
+   "प्रक्षेपण",
+   "प्रतिगमन",
+   "युक्तिकरण (तर्कसंगतीकरण)",
+   "उदात्तीकरण"
+  ],
+  "options_en": [
+   "Projection",
+   "Regression",
+   "Rationalization",
+   "Sublimation"
+  ],
+  "answer": 2,
+  "exp_hi": "युक्तिकरण में व्यक्ति अपनी असफलता या अवांछित व्यवहार के लिए तर्कसंगत लगने वाले बहाने बनाता है — 'अंगूर खट्टे हैं' वाली कहावत इसी का उदाहरण है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 9
+ },
+ {
+  "n": 445,
+  "subject": "Child Development",
+  "q_hi": "गार्डनर के बहु-बुद्धि सिद्धांत में, पौधों, जानवरों और प्राकृतिक परिवेश को पहचानने व वर्गीकृत करने की क्षमता किस बुद्धि से संबंधित है?",
+  "q_en": "In Gardner's theory of multiple intelligences, the ability to recognise and classify plants, animals and the natural environment is related to which intelligence?",
+  "options": [
+   "स्थानिक बुद्धि",
+   "अंतरवैयक्तिक बुद्धि",
+   "संगीतात्मक बुद्धि",
+   "प्रकृतिवादी बुद्धि"
+  ],
+  "options_en": [
+   "Spatial intelligence",
+   "Interpersonal intelligence",
+   "Musical intelligence",
+   "Naturalist intelligence"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रकृतिवादी (Naturalist) बुद्धि प्रकृति के तत्वों — पौधे, जीव-जंतु, मौसम आदि — को पहचानने और उनमें भेद करने की क्षमता है। यह बुद्धि किसानों, जीव-वैज्ञानिकों और पर्यावरणविदों में विशेष रूप से विकसित होती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 10
+ },
+ {
+  "n": 446,
+  "subject": "Child Development",
+  "q_hi": "स्टर्नबर्ग के त्रितंत्रीय (triarchic) सिद्धांत में 'सृजनात्मक बुद्धि' का संबंध मुख्यतः किससे है?",
+  "q_en": "In Sternberg's triarchic theory, 'creative intelligence' is mainly related to —",
+  "options": [
+   "पाठ्यपुस्तक के प्रश्नों का विश्लेषण करने से",
+   "दैनिक जीवन की व्यावहारिक समस्याएँ सुलझाने से",
+   "नई और अपरिचित परिस्थितियों से निपटने तथा नए विचार उत्पन्न करने से",
+   "तथ्यों को शीघ्र याद करने से"
+  ],
+  "options_en": [
+   "Analysing textbook questions",
+   "Solving practical problems of daily life",
+   "Dealing with new and unfamiliar situations and generating new ideas",
+   "Memorising facts quickly"
+  ],
+  "answer": 2,
+  "exp_hi": "स्टर्नबर्ग की सृजनात्मक (अनुभवजन्य) बुद्धि नवीन स्थितियों में मौलिक समाधान खोजने की क्षमता है। विश्लेषणात्मक बुद्धि पढ़ाई-विश्लेषण से और व्यावहारिक बुद्धि रोज़मर्रा की समझदारी से जुड़ी है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 11
+ },
+ {
+  "n": 447,
+  "subject": "Child Development",
+  "q_hi": "रेवेन प्रोग्रेसिव मैट्रिसेस (Raven's Progressive Matrices) को 'संस्कृति-मुक्त' (culture-fair) बुद्धि परीक्षण क्यों माना जाता है?",
+  "q_en": "Why is Raven's Progressive Matrices considered a 'culture-fair' intelligence test?",
+  "options": [
+   "क्योंकि यह केवल अंग्रेज़ी में होता है",
+   "क्योंकि इसमें समय-सीमा नहीं होती",
+   "क्योंकि यह केवल बच्चों के लिए बना है",
+   "क्योंकि इसमें भाषा व सांस्कृतिक ज्ञान पर निर्भरता न्यूनतम होती है और आकृतियों के पैटर्न पर आधारित समस्याएँ होती हैं"
+  ],
+  "options_en": [
+   "Because it is only in English",
+   "Because it has no time limit",
+   "Because it is made only for children",
+   "Because it has minimum dependence on language and cultural knowledge and is based on problems of figure patterns"
+  ],
+  "answer": 3,
+  "exp_hi": "रेवेन का परीक्षण अशाब्दिक है — अधूरी आकृति को पूरा करने के लिए पैटर्न पहचानना होता है। भाषा और सांस्कृतिक अनुभव का प्रभाव कम होने से विभिन्न संस्कृतियों के बच्चों पर इसका प्रयोग अपेक्षाकृत निष्पक्ष माना जाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 12
+ },
+ {
+  "n": 448,
+  "subject": "Child Development",
+  "q_hi": "थीमैटिक एपर्सेप्शन टेस्ट (TAT) किस प्रकार की व्यक्तित्व-मापन प्रविधि का उदाहरण है?",
+  "q_en": "Thematic Apperception Test (TAT) is an example of which type of personality measurement technique?",
+  "options": [
+   "आत्म-विवरण सूची (self-report inventory)",
+   "प्रक्षेपी प्रविधि",
+   "निरीक्षण प्रविधि",
+   "सामाजिक-मिति (sociometry)"
+  ],
+  "options_en": [
+   "Self-report inventory",
+   "Projective technique",
+   "Observation technique",
+   "Sociometry"
+  ],
+  "answer": 1,
+  "exp_hi": "TAT एक प्रक्षेपी प्रविधि है — इसमें व्यक्ति को अस्पष्ट चित्र दिखाकर कहानी बनाने को कहा जाता है, जिससे उसकी दबी हुई भावनाएँ, आवश्यकताएँ और प्रेरणाएँ प्रकट होती हैं। रोर्शा स्याही-धब्बा परीक्षण भी इसी श्रेणी का है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 13
+ },
+ {
+  "n": 449,
+  "subject": "Child Development",
+  "q_hi": "'मैंने पिछले वर्ष अपने जन्मदिन पर लाल कमीज़ पहनी थी' — यह स्मृति किस प्रकार की दीर्घकालिक स्मृति का उदाहरण है?",
+  "q_en": "'I wore a red shirt on my birthday last year' — this memory is an example of which type of long-term memory?",
+  "options": [
+   "अर्थगत (semantic) स्मृति",
+   "संवेदी स्मृति",
+   "क्रियात्मक (procedural) स्मृति",
+   "प्रासंगिक (episodic) स्मृति"
+  ],
+  "options_en": [
+   "Semantic memory",
+   "Sensory memory",
+   "Procedural memory",
+   "Episodic memory"
+  ],
+  "answer": 3,
+  "exp_hi": "प्रासंगिक स्मृति व्यक्तिगत जीवन की घटनाओं और अनुभवों की स्मृति है — कब, कहाँ, क्या हुआ। इसके विपरीत अर्थगत स्मृति सामान्य तथ्यों व अवधारणाओं (जैसे भारत की राजधानी) की स्मृति होती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 14
+ },
+ {
+  "n": 450,
+  "subject": "Child Development",
+  "q_hi": "एक विद्यार्थी हथौड़े को केवल कील ठोकने के काम का समझता है और आवश्यकता पड़ने पर भी उसे वज़न के रूप में प्रयोग करने की बात नहीं सोच पाता। यह समस्या-समाधान में किस बाधा का उदाहरण है?",
+  "q_en": "A student thinks of a hammer only as a tool for hitting nails and, even when needed, cannot think of using it as a weight. This is an example of which obstacle in problem solving?",
+  "options": [
+   "मानसिक वृत्ति (mental set)",
+   "कार्यात्मक स्थिरता (functional fixedness)",
+   "पश्चदृष्टि पूर्वाग्रह",
+   "अंतर्दृष्टि का अभाव"
+  ],
+  "options_en": [
+   "Mental set",
+   "Functional fixedness",
+   "Hindsight bias",
+   "Lack of insight"
+  ],
+  "answer": 1,
+  "exp_hi": "कार्यात्मक स्थिरता में व्यक्ति वस्तु के केवल परंपरागत प्रयोग तक सीमित रह जाता है और उसके नए प्रयोग नहीं सोच पाता — यह सृजनात्मक समस्या-समाधान की प्रमुख बाधा है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 15
+ },
+ {
+  "n": 451,
+  "subject": "Child Development",
+  "q_hi": "भाषा विकास में, लगभग 6 सप्ताह से 3 माह के शिशु द्वारा 'कू-कू', 'आ-आ' जैसी कोमल स्वर-ध्वनियाँ निकालना किस अवस्था को दर्शाता है?",
+  "q_en": "In language development, a baby of about 6 weeks to 3 months producing soft vowel sounds like 'coo-coo', 'aa-aa' shows which stage?",
+  "options": [
+   "बड़बड़ाहट (babbling) अवस्था",
+   "एक-शब्दीय अवस्था",
+   "किलकारी/गुंजन (cooing) अवस्था",
+   "तार-भाषा (telegraphic) अवस्था"
+  ],
+  "options_en": [
+   "Babbling stage",
+   "One-word stage",
+   "Cooing stage",
+   "Telegraphic stage"
+  ],
+  "answer": 2,
+  "exp_hi": "किलकारी (cooing) में शिशु मुख्यतः स्वर ध्वनियाँ निकालता है और यह अवस्था बड़बड़ाहट (लगभग 6 माह, 'बा-बा', 'मा-मा') से पहले आती है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 16
+ },
+ {
+  "n": 452,
+  "subject": "Child Development",
+  "q_hi": "बौद्धिक अक्षमता (intellectual disability) की पहचान के लिए सबसे सही मानदंड कौन-सा है?",
+  "q_en": "What is the most correct criterion for identifying intellectual disability?",
+  "options": [
+   "केवल विद्यालय में कम अंक आना",
+   "बुद्धि-लब्धि (IQ) लगभग 70 से कम होना तथा दैनिक जीवन के अनुकूलन व्यवहार (adaptive behaviour) में भी स्पष्ट कमी होना",
+   "बच्चे का शारीरिक रूप से कमज़ोर होना",
+   "केवल भाषा विकास में देरी होना"
+  ],
+  "options_en": [
+   "Only getting low marks in school",
+   "IQ of about below 70 along with clear deficits in adaptive behaviour of daily life",
+   "The child being physically weak",
+   "Only delay in language development"
+  ],
+  "answer": 1,
+  "exp_hi": "बौद्धिक अक्षमता की पहचान दोहरे मानदंड से होती है — बौद्धिक कार्यक्षमता (IQ लगभग 70 से कम) के साथ-साथ संप्रेषण, आत्म-देखभाल जैसे अनुकूलन व्यवहार में भी कमी। केवल कम अंक इसे नहीं दर्शाते।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 17
+ },
+ {
+  "n": 453,
+  "subject": "Child Development",
+  "q_hi": "एक प्रतिभाशाली बच्चा, जिसकी बुद्धि-क्षमता उच्च है, फिर भी कक्षा में लगातार अपेक्षा से कम उपलब्धि दिखाता है। ऐसे बच्चे के लिए शिक्षक का सबसे उपयुक्त कदम है —",
+  "q_en": "A gifted child with high intellectual ability consistently shows achievement lower than expected in class. The most appropriate step for the teacher for such a child is —",
+  "options": [
+   "उसे साधारण बच्चों के साथ ही रहने देना",
+   "उसे अधिक से अधिक लिखित गृहकार्य देना",
+   "कम उपलब्धि के कारणों (रुचि, चुनौती की कमी, भावनात्मक कारण) को जानकर उसे चुनौतीपूर्ण व रुचिकर कार्य देना",
+   "उसकी तुलना उच्च उपलब्धि वाले बच्चों से करना"
+  ],
+  "options_en": [
+   "To leave him with average children only",
+   "To give him more and more written homework",
+   "To find out the causes of low achievement (interest, lack of challenge, emotional reasons) and give him challenging and interesting work",
+   "To compare him with high achievers"
+  ],
+  "answer": 2,
+  "exp_hi": "प्रतिभाशाली अल्प-उपलब्धिकर्ता (gifted underachiever) प्रायः चुनौती की कमी या अरुचि से पीछे रहता है। कारण जानकर समृद्ध (enriched) और चुनौतीपूर्ण कार्य देना ही सही उपाय है; तुलना या अतिरिक्त साधारण गृहकार्य स्थिति बिगाड़ सकता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 18
+ },
+ {
+  "n": 454,
+  "subject": "Child Development",
+  "q_hi": "कोई परीक्षण जिस गुण या योग्यता को मापने के लिए बनाया गया है, यदि वह उसी को सही ढंग से मापता है, तो परीक्षण की यह विशेषता कहलाती है —",
+  "q_en": "If a test correctly measures the trait or ability for which it has been constructed, this quality of the test is called —",
+  "options": [
+   "वैधता",
+   "विश्वसनीयता",
+   "वस्तुनिष्ठता",
+   "व्यावहारिकता"
+  ],
+  "options_en": [
+   "Validity",
+   "Reliability",
+   "Objectivity",
+   "Usability"
+  ],
+  "answer": 0,
+  "exp_hi": "वैधता (Validity) का अर्थ है — परीक्षण वही मापे जिसके लिए बना है। जैसे गणित की योग्यता मापने वाला परीक्षण भाषा-ज्ञान को न मापे। विश्वसनीयता परिणामों की स्थिरता को कहते हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 19
+ },
+ {
+  "n": 455,
+  "subject": "Child Development",
+  "q_hi": "एक ही परीक्षण को एक ही समूह पर दो बार देने से यदि दोनों बार लगभग एक जैसे अंक प्राप्त हों, तो यह परीक्षण की किस विशेषता को दर्शाता है?",
+  "q_en": "If a test given twice to the same group yields almost the same scores both times, it shows which quality of the test?",
+  "options": [
+   "वैधता",
+   "विश्वसनीयता",
+   "मानकीकरण",
+   "विभेदकता"
+  ],
+  "options_en": [
+   "Validity",
+   "Reliability",
+   "Standardisation",
+   "Discrimination"
+  ],
+  "answer": 1,
+  "exp_hi": "विश्वसनीयता (Reliability) परिणामों की संगति व स्थिरता है — बार-बार प्रयोग पर एक जैसे परिणाम। ध्यान रहे, विश्वसनीय परीक्षण का वैध होना आवश्यक नहीं, पर वैध परीक्षण का विश्वसनीय होना आवश्यक है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 20
+ },
+ {
+  "n": 456,
+  "subject": "Child Development",
+  "q_hi": "'अधिगम के रूप में आकलन' (Assessment as Learning) का मुख्य लक्षण है —",
+  "q_en": "The main feature of 'Assessment as Learning' is —",
+  "options": [
+   "शिक्षक सत्र के अंत में परीक्षा लेता है",
+   "केवल अंकों के आधार पर श्रेणी दी जाती है",
+   "विद्यार्थी एक-दूसरे के कार्य का मूल्यांकन करते हैं",
+   "विद्यार्थी स्वयं अपने अधिगम की निगरानी करता है, आत्म-मूल्यांकन करता है और सुधार की योजना बनाता है"
+  ],
+  "options_en": [
+   "The teacher takes a test at the end of the term",
+   "Grades are given only on the basis of marks",
+   "Learners evaluate each other's work",
+   "The learner himself monitors his own learning, does self-assessment and plans improvement"
+  ],
+  "answer": 3,
+  "exp_hi": "'अधिगम के रूप में आकलन' में विद्यार्थी स्वयं अपने सीखने का आकलनकर्ता बनता है — आत्म-चिंतन और मेटाकॉग्निशन से वह अपने अधिगम को स्वयं नियंत्रित करना सीखता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 21
+ },
+ {
+  "n": 457,
+  "subject": "Child Development",
+  "q_hi": "शिक्षा का अधिकार अधिनियम (RTE) 2009 के अनुसार प्राथमिक स्तर (कक्षा 1–5) पर निर्धारित छात्र-शिक्षक अनुपात है —",
+  "q_en": "According to the Right to Education (RTE) Act 2009, the prescribed pupil-teacher ratio at the primary level (Classes 1–5) is —",
+  "options": [
+   "40 : 1",
+   "35 : 1",
+   "25 : 1",
+   "30 : 1"
+  ],
+  "options_en": [
+   "40 : 1",
+   "35 : 1",
+   "25 : 1",
+   "30 : 1"
+  ],
+  "answer": 3,
+  "exp_hi": "RTE 2009 के मानदंडों के अनुसार प्राथमिक स्तर पर छात्र-शिक्षक अनुपात 30:1 और उच्च प्राथमिक स्तर पर 35:1 निर्धारित है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 22
+ },
+ {
+  "n": 458,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के अंतर्गत स्थापित 'परख' (PARAKH) का संबंध किससे है?",
+  "q_en": "What is 'PARAKH', established under the National Education Policy (NEP) 2020, related to?",
+  "options": [
+   "राष्ट्रीय स्तर पर विद्यार्थियों के अधिगम का आकलन व मानक निर्धारण से",
+   "शिक्षक प्रशिक्षण से",
+   "विद्यालय भवन निर्माण से",
+   "मध्याह्न भोजन योजना से"
+  ],
+  "options_en": [
+   "Assessment of students' learning and setting standards at the national level",
+   "Teacher training",
+   "Construction of school buildings",
+   "Mid-day meal scheme"
+  ],
+  "answer": 0,
+  "exp_hi": "परख (Performance Assessment, Review and Analysis of Knowledge for Holistic Development) NCERT के अंतर्गत स्थापित राष्ट्रीय आकलन केंद्र है, जो बोर्डों के लिए आकलन के मानक व दिशानिर्देश तय करता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 23
+ },
+ {
+  "n": 459,
+  "subject": "Child Development",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के अनुसार व्यावसायिक शिक्षा (vocational education) की शुरुआत किस कक्षा से करने और 'बैग-रहित दिवस' (bagless days) का प्रावधान है?",
+  "q_en": "According to the National Education Policy (NEP) 2020, from which class is vocational education to begin, with the provision of 'bagless days'?",
+  "options": [
+   "कक्षा 9 से",
+   "कक्षा 11 से",
+   "कक्षा 6 से",
+   "कक्षा 3 से"
+  ],
+  "options_en": [
+   "From Class 9",
+   "From Class 11",
+   "From Class 6",
+   "From Class 3"
+  ],
+  "answer": 2,
+  "exp_hi": "NEP 2020 में कक्षा 6 से ही व्यावसायिक शिक्षा शुरू करने, स्थानीय कारीगरों के साथ इंटर्नशिप और वर्ष में बैग-रहित दिवसों का प्रावधान है, ताकि बच्चे कौशलों से प्रारंभ से ही जुड़ें।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 24
+ },
+ {
+  "n": 460,
+  "subject": "Child Development",
+  "q_hi": "संयुक्त राष्ट्र बाल अधिकार अभिसमय (UNCRC) 1989 के अनुसार 'बालक' से तात्पर्य है —",
+  "q_en": "According to the United Nations Convention on the Rights of the Child (UNCRC) 1989, a 'child' means —",
+  "options": [
+   "14 वर्ष से कम आयु का प्रत्येक मानव",
+   "18 वर्ष से कम आयु का प्रत्येक मानव",
+   "16 वर्ष से कम आयु का प्रत्येक मानव",
+   "12 वर्ष से कम आयु का प्रत्येक मानव"
+  ],
+  "options_en": [
+   "Every human being below 14 years",
+   "Every human being below 18 years",
+   "Every human being below 16 years",
+   "Every human being below 12 years"
+  ],
+  "answer": 1,
+  "exp_hi": "UNCRC 1989 के अनुसार 18 वर्ष से कम आयु का प्रत्येक व्यक्ति बालक है और उसे जीवन, विकास, संरक्षण तथा भागीदारी के अधिकार प्राप्त हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 25
+ },
+ {
+  "n": 461,
+  "subject": "Child Development",
+  "q_hi": "विकास में 'परिपक्वता' (maturation) से क्या तात्पर्य है?",
+  "q_en": "What is meant by 'maturation' in development?",
+  "options": [
+   "अभ्यास से कौशल में सुधार होना",
+   "आनुवंशिक रूप से निर्धारित क्रम में शारीरिक व मानसिक क्षमताओं का स्वतः प्रकट होना",
+   "पर्यावरण से सीखी गई आदतें",
+   "केवल शारीरिक आकार में वृद्धि"
+  ],
+  "options_en": [
+   "Improvement in skill through practice",
+   "Automatic unfolding of physical and mental abilities in a genetically determined sequence",
+   "Habits learnt from the environment",
+   "Only increase in physical size"
+  ],
+  "answer": 1,
+  "exp_hi": "परिपक्वता जन्मजात (आनुवंशिक) कार्यक्रम के अनुसार क्षमताओं का क्रमिक प्रकटीकरण है — जैसे बच्चा निश्चित आयु में चलना शुरू करता है। अधिगम पर्यावरण व अभ्यास पर निर्भर करता है, जबकि परिपक्वता आंतरिक प्रक्रिया है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 26
+ },
+ {
+  "n": 462,
+  "subject": "Child Development",
+  "q_hi": "मास्लो के आवश्यकता-पदानुक्रम में सबसे ऊपरी स्तर पर कौन-सी आवश्यकता है?",
+  "q_en": "Which need is at the topmost level in Maslow's hierarchy of needs?",
+  "options": [
+   "सुरक्षा की आवश्यकता",
+   "सम्मान की आवश्यकता",
+   "आत्म-साक्षात्कार (self-actualisation) की आवश्यकता",
+   "संबद्धता व प्रेम की आवश्यकता"
+  ],
+  "options_en": [
+   "Safety needs",
+   "Esteem needs",
+   "Self-actualisation needs",
+   "Belongingness and love needs"
+  ],
+  "answer": 2,
+  "exp_hi": "मास्लो के पदानुक्रम में क्रम है — शारीरिक, सुरक्षा, प्रेम-संबद्धता, सम्मान और सबसे ऊपर आत्म-साक्षात्कार, अर्थात अपनी पूर्ण क्षमता को साकार करना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 27
+ },
+ {
+  "n": 463,
+  "subject": "Child Development",
+  "q_hi": "कुर्ट लेविन के 'क्षेत्र सिद्धांत' (Field Theory) के अनुसार व्यक्ति का व्यवहार किसका परिणाम है?",
+  "q_en": "According to Kurt Lewin's 'Field Theory', human behaviour is the result of what?",
+  "options": [
+   "केवल व्यक्ति की आनुवंशिकता का",
+   "केवल पुरस्कार और दंड का",
+   "व्यक्ति और उसके मनोवैज्ञानिक पर्यावरण (जीवन-क्षेत्र) की अंतःक्रिया का",
+   "केवल अचेतन प्रेरणाओं का"
+  ],
+  "options_en": [
+   "Only of the person's heredity",
+   "Only of reward and punishment",
+   "Of the interaction between the person and his psychological environment (life space)",
+   "Only of unconscious motives"
+  ],
+  "answer": 2,
+  "exp_hi": "लेविन का प्रसिद्ध सूत्र है — B = f(P, E), अर्थात व्यवहार (B) व्यक्ति (P) और पर्यावरण (E) का फलन है। व्यक्ति अपने 'जीवन-क्षेत्र' (life space) के संदर्भ में व्यवहार करता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 28
+ },
+ {
+  "n": 464,
+  "subject": "Child Development",
+  "q_hi": "निम्नलिखित में से कौन-सा 'लैंगिक रूढ़िबद्धता' (gender stereotyping) का उदाहरण है?",
+  "q_en": "Which of the following is an example of 'gender stereotyping'?",
+  "options": [
+   "यह मानना कि लड़कियाँ गृह-विज्ञान में और लड़के केवल गणित में ही अच्छे होते हैं",
+   "सभी बच्चों को एक समान अवसर देना",
+   "लड़कियों को खेलों में भाग लेने के लिए प्रोत्साहित करना",
+   "कक्षा के कार्य लड़के-लड़कियों में बारी-बारी से बाँटना"
+  ],
+  "options_en": [
+   "Believing that girls are good only in home science and boys only in mathematics",
+   "Giving equal opportunities to all children",
+   "Encouraging girls to participate in sports",
+   "Distributing classroom duties turn by turn among boys and girls"
+  ],
+  "answer": 0,
+  "exp_hi": "लैंगिक रूढ़िबद्धता अर्थात लिंग के आधार पर क्षमताओं व भूमिकाओं के बारे में पहले से बनी-बनाई धारणाएँ थोपना। शिक्षक को ऐसी धारणाओं को तोड़कर सभी को समान अवसर देने चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 29
+ },
+ {
+  "n": 465,
+  "subject": "Child Development",
+  "q_hi": "'करके सीखना' (Learning by Doing) के शैक्षिक विचार के प्रमुख समर्थक कौन हैं?",
+  "q_en": "Who is the main proponent of the educational idea of 'Learning by Doing'?",
+  "options": [
+   "जॉन ड्यूवी",
+   "बी.एफ. स्किनर",
+   "सिगमंड फ्रायड",
+   "इवान पावलोव"
+  ],
+  "options_en": [
+   "John Dewey",
+   "B.F. Skinner",
+   "Sigmund Freud",
+   "Ivan Pavlov"
+  ],
+  "answer": 0,
+  "exp_hi": "जॉन ड्यूवी के प्रयोजनवाद (Pragmatism) के अनुसार बच्चा स्वयं क्रिया व अनुभव से सीखता है। उनके अनुसार शिक्षा जीवन की तैयारी नहीं, स्वयं जीवन है, और विद्यालय समाज का लघु रूप होना चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 30
+ },
+ {
+  "n": 466,
+  "subject": "Language-I",
+  "q_hi": "'सज्जन' शब्द का सही संधि-विच्छेद कौन-सा है?",
+  "q_en": "What is the correct sandhi-viccheda of the word 'सज्जन' (Sajjan)?",
+  "options": [
+   "सत् + जन",
+   "सज् + जन",
+   "स + ज्जन",
+   "सज + जन"
+  ],
+  "options_en": [
+   "Sat + Jan",
+   "Saj + Jan",
+   "Sa + Jjan",
+   "Saja + Jan"
+  ],
+  "answer": 0,
+  "exp_hi": "सत् + जन = सज्जन — 'त्' के बाद 'ज' आने पर 'त्' का 'ज्' हो जाता है, इसलिए यह व्यंजन संधि का उदाहरण है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 31
+ },
+ {
+  "n": 467,
+  "subject": "Language-I",
+  "q_hi": "निम्नलिखित में से तत्सम शब्द कौन-सा है?",
+  "q_en": "Which of the following is a tatsam word?",
+  "options": [
+   "सूरज",
+   "कान",
+   "सूर्य",
+   "आग"
+  ],
+  "options_en": [
+   "Suraj",
+   "Kaan",
+   "Surya",
+   "Aag"
+  ],
+  "answer": 2,
+  "exp_hi": "'सूर्य' संस्कृत का यथावत प्रयुक्त शब्द है, इसलिए तत्सम है। 'सूरज' सूर्य का, 'कान' कर्ण का और 'आग' अग्नि का तद्भव रूप है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 32
+ },
+ {
+  "n": 468,
+  "subject": "Language-I",
+  "q_hi": "'राजपुत्र' शब्द में कौन-सा समास है?",
+  "q_en": "Which samas is there in the word 'राजपुत्र' (Rajputra)?",
+  "options": [
+   "द्वंद्व समास",
+   "तत्पुरुष समास",
+   "अव्ययीभाव समास",
+   "द्विगु समास"
+  ],
+  "options_en": [
+   "Dwandwa Samas",
+   "Tatpurush Samas",
+   "Avyayibhav Samas",
+   "Dwigu Samas"
+  ],
+  "answer": 1,
+  "exp_hi": "राजपुत्र = राजा का पुत्र — इसमें कारक चिह्न 'का' का लोप हुआ है और उत्तर पद प्रधान है, इसलिए यह संबंध तत्पुरुष समास है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 33
+ },
+ {
+  "n": 469,
+  "subject": "Language-I",
+  "q_hi": "'वायु' शब्द का पर्यायवाची कौन-सा है?",
+  "q_en": "Which is the synonym of the word 'वायु' (Vaayu)?",
+  "options": [
+   "समीर",
+   "अनल",
+   "वारि",
+   "अंबर"
+  ],
+  "options_en": [
+   "Sameer",
+   "Anal",
+   "Vaari",
+   "Ambar"
+  ],
+  "answer": 0,
+  "exp_hi": "'समीर' वायु का पर्यायवाची है — पवन, वात, समीर आदि वायु के पर्याय हैं। 'अनल' अग्नि का, 'वारि' जल का और 'अंबर' आकाश का पर्यायवाची है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 34
+ },
+ {
+  "n": 470,
+  "subject": "Language-I",
+  "q_hi": "'अमृत' शब्द का विलोम कौन-सा है?",
+  "q_en": "Which is the antonym of the word 'अमृत' (Amrit)?",
+  "options": [
+   "सुधा",
+   "मधु",
+   "विष",
+   "अमर"
+  ],
+  "options_en": [
+   "Sudha",
+   "Madhu",
+   "Vish",
+   "Amar"
+  ],
+  "answer": 2,
+  "exp_hi": "'अमृत' का विलोम 'विष' है। 'सुधा' अमृत का पर्यायवाची है, विलोम नहीं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 35
+ },
+ {
+  "n": 471,
+  "subject": "Language-I",
+  "q_hi": "'बच्चा घर में खेल रहा है।' इस वाक्य में 'में' किस कारक का चिह्न है?",
+  "q_en": "In the sentence 'बच्चा घर में खेल रहा है', 'में' is the sign of which kaarak?",
+  "options": [
+   "करण कारक",
+   "संप्रदान कारक",
+   "अपादान कारक",
+   "अधिकरण कारक"
+  ],
+  "options_en": [
+   "Karan Kaarak",
+   "Sampradan Kaarak",
+   "Apadan Kaarak",
+   "Adhikaran Kaarak"
+  ],
+  "answer": 3,
+  "exp_hi": "जो शब्द क्रिया के आधार या स्थान को बताए, वह अधिकरण कारक होता है — इसके चिह्न 'में' और 'पर' हैं। यहाँ 'घर में' खेलने का स्थान बता रहा है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 36
+ },
+ {
+  "n": 472,
+  "subject": "Language-I",
+  "q_hi": "'दरवाज़े पर कोई खड़ा है।' इस वाक्य में 'कोई' किस प्रकार का सर्वनाम है?",
+  "q_en": "In the sentence 'दरवाज़े पर कोई खड़ा है', 'कोई' is which type of pronoun (sarvanam)?",
+  "options": [
+   "अनिश्चयवाचक सर्वनाम",
+   "पुरुषवाचक सर्वनाम",
+   "प्रश्नवाचक सर्वनाम",
+   "निजवाचक सर्वनाम"
+  ],
+  "options_en": [
+   "Anishchayvachak Sarvanam",
+   "Purushvachak Sarvanam",
+   "Prashnavachak Sarvanam",
+   "Nijvachak Sarvanam"
+  ],
+  "answer": 0,
+  "exp_hi": "'कोई' से किसी निश्चित व्यक्ति का बोध नहीं होता, इसलिए यह अनिश्चयवाचक सर्वनाम है। 'कौन' प्रश्नवाचक और 'मैं, तुम, वह' पुरुषवाचक सर्वनाम हैं।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 37
+ },
+ {
+  "n": 473,
+  "subject": "Language-I",
+  "q_hi": "'नौ दो ग्यारह होना' मुहावरे का सही अर्थ क्या है?",
+  "q_en": "What is the correct meaning of the idiom 'नौ दो ग्यारह होना'?",
+  "options": [
+   "गिनती भूल जाना",
+   "नौकरी मिल जाना",
+   "बहुत खुश होना",
+   "चुपके से भाग जाना"
+  ],
+  "options_en": [
+   "Forgetting counting",
+   "To get a job",
+   "To be very happy",
+   "To slip away quietly"
+  ],
+  "answer": 3,
+  "exp_hi": "'नौ दो ग्यारह होना' का अर्थ है — चुपके से भाग जाना या रफू चक्कर होना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 38
+ },
+ {
+  "n": 474,
+  "subject": "Language-I",
+  "q_hi": "भाषा की कक्षा में बच्चों द्वारा की जाने वाली त्रुटियों के प्रति शिक्षक का सबसे उपयुक्त दृष्टिकोण क्या होना चाहिए?",
+  "q_en": "What should be the most appropriate attitude of a teacher towards errors made by children in a language classroom?",
+  "options": [
+   "त्रुटियाँ अधिगम प्रक्रिया का स्वाभाविक हिस्सा हैं — इन्हें सीखने की स्थिति जानकर सहायता का आधार बनाना चाहिए",
+   "त्रुटि करते ही बच्चे को तुरंत दंडित करना चाहिए",
+   "त्रुटियों को पूरी तरह अनदेखा कर देना चाहिए",
+   "त्रुटि करने वाले बच्चे को कक्षा से बाहर कर देना चाहिए"
+  ],
+  "options_en": [
+   "Errors are a natural part of the learning process — they should be used as a basis for support by understanding the learning stage",
+   "The child should be punished immediately on making an error",
+   "Errors should be completely ignored",
+   "The child who makes errors should be sent out of the class"
+  ],
+  "answer": 0,
+  "exp_hi": "रचनात्मक दृष्टिकोण के अनुसार त्रुटियाँ बच्चे के अधिगम की अवस्था को दर्शाती हैं — ये बताती हैं कि बच्चा नियमों को स्वयं आज़मा रहा है। शिक्षक को इन्हें दबाने के बजाय प्रतिपुष्टि और सहायता का आधार बनाना चाहिए।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 39
+ },
+ {
+  "n": 475,
+  "subject": "Language-I",
+  "q_hi": "'जो मेहनत करता है, वह सफल होता है।' यह वाक्य रचना के आधार पर किस प्रकार का है?",
+  "q_en": "On the basis of structure, the sentence 'जो मेहनत करता है, वह सफल होता है' is of which type?",
+  "options": [
+   "सरल वाक्य",
+   "संयुक्त वाक्य",
+   "मिश्र वाक्य",
+   "आज्ञार्थक वाक्य"
+  ],
+  "options_en": [
+   "Simple sentence",
+   "Compound sentence",
+   "Complex (Mishra) sentence",
+   "Imperative sentence"
+  ],
+  "answer": 2,
+  "exp_hi": "इसमें एक प्रधान उपवाक्य 'वह सफल होता है' और एक आश्रित उपवाक्य 'जो मेहनत करता है' है — प्रधान और आश्रित उपवाक्यों वाला वाक्य मिश्र वाक्य कहलाता है।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 40
+ },
+ {
+  "n": 476,
+  "subject": "Language-II",
+  "q_hi": "'Commence' शब्द का पर्यायवाची (synonym) चुनिए।",
+  "q_en": "Choose the synonym of 'Commence'.",
+  "options": [
+   "Finish",
+   "Delay",
+   "Begin",
+   "Stop"
+  ],
+  "options_en": [
+   "Finish",
+   "Delay",
+   "Begin",
+   "Stop"
+  ],
+  "answer": 2,
+  "exp_hi": "'Commence' means to begin or start something, so its synonym is 'Begin'. 'Finish' and 'Stop' are its opposites.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 41
+ },
+ {
+  "n": 477,
+  "subject": "Language-II",
+  "q_hi": "'Arrival' शब्द का विलोम (antonym) चुनिए।",
+  "q_en": "Choose the antonym of 'Arrival'.",
+  "options": [
+   "Coming",
+   "Departure",
+   "Entry",
+   "Welcome"
+  ],
+  "options_en": [
+   "Coming",
+   "Departure",
+   "Entry",
+   "Welcome"
+  ],
+  "answer": 1,
+  "exp_hi": "'Arrival' means reaching a place, and its opposite is 'Departure', which means leaving a place.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 42
+ },
+ {
+  "n": 478,
+  "subject": "Language-II",
+  "q_hi": "'To beat about the bush' मुहावरे का अर्थ चुनिए।",
+  "q_en": "What does the idiom 'To beat about the bush' mean?",
+  "options": [
+   "To speak directly and clearly",
+   "To avoid coming to the main point and talk in a roundabout way",
+   "To work very hard in a garden",
+   "To beat someone with a stick"
+  ],
+  "options_en": [
+   "To speak directly and clearly",
+   "To avoid coming to the main point and talk in a roundabout way",
+   "To work very hard in a garden",
+   "To beat someone with a stick"
+  ],
+  "answer": 1,
+  "exp_hi": "'To beat about the bush' means to discuss a matter without coming to the main point — घुमा-फिराकर बात करना, मुख्य बात से बचना।",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 43
+ },
+ {
+  "n": 479,
+  "subject": "Language-II",
+  "q_hi": "'A person who loves books' के लिए एक शब्द (one-word substitute) चुनिए।",
+  "q_en": "Choose the one-word substitute for 'A person who loves books'.",
+  "options": [
+   "Linguist",
+   "Bibliophile",
+   "Orator",
+   "Cartographer"
+  ],
+  "options_en": [
+   "Linguist",
+   "Bibliophile",
+   "Orator",
+   "Cartographer"
+  ],
+  "answer": 1,
+  "exp_hi": "A 'Bibliophile' is a person who loves and collects books. A 'Linguist' knows many languages and an 'Orator' is a skilled public speaker.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 44
+ },
+ {
+  "n": 480,
+  "subject": "Language-II",
+  "q_hi": "सही preposition चुनिए: 'She divided the sweets ___ the two children.'",
+  "q_en": "Choose the correct preposition: 'She divided the sweets ___ the two children.'",
+  "options": [
+   "between",
+   "among",
+   "into",
+   "upon"
+  ],
+  "options_en": [
+   "between",
+   "among",
+   "into",
+   "upon"
+  ],
+  "answer": 0,
+  "exp_hi": "'Between' is used for two persons or things, while 'among' is used for more than two. Here the sweets are divided between two children.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 45
+ },
+ {
+  "n": 481,
+  "subject": "Language-II",
+  "q_hi": "सही verb form चुनिए: 'If I ___ a bird, I would fly in the sky.'",
+  "q_en": "Choose the correct verb form: 'If I ___ a bird, I would fly in the sky.'",
+  "options": [
+   "were",
+   "was",
+   "am",
+   "will be"
+  ],
+  "options_en": [
+   "were",
+   "was",
+   "am",
+   "will be"
+  ],
+  "answer": 0,
+  "exp_hi": "In imaginary or unreal conditional sentences ('If I were...'), 'were' is used with all subjects, even 'I' and 'he/she'. This is the subjunctive form used for wishes and imagination.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 46
+ },
+ {
+  "n": 482,
+  "subject": "Language-II",
+  "q_hi": "'She will complete the project tomorrow.' का सही passive voice चुनिए।",
+  "q_en": "Choose the correct passive voice of: 'She will complete the project tomorrow.'",
+  "options": [
+   "The project will be completed by her tomorrow.",
+   "The project is completed by her tomorrow.",
+   "The project was completed by her tomorrow.",
+   "The project will completed by her tomorrow."
+  ],
+  "options_en": [
+   "The project will be completed by her tomorrow.",
+   "The project is completed by her tomorrow.",
+   "The project was completed by her tomorrow.",
+   "The project will completed by her tomorrow."
+  ],
+  "answer": 0,
+  "exp_hi": "Future simple passive is formed with 'will be + third form of the verb (past participle)'. So 'will complete' becomes 'will be completed'.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 47
+ },
+ {
+  "n": 483,
+  "subject": "Language-II",
+  "q_hi": "सही indirect speech चुनिए: The teacher said, \"The sun rises in the east.\"",
+  "q_en": "Choose the correct indirect speech of: The teacher said, \"The sun rises in the east.\"",
+  "options": [
+   "The teacher said that the sun rose in the east.",
+   "The teacher said that the sun rises in the east.",
+   "The teacher said that the sun has risen in the east.",
+   "The teacher said that the sun will rise in the east."
+  ],
+  "options_en": [
+   "The teacher said that the sun rose in the east.",
+   "The teacher said that the sun rises in the east.",
+   "The teacher said that the sun has risen in the east.",
+   "The teacher said that the sun will rise in the east."
+  ],
+  "answer": 1,
+  "exp_hi": "Universal truths and habitual facts do not change their tense in indirect speech. 'The sun rises in the east' is a universal truth, so 'rises' remains unchanged.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 48
+ },
+ {
+  "n": 484,
+  "subject": "Language-II",
+  "q_hi": "Grammar-Translation Method की मुख्य विशेषता चुनिए।",
+  "q_en": "Which of the following is the main feature of the Grammar-Translation Method?",
+  "options": [
+   "Learners communicate freely in the target language from the first day",
+   "Grammar rules are taught deductively and texts are translated into the mother tongue",
+   "Language is learnt only through songs and games",
+   "Only listening and speaking are practised, reading is ignored"
+  ],
+  "options_en": [
+   "Learners communicate freely in the target language from the first day",
+   "Grammar rules are taught deductively and texts are translated into the mother tongue",
+   "Language is learnt only through songs and games",
+   "Only listening and speaking are practised, reading is ignored"
+  ],
+  "answer": 1,
+  "exp_hi": "In the Grammar-Translation Method, grammar rules are explained in the mother tongue, vocabulary is learnt through word lists, and passages are translated — reading and writing get more importance than speaking.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 49
+ },
+ {
+  "n": 485,
+  "subject": "Language-II",
+  "q_hi": "किस शब्द में diphthong (संयुक्त स्वर) है?",
+  "q_en": "Which of the following words contains a diphthong?",
+  "options": [
+   "cat",
+   "bed",
+   "sit",
+   "boy"
+  ],
+  "options_en": [
+   "cat",
+   "bed",
+   "sit",
+   "boy"
+  ],
+  "answer": 3,
+  "exp_hi": "A diphthong is a combination of two vowel sounds in one syllable. In 'boy', the sound 'oy' (/ɔɪ/) is a diphthong, while 'cat', 'bed' and 'sit' have single (pure) vowel sounds.",
+  "source": "Syllabus-based (Juno)",
+  "mock_q": 50
+ }
+]
