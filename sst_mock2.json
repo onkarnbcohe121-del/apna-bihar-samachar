@@ -1,0 +1,1052 @@
+[
+ {
+  "n": 1,
+  "subject": "SST",
+  "q_hi": "हड़प्पा सभ्यता का कौन सा स्थल गोदी (बंदरगाह) के लिए प्रसिद्ध है?",
+  "q_en": "Which site of the Harappan civilisation is famous for its dockyard?",
+  "options": [
+   "मोहनजोदाड़ो",
+   "हड़प्पा",
+   "लोथल",
+   "धोलावीरा"
+  ],
+  "options_en": [
+   "Mohenjodaro",
+   "Harappa",
+   "Lothal",
+   "Dholavira"
+  ],
+  "answer": 2,
+  "exp_hi": "लोथल (गुजरात) में एक विशाल गोदी (डॉकयार्ड) के अवशेष मिले हैं, जिससे पता चलता है कि यह एक महत्त्वपूर्ण बंदरगाह नगर था।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 2,
+  "subject": "SST",
+  "q_hi": "अशोक के अधिकांश अभिलेख किस लिपि में लिखे गए थे?",
+  "q_en": "In which script were most of Ashoka's inscriptions written?",
+  "options": [
+   "ब्राह्मी",
+   "खरोष्ठी",
+   "यूनानी",
+   "अरामाइक"
+  ],
+  "options_en": [
+   "Brahmi",
+   "Kharoshthi",
+   "Greek",
+   "Aramaic"
+  ],
+  "answer": 0,
+  "exp_hi": "अशोक के अधिकांश अभिलेख ब्राह्मी लिपि में लिखे गए थे। केवल उत्तर-पश्चिमी क्षेत्र के कुछ अभिलेख खरोष्ठी लिपि में मिलते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 3,
+  "subject": "SST",
+  "q_hi": "गौतम बुद्ध ने अपना पहला उपदेश (धर्मचक्र प्रवर्तन) कहाँ दिया था?",
+  "q_en": "Where did Gautama Buddha give his first sermon (Dharmachakra Pravartana)?",
+  "options": [
+   "लुम्बिनी",
+   "बोधगया",
+   "सारनाथ",
+   "कुशीनगर"
+  ],
+  "options_en": [
+   "Lumbini",
+   "Bodh Gaya",
+   "Sarnath",
+   "Kushinagar"
+  ],
+  "answer": 2,
+  "exp_hi": "बोधगया में ज्ञान प्राप्ति के बाद बुद्ध ने सारनाथ में अपने पाँच पुराने साथियों को पहला उपदेश दिया, जिसे धर्मचक्र प्रवर्तन कहा जाता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 4,
+  "subject": "SST",
+  "q_hi": "प्रयाग प्रशस्ति में किस गुप्त शासक को 'कविराज' कहा गया है?",
+  "q_en": "Which Gupta ruler is called 'Kaviraja' in the Prayaga Prashasti?",
+  "options": [
+   "समुद्रगुप्त",
+   "चंद्रगुप्त प्रथम",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "options_en": [
+   "Samudragupta",
+   "Chandragupta I",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "answer": 0,
+  "exp_hi": "हरिषेण द्वारा रचित प्रयाग प्रशस्ति में समुद्रगुप्त को 'कविराज' कहा गया है, क्योंकि वे स्वयं कवि और विद्वानों के संरक्षक थे।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 5,
+  "subject": "SST",
+  "q_hi": "दिल्ली सल्तनत की एकमात्र महिला शासक रज़िया सुल्तान किसकी पुत्री थीं?",
+  "q_en": "Razia Sultan, the only woman ruler of the Delhi Sultanate, was the daughter of whom?",
+  "options": [
+   "इल्तुतमिश",
+   "कुतुबुद्दीन ऐबक",
+   "बलबन",
+   "अलाउद्दीन ख़लजी"
+  ],
+  "options_en": [
+   "Iltutmish",
+   "Qutbuddin Aibak",
+   "Balban",
+   "Alauddin Khalji"
+  ],
+  "answer": 0,
+  "exp_hi": "रज़िया सुल्तान इल्तुतमिश की पुत्री थीं। इल्तुतमिश ने अपनी पुत्री को पुत्रों से अधिक योग्य मानकर उत्तराधिकारी घोषित किया था।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 6,
+  "subject": "SST",
+  "q_hi": "मुग़ल प्रशासन में मनसबदारी व्यवस्था किसने प्रारंभ की थी?",
+  "q_en": "Who introduced the Mansabdari system in the Mughal administration?",
+  "options": [
+   "बाबर",
+   "हुमायूँ",
+   "अकबर",
+   "शाहजहाँ"
+  ],
+  "options_en": [
+   "Babur",
+   "Humayun",
+   "Akbar",
+   "Shah Jahan"
+  ],
+  "answer": 2,
+  "exp_hi": "अकबर ने मनसबदारी व्यवस्था प्रारंभ की, जिसमें प्रत्येक अधिकारी को एक पद (मनसब) दिया जाता था और उसी के अनुसार उसका वेतन तथा सैनिक दायित्व तय होता था।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 7,
+  "subject": "SST",
+  "q_hi": "परंपरागत रूप से संत कबीर के गुरु किसे माना जाता है?",
+  "q_en": "Who is traditionally regarded as the guru of Saint Kabir?",
+  "options": [
+   "रामानंद",
+   "वल्लभाचार्य",
+   "चैतन्य महाप्रभु",
+   "नामदेव"
+  ],
+  "options_en": [
+   "Ramananda",
+   "Vallabhacharya",
+   "Chaitanya Mahaprabhu",
+   "Namdev"
+  ],
+  "answer": 0,
+  "exp_hi": "परंपरागत रूप से संत कबीर को स्वामी रामानंद का शिष्य माना जाता है। कबीर ने जाति-पाँति और धार्मिक आडंबरों का विरोध किया।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 8,
+  "subject": "SST",
+  "q_hi": "1857 के विद्रोह के वीर मंगल पांडे किस छावनी से संबंधित थे?",
+  "q_en": "Mangal Pandey, the hero of the Revolt of 1857, was associated with which cantonment?",
+  "options": [
+   "मेरठ",
+   "दिल्ली",
+   "बैरकपुर",
+   "लखनऊ"
+  ],
+  "options_en": [
+   "Meerut",
+   "Delhi",
+   "Barrackpore",
+   "Lucknow"
+  ],
+  "answer": 2,
+  "exp_hi": "मंगल पांडे बैरकपुर छावनी के सिपाही थे। उन्होंने 1857 में चर्बी वाले कारतूसों के प्रयोग का विरोध करते हुए विद्रोह की शुरुआत की थी।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 9,
+  "subject": "SST",
+  "q_hi": "गांधीजी का चंपारण सत्याग्रह (1917) किससे संबंधित था?",
+  "q_en": "Gandhiji's Champaran Satyagraha (1917) was related to whom?",
+  "options": [
+   "नील की खेती करने वाले किसानों से",
+   "चाय बागान के मज़दूरों से",
+   "कपास उत्पादक किसानों से",
+   "नमक कर से"
+  ],
+  "options_en": [
+   "Indigo cultivators (peasants)",
+   "Tea garden workers",
+   "Cotton growing farmers",
+   "Salt tax"
+  ],
+  "answer": 0,
+  "exp_hi": "चंपारण (बिहार) में किसान तिनकठिया व्यवस्था के तहत नील की खेती करने को मजबूर थे। गांधीजी ने 1917 में उनके पक्ष में सत्याग्रह किया।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 10,
+  "subject": "SST",
+  "q_hi": "रॉलेट एक्ट (1919) का भारत भर में विरोध मुख्यतः क्यों हुआ?",
+  "q_en": "Why was the Rowlatt Act (1919) opposed all over India?",
+  "options": [
+   "इससे नमक पर कर बढ़ गया था",
+   "इससे अख़बारों पर प्रतिबंध लग गया था",
+   "इसके तहत सरकार बिना मुकदमा चलाए किसी को भी जेल में डाल सकती थी",
+   "इससे भारतीयों की सेना में भर्ती बंद हो गई थी"
+  ],
+  "options_en": [
+   "It increased the tax on salt",
+   "It banned newspapers",
+   "Under it, the government could jail anyone without a trial",
+   "It stopped the recruitment of Indians in the army"
+  ],
+  "answer": 2,
+  "exp_hi": "रॉलेट एक्ट के तहत सरकार किसी भी व्यक्ति को बिना मुकदमा चलाए जेल में डाल सकती थी। इसी के विरोध में गांधीजी ने देशव्यापी सत्याग्रह का आह्वान किया।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 11,
+  "subject": "SST",
+  "q_hi": "भारतीय संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+  "q_en": "Who was the permanent President of the Constituent Assembly of India?",
+  "options": [
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "डॉ. बी. आर. अंबेडकर",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "options_en": [
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "answer": 0,
+  "exp_hi": "डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष थे, जबकि डॉ. बी. आर. अंबेडकर प्रारूप समिति के अध्यक्ष थे।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 12,
+  "subject": "SST",
+  "q_hi": "संगम साहित्य की रचना किस भाषा में हुई थी?",
+  "q_en": "In which language was Sangam literature composed?",
+  "options": [
+   "तेलुगु",
+   "कन्नड़",
+   "मलयालम",
+   "तमिल"
+  ],
+  "options_en": [
+   "Telugu",
+   "Kannada",
+   "Malayalam",
+   "Tamil"
+  ],
+  "answer": 3,
+  "exp_hi": "संगम साहित्य प्राचीन तमिल भाषा में रचा गया था। मदुरै में आयोजित कवियों के सम्मेलनों (संगमों) में इन कविताओं का संकलन हुआ।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 13,
+  "subject": "SST",
+  "q_hi": "पृथ्वी की वह परत जो भूपर्पटी के नीचे स्थित है और मैग्मा का मुख्य स्रोत है, कौन सी है?",
+  "q_en": "Which layer of the Earth lies below the crust and is the main source of magma?",
+  "options": [
+   "मैंटल",
+   "भूपर्पटी",
+   "बाह्य क्रोड",
+   "आंतरिक क्रोड"
+  ],
+  "options_en": [
+   "Mantle",
+   "Crust",
+   "Outer core",
+   "Inner core"
+  ],
+  "answer": 0,
+  "exp_hi": "भूपर्पटी के नीचे मैंटल परत है, जो लगभग 2900 किमी गहरी है। ज्वालामुखी से निकलने वाला मैग्मा मुख्यतः मैंटल के ऊपरी भाग से आता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 14,
+  "subject": "SST",
+  "q_hi": "संगमरमर किस चट्टान के रूपांतरण (कायांतरण) से बनता है?",
+  "q_en": "Marble is formed by the metamorphosis of which rock?",
+  "options": [
+   "चूना पत्थर",
+   "बलुआ पत्थर",
+   "ग्रेनाइट",
+   "बेसाल्ट"
+  ],
+  "options_en": [
+   "Limestone",
+   "Sandstone",
+   "Granite",
+   "Basalt"
+  ],
+  "answer": 0,
+  "exp_hi": "अत्यधिक ताप और दाब के कारण चूना पत्थर रूपांतरित होकर संगमरमर बन जाता है। यह कायांतरित (रूपांतरित) चट्टान का उदाहरण है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 15,
+  "subject": "SST",
+  "q_hi": "वायुमंडल की किस परत में ओज़ोन परत पाई जाती है?",
+  "q_en": "In which layer of the atmosphere is the ozone layer found?",
+  "options": [
+   "क्षोभ मंडल",
+   "मध्य मंडल",
+   "समताप मंडल",
+   "आयन मंडल"
+  ],
+  "options_en": [
+   "Troposphere",
+   "Mesosphere",
+   "Stratosphere",
+   "Ionosphere"
+  ],
+  "answer": 2,
+  "exp_hi": "ओज़ोन परत समताप मंडल (स्ट्रैटोस्फीयर) में पाई जाती है। यह सूर्य की हानिकारक पराबैंगनी किरणों को अवशोषित करके पृथ्वी की रक्षा करती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 16,
+  "subject": "SST",
+  "q_hi": "समुद्र में ज्वार-भाटा आने का मुख्य कारण क्या है?",
+  "q_en": "What is the main cause of tides in the sea?",
+  "options": [
+   "सूर्य की गर्मी",
+   "पृथ्वी का चुंबकीय क्षेत्र",
+   "पवनों की दिशा",
+   "चंद्रमा का गुरुत्वाकर्षण बल"
+  ],
+  "options_en": [
+   "Heat of the Sun",
+   "Magnetic field of the Earth",
+   "Direction of winds",
+   "Gravitational pull of the Moon"
+  ],
+  "answer": 3,
+  "exp_hi": "ज्वार-भाटा मुख्यतः चंद्रमा के गुरुत्वाकर्षण बल के कारण आते हैं; सूर्य का गुरुत्वाकर्षण भी इसमें कुछ योगदान देता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 17,
+  "subject": "SST",
+  "q_hi": "ग्रीष्म ऋतु में भारत में आने वाली मानसूनी पवनें मुख्यतः किस दिशा से चलती हैं?",
+  "q_en": "From which direction do the monsoon winds mainly blow into India during summer?",
+  "options": [
+   "उत्तर-पूर्व से",
+   "दक्षिण-पूर्व से",
+   "उत्तर-पश्चिम से",
+   "दक्षिण-पश्चिम से"
+  ],
+  "options_en": [
+   "From the north-east",
+   "From the south-east",
+   "From the north-west",
+   "From the south-west"
+  ],
+  "answer": 3,
+  "exp_hi": "ग्रीष्म ऋतु में मानसूनी पवनें दक्षिण-पश्चिम से (अरब सागर और बंगाल की खाड़ी से) स्थल की ओर चलती हैं, इसलिए इन्हें दक्षिण-पश्चिमी मानसून कहते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 18,
+  "subject": "SST",
+  "q_hi": "चावल की फसल के लिए सामान्यतः कितनी वर्षा आवश्यक मानी जाती है?",
+  "q_en": "How much rainfall is generally required for the cultivation of rice?",
+  "options": [
+   "50 सेमी से कम",
+   "50–75 सेमी",
+   "75–100 सेमी",
+   "100 सेमी से अधिक"
+  ],
+  "options_en": [
+   "Less than 50 cm",
+   "50-75 cm",
+   "75-100 cm",
+   "More than 100 cm"
+  ],
+  "answer": 3,
+  "exp_hi": "चावल एक खरीफ़ फसल है, जिसके लिए उच्च तापमान और 100 सेमी से अधिक वर्षा आवश्यक होती है। कम वर्षा वाले क्षेत्रों में यह सिंचाई से उगाई जाती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 19,
+  "subject": "SST",
+  "q_hi": "टाटा आयरन एंड स्टील कंपनी (TISCO) की स्थापना 1907 में कहाँ हुई थी?",
+  "q_en": "Where was the Tata Iron and Steel Company (TISCO) established in 1907?",
+  "options": [
+   "मुंबई",
+   "दुर्गापुर",
+   "कोलकाता",
+   "जमशेदपुर"
+  ],
+  "options_en": [
+   "Mumbai",
+   "Durgapur",
+   "Kolkata",
+   "Jamshedpur"
+  ],
+  "answer": 3,
+  "exp_hi": "TISCO की स्थापना 1907 में जमशेदपुर (वर्तमान झारखंड) में हुई थी। यह स्थान लौह अयस्क, कोयला और जल की उपलब्धता के कारण चुना गया था।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 20,
+  "subject": "SST",
+  "q_hi": "प्रधान याम्योत्तर (ग्रीनविच रेखा) का मान क्या होता है?",
+  "q_en": "What is the value of the Prime Meridian (Greenwich line)?",
+  "options": [
+   "0° देशांतर",
+   "23½° देशांतर",
+   "66½° देशांतर",
+   "90° देशांतर"
+  ],
+  "options_en": [
+   "0° longitude",
+   "23½° longitude",
+   "66½° longitude",
+   "90° longitude"
+  ],
+  "answer": 0,
+  "exp_hi": "लंदन के ग्रीनविच से गुज़रने वाली रेखा को प्रधान याम्योत्तर माना गया है और इसका मान 0° देशांतर है। इसी से सभी देशांतर गिने जाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 21,
+  "subject": "SST",
+  "q_hi": "पृथ्वी पर ऋतुओं में परिवर्तन का मुख्य कारण क्या है?",
+  "q_en": "What is the main cause of change of seasons on the Earth?",
+  "options": [
+   "पृथ्वी का अपने अक्ष पर घूर्णन",
+   "सूर्य का घूर्णन",
+   "चंद्रमा का पृथ्वी के चारों ओर परिक्रमण",
+   "पृथ्वी का परिक्रमण और उसके अक्ष का झुकाव"
+  ],
+  "options_en": [
+   "Rotation of the Earth on its axis",
+   "Rotation of the Sun",
+   "Revolution of the Moon around the Earth",
+   "Revolution of the Earth and the tilt of its axis"
+  ],
+  "answer": 3,
+  "exp_hi": "पृथ्वी का अक्ष उसके कक्ष-तल से 66½° झुका हुआ है। परिक्रमण के साथ इसी झुकाव के कारण वर्ष भर सूर्य की किरणों का कोण बदलता है और ऋतुएँ बदलती हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 22,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सा नवीकरणीय संसाधन है?",
+  "q_en": "Which of the following is a renewable resource?",
+  "options": [
+   "कोयला",
+   "पेट्रोलियम",
+   "सौर ऊर्जा",
+   "प्राकृतिक गैस"
+  ],
+  "options_en": [
+   "Coal",
+   "Petroleum",
+   "Solar energy",
+   "Natural gas"
+  ],
+  "answer": 2,
+  "exp_hi": "सौर ऊर्जा नवीकरणीय संसाधन है, क्योंकि यह प्रकृति में निरंतर उपलब्ध रहती है और समाप्त नहीं होती। कोयला, पेट्रोलियम आदि अनवीकरणीय हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 23,
+  "subject": "SST",
+  "q_hi": "कर्क रेखा (Tropic of Cancer) का अक्षांशीय मान क्या है?",
+  "q_en": "What is the latitudinal value of the Tropic of Cancer?",
+  "options": [
+   "23½° उत्तरी अक्षांश",
+   "23½° दक्षिणी अक्षांश",
+   "66½° उत्तरी अक्षांश",
+   "0° अक्षांश"
+  ],
+  "options_en": [
+   "23½° North latitude",
+   "23½° South latitude",
+   "66½° North latitude",
+   "0° latitude"
+  ],
+  "answer": 0,
+  "exp_hi": "कर्क रेखा का मान 23½° उत्तरी अक्षांश है। यह रेखा भारत के लगभग मध्य से होकर गुज़रती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 24,
+  "subject": "SST",
+  "q_hi": "भारतीय संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?",
+  "q_en": "In which Part of the Indian Constitution are the Fundamental Rights given?",
+  "options": [
+   "भाग II",
+   "भाग IV-A",
+   "भाग IV",
+   "भाग III"
+  ],
+  "options_en": [
+   "Part II",
+   "Part IV-A",
+   "Part IV",
+   "Part III"
+  ],
+  "answer": 3,
+  "exp_hi": "मौलिक अधिकार संविधान के भाग III (अनुच्छेद 12–35) में दिए गए हैं। भाग IV में राज्य के नीति निर्देशक तत्त्व हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 25,
+  "subject": "SST",
+  "q_hi": "राष्ट्रपति राज्यसभा में कितने सदस्यों को मनोनीत करता है?",
+  "q_en": "How many members does the President nominate to the Rajya Sabha?",
+  "options": [
+   "8",
+   "10",
+   "12",
+   "14"
+  ],
+  "options_en": [
+   "8",
+   "10",
+   "12",
+   "14"
+  ],
+  "answer": 2,
+  "exp_hi": "राष्ट्रपति राज्यसभा में 12 सदस्यों को मनोनीत करता है, जो साहित्य, विज्ञान, कला और समाज सेवा जैसे क्षेत्रों से होते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 26,
+  "subject": "SST",
+  "q_hi": "जनहित याचिका (PIL) से क्या आशय है?",
+  "q_en": "What is meant by Public Interest Litigation (PIL)?",
+  "options": [
+   "केवल पीड़ित व्यक्ति ही न्यायालय में याचिका दायर कर सकता है",
+   "इसमें वकील रखना अनिवार्य होता है",
+   "यह याचिका केवल उच्चतम न्यायालय में ही दायर हो सकती है",
+   "कोई भी व्यक्ति या संगठन सार्वजनिक हित के मुद्दे पर न्यायालय जा सकता है"
+  ],
+  "options_en": [
+   "Only the aggrieved person can file a petition in court",
+   "Engaging a lawyer is compulsory in it",
+   "This petition can be filed only in the Supreme Court",
+   "Any person or organisation can approach the court on an issue of public interest"
+  ],
+  "answer": 3,
+  "exp_hi": "जनहित याचिका के तहत कोई भी व्यक्ति या संगठन उन लोगों के हित में न्यायालय जा सकता है, जो स्वयं न्यायालय तक पहुँचने में असमर्थ हैं। यह उच्च न्यायालय में भी दायर की जा सकती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 27,
+  "subject": "SST",
+  "q_hi": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संविधान संशोधन से मिला?",
+  "q_en": "By which Constitutional Amendment did Panchayati Raj institutions get constitutional status?",
+  "options": [
+   "52वाँ संशोधन",
+   "61वाँ संशोधन",
+   "73वाँ संशोधन",
+   "86वाँ संशोधन"
+  ],
+  "options_en": [
+   "52nd Amendment",
+   "61st Amendment",
+   "73rd Amendment",
+   "86th Amendment"
+  ],
+  "answer": 2,
+  "exp_hi": "73वें संविधान संशोधन (1992) से पंचायती राज संस्थाओं को संवैधानिक दर्जा मिला और गाँव, खंड तथा ज़िला स्तर पर त्रिस्तरीय व्यवस्था स्थापित हुई।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 28,
+  "subject": "SST",
+  "q_hi": "नगर निगम के प्रमुख (अध्यक्ष) को क्या कहा जाता है?",
+  "q_en": "What is the head of a Municipal Corporation called?",
+  "options": [
+   "जिलाधिकारी",
+   "खंड विकास अधिकारी",
+   "सरपंच",
+   "महापौर (मेयर)"
+  ],
+  "options_en": [
+   "District Magistrate",
+   "Block Development Officer",
+   "Sarpanch",
+   "Mayor"
+  ],
+  "answer": 3,
+  "exp_hi": "नगर निगम के प्रमुख को महापौर (मेयर) कहते हैं। वे निगम की बैठकों की अध्यक्षता करते हैं और नगर के प्रथम नागरिक माने जाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 29,
+  "subject": "SST",
+  "q_hi": "भारतीय संविधान के किस अनुच्छेद द्वारा अस्पृश्यता का उन्मूलन किया गया है?",
+  "q_en": "By which Article of the Indian Constitution has untouchability been abolished?",
+  "options": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 15",
+   "अनुच्छेद 17",
+   "अनुच्छेद 19"
+  ],
+  "options_en": [
+   "Article 14",
+   "Article 15",
+   "Article 17",
+   "Article 19"
+  ],
+  "answer": 2,
+  "exp_hi": "अनुच्छेद 17 द्वारा अस्पृश्यता का उन्मूलन किया गया है और इसका किसी भी रूप में आचरण कानूनन दंडनीय है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 30,
+  "subject": "SST",
+  "q_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोज़गार गारंटी अधिनियम (मनरेगा) के अंतर्गत एक परिवार को एक वर्ष में कितने दिनों के रोज़गार की गारंटी दी जाती है?",
+  "q_en": "Under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), for how many days is employment guaranteed to a household in a year?",
+  "options": [
+   "50 दिन",
+   "75 दिन",
+   "100 दिन",
+   "150 दिन"
+  ],
+  "options_en": [
+   "50 days",
+   "75 days",
+   "100 days",
+   "150 days"
+  ],
+  "answer": 2,
+  "exp_hi": "मनरेगा के अंतर्गत प्रत्येक ग्रामीण परिवार के वयस्क सदस्यों को एक वित्तीय वर्ष में कम से कम 100 दिनों के अकुशल मज़दूरी रोज़गार की गारंटी दी जाती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 31,
+  "subject": "SST",
+  "q_hi": "साप्ताहिक बाज़ारों में सामान अपेक्षाकृत सस्ता क्यों मिलता है?",
+  "q_en": "Why are goods relatively cheaper in weekly markets?",
+  "options": [
+   "वहाँ सामान घटिया गुणवत्ता का होता है",
+   "वहाँ किसी प्रकार का परिवहन खर्च नहीं होता",
+   "सरकार वहाँ सब्सिडी देती है",
+   "दुकानदारों को स्थायी दुकान का किराया, बिजली आदि का खर्च नहीं देना पड़ता"
+  ],
+  "options_en": [
+   "Goods there are of inferior quality",
+   "There is no transport cost involved",
+   "The government gives subsidy there",
+   "Shopkeepers do not have to pay rent for a permanent shop, electricity bills, etc."
+  ],
+  "answer": 3,
+  "exp_hi": "साप्ताहिक बाज़ार के दुकानदारों को स्थायी दुकान का किराया, बिजली बिल और कर्मचारियों का वेतन जैसे खर्च नहीं देने पड़ते, इसलिए वे सामान सस्ता बेच पाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 32,
+  "subject": "SST",
+  "q_hi": "संसद में 'प्रश्नकाल' के दौरान सांसद मुख्यतः क्या करते हैं?",
+  "q_en": "What do the Members of Parliament mainly do during the 'Question Hour' in Parliament?",
+  "options": [
+   "सरकार से प्रश्न पूछकर जानकारी प्राप्त करते हैं",
+   "विधेयक पारित करते हैं",
+   "बजट प्रस्तुत करते हैं",
+   "राष्ट्रपति का अभिभाषण सुनते हैं"
+  ],
+  "options_en": [
+   "They obtain information by asking questions to the government",
+   "They pass bills",
+   "They present the budget",
+   "They listen to the President's address"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रश्नकाल संसद की कार्यवाही का पहला घंटा होता है, जिसमें सांसद सरकार से प्रश्न पूछते हैं और सरकार को जवाबदेह बनाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 33,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सा विषय संघ सूची (Union List) का है?",
+  "q_en": "Which of the following subjects belongs to the Union List?",
+  "options": [
+   "पुलिस",
+   "कृषि",
+   "रक्षा",
+   "स्वास्थ्य"
+  ],
+  "options_en": [
+   "Police",
+   "Agriculture",
+   "Defence",
+   "Health"
+  ],
+  "answer": 2,
+  "exp_hi": "रक्षा संघ सूची का विषय है, जिस पर केवल केंद्र सरकार कानून बना सकती है। पुलिस, कृषि और स्वास्थ्य राज्य सूची के विषय हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 34,
+  "subject": "SST",
+  "q_hi": "परियोजना विधि (Project Method) के प्रवर्तक कौन माने जाते हैं?",
+  "q_en": "Who is regarded as the propounder of the Project Method?",
+  "options": [
+   "जॉन डीवी",
+   "जे. जे. रूसो",
+   "महात्मा गांधी",
+   "विलियम किलपैट्रिक"
+  ],
+  "options_en": [
+   "John Dewey",
+   "J. J. Rousseau",
+   "Mahatma Gandhi",
+   "William Kilpatrick"
+  ],
+  "answer": 3,
+  "exp_hi": "परियोजना विधि के प्रवर्तक विलियम किलपैट्रिक माने जाते हैं। यह विधि जॉन डीवी के प्रयोगवाद पर आधारित है, जिसमें छात्र वास्तविक समस्याओं पर कार्य करके सीखते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 35,
+  "subject": "SST",
+  "q_hi": "इतिहास शिक्षण में समय-रेखा (टाइमलाइन) का प्रयोग मुख्यतः क्यों किया जाता है?",
+  "q_en": "Why is a timeline mainly used in the teaching of History?",
+  "options": [
+   "तिथियाँ रटवाने के लिए",
+   "निबंध लेखन का अभ्यास कराने के लिए",
+   "मानचित्र बनाना सिखाने के लिए",
+   "घटनाओं को कालक्रमानुसार समझने के लिए"
+  ],
+  "options_en": [
+   "To make students memorise dates",
+   "To practise essay writing",
+   "To teach map drawing",
+   "To understand events in chronological order"
+  ],
+  "answer": 3,
+  "exp_hi": "समय-रेखा की सहायता से छात्र घटनाओं को उनके कालक्रम में रखकर समझ पाते हैं और घटनाओं के बीच समय का अंतराल भी स्पष्ट होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 36,
+  "subject": "SST",
+  "q_hi": "सामाजिक विज्ञान की कक्षा में दृष्टिबाधित छात्र को मानचित्र समझाने के लिए सबसे उपयुक्त साधन कौन सा है?",
+  "q_en": "Which is the most suitable aid to teach a map to a visually impaired student in a Social Science class?",
+  "options": [
+   "रंगीन दीवार मानचित्र",
+   "बड़े आकार का मुद्रित मानचित्र",
+   "उभरा हुआ (स्पर्श-आधारित) मानचित्र",
+   "मानचित्र की तस्वीर वाला चार्ट"
+  ],
+  "options_en": [
+   "Coloured wall map",
+   "Large printed map",
+   "Raised (tactile) map",
+   "Chart with a picture of a map"
+  ],
+  "answer": 2,
+  "exp_hi": "उभरे हुए (रिलीफ़/टैक्टाइल) मानचित्र को दृष्टिबाधित छात्र स्पर्श करके समझ सकता है, इसलिए यह उसके लिए सबसे उपयुक्त साधन है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 37,
+  "subject": "SST",
+  "q_hi": "निम्नलिखित में से कौन सा निर्माणात्मक (रचनात्मक) मूल्यांकन का उदाहरण है?",
+  "q_en": "Which of the following is an example of formative assessment?",
+  "options": [
+   "वार्षिक परीक्षा",
+   "प्रवेश परीक्षा",
+   "बोर्ड परीक्षा",
+   "अध्याय की पढ़ाई के दौरान ली गई छोटी कक्षा-परीक्षा"
+  ],
+  "options_en": [
+   "Annual examination",
+   "Entrance examination",
+   "Board examination",
+   "A short class test taken during the teaching of a chapter"
+  ],
+  "answer": 3,
+  "exp_hi": "निर्माणात्मक मूल्यांकन शिक्षण-अधिगम प्रक्रिया के दौरान किया जाता है, ताकि छात्र की प्रगति जानकर शिक्षण में सुधार किया जा सके। अध्याय के दौरान ली गई छोटी परीक्षा इसका उदाहरण है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 38,
+  "subject": "SST",
+  "q_hi": "राष्ट्रीय पाठ्यचर्या रूपरेखा (NCF) 2005 का प्रमुख बल किस पर है?",
+  "q_en": "What is the main emphasis of the National Curriculum Framework (NCF) 2005?",
+  "options": [
+   "पाठ्यपुस्तक केंद्रित शिक्षा पर",
+   "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ने पर",
+   "रटकर सीखने पर",
+   "अधिक गृहकार्य देने पर"
+  ],
+  "options_en": [
+   "On textbook-centred education",
+   "On connecting knowledge to life outside the school",
+   "On rote memorisation",
+   "On giving more homework"
+  ],
+  "answer": 1,
+  "exp_hi": "NCF 2005 'बोझ रहित अधिगम' की बात करता है और ज्ञान को विद्यालय के बाहर के जीवन से जोड़ने तथा रटने की प्रवृत्ति से हटने पर बल देता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 39,
+  "subject": "SST",
+  "q_hi": "इतिहास शिक्षण में संग्रहालय भ्रमण छात्रों के लिए उपयोगी है, क्योंकि इससे —",
+  "q_en": "A visit to a museum is useful for students in History teaching, because it —",
+  "options": [
+   "छात्रों का मनोरंजन होता है",
+   "छात्र अतीत की वस्तुओं और अवशेषों को प्रत्यक्ष देखकर समझ विकसित करते हैं",
+   "पाठ्यक्रम जल्दी पूरा हो जाता है",
+   "परीक्षा में अच्छे अंक आते हैं"
+  ],
+  "options_en": [
+   "entertains the students",
+   "helps students develop understanding by directly observing objects and remains of the past",
+   "completes the syllabus quickly",
+   "helps in scoring good marks in the examination"
+  ],
+  "answer": 1,
+  "exp_hi": "संग्रहालय में छात्र मूर्तियों, सिक्कों, औज़ारों आदि मूल अवशेषों को प्रत्यक्ष देखकर अतीत के बारे में अपनी समझ को गहरा और स्थायी बनाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 40,
+  "subject": "SST",
+  "q_hi": "कक्षा में विवादास्पद सामाजिक मुद्दों पर चर्चा कराने का सबसे उचित उद्देश्य क्या है?",
+  "q_en": "What is the most appropriate objective of holding a discussion on controversial social issues in the classroom?",
+  "options": [
+   "कक्षा में एक ही मत स्थापित करना",
+   "विभिन्न दृष्टिकोणों को समझना और उनका सम्मान करना सीखना",
+   "छात्रों में बहस जीतने की क्षमता विकसित करना",
+   "पाठ्यक्रम शीघ्र समाप्त करना"
+  ],
+  "options_en": [
+   "To establish a single viewpoint in the class",
+   "To learn to understand different viewpoints and respect them",
+   "To develop the ability to win debates",
+   "To finish the syllabus quickly"
+  ],
+  "answer": 1,
+  "exp_hi": "विवादास्पद मुद्दों पर चर्चा का उद्देश्य छात्रों में विभिन्न दृष्टिकोणों को सुनने, समझने और उनका सम्मान करने तथा तर्कपूर्ण निर्णय लेने की क्षमता विकसित करना है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 41,
+  "subject": "SST",
+  "q_hi": "छात्र के 'पोर्टफोलियो' से क्या आशय है?",
+  "q_en": "What is meant by a student's 'portfolio'?",
+  "options": [
+   "छात्र की अंक-सूची",
+   "छात्र के कार्यों का क्रमबद्ध संग्रह, जो उसकी प्रगति को दर्शाता है",
+   "छात्र का उपस्थिति रजिस्टर",
+   "छात्र की गृहकार्य की कॉपी"
+  ],
+  "options_en": [
+   "Student's mark sheet",
+   "A systematic collection of a student's work, which shows his/her progress",
+   "Student's attendance register",
+   "Student's homework notebook"
+  ],
+  "answer": 1,
+  "exp_hi": "पोर्टफोलियो में छात्र के चुने हुए कार्यों को क्रमबद्ध रूप से रखा जाता है, जिससे समय के साथ उसकी प्रगति और उपलब्धियों का पता चलता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 42,
+  "subject": "SST",
+  "q_hi": "निदानात्मक परीक्षण (Diagnostic Test) का मुख्य उद्देश्य क्या है?",
+  "q_en": "What is the main objective of a diagnostic test?",
+  "options": [
+   "छात्रों को श्रेणियों में बाँटना",
+   "छात्रों की सीखने संबंधी कठिनाइयों के कारणों का पता लगाना",
+   "छात्रों का अंतिम मूल्यांकन करना",
+   "छात्रों को प्रमाणपत्र देना"
+  ],
+  "options_en": [
+   "To divide students into categories",
+   "To find out the causes of students' learning difficulties",
+   "To do final evaluation of students",
+   "To give certificates to students"
+  ],
+  "answer": 1,
+  "exp_hi": "निदानात्मक परीक्षण द्वारा शिक्षक यह जानता है कि छात्र को किस बिंदु पर और क्यों कठिनाई हो रही है, ताकि उपचारात्मक शिक्षण दिया जा सके।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 43,
+  "subject": "SST",
+  "q_hi": "दिन और रात की घटना को समझाने के लिए सबसे उपयुक्त शिक्षण साधन कौन सा है?",
+  "q_en": "Which is the most suitable teaching aid to explain the phenomenon of day and night?",
+  "options": [
+   "भारत का राजनैतिक मानचित्र",
+   "ग्लोब",
+   "वर्षा वितरण का चार्ट",
+   "समुद्री धाराओं का मानचित्र"
+  ],
+  "options_en": [
+   "Political map of India",
+   "Globe",
+   "Chart of rainfall distribution",
+   "Map of ocean currents"
+  ],
+  "answer": 1,
+  "exp_hi": "ग्लोब पृथ्वी का वास्तविक प्रतिरूप है। टॉर्च को सूर्य मानकर ग्लोब घुमाने से छात्र दिन-रात बनने की प्रक्रिया को प्रत्यक्ष समझ सकते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 44,
+  "subject": "SST",
+  "q_hi": "कथन (A): सामाजिक विज्ञान की कक्षा में मानचित्र कौशल का विकास आवश्यक है।\nकारण (R): मानचित्र छात्रों में स्थानों की स्थिति और दूरियों की स्थानिक समझ विकसित करता है।\nसही विकल्प चुनिए —",
+  "q_en": "Assertion (A): Development of map skills is essential in a Social Science class.\nReason (R): Maps develop spatial understanding of location of places and distances among students.\nChoose the correct option -",
+  "options": [
+   "(A) और (R) दोनों सत्य हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सत्य हैं, परंतु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सत्य है, परंतु (R) असत्य है",
+   "(A) असत्य है, परंतु (R) सत्य है"
+  ],
+  "options_en": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+   "(A) is true, but (R) is false",
+   "(A) is false, but (R) is true"
+  ],
+  "answer": 0,
+  "exp_hi": "मानचित्र कौशल इसलिए आवश्यक है क्योंकि मानचित्र पढ़ने से छात्रों में स्थानों की स्थिति, दिशा और दूरियों की स्थानिक समझ विकसित होती है। अतः (R), (A) की सही व्याख्या है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 45,
+  "subject": "SST",
+  "q_hi": "मूल्यांकन के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+  "q_en": "Which of the following statements is correct regarding evaluation?",
+  "options": [
+   "मूल्यांकन केवल सत्र के अंत में होना चाहिए",
+   "मूल्यांकन शिक्षण-अधिगम प्रक्रिया का सतत और अभिन्न भाग होना चाहिए",
+   "मूल्यांकन का उद्देश्य केवल अंक देना है",
+   "मूल्यांकन केवल लिखित परीक्षा से ही संभव है"
+  ],
+  "options_en": [
+   "Evaluation should be done only at the end of the session",
+   "Evaluation should be a continuous and integral part of the teaching-learning process",
+   "The purpose of evaluation is only to award marks",
+   "Evaluation is possible only through written examinations"
+  ],
+  "answer": 1,
+  "exp_hi": "सतत और व्यापक मूल्यांकन की अवधारणा के अनुसार मूल्यांकन शिक्षण-अधिगम के साथ-साथ चलने वाली प्रक्रिया है, जिससे छात्र की प्रगति का निरंतर पता चलता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 46,
+  "subject": "SST",
+  "q_hi": "क्षेत्र भ्रमण (Field Trip) आयोजित करने से पहले शिक्षक के लिए सबसे आवश्यक कार्य क्या है?",
+  "q_en": "What is the most essential task for a teacher before organising a field trip?",
+  "options": [
+   "छात्रों से शुल्क एकत्र करना",
+   "भ्रमण के उद्देश्यों को स्पष्ट करके योजना बनाना",
+   "छात्रों को अवकाश देना",
+   "भ्रमण के बाद परीक्षा लेना"
+  ],
+  "options_en": [
+   "To collect fees from students",
+   "To plan the trip by clarifying its objectives",
+   "To give leave to students",
+   "To conduct a test after the trip"
+  ],
+  "answer": 1,
+  "exp_hi": "क्षेत्र भ्रमण तभी सार्थक होता है जब शिक्षक पहले से उसके शैक्षिक उद्देश्य स्पष्ट करके योजना बनाए और छात्रों को निरीक्षण के बिंदु बताए।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 47,
+  "subject": "SST",
+  "q_hi": "ऐतिहासिक घटनाओं को समझाने के लिए 'नाटकीकरण' (Role Play) का प्रयोग क्यों उपयोगी है?",
+  "q_en": "Why is the use of 'role play' useful in explaining historical events?",
+  "options": [
+   "इससे कक्षा में अनुशासन बना रहता है",
+   "छात्र ऐतिहासिक पात्रों की भूमिका निभाकर उस समय की परिस्थितियों को अनुभव करके समझते हैं",
+   "इससे पाठ जल्दी समाप्त हो जाता है",
+   "इससे छात्रों को नाटक की तैयारी में व्यस्त रखा जा सकता है"
+  ],
+  "options_en": [
+   "It maintains discipline in the class",
+   "By playing the roles of historical characters, students understand by experiencing the conditions of that time",
+   "It finishes the lesson quickly",
+   "It keeps students busy in preparing a play"
+  ],
+  "answer": 1,
+  "exp_hi": "नाटकीकरण में छात्र ऐतिहासिक पात्रों की भूमिका निभाते हैं, जिससे वे उस युग की परिस्थितियों और भावनाओं को अनुभव करके घटनाओं को गहराई से समझते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 48,
+  "subject": "SST",
+  "q_hi": "सतत और व्यापक मूल्यांकन (CCE) में 'व्यापक' शब्द का क्या अर्थ है?",
+  "q_en": "What does the word 'comprehensive' mean in Continuous and Comprehensive Evaluation (CCE)?",
+  "options": [
+   "पूरे पाठ्यक्रम से मूल्यांकन",
+   "शैक्षिक के साथ-साथ सह-शैक्षिक क्षेत्रों (रुचियों, अभिवृत्तियों आदि) का भी मूल्यांकन",
+   "कठिन प्रश्नों द्वारा मूल्यांकन",
+   "पूरे वर्ष चलने वाला मूल्यांकन"
+  ],
+  "options_en": [
+   "Evaluation from the whole syllabus",
+   "Evaluation of co-scholastic areas (interests, attitudes, etc.) along with scholastic areas",
+   "Evaluation through difficult questions",
+   "Evaluation lasting the whole year"
+  ],
+  "answer": 1,
+  "exp_hi": "CCE में 'व्यापक' का अर्थ है — छात्र के व्यक्तित्व के सभी पक्षों, अर्थात शैक्षिक उपलब्धि के साथ-साथ रुचियों, अभिवृत्तियों और जीवन कौशलों का भी मूल्यांकन।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 49,
+  "subject": "SST",
+  "q_hi": "सामाजिक विज्ञान शिक्षण में दृश्य-श्रव्य सामग्री का मुख्य लाभ क्या है?",
+  "q_en": "What is the main advantage of audio-visual material in Social Science teaching?",
+  "options": [
+   "यह शिक्षक का कार्यभार कम कर देती है",
+   "यह अमूर्त अवधारणाओं को मूर्त और सरल रूप में प्रस्तुत करती है",
+   "यह पाठ्यपुस्तक का पूर्ण विकल्प है",
+   "इससे परीक्षा की तैयारी अपने आप हो जाती है"
+  ],
+  "options_en": [
+   "It reduces the workload of the teacher",
+   "It presents abstract concepts in a concrete and simple form",
+   "It is a complete substitute for the textbook",
+   "It prepares students for the examination by itself"
+  ],
+  "answer": 1,
+  "exp_hi": "दृश्य-श्रव्य सामग्री अमूर्त और दूर की घटनाओं/स्थानों को चित्रों, चलचित्रों आदि द्वारा मूर्त रूप में प्रस्तुत करती है, जिससे छात्रों को समझना सरल हो जाता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ },
+ {
+  "n": 50,
+  "subject": "SST",
+  "q_hi": "सिंधु घाटी सभ्यता का प्रसिद्ध 'विशाल स्नानागार' (Great Bath) किस स्थल से मिला है?",
+  "q_en": "From which site of the Indus Valley Civilisation has the famous 'Great Bath' been found?",
+  "options": [
+   "लोथल",
+   "मोहनजोदाड़ो",
+   "कालीबंगन",
+   "बनावली"
+  ],
+  "options_en": [
+   "Lothal",
+   "Mohenjodaro",
+   "Kalibangan",
+   "Banawali"
+  ],
+  "answer": 1,
+  "exp_hi": "मोहनजोदाड़ो से विशाल स्नानागार मिला है, जिसका प्रयोग संभवतः धार्मिक स्नान जैसे विशेष अवसरों पर किया जाता था। यह उस समय की उन्नत नगर योजना को दर्शाता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8 SST)"
+ }
+]

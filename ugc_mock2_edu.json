@@ -1,0 +1,2002 @@
+[
+ {
+  "answer": "C",
+  "exp_hi": "न्याय दर्शन चार प्रमाण मानता है — प्रत्यक्ष, अनुमान, उपमान और शब्द। न्याय सूत्र के रचयिता महर्षि गौतम हैं।",
+  "n": 1,
+  "options_en": [
+   "Two",
+   "Three",
+   "Four",
+   "Six"
+  ],
+  "options_hi": [
+   "दो",
+   "तीन",
+   "चार",
+   "छह"
+  ],
+  "q_en": "According to Nyaya philosophy, what is the total number of pramanas (sources of valid knowledge)?",
+  "q_hi": "न्याय दर्शन के अनुसार प्रमाणों की कुल संख्या कितनी है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "अष्टांग योग के आठ अंग हैं — यम, नियम, आसन, प्राणायाम, प्रत्याहार, धारणा, ध्यान और समाधि। प्रथम अंग 'यम' है, जिसमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह आते हैं।",
+  "n": 2,
+  "options_en": [
+   "Asana",
+   "Yama",
+   "Pranayama",
+   "Dhyana"
+  ],
+  "options_hi": [
+   "आसन",
+   "यम",
+   "प्राणायाम",
+   "ध्यान"
+  ],
+  "q_en": "Which is the first limb (anga) of Patanjali's Ashtanga Yoga?",
+  "q_hi": "पतंजलि के अष्टांग योग का प्रथम अंग कौन-सा है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "स्याद्वाद अनेकान्तवाद का व्यावहारिक रूप है — 'स्यात्' का अर्थ है 'किसी अपेक्षा से'। इसके अनुसार सत्य के अनेक पक्ष होते हैं और प्रत्येक कथन सापेक्ष रूप से सत्य होता है।",
+  "n": 3,
+  "options_en": [
+   "A thing has only one definite nature",
+   "The world is entirely unreal",
+   "Soul and matter are one and the same",
+   "Every statement may be true from a certain standpoint"
+  ],
+  "options_hi": [
+   "वस्तु का एक ही निश्चित स्वरूप होता है",
+   "संसार पूर्णतः मिथ्या है",
+   "आत्मा और पुद्गल एक ही हैं",
+   "प्रत्येक कथन किसी अपेक्षा से सत्य हो सकता है"
+  ],
+  "q_en": "What is the correct meaning of 'Syadvada' in Jain philosophy?",
+  "q_hi": "जैन दर्शन के 'स्याद्वाद' का सही अर्थ क्या है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "इस्लामी शिक्षा में मकतब प्राथमिक शिक्षा के केन्द्र थे, जहाँ कुरान, अरबी-फारसी भाषा और गणित की प्रारम्भिक शिक्षा दी जाती थी; मदरसों में उच्च शिक्षा दी जाती थी।",
+  "n": 4,
+  "options_en": [
+   "Madrasa",
+   "Maktab",
+   "Khanqah",
+   "Masjid council"
+  ],
+  "options_hi": [
+   "मदरसा",
+   "मकतब",
+   "खानकाह",
+   "मस्जिद परिषद्"
+  ],
+  "q_en": "In the medieval Islamic education system, which institution imparted primary education?",
+  "q_hi": "मध्यकालीन इस्लामी शिक्षा व्यवस्था में प्राथमिक शिक्षा प्रदान करने वाली संस्था कौन-सी थी?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "प्रकृतिवाद में बालक और उसकी प्रकृति ही केन्द्र है। शिक्षक का कार्य वातावरण तैयार करना और निरीक्षण करना है; बालक प्रकृति से स्वयं सीखता है — रूसो इसी विचारधारा के प्रमुख समर्थक हैं।",
+  "n": 5,
+  "options_en": [
+   "The teacher should be the centre of education",
+   "The teacher should remain in the background without interfering in the child's natural activities",
+   "The teacher should enforce strict discipline",
+   "The teacher should impart only bookish knowledge"
+  ],
+  "options_hi": [
+   "शिक्षक ही शिक्षा का केन्द्र होना चाहिए",
+   "शिक्षक को बालक की स्वाभाविक क्रियाओं में हस्तक्षेप न करके पृष्ठभूमि में रहना चाहिए",
+   "शिक्षक को कठोर अनुशासन लागू करना चाहिए",
+   "शिक्षक को केवल पुस्तकीय ज्ञान देना चाहिए"
+  ],
+  "q_en": "According to Naturalism, what should be the role of the teacher in education?",
+  "q_hi": "प्रकृतिवाद (Naturalism) के अनुसार शिक्षा में शिक्षक की भूमिका कैसी होनी चाहिए?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "अस्तित्ववाद के अनुसार मनुष्य अपने चयन से स्वयं का निर्माण करता है। शिक्षा का कार्य बालक को स्वतंत्र निर्णय और उसके उत्तरदायित्व के प्रति जागरूक बनाना है; ज्याँ-पॉल सार्त्र इसके प्रमुख विचारक हैं।",
+  "n": 6,
+  "options_en": [
+   "Following group norms",
+   "Search for ideal truth",
+   "Individual freedom, choice and responsibility",
+   "Study of natural laws"
+  ],
+  "options_hi": [
+   "समूह के नियमों का पालन",
+   "आदर्श सत्य की खोज",
+   "व्यक्ति की स्वतंत्रता, चयन और उत्तरदायित्व",
+   "प्राकृतिक नियमों का अध्ययन"
+  ],
+  "q_en": "Existentialism in educational philosophy mainly emphasises which of the following?",
+  "q_hi": "अस्तित्ववाद (Existentialism) का शिक्षा-दर्शन मुख्यतः किस पर बल देता है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "विवेकानन्द के अनुसार ज्ञान मनुष्य के भीतर ही विद्यमान है; शिक्षा उसी अंतर्निहित पूर्णता को प्रकट करने की प्रक्रिया है। शिक्षक का कार्य केवल आवरण हटाना है।",
+  "n": 7,
+  "options_en": [
+   "Education is a collection of information",
+   "Education is the manifestation of the perfection already in man",
+   "Education is only a means of livelihood",
+   "Education is merely the study of books"
+  ],
+  "options_hi": [
+   "शिक्षा सूचनाओं का संग्रह है",
+   "शिक्षा मनुष्य में पहले से विद्यमान पूर्णता का प्रकटीकरण है",
+   "शिक्षा केवल आजीविका का साधन है",
+   "शिक्षा पुस्तकों का अध्ययन मात्र है"
+  ],
+  "q_en": "Which is the correct definition of education according to Swami Vivekananda?",
+  "q_hi": "स्वामी विवेकानन्द के अनुसार शिक्षा की सही परिभाषा कौन-सी है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "दुर्खीम ने शिक्षा को 'युवा पीढ़ी का व्यवस्थित समाजीकरण' कहा है। शिक्षा द्वारा समाज अपने सामूहिक मूल्यों, मानदण्डों और आदर्शों को नई पीढ़ी में स्थानान्तरित करता है।",
+  "n": 8,
+  "options_en": [
+   "To provide only vocational skills",
+   "To make the child pass examinations",
+   "To socialise the child and transmit society's values to the new generation",
+   "To separate the individual from society"
+  ],
+  "options_hi": [
+   "केवल व्यावसायिक कौशल प्रदान करना",
+   "बालक को परीक्षा में उत्तीर्ण कराना",
+   "बालक का समाजीकरण करके समाज के मूल्यों को नई पीढ़ी तक पहुँचाना",
+   "व्यक्ति को समाज से अलग करना"
+  ],
+  "q_en": "According to Emile Durkheim, what is the chief function of education?",
+  "q_hi": "एमिल दुर्खीम (Durkheim) के अनुसार शिक्षा का प्रमुख कार्य क्या है?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "उपनयन संस्कार के बाद बालक गुरुकुल में प्रवेश करता था और 'द्विज' कहलाता था। शिक्षा की समाप्ति पर समावर्तन संस्कार होता था, जिसके बाद विद्यार्थी गृहस्थाश्रम में प्रवेश करता था।",
+  "n": 9,
+  "options_en": [
+   "Samavartana Samskara",
+   "Vedarambha Samskara",
+   "Keshanta Samskara",
+   "Upanayana Samskara"
+  ],
+  "options_hi": [
+   "समावर्तन संस्कार",
+   "वेदारम्भ संस्कार",
+   "केशान्त संस्कार",
+   "उपनयन संस्कार"
+  ],
+  "q_en": "In Vedic education, which sacrament marked a child's entry into the Guru's ashram?",
+  "q_hi": "वैदिक कालीन शिक्षा में गुरु के आश्रम में प्रवेश हेतु किया जाने वाला संस्कार कौन-सा था?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "सातवीं शताब्दी में ह्वेनसांग के नालन्दा आगमन के समय वहाँ के प्रधान आचार्य शीलभद्र थे। ह्वेनसांग ने उनके निर्देशन में योगाचार दर्शन का अध्ययन किया था।",
+  "n": 10,
+  "options_en": [
+   "Nagarjuna",
+   "Dharmapala",
+   "Shilabhadra",
+   "Atisha"
+  ],
+  "options_hi": [
+   "नागार्जुन",
+   "धर्मपाल",
+   "शीलभद्र",
+   "अतीश"
+  ],
+  "q_en": "Who was the famous Acharya (Chancellor) of Nalanda University during Hiuen Tsang's study there?",
+  "q_hi": "नालन्दा विश्वविद्यालय के प्रसिद्ध आचार्य (कुलपति) जिनके समय में ह्वेनसांग ने अध्ययन किया था, कौन थे?",
+  "unit": "Unit 1: Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "चार्टर अधिनियम, 1813 में पहली बार कंपनी ने शिक्षा का दायित्व स्वीकार किया और साहित्य व विज्ञान के प्रोत्साहन हेतु प्रतिवर्ष एक लाख रुपये की राशि निर्धारित की गई।",
+  "n": 11,
+  "options_en": [
+   "Fifty thousand rupees",
+   "One lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "options_hi": [
+   "50 हज़ार रुपये",
+   "एक लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "q_en": "How much amount per year was sanctioned for the spread of education in India under the Charter Act of 1813?",
+  "q_hi": "1813 के चार्टर अधिनियम में भारत में शिक्षा के प्रसार हेतु कितनी राशि वार्षिक स्वीकृत की गई थी?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "डॉ. माइकल सैडलर की अध्यक्षता में गठित आयोग (1917-19) कलकत्ता विश्वविद्यालय की दशा और संभावनाओं की जाँच हेतु था; इसने माध्यमिक शिक्षा को विश्वविद्यालय से अलग करने की सिफारिश भी की थी।",
+  "n": 12,
+  "options_en": [
+   "Primary education",
+   "Technical education",
+   "Study of the problems of Calcutta University",
+   "Women's education"
+  ],
+  "options_hi": [
+   "प्राथमिक शिक्षा",
+   "तकनीकी शिक्षा",
+   "कलकत्ता विश्वविद्यालय की समस्याओं का अध्ययन",
+   "स्त्री शिक्षा"
+  ],
+  "q_en": "The Sadler Commission (1917) was mainly related to which of the following?",
+  "q_hi": "सैडलर आयोग (1917) का सम्बन्ध मुख्यतः किससे था?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "वर्धा सम्मेलन (1937) के बाद डॉ. जाकिर हुसैन की अध्यक्षता में गठित समिति ने बुनियादी शिक्षा की विस्तृत योजना तैयार की, जिसमें हस्तकला के माध्यम से निःशुल्क व अनिवार्य शिक्षा का प्रस्ताव था।",
+  "n": 13,
+  "options_en": [
+   "Acharya Narendra Dev Committee",
+   "K. G. Saiyidain Committee",
+   "Shri Prakash Committee",
+   "Dr. Zakir Husain Committee"
+  ],
+  "options_hi": [
+   "आचार्य नरेन्द्र देव समिति",
+   "के. जी. सैयदैन समिति",
+   "श्री प्रकाश समिति",
+   "डॉ. जाकिर हुसैन समिति"
+  ],
+  "q_en": "Which committee prepared the detailed outline of the Wardha Scheme of Education (1937)?",
+  "q_hi": "वर्धा शिक्षा योजना (1937) की विस्तृत रूपरेखा किस समिति ने तैयार की थी?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "सर जॉन सार्जेण्ट की युद्धोत्तर शिक्षा विकास योजना (1944) में 40 वर्षों के भीतर देश में इंग्लैण्ड के समकक्ष शैक्षिक स्तर प्राप्त करने का लक्ष्य रखा गया था।",
+  "n": 14,
+  "options_en": [
+   "40 years",
+   "20 years",
+   "30 years",
+   "50 years"
+  ],
+  "options_hi": [
+   "40 वर्ष",
+   "20 वर्ष",
+   "30 वर्ष",
+   "50 वर्ष"
+  ],
+  "q_en": "In the Sargent Plan (1944), over how many years was it proposed to achieve an educational standard in India comparable to that of England?",
+  "q_hi": "सार्जेण्ट योजना (1944) में भारत में इंग्लैण्ड के समकक्ष शैक्षिक स्तर प्राप्त करने हेतु कितने वर्षों की अवधि प्रस्तावित थी?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "42वें संविधान संशोधन (1976) द्वारा शिक्षा को समवर्ती सूची में रखा गया, जिससे केन्द्र और राज्य दोनों शिक्षा पर कानून बना सकते हैं।",
+  "n": 15,
+  "options_en": [
+   "42nd Amendment, 1976",
+   "44th Amendment, 1978",
+   "52nd Amendment, 1985",
+   "86th Amendment, 2002"
+  ],
+  "options_hi": [
+   "42वाँ संशोधन, 1976",
+   "44वाँ संशोधन, 1978",
+   "52वाँ संशोधन, 1985",
+   "86वाँ संशोधन, 2002"
+  ],
+  "q_en": "By which Constitutional Amendment was education shifted from the State List to the Concurrent List?",
+  "q_hi": "शिक्षा को राज्य सूची से हटाकर समवर्ती सूची में किस संविधान संशोधन द्वारा रखा गया?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "86वें संविधान संशोधन (2002) द्वारा अनुच्छेद 21A जोड़ा गया, जिससे 6-14 वर्ष के बच्चों हेतु निःशुल्क व अनिवार्य शिक्षा मौलिक अधिकार बन गई; साथ ही अनुच्छेद 51A में ग्यारहवाँ मौलिक कर्तव्य भी जोड़ा गया।",
+  "n": 16,
+  "options_en": [
+   "42nd Amendment",
+   "86th Amendment",
+   "61st Amendment",
+   "97th Amendment"
+  ],
+  "options_hi": [
+   "42वाँ संशोधन",
+   "86वाँ संशोधन",
+   "61वाँ संशोधन",
+   "97वाँ संशोधन"
+  ],
+  "q_en": "Article 21A was inserted into the Constitution by which Amendment?",
+  "q_hi": "संविधान में अनुच्छेद 21A किस संशोधन द्वारा जोड़ा गया?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "त्रिभाषा सूत्र के अनुसार हिन्दी-भाषी राज्यों में हिन्दी, अंग्रेजी तथा एक आधुनिक भारतीय भाषा (प्रायः दक्षिण भारतीय भाषा) और अहिन्दी-भाषी राज्यों में क्षेत्रीय भाषा, हिन्दी तथा अंग्रेजी पढ़ाई जानी थी।",
+  "n": 17,
+  "options_en": [
+   "Hindi, English and one modern Indian language (preferably a South Indian language)",
+   "Hindi, English and Sanskrit",
+   "Only Hindi and English",
+   "Hindi, Urdu and English"
+  ],
+  "options_hi": [
+   "हिन्दी, अंग्रेजी और एक आधुनिक भारतीय भाषा (प्रायः दक्षिण भारतीय भाषा)",
+   "हिन्दी, अंग्रेजी और संस्कृत",
+   "केवल हिन्दी और अंग्रेजी",
+   "हिन्दी, उर्दू और अंग्रेजी"
+  ],
+  "q_en": "According to the Three Language Formula, which languages are to be taught in Hindi-speaking states?",
+  "q_hi": "त्रिभाषा सूत्र (Three Language Formula) के अनुसार हिन्दी-भाषी राज्यों में पढ़ाई जाने वाली भाषाएँ कौन-सी हैं?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "राष्ट्रीय शिक्षा नीति, 1986 के अंतर्गत प्रारम्भ ऑपरेशन ब्लैकबोर्ड का उद्देश्य देश के सभी प्राथमिक विद्यालयों में कम से कम दो कमरे, दो शिक्षक (एक महिला) और आवश्यक शिक्षण सामग्री उपलब्ध कराना था।",
+  "n": 18,
+  "options_en": [
+   "To provide minimum essential facilities — building, teachers and teaching material — in primary schools",
+   "To provide computers in all schools",
+   "To expand secondary education",
+   "To increase teachers' salaries"
+  ],
+  "options_hi": [
+   "प्राथमिक विद्यालयों में न्यूनतम आवश्यक सुविधाएँ — भवन, शिक्षक और शिक्षण सामग्री उपलब्ध कराना",
+   "सभी विद्यालयों में कम्प्यूटर उपलब्ध कराना",
+   "माध्यमिक शिक्षा का विस्तार करना",
+   "शिक्षकों के वेतन में वृद्धि करना"
+  ],
+  "q_en": "What was the main objective of 'Operation Blackboard' (1987)?",
+  "q_hi": "'ऑपरेशन ब्लैकबोर्ड' (1987) योजना का मुख्य उद्देश्य क्या था?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "RMSA का शुभारम्भ मार्च 2009 में माध्यमिक शिक्षा (कक्षा 9-10) की पहुँच और गुणवत्ता सुधारने हेतु किया गया; बाद में 2018 में इसका विलय समग्र शिक्षा अभियान में हो गया।",
+  "n": 19,
+  "options_en": [
+   "2009",
+   "2001",
+   "2005",
+   "2013"
+  ],
+  "options_hi": [
+   "2009",
+   "2001",
+   "2005",
+   "2013"
+  ],
+  "q_en": "In which year was the Rashtriya Madhyamik Shiksha Abhiyan (RMSA) launched?",
+  "q_hi": "राष्ट्रीय माध्यमिक शिक्षा अभियान (RMSA) का शुभारम्भ किस वर्ष हुआ?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "थियोडोर शुल्ज़ ने 1961 में मानव पूँजी की अवधारणा को व्यवस्थित रूप दिया; उनके अनुसार शिक्षा व स्वास्थ्य पर व्यय मानव में निवेश है, जो उत्पादकता बढ़ाता है। गैरी बेकर ने भी इस क्षेत्र में महत्वपूर्ण योगदान दिया।",
+  "n": 20,
+  "options_en": [
+   "Adam Smith",
+   "Theodore Schultz",
+   "John Stuart Mill",
+   "Amartya Sen"
+  ],
+  "options_hi": [
+   "एडम स्मिथ",
+   "थियोडोर शुल्ज़ (Theodore Schultz)",
+   "जॉन स्टुअर्ट मिल",
+   "अमर्त्य सेन"
+  ],
+  "q_en": "Who is regarded as the chief proponent of the 'Human Capital' theory?",
+  "q_hi": "'मानव पूँजी' (Human Capital) सिद्धान्त के प्रमुख प्रतिपादक कौन माने जाते हैं?",
+  "unit": "Unit 2: History, Politics and Economics of Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "प्रभाव के नियम के अनुसार जिस व्यवहार के परिणाम सुखद/संतोषजनक होते हैं, उसे प्राणी दोहराता है और कष्टदायक परिणाम वाले व्यवहार को छोड़ देता है। यह नियम बाद में पुनर्बलन सिद्धान्त की आधारशिला बना।",
+  "n": 21,
+  "options_en": [
+   "Learning becomes permanent through practice",
+   "There is no learning without readiness",
+   "Behaviour followed by satisfying results tends to be repeated",
+   "There is no relation between stimulus and response"
+  ],
+  "options_hi": [
+   "अभ्यास से अधिगम स्थायी होता है",
+   "तत्परता के बिना अधिगम नहीं होता",
+   "जिस कार्य के बाद संतोषजनक परिणाम मिलता है, वह व्यवहार दोहराया जाता है",
+   "उद्दीपक और अनुक्रिया में कोई सम्बन्ध नहीं होता"
+  ],
+  "q_en": "What is the correct meaning of Thorndike's 'Law of Effect'?",
+  "q_hi": "थोर्नडाइक के 'प्रभाव के नियम' (Law of Effect) का सही आशय क्या है?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "भोजन अनानुबंधित उद्दीपक है और उससे लार आना स्वाभाविक अर्थात् अनानुबंधित अनुक्रिया है। घंटी की आवाज़ के साथ लार आना अनुबंधित अनुक्रिया कहलाता है।",
+  "n": 22,
+  "options_en": [
+   "Conditioned response",
+   "Unconditioned (natural) response",
+   "Conditioned stimulus",
+   "Extinction"
+  ],
+  "options_hi": [
+   "अनुबंधित अनुक्रिया",
+   "अनानुबंधित (स्वाभाविक) अनुक्रिया",
+   "अनुबंधित उद्दीपक",
+   "विलोपन"
+  ],
+  "q_en": "In Pavlov's classical conditioning experiment, salivation on seeing food is an example of what?",
+  "q_hi": "पावलव के शास्त्रीय अनुबन्धन प्रयोग में भोजन देखकर लार आना किसका उदाहरण है?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "कोहलर ने चिम्पांजी सुल्तान पर प्रयोग करके दिखाया कि अधिगम प्रयास-त्रुटि से नहीं, बल्कि परिस्थिति की समग्र समझ अर्थात् अंतर्दृष्टि से अचानक होता है; यह गेस्टाल्ट मनोविज्ञान से सम्बन्धित है।",
+  "n": 23,
+  "options_en": [
+   "Experiment on the chimpanzee 'Sultan'",
+   "Experiment on a dog",
+   "Cat and puzzle-box",
+   "Experiment on a pigeon"
+  ],
+  "options_hi": [
+   "चिम्पांजी 'सुल्तान' पर प्रयोग",
+   "कुत्ते पर प्रयोग",
+   "बिल्ली और पहेली-पेटी",
+   "कबूतर पर प्रयोग"
+  ],
+  "q_en": "Kohler's Insight learning theory was based on which experiment?",
+  "q_hi": "कोहलर का अंतर्दृष्टि (Insight) अधिगम सिद्धान्त किस प्रयोग पर आधारित था?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "ब्रूनर के अनुसार किसी विषय की मूल संरचना को पहले सरल रूप में और फिर बढ़ती जटिलता के साथ बार-बार पढ़ाया जाना चाहिए — यही सर्पिल पाठ्यक्रम है। उनका कथन है कि कोई भी विषय किसी भी आयु के बच्चे को किसी न किसी ईमानदार रूप में पढ़ाया जा सकता है।",
+  "n": 24,
+  "options_en": [
+   "Jerome Bruner",
+   "B. F. Skinner",
+   "David Ausubel",
+   "Robert Gagne"
+  ],
+  "options_hi": [
+   "जेरोम ब्रूनर",
+   "बी. एफ. स्किनर",
+   "डेविड ऑसुबेल",
+   "रॉबर्ट गैग्ने"
+  ],
+  "q_en": "Who gave the concept of 'Spiral Curriculum'?",
+  "q_hi": "'सर्पिल पाठ्यक्रम' (Spiral Curriculum) की अवधारणा किसने दी?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "पारम्परिक स्तर के तीसरे चरण में बालक दूसरों की स्वीकृति पाने हेतु अच्छा व्यवहार करता है — यही 'अच्छा लड़का-अच्छी लड़की' अभिविन्यास है। चतुर्थ चरण में कानून-व्यवस्था का पालन आता है।",
+  "n": 25,
+  "options_en": [
+   "Conventional level",
+   "Pre-conventional level",
+   "Post-conventional level",
+   "None of these levels"
+  ],
+  "options_hi": [
+   "पारम्परिक स्तर",
+   "पूर्व-पारम्परिक स्तर",
+   "उत्तर-पारम्परिक स्तर",
+   "किसी स्तर में नहीं"
+  ],
+  "q_en": "In Kohlberg's theory of moral development, the 'Good boy–Good girl orientation' belongs to which level?",
+  "q_hi": "कोलबर्ग के नैतिक विकास सिद्धान्त में 'अच्छा लड़का-अच्छी लड़की अभिविन्यास' किस स्तर में आता है?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "शैशवावस्था (जन्म से लगभग 1 वर्ष) में शिशु में विश्वास बनाम अविश्वास का संघर्ष होता है। देखभाल की गुणवत्ता से ही उसमें संसार के प्रति आधारभूत विश्वास विकसित होता है।",
+  "n": 26,
+  "options_en": [
+   "Autonomy vs. Shame",
+   "Trust vs. Mistrust",
+   "Initiative vs. Guilt",
+   "Industry vs. Inferiority"
+  ],
+  "options_hi": [
+   "स्वायत्तता बनाम लज्जा",
+   "विश्वास बनाम अविश्वास",
+   "पहल बनाम अपराधबोध",
+   "परिश्रम बनाम हीनता"
+  ],
+  "q_en": "Which is the first stage of Erikson's psycho-social development?",
+  "q_hi": "एरिक्सन के मनोसामाजिक विकास की प्रथम अवस्था कौन-सी है?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "मास्लो के पदानुक्रम का क्रम है — शारीरिक, सुरक्षा, प्रेम-सम्बद्धता, सम्मान और आत्म-साक्षात्कार। निचले स्तर की आवश्यकताएँ पूर्ण होने पर ही व्यक्ति उच्च स्तर की ओर बढ़ता है।",
+  "n": 27,
+  "options_en": [
+   "Safety needs",
+   "Self-actualization need",
+   "Esteem needs",
+   "Physiological needs"
+  ],
+  "options_hi": [
+   "सुरक्षा आवश्यकताएँ",
+   "आत्म-साक्षात्कार की आवश्यकता",
+   "सम्मान की आवश्यकताएँ",
+   "शारीरिक (दैहिक) आवश्यकताएँ"
+  ],
+  "q_en": "In Maslow's hierarchy of needs, which needs come first (at the lowest level)?",
+  "q_hi": "मास्लो के आवश्यकता पदानुक्रम में सबसे पहले (सबसे निचले स्तर पर) कौन-सी आवश्यकताएँ आती हैं?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "मिलर (1956) के प्रसिद्ध शोध के अनुसार अल्पकालिक स्मृति में एक समय में 7 ± 2 (अर्थात् 5 से 9) सूचना-इकाइयाँ (chunks) रखी जा सकती हैं।",
+  "n": 28,
+  "options_en": [
+   "5 ± 2 units",
+   "9 ± 2 units",
+   "7 ± 2 units",
+   "Unlimited"
+  ],
+  "options_hi": [
+   "5 ± 2 इकाइयाँ",
+   "9 ± 2 इकाइयाँ",
+   "7 ± 2 इकाइयाँ",
+   "असीमित"
+  ],
+  "q_en": "According to George Miller, what is generally the capacity of short-term memory?",
+  "q_hi": "जॉर्ज मिलर के अनुसार अल्पकालिक स्मृति की क्षमता सामान्यतः कितनी इकाइयों की होती है?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "मैक्लेलैण्ड ने उपलब्धि अभिप्रेरणा (n-Ach) का सिद्धान्त दिया और TAT परीक्षण द्वारा इसे मापा। उनके अनुसार उच्च उपलब्धि अभिप्रेरणा वाले व्यक्ति मध्यम कठिनाई वाले कार्य चुनते हैं।",
+  "n": 29,
+  "options_en": [
+   "Abraham Maslow",
+   "Clark Hull",
+   "Edward Tolman",
+   "David McClelland"
+  ],
+  "options_hi": [
+   "अब्राहम मास्लो",
+   "क्लार्क हल",
+   "एडवर्ड टॉलमैन",
+   "डेविड मैक्लेलैण्ड"
+  ],
+  "q_en": "Which psychologist did extensive work on 'Achievement Motivation'?",
+  "q_hi": "'उपलब्धि अभिप्रेरणा' (Achievement Motivation) पर व्यापक कार्य करने वाले मनोवैज्ञानिक कौन हैं?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "थोर्नडाइक के अनुसार एक परिस्थिति से दूसरी परिस्थिति में स्थानान्तरण तभी होता है, जब दोनों में समान तत्व (उद्दीपक-अनुक्रिया बन्धन) मौजूद हों। जुड ने इसके विपरीत सामान्यीकरण का सिद्धान्त दिया था।",
+  "n": 30,
+  "options_en": [
+   "Charles Judd",
+   "Thorndike",
+   "Wolfgang Kohler",
+   "William Bagley"
+  ],
+  "options_hi": [
+   "चार्ल्स जुड",
+   "थोर्नडाइक",
+   "वोल्फगैंग कोहलर",
+   "विलियम बागले"
+  ],
+  "q_en": "Who gave the 'Theory of Identical Elements' of transfer of learning?",
+  "q_hi": "अधिगम स्थानान्तरण का 'समान तत्वों का सिद्धान्त' (Theory of Identical Elements) किसने दिया?",
+  "unit": "Unit 3: Learner and Learning Process"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "NCTE की स्थापना 1973 में केन्द्र व राज्य सरकारों को अध्यापक शिक्षा पर सलाह देने वाले निकाय के रूप में हुई थी। संसद के NCTE अधिनियम, 1993 के बाद 17 अगस्त 1995 से इसे वैधानिक दर्जा प्राप्त हुआ।",
+  "n": 31,
+  "options_en": [
+   "As an advisory body of the Government of India, in 1973",
+   "As a statutory body, in 1993",
+   "As an autonomous university, in 1986",
+   "As a department of NCERT, in 1961"
+  ],
+  "options_hi": [
+   "भारत सरकार के सलाहकार निकाय के रूप में, 1973 में",
+   "वैधानिक निकाय के रूप में, 1993 में",
+   "स्वायत्त विश्वविद्यालय के रूप में, 1986 में",
+   "NCERT के विभाग के रूप में, 1961 में"
+  ],
+  "q_en": "In what form and when was the National Council for Teacher Education (NCTE) initially established?",
+  "q_hi": "राष्ट्रीय अध्यापक शिक्षा परिषद् (NCTE) की स्थापना प्रारम्भ में किस रूप में और कब हुई थी?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "NCERT की स्थापना 1 सितम्बर 1961 को विद्यालयी शिक्षा की गुणवत्ता सुधार, पाठ्यक्रम-पाठ्यपुस्तक विकास और शिक्षक प्रशिक्षण हेतु की गई थी।",
+  "n": 32,
+  "options_en": [
+   "1947",
+   "1956",
+   "1973",
+   "1961"
+  ],
+  "options_hi": [
+   "1947",
+   "1956",
+   "1973",
+   "1961"
+  ],
+  "q_en": "In which year was the National Council of Educational Research and Training (NCERT) established?",
+  "q_hi": "राष्ट्रीय शैक्षिक अनुसंधान एवं प्रशिक्षण परिषद् (NCERT) की स्थापना किस वर्ष हुई?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "NPE 1986 और कार्ययोजना 1992 के अंतर्गत चयनित अध्यापक शिक्षा महाविद्यालयों को IASE के रूप में उन्नत किया गया, जिनका कार्य माध्यमिक अध्यापक शिक्षा, शोध और सेवाकालीन प्रशिक्षण का संचालन है।",
+  "n": 33,
+  "options_en": [
+   "National Policy on Education, 1968",
+   "Direct recommendation of Kothari Commission, 1966",
+   "Sarva Shiksha Abhiyan, 2001",
+   "National Policy on Education, 1986 and its Programme of Action"
+  ],
+  "options_hi": [
+   "राष्ट्रीय शिक्षा नीति, 1968",
+   "कोठारी आयोग की सीधी सिफारिश से, 1966",
+   "सर्व शिक्षा अभियान, 2001",
+   "राष्ट्रीय शिक्षा नीति, 1986 तथा कार्ययोजना"
+  ],
+  "q_en": "Under which policy/programme were the IASEs (Institutes of Advanced Study in Education) established?",
+  "q_hi": "IASE (शिक्षा में उच्च अध्ययन संस्थान) की स्थापना किस नीति/कार्यक्रम के अंतर्गत की गई थी?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "न्यायमूर्ति वर्मा आयोग की सिफारिशों के अनुरूप NCTE विनियम, 2014 द्वारा B.Ed. और M.Ed. दोनों की अवधि एक वर्ष से बढ़ाकर दो वर्ष कर दी गई, जिसमें विद्यालय इंटर्नशिप को विशेष महत्व दिया गया।",
+  "n": 34,
+  "options_en": [
+   "One year",
+   "One and a half years",
+   "Four years",
+   "Two years"
+  ],
+  "options_hi": [
+   "एक वर्ष",
+   "डेढ़ वर्ष",
+   "चार वर्ष",
+   "दो वर्ष"
+  ],
+  "q_en": "According to the NCTE Regulations, 2014, what is the prescribed duration of the B.Ed. programme?",
+  "q_hi": "NCTE विनियम, 2014 के अनुसार B.Ed. कार्यक्रम की अवधि कितनी निर्धारित की गई?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "डोनाल्ड शॉन ने अपनी पुस्तक 'The Reflective Practitioner' (1983) में 'क्रिया में प्रतिबिंब' (reflection-in-action) की अवधारणा दी; ड्यूवी ने प्रतिबिंबात्मक चिंतन की पूर्व-पीठिका तैयार की थी।",
+  "n": 35,
+  "options_en": [
+   "John Dewey",
+   "Lawrence Stenhouse",
+   "Donald Schon",
+   "Michael Fullan"
+  ],
+  "options_hi": [
+   "जॉन ड्यूवी",
+   "लॉरेंस स्टेनहाउस",
+   "डोनाल्ड शॉन (Donald Schön)",
+   "माइकल फुलन"
+  ],
+  "q_en": "Who is credited with systematising the concept of 'Reflective Teaching'?",
+  "q_hi": "'प्रतिबिंबात्मक शिक्षण' (Reflective Teaching) की अवधारणा को व्यवस्थित रूप देने का श्रेय किसे जाता है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "कोठारी आयोग ने अपनी रिपोर्ट के आरम्भ में ही यह कथन दिया था, जिसका आशय है कि राष्ट्र का भविष्य विद्यालयी शिक्षा की गुणवत्ता और शिक्षकों की क्षमता पर निर्भर करता है।",
+  "n": 36,
+  "options_en": [
+   "The central role of education and teachers in nation building",
+   "Curriculum reform",
+   "Financing of education",
+   "Expansion of technical education"
+  ],
+  "options_hi": [
+   "राष्ट्र निर्माण में शिक्षा व शिक्षक की केन्द्रीय भूमिका से",
+   "पाठ्यक्रम सुधार से",
+   "शिक्षा के वित्तपोषण से",
+   "तकनीकी शिक्षा के विस्तार से"
+  ],
+  "q_en": "The famous statement of the Education Commission (1964-66) 'The destiny of India is being shaped in her classrooms' is related to what?",
+  "q_hi": "शिक्षा आयोग (1964-66) का प्रसिद्ध कथन 'भारत का भाग्य उसकी कक्षाओं में गढ़ा जा रहा है' किससे सम्बन्धित है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "अभिविन्यास कार्यक्रम नवनियुक्त विश्वविद्यालय/महाविद्यालय शिक्षकों हेतु होता है, जिसमें शिक्षण-विधि, मूल्यांकन और शैक्षणिक वातावरण से परिचय कराया जाता है; पुनश्चर्या पाठ्यक्रम अनुभवी शिक्षकों के विषय-ज्ञान अद्यतन हेतु होते हैं।",
+  "n": 37,
+  "options_en": [
+   "Refresher Course",
+   "Talent search programme",
+   "Orientation Programme",
+   "Extension programme"
+  ],
+  "options_hi": [
+   "पुनश्चर्या पाठ्यक्रम (Refresher Course)",
+   "प्रतिभा खोज कार्यक्रम",
+   "अभिविन्यास कार्यक्रम (Orientation Programme)",
+   "विस्तार कार्यक्रम"
+  ],
+  "q_en": "Which programme is run by UGC's Human Resource Development Centres (erstwhile Academic Staff Colleges) for newly appointed teachers?",
+  "q_hi": "UGC के मानव संसाधन विकास केन्द्रों (तत्कालीन शैक्षणिक स्टाफ महाविद्यालयों) द्वारा नवनियुक्त शिक्षकों हेतु चलाया जाने वाला कार्यक्रम कौन-सा है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "इंटर्नशिप में छात्राध्यापक विद्यालय से जुड़कर शिक्षण, मूल्यांकन, अभिलेख-रखरखाव और विद्यालयी संस्कृति का प्रत्यक्ष अनुभव प्राप्त करता है, जिससे सिद्धान्त और व्यवहार का अन्तर कम होता है।",
+  "n": 38,
+  "options_en": [
+   "To give student-teachers prolonged practical experience in real school situations",
+   "To get stipend for student-teachers",
+   "To reduce the number of theory courses",
+   "To meet the shortage of teachers in schools"
+  ],
+  "options_hi": [
+   "छात्राध्यापकों को वास्तविक विद्यालयी परिस्थितियों में दीर्घकालीन व्यावहारिक अनुभव देना",
+   "छात्राध्यापकों को वेतन दिलाना",
+   "सिद्धान्त पाठ्यक्रमों की संख्या घटाना",
+   "विद्यालयों में शिक्षकों की कमी पूरी करना"
+  ],
+  "q_en": "What is the main purpose of making 'School Internship' compulsory in teacher education institutions?",
+  "q_hi": "शिक्षक शिक्षा संस्थानों में 'विद्यालय इंटर्नशिप' को अनिवार्य बनाने का मुख्य उद्देश्य क्या है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "सिम्युलेशन में छात्राध्यापक अपने साथियों को ही विद्यार्थी बनाकर नियंत्रित वातावरण में शिक्षण-कौशलों का अभ्यास करता है; इससे वास्तविक कक्षा में जाने से पहले आत्मविश्वास और प्रतिपुष्टि मिलती है।",
+  "n": 39,
+  "options_en": [
+   "Teaching through computer",
+   "Practice teaching before fellow student-teachers in artificial but controlled conditions",
+   "Only online teaching",
+   "Supervision in a real classroom"
+  ],
+  "options_hi": [
+   "कम्प्यूटर द्वारा शिक्षण",
+   "कृत्रिम किन्तु नियंत्रित परिस्थितियों में साथी छात्राध्यापकों के समक्ष अभ्यास-शिक्षण",
+   "केवल ऑनलाइन शिक्षण",
+   "वास्तविक कक्षा में पर्यवेक्षण"
+  ],
+  "q_en": "What does 'Simulated Teaching' mean in teacher education?",
+  "q_hi": "अध्यापक शिक्षा में 'सिम्युलेटेड शिक्षण' (Simulated Teaching) का क्या अर्थ है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "NCTE विनियम, 2014 के अंतर्गत दो वर्षीय B.Ed. में EPC (Enhancing Professional Capacities) पाठ्यक्रम रखे गए हैं — जैसे स्वयं व पहचान की समझ, नाटक व कला, ICT की समीक्षात्मक समझ आदि, जो शिक्षक की व्यावसायिक क्षमताएँ बढ़ाते हैं।",
+  "n": 40,
+  "options_en": [
+   "Enhancing Professional Capacities",
+   "Education for Peace and Culture",
+   "Elementary Pedagogy Course",
+   "Evaluation and Practice Course"
+  ],
+  "options_hi": [
+   "Enhancing Professional Capacities",
+   "Education for Peace and Culture",
+   "Elementary Pedagogy Course",
+   "Evaluation and Practice Course"
+  ],
+  "q_en": "What is the full form of 'EPC' courses included in the pre-service teacher education curriculum?",
+  "q_hi": "सेवापूर्व अध्यापक शिक्षा पाठ्यक्रम में शामिल 'EPC' पाठ्यक्रमों का पूर्ण रूप क्या है?",
+  "unit": "Unit 4: Teacher Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "'Currere' का अर्थ है दौड़ना; पाठ्यक्रम वह मार्ग (दौड़ का मैदान) है जिस पर चलकर विद्यार्थी शैक्षिक लक्ष्य तक पहुँचता है। इसी से 'curriculum' शब्द बना।",
+  "n": 41,
+  "options_en": [
+   "Race course / to run",
+   "A collection of books",
+   "Guidance of the teacher",
+   "Preparation for examination"
+  ],
+  "options_hi": [
+   "दौड़ का मैदान / दौड़ना",
+   "पुस्तकों का समूह",
+   "शिक्षक का मार्गदर्शन",
+   "परीक्षा की तैयारी"
+  ],
+  "q_en": "The word 'Curriculum' is derived from the Latin word 'Currere', which means —",
+  "q_hi": "'पाठ्यक्रम' शब्द की उत्पत्ति लैटिन शब्द 'Currere' से हुई है, जिसका अर्थ है —",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "व्हीलर (1967) ने टायलर के रेखीय मॉडल को संशोधित करके चक्रीय मॉडल दिया, जिसमें उद्देश्य, अधिगम अनुभव, विषयवस्तु, संगठन और मूल्यांकन एक चक्र के रूप में परस्पर जुड़े रहते हैं और मूल्यांकन से पुनः उद्देश्यों में संशोधन होता है।",
+  "n": 42,
+  "options_en": [
+   "Ralph Tyler",
+   "Hilda Taba",
+   "Decker Walker",
+   "D. K. Wheeler"
+  ],
+  "options_hi": [
+   "राल्फ टायलर",
+   "हिल्डा टाबा",
+   "डेकर वॉकर",
+   "डी. के. व्हीलर"
+  ],
+  "q_en": "Who presented the 'Cyclical Model' of curriculum development?",
+  "q_hi": "पाठ्यक्रम विकास का 'चक्रीय मॉडल' (Cyclical Model) किसने प्रस्तुत किया?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "वॉकर (1971) का मॉडल उद्देश्यों से आरम्भ नहीं होता; यह मंच (platform), विचार-विमर्श (deliberation) और अभिकल्प (design) पर आधारित है, इसलिए इसे विचार-विमर्श या प्राकृतिक (naturalistic) मॉडल कहते हैं।",
+  "n": 43,
+  "options_en": [
+   "Rational Model",
+   "Administrative Model",
+   "Technical Model",
+   "Deliberative Model"
+  ],
+  "options_hi": [
+   "तार्किक मॉडल",
+   "प्रशासनिक मॉडल",
+   "तकनीकी मॉडल",
+   "विचार-विमर्श (Deliberative) मॉडल"
+  ],
+  "q_en": "Decker Walker's curriculum model is known by which name?",
+  "q_hi": "डेकर वॉकर के पाठ्यक्रम मॉडल को किस नाम से जाना जाता है?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "ड्यूवी के शिष्य किलपैट्रिक ने 1918 में प्रोजेक्ट विधि दी, जिसमें विद्यार्थी वास्तविक जीवन की समस्या पर आधारित उद्देश्यपूर्ण क्रिया स्वयं योजना बनाकर पूर्ण करता है। यह क्रिया-केंद्रित पाठ्यक्रम का आधार है।",
+  "n": 44,
+  "options_en": [
+   "W. H. Kilpatrick",
+   "John Dewey",
+   "Thorndike",
+   "J. J. Rousseau"
+  ],
+  "options_hi": [
+   "डब्ल्यू. एच. किलपैट्रिक",
+   "जॉन ड्यूवी",
+   "थोर्नडाइक",
+   "जे. जे. रूसो"
+  ],
+  "q_en": "Who is the originator of the Project Method?",
+  "q_hi": "प्रोजेक्ट विधि (Project Method) के प्रवर्तक कौन हैं?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "संज्ञानात्मक क्षेत्र की पुस्तिका (1956) ब्लूम के सम्पादन में आई, जबकि भावात्मक क्षेत्र की वर्गीकरण प्रणाली (1964) क्राथवोल, ब्लूम और मासिया ने विकसित की; मनोगतिक क्षेत्र पर सिम्पसन व हैरो ने कार्य किया।",
+  "n": 45,
+  "options_en": [
+   "Lorin Anderson",
+   "Elizabeth Simpson",
+   "David Krathwohl",
+   "Benjamin Bloom alone"
+  ],
+  "options_hi": [
+   "लॉरिन एण्डरसन",
+   "एलिज़ाबेथ सिम्पसन",
+   "डेविड क्राथवोल (Krathwohl)",
+   "बेंजामिन ब्लूम ने स्वयं अकेले"
+  ],
+  "q_en": "In Bloom's original taxonomy (1956), who mainly developed the taxonomy of the Affective Domain?",
+  "q_hi": "ब्लूम की मूल वर्गीकरण प्रणाली (1956) में भावात्मक क्षेत्र (Affective Domain) की वर्गीकरण प्रणाली मुख्यतः किसने विकसित की?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "मैगर के अनुसार व्यवहारिक उद्देश्य में तीन बातें स्पष्ट होनी चाहिए — विद्यार्थी क्या करेगा (निष्पादन), किन परिस्थितियों में करेगा और सफलता का न्यूनतम मानदण्ड क्या होगा।",
+  "n": 46,
+  "options_en": [
+   "Knowledge, understanding, application",
+   "Aim, method, evaluation",
+   "Performance, conditions and criterion",
+   "Content, medium, feedback"
+  ],
+  "options_hi": [
+   "ज्ञान, बोध, अनुप्रयोग",
+   "उद्देश्य, विधि, मूल्यांकन",
+   "निष्पादन, परिस्थितियाँ और मानदण्ड",
+   "सामग्री, माध्यम, प्रतिपुष्टि"
+  ],
+  "q_en": "According to Mager's method, what are the three essential components of writing instructional objectives?",
+  "q_hi": "मैगर (Mager) की विधि के अनुसार अनुदेशनात्मक उद्देश्य लेखन के तीन आवश्यक घटक कौन-से हैं?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "मानव संसाधन विकास मंत्रालय द्वारा गठित प्रो. यशपाल समिति (1993) ने स्कूली बच्चों पर पाठ्यक्रम के बोझ की समस्या पर 'बोझ रहित अधिगम' रिपोर्ट दी, जिसमें बस्ते के भार और अर्थहीन रटने की आलोचना की गई।",
+  "n": 47,
+  "options_en": [
+   "Kothari Committee",
+   "Prof. Yash Pal Committee",
+   "Ramamurti Committee",
+   "Gnanam Committee"
+  ],
+  "options_hi": [
+   "कोठारी समिति",
+   "प्रो. यशपाल समिति",
+   "राममूर्ति समिति",
+   "ज्ञानम् समिति"
+  ],
+  "q_en": "The report 'Learning Without Burden' (1993) is associated with which committee?",
+  "q_hi": "'बोझ रहित अधिगम' (Learning Without Burden, 1993) रिपोर्ट किस समिति से सम्बन्धित है?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "सहसम्बन्ध के अनुसार ज्ञान एक इकाई है; इतिहास-भूगोल, विज्ञान-गणित आदि विषयों को परस्पर जोड़कर पढ़ाने से अधिगम सार्थक और स्थायी होता है। हरबर्ट ने इस विचार की पूर्व-पीठिका तैयार की थी।",
+  "n": 48,
+  "options_en": [
+   "Teaching different subjects and experiences in mutual relation",
+   "Teaching all subjects separately",
+   "Study of only one subject",
+   "Increasing the difficulty of subjects"
+  ],
+  "options_hi": [
+   "विभिन्न विषयों और अनुभवों को परस्पर जोड़कर पढ़ाने पर",
+   "सभी विषयों को अलग-अलग पढ़ाने पर",
+   "केवल एक ही विषय के अध्ययन पर",
+   "विषयों की कठिनाई बढ़ाने पर"
+  ],
+  "q_en": "In curriculum organisation, the 'Principle of Correlation' emphasises what?",
+  "q_hi": "पाठ्यक्रम संगठन में 'सहसम्बन्ध का सिद्धान्त' (Principle of Correlation) किस बात पर बल देता है?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "टायलर के अनुसार अधिगम अनुभवों का संगठन निरन्तरता, क्रम और एकीकरण के सिद्धान्तों पर होना चाहिए, ताकि विभिन्न अनुभवों का संचयी प्रभाव उद्देश्यों की प्राप्ति को सुदृढ़ करे।",
+  "n": 49,
+  "options_en": [
+   "Giving experiences only once",
+   "Selecting only difficult experiences",
+   "Keeping evaluation at the end",
+   "The combined effect of many experiences helps in attaining the same objective"
+  ],
+  "options_hi": [
+   "अनुभवों को एक बार ही देना",
+   "केवल कठिन अनुभवों का चयन",
+   "मूल्यांकन को अंत में रखना",
+   "अनेक अनुभवों का संयुक्त प्रभाव एक ही उद्देश्य की प्राप्ति में सहायक होना"
+  ],
+  "q_en": "In Tyler's curriculum rationale, what does 'cumulative effect' imply for selecting learning experiences?",
+  "q_hi": "टायलर के पाठ्यक्रम तर्क (Tyler Rationale) में अधिगम अनुभवों के चयन हेतु 'संचयी प्रभाव' से क्या अभिप्राय है?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "प्रतिपुष्टि द्वारा मूल्यांकन के परिणाम पाठ्यक्रम निर्माताओं तक पहुँचते हैं, जिससे उद्देश्य, विषयवस्तु और विधियों में आवश्यक संशोधन किया जा सके — यही पाठ्यक्रम विकास को सतत प्रक्रिया बनाता है।",
+  "n": 50,
+  "options_en": [
+   "To terminate the curriculum",
+   "Only to award marks to students",
+   "To provide information for improving curriculum components on the basis of results obtained",
+   "To transfer teachers"
+  ],
+  "options_hi": [
+   "पाठ्यक्रम को समाप्त करना",
+   "केवल विद्यार्थियों को अंक देना",
+   "प्राप्त परिणामों के आधार पर पाठ्यक्रम के घटकों में सुधार हेतु सूचना देना",
+   "शिक्षकों का स्थानान्तरण करना"
+  ],
+  "q_en": "What is the chief function of 'Feedback' in curriculum evaluation?",
+  "q_hi": "पाठ्यक्रम मूल्यांकन में 'प्रतिपुष्टि' (Feedback) का प्रमुख कार्य क्या है?",
+  "unit": "Unit 5: Curriculum Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "जब शून्य परिकल्पना सत्य हो, फिर भी शोधकर्ता उसे अस्वीकार कर दे, तो यह प्रकार-I त्रुटि है; इसके विपरीत असत्य शून्य परिकल्पना को स्वीकार करना प्रकार-II त्रुटि कहलाता है।",
+  "n": 51,
+  "options_en": [
+   "Accepting a true null hypothesis",
+   "Rejecting a false null hypothesis",
+   "Taking no decision",
+   "Rejecting a true null hypothesis"
+  ],
+  "options_hi": [
+   "सत्य शून्य परिकल्पना को स्वीकार करना",
+   "असत्य शून्य परिकल्पना को अस्वीकार करना",
+   "कोई निर्णय न लेना",
+   "सत्य शून्य परिकल्पना को अस्वीकार कर देना"
+  ],
+  "q_en": "In hypothesis testing, what is meant by 'Type-I Error'?",
+  "q_hi": "परिकल्पना परीक्षण में 'प्रकार-I त्रुटि' (Type-I Error) से क्या अभिप्राय है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "परिकल्पना चरों के बीच सम्बन्ध का अस्थायी कथन है; उसका परीक्षण आँकड़ों द्वारा संभव होना चाहिए। परीक्षणीयता, स्पष्टता और विशिष्टता अच्छी परिकल्पना के गुण हैं।",
+  "n": 52,
+  "options_en": [
+   "It should be very complex",
+   "It should be based on moral values",
+   "It should be testable",
+   "It should always prove true"
+  ],
+  "options_hi": [
+   "यह अत्यन्त जटिल होनी चाहिए",
+   "यह नैतिक मूल्यों पर आधारित होनी चाहिए",
+   "यह परीक्षणीय (testable) होनी चाहिए",
+   "यह सदैव सत्य सिद्ध होनी चाहिए"
+  ],
+  "q_en": "Which is an essential characteristic of a good hypothesis?",
+  "q_hi": "एक अच्छी परिकल्पना की अनिवार्य विशेषता कौन-सी है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "सुविधाजनक प्रतिचयन में शोधकर्ता आसानी से उपलब्ध इकाइयों को चुनता है; इसमें प्रत्येक इकाई के चुने जाने की संभावना समान नहीं होती, इसलिए यह असंभाव्यता प्रतिचयन है।",
+  "n": 53,
+  "options_en": [
+   "Probability sampling",
+   "Stratified sampling",
+   "Non-probability sampling",
+   "Systematic sampling"
+  ],
+  "options_hi": [
+   "संभाव्यता प्रतिचयन",
+   "स्तरीकृत प्रतिचयन",
+   "असंभाव्यता (गैर-यादृच्छिक) प्रतिचयन",
+   "व्यवस्थित प्रतिचयन"
+  ],
+  "q_en": "'Convenience Sampling' belongs to which category of sampling?",
+  "q_hi": "'सुविधाजनक प्रतिचयन' (Convenience Sampling) किस श्रेणी का प्रतिचयन है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "उद्देश्यपूर्ण प्रतिचयन में शोधकर्ता अपने निर्णय के आधार पर शोध के उद्देश्य के अनुरूप प्रतिनिधि इकाइयों का चयन करता है, इसलिए इसे निर्णयात्मक प्रतिचयन कहते हैं।",
+  "n": 54,
+  "options_en": [
+   "Random sampling",
+   "Cluster sampling",
+   "Quota sampling",
+   "Judgement sampling"
+  ],
+  "options_hi": [
+   "यादृच्छिक प्रतिचयन",
+   "गुच्छ प्रतिचयन",
+   "कोटा प्रतिचयन",
+   "निर्णयात्मक (Judgement) प्रतिचयन"
+  ],
+  "q_en": "Purposive sampling is also known by which name?",
+  "q_hi": "उद्देश्यपूर्ण (Purposive) प्रतिचयन को और किस नाम से जाना जाता है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "शैक्षिक परिस्थितियों में विद्यार्थियों को यादृच्छिक रूप से बाँटना प्रायः संभव नहीं होता; पहले से बने समूहों (कक्षाओं) पर प्रयोग करने वाला अभिकल्प अर्ध-प्रयोगात्मक कहलाता है।",
+  "n": 55,
+  "options_en": [
+   "Random assignment of groups is not possible in it, yet experimental treatment is given",
+   "It has no control group",
+   "It is based only on survey",
+   "There is no manipulation of variables in it"
+  ],
+  "options_hi": [
+   "इसमें समूहों का यादृच्छिक आवंटन संभव नहीं होता, फिर भी प्रयोगात्मक उपचार दिया जाता है",
+   "इसमें कोई नियंत्रण समूह नहीं होता",
+   "यह केवल सर्वेक्षण पर आधारित होता है",
+   "इसमें चरों का कोई हस्तक्षेप नहीं होता"
+  ],
+  "q_en": "Which feature identifies a Quasi-experimental design?",
+  "q_hi": "अर्ध-प्रयोगात्मक (Quasi-experimental) अभिकल्प की पहचान कौन-सी है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "प्रकरण अध्ययन में किसी एक बालक, विद्यालय या संस्था का उसके सभी पक्षों सहित गहन अध्ययन किया जाता है; यह निदानात्मक और गुणात्मक शोध में विशेष उपयोगी है।",
+  "n": 56,
+  "options_en": [
+   "Superficial survey of a large group",
+   "Only statistical analysis",
+   "Intensive and holistic study of a single unit (person/institution)",
+   "Controlled experiment in a laboratory"
+  ],
+  "options_hi": [
+   "बड़े समूह का सतही सर्वेक्षण",
+   "केवल सांख्यिकीय विश्लेषण",
+   "किसी एक इकाई (व्यक्ति/संस्था) का गहन व समग्र अध्ययन",
+   "प्रयोगशाला में नियंत्रित प्रयोग"
+  ],
+  "q_en": "What is the basic characteristic of the Case Study method?",
+  "q_hi": "प्रकरण अध्ययन (Case Study) विधि की मूल विशेषता क्या है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "सहभागी अवलोकन मुख्यतः मानवशास्त्रीय व गुणात्मक शोध में प्रयुक्त होता है, जिसमें शोधकर्ता समूह के जीवन में सम्मिलित होकर भीतर से व्यवहार को समझता है।",
+  "n": 57,
+  "options_en": [
+   "Observing secretly from a distance",
+   "Observing only through a camera",
+   "The researcher observes while becoming a member of the group and participating in its activities",
+   "Collecting data through a questionnaire"
+  ],
+  "options_hi": [
+   "दूर से छिपकर अवलोकन करना",
+   "केवल कैमरे द्वारा अवलोकन करना",
+   "शोधकर्ता समूह का सदस्य बनकर उसकी क्रियाओं में भाग लेते हुए अवलोकन करता है",
+   "प्रश्नावली द्वारा तथ्य एकत्र करना"
+  ],
+  "q_en": "What is meant by 'Participant Observation'?",
+  "q_hi": "'सहभागी अवलोकन' (Participant Observation) से क्या अभिप्राय है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "किसी अन्य के विचार, आँकड़े या शब्दों को बिना सन्दर्भ दिए अपना बताना साहित्यिक चोरी है — यह शोध नैतिकता का उल्लंघन है। UGC ने शोध प्रकाशनों में इसकी जाँच हेतु विनियम भी बनाए हैं।",
+  "n": 58,
+  "options_en": [
+   "Use others' ideas/words with proper citation and references",
+   "Hide the sources",
+   "Write only from one's memory",
+   "Use internet material without checking"
+  ],
+  "options_hi": [
+   "दूसरों के विचारों/शब्दों का उपयोग उचित उद्धरण व सन्दर्भ सहित करना",
+   "स्रोतों को छिपाना",
+   "केवल अपनी स्मृति से लिखना",
+   "इंटरनेट सामग्री का बिना जाँच उपयोग करना"
+  ],
+  "q_en": "To avoid 'Plagiarism' in research, it is necessary to —",
+  "q_hi": "शोध में 'साहित्यिक चोरी' (Plagiarism) से बचने हेतु आवश्यक है —",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "सर्वेक्षण शोध में किसी जनसंख्या की वर्तमान स्थिति, अभिवृत्तियों या विशेषताओं का वर्णन किया जाता है, इसलिए यह वर्णनात्मक शोध की प्रमुख विधि है।",
+  "n": 59,
+  "options_en": [
+   "Experimental research",
+   "Historical research",
+   "Descriptive research",
+   "Philosophical research"
+  ],
+  "options_hi": [
+   "प्रयोगात्मक शोध",
+   "ऐतिहासिक शोध",
+   "वर्णनात्मक (Descriptive) शोध",
+   "दार्शनिक शोध"
+  ],
+  "q_en": "Survey Research is mainly which type of research?",
+  "q_hi": "सर्वेक्षण शोध (Survey Research) मुख्यतः किस प्रकार का शोध है?",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "क्रमिक चरों को बढ़ते-घटते क्रम में रखा जा सकता है — जैसे प्रथम, द्वितीय, तृतीय श्रेणी; किन्तु दो क्रमों के बीच का अन्तर समान होना आवश्यक नहीं है।",
+  "n": 60,
+  "options_en": [
+   "Continuous variable",
+   "Dichotomous variable",
+   "Ordinal variable",
+   "Independent variable"
+  ],
+  "options_hi": [
+   "सतत चर",
+   "द्विधारी चर",
+   "क्रमिक (Ordinal) चर",
+   "स्वतंत्र चर"
+  ],
+  "q_en": "The category of variable in which values can be ranked in order, but the distance between them is not equal, is called —",
+  "q_hi": "चर (Variable) की वह श्रेणी जिसमें चरों को क्रम (रैंक) तो दिया जा सकता है, परन्तु उनके बीच की दूरी समान नहीं होती, कहलाती है —",
+  "unit": "Unit 6: Research in Education"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "विश्वसनीयता का अर्थ है कि समान परिस्थितियों में बार-बार देने पर परीक्षण लगभग समान परिणाम दे। 'वही मापना जिसके लिए बना है' वैधता (validity) का लक्षण है — विश्वसनीयता वैधता की पूर्व-शर्त है।",
+  "n": 61,
+  "options_en": [
+   "The results of the test are consistent and stable",
+   "The test measures what it is made for",
+   "The test is cheap and simple",
+   "The time of the test is fixed"
+  ],
+  "options_hi": [
+   "परीक्षण के परिणामों में संगति व स्थिरता हो",
+   "परीक्षण वही मापे जिसके लिए बना है",
+   "परीक्षण सस्ता और सरल हो",
+   "परीक्षण का समय निश्चित हो"
+  ],
+  "q_en": "What is meant by the Reliability of a test?",
+  "q_hi": "किसी परीक्षण की विश्वसनीयता (Reliability) से क्या अभिप्राय है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "इसमें परीक्षण को दो समान भागों (जैसे सम-विषम पद) में बाँटकर दोनों भागों के अंकों का सहसम्बन्ध ज्ञात किया जाता है और स्पीयरमैन-ब्राउन सूत्र से पूरे परीक्षण की विश्वसनीयता निकाली जाती है।",
+  "n": 62,
+  "options_en": [
+   "Validity of the test",
+   "Reliability of the test",
+   "Difficulty of items",
+   "Intelligence level of students"
+  ],
+  "options_hi": [
+   "परीक्षण की वैधता",
+   "परीक्षण की विश्वसनीयता",
+   "पदों की कठिनाई",
+   "विद्यार्थियों का बुद्धि-स्तर"
+  ],
+  "q_en": "What is determined by the Split-half method?",
+  "q_hi": "अर्ध-विभाजन (Split-half) विधि से क्या ज्ञात किया जाता है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "सामान्य वक्र घंटी-आकार का और सममित होता है, जिसमें माध्य = माध्यिका = बहुलक होता है और कुल क्षेत्रफल का लगभग 68.26% भाग माध्य ± 1 मानक विचलन के बीच आता है।",
+  "n": 63,
+  "options_en": [
+   "It is completely skewed",
+   "It has no peak",
+   "In it, the values of mean, median and mode are equal",
+   "It is based on only two points"
+  ],
+  "options_hi": [
+   "यह पूर्णतः विषम होता है",
+   "इसमें कोई शिखर नहीं होता",
+   "इसमें माध्य, माध्यिका और बहुलक का मान समान होता है",
+   "यह केवल दो बिन्दुओं पर आधारित होता है"
+  ],
+  "q_en": "Which is the chief characteristic of the Normal Probability Curve?",
+  "q_hi": "सामान्य प्रायिकता वक्र (Normal Probability Curve) की प्रमुख विशेषता कौन-सी है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "माध्यिका वितरण का मध्य बिन्दु है, जिसके नीचे और ऊपर 50-50 प्रतिशत अंक होते हैं; अतः यह 50वें प्रतिशतक (P50) तथा द्वितीय चतुर्थक (Q2) के बराबर होती है।",
+  "n": 64,
+  "options_en": [
+   "25th percentile",
+   "75th percentile",
+   "90th percentile",
+   "50th percentile"
+  ],
+  "options_hi": [
+   "25वाँ प्रतिशतक",
+   "75वाँ प्रतिशतक",
+   "90वाँ प्रतिशतक",
+   "50वाँ प्रतिशतक"
+  ],
+  "q_en": "The Median of a distribution is equal to which percentile?",
+  "q_hi": "किसी वितरण की माध्यिका (Median) किस प्रतिशतक के बराबर होती है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "वस्तुनिष्ठ प्रश्नों में विद्यार्थी अनुमान से भी उत्तर दे सकता है और निबन्धात्मक अभिव्यक्ति, तर्क-संगठन जैसी क्षमताओं का मापन इनसे संभव नहीं होता; यद्यपि अंकन सरल और विश्वसनीय होता है।",
+  "n": 65,
+  "options_en": [
+   "Scoring in them is difficult",
+   "They take more time",
+   "There is a possibility of guessing in them and measuring higher-level expression/organisation ability is difficult",
+   "Their reliability is low"
+  ],
+  "options_hi": [
+   "इनमें अंकन कठिन होता है",
+   "इनमें समय अधिक लगता है",
+   "इनसे अनुमान (guessing) की सम्भावना रहती है और उच्च स्तरीय अभिव्यक्ति/संगठन क्षमता का मापन कठिन होता है",
+   "इनकी विश्वसनीयता कम होती है"
+  ],
+  "q_en": "What is the biggest limitation of objective type tests?",
+  "q_hi": "वस्तुनिष्ठ परीक्षणों की सबसे बड़ी सीमा कौन-सी है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "विभेदन सूचकांक ऊपरी समूह और निचले समूह के सही उत्तर देने वालों के अनुपात के अन्तर से निकाला जाता है। इसका मान जितना अधिक (धनात्मक) हो, पद उतना ही अच्छा माना जाता है।",
+  "n": 66,
+  "options_en": [
+   "How difficult the item is",
+   "How much time the item takes",
+   "How long the item is",
+   "How well the item differentiates between high and low achievers"
+  ],
+  "options_hi": [
+   "पद कितना कठिन है",
+   "पद का समय कितना है",
+   "पद कितना लम्बा है",
+   "पद उच्च और निम्न उपलब्धि वाले विद्यार्थियों में कितना भेद कर पाता है"
+  ],
+  "q_en": "What does the Discrimination Index of a test item indicate?",
+  "q_hi": "किसी परीक्षण-पद का विभेदन सूचकांक (Discrimination Index) क्या दर्शाता है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "यदि किसी विद्यार्थी का प्रतिशतक क्रम 80 है, तो इसका अर्थ है कि समूह के 80 प्रतिशत विद्यार्थी उससे नीचे हैं। यह प्रतिशत अंकों (percentage) से भिन्न अवधारणा है।",
+  "n": 67,
+  "options_en": [
+   "Percentage of total marks",
+   "Average of scores",
+   "Value of the highest score",
+   "The percentage of students who are below the given score"
+  ],
+  "options_hi": [
+   "कुल अंकों का प्रतिशत",
+   "अंकों का औसत",
+   "सर्वोच्च अंक का मान",
+   "वह प्रतिशत विद्यार्थी जो दिए गए अंक से नीचे हैं"
+  ],
+  "q_en": "'Percentile Rank' means —",
+  "q_hi": "'प्राप्तांक प्रतिशतक' (Percentile Rank) का अर्थ है —",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "आकस्मिक अभिलेख में शिक्षक विद्यार्थी के उल्लेखनीय व्यवहार (धनात्मक या ऋणात्मक) का वस्तुनिष्ठ वर्णन तिथि सहित लिखता है; यह निर्देशन और मूल्यांकन में सहायक होता है।",
+  "n": 68,
+  "options_en": [
+   "List of a student's marks",
+   "Attendance register",
+   "Examination question paper",
+   "A factual descriptive record of significant behavioural incidents of a student"
+  ],
+  "options_hi": [
+   "विद्यार्थी के अंकों की सूची",
+   "उपस्थिति पंजिका",
+   "परीक्षा का प्रश्न-पत्र",
+   "विद्यार्थी के महत्वपूर्ण व्यवहार-प्रसंगों का तथ्यात्मक वर्णनात्मक अभिलेख"
+  ],
+  "q_en": "What is an Anecdotal Record?",
+  "q_hi": "आकस्मिक अभिलेख (Anecdotal Record) क्या है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "CBSE की 9-बिन्दु ग्रेडिंग में A1 सर्वोच्च ग्रेड है (91-100 अंक परास), इसके बाद A2, B1, B2, C1, C2, D, E1 और E2 आते हैं। ग्रेडिंग से अंकों की अस्वस्थ प्रतिस्पर्धा घटती है।",
+  "n": 69,
+  "options_en": [
+   "A+",
+   "O",
+   "A1",
+   "E"
+  ],
+  "options_hi": [
+   "A+",
+   "O",
+   "A1",
+   "E"
+  ],
+  "q_en": "In CBSE's 9-point grading system, which is the highest grade?",
+  "q_hi": "CBSE की 9-बिन्दु ग्रेडिंग प्रणाली में सर्वोच्च ग्रेड कौन-सा है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "रचनात्मक मूल्यांकन शिक्षण-अधिगम के दौरान होता है; इससे शिक्षक और विद्यार्थी दोनों को कमजोरियाँ ज्ञात होती हैं और समय रहते सुधार संभव होता है। सत्रांत का मूल्यांकन संकलनात्मक (summative) कहलाता है।",
+  "n": 70,
+  "options_en": [
+   "To provide feedback during the learning process for improvement",
+   "To award grades at the end",
+   "To issue certificates",
+   "To compare students"
+  ],
+  "options_hi": [
+   "अधिगम प्रक्रिया के दौरान प्रतिपुष्टि देकर सुधार करना",
+   "अंत में श्रेणी देना",
+   "प्रमाण-पत्र जारी करना",
+   "विद्यार्थियों की तुलना करना"
+  ],
+  "q_en": "What is the main purpose of 'Formative' evaluation?",
+  "q_hi": "मूल्यांकन की 'रचनात्मक' (Formative) प्रक्रिया का मुख्य प्रयोजन क्या है?",
+  "unit": "Unit 7: Measurement and Evaluation"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "मैक्स वेबर के नौकरशाही मॉडल की विशेषताएँ हैं — पद-सोपान, लिखित नियम, कार्य-विभाजन, अवैयक्तिक सम्बन्ध और अभिलेख। यह बड़े संगठनों के प्रशासन का शास्त्रीय मॉडल माना जाता है।",
+  "n": 71,
+  "options_en": [
+   "Max Weber",
+   "Henri Fayol",
+   "F. W. Taylor",
+   "Elton Mayo"
+  ],
+  "options_hi": [
+   "मैक्स वेबर",
+   "हेनरी फेयोल",
+   "एफ. डब्ल्यू. टेलर",
+   "एल्टन मेयो"
+  ],
+  "q_en": "Who propounded the 'Bureaucracy' administrative model?",
+  "q_hi": "'नौकरशाही' (Bureaucracy) प्रशासनिक मॉडल के प्रतिपादक कौन हैं?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "सिद्धान्त X नकारात्मक धारणाओं पर आधारित है — औसत मनुष्य कार्य से बचना चाहता है, महत्वाकांक्षा कम होती है, इसलिए नियंत्रण व दण्ड आवश्यक माने जाते हैं। इसके विपरीत सिद्धान्त Y सकारात्मक धारणा है।",
+  "n": 72,
+  "options_en": [
+   "Man by nature wants to work",
+   "Man is always creative",
+   "Man takes responsibility on his own",
+   "Man dislikes work and can be made to work only through coercion and control"
+  ],
+  "options_hi": [
+   "मनुष्य स्वभावतः कार्य चाहता है",
+   "मनुष्य सदैव रचनात्मक होता है",
+   "मनुष्य उत्तरदायित्व स्वयं लेता है",
+   "मनुष्य कार्य से घृणा करता है, उसे दबाव व नियंत्रण से ही काम कराया जा सकता है"
+  ],
+  "q_en": "According to McGregor's 'Theory X', what is the manager's assumption about human nature?",
+  "q_hi": "मैक्ग्रेगर के 'सिद्धान्त X' के अनुसार प्रबन्धक की मानव प्रकृति सम्बन्धी धारणा क्या है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "प्रबन्धकीय ग्रिड में एक अक्ष उत्पादन-चिन्ता और दूसरा मानव-चिन्ता है। 9,9 स्थिति में दोनों के प्रति अधिकतम चिन्ता होती है, जिसे सर्वोत्तम 'दल प्रबन्धन' शैली माना गया है।",
+  "n": 73,
+  "options_en": [
+   "Impoverished management",
+   "Team management — high concern for both production and people",
+   "Authoritarian management",
+   "Middle-of-the-road management"
+  ],
+  "options_hi": [
+   "निर्बल प्रबन्धन",
+   "दल (Team) प्रबन्धन — उत्पादन और व्यक्ति दोनों के प्रति उच्च चिन्ता",
+   "अधिनायकवादी प्रबन्धन",
+   "मध्यम मार्गी प्रबन्धन"
+  ],
+  "q_en": "In Blake and Mouton's Managerial Grid, what does the '9,9' style represent?",
+  "q_hi": "ब्लेक और माउटन के प्रबन्धकीय ग्रिड में '9,9' शैली किसे दर्शाती है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "PERT में परियोजना की गतिविधियों का जाल (network) बनाकर न्यूनतम समय-मार्ग (critical path) ज्ञात किया जाता है; शैक्षिक योजनाओं और भवन-निर्माण जैसी परियोजनाओं में इसका प्रयोग होता है।",
+  "n": 74,
+  "options_en": [
+   "Evaluation of teachers",
+   "Time-planning, coordination and control of projects",
+   "Curriculum construction",
+   "Classification of students"
+  ],
+  "options_hi": [
+   "शिक्षकों के मूल्यांकन में",
+   "परियोजनाओं की समय-योजना, समन्वय और नियंत्रण में",
+   "पाठ्यक्रम निर्माण में",
+   "छात्रों के वर्गीकरण में"
+  ],
+  "q_en": "PERT (Programme Evaluation and Review Technique) is mainly used in what?",
+  "q_hi": "PERT (कार्यक्रम मूल्यांकन एवं पुनरावलोकन तकनीक) का मुख्य उपयोग किसमें होता है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "SWOT में S = शक्तियाँ (Strengths), W = कमजोरियाँ (Weaknesses), O = अवसर (Opportunities) और T = खतरे (Threats)। पहले दो आन्तरिक और बाद के दो बाह्य कारक हैं।",
+  "n": 75,
+  "options_en": [
+   "Organisation",
+   "Opportunities",
+   "Objectives",
+   "Observation"
+  ],
+  "options_hi": [
+   "संगठन (Organisation)",
+   "अवसर (Opportunities)",
+   "उद्देश्य (Objectives)",
+   "मूल्यांकन (Observation)"
+  ],
+  "q_en": "In 'SWOT Analysis' used in institutional planning, what does 'O' stand for?",
+  "q_hi": "संस्थागत नियोजन में प्रयुक्त 'SWOT विश्लेषण' में 'O' का क्या अर्थ है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "साइमन के अनुसार प्रशासक 'आर्थिक मनुष्य' न होकर 'प्रशासनिक मनुष्य' है; वह सीमाओं के कारण अनुकूलतम (optimizing) के बजाय संतोषजनक (satisficing) निर्णय लेता है।",
+  "n": 76,
+  "options_en": [
+   "The administrator always takes fully rational decisions",
+   "Due to limited information and time, the administrator takes a satisfactory rather than the best decision",
+   "Decisions are taken only by emotions",
+   "There is no process of decision-making"
+  ],
+  "options_hi": [
+   "प्रशासक सदैव पूर्णतः तार्किक निर्णय लेता है",
+   "प्रशासक सीमित सूचना व समय के कारण सर्वोत्तम के स्थान पर संतोषजनक निर्णय लेता है",
+   "निर्णय केवल भावनाओं से लिए जाते हैं",
+   "निर्णय की कोई प्रक्रिया नहीं होती"
+  ],
+  "q_en": "In Herbert Simon's decision-making theory, 'Bounded Rationality' means —",
+  "q_hi": "हर्बर्ट साइमन के निर्णय-निर्माण सिद्धान्त में 'सीमित तार्किकता' (Bounded Rationality) का अर्थ है —",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "जिला शिक्षा अधिकारी जिले के विद्यालयों के प्रशासन, पर्यवेक्षण और शैक्षिक कार्यक्रमों के क्रियान्वयन का प्रमुख होता है; उसके नीचे खण्ड स्तर पर खण्ड शिक्षा अधिकारी कार्य करता है।",
+  "n": 77,
+  "options_en": [
+   "District Magistrate",
+   "District Education Officer (DEO)",
+   "Block Development Officer",
+   "Chief Director of Education"
+  ],
+  "options_hi": [
+   "जिलाधिकारी",
+   "जिला शिक्षा अधिकारी (DEO)",
+   "खण्ड विकास अधिकारी",
+   "मुख्य शिक्षा निदेशक"
+  ],
+  "q_en": "Who is the chief officer of school education administration at the district level?",
+  "q_hi": "जिला स्तर पर विद्यालय शिक्षा प्रशासन का प्रमुख अधिकारी कौन होता है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "IQAC अर्थात् आन्तरिक गुणवत्ता आश्वासन प्रकोष्ठ — NAAC के सुझाव पर प्रत्येक प्रत्यायित संस्थान में गुणवत्ता को सतत बनाए रखने और बढ़ाने हेतु इसकी स्थापना की जाती है।",
+  "n": 78,
+  "options_en": [
+   "International Quality Assessment Council",
+   "Indian Quality Accreditation Centre",
+   "Institutional Qualification and Certification",
+   "Internal Quality Assurance Cell"
+  ],
+  "options_hi": [
+   "International Quality Assessment Council",
+   "Indian Quality Accreditation Centre",
+   "Institutional Qualification and Certification",
+   "Internal Quality Assurance Cell"
+  ],
+  "q_en": "What is the full form of IQAC in universities/colleges?",
+  "q_hi": "विश्वविद्यालयों/महाविद्यालयों में IQAC का पूर्ण रूप क्या है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "शारीरिक (शोर), भाषायी (कठिन शब्दावली), मनोवैज्ञानिक (पूर्वाग्रह) और संगठनात्मक अवरोध सम्प्रेषण को बाधित करते हैं; प्रभावी प्रशासन हेतु इन अवरोधों को दूर करना आवश्यक है।",
+  "n": 79,
+  "options_en": [
+   "Wrong interpretation of the message due to technical jargon and noise",
+   "Use of clear language",
+   "Receiving feedback",
+   "Face-to-face conversation"
+  ],
+  "options_hi": [
+   "तकनीकी शब्दावली व शोर के कारण संदेश का गलत अर्थ निकलना",
+   "स्पष्ट भाषा का प्रयोग",
+   "प्रतिपुष्टि प्राप्त करना",
+   "आमने-सामने वार्तालाप"
+  ],
+  "q_en": "Which is an example of a 'Communication Barrier'?",
+  "q_hi": "'सम्प्रेषण अवरोध' (Communication Barrier) का उदाहरण कौन-सा है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "विकेन्द्रीकरण में अधिकार निचले स्तरों को सौंपे जाते हैं, जिससे स्थानीय परिस्थितियों के अनुरूप शीघ्र निर्णय, सहभागिता और जवाबदेही बढ़ती है — पंचायती राज संस्थाओं को शिक्षा से जोड़ना इसका उदाहरण है।",
+  "n": 80,
+  "options_en": [
+   "Decisions are taken only at the top level",
+   "Quick decisions at the local level and work according to local needs become possible",
+   "Control ends completely",
+   "Accountability decreases"
+  ],
+  "options_hi": [
+   "निर्णय केवल शीर्ष स्तर पर होते हैं",
+   "स्थानीय स्तर पर त्वरित निर्णय और स्थानीय आवश्यकताओं के अनुरूप कार्य संभव होता है",
+   "नियंत्रण पूर्णतः समाप्त हो जाता है",
+   "जवाबदेही कम हो जाती है"
+  ],
+  "q_en": "What is the chief advantage of 'Decentralisation' in educational administration?",
+  "q_hi": "शिक्षा प्रशासन में 'विकेन्द्रीकरण' (Decentralisation) का प्रमुख लाभ क्या है?",
+  "unit": "Unit 8: Management, Administration and Leadership"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "सॉफ्टवेयर उपागम में अभिक्रमित अधिगम, कार्य-विश्लेषण, व्यवहार-उद्देश्य लेखन आदि शिक्षण-विज्ञान के सिद्धान्त आते हैं; यह स्किनर व अन्य मनोवैज्ञानिकों के कार्य से विकसित हुआ।",
+  "n": 81,
+  "options_en": [
+   "Psychological principles of learning and the teaching process",
+   "Teaching machines and equipment",
+   "Only computer hardware",
+   "Building construction"
+  ],
+  "options_hi": [
+   "अधिगम के मनोवैज्ञानिक सिद्धान्तों और शिक्षण-प्रक्रिया से",
+   "शिक्षण मशीनों और उपकरणों से",
+   "केवल कम्प्यूटर हार्डवेयर से",
+   "भवन निर्माण से"
+  ],
+  "q_en": "The 'Software Approach' of educational technology is mainly related to what?",
+  "q_hi": "शैक्षिक प्रौद्योगिकी का 'सॉफ्टवेयर उपागम' मुख्यतः किससे सम्बन्धित है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "प्रणाली उपागम में किसी भी प्रणाली को आगत, प्रक्रिया और निर्गत के रूप में देखा जाता है और प्रतिपुष्टि द्वारा निर्गत के आधार पर प्रणाली में सुधार किया जाता है; शिक्षा को भी एक प्रणाली माना गया है।",
+  "n": 82,
+  "options_en": [
+   "Teacher, student, school",
+   "Input, Process, Output",
+   "Hardware, software, computer",
+   "Objective, examination, result"
+  ],
+  "options_hi": [
+   "शिक्षक, विद्यार्थी, विद्यालय",
+   "आगत (Input), प्रक्रिया (Process), निर्गत (Output)",
+   "हार्डवेयर, सॉफ्टवेयर, कम्प्यूटर",
+   "उद्देश्य, परीक्षा, परिणाम"
+  ],
+  "q_en": "What are the three main components of the 'Systems Approach'?",
+  "q_hi": "'प्रणाली उपागम' (Systems Approach) के तीन प्रमुख घटक कौन-से हैं?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "गैग्ने ने अनुदेशन की 9 घटनाएँ दी हैं — ध्यान आकर्षित करना, उद्देश्य बताना, पूर्व अधिगम का स्मरण, उद्दीपक प्रस्तुति, मार्गदर्शन, निष्पादन कराना, प्रतिपुष्टि, मूल्यांकन और धारण-स्थानान्तरण।",
+  "n": 83,
+  "options_en": [
+   "Five",
+   "Seven",
+   "Eleven",
+   "Nine"
+  ],
+  "options_hi": [
+   "पाँच",
+   "सात",
+   "ग्यारह",
+   "नौ"
+  ],
+  "q_en": "How many Events of Instruction did Robert Gagne propose?",
+  "q_hi": "रॉबर्ट गैग्ने ने अनुदेशन की कितनी घटनाएँ (Events of Instruction) प्रस्तावित की हैं?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "ISRO ने सितम्बर 2004 में EDUSAT का प्रक्षेपण किया — यह पूर्णतः शिक्षा हेतु समर्पित भारत का प्रथम उपग्रह था, जिससे दूरस्थ क्षेत्रों में उपग्रह-आधारित अंतःक्रियात्मक शिक्षा संभव हुई।",
+  "n": 84,
+  "options_en": [
+   "2004",
+   "1999",
+   "2009",
+   "2014"
+  ],
+  "options_hi": [
+   "2004",
+   "1999",
+   "2009",
+   "2014"
+  ],
+  "q_en": "In which year was India's educational satellite 'EDUSAT' (GSAT-3) launched?",
+  "q_hi": "भारत का शैक्षिक उपग्रह 'EDUSAT' (GSAT-3) किस वर्ष प्रक्षेपित किया गया?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "2017 में प्रारम्भ DIKSHA 'वन नेशन, वन डिजिटल प्लेटफ़ॉर्म' के रूप में विद्यालयी शिक्षा हेतु ई-सामग्री, पाठ्यपुस्तक QR कोड और शिक्षक प्रशिक्षण (जैसे निष्ठा) का माध्यम है।",
+  "n": 85,
+  "options_en": [
+   "Only for university students",
+   "As a national digital platform for teachers and students for school education",
+   "For banking services",
+   "For employment"
+  ],
+  "options_hi": [
+   "केवल विश्वविद्यालय छात्रों हेतु",
+   "विद्यालयी शिक्षा हेतु शिक्षकों व विद्यार्थियों के लिए राष्ट्रीय डिजिटल प्लेटफ़ॉर्म के रूप में",
+   "बैंकिंग सेवाओं हेतु",
+   "रोजगार हेतु"
+  ],
+  "q_en": "The 'DIKSHA' platform has been mainly developed for whom?",
+  "q_hi": "'दीक्षा' (DIKSHA) प्लेटफ़ॉर्म मुख्यतः किसके लिए विकसित किया गया है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "NPTEL (2003) सात IITs और IISc की संयुक्त पहल है, जो इंजीनियरिंग व विज्ञान के निःशुल्क ऑनलाइन पाठ्यक्रम प्रदान करता है; यही पहल आगे चलकर SWAYAM मंच का आधार बनी।",
+  "n": 86,
+  "options_en": [
+   "National Programme on Technology Enhanced Learning",
+   "National Portal for Teacher Education and Learning",
+   "National Project on Technical Education and Literacy",
+   "National Programme for Training and E-Learning"
+  ],
+  "options_hi": [
+   "National Programme on Technology Enhanced Learning",
+   "National Portal for Teacher Education and Learning",
+   "National Project on Technical Education and Literacy",
+   "National Programme for Training and E-Learning"
+  ],
+  "q_en": "What is the full form of NPTEL?",
+  "q_hi": "NPTEL का पूर्ण रूप क्या है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "e-PG पाठशाला UGC की पहल है, जिसके अंतर्गत स्नातकोत्तर स्तर के अनेक विषयों में ई-अध्ययन सामग्री (e-Adhyayan), वीडियो व्याख्यान (Ugc-MOOCs) आदि निःशुल्क उपलब्ध कराए गए हैं।",
+  "n": 87,
+  "options_en": [
+   "NCERT",
+   "IGNOU",
+   "UGC",
+   "AICTE"
+  ],
+  "options_hi": [
+   "NCERT",
+   "IGNOU",
+   "UGC",
+   "AICTE"
+  ],
+  "q_en": "'e-PG Pathshala' is an initiative of which institution?",
+  "q_hi": "'e-PG पाठशाला' किस संस्था की पहल है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "मिश्रित अधिगम में आमने-सामने के शिक्षण के साथ डिजिटल माध्यमों (वीडियो, LMS, ऑनलाइन गतिविधियाँ) को योजनाबद्ध ढंग से जोड़ा जाता है, जिससे दोनों की सुविधाएँ मिलती हैं।",
+  "n": 88,
+  "options_en": [
+   "Only online learning",
+   "Only self-study",
+   "Studying two subjects together",
+   "A combination of traditional classroom teaching and online learning"
+  ],
+  "options_hi": [
+   "केवल ऑनलाइन अधिगम",
+   "केवल स्व-अध्ययन",
+   "दो विषयों को एक साथ पढ़ना",
+   "परम्परागत कक्षा-शिक्षण और ऑनलाइन अधिगम का संयोजन"
+  ],
+  "q_en": "What is meant by 'Blended Learning'?",
+  "q_hi": "'मिश्रित अधिगम' (Blended Learning) से क्या अभिप्राय है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "फ्लिप्ड कक्षा में प्रत्यक्ष अनुदेशन कक्षा से बाहर (वीडियो द्वारा) और 'गृहकार्य' जैसी गतिविधियाँ कक्षा में शिक्षक के मार्गदर्शन में होती हैं — इसलिए इसे उल्टी कक्षा कहते हैं।",
+  "n": 89,
+  "options_en": [
+   "The teacher does not attend the class",
+   "The examination is held at home",
+   "The curriculum is taught in reverse order",
+   "The student studies through video/content at home and class time is used for practice and discussion"
+  ],
+  "options_hi": [
+   "शिक्षक कक्षा में उपस्थित नहीं होता",
+   "परीक्षा घर पर होती है",
+   "पाठ्यक्रम उल्टे क्रम में पढ़ाया जाता है",
+   "विद्यार्थी घर पर वीडियो/सामग्री से अध्ययन करता है और कक्षा का समय अभ्यास व चर्चा में लगता है"
+  ],
+  "q_en": "What is the chief characteristic of the 'Flipped Classroom' model?",
+  "q_hi": "'उल्टी कक्षा' (Flipped Classroom) मॉडल की प्रमुख विशेषता क्या है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "Drill and Practice रूप में कम्प्यूटर प्रश्न प्रस्तुत करता है, तत्काल प्रतिपुष्टि देता है और त्रुटि पर पुनः अभ्यास कराता है; यह तथ्यों और कौशलों के सुदृढ़ीकरण हेतु उपयुक्त है।",
+  "n": 90,
+  "options_en": [
+   "For discovering new concepts",
+   "For strengthening learned facts/skills through repetition",
+   "For ending evaluation",
+   "For entertainment"
+  ],
+  "options_hi": [
+   "नयी अवधारणा की खोज हेतु",
+   "सीखे गए तथ्यों/कौशलों को दोहराकर दृढ़ करने हेतु",
+   "मूल्यांकन समाप्त करने हेतु",
+   "मनोरंजन हेतु"
+  ],
+  "q_en": "The 'Drill and Practice' mode of Computer Assisted Instruction (CAI) is mainly useful for what?",
+  "q_hi": "कम्प्यूटर सहायक अनुदेशन (CAI) का 'अभ्यास एवं पुनरावृत्ति' (Drill and Practice) रूप मुख्यतः किसके लिए उपयोगी है?",
+  "unit": "Unit 9: Educational Technology and ICT"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "RPwD अधिनियम, 2016 की धारा 34 के अंतर्गत सरकारी प्रतिष्ठानों की रिक्तियों में बेंचमार्क दिव्यांगता वाले व्यक्तियों हेतु 4 प्रतिशत आरक्षण है; उच्च शिक्षा संस्थानों में प्रवेश हेतु 5 प्रतिशत आरक्षण (धारा 32) का प्रावधान है।",
+  "n": 91,
+  "options_en": [
+   "3 percent",
+   "5 percent",
+   "4 percent",
+   "10 percent"
+  ],
+  "options_hi": [
+   "3 प्रतिशत",
+   "5 प्रतिशत",
+   "4 प्रतिशत",
+   "10 प्रतिशत"
+  ],
+  "q_en": "According to the RPwD Act, 2016, what is the provision of reservation for persons with disabilities in government jobs?",
+  "q_hi": "दिव्यांगजन अधिकार अधिनियम (RPwD), 2016 के अनुसार सरकारी नौकरियों में दिव्यांगजनों हेतु आरक्षण का प्रावधान कितना है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "UDL में पाठ्यक्रम को आरम्भ से ही ऐसा बनाया जाता है कि विभिन्न क्षमताओं वाले विद्यार्थी अपनी सुविधा अनुसार सामग्री तक पहुँच, उत्तर-अभिव्यक्ति और सहभागिता कर सकें — अवरोध पाठ्यक्रम में होता है, बालक में नहीं।",
+  "n": 92,
+  "options_en": [
+   "Making a single method compulsory for all students",
+   "Ensuring access for all by providing multiple options of presentation, expression and engagement",
+   "Keeping disabled children in a separate class",
+   "Using only technological devices"
+  ],
+  "options_hi": [
+   "सभी विद्यार्थियों हेतु एक ही विधि अनिवार्य करना",
+   "प्रस्तुति, अभिव्यक्ति और संलग्नता के बहु-विकल्प देकर सभी की पहुँच सुनिश्चित करना",
+   "दिव्यांग बच्चों को अलग कक्षा में रखना",
+   "केवल तकनीकी उपकरणों का प्रयोग"
+  ],
+  "q_en": "What is the basic principle of 'Universal Design for Learning' (UDL)?",
+  "q_hi": "'सार्वभौमिक अधिगम अभिकल्प' (Universal Design for Learning — UDL) का मूल सिद्धान्त क्या है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "फ्रांस के लुई ब्रेल, जो स्वयं दृष्टिबाधित थे, ने 1829 में उभरे हुए छह बिन्दुओं पर आधारित स्पर्श-लिपि विकसित की; यह आज भी दृष्टिबाधितों की शिक्षा का प्रमुख माध्यम है।",
+  "n": 93,
+  "options_en": [
+   "Helen Keller",
+   "Louis Braille",
+   "Valentin Hauy",
+   "Thomas Gallaudet"
+  ],
+  "options_hi": [
+   "हेलेन केलर",
+   "लुई ब्रेल",
+   "वैलेन्टिन हॉय",
+   "थॉमस गैलोडेट"
+  ],
+  "q_en": "Who was the inventor of the Braille script?",
+  "q_hi": "ब्रेल लिपि के आविष्कारक कौन थे?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "A",
+  "exp_hi": "त्वरण में प्रतिभाशाली बालक को सामान्य से कम समय में पाठ्यक्रम पूर्ण करके अगली कक्षा में प्रवेश दिया जाता है; जबकि 'संवर्धन' (enrichment) में उसी कक्षा में गहन व विस्तृत अनुभव दिए जाते हैं।",
+  "n": 94,
+  "options_en": [
+   "Allowing them to move quickly to the next class/level at their own pace",
+   "Giving them more homework",
+   "Sending them to a separate school",
+   "Giving them hard punishment"
+  ],
+  "options_hi": [
+   "उन्हें अपनी गति से शीघ्र अगली कक्षा/स्तर में प्रवेश देना",
+   "उन्हें अधिक गृहकार्य देना",
+   "उन्हें अलग विद्यालय में भेजना",
+   "उन्हें कठिन दण्ड देना"
+  ],
+  "q_en": "What is meant by 'Acceleration' in the education of gifted children?",
+  "q_hi": "प्रतिभाशाली (Gifted) बालकों की शिक्षा में 'त्वरण' (Acceleration) से क्या अभिप्राय है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "NEP 2020 में उच्च शिक्षा (व्यावसायिक शिक्षा सहित) का GER 2018 के 26.3 प्रतिशत से बढ़ाकर 2035 तक 50 प्रतिशत करने का लक्ष्य रखा गया है।",
+  "n": 95,
+  "options_en": [
+   "2025",
+   "2030",
+   "2047",
+   "2035"
+  ],
+  "options_hi": [
+   "2025",
+   "2030",
+   "2047",
+   "2035"
+  ],
+  "q_en": "According to NEP 2020, by which year is the target of 50 percent Gross Enrolment Ratio (GER) in higher education set?",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के अनुसार उच्च शिक्षा में सकल नामांकन अनुपात (GER) का लक्ष्य किस वर्ष तक 50 प्रतिशत रखा गया है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "ABC एक डिजिटल भण्डार है, जिसमें विद्यार्थी विभिन्न संस्थानों से अर्जित क्रेडिट जमा कर सकता है; इससे बहु-प्रवेश व बहु-निर्गम (multiple entry-exit) और संस्थानों के बीच क्रेडिट स्थानान्तरण संभव होता है।",
+  "n": 96,
+  "options_en": [
+   "To give loans to students",
+   "To manage teachers' salaries",
+   "To publish examination results",
+   "To enable digital storage and transfer of academic credits earned by students"
+  ],
+  "options_hi": [
+   "विद्यार्थियों को ऋण देना",
+   "शिक्षकों के वेतन का प्रबन्धन",
+   "परीक्षा परिणाम प्रकाशित करना",
+   "विद्यार्थियों द्वारा अर्जित शैक्षणिक क्रेडिटों का डिजिटल संग्रह व स्थानान्तरण संभव बनाना"
+  ],
+  "q_en": "What is the main objective of the 'Academic Bank of Credits' (ABC)?",
+  "q_hi": "'एकेडमिक बैंक ऑफ क्रेडिट्स' (ABC) का मुख्य उद्देश्य क्या है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "NIOS की स्थापना 1989 में राष्ट्रीय मुक्त विद्यालय के रूप में हुई; यह विश्व की सबसे बड़ी मुक्त विद्यालयी व्यवस्था है, जो माध्यमिक व उच्च माध्यमिक स्तर की शिक्षा लचीले ढंग से देती है।",
+  "n": 97,
+  "options_en": [
+   "1979",
+   "1999",
+   "1989",
+   "2009"
+  ],
+  "options_hi": [
+   "1979",
+   "1999",
+   "1989",
+   "2009"
+  ],
+  "q_en": "In which year was the National Institute of Open Schooling (NIOS) established?",
+  "q_hi": "राष्ट्रीय मुक्त विद्यालयी शिक्षा संस्थान (NIOS) की स्थापना किस वर्ष हुई?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "D",
+  "exp_hi": "UNESCO (संयुक्त राष्ट्र शैक्षणिक, वैज्ञानिक एवं सांस्कृतिक संगठन) की स्थापना 16 नवम्बर 1945 को हुई; इसका मुख्यालय पेरिस (फ्रांस) में है।",
+  "n": 98,
+  "options_en": [
+   "1919",
+   "1950",
+   "1965",
+   "1945"
+  ],
+  "options_hi": [
+   "1919",
+   "1950",
+   "1965",
+   "1945"
+  ],
+  "q_en": "In which year was UNESCO established?",
+  "q_hi": "UNESCO की स्थापना किस वर्ष हुई?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "C",
+  "exp_hi": "वर्ष 2000 में सेनेगल के डकार में विश्व शिक्षा मंच आयोजित हुआ, जिसमें 2015 तक सभी के लिए शिक्षा के छह लक्ष्य अपनाए गए। इससे पूर्व 1990 में जोम्तियन (थाईलैण्ड) सम्मेलन हुआ था।",
+  "n": 99,
+  "options_en": [
+   "1990",
+   "1995",
+   "2000",
+   "2015"
+  ],
+  "options_hi": [
+   "1990",
+   "1995",
+   "2000",
+   "2015"
+  ],
+  "q_en": "In which year was the World Education Forum (Dakar Framework) on 'Education for All' held?",
+  "q_hi": "'सभी के लिए शिक्षा' (Education for All) का विश्व सम्मेलन (डकार फ्रेमवर्क) किस वर्ष आयोजित हुआ?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ },
+ {
+  "answer": "B",
+  "exp_hi": "मौखिक विधि में श्रवण बाधित बालक को श्रवण यंत्रों, ओष्ठ-पठन और वाणी प्रशिक्षण द्वारा मौखिक भाषा सिखाई जाती है; इसके विपरीत सांकेतिक विधि में संकेत भाषा को माध्यम बनाया जाता है।",
+  "n": 100,
+  "options_en": [
+   "Use of sign language only",
+   "Use of residual hearing, lip reading and speech training",
+   "Complete dependence on written communication",
+   "Use of Braille script"
+  ],
+  "options_hi": [
+   "केवल सांकेतिक भाषा का प्रयोग",
+   "शेष श्रवण, ओष्ठ-पठन (lip reading) और वाणी प्रशिक्षण का प्रयोग",
+   "लिखित संचार पर पूर्ण निर्भरता",
+   "ब्रेल लिपि का प्रयोग"
+  ],
+  "q_en": "What is the main basis of the 'Oral Method' of educating hearing-impaired children?",
+  "q_hi": "श्रवण बाधित बालकों की शिक्षा की 'मौखिक विधि' (Oral Method) का मुख्य आधार क्या है?",
+  "unit": "Unit 10: Advanced Educational Studies"
+ }
+]

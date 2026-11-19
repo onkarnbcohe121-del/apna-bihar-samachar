@@ -1,0 +1,1052 @@
+[
+ {
+  "n": 1,
+  "subject": "Science",
+  "q_hi": "बल का SI मात्रक क्या है?",
+  "q_en": "What is the SI unit of force?",
+  "options": [
+   "Joule (जूल)",
+   "Newton (न्यूटन)",
+   "Watt (वाट)",
+   "Pascal (पास्कल)"
+  ],
+  "options_en": [
+   "Joule",
+   "Newton",
+   "Watt",
+   "Pascal"
+  ],
+  "answer": 1,
+  "exp_hi": "बल का SI मात्रक Newton (न्यूटन) है। Joule कार्य और ऊर्जा का, Watt शक्ति का तथा Pascal दाब का मात्रक है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 2,
+  "subject": "Science",
+  "q_hi": "वाहनों में लगा Speedometer क्या मापता है?",
+  "q_en": "What does a Speedometer in a vehicle measure?",
+  "options": [
+   "कुल तय की गई दूरी",
+   "इंजन की गति (RPM)",
+   "ईंधन की मात्रा",
+   "उस क्षण वाहन की Speed (चाल)"
+  ],
+  "options_en": [
+   "Total distance travelled",
+   "Speed of the engine (RPM)",
+   "Amount of fuel",
+   "Speed of the vehicle at that instant"
+  ],
+  "answer": 3,
+  "exp_hi": "Speedometer किसी भी क्षण वाहन की चाल (Speed) km/h में बताता है। कुल दूरी Odometer मापता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 3,
+  "subject": "Science",
+  "q_hi": "दंत चिकित्सक (Dentist) मरीज़ के दाँतों का बड़ा प्रतिबिंब देखने के लिए किस दर्पण का उपयोग करते हैं?",
+  "q_en": "Which mirror is used by dentists to see an enlarged image of the teeth of patients?",
+  "options": [
+   "समतल दर्पण (Plane Mirror)",
+   "उत्तल दर्पण (Convex Mirror)",
+   "बेलनाकार दर्पण",
+   "अवतल दर्पण (Concave Mirror)"
+  ],
+  "options_en": [
+   "Plane mirror",
+   "Convex mirror",
+   "Cylindrical mirror",
+   "Concave mirror"
+  ],
+  "answer": 3,
+  "exp_hi": "अवतल दर्पण (Concave Mirror) वस्तु को पास रखने पर सीधा और बड़ा प्रतिबिंब बनाता है, इसलिए Dentist और ENT विशेषज्ञ इसका उपयोग करते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 4,
+  "subject": "Science",
+  "q_hi": "समतल दर्पण द्वारा बने प्रतिबिंब के संबंध में कौन-सा कथन सही नहीं है?",
+  "q_en": "Which of the following statements is NOT correct about the image formed by a plane mirror?",
+  "options": [
+   "प्रतिबिंब आभासी (Virtual) होता है",
+   "प्रतिबिंब वस्तु के आकार के बराबर होता है",
+   "प्रतिबिंब पार्श्व रूप से उल्टा (Laterally inverted) होता है",
+   "प्रतिबिंब पर्दे पर प्राप्त किया जा सकता है"
+  ],
+  "options_en": [
+   "The image is virtual",
+   "The image is of the same size as the object",
+   "The image is laterally inverted",
+   "The image can be obtained on a screen"
+  ],
+  "answer": 3,
+  "exp_hi": "समतल दर्पण का प्रतिबिंब आभासी होता है, इसलिए उसे पर्दे पर प्राप्त नहीं किया जा सकता। यह वस्तु के बराबर आकार का, सीधा और पार्श्व रूप से उल्टा होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 5,
+  "subject": "Science",
+  "q_hi": "विद्युत धारा (Electric Current) को मापने का यंत्र और उसका SI मात्रक क्रमशः हैं :",
+  "q_en": "The instrument used to measure electric current and its SI unit respectively are :",
+  "options": [
+   "Ammeter, Ampere",
+   "Voltmeter, Volt",
+   "Galvanometer, Ohm",
+   "Ammeter, Volt"
+  ],
+  "options_en": [
+   "Ammeter, Ampere",
+   "Voltmeter, Volt",
+   "Galvanometer, Ohm",
+   "Ammeter, Volt"
+  ],
+  "answer": 0,
+  "exp_hi": "Electric Current को Ammeter से मापते हैं और इसका SI मात्रक Ampere है। Ammeter को परिपथ में हमेशा श्रेणी क्रम (Series) में जोड़ते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 6,
+  "subject": "Science",
+  "q_hi": "घरेलू विद्युत परिपथ में Fuse तार के संबंध में सही कथन कौन-सा है?",
+  "q_en": "Which of the following is correct regarding the fuse wire in a domestic electric circuit?",
+  "options": [
+   "इसका गलनांक (Melting Point) बहुत अधिक होता है",
+   "यह कम गलनांक वाली धातु का बना होता है और श्रेणी क्रम में जुड़ा होता है",
+   "यह समांतर क्रम (Parallel) में जुड़ा होता है",
+   "यह ताँबे का मोटा तार होता है"
+  ],
+  "options_en": [
+   "It has a very high melting point",
+   "It is made of a metal of low melting point and is connected in series",
+   "It is connected in parallel",
+   "It is a thick wire of copper"
+  ],
+  "answer": 1,
+  "exp_hi": "Fuse तार कम गलनांक वाली धातु (सीसा-टिन मिश्रधातु) का होता है। अधिक Current बहने पर यह पिघलकर परिपथ तोड़ देता है और उपकरणों की सुरक्षा करता है। यह हमेशा श्रेणी क्रम में जुड़ता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 7,
+  "subject": "Science",
+  "q_hi": "मशीनों में Ball Bearing का उपयोग क्यों किया जाता है?",
+  "q_en": "Why are ball bearings used in machines?",
+  "options": [
+   "घर्षण (Friction) बढ़ाने के लिए",
+   "मशीन का भार कम करने के लिए",
+   "सर्पी घर्षण (Sliding Friction) को लोटनिक घर्षण (Rolling Friction) में बदलने के लिए",
+   "मशीन की चाल बढ़ाने के लिए"
+  ],
+  "options_en": [
+   "To increase friction",
+   "To reduce the weight of the machine",
+   "To convert sliding friction into rolling friction",
+   "To increase the speed of the machine"
+  ],
+  "answer": 2,
+  "exp_hi": "Ball Bearing सर्पी घर्षण को लोटनिक घर्षण में बदल देते हैं। लोटनिक घर्षण, सर्पी घर्षण से बहुत कम होता है, इसलिए मशीन के पुर्ज़े कम घिसते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 8,
+  "subject": "Science",
+  "q_hi": "एक वस्तु पर 200 N का बल 2 m² क्षेत्रफल पर लंबवत लगाया जाता है। वस्तु पर लगने वाला दाब (Pressure) होगा :",
+  "q_en": "A force of 200 N acts perpendicularly on an area of 2 m². The pressure exerted will be :",
+  "options": [
+   "400 Pa",
+   "100 Pa",
+   "202 Pa",
+   "50 Pa"
+  ],
+  "options_en": [
+   "400 Pa",
+   "100 Pa",
+   "202 Pa",
+   "50 Pa"
+  ],
+  "answer": 1,
+  "exp_hi": "दाब (Pressure) = बल / क्षेत्रफल = 200 N / 2 m² = 100 Pa (पास्कल)।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 9,
+  "subject": "Science",
+  "q_hi": "घंटी को वायुरहित (Vacuum) काँच के जार में रखकर बजाने पर आवाज़ सुनाई नहीं देती, क्योंकि —",
+  "q_en": "The sound of a bell placed in an airless (vacuum) glass jar cannot be heard when it rings, because —",
+  "options": [
+   "काँच ध्वनि को अवशोषित कर लेता है",
+   "ध्वनि को संचरण के लिए माध्यम (Medium) की आवश्यकता होती है",
+   "Vacuum में घंटी बज ही नहीं सकती",
+   "ध्वनि केवल ठोसों में चलती है"
+  ],
+  "options_en": [
+   "Glass absorbs the sound",
+   "Sound needs a medium to travel",
+   "The bell cannot ring in vacuum",
+   "Sound travels only in solids"
+  ],
+  "answer": 1,
+  "exp_hi": "ध्वनि (Sound) एक यांत्रिक तरंग है; इसे चलने के लिए ठोस, द्रव या गैस जैसा माध्यम चाहिए। Vacuum में कोई माध्यम नहीं होता, इसलिए आवाज़ हम तक नहीं पहुँचती।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 10,
+  "subject": "Science",
+  "q_hi": "Pinhole Camera (सूची-छिद्र कैमरा) में वस्तु का प्रतिबिंब कैसा बनता है और क्यों?",
+  "q_en": "What kind of image is formed in a pinhole camera and why?",
+  "options": [
+   "उल्टा प्रतिबिंब, क्योंकि प्रकाश सीधी रेखा में चलता है (Rectilinear Propagation)",
+   "सीधा प्रतिबिंब, क्योंकि प्रकाश परावर्तित होता है",
+   "बड़ा प्रतिबिंब, क्योंकि छिद्र लेंस का काम करता है",
+   "रंगीन प्रतिबिंब, क्योंकि प्रकाश का विक्षेपण होता है"
+  ],
+  "options_en": [
+   "Inverted image, because light travels in a straight line (rectilinear propagation)",
+   "Erect image, because light reflects",
+   "Enlarged image, because the hole acts as a lens",
+   "Coloured image, because of dispersion of light"
+  ],
+  "answer": 0,
+  "exp_hi": "प्रकाश सीधी रेखा में चलता है। वस्तु के ऊपरी भाग से आई किरणें छिद्र से होकर नीचे और निचले भाग की किरणें ऊपर पड़ती हैं, इसलिए Pinhole Camera में उल्टा प्रतिबिंब बनता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 11,
+  "subject": "Science",
+  "q_hi": "आवर्धक लेंस (Magnifying Glass) के रूप में किसका उपयोग किया जाता है?",
+  "q_en": "Which of the following is used as a magnifying glass?",
+  "options": [
+   "अवतल लेंस (Concave Lens)",
+   "समतल काँच",
+   "उत्तल दर्पण",
+   "उत्तल लेंस (Convex Lens)"
+  ],
+  "options_en": [
+   "Concave lens",
+   "Plane glass",
+   "Convex mirror",
+   "Convex lens"
+  ],
+  "answer": 3,
+  "exp_hi": "उत्तल लेंस (Convex Lens) एक अभिसारी लेंस है; वस्तु को फोकस के अंदर रखने पर यह सीधा, आभासी और बड़ा प्रतिबिंब बनाता है, इसलिए यह Magnifying Glass के रूप में प्रयुक्त होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 12,
+  "subject": "Science",
+  "q_hi": "भूकंप की तीव्रता मापने का पैमाना और भूकंपीय तरंगें रिकॉर्ड करने वाला यंत्र क्रमशः हैं :",
+  "q_en": "The scale used to measure the intensity of an earthquake and the instrument that records seismic waves respectively are :",
+  "options": [
+   "Seismograph, Richter Scale",
+   "Richter Scale, Seismograph",
+   "Barometer, Richter Scale",
+   "Richter Scale, Odometer"
+  ],
+  "options_en": [
+   "Seismograph, Richter scale",
+   "Richter scale, Seismograph",
+   "Barometer, Richter scale",
+   "Richter scale, Odometer"
+  ],
+  "answer": 1,
+  "exp_hi": "भूकंप की तीव्रता Richter Scale पर मापी जाती है और भूकंपीय तरंगों को रिकॉर्ड करने वाला यंत्र Seismograph कहलाता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 13,
+  "subject": "Science",
+  "q_hi": "ऊँची इमारतों पर तड़ित चालक (Lightning Conductor) क्यों लगाया जाता है?",
+  "q_en": "Why is a lightning conductor installed on tall buildings?",
+  "options": [
+   "तड़ित के आवेश को सुरक्षित रूप से पृथ्वी (Earth) तक पहुँचाने के लिए",
+   "बिजली गिरने से रोकने के लिए",
+   "इमारत की ऊँचाई बढ़ाने के लिए",
+   "वर्षा का पानी इकट्ठा करने के लिए"
+  ],
+  "options_en": [
+   "To safely conduct the electric charge of lightning to the Earth",
+   "To prevent lightning from striking",
+   "To increase the height of the building",
+   "To collect rain water"
+  ],
+  "answer": 0,
+  "exp_hi": "Lightning Conductor ताँबे की एक नुकीली छड़ होती है जो इमारत से ऊपर निकली रहती है। बिजली गिरने पर यह आवेश को सुरक्षित मार्ग से पृथ्वी में पहुँचा देती है, जिससे इमारत को नुकसान नहीं होता।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 14,
+  "subject": "Science",
+  "q_hi": "साधारण दोलन करती हुई वस्तु (जैसे Pendulum) की गति किस प्रकार की गति का उदाहरण है?",
+  "q_en": "The motion of a simple pendulum is an example of which type of motion?",
+  "options": [
+   "सरल रेखीय गति (Rectilinear Motion)",
+   "वृत्तीय गति (Circular Motion)",
+   "घूर्णन गति (Rotational Motion)",
+   "आवर्ती गति (Periodic Motion)"
+  ],
+  "options_en": [
+   "Rectilinear motion",
+   "Circular motion",
+   "Rotational motion",
+   "Periodic motion"
+  ],
+  "answer": 3,
+  "exp_hi": "Pendulum एक निश्चित समय-अंतराल के बाद अपनी गति दोहराता है; ऐसी गति को आवर्ती गति (Periodic Motion) कहते हैं। एक दोलन पूरा करने का समय उसका आवर्तकाल (Time Period) होता है, जो लोलक की लंबाई पर निर्भर करता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 15,
+  "subject": "Science",
+  "q_hi": "लाल Litmus विलयन में क्षार (Base) डालने पर उसका रंग कैसा हो जाएगा?",
+  "q_en": "What happens to the colour of red litmus solution when a base is added to it?",
+  "options": [
+   "लाल ही रहेगा",
+   "रंगहीन हो जाएगा",
+   "पीला हो जाएगा",
+   "नीला हो जाएगा"
+  ],
+  "options_en": [
+   "It remains red",
+   "It becomes colourless",
+   "It turns yellow",
+   "It turns blue"
+  ],
+  "answer": 3,
+  "exp_hi": "क्षार (Base) लाल Litmus को नीला कर देता है, जबकि अम्ल (Acid) नीले Litmus को लाल करता है। Litmus एक प्राकृतिक सूचक (Indicator) है जो Lichen से प्राप्त होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 16,
+  "subject": "Science",
+  "q_hi": "लोहे पर ज़ंग (Rusting) से बचाने के लिए Zinc की परत चढ़ाने की प्रक्रिया कहलाती है :",
+  "q_en": "The process of coating iron with a layer of zinc to protect it from rusting is called :",
+  "options": [
+   "Crystallisation (क्रिस्टलीकरण)",
+   "Electroplating (विद्युत लेपन)",
+   "Galvanisation (यशद लेपन)",
+   "Distillation (आसवन)"
+  ],
+  "options_en": [
+   "Crystallisation",
+   "Electroplating",
+   "Galvanisation",
+   "Distillation"
+  ],
+  "answer": 2,
+  "exp_hi": "लोहे की वस्तुओं पर Zinc की पतली परत चढ़ाना Galvanisation कहलाता है। Zinc की परत लोहे को वायु और नमी के संपर्क से बचाती है, इसलिए ज़ंग नहीं लगता।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 17,
+  "subject": "Science",
+  "q_hi": "लोहे पर ज़ंग लगने के लिए कौन-सी दोनों परिस्थितियाँ एक साथ आवश्यक हैं?",
+  "q_en": "Which two conditions are together essential for rusting of iron?",
+  "options": [
+   "केवल वायु (Air)",
+   "केवल कार्बन डाइऑक्साइड",
+   "वायु और जल (नमी) दोनों",
+   "तेज़ धूप और गर्मी"
+  ],
+  "options_en": [
+   "Only air",
+   "Only carbon dioxide",
+   "Both air and water (moisture)",
+   "Strong sunlight and heat"
+  ],
+  "answer": 2,
+  "exp_hi": "ज़ंग (Rust) लगने के लिए लोहे का वायु (Oxygen) और जल/नमी दोनों के संपर्क में आना ज़रूरी है। ज़ंग का रासायनिक नाम Hydrated Iron Oxide है। शुष्क वायु या वायुरहित जल में ज़ंग नहीं लगता।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 18,
+  "subject": "Science",
+  "q_hi": "कोयले के प्रक्रमण (Processing) से प्राप्त उत्पादों का सही समूह कौन-सा है?",
+  "q_en": "Which is the correct set of products obtained from the processing of coal?",
+  "options": [
+   "Coke, Coal Tar और Coal Gas",
+   "Petrol, Diesel और Kerosene",
+   "LPG, CNG और Petrol",
+   "Coke, Bitumen और LPG"
+  ],
+  "options_en": [
+   "Coke, coal tar and coal gas",
+   "Petrol, diesel and kerosene",
+   "LPG, CNG and petrol",
+   "Coke, bitumen and LPG"
+  ],
+  "answer": 0,
+  "exp_hi": "कोयले के प्रक्रमण से Coke, Coal Tar और Coal Gas प्राप्त होते हैं। Coke ईंधन के रूप में और धातुओं के निष्कर्षण में, Coal Tar सड़क बनाने व रसायनों में प्रयुक्त होता है। Petrol, Diesel आदि Petroleum से मिलते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 19,
+  "subject": "Science",
+  "q_hi": "Petroleum के विभिन्न घटकों को अलग करने की प्रक्रिया और उसमें सबसे पहले प्राप्त होने वाला घटक क्रमशः हैं :",
+  "q_en": "The process of separating the components of petroleum and the component obtained first in it respectively are :",
+  "options": [
+   "आसवन (Distillation), Diesel",
+   "छानना (Filtration), Kerosene",
+   "वाष्पन (Evaporation), Bitumen",
+   "प्रभाजी आसवन (Fractional Distillation), Petroleum Gas (LPG)"
+  ],
+  "options_en": [
+   "Distillation, diesel",
+   "Filtration, kerosene",
+   "Evaporation, bitumen",
+   "Fractional distillation, petroleum gas (LPG)"
+  ],
+  "answer": 3,
+  "exp_hi": "Petroleum के घटकों को उनके क्वथनांकों (Boiling Points) के अंतर के आधार पर Fractional Distillation से अलग करते हैं। सबसे कम क्वथनांक वाली Petroleum Gas (LPG) सबसे पहले/सबसे ऊपर प्राप्त होती है और Bitumen सबसे अंत में बचता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 20,
+  "subject": "Science",
+  "q_hi": "सफ़ेद Phosphorus को कमरे के ताप पर ही वायु में खुला छोड़ने पर वह जल उठता है, क्योंकि —",
+  "q_en": "White phosphorus catches fire on being left open in air at room temperature itself, because —",
+  "options": [
+   "इसका ज्वलन ताप (Ignition Temperature) बहुत कम होता है",
+   "यह बहुत हल्का होता है",
+   "यह जल में घुलनशील है",
+   "यह एक धातु है"
+  ],
+  "options_en": [
+   "Its ignition temperature is very low",
+   "It is very light",
+   "It is soluble in water",
+   "It is a metal"
+  ],
+  "answer": 0,
+  "exp_hi": "जिस न्यूनतम ताप पर कोई ईंधन जलने लगता है उसे Ignition Temperature कहते हैं। सफ़ेद Phosphorus का ज्वलन ताप इतना कम (लगभग 35°C) है कि यह कमरे के ताप पर ही जल उठता है; इसलिए इसे जल के अंदर रखा जाता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 21,
+  "subject": "Science",
+  "q_hi": "Acid Rain (अम्लीय वर्षा) के लिए मुख्य रूप से उत्तरदायी गैसें कौन-सी हैं?",
+  "q_en": "Which gases are mainly responsible for acid rain?",
+  "options": [
+   "Oxygen और Nitrogen",
+   "Carbon Dioxide और Oxygen",
+   "Hydrogen और Helium",
+   "Sulphur Dioxide और Nitrogen के Oxide"
+  ],
+  "options_en": [
+   "Oxygen and nitrogen",
+   "Carbon dioxide and oxygen",
+   "Hydrogen and helium",
+   "Sulphur dioxide and oxides of nitrogen"
+  ],
+  "answer": 3,
+  "exp_hi": "जीवाश्म ईंधन जलने से निकली Sulphur Dioxide (SO₂) और Nitrogen के Oxide वर्षा-जल में घुलकर Sulphuric Acid और Nitric Acid बनाते हैं — यही Acid Rain है। इससे संगमरमर की इमारतें (जैसे ताजमहल) क्षतिग्रस्त होती हैं, जिसे Marble Cancer कहते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 22,
+  "subject": "Science",
+  "q_hi": "निम्नलिखित में से कौन-सी धातु सबसे अधिक तन्य (Ductile) है, अर्थात् उसके सबसे पतले तार बनाए जा सकते हैं?",
+  "q_en": "Which of the following metals is the most ductile, i.e., thinnest wires can be drawn from it?",
+  "options": [
+   "लोहा (Iron)",
+   "ताँबा (Copper)",
+   "सोना (Gold)",
+   "एल्युमिनियम (Aluminium)"
+  ],
+  "options_en": [
+   "Iron",
+   "Copper",
+   "Gold",
+   "Aluminium"
+  ],
+  "answer": 2,
+  "exp_hi": "सोना (Gold) सबसे अधिक तन्य (Ductile) और आघातवर्धनीय (Malleable) धातु है। लगभग 1 ग्राम सोने से करीब 2 किलोमीटर लंबा तार बनाया जा सकता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 23,
+  "subject": "Science",
+  "q_hi": "निम्नलिखित में से कौन-सी अधातु (Non-metal) कमरे के ताप पर द्रव अवस्था में पाई जाती है?",
+  "q_en": "Which of the following non-metals is found in the liquid state at room temperature?",
+  "options": [
+   "Chlorine (क्लोरीन)",
+   "Bromine (ब्रोमीन)",
+   "Iodine (आयोडीन)",
+   "Sulphur (सल्फ़र)"
+  ],
+  "options_en": [
+   "Chlorine",
+   "Bromine",
+   "Iodine",
+   "Sulphur"
+  ],
+  "answer": 1,
+  "exp_hi": "Bromine एकमात्र अधातु है जो कमरे के ताप पर द्रव होती है। Mercury एकमात्र धातु है जो द्रव अवस्था में पाई जाती है। Chlorine गैस है और Iodine व Sulphur ठोस हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 24,
+  "subject": "Science",
+  "q_hi": "Sodium धातु को Kerosene (मिट्टी के तेल) में डुबोकर क्यों रखा जाता है?",
+  "q_en": "Why is sodium metal stored immersed in kerosene oil?",
+  "options": [
+   "यह जल और वायु से तीव्र अभिक्रिया करके आग पकड़ सकती है",
+   "यह Kerosene में घुल जाती है",
+   "यह बहुत भारी होती है",
+   "इसका रंग बदलने से रोकने के लिए"
+  ],
+  "options_en": [
+   "It reacts violently with air and water and can catch fire",
+   "It dissolves in kerosene",
+   "It is very heavy",
+   "To prevent its colour from changing"
+  ],
+  "answer": 0,
+  "exp_hi": "Sodium अत्यंत क्रियाशील धातु है; यह वायु की नमी और जल से इतनी तीव्र अभिक्रिया करती है कि आग लग सकती है। Kerosene से यह अभिक्रिया नहीं करती, इसलिए सुरक्षा के लिए इसे उसी में डुबोकर रखते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 25,
+  "subject": "Science",
+  "q_hi": "मोमबत्ती का जलना किस प्रकार का परिवर्तन है?",
+  "q_en": "Burning of a candle is which type of change?",
+  "options": [
+   "केवल भौतिक परिवर्तन (Physical Change)",
+   "भौतिक और रासायनिक दोनों परिवर्तन",
+   "केवल रासायनिक परिवर्तन (Chemical Change)",
+   "कोई परिवर्तन नहीं"
+  ],
+  "options_en": [
+   "Only a physical change",
+   "Both physical and chemical change",
+   "Only a chemical change",
+   "No change at all"
+  ],
+  "answer": 1,
+  "exp_hi": "मोमबत्ती जलने में मोम का पिघलना भौतिक परिवर्तन है, जबकि मोम का जलकर Carbon Dioxide और जल-वाष्प बनाना रासायनिक परिवर्तन है। इसलिए यह दोनों प्रकार का परिवर्तन है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 26,
+  "subject": "Science",
+  "q_hi": "Brass (पीतल) और Solder (टाँका) मिश्रधातुओं के घटक क्रमशः हैं :",
+  "q_en": "The constituents of the alloys brass and solder respectively are :",
+  "options": [
+   "Brass — Copper + Tin; Solder — Lead + Zinc",
+   "Brass — Iron + Carbon; Solder — Copper + Tin",
+   "Brass — Copper + Zinc; Solder — Lead + Tin",
+   "Brass — Copper + Zinc; Solder — Tin + Aluminium"
+  ],
+  "options_en": [
+   "Brass — copper + tin; Solder — lead + zinc",
+   "Brass — iron + carbon; Solder — copper + tin",
+   "Brass — copper + zinc; Solder — lead + tin",
+   "Brass — copper + zinc; Solder — tin + aluminium"
+  ],
+  "answer": 2,
+  "exp_hi": "Brass (पीतल) = Copper + Zinc की मिश्रधातु है, जिससे बर्तन और मूर्तियाँ बनती हैं। Solder (टाँका) = Lead + Tin की कम गलनांक वाली मिश्रधातु है, जो तारों को जोड़ने (Welding/Soldering) में काम आती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 27,
+  "subject": "Science",
+  "q_hi": "Photosynthesis में निकलने वाली Oxygen गैस किससे आती है?",
+  "q_en": "The oxygen gas released during photosynthesis comes from which of the following?",
+  "options": [
+   "जल (Water) के विघटन से",
+   "Carbon Dioxide से",
+   "Chlorophyll से",
+   "सूर्य के प्रकाश से"
+  ],
+  "options_en": [
+   "From the splitting of water",
+   "From carbon dioxide",
+   "From chlorophyll",
+   "From sunlight"
+  ],
+  "answer": 0,
+  "exp_hi": "Photosynthesis में हरे पौधे सूर्य के प्रकाश की उपस्थिति में जल और Carbon Dioxide से Glucose बनाते हैं। इस प्रक्रिया में निकलने वाली Oxygen जल के विघटन से आती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 28,
+  "subject": "Science",
+  "q_hi": "कोशिका का 'Powerhouse' (ऊर्जा-गृह) किसे कहते हैं और क्यों?",
+  "q_en": "Which organelle is called the 'powerhouse' of the cell and why?",
+  "options": [
+   "Mitochondria, क्योंकि यहाँ भोजन के ऑक्सीकरण से ऊर्जा (ATP) बनती है",
+   "Nucleus (केंद्रक), क्योंकि यह कोशिका को नियंत्रित करता है",
+   "Ribosome, क्योंकि यहाँ Protein बनता है",
+   "Chloroplast, क्योंकि यहाँ Photosynthesis होता है"
+  ],
+  "options_en": [
+   "Mitochondria, because energy (ATP) is produced here by oxidation of food",
+   "Nucleus, because it controls the cell",
+   "Ribosome, because protein is made here",
+   "Chloroplast, because photosynthesis takes place here"
+  ],
+  "answer": 0,
+  "exp_hi": "Mitochondria में कोशिकीय श्वसन द्वारा Glucose का ऑक्सीकरण होकर ऊर्जा ATP के रूप में बनती है, इसलिए इसे कोशिका का Powerhouse कहते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 29,
+  "subject": "Science",
+  "q_hi": "मानव शरीर में भोजन का पाचन (Digestion) कहाँ से शुरू होता है और कहाँ पूर्ण होता है?",
+  "q_en": "In the human body, digestion of food begins and gets completed respectively at :",
+  "options": [
+   "आमाशय (Stomach) से शुरू, छोटी आंत (Small Intestine) में पूर्ण",
+   "मुँह से शुरू, बड़ी आंत (Large Intestine) में पूर्ण",
+   "मुँह (Mouth) से शुरू, छोटी आंत (Small Intestine) में पूर्ण",
+   "ग्रासनली (Oesophagus) से शुरू, आमाशय में पूर्ण"
+  ],
+  "options_en": [
+   "Begins in the stomach, completes in the small intestine",
+   "Begins in the mouth, completes in the large intestine",
+   "Begins in the mouth, completes in the small intestine",
+   "Begins in the oesophagus, completes in the stomach"
+  ],
+  "answer": 2,
+  "exp_hi": "पाचन मुँह से शुरू होता है — लार (Saliva) में मौजूद Amylase एंज़ाइम Starch को शर्करा में बदलता है। पाचन की प्रक्रिया छोटी आंत (Small Intestine) में पूर्ण होती है और पचे हुए भोजन का अवशोषण भी वहीं Villi द्वारा होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 30,
+  "subject": "Science",
+  "q_hi": "दलहनी (Leguminous) पौधों की जड़ों की गाँठों (Root Nodules) में पाया जाने वाला जीवाणु कौन-सा है और उसका कार्य क्या है?",
+  "q_en": "Which bacterium is found in the root nodules of leguminous plants and what is its function?",
+  "options": [
+   "Lactobacillus — दूध को दही में बदलना",
+   "Yeast — किण्वन (Fermentation)",
+   "Rhizobium — वायुमंडलीय Nitrogen का स्थिरीकरण (Nitrogen Fixation)",
+   "Amoeba — रोग फैलाना"
+  ],
+  "options_en": [
+   "Lactobacillus — converts milk into curd",
+   "Yeast — fermentation",
+   "Rhizobium — fixes atmospheric nitrogen (nitrogen fixation)",
+   "Amoeba — causes disease"
+  ],
+  "answer": 2,
+  "exp_hi": "Rhizobium जीवाणु दलहनी पौधों (चना, मटर, मूँग आदि) की जड़ों की गाँठों में सहजीवी रूप से रहता है और वायु की Nitrogen को पौधों के उपयोग योग्य यौगिकों में बदलता है — इसे Nitrogen Fixation कहते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 31,
+  "subject": "Science",
+  "q_hi": "किशोरावस्था (Adolescence) के संबंध में सही कथन कौन-सा है?",
+  "q_en": "Which of the following statements is correct regarding adolescence?",
+  "options": [
+   "लड़कों में 'Adam's Apple' स्वरयंत्र (Larynx) के छोटा होने से बनता है",
+   "इस अवस्था में लंबाई बढ़ना बंद हो जाती है",
+   "यह लगभग 11 वर्ष से 19 वर्ष की आयु की अवधि है",
+   "यह परिवर्तन किसी Hormone से संबंधित नहीं है"
+  ],
+  "options_en": [
+   "Adam's apple in boys is formed due to shrinking of the larynx",
+   "Height stops increasing in this stage",
+   "It is the period of age from about 11 years to 19 years",
+   "These changes are not related to any hormone"
+  ],
+  "answer": 2,
+  "exp_hi": "किशोरावस्था लगभग 11–19 वर्ष की अवधि है, जिसमें शरीर में तीव्र परिवर्तन होते हैं। लड़कों में Testosterone और लड़कियों में Estrogen Hormone इन परिवर्तनों के लिए उत्तरदायी हैं। Adam's Apple स्वरयंत्र (Larynx) के बढ़ने से बनता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 32,
+  "subject": "Science",
+  "q_hi": "Malaria रोग के संबंध में सही कथन कौन-सा है?",
+  "q_en": "Which of the following statements is correct regarding malaria?",
+  "options": [
+   "यह Plasmodium नामक Protozoa से होता है और मादा Anopheles मच्छर द्वारा फैलता है",
+   "यह Bacteria से होता है और दूषित जल से फैलता है",
+   "यह Virus से होता है और हवा से फैलता है",
+   "यह मादा Culex मच्छर द्वारा फैलता है"
+  ],
+  "options_en": [
+   "It is caused by a protozoan Plasmodium and spreads through female Anopheles mosquito",
+   "It is caused by bacteria and spreads through contaminated water",
+   "It is caused by virus and spreads through air",
+   "It spreads through female Culex mosquito"
+  ],
+  "answer": 0,
+  "exp_hi": "Malaria, Plasmodium नामक एककोशिकीय Protozoa परजीवी से होता है, जो मादा Anopheles मच्छर के काटने से मनुष्य के रक्त में पहुँचता है। मच्छर यहाँ वाहक (Vector) का कार्य करता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 33,
+  "subject": "Science",
+  "q_hi": "दूध का Pasteurisation (पाश्चुरीकरण) क्यों किया जाता है?",
+  "q_en": "Why is pasteurisation of milk done?",
+  "options": [
+   "दूध को निश्चित ताप पर गर्म करके हानिकारक सूक्ष्मजीवों (Microorganisms) को नष्ट करने के लिए",
+   "दूध का स्वाद बढ़ाने के लिए",
+   "दूध से क्रीम अलग करने के लिए",
+   "दूध को गाढ़ा करने के लिए"
+  ],
+  "options_en": [
+   "To destroy harmful microorganisms by heating milk to a definite temperature",
+   "To improve the taste of milk",
+   "To separate cream from milk",
+   "To thicken the milk"
+  ],
+  "answer": 0,
+  "exp_hi": "Pasteurisation में दूध को निश्चित ताप (लगभग 70°C पर 15–30 सेकंड) गर्म करके तुरंत ठंडा किया जाता है। इससे रोग फैलाने वाले सूक्ष्मजीव नष्ट हो जाते हैं और दूध अधिक समय तक सुरक्षित रहता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 34,
+  "subject": "Science",
+  "q_hi": "Kharif फसलों का सही समूह कौन-सा है?",
+  "q_en": "Which is the correct group of Kharif crops?",
+  "options": [
+   "धान (Paddy), मक्का, मूँगफली",
+   "गेहूँ, चना, सरसों",
+   "जौ, मटर, अलसी",
+   "गेहूँ, जौ, चना"
+  ],
+  "options_en": [
+   "Paddy, maize, groundnut",
+   "Wheat, gram, mustard",
+   "Barley, pea, linseed",
+   "Wheat, barley, gram"
+  ],
+  "answer": 0,
+  "exp_hi": "Kharif फसलें वर्षा ऋतु (जून–जुलाई) में बोई जाती हैं और सितंबर–अक्टूबर में काटी जाती हैं — धान, मक्का, ज्वार, मूँगफली, कपास आदि। गेहूँ, चना, सरसों Rabi फसलें हैं जो सर्दियों में बोई जाती हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 35,
+  "subject": "Science",
+  "q_hi": "Insulin Hormone के संबंध में सही कथन कौन-सा है?",
+  "q_en": "Which of the following statements is correct regarding the hormone insulin?",
+  "options": [
+   "यह Thyroid ग्रंथि से स्रावित होता है",
+   "यह अग्न्याशय (Pancreas) से स्रावित होता है और इसकी कमी से Diabetes (मधुमेह) होता है",
+   "इसकी कमी से घेंघा (Goitre) होता है",
+   "यह Adrenal ग्रंथि से स्रावित होता है"
+  ],
+  "options_en": [
+   "It is secreted by the thyroid gland",
+   "It is secreted by the pancreas and its deficiency causes diabetes",
+   "Its deficiency causes goitre",
+   "It is secreted by the adrenal gland"
+  ],
+  "answer": 1,
+  "exp_hi": "Insulin, अग्न्याशय (Pancreas) की विशेष कोशिकाओं से स्रावित होता है और रक्त में शर्करा की मात्रा नियंत्रित करता है। इसकी कमी से Diabetes रोग होता है। घेंघा (Goitre) आयोडीन की कमी से Thyroid ग्रंथि के बढ़ने से होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 36,
+  "subject": "Science",
+  "q_hi": "मनुष्य के हृदय के संबंध में सही कथन कौन-सा है?",
+  "q_en": "Which of the following statements is correct regarding the human heart?",
+  "options": [
+   "हृदय में दो कक्ष (Chambers) होते हैं",
+   "सामान्य वयस्क का हृदय एक मिनट में औसतन 72 बार धड़कता है",
+   "शिराएँ (Veins) रक्त को हृदय से शरीर की ओर ले जाती हैं",
+   "हृदय की धड़कन सुनने का यंत्र Sphygmomanometer है"
+  ],
+  "options_en": [
+   "The heart has two chambers",
+   "The heart of a normal adult beats on an average 72 times in a minute",
+   "Veins carry blood from the heart to the body",
+   "The instrument to hear the heartbeat is sphygmomanometer"
+  ],
+  "answer": 1,
+  "exp_hi": "वयस्क मनुष्य का हृदय औसतन 72 बार प्रति मिनट धड़कता है और इसमें चार कक्ष (2 अलिंद + 2 निलय) होते हैं। धमनियाँ (Arteries) रक्त को हृदय से शरीर की ओर ले जाती हैं। धड़कन सुनने का यंत्र Stethoscope है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 37,
+  "subject": "Science",
+  "q_hi": "Yeast (यीस्ट) द्वारा Anaerobic Respiration (अवायवीय श्वसन) में बनने वाले उत्पाद कौन-से हैं?",
+  "q_en": "What are the products formed in anaerobic respiration by yeast?",
+  "options": [
+   "केवल Carbon Dioxide",
+   "Lactic Acid और जल",
+   "Glucose और Oxygen",
+   "Alcohol (एथेनॉल) और Carbon Dioxide"
+  ],
+  "options_en": [
+   "Only carbon dioxide",
+   "Lactic acid and water",
+   "Glucose and oxygen",
+   "Alcohol (ethanol) and carbon dioxide"
+  ],
+  "answer": 3,
+  "exp_hi": "Oxygen की अनुपस्थिति में Yeast, Glucose को तोड़कर Alcohol और Carbon Dioxide बनाता है — इसी प्रक्रिया (Fermentation) का उपयोग शराब और ब्रेड उद्योग में होता है। हमारी पेशियों में अवायवीय श्वसन से Lactic Acid बनता है, जिससे ऐंठन (Cramps) होती है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 38,
+  "subject": "Science",
+  "q_hi": "रेगिस्तानी पौधों (जैसे Cactus/नागफनी) में पत्तियों का काँटों में बदल जाना किसमें सहायक है?",
+  "q_en": "In desert plants (like cactus), the modification of leaves into spines helps in :",
+  "options": [
+   "Photosynthesis बढ़ाने में",
+   "अधिक Carbon Dioxide ग्रहण करने में",
+   "वाष्पोत्सर्जन (Transpiration) द्वारा जल की हानि कम करने में",
+   "जड़ें गहरी करने में"
+  ],
+  "options_en": [
+   "Increasing photosynthesis",
+   "Absorbing more carbon dioxide",
+   "Reducing loss of water through transpiration",
+   "Making roots deeper"
+  ],
+  "answer": 2,
+  "exp_hi": "रेगिस्तानी पौधों में पत्तियाँ काँटों में बदल जाती हैं, जिससे Transpiration से होने वाली जल-हानि बहुत कम हो जाती है। इन पौधों में Photosynthesis हरे, मांसल तने द्वारा होता है — यह शुष्क आवास के प्रति अनुकूलन (Adaptation) है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 39,
+  "subject": "Science",
+  "q_hi": "किसी खाद्य शृंखला (Food Chain) की शुरुआत सदैव किससे होती है?",
+  "q_en": "A food chain always begins with which of the following?",
+  "options": [
+   "शाकाहारी (Herbivore) से",
+   "अपघटक (Decomposers) से",
+   "मांसाहारी (Carnivore) से",
+   "उत्पादक (Producers — हरे पौधे) से"
+  ],
+  "options_en": [
+   "With a herbivore",
+   "With decomposers",
+   "With a carnivore",
+   "With producers (green plants)"
+  ],
+  "answer": 3,
+  "exp_hi": "हरे पौधे सूर्य के प्रकाश से अपना भोजन स्वयं बनाते हैं, इसलिए वे उत्पादक (Producers) कहलाते हैं और प्रत्येक Food Chain की शुरुआत इन्हीं से होती है। शाकाहारी इन्हें खाते हैं, फिर उन्हें मांसाहारी खाते हैं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 40,
+  "subject": "Science",
+  "q_hi": "अंडे देने वाले (Oviparous) और बच्चे देने वाले (Viviparous) जीवों का सही युग्म कौन-सा है?",
+  "q_en": "Which is the correct pair of an oviparous and a viviparous animal?",
+  "options": [
+   "गाय — अंडे देने वाली; मुर्गी — बच्चे देने वाली",
+   "मुर्गी (Hen) — अंडे देने वाली; गाय (Cow) — बच्चे देने वाली",
+   "मेंढक — बच्चे देने वाला; मनुष्य — अंडे देने वाला",
+   "साँप — बच्चे देने वाला; चमगादड़ — अंडे देने वाला"
+  ],
+  "options_en": [
+   "Cow — egg laying; Hen — gives birth to young ones",
+   "Hen — egg laying; Cow — gives birth to young ones",
+   "Frog — gives birth; Human — egg laying",
+   "Snake — gives birth; Bat — egg laying"
+  ],
+  "answer": 1,
+  "exp_hi": "जो जीव अंडे देते हैं वे Oviparous (अंडप्रजक) कहलाते हैं — जैसे मुर्गी, मेंढक, साँप। जो जीव विकसित बच्चों को जन्म देते हैं वे Viviparous (सजीवप्रजक) हैं — जैसे गाय, मनुष्य, चमगादड़।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 41,
+  "subject": "Science",
+  "q_hi": "विज्ञान की प्रक्रिया-कौशलों (Process Skills) का सही समूह कौन-सा है?",
+  "q_en": "Which is the correct set of process skills of science?",
+  "options": [
+   "रटना, नकल करना, भूलना",
+   "प्रेक्षण (Observation), वर्गीकरण (Classification), अनुमान (Inference), प्रयोग (Experimentation)",
+   "पढ़ना, लिखना, सुनना",
+   "खेलना, सोना, खाना"
+  ],
+  "options_en": [
+   "Memorising, copying, forgetting",
+   "Observation, classification, inference, experimentation",
+   "Reading, writing, listening",
+   "Playing, sleeping, eating"
+  ],
+  "answer": 1,
+  "exp_hi": "विज्ञान सीखना केवल तथ्य जानना नहीं है; Observation, Classification, Measurement, Inference, Prediction और Experimentation जैसी Process Skills का विकास ही विज्ञान शिक्षण का मुख्य आधार है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 42,
+  "subject": "Science",
+  "q_hi": "NCF-2005 के अनुसार विज्ञान पाठ्यचर्या का एक प्रमुख सिद्धांत कौन-सा है?",
+  "q_en": "According to NCF-2005, which is a major principle of the science curriculum?",
+  "options": [
+   "पाठ्यपुस्तक को ही एकमात्र स्रोत मानना",
+   "रटने पर अधिक बल देना",
+   "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना (Connecting knowledge to life outside school)",
+   "परीक्षा को ही शिक्षा का उद्देश्य मानना"
+  ],
+  "options_en": [
+   "Considering the textbook as the only source",
+   "Giving more emphasis on rote learning",
+   "Connecting knowledge to life outside the school",
+   "Considering examination as the only aim of education"
+  ],
+  "answer": 2,
+  "exp_hi": "NCF-2005 का मार्गदर्शक सिद्धांत है — ज्ञान को विद्यालय से बाहर के जीवन से जोड़ना, रटने की प्रणाली से मुक्ति, और बच्चे के सर्वांगीण विकास पर बल। विज्ञान में यह दैनिक जीवन के अनुभवों से जोड़कर पढ़ाने से संभव होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 43,
+  "subject": "Science",
+  "q_hi": "निम्नलिखित में से कौन-सा रचनात्मक/सतत आकलन (Formative Assessment) का उदाहरण है?",
+  "q_en": "Which of the following is an example of formative assessment?",
+  "options": [
+   "सत्रांत (वार्षिक) परीक्षा",
+   "बोर्ड परीक्षा",
+   "अध्याय की पढ़ाई के दौरान प्रश्न पूछना, गतिविधि का प्रेक्षण करके तुरंत प्रतिपुष्टि (Feedback) देना",
+   "प्रवेश परीक्षा (Entrance Test)"
+  ],
+  "options_en": [
+   "End-of-session (annual) examination",
+   "Board examination",
+   "Asking questions during teaching of a chapter, observing activities and giving immediate feedback",
+   "Entrance test"
+  ],
+  "answer": 2,
+  "exp_hi": "Formative Assessment सीखने की प्रक्रिया के दौरान होता है और इसका उद्देश्य Feedback देकर सीखने को बेहतर बनाना है — यह 'Assessment for Learning' है। वार्षिक/बोर्ड परीक्षा Summative Assessment है, जो सीखने के अंत में होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 44,
+  "subject": "Science",
+  "q_hi": "किसी विद्यार्थी की वैकल्पिक अवधारणा (Alternative Conception) को बदलने की सबसे प्रभावी युक्ति कौन-सी है?",
+  "q_en": "Which is the most effective strategy to change an alternative conception of a learner?",
+  "options": [
+   "ऐसा प्रयोग/प्रदर्शन कराना जिससे उसकी धारणा और प्रेक्षण में टकराव (Cognitive Conflict) उत्पन्न हो",
+   "सही परिभाषा कई बार लिखवाना",
+   "उसे डाँटकर सही उत्तर बताना",
+   "उस विषय को छोड़ देना"
+  ],
+  "options_en": [
+   "Conducting an experiment/demonstration that creates a conflict (cognitive conflict) between the learner's belief and observation",
+   "Making the learner write the correct definition many times",
+   "Scolding and telling the correct answer",
+   "Skipping that topic"
+  ],
+  "answer": 0,
+  "exp_hi": "वैकल्पिक अवधारणाएँ केवल बताने से नहीं बदलतीं। जब विद्यार्थी स्वयं प्रयोग करके अपनी धारणा के विपरीत परिणाम देखता है तो Cognitive Conflict उत्पन्न होता है और अवधारणात्मक परिवर्तन (Conceptual Change) संभव होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 45,
+  "subject": "Science",
+  "q_hi": "Bloom के वर्गीकरण (Taxonomy) में 'अनुप्रयोग' (Application) स्तर को दर्शाने वाला कार्य कौन-सा है?",
+  "q_en": "Which task represents the 'Application' level of Bloom's taxonomy?",
+  "options": [
+   "जल के रासायनिक सूत्र को याद करके लिखना",
+   "Photosynthesis की परिभाषा बताना",
+   "सीखे गए सिद्धांत का उपयोग करके किसी नई परिस्थिति की समस्या हल करना",
+   "धातुओं के नाम गिनना"
+  ],
+  "options_en": [
+   "Writing the chemical formula of water from memory",
+   "Stating the definition of photosynthesis",
+   "Solving a problem of a new situation using a learnt principle",
+   "Listing the names of metals"
+  ],
+  "answer": 2,
+  "exp_hi": "Application स्तर पर विद्यार्थी सीखे हुए ज्ञान/सिद्धांत को नई परिस्थिति में प्रयोग करता है। परिभाषा बताना या याद करके लिखना 'ज्ञान/स्मरण' (Knowledge/Remembering) स्तर है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 46,
+  "subject": "Science",
+  "q_hi": "विज्ञान कक्षा में दृष्टिबाधित (Visually Impaired) विद्यार्थियों के लिए सबसे उपयुक्त सहायक सामग्री कौन-सी है?",
+  "q_en": "Which is the most suitable aid for visually impaired learners in a science class?",
+  "options": [
+   "केवल रंगीन चार्ट दिखाना",
+   "बोर्ड पर बड़े अक्षरों में लिखना मात्र",
+   "उन्हें प्रयोगशाला गतिविधियों से अलग रखना",
+   "स्पर्श से अनुभव होने वाले मॉडल (Tactile Models) और श्रव्य (Audio) सामग्री"
+  ],
+  "options_en": [
+   "Showing only colourful charts",
+   "Only writing in big letters on the board",
+   "Keeping them away from laboratory activities",
+   "Tactile models that can be felt by touch and audio material"
+  ],
+  "answer": 3,
+  "exp_hi": "समावेशी शिक्षा (Inclusive Education) में दृष्टिबाधित विद्यार्थियों के लिए Tactile Models, उभरे हुए आरेख और Audio सामग्री उपयोगी होती है, ताकि वे स्पर्श और श्रवण से अवधारणाएँ समझ सकें और सभी गतिविधियों में भाग ले सकें।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 47,
+  "subject": "Science",
+  "q_hi": "प्रयोगशाला में दुर्घटना से बचाव के लिए विद्यार्थियों को कौन-सा नियम सबसे पहले सिखाना चाहिए?",
+  "q_en": "Which rule should be taught first to students for safety in the laboratory?",
+  "options": [
+   "परखनली को हमेशा मुँह की ओर करके गर्म करना",
+   "कोई भी रसायन (Chemical) शिक्षक की अनुमति के बिना न छूना, न चखना",
+   "Acid में सीधे जल मिलाना",
+   "प्रयोग के बाद हाथ न धोना"
+  ],
+  "options_en": [
+   "Always heating the test tube pointing towards the face",
+   "Not to touch or taste any chemical without the teacher's permission",
+   "Adding water directly into acid",
+   "Not washing hands after an experiment"
+  ],
+  "answer": 1,
+  "exp_hi": "प्रयोगशाला सुरक्षा का पहला नियम है — शिक्षक की अनुमति और निर्देश के बिना कोई रसायन न छूना, न सूँघना, न चखना। Acid को तनु करने के लिए हमेशा Acid को जल में धीरे-धीरे मिलाते हैं, जल को Acid में नहीं।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 48,
+  "subject": "Science",
+  "q_hi": "'पूछताछ-आधारित अधिगम' (Inquiry-Based Learning) में शिक्षक की भूमिका मुख्य रूप से क्या होती है?",
+  "q_en": "In inquiry-based learning, the role of the teacher is mainly that of a :",
+  "options": [
+   "व्याख्यान देने वाला (Lecturer)",
+   "सुविधादाता (Facilitator), जो प्रश्न पूछने और खोज करने के अवसर देता है",
+   "केवल उत्तर जाँचने वाला",
+   "अनुशासन बनाए रखने वाला"
+  ],
+  "options_en": [
+   "Lecturer",
+   "Facilitator, who provides opportunities to ask questions and investigate",
+   "Only a checker of answers",
+   "Discipline keeper"
+  ],
+  "answer": 1,
+  "exp_hi": "Inquiry-Based Learning में विद्यार्थी स्वयं प्रश्न बनाते हैं, परिकल्पना (Hypothesis) करते हैं और प्रयोग से जाँचते हैं। शिक्षक ज्ञान देने के बजाय Facilitator के रूप में मार्गदर्शन करता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 49,
+  "subject": "Science",
+  "q_hi": "सतत एवं व्यापक मूल्यांकन (CCE) का मुख्य उद्देश्य क्या है?",
+  "q_en": "What is the main objective of Continuous and Comprehensive Evaluation (CCE)?",
+  "options": [
+   "वर्ष में अधिक परीक्षाएँ लेना",
+   "केवल अंकों के आधार पर श्रेणी देना",
+   "विद्यार्थियों पर परीक्षा का दबाव बढ़ाना",
+   "विद्यार्थी के शैक्षिक (Scholastic) और सह-शैक्षिक (Co-Scholastic) दोनों क्षेत्रों का नियमित मूल्यांकन करके सर्वांगीण विकास करना"
+  ],
+  "options_en": [
+   "To conduct more examinations in a year",
+   "To grade only on the basis of marks",
+   "To increase examination pressure on learners",
+   "To regularly evaluate both scholastic and co-scholastic areas of the learner for all-round development"
+  ],
+  "answer": 3,
+  "exp_hi": "CCE में 'Continuous' का अर्थ है नियमित अंतराल पर मूल्यांकन और 'Comprehensive' का अर्थ है Scholastic के साथ-साथ Co-Scholastic (रुचियाँ, अभिवृत्तियाँ, कौशल) क्षेत्रों का भी मूल्यांकन — ताकि बच्चे का सर्वांगीण विकास हो सके।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ },
+ {
+  "n": 50,
+  "subject": "Science",
+  "q_hi": "विज्ञान मेले/प्रदर्शनी (Science Exhibition) में विद्यार्थियों के कार्य का आकलन करने के लिए सबसे उपयुक्त साधन कौन-सा है?",
+  "q_en": "Which is the most suitable tool to assess students' work in a science exhibition?",
+  "options": [
+   "रूब्रिक (Rubric) — पूर्व-निर्धारित मानदंडों के आधार पर स्तरबद्ध मूल्यांकन",
+   "केवल वस्तुनिष्ठ प्रश्न-पत्र (Objective Test)",
+   "केवल मौखिक प्रश्न",
+   "हस्तलेखन देखकर अंक देना"
+  ],
+  "options_en": [
+   "Rubric — levelled assessment based on pre-decided criteria",
+   "Only an objective test paper",
+   "Only oral questions",
+   "Giving marks by looking at handwriting"
+  ],
+  "answer": 0,
+  "exp_hi": "Rubric में मूल्यांकन के मानदंड (जैसे — नवीनता, वैज्ञानिक सिद्धांत, प्रस्तुति) और प्रत्येक के स्तर पहले से स्पष्ट होते हैं, इसलिए परियोजना/प्रदर्शनी जैसे कार्यों का आकलन पारदर्शी और विश्वसनीय होता है।",
+  "source": "CTET PYQ Pattern (NCERT Class 6-8)"
+ }
+]

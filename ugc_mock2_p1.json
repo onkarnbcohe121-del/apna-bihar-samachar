@@ -1,0 +1,1016 @@
+[
+ {
+  "n": 1,
+  "unit": "Teaching Aptitude",
+  "q_hi": "सूक्ष्म शिक्षण (Micro-teaching) का मुख्य उद्देश्य क्या है?",
+  "q_en": "What is the main purpose of micro-teaching?",
+  "options_hi": [
+   "पूरे पाठ्यक्रम को शीघ्र पूरा करना",
+   "नियंत्रित परिस्थितियों में किसी एक शिक्षण कौशल का अभ्यास करना",
+   "छात्रों का अंतिम मूल्यांकन करना",
+   "कक्षा में अनुशासन बनाए रखना"
+  ],
+  "options_en": [
+   "To finish the whole syllabus quickly",
+   "To practise a single teaching skill under controlled conditions",
+   "To conduct the final evaluation of students",
+   "To maintain discipline in the class"
+  ],
+  "answer": "B",
+  "exp_hi": "सूक्ष्म शिक्षण में प्रशिक्षु शिक्षक छोटी कक्षा और छोटे समय में एक-एक कौशल (जैसे प्रश्न पूछना, व्याख्या करना) का अभ्यास करता है और प्रतिपुष्टि पाकर उसे सुधारता है।"
+ },
+ {
+  "n": 2,
+  "unit": "Teaching Aptitude",
+  "q_hi": "SWAYAMPRABHA क्या है?",
+  "q_en": "What is SWAYAMPRABHA?",
+  "options_hi": [
+   "एक परीक्षा पोर्टल",
+   "शिक्षक भर्ती बोर्ड",
+   "DTH चैनलों का समूह जो 24x7 शैक्षिक कार्यक्रम प्रसारित करता है",
+   "एक छात्रवृत्ति योजना"
+  ],
+  "options_en": [
+   "An examination portal",
+   "A teacher recruitment board",
+   "A group of DTH channels telecasting educational programmes 24x7",
+   "A scholarship scheme"
+  ],
+  "answer": "C",
+  "exp_hi": "SWAYAMPRABHA 34 DTH चैनलों का समूह है जो IIT, UGC, NCERT आदि द्वारा बनाए गए गुणवत्तापूर्ण शैक्षिक कार्यक्रम दिन-रात प्रसारित करता है।"
+ },
+ {
+  "n": 3,
+  "unit": "Teaching Aptitude",
+  "q_hi": "नैदानिक परीक्षण (Diagnostic test) का प्रयोग किसके लिए किया जाता है?",
+  "q_en": "A diagnostic test is used for —",
+  "options_hi": [
+   "सीखने की कठिनाइयों और कमजोरियों के कारण जानने के लिए",
+   "उपस्थिति दर्ज करने के लिए",
+   "अंतिम परीक्षा की तैयारी के लिए",
+   "छात्रों को श्रेणी देने के लिए"
+  ],
+  "options_en": [
+   "Finding out the causes of learning difficulties and weaknesses",
+   "Marking attendance",
+   "Preparing for the final examination",
+   "Grading the students"
+  ],
+  "answer": "A",
+  "exp_hi": "नैदानिक परीक्षण छात्र की विशिष्ट कमजोरियों और उनकी जड़ तक पहुँचने के लिए होता है, ताकि उपचारात्मक शिक्षण (remedial teaching) की योजना बनाई जा सके।"
+ },
+ {
+  "n": 4,
+  "unit": "Teaching Aptitude",
+  "q_hi": "किशोर शिक्षार्थियों (Adolescent learners) की प्रमुख विशेषता कौन-सी है?",
+  "q_en": "Which is a major characteristic of adolescent learners?",
+  "options_hi": [
+   "वे अमूर्त चिंतन बिल्कुल नहीं कर सकते",
+   "वे पूरी तरह शिक्षक पर निर्भर रहते हैं",
+   "उनकी रुचियाँ स्थायी और अपरिवर्तनशील होती हैं",
+   "उनमें स्वतंत्रता, पहचान और समूह-स्वीकृति की प्रबल इच्छा होती है"
+  ],
+  "options_en": [
+   "They cannot think abstractly at all",
+   "They remain fully dependent on the teacher",
+   "Their interests are fixed and unchangeable",
+   "They have a strong desire for independence, identity and peer approval"
+  ],
+  "answer": "D",
+  "exp_hi": "किशोरावस्था में शिक्षार्थी स्वतंत्र पहचान बनाना चाहता है, साथियों के समूह की स्वीकृति उसके लिए अत्यंत महत्वपूर्ण होती है और वह अधिकार-भाव से प्रश्न करने लगता है।"
+ },
+ {
+  "n": 5,
+  "unit": "Teaching Aptitude",
+  "q_hi": "अभिक्रमित अनुदेशन (Programmed instruction) का सिद्धांत किस मनोवैज्ञानिक से जुड़ा है?",
+  "q_en": "The principle of programmed instruction is associated with which psychologist?",
+  "options_hi": [
+   "जीन पियाजे",
+   "बी. एफ. स्किनर",
+   "इवान पावलोव",
+   "सिगमंड फ्रायड"
+  ],
+  "options_en": [
+   "Jean Piaget",
+   "B. F. Skinner",
+   "Ivan Pavlov",
+   "Sigmund Freud"
+  ],
+  "answer": "B",
+  "exp_hi": "बी. एफ. स्किनर ने क्रियाप्रसूत अनुकूलन (operant conditioning) पर आधारित अभिक्रमित अनुदेशन दिया, जिसमें सामग्री छोटे चरणों में बँटी होती है और तुरंत प्रतिपुष्टि मिलती है।"
+ },
+ {
+  "n": 6,
+  "unit": "Research Aptitude",
+  "q_hi": "किसी प्रयोगात्मक शोध में स्वतंत्र चर (Independent variable) वह होता है —",
+  "q_en": "In experimental research, the independent variable is the one which —",
+  "options_hi": [
+   "मापा जाता है",
+   "हमेशा स्थिर रहता है",
+   "शोधकर्ता द्वारा परिवर्तित या नियंत्रित किया जाता है",
+   "परिणाम के बाद चुना जाता है"
+  ],
+  "options_en": [
+   "Is measured",
+   "Always remains constant",
+   "Is manipulated or controlled by the researcher",
+   "Is selected after the result"
+  ],
+  "answer": "C",
+  "exp_hi": "स्वतंत्र चर वह कारक है जिसे शोधकर्ता बदलकर उसका प्रभाव देखता है; उस प्रभाव से बदलने वाला परिणाम आश्रित चर (dependent variable) कहलाता है।"
+ },
+ {
+  "n": 7,
+  "unit": "Research Aptitude",
+  "q_hi": "क्रियात्मक शोध (Action research) का मुख्य लक्ष्य क्या है?",
+  "q_en": "What is the main aim of action research?",
+  "options_hi": [
+   "ऐतिहासिक तथ्यों की खोज करना",
+   "सार्वभौमिक सिद्धांत बनाना",
+   "बड़े जनसमूह पर सर्वेक्षण करना",
+   "अपनी ही कक्षा या संस्था की तात्कालिक समस्या का व्यावहारिक समाधान"
+  ],
+  "options_en": [
+   "To discover historical facts",
+   "To formulate universal theories",
+   "To survey a large population",
+   "To find a practical solution to an immediate problem of one's own classroom or institution"
+  ],
+  "answer": "D",
+  "exp_hi": "क्रियात्मक शोध अभ्यासी (practitioner) स्वयं करता है — उद्देश्य सिद्धांत बनाना नहीं, बल्कि अपने कार्यक्षेत्र की वास्तविक समस्या का तत्काल और व्यावहारिक हल निकालना है।"
+ },
+ {
+  "n": 8,
+  "unit": "Research Aptitude",
+  "q_hi": "परिकल्पना परीक्षण में प्रकार-I त्रुटि (Type-I error) कब होती है?",
+  "q_en": "In hypothesis testing, a Type-I error occurs when —",
+  "options_hi": [
+   "नमूना बहुत बड़ा ले लिया जाता है",
+   "असत्य शून्य परिकल्पना को स्वीकार कर लिया जाता है",
+   "आँकड़े गलत दर्ज हो जाते हैं",
+   "सत्य शून्य परिकल्पना को अस्वीकार कर दिया जाता है"
+  ],
+  "options_en": [
+   "The sample taken is too large",
+   "A false null hypothesis is accepted",
+   "Data is recorded wrongly",
+   "A true null hypothesis is rejected"
+  ],
+  "answer": "D",
+  "exp_hi": "जो शून्य परिकल्पना वास्तव में सत्य हो उसे गलती से अस्वीकार करना Type-I त्रुटि है; इसके विपरीत असत्य परिकल्पना को स्वीकार करना Type-II त्रुटि कहलाती है।"
+ },
+ {
+  "n": 9,
+  "unit": "Research Aptitude",
+  "q_hi": "पश्चात्-कार्य शोध (Ex post facto research) में शोधकर्ता —",
+  "q_en": "In ex post facto research, the researcher —",
+  "options_hi": [
+   "चरों में स्वयं परिवर्तन करता है",
+   "प्रयोगशाला में प्रयोग करता है",
+   "पहले घटित घटना के संभावित कारणों का अध्ययन करता है, चरों में हेरफेर किए बिना",
+   "केवल प्रश्नावली बनाता है"
+  ],
+  "options_en": [
+   "Manipulates the variables himself",
+   "Conducts experiments in a laboratory",
+   "Studies the possible causes of an event that has already occurred, without manipulating variables",
+   "Only prepares a questionnaire"
+  ],
+  "answer": "C",
+  "exp_hi": "Ex post facto शोध में घटना पहले ही घट चुकी होती है; शोधकर्ता पीछे मुड़कर उसके संभावित कारण खोजता है, इसलिए चरों पर उसका नियंत्रण नहीं होता।"
+ },
+ {
+  "n": 10,
+  "unit": "Research Aptitude",
+  "q_hi": "गुच्छ प्रतिचयन (Cluster sampling) में —",
+  "q_en": "In cluster sampling —",
+  "options_hi": [
+   "हर nवाँ व्यक्ति चुना जाता है",
+   "जनसंख्या को समूहों में बाँटकर कुछ पूरे समूह यादृच्छिक रूप से चुने जाते हैं",
+   "हर इकाई को अलग-अलग यादृच्छिक रूप से चुना जाता है",
+   "केवल सुविधाजनक इकाइयाँ चुनी जाती हैं"
+  ],
+  "options_en": [
+   "Every nth person is selected",
+   "The population is divided into groups and some whole groups are selected randomly",
+   "Every unit is selected individually at random",
+   "Only convenient units are selected"
+  ],
+  "answer": "B",
+  "exp_hi": "Cluster sampling में जनसंख्या को गुच्छों (जैसे गाँव, विद्यालय) में बाँटा जाता है और चुने गए गुच्छों की सभी इकाइयों का अध्ययन किया जाता है; यह प्रायिकता प्रतिचयन की विधि है।"
+ },
+ {
+  "n": 11,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, समय को सबसे न्यायप्रिय संसाधन क्यों कहा गया है?",
+  "q_en": "According to the passage, why has time been called the most impartial resource?",
+  "options_hi": [
+   "प्रत्येक व्यक्ति को दिन में समान चौबीस घंटे मिलते हैं",
+   "यह धन से खरीदा जा सकता है",
+   "यह विद्वानों के पास अधिक होता है",
+   "यह केवल परिश्रमी लोगों को मिलता है"
+  ],
+  "options_en": [
+   "Every person gets an equal twenty-four hours in a day",
+   "It can be bought with money",
+   "Scholars have more of it",
+   "It is available only to hardworking people"
+  ],
+  "answer": "A",
+  "exp_hi": "गद्यांश कहता है कि धनवान-निर्धन, विद्वान-अनपढ़ सभी को दिन में चौबीस घंटे ही मिलते हैं — यही समानता समय को न्यायप्रिय बनाती है।",
+  "set": "comprehension",
+  "passage_hi": "समय संसार का सबसे न्यायप्रिय संसाधन है। धनवान हो या निर्धन, विद्वान हो या अनपढ़ — प्रत्येक व्यक्ति को दिन में चौबीस घंटे ही मिलते हैं। फिर भी कुछ लोग इन्हीं घंटों में महान कार्य कर जाते हैं, जबकि अन्य जीवन भर समय की कमी का रोना रोते रहते हैं। अंतर संसाधन में नहीं, उसके प्रबंधन में है। जो व्यक्ति अपने कार्यों को प्राथमिकता के क्रम में रखता है, वह जानता है कि कौन-सा कार्य महत्वपूर्ण है और कौन-सा केवल तात्कालिक। इसके विपरीत, जो हर आने वाले कार्य पर तुरंत प्रतिक्रिया देता है, वह दिन के अंत में थका तो होता है, किंतु सार्थक कुछ हासिल नहीं कर पाता। लेखक का मानना है कि समय-प्रबंधन कोई यांत्रिक कौशल नहीं, बल्कि आत्म-अनुशासन की आदत है। यह आदत छोटे-छोटे निर्णयों से बनती है — किसे हाँ कहना है और किसे विनम्रता से ना। अंततः, समय का सम्मान करने वाला व्यक्ति वास्तव में अपने जीवन का सम्मान करता है।",
+  "passage_en": "Time is the most impartial resource in the world. Rich or poor, learned or unlettered — every person receives only twenty-four hours in a day. Yet some people accomplish great works within these very hours, while others keep lamenting the lack of time all their lives. The difference lies not in the resource but in its management. A person who arranges his tasks in order of priority knows which work is important and which is merely urgent. In contrast, one who reacts instantly to every incoming task is tired by the end of the day, but achieves nothing worthwhile. The author believes that time management is not a mechanical skill but a habit of self-discipline. This habit is formed through small decisions — what to say yes to and what to decline politely. Ultimately, a person who respects time truly respects his own life."
+ },
+ {
+  "n": 12,
+  "unit": "Comprehension",
+  "q_hi": "लेखक के अनुसार, कुछ लोग महान कार्य कर पाते हैं और कुछ नहीं — इसका असली कारण क्या है?",
+  "q_en": "According to the author, what is the real reason some people accomplish great works and others do not?",
+  "options_hi": [
+   "वे कम सोते हैं",
+   "उनके पास अधिक धन होता है",
+   "समय के प्रबंधन का अंतर",
+   "उनका जन्म बड़े परिवारों में होता है"
+  ],
+  "options_en": [
+   "They sleep less",
+   "They have more money",
+   "The difference in managing time",
+   "They are born in big families"
+  ],
+  "answer": "C",
+  "exp_hi": "गद्यांश स्पष्ट करता है — अंतर संसाधन में नहीं, उसके प्रबंधन में है; प्राथमिकता तय करने वाला ही सीमित घंटों में सार्थक कार्य कर पाता है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 13,
+  "unit": "Comprehension",
+  "q_hi": "लेखक के अनुसार समय-प्रबंधन क्या है?",
+  "q_en": "According to the author, what is time management?",
+  "options_hi": [
+   "आत्म-अनुशासन की आदत",
+   "एक यांत्रिक कौशल",
+   "कार्यों को टालने की कला",
+   "घड़ी देखने की आदत"
+  ],
+  "options_en": [
+   "A habit of self-discipline",
+   "A mechanical skill",
+   "The art of postponing tasks",
+   "A habit of watching the clock"
+  ],
+  "answer": "A",
+  "exp_hi": "लेखक का मानना है कि समय-प्रबंधन कोई यांत्रिक कौशल नहीं है; यह आत्म-अनुशासन की आदत है जो छोटे-छोटे निर्णयों से बनती है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 14,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, हर आने वाले कार्य पर तुरंत प्रतिक्रिया देने वाले व्यक्ति की स्थिति दिन के अंत में कैसी होती है?",
+  "q_en": "According to the passage, what is the condition of a person who reacts instantly to every incoming task, at the end of the day?",
+  "options_hi": [
+   "उसके सभी कार्य पूर्ण हो जाते हैं",
+   "वह दूसरों से आगे निकल जाता है",
+   "वह थका होता है, किंतु सार्थक कुछ हासिल नहीं कर पाता",
+   "वह सबसे सफल होता है"
+  ],
+  "options_en": [
+   "All his tasks get completed",
+   "He moves ahead of others",
+   "He is tired, but achieves nothing worthwhile",
+   "He becomes the most successful"
+  ],
+  "answer": "C",
+  "exp_hi": "गद्यांश कहता है कि बिना प्राथमिकता के हर कार्य पर प्रतिक्रिया देने वाला दिन के अंत में थका तो होता है, किंतु सार्थक कुछ हासिल नहीं कर पाता।",
+  "set": "comprehension"
+ },
+ {
+  "n": 15,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश का केंद्रीय भाव क्या है?",
+  "q_en": "What is the central idea of the passage?",
+  "options_hi": [
+   "धन ही सफलता की एकमात्र कुंजी है",
+   "कार्यों को टालते रहना चाहिए",
+   "अधिक सोने से समय बचता है",
+   "समय सबको समान मिलता है, सफलता उसके अनुशासित प्रबंधन से मिलती है"
+  ],
+  "options_en": [
+   "Wealth alone is the key to success",
+   "Tasks should keep being postponed",
+   "Sleeping more saves time",
+   "Time is given equally to all; success comes from its disciplined management"
+  ],
+  "answer": "D",
+  "exp_hi": "पूरे गद्यांश का केंद्रीय भाव यही है कि समय सबको समान मिलता है और अंतर उसके प्रबंधन व आत्म-अनुशासन से पड़ता है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 16,
+  "unit": "Communication",
+  "q_hi": "संचार प्रक्रिया में 'विकूटन' (Decoding) का अर्थ है —",
+  "q_en": "In the communication process, 'decoding' means —",
+  "options_hi": [
+   "संदेश को संकेतों में बदलना",
+   "प्रतिपुष्टि देना",
+   "प्राप्त संकेतों का अर्थ निकालना",
+   "संदेश को माध्यम से भेजना"
+  ],
+  "options_en": [
+   "Converting a message into symbols",
+   "Giving feedback",
+   "Interpreting the meaning of the received symbols",
+   "Sending the message through a medium"
+  ],
+  "answer": "C",
+  "exp_hi": "प्रेषक संदेश को संकेतों में बदलता है (encoding); प्राप्तकर्ता उन संकेतों का अर्थ समझता है — यही प्रक्रिया decoding कहलाती है।"
+ },
+ {
+  "n": 17,
+  "unit": "Communication",
+  "q_hi": "किसी संस्था में 'ग्रेपवाइन' (Grapevine) संचार किसे कहते हैं?",
+  "q_en": "In an organisation, 'grapevine' communication refers to —",
+  "options_hi": [
+   "अनौपचारिक संचार का जाल, जिसमें बातें मुँह-दर-मुँह फैलती हैं",
+   "कंप्यूटर आधारित संचार",
+   "लिखित आदेशों का औपचारिक प्रवाह",
+   "केवल प्रबंधन द्वारा जारी परिपत्र"
+  ],
+  "options_en": [
+   "The informal network of communication in which messages spread by word of mouth",
+   "Computer-based communication",
+   "The formal flow of written orders",
+   "Circulars issued only by the management"
+  ],
+  "answer": "A",
+  "exp_hi": "Grapevine अनौपचारिक संचार है — यह आधिकारिक मार्गों से नहीं चलता, बल्कि लोगों के आपसी संपर्कों से तेज़ी से फैलता है, कभी-कभी अफवाह के रूप में भी।"
+ },
+ {
+  "n": 18,
+  "unit": "Communication",
+  "q_hi": "निम्नलिखित में से कौन-सी संचार की अर्थगत बाधा (Semantic barrier) है?",
+  "q_en": "Which of the following is a semantic barrier to communication?",
+  "options_hi": [
+   "बिजली का चले जाना",
+   "एक ही शब्द के भिन्न अर्थ समझे जाना",
+   "प्राप्तकर्ता का अनुपस्थित होना",
+   "शोरगुल वाला वातावरण"
+  ],
+  "options_en": [
+   "Failure of electricity",
+   "The same word being understood in different meanings",
+   "Absence of the receiver",
+   "A noisy environment"
+  ],
+  "answer": "B",
+  "exp_hi": "Semantic बाधा भाषा और अर्थ से जुड़ी होती है — जब प्रेषक और प्राप्तकर्ता एक ही शब्द या वाक्य का अलग अर्थ निकालते हैं, तो संदेश विकृत हो जाता है।"
+ },
+ {
+  "n": 19,
+  "unit": "Communication",
+  "q_hi": "अंतःवैयक्तिक संचार (Intrapersonal communication) का अर्थ है —",
+  "q_en": "Intrapersonal communication means —",
+  "options_hi": [
+   "व्यक्ति का स्वयं से संवाद — अपने मन में चिंतन और आत्म-वार्ता",
+   "जनसंचार माध्यमों से प्रसारण",
+   "दो व्यक्तियों के बीच संवाद",
+   "समूह में चर्चा"
+  ],
+  "options_en": [
+   "Communication within oneself — thinking and self-talk in one's own mind",
+   "Broadcast through mass media",
+   "Dialogue between two persons",
+   "Discussion in a group"
+  ],
+  "answer": "A",
+  "exp_hi": "Intrapersonal संचार व्यक्ति के भीतर होता है — आत्म-चिंतन, मनन और स्वयं से वार्ता; दो व्यक्तियों के बीच का संवाद interpersonal कहलाता है।"
+ },
+ {
+  "n": 20,
+  "unit": "Communication",
+  "q_hi": "निम्नलिखित में से कौन-सा जनसंचार (Mass communication) का माध्यम है?",
+  "q_en": "Which of the following is a medium of mass communication?",
+  "options_hi": [
+   "टेलीविजन",
+   "कक्षा में आमने-सामने चर्चा",
+   "टेलीफोन वार्ता",
+   "व्यक्तिगत पत्र"
+  ],
+  "options_en": [
+   "Television",
+   "Face-to-face discussion in a classroom",
+   "A telephone conversation",
+   "A personal letter"
+  ],
+  "answer": "A",
+  "exp_hi": "जनसंचार में संदेश एक साथ विशाल और फैले हुए जनसमूह तक पहुँचता है — टेलीविजन, रेडियो, समाचार-पत्र इसके प्रमुख माध्यम हैं; पत्र और टेलीफोन सीमित व्यक्तियों तक ही सीमित रहते हैं।"
+ },
+ {
+  "n": 21,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "शृंखला पूरी कीजिए : 7, 14, 28, 56, ?",
+  "q_en": "Complete the series: 7, 14, 28, 56, ?",
+  "options_hi": [
+   "120",
+   "96",
+   "84",
+   "112"
+  ],
+  "options_en": [
+   "120",
+   "96",
+   "84",
+   "112"
+  ],
+  "answer": "D",
+  "exp_hi": "प्रत्येक पद पिछले पद का दोगुना है : 7 x 2 = 14, 14 x 2 = 28, 28 x 2 = 56, अतः अगला पद 56 x 2 = 112।"
+ },
+ {
+  "n": 22,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "एक रेलगाड़ी 60 किमी/घंटा की गति से चल रही है। वह 45 मिनट में कितनी दूरी तय करेगी?",
+  "q_en": "A train runs at a speed of 60 km/h. How much distance will it cover in 45 minutes?",
+  "options_hi": [
+   "45 किमी",
+   "50 किमी",
+   "36 किमी",
+   "40 किमी"
+  ],
+  "options_en": [
+   "45 km",
+   "50 km",
+   "36 km",
+   "40 km"
+  ],
+  "answer": "A",
+  "exp_hi": "45 मिनट = 3/4 घंटा; दूरी = गति x समय = 60 x 3/4 = 45 किमी।"
+ },
+ {
+  "n": 23,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "एक वस्तु 800 रुपये में खरीदकर 920 रुपये में बेची गई। लाभ प्रतिशत कितना है?",
+  "q_en": "An article is bought for Rs. 800 and sold for Rs. 920. What is the profit percentage?",
+  "options_hi": [
+   "12%",
+   "15%",
+   "20%",
+   "10%"
+  ],
+  "options_en": [
+   "12%",
+   "15%",
+   "20%",
+   "10%"
+  ],
+  "answer": "B",
+  "exp_hi": "लाभ = 920 - 800 = 120 रुपये; लाभ प्रतिशत = (120 / 800) x 100 = 15%।"
+ },
+ {
+  "n": 24,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "राम की आयु श्याम की आयु की दोगुनी है। दोनों की आयु का योग 36 वर्ष है। श्याम की आयु कितनी है?",
+  "q_en": "Ram's age is twice Shyam's age. The sum of their ages is 36 years. What is Shyam's age?",
+  "options_hi": [
+   "24 वर्ष",
+   "12 वर्ष",
+   "18 वर्ष",
+   "10 वर्ष"
+  ],
+  "options_en": [
+   "24 years",
+   "12 years",
+   "18 years",
+   "10 years"
+  ],
+  "answer": "B",
+  "exp_hi": "माना श्याम की आयु = x, तो राम की आयु = 2x; x + 2x = 36, अर्थात 3x = 36, इसलिए x = 12 वर्ष।"
+ },
+ {
+  "n": 25,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "प्रथम पाँच सम संख्याओं (2, 4, 6, 8, 10) का औसत क्या है?",
+  "q_en": "What is the average of the first five even numbers (2, 4, 6, 8, 10)?",
+  "options_hi": [
+   "6",
+   "7",
+   "8",
+   "5"
+  ],
+  "options_en": [
+   "6",
+   "7",
+   "8",
+   "5"
+  ],
+  "answer": "A",
+  "exp_hi": "योग = 2 + 4 + 6 + 8 + 10 = 30; औसत = 30 / 5 = 6।"
+ },
+ {
+  "n": 26,
+  "unit": "Logical Reasoning",
+  "q_hi": "कथन : सभी बिल्लियाँ जानवर हैं। कुछ जानवर काले हैं। कौन-सा निष्कर्ष निश्चित रूप से निकलता है?",
+  "q_en": "Statements: All cats are animals. Some animals are black. Which conclusion definitely follows?",
+  "options_hi": [
+   "उपर्युक्त में से कोई निष्कर्ष निश्चित रूप से नहीं निकलता",
+   "कोई बिल्ली काली नहीं है",
+   "कुछ बिल्लियाँ काली हैं",
+   "सभी बिल्लियाँ काली हैं"
+  ],
+  "options_en": [
+   "None of the above conclusions definitely follows",
+   "No cat is black",
+   "Some cats are black",
+   "All cats are black"
+  ],
+  "answer": "A",
+  "exp_hi": "काले जानवरों में बिल्लियाँ हों भी सकती हैं और नहीं भी; दिए गए कथनों से बिल्लियों के रंग के बारे में कोई निश्चित निष्कर्ष नहीं निकलता।"
+ },
+ {
+  "n": 27,
+  "unit": "Logical Reasoning",
+  "q_hi": "शृंखला पूरी कीजिए : B, E, H, K, ?",
+  "q_en": "Complete the series: B, E, H, K, ?",
+  "options_hi": [
+   "N",
+   "L",
+   "M",
+   "O"
+  ],
+  "options_en": [
+   "N",
+   "L",
+   "M",
+   "O"
+  ],
+  "answer": "A",
+  "exp_hi": "प्रत्येक अक्षर वर्णमाला में 3 स्थान आगे है : B(2), E(5), H(8), K(11), अतः अगला अक्षर N(14)।"
+ },
+ {
+  "n": 28,
+  "unit": "Logical Reasoning",
+  "q_hi": "सादृश्य पूरा कीजिए : पुस्तक : पृष्ठ :: दीवार : ?",
+  "q_en": "Complete the analogy: Book : Pages :: Wall : ?",
+  "options_hi": [
+   "रंग",
+   "छत",
+   "ईंटें",
+   "मकान"
+  ],
+  "options_en": [
+   "Colour",
+   "Roof",
+   "Bricks",
+   "House"
+  ],
+  "answer": "C",
+  "exp_hi": "जैसे पुस्तक पृष्ठों से बनती है, वैसे ही दीवार ईंटों से बनती है — संबंध 'सम्पूर्ण और उसके घटक' का है।"
+ },
+ {
+  "n": 29,
+  "unit": "Logical Reasoning",
+  "q_hi": "'क्या विद्यालयों में मोबाइल फोन पर पूर्ण प्रतिबंध होना चाहिए?' — निम्नलिखित में से कौन-सा प्रबल तर्क है?",
+  "q_en": "'Should mobile phones be completely banned in schools?' — Which of the following is a strong argument?",
+  "options_hi": [
+   "हाँ, क्योंकि शिक्षकों को फोन पसंद नहीं है",
+   "नहीं, क्योंकि छात्र फैशन के लिए फोन चाहते हैं",
+   "नहीं, क्योंकि अन्य देशों में प्रतिबंध नहीं है",
+   "हाँ, क्योंकि फोन कक्षा में ध्यान भटकाते हैं और पढ़ाई में बाधा डालते हैं"
+  ],
+  "options_en": [
+   "Yes, because teachers do not like phones",
+   "No, because students want phones for fashion",
+   "No, because other countries have no ban",
+   "Yes, because phones distract attention in class and obstruct studies"
+  ],
+  "answer": "D",
+  "exp_hi": "प्रबल तर्क वही होता है जो विषय से प्रत्यक्ष, तर्कसंगत और महत्वपूर्ण हो; ध्यान भटकने से पढ़ाई बाधित होना ऐसा ही तर्क है, जबकि फैशन, दूसरों की नकल या पसंद-नापसंद दुर्बल तर्क हैं।"
+ },
+ {
+  "n": 30,
+  "unit": "Logical Reasoning",
+  "q_hi": "भारतीय तर्कशास्त्र में 'अनुमान' प्रमाण का अर्थ है —",
+  "q_en": "In Indian logic, the pramana 'Anumana' means —",
+  "options_hi": [
+   "शब्द सुनकर जानना",
+   "किसी चिह्न या हेतु के आधार पर न देखी हुई वस्तु का ज्ञान",
+   "प्रत्यक्ष देखकर जानना",
+   "उपमा द्वारा जानना"
+  ],
+  "options_en": [
+   "Knowing by hearing words",
+   "Knowledge of an unseen object on the basis of a sign or reason (hetu)",
+   "Knowing by direct perception",
+   "Knowing through comparison"
+  ],
+  "answer": "B",
+  "exp_hi": "अनुमान में हेतु (जैसे धुआँ) को देखकर साध्य (जैसे अग्नि) का ज्ञान होता है; देखकर जानना प्रत्यक्ष, शब्द से जानना शब्द और उपमा से जानना उपमान प्रमाण है।"
+ },
+ {
+  "n": 31,
+  "unit": "Data Interpretation",
+  "q_hi": "उपर्युक्त आँकड़ों के अनुसार, पाँचों वर्षों में बेची गई कुल इकाइयाँ कितनी हैं?",
+  "q_en": "According to the above data, what is the total number of units sold in all five years?",
+  "options_hi": [
+   "1600",
+   "1500",
+   "1550",
+   "1400"
+  ],
+  "options_en": [
+   "1600",
+   "1500",
+   "1550",
+   "1400"
+  ],
+  "answer": "B",
+  "exp_hi": "कुल = 200 + 300 + 250 + 400 + 350 = 1500 इकाइयाँ।",
+  "set": "data",
+  "data_hi": "किसी कंपनी द्वारा विभिन्न वर्षों में बेची गई इकाइयों की संख्या : 2019 - 200; 2020 - 300; 2021 - 250; 2022 - 400; 2023 - 350।",
+  "data_en": "Number of units sold by a company in different years: 2019 - 200; 2020 - 300; 2021 - 250; 2022 - 400; 2023 - 350."
+ },
+ {
+  "n": 32,
+  "unit": "Data Interpretation",
+  "q_hi": "2020 की तुलना में 2021 में बिक्री में कितने प्रतिशत कमी हुई?",
+  "q_en": "By what percentage did the sales decrease in 2021 as compared to 2020?",
+  "options_hi": [
+   "20%",
+   "25%",
+   "12.5%",
+   "16.67%"
+  ],
+  "options_en": [
+   "20%",
+   "25%",
+   "12.5%",
+   "16.67%"
+  ],
+  "answer": "D",
+  "exp_hi": "कमी = 300 - 250 = 50; प्रतिशत कमी = (50 / 300) x 100 = 16.67%।",
+  "set": "data"
+ },
+ {
+  "n": 33,
+  "unit": "Data Interpretation",
+  "q_hi": "2019 और 2022 की बिक्री का अनुपात क्या है?",
+  "q_en": "What is the ratio of sales in 2019 and 2022?",
+  "options_hi": [
+   "2 : 3",
+   "1 : 2",
+   "1 : 3",
+   "3 : 4"
+  ],
+  "options_en": [
+   "2 : 3",
+   "1 : 2",
+   "1 : 3",
+   "3 : 4"
+  ],
+  "answer": "B",
+  "exp_hi": "अनुपात = 200 : 400 = 1 : 2।",
+  "set": "data"
+ },
+ {
+  "n": 34,
+  "unit": "Data Interpretation",
+  "q_hi": "पाँचों वर्षों की औसत वार्षिक बिक्री कितनी है?",
+  "q_en": "What is the average annual sales over the five years?",
+  "options_hi": [
+   "320",
+   "350",
+   "280",
+   "300"
+  ],
+  "options_en": [
+   "320",
+   "350",
+   "280",
+   "300"
+  ],
+  "answer": "D",
+  "exp_hi": "औसत = कुल बिक्री / वर्षों की संख्या = 1500 / 5 = 300 इकाइयाँ।",
+  "set": "data"
+ },
+ {
+  "n": 35,
+  "unit": "Data Interpretation",
+  "q_hi": "किस वर्ष में पिछले वर्ष की तुलना में बिक्री में प्रतिशत वृद्धि सबसे अधिक हुई?",
+  "q_en": "In which year was the percentage increase in sales, as compared to the previous year, the highest?",
+  "options_hi": [
+   "2023",
+   "2020",
+   "2021",
+   "2022"
+  ],
+  "options_en": [
+   "2023",
+   "2020",
+   "2021",
+   "2022"
+  ],
+  "answer": "D",
+  "exp_hi": "प्रतिशत वृद्धि : 2020 में (100/200) = 50%, 2022 में (150/250) = 60%; 2021 और 2023 में बिक्री घटी। अतः सबसे अधिक वृद्धि 2022 में हुई।",
+  "set": "data"
+ },
+ {
+  "n": 36,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "HTTP का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of HTTP?",
+  "options_hi": [
+   "High Text Transfer Program",
+   "Host Text Transfer Protocol",
+   "Hyper Text Transmission Process",
+   "Hyper Text Transfer Protocol"
+  ],
+  "options_en": [
+   "High Text Transfer Program",
+   "Host Text Transfer Protocol",
+   "Hyper Text Transmission Process",
+   "Hyper Text Transfer Protocol"
+  ],
+  "answer": "D",
+  "exp_hi": "HTTP (Hyper Text Transfer Protocol) वह नियम-समूह है जिससे वर्ल्ड वाइड वेब पर सर्वर और ब्राउज़र के बीच वेब पेजों का आदान-प्रदान होता है।"
+ },
+ {
+  "n": 37,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "निम्नलिखित में से कौन-सा इनपुट डिवाइस है?",
+  "q_en": "Which of the following is an input device?",
+  "options_hi": [
+   "स्कैनर",
+   "मॉनीटर",
+   "प्रिंटर",
+   "स्पीकर"
+  ],
+  "options_en": [
+   "Scanner",
+   "Monitor",
+   "Printer",
+   "Speaker"
+  ],
+  "answer": "A",
+  "exp_hi": "स्कैनर दस्तावेज़ या चित्र को कंप्यूटर में डिजिटल रूप में डालता है, इसलिए यह इनपुट डिवाइस है; मॉनीटर, प्रिंटर और स्पीकर आउटपुट डिवाइस हैं।"
+ },
+ {
+  "n": 38,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "1 गीगाबाइट (GB) में कितने मेगाबाइट (MB) होते हैं?",
+  "q_en": "How many megabytes (MB) are there in 1 gigabyte (GB)?",
+  "options_hi": [
+   "100 MB",
+   "1024 MB",
+   "1000 MB",
+   "512 MB"
+  ],
+  "options_en": [
+   "100 MB",
+   "1024 MB",
+   "1000 MB",
+   "512 MB"
+  ],
+  "answer": "B",
+  "exp_hi": "कंप्यूटर मेमोरी द्विआधारी (binary) प्रणाली में मापी जाती है : 1 KB = 1024 Bytes, 1 MB = 1024 KB और 1 GB = 1024 MB।"
+ },
+ {
+  "n": 39,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "'फिशिंग' (Phishing) का अर्थ है —",
+  "q_en": "'Phishing' means —",
+  "options_hi": [
+   "धोखाधड़ी वाले ई-मेल या वेबसाइट से पासवर्ड जैसी गोपनीय जानकारी चुराने का प्रयास",
+   "फाइलों को संपीड़ित करना",
+   "वायरस हटाने की प्रक्रिया",
+   "इंटरनेट पर मछली पकड़ने का खेल"
+  ],
+  "options_en": [
+   "An attempt to steal confidential information like passwords through fraudulent e-mails or websites",
+   "Compressing files",
+   "The process of removing viruses",
+   "A fishing game on the internet"
+  ],
+  "answer": "A",
+  "exp_hi": "Phishing एक साइबर धोखाधड़ी है, जिसमें असली संस्था जैसी दिखने वाली नकली ई-मेल या वेबसाइट से उपयोगकर्ता की गोपनीय जानकारी हड़पने का प्रयास किया जाता है।"
+ },
+ {
+  "n": 40,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "निम्नलिखित में से कौन-सा एक ऑपरेटिंग सिस्टम है?",
+  "q_en": "Which of the following is an operating system?",
+  "options_hi": [
+   "Google Chrome",
+   "MS Word",
+   "MS Excel",
+   "Windows"
+  ],
+  "options_en": [
+   "Google Chrome",
+   "MS Word",
+   "MS Excel",
+   "Windows"
+  ],
+  "answer": "D",
+  "exp_hi": "Windows एक ऑपरेटिंग सिस्टम है जो कंप्यूटर के हार्डवेयर और अन्य सॉफ्टवेयर का प्रबंधन करता है; MS Word, MS Excel अनुप्रयोग सॉफ्टवेयर और Chrome एक वेब ब्राउज़र है।"
+ },
+ {
+  "n": 41,
+  "unit": "People, Development and Environment",
+  "q_hi": "चिपको आंदोलन मुख्य रूप से किससे संबंधित था?",
+  "q_en": "The Chipko Movement was mainly related to —",
+  "options_hi": [
+   "शहरी प्रदूषण से",
+   "नदियों पर बाँध बनाने से",
+   "पेड़ों की कटाई रोकने और वनों के संरक्षण से",
+   "भूमि सुधार से"
+  ],
+  "options_en": [
+   "Urban pollution",
+   "Building dams on rivers",
+   "Preventing the felling of trees and conserving forests",
+   "Land reforms"
+  ],
+  "answer": "C",
+  "exp_hi": "1973 में उत्तराखंड (तत्कालीन उत्तर प्रदेश) से शुरू चिपको आंदोलन में ग्रामीण, विशेषकर महिलाएँ, पेड़ों से लिपटकर उनकी कटाई रोकती थीं; सुंदरलाल बहुगुणा इसके प्रमुख नेता थे।"
+ },
+ {
+  "n": 42,
+  "unit": "People, Development and Environment",
+  "q_hi": "निम्नलिखित में से कौन-सी गैस ग्रीनहाउस गैस नहीं है?",
+  "q_en": "Which of the following is NOT a greenhouse gas?",
+  "options_hi": [
+   "मीथेन",
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रस ऑक्साइड"
+  ],
+  "options_en": [
+   "Methane",
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrous oxide"
+  ],
+  "answer": "B",
+  "exp_hi": "कार्बन डाइऑक्साइड, मीथेन और नाइट्रस ऑक्साइड ऊष्मा को रोककर पृथ्वी को गर्म करती हैं, इसलिए ग्रीनहाउस गैसें हैं; ऑक्सीजन इस श्रेणी में नहीं आती।"
+ },
+ {
+  "n": 43,
+  "unit": "People, Development and Environment",
+  "q_hi": "रामसर सम्मेलन (Ramsar Convention) किसके संरक्षण से संबंधित है?",
+  "q_en": "The Ramsar Convention is related to the conservation of —",
+  "options_hi": [
+   "रेगिस्तानों",
+   "महासागरों",
+   "आर्द्रभूमियों (Wetlands)",
+   "पर्वतों"
+  ],
+  "options_en": [
+   "Deserts",
+   "Oceans",
+   "Wetlands",
+   "Mountains"
+  ],
+  "answer": "C",
+  "exp_hi": "1971 में ईरान के रामसर शहर में हुआ यह अंतरराष्ट्रीय समझौता आर्द्रभूमियों के संरक्षण के लिए है; सूचीबद्ध भारतीय स्थल 'रामसर स्थल' कहलाते हैं।"
+ },
+ {
+  "n": 44,
+  "unit": "People, Development and Environment",
+  "q_hi": "विश्व पर्यावरण दिवस कब मनाया जाता है?",
+  "q_en": "When is World Environment Day observed?",
+  "options_hi": [
+   "2 अक्टूबर",
+   "16 सितंबर",
+   "5 जून",
+   "22 अप्रैल"
+  ],
+  "options_en": [
+   "2 October",
+   "16 September",
+   "5 June",
+   "22 April"
+  ],
+  "answer": "C",
+  "exp_hi": "संयुक्त राष्ट्र द्वारा विश्व पर्यावरण दिवस प्रतिवर्ष 5 जून को मनाया जाता है; 22 अप्रैल को पृथ्वी दिवस मनाया जाता है।"
+ },
+ {
+  "n": 45,
+  "unit": "People, Development and Environment",
+  "q_hi": "क्योटो प्रोटोकॉल का मुख्य उद्देश्य क्या था?",
+  "q_en": "What was the main objective of the Kyoto Protocol?",
+  "options_hi": [
+   "ओजोन परत की रक्षा करना",
+   "परमाणु हथियारों पर रोक लगाना",
+   "अंतरराष्ट्रीय व्यापार बढ़ाना",
+   "ग्रीनहाउस गैसों के उत्सर्जन में कमी लाना"
+  ],
+  "options_en": [
+   "To protect the ozone layer",
+   "To ban nuclear weapons",
+   "To increase international trade",
+   "To reduce the emission of greenhouse gases"
+  ],
+  "answer": "D",
+  "exp_hi": "1997 में अपनाया गया क्योटो प्रोटोकॉल विकसित देशों के लिए ग्रीनहाउस गैसों के उत्सर्जन में कमी के बाध्यकारी लक्ष्य तय करता था; ओजोन परत की रक्षा मॉन्ट्रियल प्रोटोकॉल का विषय है।"
+ },
+ {
+  "n": 46,
+  "unit": "Higher Education System",
+  "q_hi": "स्वतंत्र भारत का पहला शिक्षा आयोग (1948) किसकी अध्यक्षता में गठित हुआ था?",
+  "q_en": "The first Education Commission of independent India (1948) was chaired by —",
+  "options_hi": [
+   "मौलाना अबुल कलाम आज़ाद",
+   "डॉ. एस. राधाकृष्णन",
+   "डॉ. जाकिर हुसैन",
+   "डॉ. डी. एस. कोठारी"
+  ],
+  "options_en": [
+   "Maulana Abul Kalam Azad",
+   "Dr. S. Radhakrishnan",
+   "Dr. Zakir Husain",
+   "Dr. D. S. Kothari"
+  ],
+  "answer": "B",
+  "exp_hi": "1948 में गठित विश्वविद्यालय शिक्षा आयोग के अध्यक्ष डॉ. एस. राधाकृष्णन थे; कोठारी आयोग बाद में 1964 में गठित हुआ।"
+ },
+ {
+  "n": 47,
+  "unit": "Higher Education System",
+  "q_hi": "IGNOU (इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय) की स्थापना किस वर्ष हुई?",
+  "q_en": "In which year was IGNOU (Indira Gandhi National Open University) established?",
+  "options_hi": [
+   "1995",
+   "1985",
+   "1975",
+   "1990"
+  ],
+  "options_en": [
+   "1995",
+   "1985",
+   "1975",
+   "1990"
+  ],
+  "answer": "B",
+  "exp_hi": "IGNOU की स्थापना 1985 में संसद के अधिनियम द्वारा हुई; यह दूरस्थ और मुक्त शिक्षा का विश्व का सबसे बड़ा विश्वविद्यालय है।"
+ },
+ {
+  "n": 48,
+  "unit": "Higher Education System",
+  "q_hi": "राष्ट्रीय शिक्षा नीति 2020 के अंतर्गत 'एकेडमिक बैंक ऑफ क्रेडिट्स' (ABC) क्या है?",
+  "q_en": "Under the National Education Policy 2020, what is the 'Academic Bank of Credits' (ABC)?",
+  "options_hi": [
+   "छात्रों के अर्जित शैक्षणिक क्रेडिट को डिजिटल रूप से संग्रहीत करने की व्यवस्था",
+   "छात्रों को ऋण देने वाला बैंक",
+   "पुस्तकों की खरीद की योजना",
+   "शिक्षकों के वेतन की प्रणाली"
+  ],
+  "options_en": [
+   "A system to digitally store the academic credits earned by students",
+   "A bank that gives loans to students",
+   "A scheme for purchasing books",
+   "A system of teachers' salaries"
+  ],
+  "answer": "A",
+  "exp_hi": "ABC में छात्र के क्रेडिट डिजिटल रूप से जमा रहते हैं, जिससे वह एक संस्था से दूसरी संस्था में क्रेडिट स्थानांतरित करके बहु-प्रवेश और बहु-निर्गम (multiple entry-exit) का लाभ ले सकता है।"
+ },
+ {
+  "n": 49,
+  "unit": "Higher Education System",
+  "q_hi": "NIRF का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of NIRF?",
+  "options_hi": [
+   "National Information and Records Forum",
+   "National Institute of Ranking Framework",
+   "National Institutional Ranking Framework",
+   "National Indian Research Foundation"
+  ],
+  "options_en": [
+   "National Information and Records Forum",
+   "National Institute of Ranking Framework",
+   "National Institutional Ranking Framework",
+   "National Indian Research Foundation"
+  ],
+  "answer": "C",
+  "exp_hi": "NIRF (National Institutional Ranking Framework) शिक्षा मंत्रालय की रूपरेखा है, जिसके अंतर्गत देश के उच्च शिक्षा संस्थानों की वार्षिक रैंकिंग जारी की जाती है।"
+ },
+ {
+  "n": 50,
+  "unit": "Higher Education System",
+  "q_hi": "1857 में स्थापित भारत के प्रथम आधुनिक विश्वविद्यालयों में कौन-सा शामिल है?",
+  "q_en": "Which of the following is among the first modern universities of India established in 1857?",
+  "options_hi": [
+   "बनारस हिंदू विश्वविद्यालय",
+   "दिल्ली विश्वविद्यालय",
+   "कलकत्ता विश्वविद्यालय",
+   "जवाहरलाल नेहरू विश्वविद्यालय"
+  ],
+  "options_en": [
+   "Banaras Hindu University",
+   "University of Delhi",
+   "University of Calcutta",
+   "Jawaharlal Nehru University"
+  ],
+  "answer": "C",
+  "exp_hi": "1857 में कलकत्ता, बंबई और मद्रास विश्वविद्यालय स्थापित हुए — ये भारत के प्रथम आधुनिक विश्वविद्यालय थे; BHU 1916, दिल्ली विश्वविद्यालय 1922 और JNU 1969 में स्थापित हुए।"
+ }
+]
