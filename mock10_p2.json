@@ -1,0 +1,1102 @@
+[
+ {
+  "answer": 2,
+  "exp_hi": "औपचारिक संक्रियात्मक अवस्था (11–12 वर्ष से) में किशोर परिकल्पनाएँ बनाकर निगमनात्मक तर्क से अमूर्त समस्याएँ सुलझा सकता है — यह इस अवस्था की प्रमुख उपलब्धि है।",
+  "mock_q": 1,
+  "n": 536,
+  "options": [
+   "वस्तु स्थायित्व की समझ",
+   "संरक्षण की समझ",
+   "परिकल्पनात्मक व अमूर्त चिंतन की क्षमता",
+   "अहंकेंद्रितता का अंत होना"
+  ],
+  "options_en": [
+   "Understanding of object permanence",
+   "Understanding of conservation",
+   "Ability of hypothetical and abstract thinking",
+   "End of egocentrism"
+  ],
+  "q_en": "According to Piaget, what is the main achievement of the formal operational stage?",
+  "q_hi": "पियाजे के अनुसार औपचारिक संक्रियात्मक अवस्था की प्रमुख उपलब्धि क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "स्कैफोल्डिंग में शिक्षक या सक्षम साथी बच्चे के स्तर के अनुसार अस्थायी सहायता देता है और दक्षता बढ़ने पर सहायता धीरे-धीरे घटाता जाता है।",
+  "mock_q": 2,
+  "n": 537,
+  "options": [
+   "शिक्षक द्वारा दी जाने वाली अस्थायी सहायता, जो बच्चे की दक्षता बढ़ने पर घटाई जाती है",
+   "कक्षा की इमारत का ढांचा",
+   "स्थायी रूप से दिया जाने वाला गृहकार्य",
+   "परीक्षा की उत्तर-पुस्तिका"
+  ],
+  "options_en": [
+   "Temporary support given by the teacher, which is withdrawn as the child's competence increases",
+   "The structure of the school building",
+   "Homework given permanently",
+   "The examination answer sheet"
+  ],
+  "q_en": "In Vygotsky's theory, what does 'Scaffolding' mean?",
+  "q_hi": "वाइगोत्स्की के सिद्धांत में 'स्कैफोल्डिंग' (मचान सहायता) का क्या अर्थ है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "बंडुरा के अनुसार बच्चा माता-पिता, शिक्षक व साथियों के व्यवहार को देखकर (अवलोकन) और उसकी नकल करके सीखता है — यही प्रतिरूपण (modelling) है।",
+  "mock_q": 3,
+  "n": 538,
+  "options": [
+   "केवल अपने अनुभव से",
+   "केवल दंड से",
+   "केवल पुरस्कार से",
+   "दूसरों के व्यवहार का अवलोकन व अनुकरण करके"
+  ],
+  "options_en": [
+   "Only from their own experience",
+   "Only from punishment",
+   "Only from reward",
+   "By observing and imitating the behaviour of others"
+  ],
+  "q_en": "According to Bandura's social learning theory, how do children learn most behaviours?",
+  "q_hi": "बंडुरा के सामाजिक अधिगम सिद्धांत के अनुसार बच्चे अधिकतर व्यवहार कैसे सीखते हैं?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "डिस्कैलकुलिया में संख्या-बोध, गणना और गणितीय तर्क में कठिनाई होती है; पढ़ने की समस्या डिस्लेक्सिया और लिखने की डिस्ग्राफिया कहलाती है।",
+  "mock_q": 4,
+  "n": 539,
+  "options": [
+   "डिस्लेक्सिया",
+   "डिस्कैलकुलिया",
+   "डिस्ग्राफिया",
+   "अफेज़िया"
+  ],
+  "options_en": [
+   "Dyslexia",
+   "Dyscalculia",
+   "Dysgraphia",
+   "Aphasia"
+  ],
+  "q_en": "A child finds it very difficult to understand numbers and perform calculations. This is a sign of which disability?",
+  "q_hi": "एक बच्चे को संख्याएँ समझने और गणना करने में अत्यंत कठिनाई होती है। यह किस अक्षमता का लक्षण है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "प्रतिभाशाली बच्चे के लिए संवर्धन (enrichment) — गहन व विस्तृत अधिगम अवसर — उपयुक्त है; केवल ऊँची कक्षा में भेजना या अतिरिक्त एक जैसा अभ्यास पर्याप्त नहीं।",
+  "mock_q": 5,
+  "n": 540,
+  "options": [
+   "उसे केवल अधिक गृहकार्य देना",
+   "उसे बार-बार एक ही अभ्यास कराना",
+   "उसके लिए समृद्ध व चुनौतीपूर्ण अधिगम अवसर (संवर्धन) उपलब्ध कराना",
+   "उसकी ओर ध्यान न देना"
+  ],
+  "options_en": [
+   "Giving him only more homework",
+   "Making him repeat the same practice again and again",
+   "Providing enriched and challenging learning opportunities (enrichment) for him",
+   "Ignoring him"
+  ],
+  "q_en": "What is the most appropriate provision for a gifted child in the classroom?",
+  "q_hi": "कक्षा में प्रतिभाशाली बच्चे के लिए सबसे उपयुक्त प्रावधान क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "विचलनात्मक (divergent) चिंतन में एक समस्या के अनेक संभव उत्तर खोजे जाते हैं; सृजनात्मकता का मूल यही बहु-दिशा चिंतन है।",
+  "mock_q": 6,
+  "n": 541,
+  "options": [
+   "अभिसारी चिंतन",
+   "विचलनात्मक (अपसारी) चिंतन",
+   "रटंत चिंतन",
+   "अनुकरणात्मक चिंतन"
+  ],
+  "options_en": [
+   "Convergent thinking",
+   "Divergent thinking",
+   "Rote thinking",
+   "Imitative thinking"
+  ],
+  "q_en": "Thinking of many possible answers to a single problem is related to which type of thinking?",
+  "q_hi": "एक ही समस्या के अनेक संभावित उत्तर सोचना किस प्रकार के चिंतन से संबंधित है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "रचनात्मक (formative) मूल्यांकन शिक्षण के दौरान चलता है और प्रतिपुष्टि द्वारा सीखने को सुधारता है; योगात्मक मूल्यांकन अवधि के अंत में होता है।",
+  "mock_q": 7,
+  "n": 542,
+  "options": [
+   "केवल वर्ष के अंत में होने वाली परीक्षा",
+   "केवल ग्रेड देने की प्रक्रिया",
+   "केवल प्रवेश के समय की जाँच",
+   "शिक्षण-अधिगम के दौरान निरंतर होने वाला मूल्यांकन जो प्रतिपुष्टि दे"
+  ],
+  "options_en": [
+   "Examination held only at the end of the year",
+   "Process of giving grades only",
+   "Test taken only at the time of admission",
+   "Continuous assessment during teaching-learning which gives feedback"
+  ],
+  "q_en": "What is Formative Assessment?",
+  "q_hi": "रचनात्मक मूल्यांकन (Formative Assessment) क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "मास्लो के अनुसार जब तक भोजन, सुरक्षा जैसी मूलभूत आवश्यकताएँ पूरी न हों, बच्चा सीखने और आत्म-साक्षात्कार जैसी उच्च आवश्यकताओं की ओर नहीं बढ़ पाता।",
+  "mock_q": 8,
+  "n": 543,
+  "options": [
+   "पहले आत्म-साक्षात्कार की आवश्यकता पूरी होती है",
+   "आवश्यकताओं का कोई क्रम नहीं होता",
+   "निम्न-स्तरीय (मूलभूत) आवश्यकताएँ पहले, फिर उच्च-स्तरीय आवश्यकताएँ",
+   "केवल सामाजिक आवश्यकताएँ महत्त्वपूर्ण हैं"
+  ],
+  "options_en": [
+   "The need for self-actualization is fulfilled first",
+   "There is no order of needs",
+   "Lower-level (basic) needs first, then higher-level needs",
+   "Only social needs are important"
+  ],
+  "q_en": "According to Maslow's hierarchy of needs, which statement is correct?",
+  "q_hi": "मास्लो की आवश्यकता-पदानुक्रम के अनुसार कौन-सा कथन सही है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "एबिंगहॉस के विस्मृति वक्र के अनुसार सीखने के तुरंत बाद विस्मृति सबसे तेज़ होती है; समय के साथ इसकी दर घटती जाती है — इसलिए समय-समय पर पुनरावृत्ति आवश्यक है।",
+  "mock_q": 9,
+  "n": 544,
+  "options": [
+   "समय के साथ विस्मृति की दर बढ़ती जाती है",
+   "सीखने के तुरंत बाद विस्मृति सबसे तेज़ होती है, फिर दर घटती है",
+   "विस्मृति हमेशा एक समान रहती है",
+   "विस्मृति कभी नहीं होती"
+  ],
+  "options_en": [
+   "The rate of forgetting increases with time",
+   "Forgetting is fastest immediately after learning, then the rate decreases",
+   "Forgetting always remains uniform",
+   "Forgetting never takes place"
+  ],
+  "q_en": "According to Ebbinghaus's 'Curve of Forgetting', which statement is correct?",
+  "q_hi": "एबिंगहॉस के 'विस्मृति वक्र' के अनुसार कौन-सा कथन सही है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "थॉर्नडाइक के 'समान तत्वों के सिद्धांत' के अनुसार स्थानांतरण उतना अधिक होता है जितने अधिक समान तत्व दोनों परिस्थितियों में होते हैं।",
+  "mock_q": 10,
+  "n": 545,
+  "options": [
+   "थॉर्नडाइक का समान तत्वों का सिद्धांत",
+   "पावलोव का अनुकूलन सिद्धांत",
+   "स्किनर का क्रिया-प्रसूत सिद्धांत",
+   "बंडुरा का अवलोकनात्मक सिद्धांत"
+  ],
+  "options_en": [
+   "Thorndike's theory of identical elements",
+   "Pavlov's conditioning theory",
+   "Skinner's operant theory",
+   "Bandura's observational theory"
+  ],
+  "q_en": "'Transfer of learning takes place in proportion to the identical elements present in two situations.' This statement is related to which theory?",
+  "q_hi": "'दो परिस्थितियों में समान तत्व जितने अधिक होंगे, अधिगम का स्थानांतरण उतना ही अधिक होगा।' यह कथन किस सिद्धांत से संबंधित है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "ब्लूम के वर्गीकरण में 'अनुप्रयोग' (Application) स्तर पर छात्र सीखे हुए नियम या अवधारणा का प्रयोग नई परिस्थिति में करता है।",
+  "mock_q": 11,
+  "n": 546,
+  "options": [
+   "ज्ञान (Knowledge)",
+   "बोध (Understanding)",
+   "अनुप्रयोग (Application)",
+   "मूल्यांकन (Evaluation)"
+  ],
+  "options_en": [
+   "Knowledge",
+   "Understanding",
+   "Application",
+   "Evaluation"
+  ],
+  "q_en": "In Bloom's taxonomy, using a learnt rule to solve a problem in a new situation comes under which level?",
+  "q_hi": "ब्लूम के वर्गीकरण में सीखे हुए नियम का प्रयोग नई परिस्थिति में समस्या सुलझाने के लिए करना किस स्तर में आता है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "IEP प्रत्येक विशेष आवश्यकता वाले बच्चे की शक्तियों, आवश्यकताओं और लक्ष्यों के अनुसार बनाई गई व्यक्तिगत योजना है, जिसे शिक्षक-अभिभावक मिलकर बनाते हैं।",
+  "mock_q": 12,
+  "n": 547,
+  "options": [
+   "पूरी कक्षा की वार्षिक योजना",
+   "विद्यालय की समय-सारणी",
+   "परीक्षा की योजना",
+   "प्रत्येक विशेष बच्चे की आवश्यकता अनुसार बनाई गई व्यक्तिगत शिक्षा योजना"
+  ],
+  "options_en": [
+   "Annual plan of the whole class",
+   "Time-table of the school",
+   "Plan of the examination",
+   "Individualized education plan made according to the needs of each special child"
+  ],
+  "q_en": "What is an IEP (Individualized Education Plan)?",
+  "q_hi": "IEP (व्यक्तिगत शिक्षा योजना) क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "RPwD अधिनियम 2016 ने दिव्यांगताओं की श्रेणियाँ 7 से बढ़ाकर 21 कर दीं और दिव्यांगजन के अधिकार व समावेशी शिक्षा का प्रावधान किया।",
+  "mock_q": 13,
+  "n": 548,
+  "options": [
+   "7 श्रेणियाँ",
+   "21 श्रेणियाँ",
+   "10 श्रेणियाँ",
+   "15 श्रेणियाँ"
+  ],
+  "options_en": [
+   "7 categories",
+   "21 categories",
+   "10 categories",
+   "15 categories"
+  ],
+  "q_en": "Under the RPwD Act 2016, the categories of disabilities were increased to how many?",
+  "q_hi": "दिव्यांगजन अधिकार अधिनियम (RPwD) 2016 के अंतर्गत दिव्यांगता की श्रेणियाँ बढ़ाकर कितनी कर दी गईं?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "रूढ़िबद्ध धारणाएँ बच्चों के विषय-चयन और आत्म-छवि को सीमित करती हैं; शिक्षक को दोनों लिंगों को सभी भूमिकाओं के समान अवसर देने चाहिए।",
+  "mock_q": 14,
+  "n": 549,
+  "options": [
+   "लड़कियों को केवल गृह-विज्ञान पढ़ाना",
+   "लड़कों को गणित में ही आगे बढ़ाना",
+   "दोनों लिंगों को सभी गतिविधियों में समान अवसर देना",
+   "लिंग के आधार पर अलग-अलग बैठाना"
+  ],
+  "options_en": [
+   "Teaching only Home Science to girls",
+   "Promoting boys only in mathematics",
+   "Giving equal opportunities to both genders in all activities",
+   "Seating children separately on the basis of gender"
+  ],
+  "q_en": "Which measure should a teacher adopt to reduce gender stereotyping in the classroom?",
+  "q_hi": "कक्षा में लैंगिक रूढ़िबद्धता (gender stereotyping) घटाने के लिए शिक्षक को कौन-सा उपाय अपनाना चाहिए?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "किशोरावस्था में समवयस्क समूह (peer group) का प्रभाव सबसे अधिक होता है — किशोर अपने साथियों की स्वीकृति को अत्यंत महत्त्व देता है।",
+  "mock_q": 15,
+  "n": 550,
+  "options": [
+   "समवयस्क समूह (साथी समूह)",
+   "शिक्षक",
+   "पाठ्यपुस्तक",
+   "मीडिया"
+  ],
+  "options_en": [
+   "Peer group",
+   "Teacher",
+   "Textbook",
+   "Media"
+  ],
+  "q_en": "In adolescence, the influence of which group is the strongest in socialization?",
+  "q_hi": "किशोरावस्था में समाजीकरण पर सबसे अधिक प्रभाव किस समूह का होता है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "रचनावादी कक्षा में शिक्षक प्रश्न पूछने, चर्चा और खोज का वातावरण बनाता है; बच्चे सक्रिय भागीदार होते हैं, केवल श्रोता नहीं।",
+  "mock_q": 16,
+  "n": 551,
+  "options": [
+   "शिक्षक लगातार व्याख्यान दे और बच्चे सुनें",
+   "बच्चे समूह में खोज व चर्चा करके निष्कर्ष निकालें",
+   "केवल पाठ्यपुस्तक पढ़ाई जाए",
+   "बच्चे केवल नकल करके लिखें"
+  ],
+  "options_en": [
+   "The teacher lectures continuously and children listen",
+   "Children reach conclusions through group inquiry and discussion",
+   "Only the textbook is read",
+   "Children only copy and write"
+  ],
+  "q_en": "Which feature is found in a constructivist classroom?",
+  "q_hi": "रचनावादी (constructivist) कक्षा की कौन-सी विशेषता पाई जाती है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "यश पाल समिति (1992) की रिपोर्ट 'बोझ के बिना सीखना' ने पाठ्यक्रम के बोझ और रटंत पद्धति की आलोचना की; NCF 2005 इसी दिशा में बना।",
+  "mock_q": 17,
+  "n": 552,
+  "options": [
+   "कोठारी आयोग",
+   "मुदालियर आयोग",
+   "हंटर आयोग",
+   "यश पाल समिति"
+  ],
+  "options_en": [
+   "Kothari Commission",
+   "Mudaliar Commission",
+   "Hunter Commission",
+   "Yash Pal Committee"
+  ],
+  "q_en": "The report 'Learning Without Burden' is associated with which committee?",
+  "q_hi": "'बोझ के बिना सीखना' (Learning Without Burden) रिपोर्ट किस समिति से संबंधित है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "सहयोगात्मक अधिगम में बच्चे छोटे समूहों में मिलकर कार्य करते हैं — इससे परस्पर सहायता, संवाद और सामाजिक कौशल का विकास होता है।",
+  "mock_q": 18,
+  "n": 553,
+  "options": [
+   "बच्चों में प्रतिस्पर्धा बढ़ती है",
+   "शिक्षक का कार्य पूरी तरह समाप्त हो जाता है",
+   "बच्चे एक-दूसरे से सीखते हैं और सामाजिक कौशल विकसित होते हैं",
+   "केवल तेज़ बच्चे ही लाभान्वित होते हैं"
+  ],
+  "options_en": [
+   "Competition increases among children",
+   "The teacher's work ends completely",
+   "Children learn from each other and social skills develop",
+   "Only fast learners are benefited"
+  ],
+  "q_en": "What is the main benefit of 'Cooperative Learning' in the classroom?",
+  "q_hi": "कक्षा में 'सहयोगात्मक अधिगम' (Cooperative Learning) का मुख्य लाभ क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "धीमे अधिगमकर्ता को दोष देने के बजाय छोटे चरणों में कार्य, बार-बार सकारात्मक प्रतिपुष्टि और उपचारात्मक शिक्षण देना चाहिए।",
+  "mock_q": 19,
+  "n": 554,
+  "options": [
+   "उसे पूरी कक्षा के सामने डाँटना",
+   "कार्य को छोटे चरणों में बाँटकर सकारात्मक प्रतिपुष्टि के साथ उपचारात्मक शिक्षण देना",
+   "उसे नज़रअंदाज़ करना",
+   "उसे सबसे कठिन प्रश्न देना"
+  ],
+  "options_en": [
+   "Scolding him in front of the whole class",
+   "Giving remedial teaching by dividing the task into small steps with positive feedback",
+   "Ignoring him",
+   "Giving him the most difficult questions"
+  ],
+  "q_en": "What is the most suitable strategy for teaching a slow learner?",
+  "q_hi": "धीमे अधिगमकर्ता (slow learner) के शिक्षण की सबसे उपयुक्त रणनीति क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "अन्वेषी (probing) प्रश्न बच्चे को अपने उत्तर का कारण बताने और गहराई से सोचने के लिए प्रेरित करते हैं, केवल स्मरण नहीं कराते।",
+  "mock_q": 20,
+  "n": 555,
+  "options": [
+   "बच्चे के उत्तर के पीछे का कारण खोजने के लिए पूछे गए प्रश्न",
+   "केवल 'हाँ/नहीं' में उत्तर वाले प्रश्न",
+   "पाठ्यपुस्तक से सीधे उठाए गए प्रश्न",
+   "केवल तेज़ बच्चों से पूछे गए प्रश्न"
+  ],
+  "options_en": [
+   "Questions asked to find the reason behind the child's answer",
+   "Questions with only 'yes/no' answers",
+   "Questions taken directly from the textbook",
+   "Questions asked only to fast learners"
+  ],
+  "q_en": "What are 'Probing Questions' in classroom teaching?",
+  "q_hi": "कक्षा शिक्षण में 'अन्वेषी प्रश्न' (Probing Questions) क्या होते हैं?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "स्टर्नबर्ग के त्रितंत्री सिद्धांत में विश्लेषणात्मक, सृजनात्मक और व्यावहारिक — तीन प्रकार की बुद्धि मानी गई है।",
+  "mock_q": 21,
+  "n": 556,
+  "options": [
+   "दो प्रकार — भाषिक व तार्किक",
+   "नौ प्रकार की बुद्धि",
+   "तीन प्रकार — विश्लेषणात्मक, सृजनात्मक व व्यावहारिक",
+   "केवल एक सामान्य बुद्धि"
+  ],
+  "options_en": [
+   "Two types — linguistic and logical",
+   "Nine types of intelligence",
+   "Three types — analytical, creative and practical",
+   "Only one general intelligence"
+  ],
+  "q_en": "In Sternberg's Triarchic Theory of intelligence, intelligence is of how many types?",
+  "q_hi": "स्टर्नबर्ग के बुद्धि के त्रितंत्री (Triarchic) सिद्धांत में बुद्धि के कितने प्रकार माने गए हैं?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "गार्डनर के अनुसार शारीरिक-गतिबोधक बुद्धि वाले बच्चे खेल, नृत्य, अभिनय व हस्त-कौशल में निपुण होते हैं — जैसे खिलाड़ी व नर्तक।",
+  "mock_q": 22,
+  "n": 557,
+  "options": [
+   "भाषिक बुद्धि",
+   "संगीतात्मक बुद्धि",
+   "स्थानिक बुद्धि",
+   "शारीरिक-गतिबोधक बुद्धि"
+  ],
+  "options_en": [
+   "Linguistic intelligence",
+   "Musical intelligence",
+   "Spatial intelligence",
+   "Bodily-kinesthetic intelligence"
+  ],
+  "q_en": "A child who learns quickly through sports, dance and physical activities has which intelligence dominant, according to Gardner?",
+  "q_hi": "गार्डनर के अनुसार खेल, नृत्य और शारीरिक गतिविधियों से जल्दी सीखने वाले बच्चे में कौन-सी बुद्धि प्रबल होती है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "उपलब्धि अभिप्रेरणा में व्यक्ति सफलता पाने के लिए मध्यम कठिनाई वाले कार्य चुनता है और अपनी योग्यता सिद्ध करना चाहता है।",
+  "mock_q": 23,
+  "n": 558,
+  "options": [
+   "वह हमेशा सबसे आसान कार्य चुनता है",
+   "वह चुनौतीपूर्ण परंतु संभव लक्ष्य चुनता है और सफलता के लिए प्रयास करता है",
+   "वह असफलता से बचने के लिए कार्य ही नहीं करता",
+   "वह केवल इनाम के लिए कार्य करता है"
+  ],
+  "options_en": [
+   "He always chooses the easiest task",
+   "He chooses challenging but achievable goals and strives for success",
+   "He does not work at all to avoid failure",
+   "He works only for rewards"
+  ],
+  "q_en": "A student with high achievement motivation —",
+  "q_hi": "उच्च उपलब्धि अभिप्रेरणा वाला विद्यार्थी —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "अल्पकालिक स्मृति की क्षमता सीमित (लगभग 7±2 इकाइयाँ) और अवधि छोटी (कुछ सेकंड) होती है; पुनरावृत्ति से सूचना दीर्घकालिक स्मृति में जाती है।",
+  "mock_q": 24,
+  "n": 559,
+  "options": [
+   "इसकी क्षमता असीमित होती है",
+   "इसमें सूचना वर्षों तक रहती है",
+   "इसकी क्षमता सीमित होती है और सूचना कुछ ही सेकंड रहती है",
+   "यह केवल चित्रों को संग्रहीत करती है"
+  ],
+  "options_en": [
+   "Its capacity is unlimited",
+   "Information stays in it for years",
+   "Its capacity is limited and information stays only for a few seconds",
+   "It stores only pictures"
+  ],
+  "q_en": "Which statement about short-term memory is correct?",
+  "q_hi": "अल्पकालिक स्मृति (short-term memory) के बारे में कौन-सा कथन सही है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "ड्यूई के 'करके सीखना' (learning by doing) में बच्चा वास्तविक अनुभवों व परियोजनाओं से सीखता है — यह प्रगतिशील शिक्षा का मूल है।",
+  "mock_q": 25,
+  "n": 560,
+  "options": [
+   "करके सीखने (learning by doing) पर",
+   "रटकर सीखने पर",
+   "केवल व्याख्यान सुनने पर",
+   "दंड द्वारा अनुशासन पर"
+  ],
+  "options_en": [
+   "On learning by doing",
+   "On learning by rote",
+   "Only on listening to lectures",
+   "On discipline through punishment"
+  ],
+  "q_en": "John Dewey's concept of progressive education emphasizes what?",
+  "q_hi": "जॉन ड्यूई की प्रगतिशील शिक्षा की अवधारणा किस पर बल देती है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "ध्यान व्यक्ति की रुचि, आवश्यकता और उद्देश्य से जुड़ा होता है — रुचिकर व अर्थपूर्ण विषय पर ध्यान स्वतः केंद्रित होता है, केवल शोर या चमक से ध्यान भटकता है।",
+  "mock_q": 26,
+  "n": 561,
+  "options": [
+   "ध्यान केवल बाहरी चमक पर निर्भर करता है",
+   "ध्यान का रुचि से कोई संबंध नहीं है",
+   "ध्यान केवल भय से उत्पन्न होता है",
+   "ध्यान व्यक्ति की रुचि, आवश्यकता व उद्देश्य से प्रभावित होता है"
+  ],
+  "options_en": [
+   "Attention depends only on external brightness",
+   "Attention has no relation with interest",
+   "Attention arises only from fear",
+   "Attention is influenced by the person's interest, need and purpose"
+  ],
+  "q_en": "Which statement about 'Attention' is correct?",
+  "q_hi": "'ध्यान' (Attention) के बारे में कौन-सा कथन सही है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "अंतर्मुखी (introvert) व्यक्ति एकांत पसंद करता है, कम बोलता है और अपनी भावनाएँ भीतर रखता है; बहिर्मुखी इसके विपरीत सामाजिक होता है।",
+  "mock_q": 27,
+  "n": 562,
+  "options": [
+   "वह शर्मीला, कम बोलने वाला और एकांत पसंद होता है",
+   "वह बहुत अधिक सामाजिक होता है",
+   "वह हमेशा समूह का नेतृत्व करता है",
+   "वह भावनाएँ तुरंत व्यक्त कर देता है"
+  ],
+  "options_en": [
+   "He is shy, speaks less and likes solitude",
+   "He is very social",
+   "He always leads the group",
+   "He expresses emotions immediately"
+  ],
+  "q_en": "What is the main characteristic of an introvert personality?",
+  "q_hi": "अंतर्मुखी (introvert) व्यक्तित्व की प्रमुख विशेषता क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "अवधारणा निर्माण में बच्चा वस्तुओं के समान गुणों को पहचानकर वर्ग बनाता है — विश्लेषण से संश्लेषण की ओर बढ़ना ही अवधारणा-विकास है।",
+  "mock_q": 28,
+  "n": 563,
+  "options": [
+   "केवल वस्तुओं के नाम रटना",
+   "प्रत्येक वस्तु को अलग-अलग देखना",
+   "केवल एक उदाहरण याद रखना",
+   "वस्तुओं के सामान्य गुणों के आधार पर वर्ग बनाना"
+  ],
+  "options_en": [
+   "Only memorizing the names of objects",
+   "Looking at each object separately",
+   "Remembering only one example",
+   "Forming classes on the basis of common attributes of objects"
+  ],
+  "q_en": "What is 'Concept Formation'?",
+  "q_hi": "'अवधारणा निर्माण' (Concept Formation) क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "पोर्टफोलियो में समय के साथ बच्चे के कार्यों के सर्वोत्तम नमूने संकलित होते हैं, जिससे उसकी प्रगति का समग्र चित्र मिलता है — यह प्रामाणिक मूल्यांकन का साधन है।",
+  "mock_q": 29,
+  "n": 564,
+  "options": [
+   "केवल अंतिम परीक्षा की उत्तर-पुस्तिका",
+   "बच्चे के कार्यों के नमूनों का समय के साथ किया गया संकलन",
+   "विद्यालय का लेखा-रजिस्टर",
+   "शिक्षक की उपस्थिति पंजी"
+  ],
+  "options_en": [
+   "Only the answer sheet of the final examination",
+   "A collection of samples of the child's work over a period of time",
+   "The account register of the school",
+   "The teacher's attendance register"
+  ],
+  "q_en": "In assessment, what is a 'Portfolio'?",
+  "q_hi": "मूल्यांकन में 'पोर्टफोलियो' क्या होता है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "मैडम मॉन्टेसरी ने बच्चे को विशेष शिक्षण-सामग्री से स्वयं करके सीखने की स्वतंत्रता दी; शिक्षक की भूमिका मार्गदर्शक की होती है।",
+  "mock_q": 30,
+  "n": 565,
+  "options": [
+   "केवल व्याख्यान द्वारा शिक्षण",
+   "केवल परीक्षा पर बल",
+   "केवल रटकर सीखना",
+   "आत्म-शिक्षण सामग्री द्वारा बच्चे का स्वतंत्र अधिगम"
+  ],
+  "options_en": [
+   "Teaching only through lectures",
+   "Emphasis only on examinations",
+   "Learning only by rote",
+   "Child's self-learning through self-teaching materials"
+  ],
+  "q_en": "What is the main feature of the Montessori method?",
+  "q_hi": "मॉन्टेसरी पद्धति की प्रमुख विशेषता क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "नीलकमल = नीला है जो कमल — यहाँ पहला पद विशेषण और दूसरा विशेष्य है, अतः कर्मधारय समास है।",
+  "mock_q": 31,
+  "n": 566,
+  "options": [
+   "कर्मधारय समास",
+   "तत्पुरुष समास",
+   "द्वंद्व समास",
+   "बहुव्रीहि समास"
+  ],
+  "options_en": [
+   "Karmadharaya Samas",
+   "Tatpurusha Samas",
+   "Dvandva Samas",
+   "Bahuvrihi Samas"
+  ],
+  "q_en": "Which type of compound (samas) is there in the word 'नीलकमल'?",
+  "q_hi": "'नीलकमल' शब्द में कौन-सा समास है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "मानव + ता = मानवता; शब्द के अंत में जुड़ने वाला 'ता' प्रत्यय है — प्रत्यय शब्द के अंत में लगता है, उपसर्ग आरंभ में।",
+  "mock_q": 32,
+  "n": 567,
+  "options": [
+   "उपसर्ग",
+   "संधि",
+   "समास",
+   "प्रत्यय"
+  ],
+  "options_en": [
+   "Upsarg (prefix)",
+   "Sandhi",
+   "Samas",
+   "Pratyaya (suffix)"
+  ],
+  "q_en": "In the word 'मानवता', 'ता' is a —",
+  "q_hi": "'मानवता' शब्द में 'ता' क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "जिसके लिए कोई कार्य किया जाए वह सम्प्रदान कारक होता है — यहाँ पुस्तक श्याम के लिए दी गई, अतः 'श्याम को' में सम्प्रदान कारक है।",
+  "mock_q": 33,
+  "n": 568,
+  "options": [
+   "सम्प्रदान कारक",
+   "करण कारक",
+   "अपादान कारक",
+   "अधिकरण कारक"
+  ],
+  "options_en": [
+   "Sampradan Karak",
+   "Karan Karak",
+   "Apadan Karak",
+   "Adhikaran Karak"
+  ],
+  "q_en": "In the sentence 'राम ने श्याम को पुस्तक दी', which karak is there in 'श्याम को'?",
+  "q_hi": "'राम ने श्याम को पुस्तक दी।' — इस वाक्य में 'श्याम को' में कौन-सा कारक है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "वीर रस का स्थायी भाव 'उत्साह' है; शोक करुण रस का और भय भयानक रस का स्थायी भाव होता है।",
+  "mock_q": 34,
+  "n": 569,
+  "options": [
+   "करुणा",
+   "शोक",
+   "उत्साह",
+   "भय"
+  ],
+  "options_en": [
+   "Karuna",
+   "Shok",
+   "Utsah",
+   "Bhay"
+  ],
+  "q_en": "What is the sthayi bhava (permanent emotion) of 'Veer Ras'?",
+  "q_hi": "'वीर रस' का स्थायी भाव कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'कृत्रिम' का अर्थ है मानव द्वारा बनाया गया, इसलिए इसका विलोम 'प्राकृतिक' है; बनावटी और नकली इसके पर्याय हैं।",
+  "mock_q": 35,
+  "n": 570,
+  "options": [
+   "बनावटी",
+   "नकली",
+   "मानव-निर्मित",
+   "प्राकृतिक"
+  ],
+  "options_en": [
+   "Banavati",
+   "Nakli",
+   "Manav-nirmit",
+   "Prakritik"
+  ],
+  "q_en": "What is the correct antonym (vilom) of 'कृत्रिम'?",
+  "q_hi": "'कृत्रिम' शब्द का सही विलोम कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "'दाल न गलना' मुहावरे का अर्थ है — युक्ति या चाल का सफल न होना, बात न बनना।",
+  "mock_q": 36,
+  "n": 571,
+  "options": [
+   "युक्ति सफल न होना",
+   "दाल कच्ची रह जाना",
+   "खाना खराब हो जाना",
+   "बहुत भूख लगना"
+  ],
+  "options_en": [
+   "Yukti safal na hona",
+   "Daal kachchi reh jana",
+   "Khana kharab ho jana",
+   "Bahut bhookh lagna"
+  ],
+  "q_en": "What is the correct meaning of the idiom 'दाल न गलना'?",
+  "q_hi": "'दाल न गलना' मुहावरे का सही अर्थ क्या है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "'सूर्य' तत्सम शब्द है, इसका तद्भव रूप 'सूरज' है; 'दिनकर' इसका पर्यायवाची है।",
+  "mock_q": 37,
+  "n": 572,
+  "options": [
+   "सूर्यांश",
+   "सूर",
+   "सूरज",
+   "दिनकर"
+  ],
+  "options_en": [
+   "Suryansh",
+   "Sur",
+   "Suraj",
+   "Dinkar"
+  ],
+  "q_en": "What is the tadbhav form of 'सूर्य'?",
+  "q_hi": "'सूर्य' का तद्भव रूप कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'पुस्तक' स्त्रीलिंग शब्द है — 'पुस्तक पढ़ी गई' जैसे प्रयोगों से इसका लिंग स्पष्ट होता है।",
+  "mock_q": 38,
+  "n": 573,
+  "options": [
+   "पुल्लिंग",
+   "स्त्रीलिंग",
+   "उभयलिंग",
+   "नपुंसकलिंग"
+  ],
+  "options_en": [
+   "Pulling",
+   "Striling",
+   "Ubhayling",
+   "Napunsakling"
+  ],
+  "q_en": "What is the gender (ling) of the word 'पुस्तक'?",
+  "q_hi": "'पुस्तक' शब्द का लिंग कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "'रहा है' से क्रिया का वर्तमान में जारी होना प्रकट होता है, अतः यह अपूर्ण वर्तमान काल है।",
+  "mock_q": 39,
+  "n": 574,
+  "options": [
+   "वर्तमान काल",
+   "भूतकाल",
+   "भविष्यकाल",
+   "संदिग्ध भूतकाल"
+  ],
+  "options_en": [
+   "Vartaman Kaal",
+   "Bhootkaal",
+   "Bhavishyakaal",
+   "Sandigdh Bhootkaal"
+  ],
+  "q_en": "In the sentence 'सूरज उग रहा है', what is the tense (kaal) of the verb?",
+  "q_hi": "'सूरज उग रहा है।' — इस वाक्य में क्रिया का काल कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "भाषा कौशलों का स्वाभाविक क्रम है — सुनना, बोलना, पढ़ना, लिखना (LSRW); बच्चा पहले सुनकर ही भाषा अर्जित करता है।",
+  "mock_q": 40,
+  "n": 575,
+  "options": [
+   "लिखना",
+   "पढ़ना",
+   "बोलना",
+   "सुनना"
+  ],
+  "options_en": [
+   "Likhna",
+   "Padhna",
+   "Bolna",
+   "Sunna"
+  ],
+  "q_en": "Which is the first skill in language learning?",
+  "q_hi": "भाषा अधिगम में सबसे पहला कौशल कौन-सा है?",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-I"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "'Rapid' का अर्थ है तीव्र/तेज़, और इसका सबसे निकट समानार्थी 'Fast' है; 'Rapidly' क्रिया-विशेषण है, 'Slow' विलोम है।",
+  "mock_q": 41,
+  "n": 576,
+  "options": [
+   "Slow",
+   "Rapidly",
+   "Fast",
+   "Steady"
+  ],
+  "options_en": [
+   "Slow",
+   "Rapidly",
+   "Fast",
+   "Steady"
+  ],
+  "q_en": "Choose the correct synonym of 'Rapid'.",
+  "q_hi": "'Rapid' का सही समानार्थी (synonym) शब्द चुनिए —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "'Ancient' का अर्थ है प्राचीन, इसलिए इसका विलोम 'Modern' (आधुनिक) है; 'Old' इसका समानार्थी है।",
+  "mock_q": 42,
+  "n": 577,
+  "options": [
+   "Modern",
+   "Old",
+   "Antique",
+   "Past"
+  ],
+  "options_en": [
+   "Modern",
+   "Old",
+   "Antique",
+   "Past"
+  ],
+  "q_en": "Choose the correct antonym of 'Ancient'.",
+  "q_hi": "'Ancient' का सही विलोम (antonym) शब्द चुनिए —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'Afraid' के साथ सदैव 'of' preposition आता है — 'afraid of' एक निश्चित प्रयोग (fixed expression) है।",
+  "mock_q": 43,
+  "n": 578,
+  "options": [
+   "from",
+   "with",
+   "by",
+   "of"
+  ],
+  "options_en": [
+   "from",
+   "with",
+   "by",
+   "of"
+  ],
+  "q_en": "Choose the correct Preposition: 'The child is afraid ___ dogs.'",
+  "q_hi": "सही Preposition चुनिए: 'The child is afraid ___ dogs.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "यह तीसरे प्रकार की शर्तवाक्य (third conditional) संरचना है — If + had + V3 के साथ 'would have + V3' आता है।",
+  "mock_q": 44,
+  "n": 579,
+  "options": [
+   "will pass",
+   "would have passed",
+   "would pass",
+   "passes"
+  ],
+  "options_en": [
+   "will pass",
+   "would have passed",
+   "would pass",
+   "passes"
+  ],
+  "q_en": "Choose the correct Verb form: 'If he had worked hard, he ___ the examination.'",
+  "q_hi": "सही Verb form चुनिए: 'If he had worked hard, he ___ the examination.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "Future indefinite tense का passive 'will be + V3' से बनता है — will be punished ही सही रूप है।",
+  "mock_q": 45,
+  "n": 580,
+  "options": [
+   "The students will be punished by the teacher.",
+   "The students would punished by the teacher.",
+   "The students are punish by the teacher.",
+   "The students will punished by the teacher."
+  ],
+  "options_en": [
+   "The students will be punished by the teacher.",
+   "The students would punished by the teacher.",
+   "The students are punish by the teacher.",
+   "The students will punished by the teacher."
+  ],
+  "q_en": "Choose the correct Passive Voice: 'The teacher will punish the students.'",
+  "q_hi": "'The teacher will punish the students.' का सही Passive Voice चुनिए —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "Indirect speech में reporting verb 'said' (past) होने पर present tense past में बदलता है और 'today' का 'that day' हो जाता है।",
+  "mock_q": 46,
+  "n": 581,
+  "options": [
+   "He said that he is busy today.",
+   "He said that he was busy today.",
+   "He said that he was busy that day.",
+   "He told that he is busy that day."
+  ],
+  "options_en": [
+   "He said that he is busy today.",
+   "He said that he was busy today.",
+   "He said that he was busy that day.",
+   "He told that he is busy that day."
+  ],
+  "q_en": "Choose the correct Indirect Speech: He said, \"I am busy today.\"",
+  "q_hi": "सही Indirect Speech चुनिए: He said, \"I am busy today.\"",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "सलाह (advice) देने के लिए 'should' का प्रयोग होता है — थके हुए व्यक्ति को आराम की सलाह दी जा रही है।",
+  "mock_q": 47,
+  "n": 582,
+  "options": [
+   "can",
+   "may",
+   "might",
+   "should"
+  ],
+  "options_en": [
+   "can",
+   "may",
+   "might",
+   "should"
+  ],
+  "q_en": "Choose the correct Modal: 'You look very tired. You ___ take some rest.'",
+  "q_hi": "सही Modal चुनिए: 'You look very tired. You ___ take some rest.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'To call a spade a spade' का अर्थ है — बात को घुमाए बिना स्पष्ट और सीधे शब्दों में कहना।",
+  "mock_q": 48,
+  "n": 583,
+  "options": [
+   "बागवानी करना",
+   "स्पष्ट और सीधे शब्दों में बात कहना",
+   "झूठ बोलना",
+   "किसी को बुलाना"
+  ],
+  "options_en": [
+   "To do gardening",
+   "To speak plainly and frankly",
+   "To tell a lie",
+   "To call someone"
+  ],
+  "q_en": "Choose the correct meaning of the idiom 'To call a spade a spade'.",
+  "q_hi": "'To call a spade a spade' मुहावरे (idiom) का सही अर्थ चुनिए —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "कई भाषाएँ जानने वाले व्यक्ति को 'Polyglot' कहते हैं; 'Bilingual' दो भाषाएँ और 'Linguist' भाषा-विज्ञानी होता है।",
+  "mock_q": 49,
+  "n": 584,
+  "options": [
+   "Bilingual",
+   "Linguist",
+   "Polyglot",
+   "Orator"
+  ],
+  "options_en": [
+   "Bilingual",
+   "Linguist",
+   "Polyglot",
+   "Orator"
+  ],
+  "q_en": "Choose one word for: 'A person who speaks many languages'",
+  "q_hi": "'A person who speaks many languages' — के लिए एक शब्द (one word) चुनिए —",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "'Honest' का उच्चारण स्वर-ध्वनि (ऑ) से शुरू होता है क्योंकि 'h' मूक है, इसलिए इसके पहले 'an' article आता है।",
+  "mock_q": 50,
+  "n": 585,
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "options_en": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "q_en": "Choose the correct Article: 'He is ___ honest man.'",
+  "q_hi": "सही Article चुनिए: 'He is ___ honest man.'",
+  "source": "Syllabus-based (Juno)",
+  "subject": "Language-II"
+ }
+]

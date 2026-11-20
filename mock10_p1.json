@@ -1,0 +1,1072 @@
+[
+ {
+  "answer": 2,
+  "exp_hi": "कोहलबर्ग की उत्तर-पारंपरिक (post-conventional) स्तर की अंतिम अवस्था में व्यक्ति सार्वभौमिक न्याय और मानव-अधिकार जैसे अपने सिद्धांतों से चलता है, कानून से ऊपर भी।",
+  "mock_q": 1,
+  "n": 301,
+  "options": [
+   "बच्चा सज़ा से बचने के लिए नियम मानता है",
+   "व्यक्ति समाज के नियमों को अंतिम सत्य मानता है",
+   "व्यक्ति अपने आंतरिक नैतिक सिद्धांतों के आधार पर निर्णय लेता है, भले ही वे कानून से टकराएँ",
+   "व्यक्ति दूसरों की स्वीकृति पाने के लिए अच्छा व्यवहार करता है"
+  ],
+  "options_en": [
+   "The child follows rules to avoid punishment",
+   "The person treats society's rules as the ultimate truth",
+   "The person takes decisions on the basis of inner moral principles, even if they clash with the law",
+   "The person behaves well to gain others' approval"
+  ],
+  "q_en": "According to Kohlberg, what is the main feature of the 'universal ethical principles' stage of moral development?",
+  "q_hi": "कोहलबर्ग के अनुसार, नैतिक विकास की 'सार्वभौमिक नैतिक सिद्धांत' अवस्था की मुख्य विशेषता क्या है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "डिस्लेक्सिया में बच्चे को पढ़ने, अक्षर पहचानने और शब्दों को सही क्रम में समझने में कठिनाई होती है; अक्षर उल्टा लिखना इसका सामान्य लक्षण है।",
+  "mock_q": 2,
+  "n": 302,
+  "options": [
+   "डिस्ग्राफिया (लेखन अक्षमता)",
+   "डिस्लेक्सिया (पठन अक्षमता)",
+   "डिस्कैलकुलिया (गणितीय अक्षमता)",
+   "ध्यानाभाव विकार"
+  ],
+  "options_en": [
+   "Dysgraphia (writing disability)",
+   "Dyslexia (reading disability)",
+   "Dyscalculia (mathematical disability)",
+   "Attention deficit disorder"
+  ],
+  "q_en": "A teacher notices that a child in her class writes letters reversed (like 'b' as 'd') and often gets stuck while reading. This may be a sign of which learning disability?",
+  "q_hi": "एक शिक्षिका देखती है कि कक्षा का एक बच्चा अक्षरों को उल्टा लिखता है (जैसे 'b' को 'd') और पढ़ने में अक्सर अटकता है। यह किस अधिगम अक्षमता का संकेत हो सकता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "ZPD वह अंतर है जो बच्चे के स्वतंत्र कार्य-स्तर और सहायता (वयस्क या अधिक सक्षम साथी) से प्राप्त स्तर के बीच होता है; शिक्षण इसी क्षेत्र को लक्ष्य बनाना चाहिए।",
+  "mock_q": 3,
+  "n": 303,
+  "options": [
+   "बच्चा जो कार्य अकेले कर सकता है",
+   "बच्चा जो कार्य किसी की सहायता से कर सकता है, परंतु अकेले नहीं",
+   "बच्चे की वास्तविक बुद्धि-लब्धि का क्षेत्र",
+   "बच्चे के खेलने का क्षेत्र"
+  ],
+  "options_en": [
+   "The tasks a child can do alone",
+   "The tasks a child can do with someone's help, but not alone",
+   "The zone of the child's actual IQ",
+   "The child's play area"
+  ],
+  "q_en": "In Vygotsky's theory, what does the 'Zone of Proximal Development' (ZPD) mean?",
+  "q_hi": "वाइगोत्स्की के सिद्धांत में 'निकटतम विकास क्षेत्र' (ZPD) से क्या तात्पर्य है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "NCF 2005 मूल्यांकन को सीखने की प्रक्रिया का हिस्सा मानता है — सतत और व्यापक मूल्यांकन (CCE) बच्चे की प्रगति समझने और शिक्षण सुधारने के लिए है, छँटाई के लिए नहीं।",
+  "mock_q": 4,
+  "n": 304,
+  "options": [
+   "बच्चों को पास-फेल के आधार पर छाँटना",
+   "बच्चों की तुलना एक-दूसरे से करना",
+   "बच्चे के सीखने की प्रक्रिया को समझना और शिक्षण में सुधार करना",
+   "केवल अंतिम परीक्षा के अंक बढ़ाना"
+  ],
+  "options_en": [
+   "To sort children on the basis of pass-fail",
+   "To compare children with each other",
+   "To understand the child's learning process and improve teaching",
+   "Only to increase marks in the final examination"
+  ],
+  "q_en": "According to NCF 2005, what should be the main purpose of assessment in primary classes?",
+  "q_hi": "राष्ट्रीय शिक्षा नीति (NCF 2005) के अनुसार प्राथमिक कक्षाओं में मूल्यांकन का मुख्य उद्देश्य क्या होना चाहिए?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "गार्डनर ने प्राकृतिक (naturalistic) बुद्धि को अलग माना है — ऐसे बच्चे पौधों, जानवरों और प्राकृतिक प्रतिरूपों को पहचानने व वर्गीकृत करने में रुचि रखते हैं।",
+  "mock_q": 5,
+  "n": 305,
+  "options": [
+   "भाषिक बुद्धि",
+   "तार्किक-गणितीय बुद्धि",
+   "प्राकृतिक बुद्धि",
+   "अंतर-वैयक्तिक बुद्धि"
+  ],
+  "options_en": [
+   "Linguistic intelligence",
+   "Logical-mathematical intelligence",
+   "Naturalistic intelligence",
+   "Interpersonal intelligence"
+  ],
+  "q_en": "According to Gardner's theory of multiple intelligences, a child skilled in identifying and classifying nature and living beings has which intelligence dominant?",
+  "q_hi": "गार्डनर के बहु-बुद्धि सिद्धांत के अनुसार, प्रकृति और जीव-जंतुओं को पहचानने-वर्गीकृत करने में निपुण बच्चे में कौन-सी बुद्धि प्रबल होती है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "एक परिस्थिति में अर्जित ज्ञान या कौशल का दूसरी परिस्थिति में प्रयोग ही अधिगम का स्थानांतरण (transfer of learning) कहलाता है।",
+  "mock_q": 6,
+  "n": 306,
+  "options": [
+   "अधिगम का स्थानांतरण",
+   "अभिप्रेरणा",
+   "विस्मृति",
+   "परिपक्वता"
+  ],
+  "options_en": [
+   "Transfer of learning",
+   "Motivation",
+   "Forgetting",
+   "Maturation"
+  ],
+  "q_en": "A child tries to solve a problem in a new situation by applying a previously learnt method. This is an example of what?",
+  "q_hi": "एक बच्चा नई परिस्थिति में पुरानी सीखी हुई विधि को लागू करके समस्या सुलझाने का प्रयास करता है। यह किसका उदाहरण है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "समावेशी शिक्षा में दिव्यांग और सामान्य सभी बच्चे एक ही नियमित कक्षा में पढ़ते हैं; वातावरण को बच्चे के अनुसार ढाला जाता है, बच्चे को अलग नहीं किया जाता।",
+  "mock_q": 7,
+  "n": 307,
+  "options": [
+   "विशेष बच्चों को अलग विद्यालयों में पढ़ाना",
+   "सभी बच्चे, अपनी भिन्नताओं सहित, एक ही कक्षा में साथ सीखें",
+   "केवल प्रतिभाशाली बच्चों पर विशेष ध्यान देना",
+   "दिव्यांग बच्चों को घर पर ही शिक्षा देना"
+  ],
+  "options_en": [
+   "To teach special children in separate schools",
+   "All children, with their differences, learn together in the same classroom",
+   "To give special attention only to gifted children",
+   "To educate children with disabilities at home only"
+  ],
+  "q_en": "What is the core principle of Inclusive Education?",
+  "q_hi": "समावेशी शिक्षा (Inclusive Education) का मूल सिद्धांत क्या है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "संवेदी-गामक अवस्था में शिशु सीखता है कि वस्तु आँखों से ओझल होने पर भी अस्तित्व में रहती है — यही वस्तु स्थायित्व (object permanence) है।",
+  "mock_q": 8,
+  "n": 308,
+  "options": [
+   "संरक्षण की समझ",
+   "वस्तु स्थायित्व की समझ",
+   "अमूर्त चिंतन",
+   "काल्पनिक खेल"
+  ],
+  "options_en": [
+   "Understanding of conservation",
+   "Understanding of object permanence",
+   "Abstract thinking",
+   "Pretend play"
+  ],
+  "q_en": "According to Piaget, what is the most important achievement of the sensorimotor stage (0–2 years)?",
+  "q_hi": "पियाजे के अनुसार संवेदी-गामक अवस्था (0–2 वर्ष) की सबसे महत्त्वपूर्ण उपलब्धि कौन-सी है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "रचनावाद (पियाजे व वाइगोत्स्की) मानता है कि बच्चा निष्क्रिय ग्राही नहीं है; वह अनुभवों से सक्रिय रूप से अर्थ बनाता है, इसलिए शिक्षक की भूमिका सुविधादाता की होती है।",
+  "mock_q": 9,
+  "n": 309,
+  "options": [
+   "व्यवहारवाद",
+   "रचनावाद (Constructivism)",
+   "मनोविश्लेषणवाद",
+   "संरचनावाद"
+  ],
+  "options_en": [
+   "Behaviourism",
+   "Constructivism",
+   "Psychoanalysis",
+   "Structuralism"
+  ],
+  "q_en": "'Children construct knowledge themselves by actively interacting with their environment' — this idea is related to which approach?",
+  "q_hi": "'बच्चे अपने वातावरण से सक्रिय रूप से अंतःक्रिया करके ज्ञान का निर्माण स्वयं करते हैं' — यह विचार किस उपागम से संबंधित है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "आंतरिक अभिप्रेरणा रुचि, जिज्ञासा और संतोष से आती है; इनाम-सज़ा बाह्य अभिप्रेरणा हैं, जिनका प्रभाव सीमित और अस्थायी होता है।",
+  "mock_q": 10,
+  "n": 310,
+  "options": [
+   "हर कार्य पर इनाम घोषित करना",
+   "गलती पर सज़ा का भय दिखाना",
+   "कार्य को बच्चे की रुचि और जिज्ञासा से जोड़ना",
+   "केवल परीक्षा के अंक बताना"
+  ],
+  "options_en": [
+   "Announcing a reward for every task",
+   "Showing fear of punishment for mistakes",
+   "Connecting the task with the child's interest and curiosity",
+   "Only telling the examination marks"
+  ],
+  "q_en": "A teacher wants children to learn through intrinsic motivation. Which is the most suitable measure for this?",
+  "q_hi": "एक शिक्षक चाहता है कि बच्चे आंतरिक अभिप्रेरणा से सीखें। इसके लिए सबसे उपयुक्त उपाय कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "आधुनिक मनोविज्ञान मानता है कि विकास आनुवंशिक संभावनाओं और वातावरणीय अवसरों की पारस्परिक अंतःक्रिया से होता है — कोई एक कारक अकेला निर्णायक नहीं है।",
+  "mock_q": 11,
+  "n": 311,
+  "options": [
+   "बच्चे का विकास केवल वंशानुक्रम से निर्धारित होता है",
+   "बच्चे का विकास केवल वातावरण से निर्धारित होता है",
+   "विकास वंशानुक्रम और वातावरण की अंतःक्रिया का परिणाम है",
+   "दोनों का विकास पर कोई प्रभाव नहीं पड़ता"
+  ],
+  "options_en": [
+   "A child's development is determined only by heredity",
+   "A child's development is determined only by environment",
+   "Development is the result of the interaction of heredity and environment",
+   "Neither has any effect on development"
+  ],
+  "q_en": "With reference to heredity and environment, which statement is correct?",
+  "q_hi": "वंशानुक्रम और वातावरण के संदर्भ में कौन-सा कथन सही है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "प्रत्येक बच्चे की क्षमताओं का प्रतिरूप अलग होता है — यही व्यक्तिगत भिन्नता है; शिक्षक को शिक्षण इसी भिन्नता को ध्यान में रखकर आयोजित करना चाहिए।",
+  "mock_q": 12,
+  "n": 312,
+  "options": [
+   "विकास की एकरूपता",
+   "व्यक्तिगत भिन्नता",
+   "विकास की निरंतरता",
+   "परिपक्वता का सिद्धांत"
+  ],
+  "options_en": [
+   "Uniformity of development",
+   "Individual differences",
+   "Continuity of development",
+   "Principle of maturation"
+  ],
+  "q_en": "In a class, one child is fast in mathematics but weak in language, another is fast in language but slow in mathematics. This shows which principle?",
+  "q_hi": "कक्षा में एक बच्चा गणित में तेज़ है पर भाषा में कमज़ोर, दूसरा भाषा में तेज़ पर गणित में धीमा। यह किस सिद्धांत को दर्शाता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "परिवार बच्चे का पहला समाजीकरण अभिकरण है — भाषा, मूल्य और व्यवहार के प्रारंभिक प्रतिरूप बच्चा परिवार से ही सीखता है; विद्यालय बाद में आता है।",
+  "mock_q": 13,
+  "n": 313,
+  "options": [
+   "विद्यालय",
+   "समाज",
+   "परिवार",
+   "माध्यम (मीडिया)"
+  ],
+  "options_en": [
+   "School",
+   "Society",
+   "Family",
+   "Media"
+  ],
+  "q_en": "In the process of socialization, which is the first and most effective agency for a child at the primary level?",
+  "q_hi": "समाजीकरण की प्रक्रिया में प्राथमिक स्तर पर बच्चे के लिए सबसे पहला और प्रभावी अभिकरण कौन-सा होता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "RTE 2009 के अनुसार कक्षा 1–5 के लिए शिक्षक-छात्र अनुपात 1:30 और कक्षा 6–8 के लिए 1:35 निर्धारित है।",
+  "mock_q": 14,
+  "n": 314,
+  "options": [
+   "1:40",
+   "1:35",
+   "1:30",
+   "1:25"
+  ],
+  "options_en": [
+   "1:40",
+   "1:35",
+   "1:30",
+   "1:25"
+  ],
+  "q_en": "According to the Right to Education (RTE) Act 2009, what is the prescribed pupil-teacher ratio at the primary level (Classes 1–5)?",
+  "q_hi": "शिक्षा का अधिकार अधिनियम (RTE) 2009 के अनुसार प्राथमिक स्तर पर शिक्षक-छात्र अनुपात (कक्षा 1–5) कितना निर्धारित है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Child Development"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "507 में 5 सैकड़े के स्थान पर है, इसलिए उसका स्थानीय मान 5 × 100 = 500 है; अंकित मान (face value) 5 होता है।",
+  "mock_q": 15,
+  "n": 315,
+  "options": [
+   "5",
+   "50",
+   "500",
+   "5000"
+  ],
+  "options_en": [
+   "5",
+   "50",
+   "500",
+   "5000"
+  ],
+  "q_en": "What is the place value of the digit 5 in the number 507?",
+  "q_hi": "संख्या 507 में अंक 5 का स्थानीय मान (place value) कितना है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "आयत का परिमाप = 2 × (लंबाई + चौड़ाई) = 2 × (12 + 7) = 2 × 19 = 38 सेमी। (84 वर्ग सेमी इसका क्षेत्रफल होता।)",
+  "mock_q": 16,
+  "n": 316,
+  "options": [
+   "19 सेमी",
+   "38 सेमी",
+   "84 सेमी",
+   "42 सेमी"
+  ],
+  "options_en": [
+   "19 cm",
+   "38 cm",
+   "84 cm",
+   "42 cm"
+  ],
+  "q_en": "The length of a rectangle is 12 cm and its breadth is 7 cm. What is its perimeter?",
+  "q_hi": "एक आयत की लंबाई 12 सेमी और चौड़ाई 7 सेमी है। उसका परिमाप कितना होगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "दशमलव में बदलने पर 1/2 = 0.50, 2/3 ≈ 0.67, 3/4 = 0.75, 2/5 = 0.40 — अतः 3/4 सबसे बड़ी भिन्न है।",
+  "mock_q": 17,
+  "n": 317,
+  "options": [
+   "1/2",
+   "2/3",
+   "3/4",
+   "2/5"
+  ],
+  "options_en": [
+   "1/2",
+   "2/3",
+   "3/4",
+   "2/5"
+  ],
+  "q_en": "Which of the following fractions is the largest?",
+  "q_hi": "निम्न में से कौन-सी भिन्न सबसे बड़ी है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "3:30 पर मिनट की सुई 6 पर (180°) और घंटे की सुई 3 और 4 के बीच आधी (105°) होती है; अंतर = 180 − 105 = 75°।",
+  "mock_q": 18,
+  "n": 318,
+  "options": [
+   "90°",
+   "75°",
+   "60°",
+   "105°"
+  ],
+  "options_en": [
+   "90°",
+   "75°",
+   "60°",
+   "105°"
+  ],
+  "q_en": "A clock shows 3:30. What is the angle between the hour and minute hands?",
+  "q_hi": "एक घड़ी में समय 3:30 हो रहा है। घंटे और मिनट की सुइयों के बीच का कोण कितना होगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "अंतर क्रमशः 4, 6, 8, 10 बढ़ रहे हैं; अगला अंतर 12 होगा, इसलिए अगली संख्या 30 + 12 = 42 है।",
+  "mock_q": 19,
+  "n": 319,
+  "options": [
+   "40",
+   "42",
+   "36",
+   "44"
+  ],
+  "options_en": [
+   "40",
+   "42",
+   "36",
+   "44"
+  ],
+  "q_en": "Look at the pattern: 2, 6, 12, 20, 30, … What is the next number?",
+  "q_hi": "प्रतिरूप (pattern) देखिए: 2, 6, 12, 20, 30, … अगली संख्या कौन-सी है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "2.5 लीटर = 2500 मि.ली.; 2500 ÷ 250 = 10 गिलास।",
+  "mock_q": 20,
+  "n": 320,
+  "options": [
+   "5",
+   "8",
+   "10",
+   "12"
+  ],
+  "options_en": [
+   "5",
+   "8",
+   "10",
+   "12"
+  ],
+  "q_en": "Into how many glasses of 250 ml each can 2.5 litres of milk be poured?",
+  "q_hi": "2.5 लीटर दूध को 250 मि.ली. वाले कितने गिलासों में भरा जा सकता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "वैन हीले के अनुसार बच्चा पहले आकृतियों को समग्र रूप से देखकर पहचानता है (दृश्यीकरण स्तर), फिर उनके गुणों का विश्लेषण करता है।",
+  "mock_q": 21,
+  "n": 321,
+  "options": [
+   "विश्लेषण स्तर",
+   "दृश्यीकरण (पहचान) स्तर",
+   "अनौपचारिक निगमन स्तर",
+   "औपचारिक निगमन स्तर"
+  ],
+  "options_en": [
+   "Analysis level",
+   "Visualization (recognition) level",
+   "Informal deduction level",
+   "Formal deduction level"
+  ],
+  "q_en": "Which is the first level in Van Hiele's levels of geometric thinking?",
+  "q_hi": "वैन हीले (Van Hiele) के ज्यामितीय चिंतन के स्तरों में पहला स्तर कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "500 − 475 = ₹25 लौटाए जाएँगे। प्राथमिक स्तर पर ऐसी दैनिक जीवन-आधारित समस्याएँ मुद्रा की समझ विकसित करती हैं।",
+  "mock_q": 22,
+  "n": 322,
+  "options": [
+   "₹15",
+   "₹20",
+   "₹25",
+   "₹35"
+  ],
+  "options_en": [
+   "₹15",
+   "₹20",
+   "₹25",
+   "₹35"
+  ],
+  "q_en": "An article costs ₹475. If it is bought with a ₹500 note, how much money will the shopkeeper return?",
+  "q_hi": "₹475 की वस्तु ₹500 के नोट से खरीदने पर दुकानदार कितने रुपये लौटाएगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "बच्चे ने इकाई के अंकों का योग 12 लिखकर हासिल को दहाई में जोड़ने के बजाय दोनों परिणाम साथ रख दिए — यह स्थानीय मान व हासिल की अवधारणात्मक त्रुटि है, लापरवाही नहीं।",
+  "mock_q": 23,
+  "n": 323,
+  "options": [
+   "बच्चा लापरवाह है",
+   "बच्चे को हासिल (carry) की अवधारणा स्पष्ट नहीं है",
+   "बच्चे को गिनती नहीं आती",
+   "बच्चा धीमा लिखता है"
+  ],
+  "options_en": [
+   "The child is careless",
+   "The child is not clear about the concept of carry over",
+   "The child cannot count",
+   "The child writes slowly"
+  ],
+  "q_en": "A child writes 25 + 37 as 512 (placing 5 and 12 together). What is the main cause of this error?",
+  "q_hi": "एक बच्चा 25 + 37 को 512 लिख देता है (5 और 12 को साथ रखकर)। इस त्रुटि का मुख्य कारण क्या है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "9 की विभाज्यता कसौटी: अंकों का योग 9 से विभाज्य हो। 432 के अंकों का योग 4+3+2 = 9 है, अतः 432, 9 से विभाज्य है (432 ÷ 9 = 48)।",
+  "mock_q": 24,
+  "n": 324,
+  "options": [
+   "432",
+   "511",
+   "728",
+   "946"
+  ],
+  "options_en": [
+   "432",
+   "511",
+   "728",
+   "946"
+  ],
+  "q_en": "Which of the following numbers is divisible by 9?",
+  "q_hi": "निम्न में से कौन-सी संख्या 9 से विभाज्य है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "घन का आयतन = भुजा³ = 5 × 5 × 5 = 125 घन सेमी।",
+  "mock_q": 25,
+  "n": 325,
+  "options": [
+   "25 घन सेमी",
+   "125 घन सेमी",
+   "75 घन सेमी",
+   "150 घन सेमी"
+  ],
+  "options_en": [
+   "25 cubic cm",
+   "125 cubic cm",
+   "75 cubic cm",
+   "150 cubic cm"
+  ],
+  "q_en": "One edge of a cube is 5 cm. What is its volume?",
+  "q_hi": "एक घन की एक भुजा 5 सेमी है। उसका आयतन कितना होगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "त्रिभुज का क्षेत्रफल = ½ × आधार × ऊँचाई = ½ × 10 × 6 = 30 वर्ग सेमी।",
+  "mock_q": 26,
+  "n": 326,
+  "options": [
+   "60 वर्ग सेमी",
+   "16 वर्ग सेमी",
+   "40 वर्ग सेमी",
+   "30 वर्ग सेमी"
+  ],
+  "options_en": [
+   "60 sq cm",
+   "16 sq cm",
+   "40 sq cm",
+   "30 sq cm"
+  ],
+  "q_en": "The base of a triangle is 10 cm and its height is 6 cm. What is its area?",
+  "q_hi": "एक त्रिभुज का आधार 10 सेमी और ऊँचाई 6 सेमी है। उसका क्षेत्रफल कितना होगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "चित्रालेख (pictograph) में एक चित्र एक निश्चित संख्या को दर्शाता है; ऐसे दत्त-प्रबंधन से बच्चे वास्तविक दत्तों को पढ़ना-समझना सीखते हैं।",
+  "mock_q": 27,
+  "n": 327,
+  "options": [
+   "चित्रालेख (pictograph) से दत्तों को पढ़ना सिखाना",
+   "केवल सूत्र रटाना",
+   "केवल गिनती की प्रतियोगिता कराना",
+   "बोर्ड पर लिखकर सारणी नकल कराना"
+  ],
+  "options_en": [
+   "Teaching to read data from a pictograph",
+   "Only making students cram formulae",
+   "Only holding a counting competition",
+   "Making students copy a table written on the board"
+  ],
+  "q_en": "Which is the best way to introduce data handling in primary classes?",
+  "q_hi": "प्राथमिक कक्षाओं में दत्त प्रबंधन (data handling) की शुरुआत का सबसे अच्छा तरीका कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "आधा दर्जन = 6; 6 केलों का दाम 6 × 12 = ₹72।",
+  "mock_q": 28,
+  "n": 328,
+  "options": [
+   "₹24",
+   "₹36",
+   "₹60",
+   "₹72"
+  ],
+  "options_en": [
+   "₹24",
+   "₹36",
+   "₹60",
+   "₹72"
+  ],
+  "q_en": "Bananas cost ₹12 per piece. What is the cost of half a dozen bananas?",
+  "q_hi": "केले ₹12 प्रति नग मिलते हैं। आधा दर्जन केलों का दाम कितना होगा?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "1/4 को 'चौथाई' या 'पाव' कहते हैं; पूरा ÷ 4 = एक चौथाई भाग।",
+  "mock_q": 29,
+  "n": 329,
+  "options": [
+   "चौथाई (एक-चौथाई)",
+   "आधा",
+   "तीन-चौथाई",
+   "पूरा"
+  ],
+  "options_en": [
+   "One-fourth (quarter)",
+   "Half",
+   "Three-fourths",
+   "Whole"
+  ],
+  "q_en": "What is the fraction 1/4 called in common language?",
+  "q_hi": "भिन्न 1/4 को सामान्य भाषा में क्या कहते हैं?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "Maths"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "बच्चे सबसे पहले माता-पिता, भाई-बहन जैसे नातों को समझते हैं; परिवार से बच्चे को सुरक्षा, स्नेह और संस्कार मिलते हैं, इसलिए यह समाज की मूल इकाई है।",
+  "mock_q": 30,
+  "n": 330,
+  "options": [
+   "परिवार केवल खाना खाने का स्थान है",
+   "परिवार का बच्चे पर कोई प्रभाव नहीं पड़ता",
+   "परिवार केवल आर्थिक इकाई है",
+   "परिवार बच्चे की पहली पाठशाला और समाज की मूल इकाई है"
+  ],
+  "options_en": [
+   "Family is only a place to eat food",
+   "Family has no effect on the child",
+   "Family is only an economic unit",
+   "Family is the child's first school and the basic unit of society"
+  ],
+  "q_en": "Which statement about the family is correct for a primary-level child?",
+  "q_hi": "प्राथमिक स्तर के बच्चे के लिए परिवार के बारे में कौन-सा कथन सही है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "उबालने से पानी के हानिकारक कीटाणु मर जाते हैं, इसलिए उबला पानी पीना स्वास्थ्य के लिए सुरक्षित होता है।",
+  "mock_q": 31,
+  "n": 331,
+  "options": [
+   "उबालने से पानी के कीटाणु मर जाते हैं",
+   "उबालने से पानी मीठा हो जाता है",
+   "उबालने से पानी का रंग बदल जाता है",
+   "उबालने से पानी बढ़ जाता है"
+  ],
+  "options_en": [
+   "Boiling kills the germs in water",
+   "Boiling makes the water sweet",
+   "Boiling changes the colour of water",
+   "Boiling increases the quantity of water"
+  ],
+  "q_en": "Why is it safe to drink boiled water?",
+  "q_hi": "उबला हुआ पानी पीना सुरक्षित क्यों माना जाता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "बरसात के पानी को जमा करके भूजल-स्तर बढ़ाना वर्षा-जल संचयन (rainwater harvesting) कहलाता है; छत का पानी गड्ढों/कुओं में इकट्ठा किया जाता है।",
+  "mock_q": 32,
+  "n": 332,
+  "options": [
+   "पानी को बहा देना",
+   "नदी में कचरा डालना",
+   "कुएँ बंद कर देना",
+   "वर्षा-जल संचयन (रेनवाटर हार्वेस्टिंग) करना"
+  ],
+  "options_en": [
+   "Letting the water flow away",
+   "Throwing garbage into the river",
+   "Closing the wells",
+   "Rainwater harvesting"
+  ],
+  "q_en": "Which is the best method to conserve water in areas with scarce rainfall?",
+  "q_hi": "कम वर्षा वाले क्षेत्रों में जल संरक्षण का सबसे अच्छा उपाय कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "बरफ़ीले क्षेत्रों में इग्लू बर्फ़ के खंडों से बनता है; बर्फ़ अंदर की गर्मी को बाहर जाने से रोकती है, इसलिए अंदर अपेक्षाकृत गरम रहता है।",
+  "mock_q": 33,
+  "n": 333,
+  "options": [
+   "इग्लू",
+   "तंबू",
+   "बहुमंज़िला भवन",
+   "कच्चा मकान"
+  ],
+  "options_en": [
+   "Igloo",
+   "Tent",
+   "Multi-storey building",
+   "Mud house"
+  ],
+  "q_en": "Houses made of ice in snowy regions are called —",
+  "q_hi": "बर्फ़ीले प्रदेशों में बर्फ़ से बने घरों को क्या कहते हैं?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "पौधे वायुमंडल से CO₂ लेकर प्रकाश-संश्लेषण द्वारा भोजन बनाते हैं और ऑक्सीजन छोड़ते हैं — यही कारण है कि पौधे 'वायु के शोधक' कहलाते हैं।",
+  "mock_q": 34,
+  "n": 334,
+  "options": [
+   "पौधे केवल छाया देते हैं",
+   "पौधे केवल फल देते हैं",
+   "पौधे मिट्टी को बाँधे नहीं रखते",
+   "पौधे प्रकाश-संश्लेषण में कार्बन डाइऑक्साइड लेकर ऑक्सीजन छोड़ते हैं"
+  ],
+  "options_en": [
+   "Plants only give shade",
+   "Plants only give fruits",
+   "Plants do not hold the soil",
+   "Plants take in carbon dioxide and release oxygen during photosynthesis"
+  ],
+  "q_en": "Why are plants called the purifiers of air?",
+  "q_hi": "पौधों को 'वायु के शोधक' क्यों कहा जाता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "कुत्ते की सूँघने की शक्ति अत्यंत तीव्र होती है; इसी 'सुपर सेंस' से कुत्ता दूर से ही व्यक्तियों व वस्तुओं की गंध पहचान लेता है।",
+  "mock_q": 35,
+  "n": 335,
+  "options": [
+   "गंध पहचानने की (सूँघने की)",
+   "देखने की",
+   "सुनने की",
+   "स्वाद की"
+  ],
+  "options_en": [
+   "Of smell",
+   "Of sight",
+   "Of hearing",
+   "Of taste"
+  ],
+  "q_en": "A dog can recognize its owner from a distance. Which of its senses is most developed for this?",
+  "q_hi": "कुत्ता अपने मालिक को दूर से पहचान लेता है। उसकी कौन-सी इंद्रिय इसके लिए सबसे अधिक विकसित होती है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "रेल यात्रा के दौरान टिकट जाँचने वाला कर्मचारी TTE (यात्रा टिकट परीक्षक) कहलाता है; ड्राइवर को लोको पायलट कहते हैं।",
+  "mock_q": 36,
+  "n": 336,
+  "options": [
+   "लोको पायलट",
+   "स्टेशन मास्टर",
+   "गार्ड",
+   "टी.टी.ई. (टिकट परीक्षक)"
+  ],
+  "options_en": [
+   "Loco pilot",
+   "Station master",
+   "Guard",
+   "T.T.E. (ticket examiner)"
+  ],
+  "q_en": "During a train journey, the person who checks the tickets of passengers is called —",
+  "q_hi": "रेल यात्रा के दौरान यात्रियों के टिकट जाँचने वाले कर्मचारी को क्या कहते हैं?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "फेंके गए प्लास्टिक व रसायनों से जलाशय प्रदूषित होते हैं; कारखानों का अपशिष्ट बिना शोधन नदी में छोड़ना जल प्रदूषण का प्रमुख कारण है।",
+  "mock_q": 37,
+  "n": 337,
+  "options": [
+   "नदी किनारे पेड़ लगाना",
+   "कारखानों का गंदा पानी बिना शोधन नदी में बहाना",
+   "वर्षा का होना",
+   "मछलियों का नदी में रहना"
+  ],
+  "options_en": [
+   "Planting trees on the river bank",
+   "Releasing factory waste water into the river without treatment",
+   "Occurrence of rain",
+   "Fish living in the river"
+  ],
+  "q_en": "Which is the main cause of water pollution?",
+  "q_hi": "जल प्रदूषण का प्रमुख कारण कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "क्षेत्र-भ्रमण से बच्चे अवलोकन, प्रश्न पूछने और दत्त संकलन जैसे कौशल सीखते हैं; यह अनुभवात्मक अधिगम है, केवल मनोरंजन नहीं।",
+  "mock_q": 38,
+  "n": 338,
+  "options": [
+   "बच्चों का मनोरंजन करना",
+   "कक्षा से बाहर समय बिताना",
+   "पाठ्यपुस्तक का पाठ पूरा करना",
+   "बच्चों में अवलोकन व खोज के कौशल विकसित करना"
+  ],
+  "options_en": [
+   "To entertain the children",
+   "To spend time outside the classroom",
+   "To finish the textbook lesson",
+   "To develop observation and inquiry skills in children"
+  ],
+  "q_en": "What is the main purpose of taking children on a field trip in EVS teaching?",
+  "q_hi": "पर्यावरण अध्ययन (EVS) में बच्चों को क्षेत्र-भ्रमण (field trip) पर ले जाने का मुख्य उद्देश्य क्या है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "पर्यावरण अध्ययन प्राथमिक स्तर पर अलग-अलग विषयों का संग्रह नहीं, एकीकृत (integrated) रूप में पढ़ाया जाता है — बच्चे का परिवेश ही अध्ययन का आधार है।",
+  "mock_q": 39,
+  "n": 339,
+  "options": [
+   "पर्यावरण अध्ययन एकीकृत रूप में, बच्चे के परिवेश से जोड़कर पढ़ाया जाए",
+   "पहले केवल विज्ञान, फिर केवल सामाजिक विज्ञान पढ़ाया जाए",
+   "केवल पाठ्यपुस्तक के प्रश्न रटाए जाएँ",
+   "प्रयोगशाला में ही पढ़ाया जाए"
+  ],
+  "options_en": [
+   "EVS should be taught in an integrated manner, connected with the child's surroundings",
+   "First only science, then only social science should be taught",
+   "Only the textbook questions should be memorised",
+   "It should be taught only in the laboratory"
+  ],
+  "q_en": "According to NCF 2005, how should EVS be taught at the primary stage?",
+  "q_hi": "NCF 2005 के अनुसार प्राथमिक स्तर पर पर्यावरण अध्ययन कैसे पढ़ाया जाना चाहिए?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "खाद्य शृंखला में ऊर्जा उत्पादक (पौधे) से उपभोक्ताओं की ओर बहती है — घास → टिड्डा → मेंढक → साँप सही क्रम है।",
+  "mock_q": 40,
+  "n": 340,
+  "options": [
+   "साँप → मेंढक → टिड्डा → घास",
+   "मेंढक → साँप → घास → टिड्डा",
+   "टिड्डा → घास → साँप → मेंढक",
+   "घास → टिड्डा → मेंढक → साँप"
+  ],
+  "options_en": [
+   "Snake → Frog → Grasshopper → Grass",
+   "Frog → Snake → Grass → Grasshopper",
+   "Grasshopper → Grass → Snake → Frog",
+   "Grass → Grasshopper → Frog → Snake"
+  ],
+  "q_en": "Which is the correct order of a food chain?",
+  "q_hi": "खाद्य शृंखला का सही क्रम कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "प्रशांत महासागर पृथ्वी का सबसे बड़ा और गहरा महासागर है; यह पृथ्वी के लगभग एक-तिहाई भाग को घेरता है।",
+  "mock_q": 41,
+  "n": 341,
+  "options": [
+   "प्रशांत महासागर",
+   "अटलांटिक महासागर",
+   "हिंद महासागर",
+   "आर्कटिक महासागर"
+  ],
+  "options_en": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Arctic Ocean"
+  ],
+  "q_en": "Which is the largest ocean on the Earth?",
+  "q_hi": "पृथ्वी पर सबसे बड़ा महासागर कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "पोंगल तमिलनाडु में फसल कटाई पर मनाया जाने वाला त्योहार है; यह सूर्य देव को धन्यवाद देने के लिए मनाया जाता है।",
+  "mock_q": 42,
+  "n": 342,
+  "options": [
+   "पंजाब",
+   "तमिलनाडु",
+   "बिहार",
+   "राजस्थान"
+  ],
+  "options_en": [
+   "Punjab",
+   "Tamil Nadu",
+   "Bihar",
+   "Rajasthan"
+  ],
+  "q_en": "The harvest festival 'Pongal' is mainly celebrated in which state?",
+  "q_hi": "फसल का त्योहार 'पोंगल' मुख्यतः किस राज्य में मनाया जाता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "किसान बीज बोने से पहले खेत की मिट्टी को हल से जोतकर नरम और भुरभुरी बनाता है, जिससे बीजों को हवा-पानी मिलता है।",
+  "mock_q": 43,
+  "n": 343,
+  "options": [
+   "कटाई करना",
+   "सिंचाई करना",
+   "निराई करना",
+   "जुताई करना"
+  ],
+  "options_en": [
+   "Harvesting",
+   "Irrigation",
+   "Weeding",
+   "Ploughing"
+  ],
+  "q_en": "Before sowing seeds, a farmer loosens the soil of the field with a plough. What is this process called?",
+  "q_hi": "बीज बोने से पहले किसान खेत की मिट्टी को हल से ढीला करता है। इस प्रक्रिया को क्या कहते हैं?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "गंदगी और दूषित पानी से मच्छर व कीटाणु पनपते हैं, जिनसे मलेरिया, डेंगू व हैजा जैसी बीमारियाँ फैलती हैं — स्वच्छता ही बचाव है।",
+  "mock_q": 44,
+  "n": 344,
+  "options": [
+   "आस-पास गंदगी व जमा पानी होने से मच्छर और कीटाणु पनपते हैं",
+   "बारिश होने से",
+   "ठंड बढ़ने से",
+   "पेड़ लगाने से"
+  ],
+  "options_en": [
+   "Dirt and stagnant water around breed mosquitoes and germs",
+   "Due to rain",
+   "Due to increase in cold",
+   "Due to planting trees"
+  ],
+  "q_en": "Why do diseases spread more in the rainy season?",
+  "q_hi": "वर्षा ऋतु में बीमारियाँ अधिक क्यों फैलती हैं?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (syllabus-based)",
+  "subject": "EVS"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'ऊँट के मुँह में जीरा' का प्रयोग तब होता है जब बड़ी आवश्यकता की तुलना में उपलब्ध मात्रा बहुत ही कम हो।",
+  "mock_q": 45,
+  "n": 345,
+  "options": [
+   "जब कोई वस्तु बहुत स्वादिष्ट हो",
+   "जब कोई बहुत तेज़ दौड़े",
+   "जब किसी का झूठ पकड़ा जाए",
+   "जब बड़ी आवश्यकता के सामने बहुत थोड़ी चीज़ मिले"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "'ऊँट के मुँह में जीरा' मुहावरे का प्रयोग किस स्थिति के लिए होता है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "'नदी' के पर्यायवाची शब्द हैं — सरिता, तटिनी, तरंगिणी। 'पर्वत' इसका पर्याय नहीं है।",
+  "mock_q": 46,
+  "n": 346,
+  "options": [
+   "पर्वत",
+   "सरिता",
+   "तटिनी",
+   "तरंगिणी"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "निम्नलिखित में से 'नदी' का पर्यायवाची शब्द कौन-सा नहीं है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ },
+ {
+  "answer": 3,
+  "exp_hi": "'उत्तम' का विलोम 'अधम' होता है; 'श्रेष्ठ' इसका पर्याय है, 'मध्यम' बीच की स्थिति है।",
+  "mock_q": 47,
+  "n": 347,
+  "options": [
+   "श्रेष्ठ",
+   "मध्यम",
+   "सर्वोत्तम",
+   "अधम"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "'उत्तम' शब्द का सही विलोम शब्द कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ },
+ {
+  "answer": 0,
+  "exp_hi": "विद्या + आलय = विद्यालय; 'आ + आ = आ' होने से यह दीर्घ संधि का उदाहरण है।",
+  "mock_q": 48,
+  "n": 348,
+  "options": [
+   "दीर्घ संधि",
+   "गुण संधि",
+   "वृद्धि संधि",
+   "यण संधि"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "'विद्यालय' शब्द में कौन-सी संधि है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ },
+ {
+  "answer": 2,
+  "exp_hi": "पठन-शिक्षण में पहले ध्वनियों व अक्षरों की पहचान कराकर फिर शब्द-वाक्य पढ़ाना ध्वनि-विधि (phonics) का क्रम है; अर्थपूर्ण संदर्भ से पठन रुचिकर बनता है।",
+  "mock_q": 49,
+  "n": 349,
+  "options": [
+   "केवल बार-बार नकल लिखवाना",
+   "केवल ज़ोर से पढ़वाकर त्रुटि पर डाँटना",
+   "अक्षर-ध्वनि पहचान से शुरू कर अर्थपूर्ण पाठ की ओर बढ़ना",
+   "सीधे कठिन गद्य पढ़ने को देना"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "प्राथमिक स्तर पर पठन कौशल विकसित करने का सबसे उपयुक्त क्रम कौन-सा है?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ },
+ {
+  "answer": 1,
+  "exp_hi": "लेखन से पहले उँगलियों के सूक्ष्म पेशी-नियंत्रण (fine motor) के लिए रेखा खींचना, मिट्टी-खेल आदि गतिविधियाँ कराना उपयुक्त है, सीधे अक्षर नहीं लिखवाना चाहिए।",
+  "mock_q": 50,
+  "n": 350,
+  "options": [
+   "पहले दिन से पूरे वाक्य लिखवाना",
+   "रेखाएँ, आकृतियाँ व मिट्टी-खेल जैसी गतिविधियों से उँगलियों का नियंत्रण विकसित करना",
+   "केवल श्रुतलेख कराना",
+   "सुंदर लेख की प्रतियोगिता कराना"
+  ],
+  "options_en": [],
+  "q_en": "",
+  "q_hi": "प्राथमिक स्तर पर लेखन कौशल की शुरुआत कैसे करनी चाहिए?",
+  "source": "Authored — CTET Paper 1 PYQ-pattern (Hindi pedagogy, syllabus-based)",
+  "subject": "Hindi"
+ }
+]
