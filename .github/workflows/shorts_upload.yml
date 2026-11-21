@@ -37,7 +37,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra > /dev/null
           pip install --quiet edge-tts pillow google-api-python-client google-auth google-genai
-      - name: Short banao (Swara, bina music)
+      - name: Short banao (script ki voice — Leda primary / Swara, bina music)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
