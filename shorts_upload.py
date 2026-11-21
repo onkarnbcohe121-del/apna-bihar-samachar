@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Generic News/Info Short maker — scenes-JSON driven, Swara awaaz, BINA MUSIC.
+"""Generic News/Info Short maker — scenes-JSON driven, script ke "voice" field ke anusaar awaaz, BINA MUSIC.
 
 Roz-10 Shorts ke asal upload pipeline ka maker. Input ek taiyaar script JSON:
   { "series": "...", "voice": "Swara", "music": "none",
@@ -20,9 +20,14 @@ Output (out_dir, default: shorts_out):
   thumb.png  — pehli slide (thumbnail ke liye)
   slides/    — har scene ki PNG (--slides-only me bhi banti hai)
 
-Awaaz: Edge TTS Swara, UNIVERSAL setting rate +8% / pitch -8Hz (user ka pakka
-niyam, 10 Nov 2026). Narration prepare_tts_text (hindi_pronunciation) se
-guzarti hai — saal shabdon me, dictionary wale ucharan. MUSIC BILKUL NAHI.
+Awaaz: script JSON ke "voice" field se tay hoti hai —
+  "Leda"  -> Live API (live_tts) primary; fail ho to POORA Short Edge TTS
+             Swara backup se (probe-first, ek video = ek hi route).
+  "Swara" ya field na ho -> Edge TTS Swara, UNIVERSAL setting rate +8% /
+             pitch -8Hz (user ka pakka niyam, 10 Nov 2026) — purane
+             scripts ka vyavhaar bilkul pehle jaisa.
+Narration prepare_tts_text (hindi_pronunciation) se guzarti hai — saal
+shabdon me, dictionary wale ucharan. MUSIC BILKUL NAHI.
 Koi intro nahi — pehli slide seedha khabar/headline se shuru hoti hai.
 """
 import asyncio
@@ -68,6 +73,7 @@ except Exception:
 
 LIVE_VOICE_NAME = "Leda"
 _ROUTE = {"mode": None}
+_VOICE_WANT = {"voice": "Swara"}  # build() script ke "voice" field se set karta hai
 
 
 def _tts_chunks(text, limit=1000):
@@ -113,7 +119,7 @@ def _live_synth(text, out):
         raise RuntimeError("Live-Leda output khaali hai")
 
 def narrate(text, out_path):
-    if _ROUTE["mode"] != "swara":
+    if _VOICE_WANT["voice"] == "Leda" and _ROUTE["mode"] != "swara":
         try:
             _live_synth(text, out_path)
             _ROUTE["mode"] = "live"
@@ -262,9 +268,15 @@ def build(script_path, out_dir, slides_only=False):
             print(f"WARNING: Scene {i + 1} me {len(s['points'])} points hain — "
                   f"pehle {MAX_POINTS} hi slide par aayenge (niyam: max {MAX_POINTS}).")
 
-    if (script.get("voice") or "Swara") != "Swara":
-        print(f"WARNING: JSON voice = {script.get('voice')!r} — Shorts me awaaz "
-              "SIRF Swara hoti hai, Swara hi use hogi.")
+    _want = (script.get("voice") or "Swara").strip()
+    if _want not in ("Leda", "Swara"):
+        print(f"WARNING: JSON voice = {_want!r} samajh nahi aaya — Swara (default) use hogi.")
+        _want = "Swara"
+    _VOICE_WANT["voice"] = _want
+    _ROUTE["mode"] = None if _want == "Leda" else "swara"
+    print("Awaaz (script voice field): " + _want +
+          (" — Live-Leda primary, fail ho to poora Short Swara backup se" if _want == "Leda"
+           else " — Edge TTS Swara +8%/-8Hz"))
     if (script.get("music") or "none") != "none":
         print("WARNING: JSON me music manga gaya hai — Shorts BINA MUSIC ke "
               "bante hain, music NAHI lagega.")
@@ -335,7 +347,8 @@ def build(script_path, out_dir, slides_only=False):
     r = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
                         "format=duration", "-of", "csv=p=0", out_mp4],
                        capture_output=True, text=True)
-    print("OK", out_mp4, "duration", r.stdout.strip(), "s — MUSIC: none, VOICE: Swara +8%/-8Hz")
+    print("OK", out_mp4, "duration", r.stdout.strip(), "s — MUSIC: none, VOICE:",
+          "Live-Leda" if _ROUTE["mode"] == "live" else "Swara +8%/-8Hz")
 
 
 def main():
