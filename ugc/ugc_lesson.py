@@ -515,11 +515,91 @@ def scene_frames(lesson, sc, idx, total, hand):
     return frames
 
 
+
+def _split_title_topics(title):
+    """'Main — t1, t2, ... aur tN' ko (main, [topics]) me todo.
+    Aisi list na mile to (title, []) — purana fit-wala rasta chalega."""
+    if " — " not in title:
+        return title, []
+    main, rest = title.split(" — ", 1)
+    topics = []
+    for part in rest.split(","):
+        for t in part.split(" और "):
+            t = t.strip(" ,")
+            if t:
+                topics.append(t)
+    if len(topics) < 3:
+        return title, []
+    return main.strip(), topics
+
+
+def _draw_point(d, x, y, text, size):
+    """Laal bullet gola + point ka text; text ka antim x lautata hai."""
+    gy = y + int(size * 0.36)
+    d.ellipse([x, gy, x + 11, gy + 11], fill=RED)
+    return V.draw_mixed(d, x + 24, y, text, size, True, INK)
+
+
+def _intro_frames_points(lesson, hand, probe, main, topics):
+    """Title bada, neeche vishay POINTS (bullet) me — user ka nirdesh
+    (23 Nov 2026): lambi topic-list paragraph ki jagah points me dikhe."""
+    size = 52
+    while True:
+        tlines = layout_words(probe, main, size, True, 1120)
+        line_h = int(size * 1.30)
+        if len(tlines) <= 2 or size <= 34:
+            break
+        size -= 4
+    tw = total_words(tlines)
+    part = max(1, int(round(tw * 0.45))) if tw > 1 else tw
+    xs = [(W - line_width(probe, l, size)) / 2 for l in tlines]
+    title_top = 292
+    title_bot = title_top + len(tlines) * line_h
+    sub_y = title_bot + 10
+    cols = 3 if len(topics) > 8 else 2
+    col_w = (W - 160) // cols
+    psize = 30
+    while psize > 24 and max(V.text_w(probe, t, psize, True) for t in topics) > col_w - 34:
+        psize -= 2
+    row_h = 46
+    pts_top = sub_y + 58
+    half = (len(topics) + 1) // 2
+    frames = []
+    for step in range(3):
+        img, d = wb_base(lesson)
+        V.center(d, "अपना बिहार समाचार Live", 108, 52, True, BLUE)
+        V.center(d, lesson.get("series", "UGC NET"), 182, 32, True, GREEN)
+        V.center(d, lesson.get("class_label", ""), 238, 36, True, INK)
+        upto = (part, tw, tw)[step]
+        frontier = draw_partial(d, xs, title_top, tlines, size, upto, INK, line_h=line_h)
+        if upto >= tw:
+            last_y = title_top + (len(tlines) - 1) * line_h
+            wobble_line(d, xs[-1], xs[-1] + line_width(d, tlines[-1], size),
+                        last_y + size + 8, seed=11)
+        n_show = (0, half, len(topics))[step]
+        for j in range(n_show):
+            r, c = divmod(j, cols)
+            x = 80 + c * col_w
+            y = pts_top + r * row_h
+            ex = _draw_point(d, x, y, topics[j], psize)
+            frontier = (ex, y + psize)
+        if step == 2:
+            sub = f"{lesson.get('chapter_no','')} | आसान भाषा में, पूरी तैयारी"
+            V.center(d, sub, sub_y, 26, False, GRAY)
+        else:
+            paste_hand(img, hand, frontier)
+        frames.append((img, (0.30, 0.30, 0.40)[step]))
+    return frames
+
+
 # ---------------- Intro / Revision (whiteboard) ----------------
 def intro_frames(lesson, hand):
     """2 reveal steps (title aadha, phir pura) + hold. Weights 30/30/40."""
     probe = ImageDraw.Draw(Image.new("RGB", (W, H)))
     title = lesson.get("chapter_title", "")
+    _main, _topics = _split_title_topics(title)
+    if _topics:
+        return _intro_frames_points(lesson, hand, probe, _main, _topics)
     # FIT (23 Nov 2026): lamba chapter_title fixed 56px par frame se bahar kat
     # jata tha (UGC P1 Unit 6 Part 2) — size tab tak ghatao jab tak poora
     # title block (neeche wali sub-line samet) board ke andar na aa jaye.
