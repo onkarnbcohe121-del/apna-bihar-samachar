@@ -520,24 +520,33 @@ def intro_frames(lesson, hand):
     """2 reveal steps (title aadha, phir pura) + hold. Weights 30/30/40."""
     probe = ImageDraw.Draw(Image.new("RGB", (W, H)))
     title = lesson.get("chapter_title", "")
-    tlines = layout_words(probe, title, 56, True, 1060)
+    # FIT (23 Nov 2026): lamba chapter_title fixed 56px par frame se bahar kat
+    # jata tha (UGC P1 Unit 6 Part 2) — size tab tak ghatao jab tak poora
+    # title block (neeche wali sub-line samet) board ke andar na aa jaye.
+    size = 56
+    while True:
+        tlines = layout_words(probe, title, size, True, 1060)
+        line_h = max(30, int(size * 1.36))
+        if 330 + len(tlines) * line_h + 54 <= H - 16 or size <= 26:
+            break
+        size -= 4
     tw = total_words(tlines)
     part = max(1, int(round(tw * 0.45))) if tw > 1 else tw
-    xs = [(W - line_width(probe, l, 56)) / 2 for l in tlines]
+    xs = [(W - line_width(probe, l, size)) / 2 for l in tlines]
     frames = []
     for step, upto in enumerate((part, tw, tw)):
         img, d = wb_base(lesson)
         V.center(d, "अपना बिहार समाचार Live", 108, 52, True, BLUE)
         V.center(d, lesson.get("series", "UGC NET"), 182, 32, True, GREEN)
         V.center(d, lesson.get("class_label", ""), 238, 36, True, INK)
-        frontier = draw_partial(d, xs, 330, tlines, 56, upto, INK, line_h=76)
+        frontier = draw_partial(d, xs, 330, tlines, size, upto, INK, line_h=line_h)
         if upto >= tw:
-            last_y = 330 + (len(tlines) - 1) * 76
-            wobble_line(d, xs[-1], xs[-1] + line_width(d, tlines[-1], 56),
-                        last_y + 56 + 8, seed=11)
+            last_y = 330 + (len(tlines) - 1) * line_h
+            wobble_line(d, xs[-1], xs[-1] + line_width(d, tlines[-1], size),
+                        last_y + size + 8, seed=11)
         if step == 2:
             sub = f"{lesson.get('chapter_no','')} | आसान भाषा में, पूरी तैयारी"
-            V.center(d, sub, 330 + len(tlines) * 76 + 34, 30, False, GRAY)
+            V.center(d, sub, 330 + len(tlines) * line_h + 34, 30, False, GRAY)
         else:
             paste_hand(img, hand, frontier)
         frames.append((img, (0.30, 0.30, 0.40)[step]))
