@@ -1,0 +1,556 @@
+{
+ "mock_no": 21,
+ "subject": "BLIS",
+ "questions": [
+  {
+   "q": "पी. वी. वर्गीस पुरस्कार ILA द्वारा किस लिए दिया जाता है? / P. V. Verghese Award is given by ILA for —",
+   "options": {
+    "A": "सर्वश्रेष्ठ पुस्तकालय / Best Library",
+    "B": "सर्वश्रेष्ठ सेवा / Best Service",
+    "C": "सर्वश्रेष्ठ पुस्तक / Best Book",
+    "D": "सर्वश्रेष्ठ लेख / Best Article"
+   },
+   "answer": "D",
+   "explanation": "पी. वी. वर्गीस पुरस्कार Journal of ILA (JILA) में प्रकाशित सर्वश्रेष्ठ लेख के लेखक को दिया जाता है।"
+  },
+  {
+   "q": "पी. वी. वर्गीस पुरस्कार किस संस्था द्वारा दिया जाता है? / P. V. Verghese Prize is awarded by —",
+   "options": {
+    "A": "IFLA",
+    "B": "ALA",
+    "C": "ILA",
+    "D": "IASLIC"
+   },
+   "answer": "C",
+   "explanation": "यह पुरस्कार Indian Library Association (ILA) द्वारा दिया जाता है।"
+  },
+  {
+   "q": "RUSA का पूरा नाम क्या है? / What is the full form of RUSA?",
+   "options": {
+    "A": "Research and University Services Association",
+    "B": "Regional University Library Services Association",
+    "C": "Reference and University Studies Association",
+    "D": "Reference and User Services Association"
+   },
+   "answer": "D",
+   "explanation": "RUSA = Reference and User Services Association, यह ALA का एक division है।"
+  },
+  {
+   "q": "RUSA किस अंतरराष्ट्रीय संघ का एक division है? / RUSA is a division of —",
+   "options": {
+    "A": "LA (UK)",
+    "B": "SLA",
+    "C": "IFLA",
+    "D": "ALA"
+   },
+   "answer": "D",
+   "explanation": "RUSA, American Library Association (ALA) का division है।"
+  },
+  {
+   "q": "ILA का मुख्यालय कहाँ है? / Where is the headquarters of ILA?",
+   "options": {
+    "A": "कोलकाता / Kolkata",
+    "B": "मुंबई / Mumbai",
+    "C": "नई दिल्ली / New Delhi",
+    "D": "चेन्नई / Chennai"
+   },
+   "answer": "C",
+   "explanation": "Indian Library Association (1933) का मुख्यालय नई दिल्ली में है।"
+  },
+  {
+   "q": "IASLIC की स्थापना कब हुई? / When was IASLIC established?",
+   "options": {
+    "A": "1933",
+    "B": "1949",
+    "C": "1955",
+    "D": "1962"
+   },
+   "answer": "C",
+   "explanation": "IASLIC (Indian Association of Special Libraries and Information Centres) की स्थापना 1955 में कोलकाता में हुई।"
+  },
+  {
+   "q": "IASLIC का मुख्यालय कहाँ है? / Where is the headquarters of IASLIC?",
+   "options": {
+    "A": "हैदराबाद / Hyderabad",
+    "B": "बेंगलुरु / Bengaluru",
+    "C": "दिल्ली / Delhi",
+    "D": "कोलकाता / Kolkata"
+   },
+   "answer": "D",
+   "explanation": "IASLIC का मुख्यालय कोलकाता में है।"
+  },
+  {
+   "q": "IASLIC की प्रमुख पत्रिका कौन-सी है? / Which is the main journal of IASLIC?",
+   "options": {
+    "A": "Library Herald",
+    "B": "Granthalaya",
+    "C": "ILA Bulletin",
+    "D": "IASLIC Bulletin"
+   },
+   "answer": "D",
+   "explanation": "IASLIC Bulletin, IASLIC की प्रमुख पत्रिका है।"
+  },
+  {
+   "q": "ALA (American Library Association) की स्थापना कहाँ हुई थी? / Where was ALA founded?",
+   "options": {
+    "A": "न्यूयॉर्क / New York",
+    "B": "शिकागो / Chicago",
+    "C": "फ़िलाडेल्फ़िया / Philadelphia",
+    "D": "बोस्टन / Boston"
+   },
+   "answer": "C",
+   "explanation": "ALA की स्थापना 1876 में फ़िलाडेल्फ़िया में हुई थी; इसका मुख्यालय शिकागो में है।"
+  },
+  {
+   "q": "SLA (Special Libraries Association) की स्थापना कब हुई? / When was SLA established?",
+   "options": {
+    "A": "1876",
+    "B": "1877",
+    "C": "1909",
+    "D": "1927"
+   },
+   "answer": "C",
+   "explanation": "Special Libraries Association (SLA) की स्थापना 1909 में हुई; जॉन कॉटन डाना इसके प्रथम अध्यक्ष थे।"
+  },
+  {
+   "q": "IFLA की स्थापना कब और कहाँ हुई? / When and where was IFLA established?",
+   "options": {
+    "A": "1927, एडिनबर्ग / 1927, Edinburgh",
+    "B": "1933, कोलकाता / 1933, Kolkata",
+    "C": "1876, फ़िलाडेल्फ़िया / 1876, Philadelphia",
+    "D": "1946, पेरिस / 1946, Paris"
+   },
+   "answer": "A",
+   "explanation": "IFLA की स्थापना 1927 में एडिनबर्ग (स्कॉटलैंड) में हुई थी।"
+  },
+  {
+   "q": "IFLA का मुख्यालय कहाँ है? / Where is the headquarters of IFLA?",
+   "options": {
+    "A": "लंदन / London",
+    "B": "पेरिस / Paris",
+    "C": "द हेग, नीदरलैंड / The Hague, Netherlands",
+    "D": "न्यूयॉर्क / New York"
+   },
+   "answer": "C",
+   "explanation": "IFLA का मुख्यालय द हेग (नीदरलैंड) में है।"
+  },
+  {
+   "q": "IFLA का पूरा नाम क्या है? / What is the full form of IFLA?",
+   "options": {
+    "A": "International Federation of Library Associations and Institutions",
+    "B": "International Federation of Libraries and Archives",
+    "C": "Indian Federation of Library Associations",
+    "D": "International Forum of Library Associations"
+   },
+   "answer": "A",
+   "explanation": "IFLA = International Federation of Library Associations and Institutions."
+  },
+  {
+   "q": "IFLA WLIC 2025 कहाँ आयोजित हुआ? / Where was IFLA WLIC 2025 held?",
+   "options": {
+    "A": "रॉटरडैम / Rotterdam",
+    "B": "केप टाउन / Cape Town",
+    "C": "दुबई / Dubai",
+    "D": "अस्ताना, कज़ाख़स्तान / Astana, Kazakhstan"
+   },
+   "answer": "D",
+   "explanation": "IFLA World Library and Information Congress 2025 अस्ताना, कज़ाख़स्तान में आयोजित हुआ।"
+  },
+  {
+   "q": "WLIC का पूरा नाम क्या है? / What is the full form of WLIC?",
+   "options": {
+    "A": "World Library and Information Congress",
+    "B": "World Library and Information Conference",
+    "C": "World Librarians International Congress",
+    "D": "World Library Information Centre"
+   },
+   "answer": "A",
+   "explanation": "WLIC = World Library and Information Congress, IFLA का वार्षिक सम्मेलन है।"
+  },
+  {
+   "q": "बिहार राज्य ग्रंथालय संघ की स्थापना कब हुई? / When was Bihar Rajya Granthalaya Sangha established?",
+   "options": {
+    "A": "1928",
+    "B": "1933",
+    "C": "1936",
+    "D": "1945"
+   },
+   "answer": "C",
+   "explanation": "बिहार राज्य ग्रंथालय संघ की स्थापना 1936 में हुई थी।"
+  },
+  {
+   "q": "LA (Library Association, UK) की स्थापना कब हुई? / When was the Library Association (UK) established?",
+   "options": {
+    "A": "1909",
+    "B": "1927",
+    "C": "1876",
+    "D": "1877"
+   },
+   "answer": "D",
+   "explanation": "ब्रिटेन के Library Association की स्थापना 1877 में हुई।"
+  },
+  {
+   "q": "ALA का मुख्यालय कहाँ है? / Where is the headquarters of ALA?",
+   "options": {
+    "A": "न्यूयॉर्क / New York",
+    "B": "वाशिंगटन / Washington",
+    "C": "शिकागो / Chicago",
+    "D": "बोस्टन / Boston"
+   },
+   "answer": "C",
+   "explanation": "American Library Association का मुख्यालय शिकागो में है।"
+  },
+  {
+   "q": "DELNET के संस्थापक कौन थे? / Who was the founder of DELNET?",
+   "options": {
+    "A": "पी. एन. कौला / P. N. Kaula",
+    "B": "एम. ए. गोपीनाथ / M. A. Gopinath",
+    "C": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "D": "एच. के. कौल / H. K. Kaul"
+   },
+   "answer": "D",
+   "explanation": "DELNET के संस्थापक डॉ. एच. के. कौल थे।"
+  },
+  {
+   "q": "DELNET का पूरा नाम क्या है? / What is the full form of DELNET?",
+   "options": {
+    "A": "Digital Library Network",
+    "B": "Distance Library Network",
+    "C": "Delhi Library Network",
+    "D": "Developing Library Network"
+   },
+   "answer": "D",
+   "explanation": "DELNET का पूरा नाम Developing Library Network है; प्रारंभ में यह Delhi Library Network के नाम से शुरू हुआ था।"
+  },
+  {
+   "q": "DELNET का मुख्यालय कहाँ है? / Where is the headquarters of DELNET?",
+   "options": {
+    "A": "कोलकाता / Kolkata",
+    "B": "मुंबई / Mumbai",
+    "C": "नई दिल्ली / New Delhi",
+    "D": "चेन्नई / Chennai"
+   },
+   "answer": "C",
+   "explanation": "DELNET का मुख्यालय नई दिल्ली में स्थित है।"
+  },
+  {
+   "q": "MEDLARS का पूरा नाम क्या है? / What is the full form of MEDLARS?",
+   "options": {
+    "A": "Medical Literature Analysis and Retrieval System",
+    "B": "Medical Library Automation and Research System",
+    "C": "Medical Literature Archive and Reference Service",
+    "D": "Medicine Literature Analysis and Research System"
+   },
+   "answer": "A",
+   "explanation": "MEDLARS = Medical Literature Analysis and Retrieval System."
+  },
+  {
+   "q": "MEDLARS किस संस्था की सेवा है? / MEDLARS is a service of —",
+   "options": {
+    "A": "British Library",
+    "B": "INFLIBNET",
+    "C": "WHO",
+    "D": "National Library of Medicine, USA"
+   },
+   "answer": "D",
+   "explanation": "MEDLARS अमेरिका की National Library of Medicine (NLM) की सेवा है।"
+  },
+  {
+   "q": "MEDLARS सेवा कब प्रारंभ हुई? / When was MEDLARS started?",
+   "options": {
+    "A": "1955",
+    "B": "1960",
+    "C": "1964",
+    "D": "1971"
+   },
+   "answer": "C",
+   "explanation": "MEDLARS 1964 में प्रारंभ हुआ।"
+  },
+  {
+   "q": "MEDLINE क्या है? / What is MEDLINE?",
+   "options": {
+    "A": "MEDLARS का ऑनलाइन संस्करण / Online version of MEDLARS",
+    "B": "एक मुद्रित अनुक्रमणिका / A print index",
+    "C": "एक पुस्तकालय सॉफ़्टवेयर / A library software",
+    "D": "एक चिकित्सा पत्रिका / A medical journal"
+   },
+   "answer": "A",
+   "explanation": "MEDLINE, MEDLARS का ऑनलाइन संस्करण है, जो 1971 में प्रारंभ हुआ।"
+  },
+  {
+   "q": "National Library of Medicine (USA) की स्थापना कब हुई, जो विश्व की सबसे बड़ी चिकित्सा लाइब्रेरी है? / When was the National Library of Medicine (USA), the world's largest medical library, established?",
+   "options": {
+    "A": "1836",
+    "B": "1876",
+    "C": "1910",
+    "D": "1956"
+   },
+   "answer": "A",
+   "explanation": "National Library of Medicine की स्थापना 1836 में हुई थी।"
+  },
+  {
+   "q": "Dublin Core Metadata की शुरुआत कब हुई? / When was Dublin Core Metadata initiated?",
+   "options": {
+    "A": "1985",
+    "B": "1990",
+    "C": "1995",
+    "D": "2001"
+   },
+   "answer": "C",
+   "explanation": "Dublin Core की शुरुआत 1995 में हुई।"
+  },
+  {
+   "q": "Dublin Core में कुल कितने तत्व (elements) हैं? / How many elements are there in Dublin Core?",
+   "options": {
+    "A": "10",
+    "B": "12",
+    "C": "15",
+    "D": "20"
+   },
+   "answer": "C",
+   "explanation": "Dublin Core Metadata Element Set में कुल 15 तत्व हैं।"
+  },
+  {
+   "q": "Dublin Core से संबंधित प्रसिद्ध workshop कहाँ हुआ था? / Where was the famous Dublin Core workshop held?",
+   "options": {
+    "A": "डबलिन, आयरलैंड / Dublin, Ireland",
+    "B": "डबलिन, ओहायो (USA) / Dublin, Ohio (USA)",
+    "C": "लंदन / London",
+    "D": "पेरिस / Paris"
+   },
+   "answer": "B",
+   "explanation": "1995 का OCLC/NCSA Metadata Workshop डबलिन, ओहायो (अमेरिका) में हुआ, वहीं से इसका नाम 'Dublin Core' पड़ा।"
+  },
+  {
+   "q": "DCMI का पूरा नाम क्या है? / What is the full form of DCMI?",
+   "options": {
+    "A": "Dublin Core Metadata Initiative",
+    "B": "Digital Core Metadata Institute",
+    "C": "Dublin Central Metadata Index",
+    "D": "Document Core Metadata Initiative"
+   },
+   "answer": "A",
+   "explanation": "DCMI = Dublin Core Metadata Initiative."
+  },
+  {
+   "q": "ILSA (Indian Library Science Abstracts) का प्रकाशन कौन करता है? / Who publishes ILSA?",
+   "options": {
+    "A": "ILA",
+    "B": "IASLIC",
+    "C": "INFLIBNET",
+    "D": "NISCAIR"
+   },
+   "answer": "B",
+   "explanation": "ILSA का प्रकाशन IASLIC, कोलकाता द्वारा किया जाता है।"
+  },
+  {
+   "q": "LISA का पूरा नाम क्या है? / What is the full form of LISA?",
+   "options": {
+    "A": "Library and Information Science Abstracts",
+    "B": "Library Information Service Association",
+    "C": "Library and Information Studies Archives",
+    "D": "Literature of Information Science Abstracts"
+   },
+   "answer": "A",
+   "explanation": "LISA = Library and Information Science Abstracts."
+  },
+  {
+   "q": "'Loose Assemblage' किससे संबंधित है? / 'Loose Assemblage' is related to —",
+   "options": {
+    "A": "पुस्तक चयन / Book Selection",
+    "B": "विषयों के निर्माण की विधियाँ / Modes of Formation of Subjects",
+    "C": "संदर्भ सेवा / Reference Service",
+    "D": "पुस्तकालय बजट / Library Budget"
+   },
+   "answer": "B",
+   "explanation": "Loose Assemblage रंगनाथन द्वारा दिए गए विषयों के निर्माण की विधियों (Modes of Formation of Subjects) में से एक है।"
+  },
+  {
+   "q": "जब दो या दो से अधिक विषयों का परस्पर संबंध में अध्ययन किया जाता है, तो निर्माण की यह विधि कहलाती है — / When two or more subjects are studied in mutual relation, the mode of formation is —",
+   "options": {
+    "A": "Lamination",
+    "B": "Loose Assemblage",
+    "C": "Fission",
+    "D": "Distillation"
+   },
+   "answer": "B",
+   "explanation": "जैसे 'पुस्तकालयाध्यक्षों के लिए सांख्यिकी' — दो विषयों का शिथिल संयोजन Loose Assemblage कहलाता है।"
+  },
+  {
+   "q": "Lamination विधि से क्या तात्पर्य है? / What does Lamination mean in formation of subjects?",
+   "options": {
+    "A": "विषय का विभाजन / Splitting of a subject",
+    "B": "एक facet पर दूसरे facet की परत चढ़ाना / Overlaying one facet over another",
+    "C": "दो विषयों का विलय / Merger of two subjects",
+    "D": "विषय का लुप्त होना / Disappearance of a subject"
+   },
+   "answer": "B",
+   "explanation": "Lamination में एक facet पर दूसरा facet परत की तरह चढ़ता है और संयुक्त विषय बनता है।"
+  },
+  {
+   "q": "Fission विधि में क्या होता है? / What happens in Fission mode?",
+   "options": {
+    "A": "प्राथमिक विषय का छोटे विषयों में विभाजन / A primary subject splits into smaller subjects",
+    "B": "दो विषय मिलकर नया विषय बनाते हैं / Two subjects merge into a new one",
+    "C": "facet की परत चढ़ती है / Facets are overlaid",
+    "D": "विषय का नाम बदलता है / A subject is renamed"
+   },
+   "answer": "A",
+   "explanation": "Fission (विखंडन) में एक प्राथमिक मूल विषय विभाजित होकर नए विषयों को जन्म देता है।"
+  },
+  {
+   "q": "'जैव रसायन' (Biochemistry) जैसे विषय का निर्माण किस विधि का उदाहरण है? / 'Biochemistry' is an example of which mode of formation?",
+   "options": {
+    "A": "Fission",
+    "B": "Fusion",
+    "C": "Lamination",
+    "D": "Clustering"
+   },
+   "answer": "B",
+   "explanation": "Fusion (संलयन) में दो विषय आपस में घुल-मिलकर एक नया स्वतंत्र विषय बनाते हैं, जैसे जीव विज्ञान + रसायन = जैव रसायन।"
+  },
+  {
+   "q": "Distillation विधि का प्रसिद्ध उदाहरण कौन-सा है? / A famous example of Distillation mode is —",
+   "options": {
+    "A": "प्रबंधन विज्ञान / Management Science",
+    "B": "जैव रसायन / Biochemistry",
+    "C": "गणित / Mathematics",
+    "D": "इतिहास / History"
+   },
+   "answer": "A",
+   "explanation": "Distillation में व्यवहार/अभ्यास के क्षेत्र से एक शुद्ध विषय उदित होता है, जैसे प्रबंधन विज्ञान।"
+  },
+  {
+   "q": "निम्न में से कौन-सी विषय-निर्माण की विधि रंगनाथन ने नहीं दी? / Which of the following is NOT a mode of formation of subjects given by Ranganathan?",
+   "options": {
+    "A": "Lamination",
+    "B": "Fission",
+    "C": "Distillation",
+    "D": "Classification"
+   },
+   "answer": "D",
+   "explanation": "रंगनाथन की विधियाँ हैं — Lamination, Loose Assemblage, Fission, Fusion, Distillation और Clustering; 'Classification' इनमें नहीं है।"
+  },
+  {
+   "q": "Colon Classification का छठा संस्करण कब प्रकाशित हुआ? / When was the 6th edition of Colon Classification published?",
+   "options": {
+    "A": "1950",
+    "B": "1957",
+    "C": "1960",
+    "D": "1987"
+   },
+   "answer": "C",
+   "explanation": "Colon Classification का छठा संस्करण 1960 में आया; इसका संशोधित पुनर्मुद्रण 1963 में प्रकाशित हुआ।"
+  },
+  {
+   "q": "Colon Classification के छठे संस्करण का संशोधित पुनर्मुद्रण कब आया? / When was the amended reprint of the 6th edition of Colon Classification published?",
+   "options": {
+    "A": "1961",
+    "B": "1963",
+    "C": "1965",
+    "D": "1970"
+   },
+   "answer": "B",
+   "explanation": "छठे संस्करण (1960) का संशोधित पुनर्मुद्रण 1963 में प्रकाशित हुआ था।"
+  },
+  {
+   "q": "Colon Classification का प्रथम संस्करण किसने प्रकाशित किया था? / Who published the first edition of Colon Classification?",
+   "options": {
+    "A": "मद्रास लाइब्रेरी एसोसिएशन / Madras Library Association",
+    "B": "ILA",
+    "C": "एशिया पब्लिशिंग हाउस / Asia Publishing House",
+    "D": "सरदा रंगनाथन एंडोमेंट / Sarada Ranganathan Endowment"
+   },
+   "answer": "A",
+   "explanation": "Colon Classification का प्रथम संस्करण (1933) मद्रास लाइब्रेरी एसोसिएशन ने प्रकाशित किया था।"
+  },
+  {
+   "q": "Classified Catalogue Code (CCC) का प्रथम संस्करण कब आया? / When was the first edition of CCC published?",
+   "options": {
+    "A": "1933",
+    "B": "1934",
+    "C": "1945",
+    "D": "1964"
+   },
+   "answer": "B",
+   "explanation": "रंगनाथन की Classified Catalogue Code का प्रथम संस्करण 1934 में आया; पाँचवाँ संस्करण 1964 में प्रकाशित हुआ।"
+  },
+  {
+   "q": "'Phoenix Schedule' किस वर्गीकरण पद्धति से संबंधित है? / 'Phoenix Schedule' is related to which classification scheme?",
+   "options": {
+    "A": "Colon Classification",
+    "B": "DDC",
+    "C": "UDC",
+    "D": "Library of Congress Classification"
+   },
+   "answer": "B",
+   "explanation": "Phoenix Schedule DDC की वह अनुसूची है जो पूर्णतः संशोधित (पूरी तरह नई) बनाई जाती है।"
+  },
+  {
+   "q": "'Catalogue' शब्द किस भाषा के 'Katalogos' से बना है? / The word 'Catalogue' is derived from 'Katalogos' of which language?",
+   "options": {
+    "A": "लैटिन / Latin",
+    "B": "ग्रीक / Greek",
+    "C": "फ्रेंच / French",
+    "D": "जर्मन / German"
+   },
+   "answer": "B",
+   "explanation": "Catalogue शब्द Greek 'Katalogos' से बना है।"
+  },
+  {
+   "q": "'Encyclopaedia' शब्द किस Greek वाक्यांश से बना है? / The word 'Encyclopaedia' comes from which Greek phrase?",
+   "options": {
+    "A": "Enkyklios Paideia",
+    "B": "Bibliotheca Universalis",
+    "C": "Logos Graphia",
+    "D": "Paideia Katalogos"
+   },
+   "answer": "A",
+   "explanation": "Encyclopaedia, Greek 'Enkyklios Paideia' (सामान्य शिक्षा) से बना है।"
+  },
+  {
+   "q": "'Library' शब्द लैटिन के किस शब्द से बना है? / The word 'Library' is derived from which Latin word?",
+   "options": {
+    "A": "Libra",
+    "B": "Liber",
+    "C": "Libellus",
+    "D": "Librarium"
+   },
+   "answer": "B",
+   "explanation": "Library, लैटिन शब्द 'Liber' से बना है, जिसका अर्थ है — पुस्तक।"
+  },
+  {
+   "q": "'Bibliography' शब्द किन Greek शब्दों से बना है? / The word 'Bibliography' is formed from which Greek words?",
+   "options": {
+    "A": "Biblion + Graphein",
+    "B": "Biblos + Logos",
+    "C": "Graphia + Nomos",
+    "D": "Biblion + Sophia"
+   },
+   "answer": "A",
+   "explanation": "Bibliography = Biblion (पुस्तक) + Graphein (लिखना), अर्थात पुस्तकों का लेखन/विवरण।"
+  },
+  {
+   "q": "'Seven Lamps of Conduct' की अवधारणा किसने दी? / Who gave the concept of 'Seven Lamps of Conduct'?",
+   "options": {
+    "A": "एस. आर. रंगनाथन / S. R. Ranganathan",
+    "B": "आर. एल. मित्तल / R. L. Mittal",
+    "C": "पी. एन. कौला / P. N. Kaula",
+    "D": "बी. एस. केसवन / B. S. Kesavan"
+   },
+   "answer": "B",
+   "explanation": "'Seven Lamps of Conduct' आर. एल. मित्तल द्वारा दिए गए हैं।"
+  },
+  {
+   "q": "'Seven Lamps of Conduct' किससे संबंधित हैं? / 'Seven Lamps of Conduct' are related to —",
+   "options": {
+    "A": "पुस्तकालय भवन नियोजन / Library building planning",
+    "B": "पुस्तकालय व्यवसायी के व्यावसायिक आचरण से / Professional conduct of the librarian",
+    "C": "पुस्तक चयन सिद्धांतों से / Book selection principles",
+    "D": "वर्गीकरण सिद्धांतों से / Classification principles"
+   },
+   "answer": "B",
+   "explanation": "ये सात दीप पुस्तकालय व्यवसायी के व्यावसायिक आचरण और नैतिकता के मार्गदर्शक सिद्धांत हैं।"
+  }
+ ]
+}
