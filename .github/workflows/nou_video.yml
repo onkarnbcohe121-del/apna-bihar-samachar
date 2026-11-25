@@ -30,6 +30,8 @@ jobs:
 
       # Install step majboot: apt mirror hang/fail par timeout + retry loop
       # (oneshot_chunk.yml wala pattern).
+      # 25 Nov 2026 FIX (run #27/#28 fail): ffmpeg install timeout par atka aur
+      # step phir bhi GREEN raha — ab install ke baad sakht jaanch, na mile to FAIL.
       - name: Tools install karo
         run: |
           for i in 1 2 3 4; do
@@ -37,9 +39,10 @@ jobs:
             echo "apt-get update try $i fail — 15 sec baad phir koshish"; sleep 15
           done
           for i in 1 2 3; do
-            if sudo timeout 300 apt-get install -y ffmpeg; then break; fi
+            if sudo timeout 600 apt-get install -y --no-install-recommends ffmpeg; then break; fi
             echo "apt-get install try $i fail — 15 sec baad phir koshish"; sleep 15
           done
+          command -v ffmpeg >/dev/null || { echo "ffmpeg install FAIL — abort"; exit 1; }
           ffmpeg -version | head -1
           for i in 1 2 3; do
             if pip install edge-tts pillow google-api-python-client google-auth google-genai; then break; fi
