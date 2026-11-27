@@ -1,0 +1,1016 @@
+[
+ {
+  "n": 1,
+  "unit": "Teaching Aptitude",
+  "q_hi": "शिक्षण की 'ह्यूरिस्टिक विधि' (Heuristic Method) के प्रवर्तक कौन थे?",
+  "q_en": "Who propounded the 'Heuristic Method' of teaching?",
+  "options_hi": [
+   "पैट्रिक किलपैट्रिक",
+   "एच. ई. आर्मस्ट्रांग",
+   "बी. एफ. स्किनर",
+   "फ्रेडरिक फ्रोबेल"
+  ],
+  "options_en": [
+   "Patrick Kilpatrick",
+   "H. E. Armstrong",
+   "B. F. Skinner",
+   "Friedrich Froebel"
+  ],
+  "answer": "B",
+  "exp_hi": "ह्यूरिस्टिक विधि के प्रवर्तक एच. ई. आर्मस्ट्रांग थे; इसमें छात्र स्वयं खोज करके सीखता है। किलपैट्रिक ने प्रोजेक्ट विधि और फ्रोबेल ने किंडरगार्टन पद्धति दी थी।"
+ },
+ {
+  "n": 2,
+  "unit": "Teaching Aptitude",
+  "q_hi": "जो परीक्षण वही मापता है जिसे मापने के लिए वह बनाया गया है, वह कहलाता है —",
+  "q_en": "A test which measures what it is intended to measure is called —",
+  "options_hi": [
+   "विश्वसनीय परीक्षण",
+   "वैध परीक्षण",
+   "वस्तुनिष्ठ परीक्षण",
+   "मानकीकृत परीक्षण"
+  ],
+  "options_en": [
+   "Reliable test",
+   "Valid test",
+   "Objective test",
+   "Standardised test"
+  ],
+  "answer": "B",
+  "exp_hi": "किसी परीक्षण की वैधता (Validity) का अर्थ है कि वह उसी योग्यता को मापे जिसके लिए बना है। विश्वसनीयता का अर्थ परिणामों में स्थिरता होता है — दोनों अलग-अलग गुण हैं।"
+ },
+ {
+  "n": 3,
+  "unit": "Teaching Aptitude",
+  "q_hi": "संशोधित ब्लूम वर्गीकरण (Revised Bloom's Taxonomy) में संज्ञानात्मक क्षेत्र का उच्चतम स्तर कौन-सा है?",
+  "q_en": "Which is the highest level of the cognitive domain in the Revised Bloom's Taxonomy?",
+  "options_hi": [
+   "मूल्यांकन करना (Evaluating)",
+   "विश्लेषण करना (Analysing)",
+   "प्रयोग करना (Applying)",
+   "सृजन करना (Creating)"
+  ],
+  "options_en": [
+   "Evaluating",
+   "Analysing",
+   "Applying",
+   "Creating"
+  ],
+  "answer": "D",
+  "exp_hi": "एंडरसन व क्रैथवॉल के संशोधित वर्गीकरण (2001) में क्रम है — स्मरण, बोध, प्रयोग, विश्लेषण, मूल्यांकन और सबसे ऊपर सृजन (Creating), जहाँ छात्र नई रचना करता है।"
+ },
+ {
+  "n": 4,
+  "unit": "Teaching Aptitude",
+  "q_hi": "'समावेशी शिक्षा' (Inclusive Education) से क्या अभिप्राय है?",
+  "q_en": "'Inclusive Education' means —",
+  "options_hi": [
+   "विशेष आवश्यकता वाले बच्चों को अलग विशेष विद्यालयों में पढ़ाना",
+   "केवल प्रतिभाशाली बच्चों को सामान्य कक्षा में रखना",
+   "सभी बच्चों — विशेष आवश्यकता वालों सहित — को सामान्य विद्यालय की सामान्य कक्षा में साथ पढ़ाना",
+   "केवल घर पर ही शिक्षा देना"
+  ],
+  "options_en": [
+   "Teaching children with special needs in separate special schools",
+   "Keeping only gifted children in the regular classroom",
+   "Educating all children, including those with special needs, together in the regular classroom of a common school",
+   "Providing education only at home"
+  ],
+  "answer": "C",
+  "exp_hi": "समावेशी शिक्षा में दिव्यांग व विशेष आवश्यकता वाले बच्चे अलग नहीं किए जाते; वे सामान्य विद्यालय की सामान्य कक्षा में अन्य बच्चों के साथ पढ़ते हैं। यही राष्ट्रीय शिक्षा नीति 2020 का भी दृष्टिकोण है।"
+ },
+ {
+  "n": 5,
+  "unit": "Teaching Aptitude",
+  "q_hi": "शिक्षार्थी-केंद्रित शिक्षण (Learner-centred Teaching) में शिक्षक की मुख्य भूमिका क्या होती है?",
+  "q_en": "In learner-centred teaching, the main role of the teacher is that of a —",
+  "options_hi": [
+   "सुगमकर्ता और मार्गदर्शक (Facilitator)",
+   "विषय-वस्तु का एकमात्र वक्ता",
+   "केवल परीक्षक",
+   "अनुशासन का कठोर नियंत्रक"
+  ],
+  "options_en": [
+   "Facilitator and guide",
+   "Sole speaker of the subject content",
+   "Only an examiner",
+   "Strict controller of discipline"
+  ],
+  "answer": "A",
+  "exp_hi": "शिक्षार्थी-केंद्रित उपागम में छात्र स्वयं सक्रिय होकर सीखता है और शिक्षक सीखने की प्रक्रिया को सुगम बनाने वाला मार्गदर्शक (Facilitator) होता है, न कि केवल भाषण देने वाला।"
+ },
+ {
+  "n": 6,
+  "unit": "Research Aptitude",
+  "q_hi": "निम्न में से कौन-सी अप्रायिकता प्रतिचयन (Non-probability Sampling) की विधि है?",
+  "q_en": "Which of the following is a non-probability sampling method?",
+  "options_hi": [
+   "सरल यादृच्छिक प्रतिचयन",
+   "स्तरीकृत प्रतिचयन",
+   "उद्देश्यपूर्ण प्रतिचयन (Purposive Sampling)",
+   "गुच्छ प्रतिचयन"
+  ],
+  "options_en": [
+   "Simple random sampling",
+   "Stratified sampling",
+   "Purposive sampling",
+   "Cluster sampling"
+  ],
+  "answer": "C",
+  "exp_hi": "उद्देश्यपूर्ण प्रतिचयन में शोधकर्ता अपने उद्देश्य के अनुसार स्वयं इकाइयाँ चुनता है, इसलिए यह अप्रायिकता विधि है। सरल यादृच्छिक, स्तरीकृत और गुच्छ प्रतिचयन प्रायिकता विधियाँ हैं।"
+ },
+ {
+  "n": 7,
+  "unit": "Research Aptitude",
+  "q_hi": "शोध में 'साहित्य समीक्षा' (Review of Literature) का मुख्य लाभ क्या है?",
+  "q_en": "What is the main benefit of the 'Review of Literature' in research?",
+  "options_hi": [
+   "शोध-प्रतिवेदन लंबा हो जाता है",
+   "पूर्व शोधों से शोध-अंतराल (Research Gap) पहचानने और दोहराव से बचने में मदद मिलती है",
+   "आँकड़े स्वयं एकत्र हो जाते हैं",
+   "परिकल्पना की आवश्यकता समाप्त हो जाती है"
+  ],
+  "options_en": [
+   "The research report becomes longer",
+   "It helps in identifying the research gap from earlier studies and avoiding duplication",
+   "Data gets collected automatically",
+   "The need for a hypothesis is eliminated"
+  ],
+  "answer": "B",
+  "exp_hi": "साहित्य समीक्षा से पता चलता है कि विषय पर पहले क्या हो चुका है और कहाँ कमी (Research Gap) है। इससे समस्या का चयन सटीक होता है और एक ही कार्य दोबारा नहीं होता।"
+ },
+ {
+  "n": 8,
+  "unit": "Research Aptitude",
+  "q_hi": "गुणात्मक शोध (Qualitative Research) का मुख्य केंद्र क्या होता है?",
+  "q_en": "What is the main focus of qualitative research?",
+  "options_hi": [
+   "बड़ी संख्या में आँकड़ों का सांख्यिकीय विश्लेषण",
+   "केवल प्रयोगशाला में प्रयोग करना",
+   "संख्यात्मक मापन द्वारा नियम बनाना",
+   "अनुभवों, अर्थों और घटनाओं की गहन समझ प्राप्त करना"
+  ],
+  "options_en": [
+   "Statistical analysis of a large amount of data",
+   "Conducting experiments only in a laboratory",
+   "Formulating laws through numerical measurement",
+   "Gaining an in-depth understanding of experiences, meanings and phenomena"
+  ],
+  "answer": "D",
+  "exp_hi": "गुणात्मक शोध संख्याओं के बजाय गहराई पर बल देता है — लोगों के अनुभव, धारणाएँ और किसी घटना के अर्थ को समझना इसका उद्देश्य होता है। इसके प्रमुख साधन साक्षात्कार, अवलोकन आदि हैं।"
+ },
+ {
+  "n": 9,
+  "unit": "Research Aptitude",
+  "q_hi": "किसी शोध-उपकरण की 'विश्वसनीयता' (Reliability) का अर्थ है —",
+  "q_en": "The 'reliability' of a research tool means —",
+  "options_hi": [
+   "बार-बार प्रयोग पर परिणामों में स्थिरता (Consistency)",
+   "उपकरण का सस्ता होना",
+   "उपकरण का शीघ्र बन जाना",
+   "उपकरण का केवल एक बार प्रयोग होना"
+  ],
+  "options_en": [
+   "Consistency of results on repeated use",
+   "The tool being inexpensive",
+   "The tool being prepared quickly",
+   "The tool being used only once"
+  ],
+  "answer": "A",
+  "exp_hi": "यदि एक ही उपकरण समान परिस्थितियों में बार-बार लगभग समान परिणाम दे, तो वह विश्वसनीय कहलाता है। विश्वसनीयता परिणामों की स्थिरता से जुड़ी है, कीमत या गति से नहीं।"
+ },
+ {
+  "n": 10,
+  "unit": "Research Aptitude",
+  "q_hi": "'UGC-CARE' सूची किससे संबंधित है?",
+  "q_en": "The 'UGC-CARE' list is related to —",
+  "options_hi": [
+   "विश्वविद्यालयों की रैंकिंग से",
+   "गुणवत्तापूर्ण शोध-पत्रिकाओं (Journals) की सूची से",
+   "छात्रवृत्ति योजनाओं से",
+   "शिक्षकों की नियुक्ति से"
+  ],
+  "options_en": [
+   "Ranking of universities",
+   "List of quality research journals",
+   "Scholarship schemes",
+   "Appointment of teachers"
+  ],
+  "answer": "B",
+  "exp_hi": "UGC-CARE (Consortium for Academic and Research Ethics) गुणवत्तापूर्ण शोध-पत्रिकाओं की सूची है, जो निम्न-स्तरीय व शोषणकारी (Predatory) पत्रिकाओं में प्रकाशन रोकने के लिए बनाई गई।"
+ },
+ {
+  "n": 11,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, जल-संकट मुख्य रूप से किसका संकट है?",
+  "q_en": "According to the passage, the water crisis is mainly a crisis of —",
+  "options_hi": [
+   "आदतों का",
+   "धन का",
+   "तकनीक का",
+   "जनसंख्या का"
+  ],
+  "options_en": [
+   "Habits",
+   "Money",
+   "Technology",
+   "Population"
+  ],
+  "answer": "A",
+  "exp_hi": "गद्यांश स्पष्ट कहता है कि जल-संकट केवल आपूर्ति का संकट नहीं, आदतों का संकट है — हम जल को लापरवाही से बर्बाद करते हैं।",
+  "set": "comprehension",
+  "passage_hi": "जल जीवन का आधार है, फिर भी यही वह संसाधन है जिसे हम सबसे अधिक लापरवाही से बर्बाद करते हैं। पृथ्वी के समस्त जल का केवल एक छोटा-सा भाग ही मीठा और उपयोग योग्य है, और उसका भी बहुत-सा हिस्सा बर्फ़ में या भूमि के गहरे नीचे बंद है। जैसे-जैसे जनसंख्या बढ़ती है और शहर फैलते हैं, जल की माँग हर वर्ष बढ़ती जाती है, जबकि वर्षा अनिश्चित रहती है। कई क्षेत्रों में भूजल उस गति से कहीं अधिक तेज़ी से निकाला जा रहा है, जितनी तेज़ी से प्रकृति उसे पुनः भर सकती है। लेखक का मानना है कि जल-संकट केवल आपूर्ति का संकट नहीं है; यह आदतों का संकट है। सरल उपाय — टपकते नलों की मरम्मत, वर्षा-जल का संचयन और जहाँ संभव हो जल का पुनः उपयोग — भारी मात्रा में जल बचा सकते हैं। सरकारें बाँध और पाइपलाइन बना सकती हैं, किंतु जब तक सामान्य नागरिक हर बूँद का मूल्य नहीं समझेगा, कोई नीति सफल नहीं हो सकती। अतः संरक्षण केवल राज्य का दायित्व नहीं है; यह प्रत्येक परिवार की साझी ज़िम्मेदारी है।",
+  "passage_en": "Water is the foundation of life, yet it is the resource we waste most carelessly. Of all the water on earth, only a small fraction is fresh and usable, and much of it is locked in ice or deep underground. As population grows and cities expand, the demand for water rises every year, while the rains remain uncertain. In many regions, groundwater is being drawn out far faster than nature can refill it. The author believes that the water crisis is not merely a crisis of supply; it is a crisis of habits. Simple practices - repairing leaking taps, harvesting rainwater and reusing water wherever possible - can save enormous quantities. Governments can build dams and pipelines, but unless ordinary citizens value every drop, no policy can succeed. Conservation, therefore, is not the duty of the state alone; it is a shared responsibility of every household."
+ },
+ {
+  "n": 12,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, मीठे जल का बहुत-सा हिस्सा कहाँ बंद है?",
+  "q_en": "According to the passage, much of the fresh water is locked —",
+  "options_hi": [
+   "केवल नदियों में",
+   "केवल झीलों में",
+   "बर्फ़ में या भूमि के गहरे नीचे",
+   "बादलों में"
+  ],
+  "options_en": [
+   "Only in rivers",
+   "Only in lakes",
+   "In ice or deep underground",
+   "In clouds"
+  ],
+  "answer": "C",
+  "exp_hi": "गद्यांश के अनुसार पृथ्वी के जल का छोटा-सा भाग ही मीठा और उपयोग योग्य है, और उसका भी बहुत-सा हिस्सा बर्फ़ में या भूमि के गहरे नीचे बंद है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 13,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, जल की माँग हर वर्ष क्यों बढ़ रही है?",
+  "q_en": "According to the passage, why is the demand for water rising every year?",
+  "options_hi": [
+   "वर्षा अधिक होने से",
+   "जनसंख्या बढ़ने और शहरों के फैलने से",
+   "नदियाँ सूखने से",
+   "बाँध बनने से"
+  ],
+  "options_en": [
+   "Because of heavier rainfall",
+   "Because population is growing and cities are expanding",
+   "Because rivers are drying up",
+   "Because dams are being built"
+  ],
+  "answer": "B",
+  "exp_hi": "गद्यांश कहता है — जैसे-जैसे जनसंख्या बढ़ती है और शहर फैलते हैं, जल की माँग हर वर्ष बढ़ती जाती है, जबकि वर्षा अनिश्चित रहती है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 14,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, जल-संरक्षण किसकी ज़िम्मेदारी है?",
+  "q_en": "According to the passage, water conservation is the responsibility of —",
+  "options_hi": [
+   "केवल सरकार की",
+   "केवल नगर निगम की",
+   "केवल किसानों की",
+   "प्रत्येक परिवार की साझी ज़िम्मेदारी"
+  ],
+  "options_en": [
+   "Only the government",
+   "Only the municipal corporation",
+   "Only the farmers",
+   "Every household, as a shared responsibility"
+  ],
+  "answer": "D",
+  "exp_hi": "गद्यांश के अंतिम वाक्य में स्पष्ट है — संरक्षण केवल राज्य का दायित्व नहीं है; यह प्रत्येक परिवार की साझी ज़िम्मेदारी है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 15,
+  "unit": "Comprehension",
+  "q_hi": "निम्न में से कौन-सा कथन गद्यांश का मुख्य संदेश सबसे अच्छी तरह व्यक्त करता है?",
+  "q_en": "Which of the following statements best expresses the main message of the passage?",
+  "options_hi": [
+   "जल की कमी केवल अधिक बाँध बनाकर दूर हो सकती है",
+   "भूजल का उपयोग बिना किसी सीमा के होना चाहिए",
+   "वर्षा ही मीठे जल का एकमात्र स्रोत है",
+   "जल-संरक्षण प्रत्येक परिवार की साझी ज़िम्मेदारी है"
+  ],
+  "options_en": [
+   "Water shortage can be removed only by building more dams",
+   "Groundwater should be used without any limit",
+   "Rainfall is the only source of fresh water",
+   "Water conservation is a shared responsibility of every household"
+  ],
+  "answer": "D",
+  "exp_hi": "गद्यांश का मुख्य संदेश यही है कि सरकारें साधन बना सकती हैं, किंतु संरक्षण तभी सफल होगा जब हर परिवार हर बूँद का मूल्य समझे — यह साझी ज़िम्मेदारी है।",
+  "set": "comprehension"
+ },
+ {
+  "n": 16,
+  "unit": "Communication",
+  "q_hi": "अशाब्दिक संप्रेषण में 'काइनेसिक्स' (Kinesics) का अध्ययन किससे संबंधित है?",
+  "q_en": "In non-verbal communication, 'Kinesics' is the study of —",
+  "options_hi": [
+   "शब्दों के चयन से",
+   "स्वर के उतार-चढ़ाव से",
+   "शारीरिक गतियों और हाव-भाव से",
+   "समय के उपयोग से"
+  ],
+  "options_en": [
+   "Choice of words",
+   "Rise and fall of voice",
+   "Body movements and gestures",
+   "Use of time"
+  ],
+  "answer": "C",
+  "exp_hi": "काइनेसिक्स में शरीर की गतियों, मुद्राओं और हाव-भाव का अध्ययन होता है; इसे 'शारीरिक भाषा' (Body Language) भी कहते हैं। समय के उपयोग का अध्ययन क्रोनेमिक्स है।"
+ },
+ {
+  "n": 17,
+  "unit": "Communication",
+  "q_hi": "किसी संगठन में 'ऊर्ध्वाधर संप्रेषण' (Vertical Communication) का प्रवाह किसके बीच होता है?",
+  "q_en": "In an organisation, 'vertical communication' flows between —",
+  "options_hi": [
+   "अधिकारी और अधीनस्थ के बीच (ऊपर-नीचे)",
+   "समान स्तर के कर्मचारियों के बीच",
+   "संस्था और ग्राहकों के बीच",
+   "केवल लिखित पत्रों के बीच"
+  ],
+  "options_en": [
+   "Superior and subordinate (upward-downward)",
+   "Employees of the same level",
+   "The organisation and its customers",
+   "Only through written letters"
+  ],
+  "answer": "A",
+  "exp_hi": "ऊर्ध्वाधर संप्रेषण पद-सोपान में ऊपर से नीचे (आदेश, निर्देश) और नीचे से ऊपर (प्रतिवेदन, सुझाव) बहता है। समान स्तर के बीच का संप्रेषण क्षैतिज (Horizontal) कहलाता है।"
+ },
+ {
+  "n": 18,
+  "unit": "Communication",
+  "q_hi": "प्रभावी कक्षा-संप्रेषण के लिए शिक्षक में सबसे आवश्यक कौशल कौन-सा है?",
+  "q_en": "Which skill is most essential for a teacher for effective classroom communication?",
+  "options_hi": [
+   "तेज़ बोलने का कौशल",
+   "ध्यानपूर्वक सुनने का कौशल (Listening Skill)",
+   "कठोर स्वर का प्रयोग",
+   "लंबे भाषण देने का कौशल"
+  ],
+  "options_en": [
+   "Skill of speaking fast",
+   "Skill of attentive listening",
+   "Use of a harsh tone",
+   "Skill of delivering long lectures"
+  ],
+  "answer": "B",
+  "exp_hi": "संप्रेषण द्विमार्गी प्रक्रिया है; छात्रों की शंकाएँ और प्रतिक्रियाएँ ध्यान से सुनने वाला शिक्षक ही अपना संदेश प्रभावी ढंग से पहुँचा और सुधार सकता है।"
+ },
+ {
+  "n": 19,
+  "unit": "Communication",
+  "q_hi": "अशाब्दिक संप्रेषण में 'क्रोनेमिक्स' (Chronemics) किससे संबंधित है?",
+  "q_en": "In non-verbal communication, 'Chronemics' is related to —",
+  "options_hi": [
+   "दूरी के उपयोग से",
+   "स्पर्श से",
+   "वेशभूषा से",
+   "समय के उपयोग से"
+  ],
+  "options_en": [
+   "Use of distance",
+   "Touch",
+   "Dress",
+   "Use of time"
+  ],
+  "answer": "D",
+  "exp_hi": "क्रोनेमिक्स समय के प्रयोग का अध्ययन है — जैसे समय पर पहुँचना, प्रतीक्षा कराना आदि भी संदेश देते हैं। दूरी का अध्ययन प्रॉक्सेमिक्स और स्पर्श का हैप्टिक्स कहलाता है।"
+ },
+ {
+  "n": 20,
+  "unit": "Communication",
+  "q_hi": "संप्रेषण प्रक्रिया में 'माध्यम' (Channel) से क्या अभिप्राय है?",
+  "q_en": "In the communication process, the 'channel' refers to —",
+  "options_hi": [
+   "वह साधन जिससे संदेश भेजा जाता है",
+   "संदेश प्राप्त करने वाला व्यक्ति",
+   "संदेश का विषय",
+   "प्रतिपुष्टि देने वाला व्यक्ति"
+  ],
+  "options_en": [
+   "The medium through which the message is sent",
+   "The person who receives the message",
+   "The subject of the message",
+   "The person who gives feedback"
+  ],
+  "answer": "A",
+  "exp_hi": "माध्यम (Channel) वह रास्ता या साधन है जिससे संदेश प्रेषक से प्राप्तकर्ता तक पहुँचता है — जैसे वाणी, पत्र, टेलीविज़न या इंटरनेट।"
+ },
+ {
+  "n": 21,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "श्रृंखला को पूर्ण कीजिए : 1, 4, 9, 16, 25, ?",
+  "q_en": "Complete the series: 1, 4, 9, 16, 25, ?",
+  "options_hi": [
+   "30",
+   "32",
+   "36",
+   "49"
+  ],
+  "options_en": [
+   "30",
+   "32",
+   "36",
+   "49"
+  ],
+  "answer": "C",
+  "exp_hi": "ये संख्याएँ क्रमशः 1², 2², 3², 4², 5² हैं; अगली संख्या 6² = 36 होगी।"
+ },
+ {
+  "n": 22,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "किसी वस्तु का विक्रय मूल्य रु. 990 है और लाभ 10% है। वस्तु का क्रय मूल्य कितना है?",
+  "q_en": "The selling price of an article is Rs. 990 and the profit is 10%. What is the cost price of the article?",
+  "options_hi": [
+   "रु. 891",
+   "रु. 900",
+   "रु. 910",
+   "रु. 1089"
+  ],
+  "options_en": [
+   "Rs. 891",
+   "Rs. 900",
+   "Rs. 910",
+   "Rs. 1089"
+  ],
+  "answer": "B",
+  "exp_hi": "क्रय मूल्य = विक्रय मूल्य × 100 / (100 + लाभ%) = 990 × 100 / 110 = रु. 900।"
+ },
+ {
+  "n": 23,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "A किसी कार्य को 10 दिनों में और B उसी कार्य को 15 दिनों में पूरा कर सकता है। दोनों मिलकर कार्य कितने दिनों में पूरा करेंगे?",
+  "q_en": "A can complete a work in 10 days and B can complete the same work in 15 days. In how many days will both together complete the work?",
+  "options_hi": [
+   "6 दिन",
+   "8 दिन",
+   "12 दिन",
+   "25 दिन"
+  ],
+  "options_en": [
+   "6 days",
+   "8 days",
+   "12 days",
+   "25 days"
+  ],
+  "answer": "A",
+  "exp_hi": "दोनों का एक दिन का कार्य = 1/10 + 1/15 = 5/30 = 1/6 भाग। अतः दोनों मिलकर पूरा कार्य 6 दिनों में करेंगे।"
+ },
+ {
+  "n": 24,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "किसी संख्या में पहले 20% वृद्धि और फिर 20% कमी की जाए, तो कुल परिवर्तन क्या होगा?",
+  "q_en": "A number is first increased by 20% and then decreased by 20%. What is the net change?",
+  "options_hi": [
+   "कोई परिवर्तन नहीं",
+   "4% वृद्धि",
+   "2% कमी",
+   "4% कमी"
+  ],
+  "options_en": [
+   "No change",
+   "4% increase",
+   "2% decrease",
+   "4% decrease"
+  ],
+  "answer": "D",
+  "exp_hi": "माना संख्या 100 है। 20% वृद्धि पर 120; फिर 120 पर 20% कमी = 24 घटकर 96। अतः कुल 4% कमी हुई। समान प्रतिशत की वृद्धि-कमी पर सदैव कमी होती है।"
+ },
+ {
+  "n": 25,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "रु. 2000 पर 10% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज कितना होगा?",
+  "q_en": "What is the compound interest on Rs. 2000 at 10% per annum for 2 years?",
+  "options_hi": [
+   "रु. 400",
+   "रु. 440",
+   "रु. 420",
+   "रु. 380"
+  ],
+  "options_en": [
+   "Rs. 400",
+   "Rs. 440",
+   "Rs. 420",
+   "Rs. 380"
+  ],
+  "answer": "C",
+  "exp_hi": "मिश्रधन = 2000 × (1.10)² = 2000 × 1.21 = रु. 2420। अतः चक्रवृद्धि ब्याज = 2420 − 2000 = रु. 420।"
+ },
+ {
+  "n": 26,
+  "unit": "Logical Reasoning",
+  "q_hi": "कथन : सभी फूल पौधे हैं। कुछ पौधे हरे हैं। कौन-सा निष्कर्ष निश्चित रूप से निकलता है?",
+  "q_en": "Statements: All flowers are plants. Some plants are green. Which conclusion definitely follows?",
+  "options_hi": [
+   "सभी फूल हरे हैं",
+   "कुछ पौधे फूल हैं",
+   "कोई फूल हरा नहीं है",
+   "सभी पौधे फूल हैं"
+  ],
+  "options_en": [
+   "All flowers are green",
+   "Some plants are flowers",
+   "No flower is green",
+   "All plants are flowers"
+  ],
+  "answer": "B",
+  "exp_hi": "'सभी फूल पौधे हैं' से निश्चित है कि पौधों का एक भाग फूल है, अतः 'कुछ पौधे फूल हैं' अवश्य सत्य है। फूलों के हरे होने के बारे में कोई निश्चित निष्कर्ष नहीं निकलता।"
+ },
+ {
+  "n": 27,
+  "unit": "Logical Reasoning",
+  "q_hi": "यदि किसी कूट में BOOK को 43 लिखा जाता है (अक्षरों के क्रमांक-स्थानों का योग), तो PEN को क्या लिखा जाएगा?",
+  "q_en": "If in a code BOOK is written as 43 (sum of the alphabetical positions of the letters), how will PEN be written in the same code?",
+  "options_hi": [
+   "35",
+   "32",
+   "30",
+   "38"
+  ],
+  "options_en": [
+   "35",
+   "32",
+   "30",
+   "38"
+  ],
+  "answer": "A",
+  "exp_hi": "BOOK = B(2) + O(15) + O(15) + K(11) = 43। इसी प्रकार PEN = P(16) + E(5) + N(14) = 35।"
+ },
+ {
+  "n": 28,
+  "unit": "Logical Reasoning",
+  "q_hi": "सादृश्य पूर्ण कीजिए : शेर : शावक (Cub) :: घोड़ा : ?",
+  "q_en": "Complete the analogy: Lion : Cub :: Horse : ?",
+  "options_hi": [
+   "बछड़ा (Calf)",
+   "मेमना (Lamb)",
+   "मेमना-बकरी का बच्चा (Kid)",
+   "बछेरा (Foal)"
+  ],
+  "options_en": [
+   "Calf",
+   "Lamb",
+   "Kid",
+   "Foal"
+  ],
+  "answer": "D",
+  "exp_hi": "जैसे शेर के बच्चे को शावक (Cub) कहते हैं, वैसे ही घोड़े के बच्चे को बछेरा (Foal) कहते हैं। बछड़ा गाय का, मेमना भेड़ का और Kid बकरी का बच्चा होता है।"
+ },
+ {
+  "n": 29,
+  "unit": "Logical Reasoning",
+  "q_hi": "भारतीय तर्कशास्त्र में 'व्याप्ति' (Vyapti) से क्या अभिप्राय है?",
+  "q_en": "In Indian logic, what does 'Vyapti' mean?",
+  "options_hi": [
+   "हेतु का पक्ष में होना",
+   "साध्य का अनुमान करना",
+   "हेतु और साध्य के बीच अविचल (सार्वभौम) संबंध",
+   "उदाहरण द्वारा पुष्टि"
+  ],
+  "options_en": [
+   "Presence of the hetu in the paksha",
+   "Inferring the sadhya",
+   "The invariable (universal) relation between the hetu and the sadhya",
+   "Confirmation through an example"
+  ],
+  "answer": "C",
+  "exp_hi": "व्याप्ति हेतु (जैसे धुआँ) और साध्य (जैसे अग्नि) के बीच का वह अविचल संबंध है जो हर स्थान पर सत्य हो — जहाँ धुआँ, वहाँ अग्नि। यही अनुमान का आधार है।"
+ },
+ {
+  "n": 30,
+  "unit": "Logical Reasoning",
+  "q_hi": "कथन : एक विज्ञापन कहता है — 'मज़बूत और सफ़ेद दाँतों के लिए हमारा टूथपेस्ट प्रयोग कीजिए।' इस कथन में निहित मान्यता (Assumption) कौन-सी है?",
+  "q_en": "Statement: An advertisement says - 'Use our toothpaste for strong and white teeth.' Which assumption is implicit in this statement?",
+  "options_hi": [
+   "बाज़ार के सभी टूथपेस्ट बेकार हैं",
+   "लोग मज़बूत और सफ़ेद दाँत चाहते हैं",
+   "यह टूथपेस्ट सबसे सस्ता है",
+   "दाँतों की देखभाल आवश्यक नहीं है"
+  ],
+  "options_en": [
+   "All toothpastes in the market are useless",
+   "People want strong and white teeth",
+   "This toothpaste is the cheapest",
+   "Care of teeth is not necessary"
+  ],
+  "answer": "B",
+  "exp_hi": "विज्ञापन उसी गुण को आगे रखता है जिसकी लोगों को चाह होती है; अतः निहित मान्यता यही है कि लोग मज़बूत और सफ़ेद दाँत चाहते हैं। अन्य विकल्प कथन से नहीं निकलते।"
+ },
+ {
+  "n": 31,
+  "unit": "Data Interpretation",
+  "q_hi": "उपर्युक्त आँकड़ों के अनुसार, पाँचों वर्षों में चावल का कुल उत्पादन (हज़ार टन में) कितना है?",
+  "q_en": "According to the above data, what is the total production of rice (in thousand tonnes) in all five years?",
+  "options_hi": [
+   "750",
+   "720",
+   "780",
+   "700"
+  ],
+  "options_en": [
+   "750",
+   "720",
+   "780",
+   "700"
+  ],
+  "answer": "A",
+  "exp_hi": "कुल उत्पादन = 120 + 150 + 135 + 180 + 165 = 750 हज़ार टन।",
+  "set": "data",
+  "data_hi": "किसी ज़िले में विभिन्न वर्षों में चावल का उत्पादन (हज़ार टन में) : 2019 - 120; 2020 - 150; 2021 - 135; 2022 - 180; 2023 - 165।",
+  "data_en": "Production of rice (in thousand tonnes) in a district in different years: 2019 - 120; 2020 - 150; 2021 - 135; 2022 - 180; 2023 - 165."
+ },
+ {
+  "n": 32,
+  "unit": "Data Interpretation",
+  "q_hi": "2020 की तुलना में 2021 में उत्पादन में कितने प्रतिशत कमी हुई?",
+  "q_en": "By what percentage did the production decrease in 2021 as compared to 2020?",
+  "options_hi": [
+   "15%",
+   "12.5%",
+   "10%",
+   "9%"
+  ],
+  "options_en": [
+   "15%",
+   "12.5%",
+   "10%",
+   "9%"
+  ],
+  "answer": "C",
+  "exp_hi": "कमी = 150 − 135 = 15। प्रतिशत कमी = 15/150 × 100 = 10%।",
+  "set": "data"
+ },
+ {
+  "n": 33,
+  "unit": "Data Interpretation",
+  "q_hi": "वर्ष 2019 और वर्ष 2022 के उत्पादन का अनुपात क्या है?",
+  "q_en": "What is the ratio of production in the year 2019 and the year 2022?",
+  "options_hi": [
+   "3 : 2",
+   "2 : 3",
+   "4 : 5",
+   "5 : 4"
+  ],
+  "options_en": [
+   "3 : 2",
+   "2 : 3",
+   "4 : 5",
+   "5 : 4"
+  ],
+  "answer": "B",
+  "exp_hi": "अनुपात = 120 : 180 = 2 : 3।",
+  "set": "data"
+ },
+ {
+  "n": 34,
+  "unit": "Data Interpretation",
+  "q_hi": "पाँचों वर्षों का औसत वार्षिक उत्पादन (हज़ार टन में) कितना है?",
+  "q_en": "What is the average annual production (in thousand tonnes) over the five years?",
+  "options_hi": [
+   "145",
+   "155",
+   "160",
+   "150"
+  ],
+  "options_en": [
+   "145",
+   "155",
+   "160",
+   "150"
+  ],
+  "answer": "D",
+  "exp_hi": "औसत = कुल उत्पादन / वर्षों की संख्या = 750 / 5 = 150 हज़ार टन।",
+  "set": "data"
+ },
+ {
+  "n": 35,
+  "unit": "Data Interpretation",
+  "q_hi": "वर्ष 2023 का उत्पादन, वर्ष 2019 के उत्पादन का कितने प्रतिशत है?",
+  "q_en": "The production in the year 2023 is what percent of the production in the year 2019?",
+  "options_hi": [
+   "125%",
+   "137.5%",
+   "140%",
+   "150%"
+  ],
+  "options_en": [
+   "125%",
+   "137.5%",
+   "140%",
+   "150%"
+  ],
+  "answer": "B",
+  "exp_hi": "आवश्यक प्रतिशत = 165/120 × 100 = 137.5%।",
+  "set": "data"
+ },
+ {
+  "n": 36,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "PDF का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of PDF?",
+  "options_hi": [
+   "Portable Document Format",
+   "Personal Document File",
+   "Printed Document Format",
+   "Public Data File"
+  ],
+  "options_en": [
+   "Portable Document Format",
+   "Personal Document File",
+   "Printed Document Format",
+   "Public Data File"
+  ],
+  "answer": "A",
+  "exp_hi": "PDF का पूर्ण रूप Portable Document Format है; यह Adobe द्वारा विकसित प्रारूप दस्तावेज़ों को हर उपकरण पर एक समान दिखाने के लिए प्रयोग होता है।"
+ },
+ {
+  "n": 37,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "निम्न में से कौन-सा एक वेब ब्राउज़र (Web Browser) है?",
+  "q_en": "Which of the following is a web browser?",
+  "options_hi": [
+   "मोज़िला फ़ायरफ़ॉक्स (Mozilla Firefox)",
+   "एम. एस. वर्ड (MS Word)",
+   "एडोब फ़ोटोशॉप (Adobe Photoshop)",
+   "विंडोज़ (Windows)"
+  ],
+  "options_en": [
+   "Mozilla Firefox",
+   "MS Word",
+   "Adobe Photoshop",
+   "Windows"
+  ],
+  "answer": "A",
+  "exp_hi": "फ़ायरफ़ॉक्स एक वेब ब्राउज़र है जिससे इंटरनेट पर वेबसाइटें खोली जाती हैं। MS Word वर्ड-प्रोसेसर, फ़ोटोशॉप चित्र-संपादक और विंडोज़ एक ऑपरेटिंग सिस्टम है।"
+ },
+ {
+  "n": 38,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "कंप्यूटर को अनधिकृत पहुँच (Unauthorised Access) से बचाने के लिए किसका प्रयोग किया जाता है?",
+  "q_en": "Which of the following is used to protect a computer from unauthorised access?",
+  "options_hi": [
+   "कुकी (Cookie)",
+   "स्पैम (Spam)",
+   "मॉडेम (Modem)",
+   "फ़ायरवॉल (Firewall)"
+  ],
+  "options_en": [
+   "Cookie",
+   "Spam",
+   "Modem",
+   "Firewall"
+  ],
+  "answer": "D",
+  "exp_hi": "फ़ायरवॉल नेटवर्क की सुरक्षा-दीवार का काम करता है और नियमों के आधार पर अनधिकृत पहुँच को रोकता है। मॉडेम इंटरनेट जोड़ने का उपकरण है।"
+ },
+ {
+  "n": 39,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "दशमलव संख्या 10 का द्विआधारी (Binary) रूप क्या है?",
+  "q_en": "What is the binary form of the decimal number 10?",
+  "options_hi": [
+   "1001",
+   "1100",
+   "1010",
+   "1110"
+  ],
+  "options_en": [
+   "1001",
+   "1100",
+   "1010",
+   "1110"
+  ],
+  "answer": "C",
+  "exp_hi": "10 = 8 + 2 = 2³ + 2¹, अतः द्विआधारी रूप = 1010।"
+ },
+ {
+  "n": 40,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "LAN का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of LAN?",
+  "options_hi": [
+   "Large Area Network",
+   "Local Area Network",
+   "Long Area Network",
+   "Local Access Node"
+  ],
+  "options_en": [
+   "Large Area Network",
+   "Local Area Network",
+   "Long Area Network",
+   "Local Access Node"
+  ],
+  "answer": "B",
+  "exp_hi": "LAN का पूर्ण रूप Local Area Network है — यह सीमित क्षेत्र (जैसे एक भवन या परिसर) में जुड़े कंप्यूटरों का नेटवर्क होता है। विस्तृत क्षेत्र का नेटवर्क WAN कहलाता है।"
+ },
+ {
+  "n": 41,
+  "unit": "People, Development and Environment",
+  "q_hi": "'पृथ्वी सम्मेलन' (Earth Summit, 1992) कहाँ आयोजित हुआ था?",
+  "q_en": "Where was the 'Earth Summit' (1992) held?",
+  "options_hi": [
+   "रियो डी जेनेरियो (ब्राज़ील)",
+   "क्योटो (जापान)",
+   "स्टॉकहोम (स्वीडन)",
+   "पेरिस (फ्रांस)"
+  ],
+  "options_en": [
+   "Rio de Janeiro (Brazil)",
+   "Kyoto (Japan)",
+   "Stockholm (Sweden)",
+   "Paris (France)"
+  ],
+  "answer": "A",
+  "exp_hi": "पर्यावरण व विकास पर संयुक्त राष्ट्र सम्मेलन (UNCED), जिसे पृथ्वी सम्मेलन कहते हैं, 1992 में रियो डी जेनेरियो में हुआ; यहीं एजेंडा-21 स्वीकृत हुआ।"
+ },
+ {
+  "n": 42,
+  "unit": "People, Development and Environment",
+  "q_hi": "'अम्लीय वर्षा' (Acid Rain) का मुख्य कारण कौन-सी गैसें हैं?",
+  "q_en": "Which gases are the main cause of 'acid rain'?",
+  "options_hi": [
+   "कार्बन डाइऑक्साइड और मीथेन",
+   "ओज़ोन और क्लोरोफ्लोरोकार्बन",
+   "सल्फर डाइऑक्साइड और नाइट्रोजन ऑक्साइड",
+   "ऑक्सीजन और हाइड्रोजन"
+  ],
+  "options_en": [
+   "Carbon dioxide and methane",
+   "Ozone and chlorofluorocarbons",
+   "Sulphur dioxide and nitrogen oxides",
+   "Oxygen and hydrogen"
+  ],
+  "answer": "C",
+  "exp_hi": "वाहनों व उद्योगों से निकलने वाली सल्फर डाइऑक्साइड (SO₂) और नाइट्रोजन ऑक्साइड (NOx) वर्षा-जल से मिलकर अम्ल बनाती हैं, जिससे अम्लीय वर्षा होती है।"
+ },
+ {
+  "n": 43,
+  "unit": "People, Development and Environment",
+  "q_hi": "मॉन्ट्रियल प्रोटोकॉल (1987) किससे संबंधित है?",
+  "q_en": "The Montreal Protocol (1987) is related to —",
+  "options_hi": [
+   "ग्रीनहाउस गैसों में कमी से",
+   "ओज़ोन परत को नष्ट करने वाले पदार्थों पर रोक से",
+   "आर्द्रभूमियों के संरक्षण से",
+   "वन्यजीव व्यापार से"
+  ],
+  "options_en": [
+   "Reduction of greenhouse gases",
+   "Phasing out of ozone-depleting substances",
+   "Conservation of wetlands",
+   "Trade in wildlife"
+  ],
+  "answer": "B",
+  "exp_hi": "मॉन्ट्रियल प्रोटोकॉल (1987) ओज़ोन परत को क्षति पहुँचाने वाले पदार्थों, विशेषकर CFC, के उत्पादन व उपयोग को चरणबद्ध ढंग से समाप्त करने के लिए बना था।"
+ },
+ {
+  "n": 44,
+  "unit": "People, Development and Environment",
+  "q_hi": "भारत में 'प्रोजेक्ट टाइगर' (Project Tiger) किस वर्ष प्रारंभ हुआ?",
+  "q_en": "In which year was 'Project Tiger' launched in India?",
+  "options_hi": [
+   "1970",
+   "1971",
+   "1972",
+   "1973"
+  ],
+  "options_en": [
+   "1970",
+   "1971",
+   "1972",
+   "1973"
+  ],
+  "answer": "D",
+  "exp_hi": "बाघों के संरक्षण के लिए प्रोजेक्ट टाइगर 1973 में प्रारंभ हुआ; इसका शुभारंभ कॉर्बेट राष्ट्रीय उद्यान से हुआ था।"
+ },
+ {
+  "n": 45,
+  "unit": "People, Development and Environment",
+  "q_hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) का मुख्यालय कहाँ स्थित है?",
+  "q_en": "Where is the headquarters of the United Nations Environment Programme (UNEP) located?",
+  "options_hi": [
+   "नैरोबी (केन्या)",
+   "जिनेवा (स्विट्ज़रलैंड)",
+   "न्यूयॉर्क (अमेरिका)",
+   "वियना (ऑस्ट्रिया)"
+  ],
+  "options_en": [
+   "Nairobi (Kenya)",
+   "Geneva (Switzerland)",
+   "New York (USA)",
+   "Vienna (Austria)"
+  ],
+  "answer": "A",
+  "exp_hi": "UNEP का मुख्यालय नैरोबी (केन्या) में है; यह विकासशील देश में स्थित संयुक्त राष्ट्र का प्रमुख मुख्यालय होने के कारण भी विशिष्ट है।"
+ },
+ {
+  "n": 46,
+  "unit": "Higher Education System",
+  "q_hi": "कोठारी आयोग (1964-66) के अध्यक्ष कौन थे?",
+  "q_en": "Who was the chairman of the Kothari Commission (1964-66)?",
+  "options_hi": [
+   "डॉ. एस. राधाकृष्णन",
+   "मौलाना अबुल कलाम आज़ाद",
+   "डॉ. डी. एस. कोठारी",
+   "डॉ. मुदालियार"
+  ],
+  "options_en": [
+   "Dr. S. Radhakrishnan",
+   "Maulana Abul Kalam Azad",
+   "Dr. D. S. Kothari",
+   "Dr. Mudaliar"
+  ],
+  "answer": "C",
+  "exp_hi": "शिक्षा आयोग (1964-66) के अध्यक्ष डॉ. दौलत सिंह कोठारी थे; इसकी रिपोर्ट 'शिक्षा और राष्ट्रीय विकास' के नाम से प्रसिद्ध है। राधाकृष्णन आयोग (1948) विश्वविद्यालय शिक्षा पर था।"
+ },
+ {
+  "n": 47,
+  "unit": "Higher Education System",
+  "q_hi": "राष्ट्रीय शिक्षा नीति 2020 के अंतर्गत उच्च शिक्षा (चिकित्सा व विधि शिक्षा को छोड़कर) के लिए प्रस्तावित एकल नियामक संस्था कौन-सी है?",
+  "q_en": "Under the National Education Policy 2020, which single regulatory body is proposed for higher education (except medical and legal education)?",
+  "options_hi": [
+   "राष्ट्रीय मूल्यांकन परिषद",
+   "राष्ट्रीय अध्यापक शिक्षा परिषद",
+   "भारतीय उच्च शिक्षा आयोग (HECI)",
+   "भारतीय चिकित्सा परिषद"
+  ],
+  "options_en": [
+   "National Assessment Council",
+   "National Council for Teacher Education",
+   "Higher Education Commission of India (HECI)",
+   "Medical Council of India"
+  ],
+  "answer": "C",
+  "exp_hi": "NEP 2020 में UGC, AICTE आदि के स्थान पर एकल छतरी संस्था — भारतीय उच्च शिक्षा आयोग (HECI) — का प्रस्ताव है; चिकित्सा और विधि शिक्षा इससे बाहर रखी गई है।"
+ },
+ {
+  "n": 48,
+  "unit": "Higher Education System",
+  "q_hi": "AISHE का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of AISHE?",
+  "options_hi": [
+   "All India Survey on Higher Education",
+   "All India Society for Higher Education",
+   "Association of Indian Schools and Higher Education",
+   "Annual Indian Survey of Health and Education"
+  ],
+  "options_en": [
+   "All India Survey on Higher Education",
+   "All India Society for Higher Education",
+   "Association of Indian Schools and Higher Education",
+   "Annual Indian Survey of Health and Education"
+  ],
+  "answer": "A",
+  "exp_hi": "AISHE (All India Survey on Higher Education) शिक्षा मंत्रालय द्वारा उच्च शिक्षा संस्थानों पर प्रतिवर्ष किया जाने वाला सर्वेक्षण है, जिसकी रिपोर्ट नियमित रूप से प्रकाशित होती है।"
+ },
+ {
+  "n": 49,
+  "unit": "Higher Education System",
+  "q_hi": "भारत का प्रथम महिला विश्वविद्यालय (SNDT, 1916) किसके द्वारा स्थापित किया गया था?",
+  "q_en": "By whom was India's first women's university (SNDT, 1916) established?",
+  "options_hi": [
+   "पंडिता रमाबाई",
+   "सावित्रीबाई फुले",
+   "एनी बेसेंट",
+   "धोंडो केशव कर्वे"
+  ],
+  "options_en": [
+   "Pandita Ramabai",
+   "Savitribai Phule",
+   "Annie Besant",
+   "Dhondo Keshav Karve"
+  ],
+  "answer": "D",
+  "exp_hi": "महर्षि धोंडो केशव कर्वे ने 1916 में मुंबई में प्रथम महिला विश्वविद्यालय की स्थापना की, जो बाद में श्रीमती नाथीबाई दामोदर ठाकरसी (SNDT) महिला विश्वविद्यालय के नाम से प्रसिद्ध हुआ।"
+ },
+ {
+  "n": 50,
+  "unit": "Higher Education System",
+  "q_hi": "राष्ट्रीय शिक्षा नीति 2020 के अनुसार, शिक्षा पर सार्वजनिक निवेश को GDP के कितने प्रतिशत तक बढ़ाने का लक्ष्य है?",
+  "q_en": "According to the National Education Policy 2020, public investment in education is to be increased to what percentage of GDP?",
+  "options_hi": [
+   "3%",
+   "4%",
+   "5%",
+   "6%"
+  ],
+  "options_en": [
+   "3%",
+   "4%",
+   "5%",
+   "6%"
+  ],
+  "answer": "D",
+  "exp_hi": "NEP 2020 में शिक्षा पर सार्वजनिक निवेश को GDP के 6% तक पहुँचाने का लक्ष्य रखा गया है; यह सिफ़ारिश कोठारी आयोग से ही चली आ रही है।"
+ }
+]
