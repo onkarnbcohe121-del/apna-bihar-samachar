@@ -1,0 +1,2002 @@
+[
+ {
+  "n": 1,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "सांख्य दर्शन के प्रवर्तक कौन माने जाते हैं?",
+  "q_en": "Who is regarded as the founder of Sankhya philosophy?",
+  "options_hi": [
+   "महर्षि कपिल",
+   "महर्षि पतंजलि",
+   "कणाद",
+   "गौतम"
+  ],
+  "options_en": [
+   "Kapila",
+   "Patanjali",
+   "Kanada",
+   "Gautama"
+  ],
+  "answer": "A",
+  "exp_hi": "सांख्य दर्शन के प्रवर्तक महर्षि कपिल माने जाते हैं, जिन्होंने प्रकृति और पुरुष के द्वैत तथा सत्त्व, रजस् और तमस् — तीन गुणों का सिद्धांत दिया। पतंजलि योग दर्शन से, कणाद वैशेषिक से और गौतम न्याय दर्शन से जुड़े हैं।"
+ },
+ {
+  "n": 2,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "मीमांसा दर्शन में कुल कितने प्रमाण स्वीकार किए गए हैं?",
+  "q_en": "How many pramanas (sources of valid knowledge) are accepted in Mimamsa philosophy?",
+  "options_hi": [
+   "चार",
+   "छह",
+   "पाँच",
+   "तीन"
+  ],
+  "options_en": [
+   "Four",
+   "Six",
+   "Five",
+   "Three"
+  ],
+  "answer": "B",
+  "exp_hi": "मीमांसा दर्शन छह प्रमाण मानता है — प्रत्यक्ष, अनुमान, उपमान, शब्द, अर्थापत्ति और अनुपलब्धि। न्याय चार, योग तीन और सांख्य तीन प्रमाण स्वीकार करता है।"
+ },
+ {
+  "n": 3,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "यथार्थवाद (Realism) का जनक किसे माना जाता है?",
+  "q_en": "Who is considered the father of Realism in philosophy of education?",
+  "options_hi": [
+   "प्लेटो",
+   "रूसो",
+   "अरस्तू",
+   "जॉन डीवी"
+  ],
+  "options_en": [
+   "Plato",
+   "Rousseau",
+   "Aristotle",
+   "John Dewey"
+  ],
+  "answer": "C",
+  "exp_hi": "अरस्तू को यथार्थवाद का जनक माना जाता है, क्योंकि उन्होंने विचारों की जगह वस्तुओं और इंद्रिय-अनुभव को वास्तविकता का आधार माना। प्लेटो आदर्शवाद से, रूसो प्रकृतिवाद से और डीवी प्रयोजनवाद से जुड़े हैं।"
+ },
+ {
+  "n": 4,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "सावित्रीबाई फुले ने लड़कियों के लिए पहला विद्यालय कब और कहाँ खोला था?",
+  "q_en": "When and where did Savitribai Phule open the first school for girls?",
+  "options_hi": [
+   "1854 ई. में मुंबई में",
+   "1882 ई. में सतारा में",
+   "1901 ई. में कोल्हापुर में",
+   "1848 ई. में पुणे (भिड़े वाड़ा) में"
+  ],
+  "options_en": [
+   "In 1854 at Mumbai",
+   "In 1882 at Satara",
+   "In 1901 at Kolhapur",
+   "In 1848 at Pune (Bhide Wada)"
+  ],
+  "answer": "D",
+  "exp_hi": "सावित्रीबाई फुले ने ज्योतिराव फुले के साथ मिलकर 1848 ई. में पुणे के भिड़े वाड़ा में लड़कियों का पहला विद्यालय खोला। वे भारत की प्रथम महिला शिक्षिका मानी जाती हैं।"
+ },
+ {
+  "n": 5,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "जे. कृष्णमूर्ति के अनुसार शिक्षा का प्रमुख उद्देश्य क्या है?",
+  "q_en": "According to J. Krishnamurti, what is the main aim of education?",
+  "options_hi": [
+   "मन को भय और अनुकूलन (कंडीशनिंग) से मुक्त करना",
+   "परीक्षा में उच्च अंक दिलाना",
+   "व्यावसायिक कौशल देना",
+   "चरित्र का निर्माण करना"
+  ],
+  "options_en": [
+   "To free the mind from fear and conditioning",
+   "To secure high marks in examinations",
+   "To impart vocational skills",
+   "To build character"
+  ],
+  "answer": "A",
+  "exp_hi": "कृष्णमूर्ति मानते थे कि शिक्षा का कार्य मनुष्य को भय, परंपरा और अनुकूलन से मुक्त करके समग्र बुद्धिमत्ता जगाना है। उनके अनुसार तुलना और प्रतिस्पर्धा मन को विकृत करती है।"
+ },
+ {
+  "n": 6,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "शाश्वतवाद (Perennialism) के प्रमुख समर्थक कौन हैं?",
+  "q_en": "Who is the chief proponent of Perennialism?",
+  "options_hi": [
+   "विलियम बैगले",
+   "रॉबर्ट हचिन्स",
+   "थियोडोर ब्रामेल्ड",
+   "जॉर्ज काउंट्स"
+  ],
+  "options_en": [
+   "William Bagley",
+   "Robert Hutchins",
+   "Theodore Brameld",
+   "George Counts"
+  ],
+  "answer": "B",
+  "exp_hi": "शाश्वतवाद के प्रमुख समर्थक रॉबर्ट हचिन्स और मॉर्टिमर एडलर हैं, जो शाश्वत सत्य और महान ग्रंथों के अध्ययन पर बल देते हैं। बैगले आवश्यकतावाद से और ब्रामेल्ड पुनर्निर्माणवाद से जुड़े हैं।"
+ },
+ {
+  "n": 7,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "प्राचीन तक्षशिला विश्वविद्यालय में चिकित्सा (आयुर्वेद) की शिक्षा के लिए प्रसिद्ध आचार्य कौन थे, जिनके शिष्य जीवक थे?",
+  "q_en": "At the ancient Takshashila University, the teacher famous for medical (Ayurveda) education, whose disciple was Jivaka, was —",
+  "options_hi": [
+   "शिलभद्र",
+   "धर्मपाल",
+   "आत्रेय",
+   "नागार्जुन"
+  ],
+  "options_en": [
+   "Shilabhadra",
+   "Dharmapala",
+   "Atreya",
+   "Nagarjuna"
+  ],
+  "answer": "C",
+  "exp_hi": "तक्षशिला में आचार्य आत्रेय चिकित्सा शिक्षा के लिए प्रसिद्ध थे और जीवक उनके शिष्य थे, जो बाद में बिंबिसार के राजवैद्य बने। शिलभद्र नालंदा से और धर्मपाल विक्रमशिला से जुड़े हैं।"
+ },
+ {
+  "n": 8,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "आवश्यकतावाद (Essentialism) के प्रमुख प्रवर्तक कौन हैं?",
+  "q_en": "Who is the chief founder of Essentialism?",
+  "options_hi": [
+   "जॉन डीवी",
+   "रॉबर्ट हचिन्स",
+   "मैक्सिन ग्रीन",
+   "विलियम सी. बैगले"
+  ],
+  "options_en": [
+   "John Dewey",
+   "Robert Hutchins",
+   "Maxine Greene",
+   "William C. Bagley"
+  ],
+  "answer": "D",
+  "exp_hi": "आवश्यकतावाद के प्रमुख प्रवर्तक विलियम सी. बैगले हैं, जिन्होंने मूलभूत विषयों, अनुशासन और शिक्षक-केंद्रित शिक्षण पर बल दिया। यह विचारधारा प्रगतिवाद की प्रतिक्रिया में विकसित हुई।"
+ },
+ {
+  "n": 9,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "श्री अरविंद के अनुसार शिक्षा का प्रथम सिद्धांत क्या है?",
+  "q_en": "According to Sri Aurobindo, what is the first principle of education?",
+  "options_hi": [
+   "कुछ भी सिखाया नहीं जा सकता; शिक्षक केवल मार्गदर्शक है",
+   "शिक्षक ही ज्ञान का एकमात्र स्रोत है",
+   "दंड से अनुशासन स्थापित होता है",
+   "रटना ही सीखने का आधार है"
+  ],
+  "options_en": [
+   "Nothing can be taught; the teacher is only a guide",
+   "The teacher is the only source of knowledge",
+   "Discipline is established through punishment",
+   "Rote memorisation is the basis of learning"
+  ],
+  "answer": "A",
+  "exp_hi": "श्री अरविंद का प्रथम सिद्धांत है कि कुछ भी सिखाया नहीं जा सकता — शिक्षक निर्देशक नहीं, सहायक और मार्गदर्शक होता है। दूसरा सिद्धांत है कि मन से परामर्श करके उसकी प्रकृति के अनुसार विकास किया जाए।"
+ },
+ {
+  "n": 10,
+  "unit": "Unit 1: Educational Studies",
+  "q_hi": "जैन दर्शन का 'अनेकान्तवाद' क्या बताता है?",
+  "q_en": "What does 'Anekantavada' of Jain philosophy state?",
+  "options_hi": [
+   "आत्मा अमर है",
+   "सत्य के अनेक पक्ष होते हैं; कोई भी दृष्टिकोण पूर्ण सत्य नहीं है",
+   "मोक्ष ही जीवन का लक्ष्य है",
+   "अहिंसा परम धर्म है"
+  ],
+  "options_en": [
+   "The soul is immortal",
+   "Truth has many aspects; no single viewpoint is the complete truth",
+   "Liberation is the goal of life",
+   "Non-violence is the supreme duty"
+  ],
+  "answer": "B",
+  "exp_hi": "अनेकान्तवाद कहता है कि वास्तविकता बहुपक्षीय है और हर कथन किसी दृष्टिकोण से सापेक्ष रूप से सत्य होता है। इसी से स्याद्वाद और सप्तभंगी नय की अवधारणा विकसित हुई।"
+ },
+ {
+  "n": 11,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "'अधोमुखी निस्यंदन सिद्धांत' (Downward Filtration Theory) किससे जुड़ा है?",
+  "q_en": "The 'Downward Filtration Theory' is associated with whom?",
+  "options_hi": [
+   "लॉर्ड विलियम बेंटिंक",
+   "चार्ल्स वुड",
+   "लॉर्ड मैकाले",
+   "लॉर्ड कर्ज़न"
+  ],
+  "options_en": [
+   "Lord William Bentinck",
+   "Charles Wood",
+   "Lord Macaulay",
+   "Lord Curzon"
+  ],
+  "answer": "C",
+  "exp_hi": "निस्यंदन सिद्धांत के अनुसार शिक्षा पहले उच्च वर्ग को दी जाए, वहाँ से वह धीरे-धीरे जनसाधारण तक छनकर पहुँचेगी। यह मैकाले की 1835 की नीति का आधार था, जिसकी बाद में कड़ी आलोचना हुई।"
+ },
+ {
+  "n": 12,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "विश्वविद्यालय अनुदान आयोग (UGC) को वैधानिक दर्जा किस वर्ष मिला?",
+  "q_en": "In which year did the University Grants Commission (UGC) get statutory status?",
+  "options_hi": [
+   "1953",
+   "1961",
+   "1948",
+   "1956"
+  ],
+  "options_en": [
+   "1953",
+   "1961",
+   "1948",
+   "1956"
+  ],
+  "answer": "D",
+  "exp_hi": "UGC की स्थापना 1953 में हुई थी, लेकिन संसद के अधिनियम द्वारा इसे वैधानिक दर्जा 1956 में मिला। यह उच्च शिक्षा के मानक निर्धारण और अनुदान वितरण की केंद्रीय संस्था है।"
+ },
+ {
+  "n": 13,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "जिला प्राथमिक शिक्षा कार्यक्रम (DPEP) किस वर्ष प्रारंभ हुआ?",
+  "q_en": "In which year was the District Primary Education Programme (DPEP) launched?",
+  "options_hi": [
+   "1994",
+   "1986",
+   "2001",
+   "1990"
+  ],
+  "options_en": [
+   "1994",
+   "1986",
+   "2001",
+   "1990"
+  ],
+  "answer": "A",
+  "exp_hi": "DPEP 1994 में प्रारंभ हुआ, जिसका उद्देश्य जिला-स्तरीय नियोजन द्वारा प्राथमिक शिक्षा का सार्वभौमीकरण था। इसमें बालिका शिक्षा और वंचित वर्गों पर विशेष बल दिया गया।"
+ },
+ {
+  "n": 14,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "भारतीय संविधान का अनुच्छेद 350-क (350A) किससे संबंधित है?",
+  "q_en": "Article 350A of the Indian Constitution is related to what?",
+  "options_hi": [
+   "मुफ्त और अनिवार्य शिक्षा का अधिकार",
+   "भाषायी अल्पसंख्यक बच्चों को मातृभाषा में प्राथमिक शिक्षा की सुविधा",
+   "अल्पसंख्यकों का शिक्षण संस्थान स्थापित करने का अधिकार",
+   "शिक्षा का समवर्ती सूची में स्थान"
+  ],
+  "options_en": [
+   "Right to free and compulsory education",
+   "Facilities for instruction in mother tongue at the primary stage for linguistic minority children",
+   "Right of minorities to establish educational institutions",
+   "Placement of education in the Concurrent List"
+  ],
+  "answer": "B",
+  "exp_hi": "अनुच्छेद 350A प्रत्येक राज्य को निर्देश देता है कि भाषायी अल्पसंख्यक समूहों के बच्चों को प्राथमिक स्तर पर मातृभाषा में शिक्षा की पर्याप्त सुविधा दी जाए। यह सातवें संविधान संशोधन (1956) से जोड़ा गया था।"
+ },
+ {
+  "n": 15,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "भारत में पहला राष्ट्रीय पाठ्यचर्या ढांचा (NCF) किस वर्ष आया?",
+  "q_en": "In which year did the first National Curriculum Framework (NCF) come in India?",
+  "options_hi": [
+   "1988",
+   "2000",
+   "1975",
+   "2005"
+  ],
+  "options_en": [
+   "1988",
+   "2000",
+   "1975",
+   "2005"
+  ],
+  "answer": "C",
+  "exp_hi": "NCERT ने पहला राष्ट्रीय पाठ्यचर्या ढांचा 1975 में तैयार किया। इसके बाद 1988, 2000 और 2005 में नए ढांचे आए, और NEP 2020 के बाद NCF-SE 2023 प्रकाशित हुआ।"
+ },
+ {
+  "n": 16,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "कस्तूरबा गांधी बालिका विद्यालय (KGBV) योजना किस वर्ष शुरू हुई?",
+  "q_en": "In which year was the Kasturba Gandhi Balika Vidyalaya (KGBV) scheme launched?",
+  "options_hi": [
+   "2001",
+   "2009",
+   "1997",
+   "2004"
+  ],
+  "options_en": [
+   "2001",
+   "2009",
+   "1997",
+   "2004"
+  ],
+  "answer": "D",
+  "exp_hi": "KGBV योजना 2004 में शुरू हुई, जिसके अंतर्गत शैक्षणिक रूप से पिछड़े ब्लॉकों में वंचित वर्ग की बालिकाओं के लिए आवासीय उच्च प्राथमिक विद्यालय खोले गए। बाद में इसे समग्र शिक्षा में समाहित किया गया।"
+ },
+ {
+  "n": 17,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "राष्ट्रीय मध्याह्न भोजन कार्यक्रम (Mid-Day Meal) विद्यालयों में किस वर्ष प्रारंभ हुआ?",
+  "q_en": "In which year was the National Mid-Day Meal programme launched in schools?",
+  "options_hi": [
+   "1995",
+   "1987",
+   "2001",
+   "2005"
+  ],
+  "options_en": [
+   "1995",
+   "1987",
+   "2001",
+   "2005"
+  ],
+  "answer": "A",
+  "exp_hi": "राष्ट्रीय पोषण सहायता कार्यक्रम के रूप में मध्याह्न भोजन योजना 15 अगस्त 1995 को प्रारंभ हुई। इसका उद्देश्य नामांकन, उपस्थिति बढ़ाना और बच्चों का पोषण स्तर सुधारना था।"
+ },
+ {
+  "n": 18,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "पुस्तक 'The Diploma Disease' (1976) के लेखक कौन हैं?",
+  "q_en": "Who is the author of the book 'The Diploma Disease' (1976)?",
+  "options_hi": [
+   "थियोडोर शुल्ट्ज़",
+   "रोनाल्ड डोर",
+   "मार्क ब्लॉग",
+   "जॉन वैज़ी"
+  ],
+  "options_en": [
+   "Theodore Schultz",
+   "Ronald Dore",
+   "Mark Blaug",
+   "John Vaizey"
+  ],
+  "answer": "B",
+  "exp_hi": "रोनाल्ड डोर ने 'The Diploma Disease' में बताया कि विकासशील देशों में शिक्षा सीखने के बजाय केवल डिग्री और नौकरी की योग्यता-पत्र प्राप्ति का साधन बन गई है। शुल्ट्ज़ मानव पूंजी सिद्धांत से जुड़े हैं।"
+ },
+ {
+  "n": 19,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "संविधान का अनुच्छेद 29(2) किस बात की गारंटी देता है?",
+  "q_en": "What does Article 29(2) of the Constitution guarantee?",
+  "options_hi": [
+   "अल्पसंख्यक अपने संस्थान स्वयं चलाएँगे",
+   "6–14 वर्ष के बच्चों को मुफ्त शिक्षा मिलेगी",
+   "राज्य-सहायता प्राप्त संस्थान में धर्म, जाति या भाषा के आधार पर प्रवेश से वंचित नहीं किया जाएगा",
+   "शिक्षा संस्थानों को अनुदान मिलेगा"
+  ],
+  "options_en": [
+   "Minorities will run their own institutions",
+   "Children aged 6-14 will get free education",
+   "No citizen shall be denied admission into a state-aided institution on grounds of religion, race, caste or language",
+   "Educational institutions will receive grants"
+  ],
+  "answer": "C",
+  "exp_hi": "अनुच्छेद 29(2) कहता है कि राज्य द्वारा संचालित या राज्य-निधि से सहायता पाने वाले किसी भी संस्थान में केवल धर्म, मूलवंश, जाति या भाषा के आधार पर किसी नागरिक को प्रवेश से वंचित नहीं किया जाएगा।"
+ },
+ {
+  "n": 20,
+  "unit": "Unit 2: History, Politics and Economics of Education",
+  "q_hi": "सर्व शिक्षा अभियान (SSA) किस वर्ष प्रारंभ हुआ?",
+  "q_en": "In which year was the Sarva Shiksha Abhiyan (SSA) launched?",
+  "options_hi": [
+   "1994",
+   "1986",
+   "2009",
+   "2001"
+  ],
+  "options_en": [
+   "1994",
+   "1986",
+   "2009",
+   "2001"
+  ],
+  "answer": "D",
+  "exp_hi": "सर्व शिक्षा अभियान 2001 में प्रारंभ हुआ, जिसका लक्ष्य 6–14 वर्ष के सभी बच्चों को उपयोगी और गुणवत्तापूर्ण प्राथमिक शिक्षा देना था। RTE अधिनियम 2009 के बाद यह उसका क्रियान्वयन माध्यम बना।"
+ },
+ {
+  "n": 21,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "'मुझे एक दर्जन स्वस्थ शिशु दीजिए, मैं उन्हें अपनी इच्छानुसार विशेषज्ञ बना दूँगा' — यह कथन किसका है?",
+  "q_en": "'Give me a dozen healthy infants, I will make them specialists of my choice' — whose statement is this?",
+  "options_hi": [
+   "जे. बी. वॉटसन",
+   "बी. एफ. स्किनर",
+   "इवान पावलोव",
+   "एडवर्ड थॉर्नडाइक"
+  ],
+  "options_en": [
+   "J. B. Watson",
+   "B. F. Skinner",
+   "Ivan Pavlov",
+   "Edward Thorndike"
+  ],
+  "answer": "A",
+  "exp_hi": "यह कथन व्यवहारवाद के जनक जे. बी. वॉटसन का है, जो वातावरण को व्यवहार का निर्णायक मानते थे। वॉटसन ने 1913 में व्यवहारवादी घोषणा-पत्र प्रस्तुत किया था।"
+ },
+ {
+  "n": 22,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "विस्मरण वक्र (Forgetting Curve) किसने प्रस्तुत किया?",
+  "q_en": "Who presented the Forgetting Curve?",
+  "options_hi": [
+   "जॉर्ज मिलर",
+   "हरमन एबिंगहॉस",
+   "एटकिंसन और शिफ्रिन",
+   "फ्रेडरिक बार्टलेट"
+  ],
+  "options_en": [
+   "George Miller",
+   "Hermann Ebbinghaus",
+   "Atkinson and Shiffrin",
+   "Frederic Bartlett"
+  ],
+  "answer": "B",
+  "exp_hi": "एबिंगहॉस ने निरर्थक अक्षरों (nonsense syllables) पर प्रयोग करके दिखाया कि सीखने के बाद विस्मरण सबसे तेज़ पहले कुछ घंटों में होता है, फिर गति धीमी हो जाती है। इसे ही विस्मरण वक्र कहते हैं।"
+ },
+ {
+  "n": 23,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "स्पीयरमैन के द्वि-कारक सिद्धांत में 'g' कारक क्या दर्शाता है?",
+  "q_en": "In Spearman's Two-Factor Theory, what does the 'g' factor represent?",
+  "options_hi": [
+   "विशिष्ट योग्यता कारक",
+   "भाषायी योग्यता",
+   "सामान्य बुद्धि कारक, जो सभी मानसिक कार्यों में पाया जाता है",
+   "स्थानिक योग्यता"
+  ],
+  "options_en": [
+   "The specific ability factor",
+   "Verbal ability",
+   "The general intelligence factor present in all mental activities",
+   "Spatial ability"
+  ],
+  "answer": "C",
+  "exp_hi": "स्पीयरमैन के अनुसार प्रत्येक मानसिक कार्य में एक सामान्य कारक 'g' और एक विशिष्ट कारक 's' होता है। 'g' जन्मजात सामान्य मानसिक ऊर्जा है, जबकि 's' कार्य-विशेष योग्यता है।"
+ },
+ {
+  "n": 24,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "प्रथम बुद्धि परीक्षण (Binet-Simon Scale) किस वर्ष बना?",
+  "q_en": "In which year was the first intelligence test (Binet-Simon Scale) prepared?",
+  "options_hi": [
+   "1916",
+   "1937",
+   "1908",
+   "1905"
+  ],
+  "options_en": [
+   "1916",
+   "1937",
+   "1908",
+   "1905"
+  ],
+  "answer": "D",
+  "exp_hi": "अल्फ्रेड बिने और थियोडोर साइमन ने 1905 में पेरिस में पहला बुद्धि मापनी बनाया, जिससे मानसिक आयु की अवधारणा आई। 1916 में टर्मन ने इसका स्टैनफोर्ड संशोधन प्रस्तुत किया।"
+ },
+ {
+  "n": 25,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "रोर्शा स्याही-धब्बा परीक्षण (Inkblot Test) किस प्रकार की तकनीक है?",
+  "q_en": "The Rorschach Inkblot Test is which type of technique?",
+  "options_hi": [
+   "प्रक्षेपण तकनीक (Projective Technique)",
+   "आत्म-प्रतिवेदन तकनीक",
+   "मनोमिति परीक्षण",
+   "अवलोकन तकनीक"
+  ],
+  "options_en": [
+   "Projective Technique",
+   "Self-report technique",
+   "Psychometric test",
+   "Observation technique"
+  ],
+  "answer": "A",
+  "exp_hi": "रोर्शा परीक्षण एक प्रक्षेपण तकनीक है, जिसमें व्यक्ति अस्पष्ट स्याही-धब्बों में अपने अवचेतन विचार और भावनाएँ प्रक्षेपित करता है। इसे स्विस मनोचिकित्सक हरमन रोर्शा ने 1921 में विकसित किया।"
+ },
+ {
+  "n": 26,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "थीमैटिक एपर्सेप्शन परीक्षण (TAT) किसने विकसित किया?",
+  "q_en": "Who developed the Thematic Apperception Test (TAT)?",
+  "options_hi": [
+   "हरमन रोर्शा",
+   "हेनरी मरे और क्रिस्टियाना मॉर्गन",
+   "लियोपोल्ड बेलाक",
+   "जॉन रॉटर"
+  ],
+  "options_en": [
+   "Hermann Rorschach",
+   "Henry Murray and Christiana Morgan",
+   "Leopold Bellak",
+   "John Rotter"
+  ],
+  "answer": "B",
+  "exp_hi": "TAT का विकास 1930 के दशक में हेनरी मरे और क्रिस्टियाना मॉर्गन ने हार्वर्ड में किया। इसमें चित्र देखकर कहानी बनाने से व्यक्ति की आवश्यकताएँ और प्रेरणाएँ जानी जाती हैं।"
+ },
+ {
+  "n": 27,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "चॉम्स्की के अनुसार भाषा अर्जन यंत्र (LAD) क्या है?",
+  "q_en": "According to Chomsky, what is the Language Acquisition Device (LAD)?",
+  "options_hi": [
+   "श्रवण यंत्र का एक प्रकार",
+   "भाषा प्रयोगशाला का उपकरण",
+   "बच्चे में भाषा सीखने की जन्मजात क्षमता",
+   "शब्दावली स्मरण की विधि"
+  ],
+  "options_en": [
+   "A type of hearing device",
+   "A language laboratory equipment",
+   "The innate capacity in a child to acquire language",
+   "A method of memorising vocabulary"
+  ],
+  "answer": "C",
+  "exp_hi": "चॉम्स्की के अनुसार प्रत्येक बच्चे में सार्वभौमिक व्याकरण की जन्मजात संरचना (LAD) होती है, जिससे वह कम समय में अपनी भाषा के नियम स्वयं बना लेता है। यह व्यवहारवादी अनुकरण सिद्धांत के विपरीत है।"
+ },
+ {
+  "n": 28,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "एरिक्सन के मनोसामाजिक विकास की दूसरी अवस्था कौन-सी है?",
+  "q_en": "What is the second stage of Erikson's psycho-social development?",
+  "options_hi": [
+   "विश्वास बनाम अविश्वास",
+   "पहल बनाम अपराधबोध",
+   "परिश्रम बनाम हीनता",
+   "स्वायत्तता बनाम लज्जा और संदेह"
+  ],
+  "options_en": [
+   "Trust vs. Mistrust",
+   "Initiative vs. Guilt",
+   "Industry vs. Inferiority",
+   "Autonomy vs. Shame and Doubt"
+  ],
+  "answer": "D",
+  "exp_hi": "एरिक्सन की दूसरी अवस्था (लगभग 1.5–3 वर्ष) स्वायत्तता बनाम लज्जा और संदेह है, जिसमें बच्चा स्वयं काम करना सीखता है। पहली अवस्था विश्वास बनाम अविश्वास है।"
+ },
+ {
+  "n": 29,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "फ्रायड के अनुसार 'पराहम्' (Super-Ego) का कार्य क्या है?",
+  "q_en": "According to Freud, what is the function of the 'Super-Ego'?",
+  "options_hi": [
+   "नैतिक आदर्शों और अंतरात्मा के अनुसार व्यवहार को नियंत्रित करना",
+   "जन्मजात इच्छाओं की पूर्ति करना",
+   "वास्तविकता के अनुसार निर्णय लेना",
+   "स्मृति को संग्रहित करना"
+  ],
+  "options_en": [
+   "To control behaviour according to moral ideals and conscience",
+   "To fulfil innate desires",
+   "To take decisions according to reality",
+   "To store memory"
+  ],
+  "answer": "A",
+  "exp_hi": "फ्रायड के व्यक्तित्व ढांचे में इदम् (Id) इच्छाओं का, अहम् (Ego) वास्तविकता का और पराहम् (Super-Ego) नैतिकता व अंतरात्मा का प्रतिनिधित्व करता है। पराहम् समाज के नियमों को आत्मसात करके बनता है।"
+ },
+ {
+  "n": 30,
+  "unit": "Unit 3: Learner and Learning Process",
+  "q_hi": "गेस्टाल्ट मनोविज्ञान के संस्थापकों में प्रमुख कौन हैं?",
+  "q_en": "Who is the chief among the founders of Gestalt Psychology?",
+  "options_hi": [
+   "कुर्ट लेविन",
+   "मैक्स वर्दाइमर",
+   "वोल्फगैंग कोहलर केवल",
+   "जे. बी. वॉटसन"
+  ],
+  "options_en": [
+   "Kurt Lewin",
+   "Max Wertheimer",
+   "Wolfgang Kohler only",
+   "J. B. Watson"
+  ],
+  "answer": "B",
+  "exp_hi": "गेस्टाल्ट मनोविज्ञान की स्थापना 1912 में मैक्स वर्दाइमर ने कोहलर और कॉफ्का के साथ मिलकर की। इसका मूल मंत्र है — 'समग्र, भागों के योग से अधिक होता है।'"
+ },
+ {
+  "n": 31,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "भारत में क्षेत्रीय शिक्षा संस्थान (RIE) कुल कितने हैं?",
+  "q_en": "How many Regional Institutes of Education (RIEs) are there in India?",
+  "options_hi": [
+   "चार",
+   "छह",
+   "पाँच",
+   "तीन"
+  ],
+  "options_en": [
+   "Four",
+   "Six",
+   "Five",
+   "Three"
+  ],
+  "answer": "C",
+  "exp_hi": "NCERT के अंतर्गत पाँच RIE हैं — अजमेर, भोपाल, भुवनेश्वर, मैसूरु और शिलांग (पूर्वोत्तर क्षेत्रीय संस्थान)। ये क्षेत्रीय स्तर पर शिक्षक शिक्षा और विद्यालयी शिक्षा में सहायता करते हैं।"
+ },
+ {
+  "n": 32,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "UGC के मानव संसाधन विकास केंद्रों (HRDC) को 2023 में किस नए नाम से पुनर्गठित किया गया?",
+  "q_en": "By what new name were UGC's Human Resource Development Centres (HRDCs) reorganised in 2023?",
+  "options_hi": [
+   "राष्ट्रीय शिक्षक विकास केंद्र",
+   "शिक्षक उत्कृष्टता संस्थान",
+   "UGC अकादमिक केंद्र",
+   "मालवीय मिशन शिक्षक प्रशिक्षण केंद्र (MMTTC)"
+  ],
+  "options_en": [
+   "National Teacher Development Centres",
+   "Teacher Excellence Institutes",
+   "UGC Academic Centres",
+   "Malaviya Mission Teacher Training Centres (MMTTC)"
+  ],
+  "answer": "D",
+  "exp_hi": "NEP 2020 की भावना के अनुरूप 2023 में HRDCs का नाम बदलकर मालवीय मिशन शिक्षक प्रशिक्षण केंद्र (MMTTC) कर दिया गया। ये विश्वविद्यालय शिक्षकों के अभिविन्यास और पुनश्चर्या कार्यक्रम चलाते हैं।"
+ },
+ {
+  "n": 33,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "फ्लैंडर्स अंतःक्रिया विश्लेषण में वर्ग 8 और 9 किससे संबंधित हैं?",
+  "q_en": "In Flanders' Interaction Analysis, Categories 8 and 9 are related to what?",
+  "options_hi": [
+   "छात्र कथन — उत्तर और छात्र कथन — पहल",
+   "शिक्षक का अप्रत्यक्ष प्रभाव",
+   "मौन या भ्रम की स्थिति",
+   "शिक्षक का व्याख्यान"
+  ],
+  "options_en": [
+   "Pupil talk — response and pupil talk — initiation",
+   "Indirect influence of the teacher",
+   "Silence or confusion",
+   "Teacher's lecture"
+  ],
+  "answer": "A",
+  "exp_hi": "फ्लैंडर्स प्रणाली में वर्ग 1–7 शिक्षक कथन, वर्ग 8–9 छात्र कथन और वर्ग 10 मौन/भ्रम है। वर्ग 8 में छात्र शिक्षक के प्रश्न का उत्तर देता है और वर्ग 9 में छात्र स्वयं पहल करके बोलता है।"
+ },
+ {
+  "n": 34,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "सूक्ष्म शिक्षण (Micro-teaching) चक्र का सही क्रम कौन-सा है?",
+  "q_en": "What is the correct sequence of the Micro-teaching cycle?",
+  "options_hi": [
+   "शिक्षण → योजना → प्रतिपुष्टि → मूल्यांकन",
+   "योजना → शिक्षण → प्रतिपुष्टि → पुनः योजना → पुनः शिक्षण → पुनः प्रतिपुष्टि",
+   "प्रतिपुष्टि → शिक्षण → योजना → पुनः शिक्षण",
+   "योजना → प्रतिपुष्टि → शिक्षण → परीक्षा"
+  ],
+  "options_en": [
+   "Teach → Plan → Feedback → Evaluation",
+   "Plan → Teach → Feedback → Re-plan → Re-teach → Re-feedback",
+   "Feedback → Teach → Plan → Re-teach",
+   "Plan → Feedback → Teach → Test"
+  ],
+  "answer": "B",
+  "exp_hi": "सूक्ष्म शिक्षण चक्र में प्रशिक्षु पहले पाठ की योजना बनाता है, छोटे समूह को पढ़ाता है, प्रतिपुष्टि पाकर पुनः योजना बनाता है और फिर पुनः शिक्षण करता है। यह चक्र कौशल में निपुणता आने तक चलता है।"
+ },
+ {
+  "n": 35,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "कैलर योजना (Keller Plan) किसका दूसरा नाम है?",
+  "q_en": "The Keller Plan is another name for what?",
+  "options_hi": [
+   "दल शिक्षण",
+   "कार्यक्रमित अनुदेशन",
+   "वैयक्तिकृत शिक्षण प्रणाली (PSI)",
+   "सूक्ष्म शिक्षण"
+  ],
+  "options_en": [
+   "Team Teaching",
+   "Programmed Instruction",
+   "Personalised System of Instruction (PSI)",
+   "Micro-teaching"
+  ],
+  "answer": "C",
+  "exp_hi": "फ्रेड एस. कैलर द्वारा विकसित वैयक्तिकृत शिक्षण प्रणाली (PSI) में छात्र अपनी गति से इकाइयाँ पूरी करता है और अगली इकाई पर तभी बढ़ता है जब पिछली में निपुणता आ जाए।"
+ },
+ {
+  "n": 36,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "दल शिक्षण (Team Teaching) का प्रारंभ सर्वप्रथम कहाँ हुआ?",
+  "q_en": "Where did Team Teaching originate first?",
+  "options_hi": [
+   "इंग्लैंड",
+   "जर्मनी",
+   "जापान",
+   "अमेरिका (हार्वर्ड विश्वविद्यालय)"
+  ],
+  "options_en": [
+   "England",
+   "Germany",
+   "Japan",
+   "America (Harvard University)"
+  ],
+  "answer": "D",
+  "exp_hi": "दल शिक्षण का प्रारंभ 1950 के दशक में अमेरिका के हार्वर्ड विश्वविद्यालय से माना जाता है। इसमें दो या अधिक शिक्षक मिलकर एक ही समूह के शिक्षण की योजना बनाते और पढ़ाते हैं।"
+ },
+ {
+  "n": 37,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "शिक्षक शिक्षा महाविद्यालय (CTE) किस उद्देश्य से बनाए गए?",
+  "q_en": "For what purpose were the Colleges of Teacher Education (CTEs) established?",
+  "options_hi": [
+   "माध्यमिक शिक्षकों के सेवाकालीन प्रशिक्षण और शैक्षिक नवाचार हेतु चयनित B.Ed. महाविद्यालयों का उन्नयन करके",
+   "केवल प्राथमिक शिक्षकों के प्रशिक्षण हेतु",
+   "विश्वविद्यालयों के प्रशासन हेतु",
+   "पाठ्यपुस्तकें छापने हेतु"
+  ],
+  "options_en": [
+   "By upgrading selected B.Ed. colleges for in-service training of secondary teachers and educational innovation",
+   "Only for training of primary teachers",
+   "For administration of universities",
+   "For printing textbooks"
+  ],
+  "answer": "A",
+  "exp_hi": "राष्ट्रीय शिक्षा नीति 1986 के अंतर्गत अच्छे B.Ed. महाविद्यालयों को CTE के रूप में उन्नत किया गया, ताकि माध्यमिक शिक्षकों को सेवाकालीन प्रशिक्षण, विस्तार सेवा और नवाचार का केंद्र मिले। IASE उच्चतर स्तर की संस्थाएँ हैं।"
+ },
+ {
+  "n": 38,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "समग्र शिक्षा के अंतर्गत ब्लॉक संसाधन केंद्र (BRC) का प्रमुख कार्य क्या है?",
+  "q_en": "What is the main function of a Block Resource Centre (BRC) under Samagra Shiksha?",
+  "options_hi": [
+   "विद्यालय भवन का निर्माण करना",
+   "ब्लॉक के विद्यालयों को शैक्षणिक सहायता और शिक्षकों को प्रशिक्षण देना",
+   "छात्रों की परीक्षा लेना",
+   "शिक्षकों की नियुक्ति करना"
+  ],
+  "options_en": [
+   "To construct school buildings",
+   "To provide academic support to schools of the block and training to teachers",
+   "To conduct examinations of students",
+   "To appoint teachers"
+  ],
+  "answer": "B",
+  "exp_hi": "BRC ब्लॉक स्तर पर शिक्षकों को शैक्षणिक मार्गदर्शन, प्रशिक्षण और संसाधन सहायता देता है। इसके नीचे संकुल संसाधन केंद्र (CRC) विद्यालय-समूह स्तर पर यही कार्य करते हैं।"
+ },
+ {
+  "n": 39,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "राष्ट्रीय मार्गदर्शन मिशन (National Mission for Mentoring) किसके लिए प्रारंभ किया गया?",
+  "q_en": "For whom was the National Mission for Mentoring (NMM) launched?",
+  "options_hi": [
+   "छात्रों को करियर मार्गदर्शन देने के लिए",
+   "प्राचार्यों के प्रशिक्षण के लिए",
+   "विद्यालयी शिक्षकों को अनुभवी मार्गदर्शकों (मेंटर्स) से जोड़ने के लिए",
+   "शोध छात्रों की सहायता के लिए"
+  ],
+  "options_en": [
+   "To give career guidance to students",
+   "For training of principals",
+   "To connect school teachers with experienced mentors",
+   "To help research scholars"
+  ],
+  "answer": "C",
+  "exp_hi": "NEP 2020 के अंतर्गत NCTE द्वारा प्रारंभ राष्ट्रीय मार्गदर्शन मिशन में वरिष्ठ और सेवानिवृत्त उत्कृष्ट शिक्षक, विद्यालयी शिक्षकों के मेंटर बनते हैं। इसका उद्देश्य शिक्षकों का निरंतर व्यावसायिक विकास है।"
+ },
+ {
+  "n": 40,
+  "unit": "Unit 4: Teacher Education",
+  "q_hi": "NCFTE 2009 किस संस्था द्वारा तैयार किया गया था?",
+  "q_en": "The NCFTE 2009 was prepared by which institution?",
+  "options_hi": [
+   "NCERT",
+   "UGC",
+   "CBSE",
+   "राष्ट्रीय अध्यापक शिक्षा परिषद (NCTE)"
+  ],
+  "options_en": [
+   "NCERT",
+   "UGC",
+   "CBSE",
+   "National Council for Teacher Education (NCTE)"
+  ],
+  "answer": "D",
+  "exp_hi": "शिक्षक शिक्षा के लिए राष्ट्रीय पाठ्यचर्या ढांचा (NCFTE) 2009 NCTE ने तैयार किया। इसमें शिक्षक को चिंतनशील व्यवसायी (reflective practitioner) बनाने पर बल दिया गया है।"
+ },
+ {
+  "n": 41,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "पाठ्यचर्या का सायलर और अलेक्जेंडर मॉडल मुख्यतः किस प्रकार का है?",
+  "q_en": "The Saylor and Alexander model of curriculum is mainly of which type?",
+  "options_hi": [
+   "प्रशासनिक (उद्देश्य-आधारित) मॉडल, जिसमें लक्ष्य, अनुभव, संगठन और मूल्यांकन क्रमिक चरण हैं",
+   "प्रदर्शन मॉडल",
+   "प्रक्रिया मॉडल",
+   "स्कूल-आधारित मॉडल"
+  ],
+  "options_en": [
+   "An administrative (objectives-based) model with goals, experiences, organisation and evaluation as sequential steps",
+   "Demonstration model",
+   "Process model",
+   "School-based model"
+  ],
+  "answer": "A",
+  "exp_hi": "सायलर और अलेक्जेंडर (1974) का मॉडल प्रशासनिक दृष्टिकोण का है, जिसमें पाठ्यचर्या विकास लक्ष्यों से शुरू होकर मूल्यांकन तक रैखिक क्रम में चलता है। यह टायलर मॉडल की परंपरा का विस्तार है।"
+ },
+ {
+  "n": 42,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "पाठ्यचर्या विकास का हंकिन्स मॉडल किस पर केंद्रित है?",
+  "q_en": "The Hunkins model of curriculum development focuses on what?",
+  "options_hi": [
+   "केवल उद्देश्यों के निर्धारण पर",
+   "प्रत्येक चरण पर निर्णय-निर्माण (Decision Making)",
+   "केवल विषय-वस्तु के चयन पर",
+   "केवल मूल्यांकन पर"
+  ],
+  "options_en": [
+   "Only on fixing objectives",
+   "Decision making at every stage",
+   "Only on selection of content",
+   "Only on evaluation"
+  ],
+  "answer": "B",
+  "exp_hi": "फ्रांसिस हंकिन्स (1980) के मॉडल में पाठ्यचर्या विकास के हर चरण — अवधारणा, निदान, विषय-वस्तु चयन, अनुभव चयन, क्रियान्वयन और मूल्यांकन — में निर्णय लेना केंद्रीय प्रक्रिया है।"
+ },
+ {
+  "n": 43,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "'विस्तृत क्षेत्र अभिकल्प' (Broad-fields Design) का अर्थ है —",
+  "q_en": "The 'Broad-fields Design' of curriculum means —",
+  "options_hi": [
+   "सभी विषयों को एक ही विषय में मिला देना",
+   "केवल व्यावसायिक विषय पढ़ाना",
+   "संबंधित विषयों को मिलाकर विस्तृत अध्ययन क्षेत्र बनाना, जैसे सामाजिक अध्ययन",
+   "गतिविधियों को केंद्र बनाना"
+  ],
+  "options_en": [
+   "Merging all subjects into one subject",
+   "Teaching only vocational subjects",
+   "Combining related subjects into broad areas of study, such as Social Studies",
+   "Making activities the centre"
+  ],
+  "answer": "C",
+  "exp_hi": "विस्तृत क्षेत्र अभिकल्प में इतिहास, भूगोल, नागरिकशास्त्र आदि मिलकर 'सामाजिक अध्ययन' जैसा विस्तृत क्षेत्र बनता है। इससे विषयों की खंडितता घटती है, परंतु गहराई कुछ कम हो सकती है।"
+ },
+ {
+  "n": 44,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "'इकाई योजना' (Unit Plan) का उपागम किसने दिया?",
+  "q_en": "Who gave the Unit Plan approach?",
+  "options_hi": [
+   "जॉन फ्रेडरिक हरबर्ट",
+   "विलियम किलपैट्रिक",
+   "बी. एस. ब्लूम",
+   "हेनरी मॉरिसन"
+  ],
+  "options_en": [
+   "Johann Friedrich Herbart",
+   "William Kilpatrick",
+   "B. S. Bloom",
+   "Henry Morrison"
+  ],
+  "answer": "D",
+  "exp_hi": "शिकागो विश्वविद्यालय के हेनरी मॉरिसन ने इकाई योजना उपागम दिया, जिसमें विषय-वस्तु को अर्थपूर्ण इकाइयों में बाँटकर निपुणता तक पढ़ाया जाता है। किलपैट्रिक प्रोजेक्ट विधि से जुड़े हैं।"
+ },
+ {
+  "n": 45,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "हरबर्ट की पंचपदी (पाँच औपचारिक चरणों) का सही क्रम क्या है?",
+  "q_en": "What is the correct order of Herbart's five formal steps?",
+  "options_hi": [
+   "तैयारी → प्रस्तुतीकरण → साहचर्य/तुलना → सामान्यीकरण → प्रयोग",
+   "प्रस्तुतीकरण → तैयारी → प्रयोग → सामान्यीकरण",
+   "सामान्यीकरण → तैयारी → प्रस्तुतीकरण → प्रयोग",
+   "तैयारी → प्रयोग → प्रस्तुतीकरण → साहचर्य"
+  ],
+  "options_en": [
+   "Preparation → Presentation → Association/Comparison → Generalisation → Application",
+   "Presentation → Preparation → Application → Generalisation",
+   "Generalisation → Preparation → Presentation → Application",
+   "Preparation → Application → Presentation → Association"
+  ],
+  "answer": "A",
+  "exp_hi": "हरबर्ट के अनुयायियों ने शिक्षण के पाँच चरण दिए — तैयारी, प्रस्तुतीकरण, साहचर्य, सामान्यीकरण और प्रयोग। इनसे ही पारंपरिक पाठ-योजना की संरचना बनी।"
+ },
+ {
+  "n": 46,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "RCEM उपागम का विकास किस संस्था ने किया?",
+  "q_en": "The RCEM approach was developed by which institution?",
+  "options_hi": [
+   "NCERT मुख्यालय, नई दिल्ली",
+   "क्षेत्रीय शिक्षा महाविद्यालय, मैसूरु (NCERT)",
+   "NIEPA, नई दिल्ली",
+   "CIE, दिल्ली विश्वविद्यालय"
+  ],
+  "options_en": [
+   "NCERT Headquarters, New Delhi",
+   "Regional College of Education, Mysore (NCERT)",
+   "NIEPA, New Delhi",
+   "CIE, University of Delhi"
+  ],
+  "answer": "B",
+  "exp_hi": "RCEM (Regional College of Education, Mysore) उपागम ब्लूम वर्गीकरण का भारतीय रूपांतरण है, जिसमें उद्देश्यों को ज्ञान, अवबोध, प्रयोग और सृजनात्मकता के रूप में लिखा जाता है। इसमें मानसिक प्रक्रियाओं पर बल है।"
+ },
+ {
+  "n": 47,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "विद्यालयी शिक्षा के लिए राष्ट्रीय पाठ्यचर्या ढांचा (NCF-SE) किस वर्ष प्रकाशित हुआ?",
+  "q_en": "In which year was the National Curriculum Framework for School Education (NCF-SE) published?",
+  "options_hi": [
+   "2020",
+   "2005",
+   "2023",
+   "2022"
+  ],
+  "options_en": [
+   "2020",
+   "2005",
+   "2023",
+   "2022"
+  ],
+  "answer": "C",
+  "exp_hi": "NEP 2020 के अनुरूप NCF-SE 2023 में प्रकाशित हुआ, जो 5+3+3+4 संरचना के सभी चरणों के लिए पाठ्यचर्या दिशानिर्देश देता है। 2022 में आधारभूत चरण का NCF-FS आया था।"
+ },
+ {
+  "n": 48,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "गतिविधि पाठ्यचर्या (Activity Curriculum) के प्रमुख प्रवर्तक कौन माने जाते हैं?",
+  "q_en": "Who is regarded as the chief exponent of the Activity Curriculum?",
+  "options_hi": [
+   "हेनरी मॉरिसन",
+   "राल्फ टायलर",
+   "हिल्डा ताबा",
+   "हेरोल्ड रग"
+  ],
+  "options_en": [
+   "Henry Morrison",
+   "Ralph Tyler",
+   "Hilda Taba",
+   "Harold Rugg"
+  ],
+  "answer": "D",
+  "exp_hi": "हेरोल्ड रग ने गतिविधि पाठ्यचर्या का समर्थन किया, जिसमें बच्चों की रुचियों और सामाजिक गतिविधियों को केंद्र में रखा जाता है। यह अनुभव-केंद्रित अभिकल्प का प्रमुख रूप है।"
+ },
+ {
+  "n": 49,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "विषय-केंद्रित अभिकल्पों में सबसे प्राचीन और परंपरागत अभिकल्प कौन-सा है?",
+  "q_en": "Which is the oldest and most traditional among subject-centred designs?",
+  "options_hi": [
+   "पृथक विषय अभिकल्प (Separate Subject Design)",
+   "विस्तृत क्षेत्र अभिकल्प",
+   "सहसंबंध अभिकल्प",
+   "प्रक्रिया अभिकल्प"
+  ],
+  "options_en": [
+   "Separate Subject Design",
+   "Broad-fields Design",
+   "Correlation Design",
+   "Process Design"
+  ],
+  "answer": "A",
+  "exp_hi": "पृथक विषय अभिकल्प सबसे पुराना है, जिसमें हर विषय स्वतंत्र रूप से पढ़ाया जाता है। इसकी सीमा यह है कि ज्ञान खंडों में बँट जाता है और जीवन से संबंध कमजोर रहता है।"
+ },
+ {
+  "n": 50,
+  "unit": "Unit 5: Curriculum Studies",
+  "q_hi": "'विद्यालय-आधारित पाठ्यचर्या विकास' (SBCD) की अवधारणा किससे जुड़ी है?",
+  "q_en": "The concept of 'School-Based Curriculum Development' (SBCD) is associated with whom?",
+  "options_hi": [
+   "लॉरेंस स्टेनहाउस",
+   "मैल्कम स्किलबेक",
+   "जॉन केर",
+   "डेकर वॉकर"
+  ],
+  "options_en": [
+   "Lawrence Stenhouse",
+   "Malcolm Skilbeck",
+   "John Kerr",
+   "Decker Walker"
+  ],
+  "answer": "B",
+  "exp_hi": "मैल्कम स्किलबेक ने विद्यालय-आधारित पाठ्यचर्या विकास का प्रतिपादन किया, जिसमें विद्यालय और शिक्षक स्वयं अपनी परिस्थिति के अनुसार पाठ्यचर्या बनाते हैं। स्टेनहाउस प्रक्रिया मॉडल से जुड़े हैं।"
+ },
+ {
+  "n": 51,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "'t-परीक्षण' (t-test) का प्रयोग मुख्यतः कब किया जाता है?",
+  "q_en": "The 't-test' is mainly used when?",
+  "options_hi": [
+   "सहसंबंध ज्ञात करने के लिए",
+   "आवृत्तियों का वितरण देखने के लिए",
+   "दो समूहों के माध्यों के अंतर की सार्थकता जाँचने के लिए",
+   "मध्यांक ज्ञात करने के लिए"
+  ],
+  "options_en": [
+   "To find correlation",
+   "To see frequency distribution",
+   "To test the significance of difference between two group means",
+   "To find the median"
+  ],
+  "answer": "C",
+  "exp_hi": "t-परीक्षण दो माध्यों के बीच के अंतर की सार्थकता जाँचता है, विशेषकर जब प्रतिदर्श छोटा हो। यह विलियम गॉसेट द्वारा 'Student' उपनाम से विकसित किया गया था।"
+ },
+ {
+  "n": 52,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "काई-वर्ग परीक्षण (Chi-square Test) किस प्रकार का परीक्षण है?",
+  "q_en": "The Chi-square test is which type of test?",
+  "options_hi": [
+   "प्राचलिक परीक्षण",
+   "सहसंबंध परीक्षण",
+   "विश्वसनीयता परीक्षण",
+   "अप्राचलिक (Non-parametric) परीक्षण"
+  ],
+  "options_en": [
+   "Parametric test",
+   "Correlation test",
+   "Reliability test",
+   "Non-parametric test"
+  ],
+  "answer": "D",
+  "exp_hi": "काई-वर्ग एक अप्राचलिक परीक्षण है, जो श्रेणीबद्ध आँकड़ों में प्रेक्षित और अपेक्षित आवृत्तियों के अंतर की सार्थकता जाँचता है। इसके लिए आँकड़ों का सामान्य वितरण आवश्यक नहीं होता।"
+ },
+ {
+  "n": 53,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "स्पीयरमैन का कोटि-अंतर सहसंबंध (Rank Difference Correlation) कब प्रयोग होता है?",
+  "q_en": "When is Spearman's Rank Difference Correlation used?",
+  "options_hi": [
+   "जब आँकड़े क्रमिक (कोटि/रैंक) रूप में हों",
+   "जब आँकड़े अंतराल मापनी पर हों",
+   "जब प्रतिदर्श बहुत बड़ा हो",
+   "जब केवल दो चर हों"
+  ],
+  "options_en": [
+   "When data are in ordinal (rank) form",
+   "When data are on an interval scale",
+   "When the sample is very large",
+   "When there are only two variables"
+  ],
+  "answer": "A",
+  "exp_hi": "स्पीयरमैन की विधि तब प्रयोग होती है जब योग्यता को वास्तविक अंकों के बजाय कोटियों (ranks) में व्यक्त किया जाए, जैसे सुंदरता या ईमानदारी का क्रम निर्धारण। पीयरसन विधि वास्तविक प्राप्तांकों पर आधारित है।"
+ },
+ {
+  "n": 54,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "'प्राचल' (Parameter) और 'प्रतिदर्शज' (Statistic) में अंतर क्या है?",
+  "q_en": "What is the difference between a 'Parameter' and a 'Statistic'?",
+  "options_hi": [
+   "दोनों समष्टि के मान हैं",
+   "प्राचल समष्टि (population) का मान है, प्रतिदर्शज प्रतिदर्श का मान है",
+   "प्राचल प्रतिदर्श का और प्रतिदर्शज समष्टि का मान है",
+   "दोनों केवल अनुमान हैं"
+  ],
+  "options_en": [
+   "Both are values of the population",
+   "A parameter is a value of the population, a statistic is a value of the sample",
+   "Parameter is of sample and statistic is of population",
+   "Both are only estimates"
+  ],
+  "answer": "B",
+  "exp_hi": "समष्टि के किसी गुण का वास्तविक मान प्राचल कहलाता है, जैसे समष्टि माध्य। प्रतिदर्श से ज्ञात किया गया वही मान प्रतिदर्शज कहलाता है, जिससे प्राचल का अनुमान लगाया जाता है।"
+ },
+ {
+  "n": 55,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "'इतिहास' (History) और 'परिपक्वता' (Maturation) किसके लिए खतरा माने जाते हैं?",
+  "q_en": "'History' and 'Maturation' are considered threats to what?",
+  "options_hi": [
+   "बाह्य वैधता",
+   "विश्वसनीयता",
+   "आंतरिक वैधता (Internal Validity)",
+   "वस्तुनिष्ठता"
+  ],
+  "options_en": [
+   "External validity",
+   "Reliability",
+   "Internal validity",
+   "Objectivity"
+  ],
+  "answer": "C",
+  "exp_hi": "कैम्पबेल और स्टेनली के अनुसार प्रयोग के दौरान होने वाली बाहरी घटनाएँ (इतिहास) और प्रतिभागियों में स्वाभाविक बदलाव (परिपक्वता) परिणामों को प्रभावित करके आंतरिक वैधता को खतरे में डालते हैं।"
+ },
+ {
+  "n": 56,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "'ग्राउंडेड थ्योरी' (Grounded Theory) के प्रतिपादक कौन हैं?",
+  "q_en": "Who are the propounders of 'Grounded Theory'?",
+  "options_hi": [
+   "क्रेसवेल और प्लानो",
+   "यिन और स्टेक",
+   "माइल्स और ह्यूबरमैन",
+   "ग्लेज़र और स्ट्रॉस"
+  ],
+  "options_en": [
+   "Creswell and Plano",
+   "Yin and Stake",
+   "Miles and Huberman",
+   "Glaser and Strauss"
+  ],
+  "answer": "D",
+  "exp_hi": "ग्राउंडेड थ्योरी बार्नी ग्लेज़र और एंसेल्म स्ट्रॉस ने 1967 में दी, जिसमें सिद्धांत पहले से नहीं बनाया जाता, बल्कि क्षेत्र के आँकड़ों से क्रमबद्ध रूप से विकसित किया जाता है।"
+ },
+ {
+  "n": 57,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "'मिश्रित विधि शोध' (Mixed Methods Research) क्या है?",
+  "q_en": "What is 'Mixed Methods Research'?",
+  "options_hi": [
+   "एक ही अध्ययन में मात्रात्मक और गुणात्मक दोनों उपागमों का संयोजन",
+   "केवल दो मात्रात्मक विधियों का प्रयोग",
+   "केवल साहित्य समीक्षा",
+   "दो अलग-अलग शोधकर्ताओं द्वारा शोध"
+  ],
+  "options_en": [
+   "Combination of both quantitative and qualitative approaches in a single study",
+   "Use of only two quantitative methods",
+   "Only literature review",
+   "Research by two different researchers"
+  ],
+  "answer": "A",
+  "exp_hi": "मिश्रित विधि शोध में संख्यात्मक आँकड़े और गुणात्मक जानकारी दोनों एकत्र करके परिणामों की पुष्टि और गहरी समझ प्राप्त की जाती है। इसे त्रिकोणीकरण (triangulation) से भी जोड़ा जाता है।"
+ },
+ {
+  "n": 58,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "शोध रिपोर्ट में APA शैली मुख्यतः किसके लिए प्रयुक्त होती है?",
+  "q_en": "In a research report, the APA style is mainly used for what?",
+  "options_hi": [
+   "आँकड़ों का विश्लेषण करने के लिए",
+   "संदर्भों और उद्धरणों को मानक रूप में लिखने के लिए",
+   "प्रतिदर्श चुनने के लिए",
+   "परिकल्पना बनाने के लिए"
+  ],
+  "options_en": [
+   "For analysing data",
+   "For writing references and citations in a standard format",
+   "For selecting the sample",
+   "For framing the hypothesis"
+  ],
+  "answer": "B",
+  "exp_hi": "APA (American Psychological Association) शैली शिक्षा और मनोविज्ञान के शोध में ग्रंथसूची, संदर्भ और पाठ्य-उद्धरणों का मानक प्रारूप देती है। वर्तमान में इसका सातवाँ संस्करण प्रचलित है।"
+ },
+ {
+  "n": 59,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "शोध-पत्र का 'सार' (Abstract) क्या होता है?",
+  "q_en": "What is the 'Abstract' of a research paper?",
+  "options_hi": [
+   "केवल साहित्य समीक्षा का भाग",
+   "केवल निष्कर्षों की सूची",
+   "पूरे अध्ययन का संक्षिप्त सारांश — समस्या, विधि, परिणाम और निष्कर्ष सहित",
+   "शोधकर्ता का परिचय"
+  ],
+  "options_en": [
+   "Only a part of literature review",
+   "Only a list of conclusions",
+   "A brief summary of the whole study including problem, method, results and conclusion",
+   "Introduction of the researcher"
+  ],
+  "answer": "C",
+  "exp_hi": "सार शोध-पत्र का 150–250 शब्दों का संक्षिप्त रूप होता है, जिससे पाठक तुरंत जान सके कि अध्ययन किस समस्या पर, किस विधि से हुआ और क्या निष्कर्ष निकले।"
+ },
+ {
+  "n": 60,
+  "unit": "Unit 6: Research in Education",
+  "q_hi": "प्रसरण विश्लेषण (ANOVA) का प्रयोग कब किया जाता है?",
+  "q_en": "When is Analysis of Variance (ANOVA) used?",
+  "options_hi": [
+   "केवल दो समूहों की तुलना के लिए",
+   "सहसंबंध ज्ञात करने के लिए",
+   "आवृत्ति वितरण बनाने के लिए",
+   "दो से अधिक समूहों के माध्यों की तुलना एक साथ करने के लिए"
+  ],
+  "options_en": [
+   "To compare only two groups",
+   "To find correlation",
+   "To make a frequency distribution",
+   "To compare the means of more than two groups simultaneously"
+  ],
+  "answer": "D",
+  "exp_hi": "ANOVA में कुल प्रसरण को समूहों के बीच और समूहों के भीतर के प्रसरण में बाँटकर F-अनुपात से सार्थकता जाँची जाती है। बार-बार t-परीक्षण करने से टाइप-I त्रुटि बढ़ती है, ANOVA उसी से बचाता है।"
+ },
+ {
+  "n": 61,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "विसरण (dispersion) का सबसे स्थिर और विश्वसनीय माप कौन-सा है?",
+  "q_en": "Which is the most stable and reliable measure of dispersion?",
+  "options_hi": [
+   "मानक विचलन (Standard Deviation)",
+   "परिसर (Range)",
+   "चतुर्थक विचलन",
+   "माध्य विचलन"
+  ],
+  "options_en": [
+   "Standard Deviation",
+   "Range",
+   "Quartile Deviation",
+   "Mean Deviation"
+  ],
+  "answer": "A",
+  "exp_hi": "मानक विचलन सभी प्राप्तांकों पर आधारित होता है और आगे के सांख्यिकीय विश्लेषण में उपयोगी है, इसलिए यह विसरण का सबसे विश्वसनीय माप माना जाता है। परिसर केवल दो चरम मानों पर आधारित होने से अस्थिर होता है।"
+ },
+ {
+  "n": 62,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "चतुर्थक विचलन (Quartile Deviation) का सूत्र क्या है?",
+  "q_en": "What is the formula of Quartile Deviation?",
+  "options_hi": [
+   "(Q3 + Q1) / 2",
+   "(Q3 − Q1) / 2",
+   "Q3 − Q1",
+   "(Q3 − Q1) / 4"
+  ],
+  "options_en": [
+   "(Q3 + Q1) / 2",
+   "(Q3 - Q1) / 2",
+   "Q3 - Q1",
+   "(Q3 - Q1) / 4"
+  ],
+  "answer": "B",
+  "exp_hi": "चतुर्थक विचलन अंतर-चतुर्थक परिसर का आधा होता है — (Q3 − Q1)/2। यह वितरण के मध्य 50% भाग के फैलाव को दर्शाता है और चरम मानों से प्रभावित नहीं होता।"
+ },
+ {
+  "n": 63,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "नैदानिक परीक्षण (Diagnostic Test) का मुख्य उद्देश्य क्या है?",
+  "q_en": "What is the main purpose of a Diagnostic Test?",
+  "options_hi": [
+   "छात्रों को श्रेणी देना",
+   "अगली कक्षा में प्रवेश तय करना",
+   "सीखने की कठिनाइयों और उनके कारणों का पता लगाना",
+   "समूह का माध्य निकालना"
+  ],
+  "options_en": [
+   "To award grades to students",
+   "To decide admission to the next class",
+   "To identify learning difficulties and their causes",
+   "To find the group mean"
+  ],
+  "answer": "C",
+  "exp_hi": "नैदानिक परीक्षण किसी विषय में छात्र की विशिष्ट कमजोरियों और उनके कारणों को खोजता है, ताकि उपचारात्मक शिक्षण (remedial teaching) की योजना बनाई जा सके। यह उपलब्धि परीक्षण से उद्देश्य में भिन्न है।"
+ },
+ {
+  "n": 64,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "पूर्वानुमान परीक्षण (Prognostic Test) किस लिए होता है?",
+  "q_en": "What is a Prognostic Test meant for?",
+  "options_hi": [
+   "भूतकाल की उपलब्धि मापने के लिए",
+   "कमजोरियाँ खोजने के लिए",
+   "उपस्थिति जाँचने के लिए",
+   "किसी क्षेत्र में भविष्य की सफलता की भविष्यवाणी करने के लिए"
+  ],
+  "options_en": [
+   "To measure past achievement",
+   "To find weaknesses",
+   "To check attendance",
+   "To predict future success in a particular field"
+  ],
+  "answer": "D",
+  "exp_hi": "पूर्वानुमान परीक्षण अभिक्षमता के आधार पर बताता है कि छात्र भविष्य में किसी पाठ्यक्रम या व्यवसाय में कितना सफल हो सकता है। अभिक्षमता परीक्षण (aptitude tests) इसी श्रेणी में आते हैं।"
+ },
+ {
+  "n": 65,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "बुद्धि-लब्धि (IQ) का सूत्र किसने दिया — IQ = (मानसिक आयु / वास्तविक आयु) × 100?",
+  "q_en": "Who gave the formula of IQ = (Mental Age / Chronological Age) x 100?",
+  "options_hi": [
+   "विलियम स्टर्न",
+   "अल्फ्रेड बिने",
+   "डेविड वेक्सलर",
+   "जे. पी. गिलफोर्ड"
+  ],
+  "options_en": [
+   "William Stern",
+   "Alfred Binet",
+   "David Wechsler",
+   "J. P. Guilford"
+  ],
+  "answer": "A",
+  "exp_hi": "जर्मन मनोवैज्ञानिक विलियम स्टर्न ने 1912 में बुद्धि-लब्धि (Intelligence Quotient) की अवधारणा और सूत्र दिया। टर्मन ने इसे स्टैनफोर्ड-बिने परीक्षण में लोकप्रिय बनाया।"
+ },
+ {
+  "n": 66,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "'संचयी अभिलेख पत्र' (Cumulative Record Card) क्या है?",
+  "q_en": "What is a 'Cumulative Record Card'?",
+  "options_hi": [
+   "केवल वार्षिक परीक्षा के अंकों की सूची",
+   "छात्र की प्रगति, स्वास्थ्य, रुचियों आदि का वर्षों तक रखा गया व्यवस्थित अभिलेख",
+   "शिक्षक की उपस्थिति पंजिका",
+   "शुल्क रसीद पुस्तिका"
+  ],
+  "options_en": [
+   "Only a list of annual examination marks",
+   "A systematic record of a student's progress, health, interests etc. maintained over years",
+   "Teacher's attendance register",
+   "Fee receipt book"
+  ],
+  "answer": "B",
+  "exp_hi": "संचयी अभिलेख में छात्र की शैक्षणिक प्रगति के साथ स्वास्थ्य, उपस्थिति, रुचियाँ, व्यक्तित्व और सह-पाठ्यक्रम गतिविधियों का निरंतर अभिलेख रहता है। यह मार्गदर्शन का प्रमुख साधन है।"
+ },
+ {
+  "n": 67,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "'आलेखीय निर्धारण मापनी' (Graphic Rating Scale) में निर्धारण कैसे होता है?",
+  "q_en": "How is rating done in a 'Graphic Rating Scale'?",
+  "options_hi": [
+   "हाँ या नहीं में उत्तर देकर",
+   "वस्तुनिष्ठ प्रश्नों के उत्तर देकर",
+   "एक रेखा/सातत्य पर उपयुक्त बिंदु को चिह्नित करके",
+   "क्रम संख्या देकर"
+  ],
+  "options_en": [
+   "By answering in yes or no",
+   "By answering objective questions",
+   "By marking a suitable point on a line/continuum",
+   "By giving rank order"
+  ],
+  "answer": "C",
+  "exp_hi": "आलेखीय मापनी में गुण के सातत्य को एक क्षैतिज रेखा पर दर्शाया जाता है और निर्धारक उपयुक्त स्थान पर निशान लगाता है। यह निर्धारण मापनियों में सबसे अधिक प्रयुक्त प्रकार है।"
+ },
+ {
+  "n": 68,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "निबंधात्मक परीक्षणों की सबसे बड़ी सीमा क्या है?",
+  "q_en": "What is the biggest limitation of essay-type tests?",
+  "options_hi": [
+   "समय अधिक लगना",
+   "छपाई महँगी होना",
+   "प्रश्न बनाना कठिन होना",
+   "अंकन में आत्मनिष्ठता के कारण विश्वसनीयता कम होना"
+  ],
+  "options_en": [
+   "They take more time",
+   "Printing is costly",
+   "Framing questions is difficult",
+   "Low reliability due to subjectivity in scoring"
+  ],
+  "answer": "D",
+  "exp_hi": "निबंधात्मक उत्तरों का अंकन परीक्षक के मनोभाव, हस्तलेखन और अपेक्षाओं से प्रभावित होता है, इसलिए एक ही उत्तर-पुस्तिका पर अलग-अलग अंक मिल सकते हैं। यही इनकी विश्वसनीयता की सबसे बड़ी सीमा है।"
+ },
+ {
+  "n": 69,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "विसरण का सबसे सरल माप कौन-सा है?",
+  "q_en": "Which is the simplest measure of dispersion?",
+  "options_hi": [
+   "परिसर (Range)",
+   "मानक विचलन",
+   "चतुर्थक विचलन",
+   "प्रसरण"
+  ],
+  "options_en": [
+   "Range",
+   "Standard Deviation",
+   "Quartile Deviation",
+   "Variance"
+  ],
+  "answer": "A",
+  "exp_hi": "परिसर सबसे सरल माप है — यह उच्चतम और न्यूनतम प्राप्तांक का अंतर होता है। सरल होने के साथ यह सबसे अस्थिर माप भी है, क्योंकि यह केवल दो चरम मानों पर निर्भर करता है।"
+ },
+ {
+  "n": 70,
+  "unit": "Unit 7: Measurement and Evaluation",
+  "q_hi": "'मानदंड-संदर्भित परीक्षण' (Criterion-Referenced Test) की अवधारणा किसने दी?",
+  "q_en": "Who gave the concept of 'Criterion-Referenced Test'?",
+  "options_hi": [
+   "बेंजामिन ब्लूम",
+   "रॉबर्ट ग्लेज़र",
+   "नॉर्मन ग्रॉनलंड",
+   "जेम्स पॉपम"
+  ],
+  "options_en": [
+   "Benjamin Bloom",
+   "Robert Glaser",
+   "Norman Gronlund",
+   "James Popham"
+  ],
+  "answer": "B",
+  "exp_hi": "रॉबर्ट ग्लेज़र ने 1963 में मानदंड-संदर्भित मापन की अवधारणा दी, जिसमें छात्र की तुलना समूह से न करके पूर्व-निर्धारित निपुणता स्तर से होती है। इसके विपरीत समूह-संदर्भित परीक्षण में तुलना समूह से होती है।"
+ },
+ {
+  "n": 71,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "'पथ-लक्ष्य सिद्धांत' (Path-Goal Theory) के प्रतिपादक कौन हैं?",
+  "q_en": "Who propounded the 'Path-Goal Theory' of leadership?",
+  "options_hi": [
+   "फ्रेड फीडलर",
+   "पॉल हर्सी",
+   "रॉबर्ट हाउस",
+   "रेनसिस लिकर्ट"
+  ],
+  "options_en": [
+   "Fred Fiedler",
+   "Paul Hersey",
+   "Robert House",
+   "Rensis Likert"
+  ],
+  "answer": "C",
+  "exp_hi": "रॉबर्ट हाउस (1971) के पथ-लक्ष्य सिद्धांत के अनुसार नेता का कार्य अधीनस्थों के लक्ष्य तक का मार्ग स्पष्ट करना और बाधाएँ दूर करना है। यह प्रत्याशा सिद्धांत पर आधारित है।"
+ },
+ {
+  "n": 72,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "ब्लेक और माउटन के प्रबंधकीय ग्रिड में '1,1' शैली क्या कहलाती है?",
+  "q_en": "In Blake and Mouton's Managerial Grid, what is the '1,1' style called?",
+  "options_hi": [
+   "दल प्रबंधन",
+   "मध्यम मार्ग प्रबंधन",
+   "सत्ता-अनुपालन प्रबंधन",
+   "दरिद्र/निष्क्रिय प्रबंधन (Impoverished Management)"
+  ],
+  "options_en": [
+   "Team Management",
+   "Middle-of-the-road Management",
+   "Authority-Compliance Management",
+   "Impoverished Management"
+  ],
+  "answer": "D",
+  "exp_hi": "ग्रिड में 1,1 स्थिति में उत्पादन और मनुष्यों — दोनों के प्रति चिंता न्यूनतम होती है, इसलिए इसे दरिद्र प्रबंधन कहते हैं। 9,9 दल प्रबंधन और 5,5 मध्यम मार्ग प्रबंधन है।"
+ },
+ {
+  "n": 73,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "'थ्योरी Z' के प्रतिपादक कौन हैं?",
+  "q_en": "Who propounded 'Theory Z'?",
+  "options_hi": [
+   "विलियम आउची",
+   "डगलस मैकग्रेगर",
+   "अब्राहम मैस्लो",
+   "क्रिस आर्गिरिस"
+  ],
+  "options_en": [
+   "William Ouchi",
+   "Douglas McGregor",
+   "Abraham Maslow",
+   "Chris Argyris"
+  ],
+  "answer": "A",
+  "exp_hi": "विलियम आउची ने जापानी प्रबंधन पद्धति का अध्ययन करके थ्योरी Z दी, जिसमें आजीवन रोजगार, सामूहिक निर्णय और विश्वास पर बल है। मैकग्रेगर ने थ्योरी X और Y दी थीं।"
+ },
+ {
+  "n": 74,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "हॉथोर्न प्रयोग (Hawthorne Experiments) किससे जुड़े हैं?",
+  "q_en": "The Hawthorne Experiments are associated with whom?",
+  "options_hi": [
+   "एफ. डब्ल्यू. टेलर",
+   "एल्टन मेयो",
+   "हेनरी फेयोल",
+   "मैक्स वेबर"
+  ],
+  "options_en": [
+   "F. W. Taylor",
+   "Elton Mayo",
+   "Henri Fayol",
+   "Max Weber"
+  ],
+  "answer": "B",
+  "exp_hi": "एल्टन मेयो के हॉथोर्न प्रयोगों (1924–32) से मानवीय संबंध आंदोलन की शुरुआत हुई। इनसे सिद्ध हुआ कि सामाजिक कारक और ध्यान दिया जाना उत्पादकता को भौतिक दशाओं से अधिक प्रभावित करता है।"
+ },
+ {
+  "n": 75,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "'प्राधिकार की स्वीकृति का सिद्धांत' (Acceptance Theory of Authority) किसने दिया?",
+  "q_en": "Who gave the 'Acceptance Theory of Authority'?",
+  "options_hi": [
+   "हर्बर्ट साइमन",
+   "लूथर गुलिक",
+   "चेस्टर बर्नार्ड",
+   "मेरी पार्कर फॉलेट"
+  ],
+  "options_en": [
+   "Herbert Simon",
+   "Luther Gulick",
+   "Chester Barnard",
+   "Mary Parker Follett"
+  ],
+  "answer": "C",
+  "exp_hi": "चेस्टर बर्नार्ड के अनुसार आदेश तभी प्राधिकार बनता है जब अधीनस्थ उसे स्वीकार करे। उनकी पुस्तक 'The Functions of the Executive' (1938) प्रशासन शास्त्र की क्लासिक है।"
+ },
+ {
+  "n": 76,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "हर्बर्ट साइमन के निर्णय-निर्माण के तीन चरण कौन-से हैं?",
+  "q_en": "What are the three phases of Herbert Simon's decision-making?",
+  "options_hi": [
+   "योजना → क्रियान्वयन → मूल्यांकन",
+   "विश्लेषण → संश्लेषण → निष्कर्ष",
+   "समस्या → समाधान → प्रतिक्रिया",
+   "आसूचना (Intelligence) → अभिकल्प (Design) → चयन (Choice)"
+  ],
+  "options_en": [
+   "Planning → Implementation → Evaluation",
+   "Analysis → Synthesis → Conclusion",
+   "Problem → Solution → Feedback",
+   "Intelligence → Design → Choice"
+  ],
+  "answer": "D",
+  "exp_hi": "साइमन के अनुसार निर्णय प्रक्रिया में पहले समस्या की खोज (आसूचना), फिर विकल्पों का विकास (अभिकल्प) और अंत में सर्वोत्तम विकल्प का चयन होता है। प्रशासन को उन्होंने निर्णय-निर्माण की प्रक्रिया माना।"
+ },
+ {
+  "n": 77,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "विद्यालय में प्राचार्य द्वारा शिक्षकों को परिपत्र (circular) भेजना किस प्रकार का संप्रेषण है?",
+  "q_en": "A principal sending a circular to teachers in a school is which type of communication?",
+  "options_hi": [
+   "अधोगामी संप्रेषण (Downward Communication)",
+   "ऊर्ध्वगामी संप्रेषण",
+   "क्षैतिज संप्रेषण",
+   "अनौपचारिक संप्रेषण (ग्रेपवाइन)"
+  ],
+  "options_en": [
+   "Downward communication",
+   "Upward communication",
+   "Horizontal communication",
+   "Informal communication (grapevine)"
+  ],
+  "answer": "A",
+  "exp_hi": "उच्च स्तर से निम्न स्तर की ओर जाने वाला आदेश, निर्देश या परिपत्र अधोगामी संप्रेषण है। शिक्षकों की प्रतिपुष्टि प्राचार्य तक जाना ऊर्ध्वगामी संप्रेषण कहलाएगा।"
+ },
+ {
+  "n": 78,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "NAAC मूल्यांकन में 'A++' ग्रेड के लिए CGPA की सीमा क्या है?",
+  "q_en": "What is the CGPA range for the 'A++' grade in NAAC accreditation?",
+  "options_hi": [
+   "3.01 से 3.50",
+   "3.51 से 4.00",
+   "2.51 से 3.00",
+   "4.00 से अधिक"
+  ],
+  "options_en": [
+   "3.01 to 3.50",
+   "3.51 to 4.00",
+   "2.51 to 3.00",
+   "More than 4.00"
+  ],
+  "answer": "B",
+  "exp_hi": "NAAC के संशोधित ढांचे में 3.51–4.00 CGPA पर A++, 3.01–3.50 पर A+ और 2.51–3.00 पर A ग्रेड मिलता है। मान्यता के लिए न्यूनतम CGPA 2.00 आवश्यक है।"
+ },
+ {
+  "n": 79,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "NBA (राष्ट्रीय प्रत्यायन बोर्ड) मुख्यतः किसका प्रत्यायन करता है?",
+  "q_en": "The NBA (National Board of Accreditation) mainly accredits what?",
+  "options_hi": [
+   "संपूर्ण विश्वविद्यालयों का",
+   "विद्यालयों का",
+   "तकनीकी और व्यावसायिक कार्यक्रमों (जैसे इंजीनियरिंग) का",
+   "शोध पत्रिकाओं का"
+  ],
+  "options_en": [
+   "Whole universities",
+   "Schools",
+   "Technical and professional programmes (such as engineering)",
+   "Research journals"
+  ],
+  "answer": "C",
+  "exp_hi": "NBA कार्यक्रम-स्तर का प्रत्यायन करता है, विशेषकर इंजीनियरिंग, प्रबंधन, फार्मेसी जैसे तकनीकी कार्यक्रमों का। NAAC संस्था-स्तर का मूल्यांकन और प्रत्यायन करता है — यही दोनों में मुख्य अंतर है।"
+ },
+ {
+  "n": 80,
+  "unit": "Unit 8: Management, Administration and Leadership",
+  "q_hi": "RTE अधिनियम के अंतर्गत 'विद्यालय विकास योजना' (School Development Plan) कौन तैयार करता है?",
+  "q_en": "Under the RTE Act, who prepares the 'School Development Plan'?",
+  "options_hi": [
+   "जिला शिक्षा अधिकारी",
+   "राज्य शिक्षा विभाग",
+   "ग्राम पंचायत",
+   "विद्यालय प्रबंधन समिति (SMC)"
+  ],
+  "options_en": [
+   "District Education Officer",
+   "State Education Department",
+   "Gram Panchayat",
+   "School Management Committee (SMC)"
+  ],
+  "answer": "D",
+  "exp_hi": "RTE अधिनियम की धारा 22 के अनुसार विद्यालय प्रबंधन समिति तीन वर्षीय विद्यालय विकास योजना तैयार करती है। इसी योजना के आधार पर विद्यालय को अनुदान और संसाधन मिलते हैं।"
+ },
+ {
+  "n": 81,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "'ज्ञान दर्शन' क्या है?",
+  "q_en": "What is 'Gyan Darshan'?",
+  "options_hi": [
+   "IGNOU द्वारा संचालित शैक्षणिक टीवी चैनल",
+   "एक रेडियो चैनल",
+   "एक MOOC मंच",
+   "एक डिजिटल पुस्तकालय"
+  ],
+  "options_en": [
+   "An educational TV channel run by IGNOU",
+   "A radio channel",
+   "A MOOC platform",
+   "A digital library"
+  ],
+  "answer": "A",
+  "exp_hi": "ज्ञान दर्शन IGNOU द्वारा 2000 में प्रारंभ शैक्षणिक टीवी चैनल है। इसके विपरीत 'ज्ञान वाणी' शैक्षणिक एफएम रेडियो चैनल है।"
+ },
+ {
+  "n": 82,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "CEC (शैक्षणिक संचार संघ) का मुख्य कार्य क्या है?",
+  "q_en": "What is the main function of the CEC (Consortium for Educational Communication)?",
+  "options_hi": [
+   "पाठ्यपुस्तकें प्रकाशित करना",
+   "विश्वविद्यालयों के लिए शैक्षणिक टीवी कार्यक्रमों और MOOCs का समन्वय व निर्माण",
+   "विद्यालयों का निरीक्षण करना",
+   "शिक्षकों की भर्ती करना"
+  ],
+  "options_en": [
+   "Publishing textbooks",
+   "Coordination and production of educational TV programmes and MOOCs for universities",
+   "Inspecting schools",
+   "Recruiting teachers"
+  ],
+  "answer": "B",
+  "exp_hi": "CEC, UGC का अंतर-विश्वविद्यालय केंद्र है, जो देशभर के मीडिया केंद्रों (EMRCs) द्वारा बने शैक्षणिक कार्यक्रमों का समन्वय करता है। यह SWAYAM के राष्ट्रीय समन्वयकों में से एक है।"
+ },
+ {
+  "n": 83,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "EMRC/EMMRC का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of EMRC/EMMRC?",
+  "options_hi": [
+   "इलेक्ट्रॉनिक मीडिया संसाधन केंद्र",
+   "शैक्षणिक प्रबंधन अनुसंधान केंद्र",
+   "शैक्षणिक मल्टीमीडिया अनुसंधान केंद्र (Educational Multimedia Research Centre)",
+   "राष्ट्रीय मीडिया अनुसंधान परिषद"
+  ],
+  "options_en": [
+   "Electronic Media Resource Centre",
+   "Educational Management Research Centre",
+   "Educational Multimedia Research Centre",
+   "National Media Research Council"
+  ],
+  "answer": "C",
+  "exp_hi": "EMRCs विश्वविद्यालयों में स्थित केंद्र हैं, जो उच्च शिक्षा के लिए टीवी और मल्टीमीडिया ई-सामग्री बनाते हैं। ये UGC-CEC के अंतर्गत कार्य करते हैं।"
+ },
+ {
+  "n": 84,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "SWAYAM पाठ्यक्रमों की 'चार चतुर्थांश' (Four Quadrant) प्रणाली में प्रथम चतुर्थांश क्या है?",
+  "q_en": "In the Four Quadrant approach of SWAYAM courses, what is Quadrant-I?",
+  "options_hi": [
+   "ई-सामग्री (पाठ्य सामग्री)",
+   "ऑनलाइन मूल्यांकन (क्विज़)",
+   "चर्चा मंच",
+   "ई-ट्यूटोरियल — वीडियो और ऑडियो व्याख्यान सामग्री"
+  ],
+  "options_en": [
+   "e-Content (reading material)",
+   "Online assessment (quiz)",
+   "Discussion forum",
+   "e-Tutorial — video and audio lecture content"
+  ],
+  "answer": "D",
+  "exp_hi": "SWAYAM के चार चतुर्थांश हैं — I: ई-ट्यूटोरियल (वीडियो), II: ई-सामग्री (पाठ), III: चर्चा मंच, IV: स्व-मूल्यांकन (क्विज़ व असाइनमेंट)। यह संरचना हर SWAYAM पाठ्यक्रम में अनिवार्य है।"
+ },
+ {
+  "n": 85,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "PLATO प्रणाली किससे संबंधित है?",
+  "q_en": "The PLATO system is related to what?",
+  "options_hi": [
+   "प्रारंभिक कंप्यूटर-सहायक अनुदेशन (CAI) प्रणाली",
+   "उपग्रह संचार से",
+   "रेडियो प्रसारण से",
+   "पत्राचार शिक्षा से"
+  ],
+  "options_en": [
+   "An early Computer-Assisted Instruction (CAI) system",
+   "Satellite communication",
+   "Radio broadcasting",
+   "Correspondence education"
+  ],
+  "answer": "A",
+  "exp_hi": "PLATO (Programmed Logic for Automatic Teaching Operations) 1960 में इलिनॉय विश्वविद्यालय में विकसित प्रारंभिक CAI प्रणाली थी। इसमें ऑनलाइन चर्चा और संदेश की शुरुआती सुविधाएँ भी थीं।"
+ },
+ {
+  "n": 86,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "'विद्यालय शिक्षा में ICT की राष्ट्रीय नीति' किस वर्ष आई?",
+  "q_en": "In which year did the 'National Policy on ICT in School Education' come?",
+  "options_hi": [
+   "2008",
+   "2012",
+   "2016",
+   "2000"
+  ],
+  "options_en": [
+   "2008",
+   "2012",
+   "2016",
+   "2000"
+  ],
+  "answer": "B",
+  "exp_hi": "विद्यालय शिक्षा में सूचना व संचार प्रौद्योगिकी की राष्ट्रीय नीति 2012 में जारी हुई। इसका उद्देश्य छात्रों और शिक्षकों में डिजिटल साक्षरता और ICT-आधारित शिक्षण को बढ़ावा देना था।"
+ },
+ {
+  "n": 87,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "SWAYAM पर इंजीनियरिंग पाठ्यक्रमों का राष्ट्रीय समन्वयक कौन है?",
+  "q_en": "Who is the National Coordinator for engineering courses on SWAYAM?",
+  "options_hi": [
+   "IGNOU",
+   "NIOS",
+   "NPTEL (IITs और IISc का संयुक्त उपक्रम)",
+   "CEC"
+  ],
+  "options_en": [
+   "IGNOU",
+   "NIOS",
+   "NPTEL (a joint initiative of IITs and IISc)",
+   "CEC"
+  ],
+  "answer": "C",
+  "exp_hi": "SWAYAM पर विभिन्न क्षेत्रों के लिए अलग राष्ट्रीय समन्वयक हैं — इंजीनियरिंग के लिए NPTEL, विद्यालय शिक्षा के लिए NCERT और मुक्त विश्वविद्यालय पाठ्यक्रमों के लिए IGNOU समन्वयक है।"
+ },
+ {
+  "n": 88,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "'पॉडकास्ट' की प्रमुख विशेषता क्या है?",
+  "q_en": "What is the chief feature of a 'Podcast'?",
+  "options_hi": [
+   "सीधा (लाइव) प्रसारण ही संभव है",
+   "केवल वीडियो सामग्री होती है",
+   "केवल रेडियो पर ही चलता है",
+   "मांग पर सुनी जा सकने वाली डिजिटल ऑडियो शृंखला"
+  ],
+  "options_en": [
+   "Only live broadcast is possible",
+   "It has only video content",
+   "It runs only on radio",
+   "A digital audio series that can be listened to on demand"
+  ],
+  "answer": "D",
+  "exp_hi": "पॉडकास्ट इंटरनेट से डाउनलोड या स्ट्रीम करके अपनी सुविधा से सुना जा सकता है। शिक्षा में व्याख्यान, चर्चा और भाषा-शिक्षण के लिए इसका व्यापक उपयोग होता है।"
+ },
+ {
+  "n": 89,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "'ऑडियो टेलीकॉन्फ्रेंसिंग' में प्रतिभागी किस माध्यम से जुड़ते हैं?",
+  "q_en": "In 'Audio Teleconferencing', participants connect through which medium?",
+  "options_hi": [
+   "केवल आवाज़ (टेलीफोन/ऑडियो लिंक) से, चित्र नहीं होता",
+   "वीडियो और आवाज़ दोनों से",
+   "केवल लिखित संदेशों से",
+   "उपग्रह टीवी से"
+  ],
+  "options_en": [
+   "Only through voice (telephone/audio link), without pictures",
+   "Through both video and voice",
+   "Only through written messages",
+   "Through satellite TV"
+  ],
+  "answer": "A",
+  "exp_hi": "ऑडियो टेलीकॉन्फ्रेंसिंग में दूर-दूर के प्रतिभागी केवल आवाज़ से जुड़ते हैं, इसलिए यह कम लागत वाली होती है। वीडियो कॉन्फ्रेंसिंग में चित्र और आवाज़ दोनों होते हैं।"
+ },
+ {
+  "n": 90,
+  "unit": "Unit 9: Educational Technology and ICT",
+  "q_hi": "वेब 2.0 (Web 2.0) उपकरणों की मुख्य विशेषता क्या है?",
+  "q_en": "What is the main feature of Web 2.0 tools?",
+  "options_hi": [
+   "केवल सामग्री पढ़ी जा सकती है",
+   "उपयोगकर्ता स्वयं सामग्री बना और साझा कर सकता है (जैसे ब्लॉग, विकी)",
+   "केवल सरकारी वेबसाइटें चलती हैं",
+   "इंटरनेट की गति दोगुनी हो जाती है"
+  ],
+  "options_en": [
+   "Content can only be read",
+   "Users can themselves create and share content (e.g. blogs, wikis)",
+   "Only government websites run",
+   "Internet speed doubles"
+  ],
+  "answer": "B",
+  "exp_hi": "वेब 1.0 में उपयोगकर्ता केवल पाठक था, जबकि वेब 2.0 में वह निर्माता भी बन गया — ब्लॉग, विकी, सोशल मीडिया इसके उदाहरण हैं। शिक्षा में यह सहयोगात्मक अधिगम को बढ़ावा देता है।"
+ },
+ {
+  "n": 91,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "'डिस्लेक्सिया' (Dyslexia) किससे संबंधित अधिगम अक्षमता है?",
+  "q_en": "'Dyslexia' is a learning disability related to what?",
+  "options_hi": [
+   "गणित में कठिनाई",
+   "लिखने में कठिनाई",
+   "पढ़ने में कठिनाई",
+   "सुनने में कठिनाई"
+  ],
+  "options_en": [
+   "Difficulty in mathematics",
+   "Difficulty in writing",
+   "Difficulty in reading",
+   "Difficulty in hearing"
+  ],
+  "answer": "C",
+  "exp_hi": "डिस्लेक्सिया में बच्चे को अक्षरों और शब्दों को पहचानकर पढ़ने में कठिनाई होती है, जबकि उसकी सामान्य बुद्धि सामान्य होती है। गणित संबंधी अक्षमता डिस्कैलकुलिया कहलाती है।"
+ },
+ {
+  "n": 92,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "'डिस्ग्राफिया' (Dysgraphia) का अर्थ है —",
+  "q_en": "'Dysgraphia' means —",
+  "options_hi": [
+   "पढ़ने की गति धीमी होना",
+   "बोलने में हकलाहट",
+   "संख्याएँ भूल जाना",
+   "लेखन में कठिनाई — अक्षर-विन्यास, हस्तलेखन और अभिव्यक्ति में समस्या"
+  ],
+  "options_en": [
+   "Slow reading speed",
+   "Stammering while speaking",
+   "Forgetting numbers",
+   "Difficulty in writing — problems in spelling, handwriting and expression"
+  ],
+  "answer": "D",
+  "exp_hi": "डिस्ग्राफिया से ग्रस्त बच्चे का हस्तलेखन अस्पष्ट होता है और वर्तनी व लिखित अभिव्यक्ति में लगातार त्रुटियाँ होती हैं। यह सूक्ष्म गतिक कौशल और भाषा प्रसंस्करण से जुड़ी अक्षमता है।"
+ },
+ {
+  "n": 93,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "ADHD का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of ADHD?",
+  "options_hi": [
+   "अटेंशन डेफिसिट हाइपरएक्टिविटी डिसऑर्डर (ध्यान-अभाव अतिसक्रियता विकार)",
+   "ऑटिज़्म विकास विकार",
+   "तीव्र अवसाद विकार",
+   "श्रवण प्रसंस्करण विकार"
+  ],
+  "options_en": [
+   "Attention Deficit Hyperactivity Disorder",
+   "Autism Development Disorder",
+   "Acute Depression Disorder",
+   "Auditory Processing Disorder"
+  ],
+  "answer": "A",
+  "exp_hi": "ADHD में बच्चा ध्यान केंद्रित नहीं कर पाता, अतिसक्रिय और आवेगी होता है। RPwD अधिनियम 2016 की सूची में मानसिक और विशिष्ट अधिगम अक्षमताओं के साथ यह वर्ग भी शामिल है।"
+ },
+ {
+  "n": 94,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "RPwD अधिनियम 2016 में 'बेंचमार्क दिव्यांगता' का न्यूनतम प्रतिशत कितना है?",
+  "q_en": "What is the minimum percentage for 'Benchmark Disability' in the RPwD Act, 2016?",
+  "options_hi": [
+   "30 प्रतिशत",
+   "40 प्रतिशत",
+   "50 प्रतिशत",
+   "25 प्रतिशत"
+  ],
+  "options_en": [
+   "30 percent",
+   "40 percent",
+   "50 percent",
+   "25 percent"
+  ],
+  "answer": "B",
+  "exp_hi": "RPwD अधिनियम 2016 के अनुसार जिस व्यक्ति की निर्दिष्ट दिव्यांगता 40% से कम न हो, वह बेंचमार्क दिव्यांगता वाला व्यक्ति कहलाता है। आरक्षण जैसे लाभ इन्हीं को मिलते हैं।"
+ },
+ {
+  "n": 95,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "समावेशी शिक्षा में 'शून्य अस्वीकृति' (Zero Rejection) का सिद्धांत क्या है?",
+  "q_en": "What is the principle of 'Zero Rejection' in inclusive education?",
+  "options_hi": [
+   "कोई बच्चा परीक्षा में अनुत्तीर्ण नहीं होगा",
+   "सभी बच्चों को एक ही पाठ्यपुस्तक मिलेगी",
+   "किसी भी बच्चे को दिव्यांगता के आधार पर प्रवेश से वंचित नहीं किया जाएगा",
+   "कोई शुल्क नहीं लिया जाएगा"
+  ],
+  "options_en": [
+   "No child will fail in examinations",
+   "All children will get the same textbook",
+   "No child shall be denied admission on the basis of disability",
+   "No fee will be charged"
+  ],
+  "answer": "C",
+  "exp_hi": "शून्य अस्वीकृति का अर्थ है कि दिव्यांगता की प्रकृति या गंभीरता चाहे जो हो, कोई विद्यालय बच्चे को प्रवेश से मना नहीं कर सकता। यह SSA और RTE की समावेशी शिक्षा का मूल सिद्धांत है।"
+ },
+ {
+  "n": 96,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "प्रतिभाशाली बच्चों के लिए 'संवर्धन' (Enrichment) का अर्थ है —",
+  "q_en": "For gifted children, 'Enrichment' means —",
+  "options_hi": [
+   "बच्चे को ऊँची कक्षा में भेज देना",
+   "अतिरिक्त गृहकार्य देना",
+   "पाठ्यक्रम दोहराना",
+   "उसी कक्षा में गहन और विस्तृत अध्ययन के अतिरिक्त अवसर देना"
+  ],
+  "options_en": [
+   "Sending the child to a higher class",
+   "Giving extra homework",
+   "Repeating the curriculum",
+   "Providing additional opportunities for deeper and wider study in the same class"
+  ],
+  "answer": "D",
+  "exp_hi": "संवर्धन में बच्चा अपनी कक्षा में रहते हुए विषय का गहन अध्ययन, परियोजनाएँ और स्वतंत्र अन्वेषण करता है। ऊँची कक्षा में भेजना 'त्वरण' (acceleration) कहलाता है।"
+ },
+ {
+  "n": 97,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "भारत का पहला मुक्त विश्वविद्यालय (1982) कौन-सा है?",
+  "q_en": "Which is India's first open university (1982)?",
+  "options_hi": [
+   "आंध्र प्रदेश मुक्त विश्वविद्यालय (अब डॉ. बी. आर. अंबेडकर मुक्त विश्वविद्यालय)",
+   "इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय",
+   "नालंदा मुक्त विश्वविद्यालय",
+   "यशवंतराव चव्हाण मुक्त विश्वविद्यालय"
+  ],
+  "options_en": [
+   "Andhra Pradesh Open University (now Dr. B. R. Ambedkar Open University)",
+   "Indira Gandhi National Open University",
+   "Nalanda Open University",
+   "Yashwantrao Chavan Open University"
+  ],
+  "answer": "A",
+  "exp_hi": "भारत का पहला मुक्त विश्वविद्यालय 1982 में हैदराबाद में स्थापित आंध्र प्रदेश मुक्त विश्वविद्यालय है। IGNOU की स्थापना बाद में 1985 में राष्ट्रीय स्तर पर हुई।"
+ },
+ {
+  "n": 98,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "NEP 2020 में 'SEDGs' का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of 'SEDGs' in NEP 2020?",
+  "options_hi": [
+   "विद्यालय शिक्षा विकास समूह",
+   "सामाजिक-आर्थिक रूप से वंचित समूह (Socio-Economically Disadvantaged Groups)",
+   "राज्य शिक्षा विकास लक्ष्य",
+   "विशेष शिक्षा विकास अनुदान"
+  ],
+  "options_en": [
+   "School Education Development Groups",
+   "Socio-Economically Disadvantaged Groups",
+   "State Education Development Goals",
+   "Special Education Development Grants"
+  ],
+  "answer": "B",
+  "exp_hi": "NEP 2020 में SEDGs से आशय उन समूहों से है जो ऐतिहासिक और आर्थिक कारणों से शिक्षा में पिछड़े हैं — इसमें लिंग, सामाजिक-सांस्कृतिक पहचान, भौगोलिक और दिव्यांगता आधारित वंचन शामिल है।"
+ },
+ {
+  "n": 99,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "'गहन बधिरता' (Profound Deafness) सामान्यतः कितनी श्रवण-क्षति पर मानी जाती है?",
+  "q_en": "'Profound Deafness' is generally considered at what level of hearing loss?",
+  "options_hi": [
+   "26–40 डेसिबल",
+   "41–55 डेसिबल",
+   "91 डेसिबल या उससे अधिक",
+   "56–70 डेसिबल"
+  ],
+  "options_en": [
+   "26-40 decibels",
+   "41-55 decibels",
+   "91 decibels or more",
+   "56-70 decibels"
+  ],
+  "answer": "C",
+  "exp_hi": "श्रवण-क्षति के वर्गीकरण में 91 dB या अधिक क्षति गहन (profound) मानी जाती है, जिसमें बच्चा सामान्य बोलचाल बिल्कुल नहीं सुन पाता। 26–40 dB हल्की और 71–90 dB गंभीर क्षति है।"
+ },
+ {
+  "n": 100,
+  "unit": "Unit 10: Advanced Educational Studies",
+  "q_hi": "'विधिक दृष्टिहीनता' (Legal Blindness) की स्नेलन मापनी पर परिभाषा क्या है?",
+  "q_en": "What is the definition of 'Legal Blindness' on the Snellen scale?",
+  "options_hi": [
+   "दृष्टि तीक्ष्णता 20/20 होना",
+   "दृष्टि तीक्ष्णता 20/70 होना",
+   "रंगों की पहचान न होना",
+   "बेहतर आँख में संशोधन के बाद दृष्टि तीक्ष्णता 20/200 या उससे कम"
+  ],
+  "options_en": [
+   "Visual acuity of 20/20",
+   "Visual acuity of 20/70",
+   "Inability to identify colours",
+   "Visual acuity of 20/200 or less in the better eye after correction"
+  ],
+  "answer": "D",
+  "exp_hi": "विधिक दृष्टिहीनता का अर्थ है कि व्यक्ति 20 फीट से वह देख पाता है जो सामान्य आँख 200 फीट से देखती है (20/200), या दृष्टि क्षेत्र 20 डिग्री से कम हो। 20/70 तक की क्षति अल्प-दृष्टि (low vision) कहलाती है।"
+ }
+]

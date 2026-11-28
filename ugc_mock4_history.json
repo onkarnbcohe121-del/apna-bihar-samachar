@@ -1,0 +1,2002 @@
+[
+ {
+  "n": 1,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "इतिहास के उस काल को क्या कहा जाता है जिसके लिए लिखित साक्ष्य उपलब्ध तो हैं, किंतु उनकी लिपि अभी तक पढ़ी नहीं जा सकी है —",
+  "q_en": "The period of history for which written records are available but their script has not yet been deciphered is called —",
+  "options_hi": [
+   "प्रागैतिहासिक काल",
+   "ऐतिहासिक काल",
+   "आद्य-ऐतिहासिक (प्रोटो-हिस्ट्री) काल",
+   "मध्यपाषाण काल"
+  ],
+  "options_en": [
+   "Prehistoric period",
+   "Historic period",
+   "Proto-historic period",
+   "Mesolithic period"
+  ],
+  "answer": "C",
+  "exp_hi": "जिस काल के लिखित साक्ष्य मिलते हैं किंतु लिपि अपठित रहती है, उसे आद्य-ऐतिहासिक काल कहते हैं। सिंधु घाटी सभ्यता इसी श्रेणी में आती है, क्योंकि उसकी लिपि अभी तक पढ़ी नहीं जा सकी है।"
+ },
+ {
+  "n": 2,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "प्रागैतिहासिक काल को पाषाण, कांस्य और लौह युग में विभाजित करने वाली 'त्रि-युग प्रणाली' (Three-Age System) किसने प्रस्तुत की थी —",
+  "q_en": "The 'Three-Age System' of dividing prehistory into the Stone, Bronze and Iron Ages was proposed by —",
+  "options_hi": [
+   "गॉर्डन चाइल्ड",
+   "क्रिश्चियन जुर्गेनसन थॉमसन",
+   "जॉन लुब्बॉक",
+   "लुईस हेनरी मॉर्गन"
+  ],
+  "options_en": [
+   "Gordon Childe",
+   "Christian Jurgensen Thomsen",
+   "John Lubbock",
+   "Lewis Henry Morgan"
+  ],
+  "answer": "B",
+  "exp_hi": "डेनमार्क के पुरातत्वविद् क्रिश्चियन जुर्गेनसन थॉमसन ने 1836 ईस्वी के आसपास औज़ारों की सामग्री के आधार पर पाषाण, कांस्य और लौह युग की त्रि-युग प्रणाली दी। यह प्रणाली आज भी प्रागैतिहासिक कालक्रम की आधारशिला है।"
+ },
+ {
+  "n": 3,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "'इतिहास' शब्द का शाब्दिक अर्थ है —",
+  "q_en": "The literal meaning of the word 'Itihasa' is —",
+  "options_hi": [
+   "प्राचीन कथा",
+   "देवताओं की गाथा",
+   "राजाओं की सूची",
+   "वास्तव में ऐसा ही हुआ था"
+  ],
+  "options_en": [
+   "An ancient tale",
+   "A saga of the gods",
+   "A list of kings",
+   "Thus it indeed happened"
+  ],
+  "answer": "D",
+  "exp_hi": "'इतिहास' शब्द 'इति' (ऐसा), 'ह' (निश्चित रूप से) और 'आस' (था/हुआ) से बना है, अर्थात् 'वास्तव में ऐसा ही हुआ था'। इसीलिए भारतीय परंपरा में इतिहास को केवल कथा नहीं, घटित सत्य का वर्णन माना गया।"
+ },
+ {
+  "n": 4,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "वैदिक परंपरा में 'ऋत' की अवधारणा किससे संबंधित है —",
+  "q_en": "In the Vedic tradition, the concept of 'Rita' is associated with —",
+  "options_hi": [
+   "यज्ञ की विधि",
+   "ब्रह्मांडीय और नैतिक व्यवस्था",
+   "वर्ण व्यवस्था",
+   "राजा का दैवी अधिकार"
+  ],
+  "options_en": [
+   "The procedure of sacrifice",
+   "The cosmic and moral order",
+   "The Varna system",
+   "The divine right of the king"
+  ],
+  "answer": "B",
+  "exp_hi": "ऋग्वेद में 'ऋत' से तात्पर्य उस ब्रह्मांडीय व्यवस्था से है जिससे प्रकृति के नियम और नैतिक आचरण दोनों संचालित होते हैं। वरुण को ऋत का संरक्षक देवता माना गया है।"
+ },
+ {
+  "n": 5,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "कौटिल्य के 'अर्थशास्त्र' में वर्णित राज्य के 'सप्तांग' सिद्धांत में कितने अंग माने गए हैं —",
+  "q_en": "How many limbs (angas) of the state are recognised in the 'Saptanga' theory described in Kautilya's 'Arthashastra'?",
+  "options_hi": [
+   "पाँच",
+   "सात",
+   "छह",
+   "नौ"
+  ],
+  "options_en": [
+   "Five",
+   "Seven",
+   "Six",
+   "Nine"
+  ],
+  "answer": "B",
+  "exp_hi": "सप्तांग सिद्धांत के अनुसार राज्य के सात अंग हैं — स्वामी (राजा), अमात्य, जनपद, दुर्ग, कोष, दंड (सेना) और मित्र। कौटिल्य ने इन सबके संतुलित विकास को राज्य की स्थिरता का आधार माना।"
+ },
+ {
+  "n": 6,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "'वंशावली' से क्या अभिप्राय है —",
+  "q_en": "What does the term 'Vamsavali' signify?",
+  "options_hi": [
+   "व्यापारियों के बही-खाते",
+   "मंदिरों की सूची",
+   "राजवंशों की वंश-क्रम सूची और उनका वर्णन",
+   "युद्धों का कैलेंडर"
+  ],
+  "options_en": [
+   "Account books of merchants",
+   "A list of temples",
+   "Genealogical lists of dynasties and their description",
+   "A calendar of battles"
+  ],
+  "answer": "C",
+  "exp_hi": "वंशावली राजवंशों के शासकों की पीढ़ी-दर-पीढ़ी सूची और उनसे जुड़े वर्णन को कहते हैं। प्राचीन और मध्यकालीन भारत में वंशावलियाँ वंशों की वैधता और कालक्रम जानने का महत्वपूर्ण स्रोत हैं।"
+ },
+ {
+  "n": 7,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "ऋग्वेद के 'दानस्तुति' सूक्त किससे संबंधित हैं —",
+  "q_en": "The 'Danastuti' hymns of the Rigveda are related to —",
+  "options_hi": [
+   "वर्षा की प्रार्थना",
+   "दानवीर राजाओं और संरक्षकों की प्रशंसा",
+   "युद्ध-विजय के गीत",
+   "अंत्येष्टि संस्कार"
+  ],
+  "options_en": [
+   "Prayers for rain",
+   "Praise of generous kings and patrons",
+   "Songs of victory in war",
+   "Funeral rites"
+  ],
+  "answer": "B",
+  "exp_hi": "दानस्तुति उन सूक्तों को कहते हैं जिनमें ऋषि-कवि अपने संरक्षक राजाओं की उदारता और दिए गए दान की प्रशंसा करते हैं। इनसे उस काल के राजाओं के नाम और सामाजिक-आर्थिक जीवन की झलक मिलती है।"
+ },
+ {
+  "n": 8,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "'जनपद' शब्द का मूल अर्थ है —",
+  "q_en": "The original meaning of the term 'Janapada' is —",
+  "options_hi": [
+   "राजा का महल",
+   "कर-संग्रह का केंद्र",
+   "वह भू-भाग जहाँ किसी जन (कबीले) ने अपना पाँव/बसावट स्थापित की",
+   "सेना का शिविर"
+  ],
+  "options_en": [
+   "The palace of a king",
+   "A centre of tax collection",
+   "The territory where a tribe (jana) set its foot and settled",
+   "A military camp"
+  ],
+  "answer": "C",
+  "exp_hi": "'जनपद' शब्द 'जन' (कबीला/समुदाय) और 'पद' (पाँव रखना) से बना है — अर्थात् वह भूमि जहाँ किसी जन ने स्थायी बसावट की। आगे चलकर यही जनपद छठी शताब्दी ईसा पूर्व के महाजनपदों के रूप में विकसित हुए।"
+ },
+ {
+  "n": 9,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "पुरातत्व में प्रयुक्त 'स्तर-विज्ञान' (Stratigraphy) की पद्धति मूलतः किस विज्ञान से ली गई है —",
+  "q_en": "The method of 'Stratigraphy', used in archaeology, is originally borrowed from which science?",
+  "options_hi": [
+   "रसायन विज्ञान",
+   "खगोल विज्ञान",
+   "जीव विज्ञान",
+   "भूविज्ञान"
+  ],
+  "options_en": [
+   "Chemistry",
+   "Astronomy",
+   "Biology",
+   "Geology"
+  ],
+  "answer": "D",
+  "exp_hi": "स्तर-विज्ञान भूविज्ञान से ली गई पद्धति है, जिसमें मिट्टी की परतों (स्तरों) के क्रम से अवशेषों की सापेक्ष आयु तय होती है। नियम यह है कि नीचे की परत ऊपर की परत से प्राचीन होती है।"
+ },
+ {
+  "n": 10,
+  "unit": "Unit 1: Concepts, Ideas and Terms",
+  "q_hi": "परंपरागत गणना के अनुसार कलियुग का आरंभ कब माना जाता है —",
+  "q_en": "According to traditional reckoning, the Kali Yuga is believed to have begun in —",
+  "options_hi": [
+   "1012 ईसा पूर्व",
+   "2102 ईसा पूर्व",
+   "3102 ईसा पूर्व",
+   "572 ईसा पूर्व"
+  ],
+  "options_en": [
+   "1012 BCE",
+   "2102 BCE",
+   "3102 BCE",
+   "572 BCE"
+  ],
+  "answer": "C",
+  "exp_hi": "भारतीय परंपरा और आर्यभट जैसे खगोलविदों की गणना के अनुसार कलियुग का आरंभ 3102 ईसा पूर्व में माना जाता है। यही तिथि महाभारत युद्ध की परंपरागत तिथि से भी जोड़ी जाती है।"
+ },
+ {
+  "n": 11,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "हड़प्पा सभ्यता का कालीबंगा स्थल (राजस्थान) विशेष रूप से किसके लिए प्रसिद्ध है —",
+  "q_en": "The Harappan site of Kalibangan (Rajasthan) is especially famous for —",
+  "options_hi": [
+   "विशाल स्नानागार",
+   "जुते हुए खेत के निशान (हल-रेखाएँ)",
+   "बंदरगाह",
+   "विशाल अन्नागार"
+  ],
+  "options_en": [
+   "The Great Bath",
+   "Traces of a ploughed field (furrows)",
+   "A dockyard",
+   "A huge granary"
+  ],
+  "answer": "B",
+  "exp_hi": "कालीबंगा से प्रारंभिक हड़प्पा स्तर में जुते हुए खेत के स्पष्ट निशान मिले हैं, जो विश्व में खेत जुताई के प्राचीनतम साक्ष्यों में से हैं। यहाँ से अग्नि-वेदिकाओं के प्रमाण भी प्राप्त हुए हैं।"
+ },
+ {
+  "n": 12,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "महाराष्ट्र का दैमाबाद स्थल किसके लिए प्रसिद्ध है —",
+  "q_en": "The site of Daimabad in Maharashtra is famous for —",
+  "options_hi": [
+   "अशोक का स्तंभ लेख",
+   "शैलचित्र",
+   "कांस्य वस्तुओं का बड़ा संचय (रथ सहित)",
+   "रोमन सिक्के"
+  ],
+  "options_en": [
+   "An Ashokan pillar edict",
+   "Rock paintings",
+   "A large hoard of bronze objects (including a chariot)",
+   "Roman coins"
+  ],
+  "answer": "C",
+  "exp_hi": "दैमाबाद से ताम्रपाषाण काल की कांस्य वस्तुओं का प्रसिद्ध संचय मिला है, जिसमें रथ, हाथी, गैंडा और भैंसे की आकृतियाँ शामिल हैं। यह खोज उस काल की धातु-कला की उन्नति को दर्शाती है।"
+ },
+ {
+  "n": 13,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "गंगा घाटी में चावल की खेती के प्राचीन साक्ष्यों के लिए प्रसिद्ध नवपाषाण स्थल कोल्डिहवा किस राज्य में स्थित है —",
+  "q_en": "The Neolithic site of Koldihwa, famous for early evidence of rice cultivation in the Ganga valley, is located in which state?",
+  "options_hi": [
+   "बिहार",
+   "मध्य प्रदेश",
+   "पश्चिम बंगाल",
+   "उत्तर प्रदेश"
+  ],
+  "options_en": [
+   "Bihar",
+   "Madhya Pradesh",
+   "West Bengal",
+   "Uttar Pradesh"
+  ],
+  "answer": "D",
+  "exp_hi": "कोल्डिहवा उत्तर प्रदेश के प्रयागराज क्षेत्र में बेलन नदी के किनारे स्थित है। यहाँ से चावल के दानों और भूसी के प्राचीन अवशेष मिले हैं, जो गंगा घाटी में धान की प्रारंभिक खेती का प्रमाण हैं।"
+ },
+ {
+  "n": 14,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "326 ईसा पूर्व में लड़ा गया हाइडेस्पीज़ (झेलम) का युद्ध सिकंदर और किस भारतीय राजा के बीच हुआ था —",
+  "q_en": "The Battle of Hydaspes (326 BCE) was fought between Alexander and which Indian king?",
+  "options_hi": [
+   "पोरस (पुरु)",
+   "धनानंद",
+   "अंबी",
+   "चंद्रगुप्त मौर्य"
+  ],
+  "options_en": [
+   "Porus (Puru)",
+   "Dhanananda",
+   "Ambhi",
+   "Chandragupta Maurya"
+  ],
+  "answer": "A",
+  "exp_hi": "झेलम नदी के किनारे हुए इस युद्ध में सिकंदर ने राजा पोरस को पराजित किया, किंतु उनकी वीरता से प्रभावित होकर उनका राज्य लौटा दिया। यह भारत पर सिकंदर के आक्रमण की सबसे प्रसिद्ध घटना है।"
+ },
+ {
+  "n": 15,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "वैशाली में हुई द्वितीय बौद्ध संगीति (383 ईसा पूर्व) किस शासक के काल में आयोजित हुई थी —",
+  "q_en": "The Second Buddhist Council (383 BCE), held at Vaishali, took place during the reign of which ruler?",
+  "options_hi": [
+   "कालाशोक",
+   "अजातशत्रु",
+   "महापद्मनंद",
+   "बिंबिसार"
+  ],
+  "options_en": [
+   "Kalashoka",
+   "Ajatashatru",
+   "Mahapadmananda",
+   "Bimbisara"
+  ],
+  "answer": "A",
+  "exp_hi": "द्वितीय बौद्ध संगीति शिशुनाग वंश के राजा कालाशोक के काल में वैशाली में हुई। इसमें विनय के नियमों पर मतभेद के कारण बौद्ध संघ का पहला विभाजन (स्थविरवाद और महासांघिक) हुआ।"
+ },
+ {
+  "n": 16,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "जैन ग्रंथ 'कल्पसूत्र' की रचना का श्रेय किसे दिया जाता है —",
+  "q_en": "The Jain text 'Kalpa Sutra' is attributed to —",
+  "options_hi": [
+   "स्थूलभद्र",
+   "भद्रबाहु",
+   "हेमचंद्र",
+   "उमास्वाति"
+  ],
+  "options_en": [
+   "Sthulabhadra",
+   "Bhadrabahu",
+   "Hemachandra",
+   "Umasvati"
+  ],
+  "answer": "B",
+  "exp_hi": "'कल्पसूत्र' की रचना आचार्य भद्रबाहु से जोड़ी जाती है, जिसमें तीर्थंकरों, विशेषकर महावीर स्वामी, के जीवन-चरित्र का वर्णन है। भद्रबाहु चंद्रगुप्त मौर्य के समकालीन माने जाते हैं।"
+ },
+ {
+  "n": 17,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "अशोक के कंधार (अफ़ग़ानिस्तान) अभिलेख किन भाषाओं और लिपियों में हैं —",
+  "q_en": "Ashoka's Kandahar inscriptions (Afghanistan) are written in which languages and scripts?",
+  "options_hi": [
+   "यूनानी और अरामाइक",
+   "प्राकृत और ब्राह्मी",
+   "संस्कृत और खरोष्ठी",
+   "पालि और देवनागरी"
+  ],
+  "options_en": [
+   "Greek and Aramaic",
+   "Prakrit and Brahmi",
+   "Sanskrit and Kharoshthi",
+   "Pali and Devanagari"
+  ],
+  "answer": "A",
+  "exp_hi": "कंधार से मिला अशोक का प्रसिद्ध द्विभाषी अभिलेख यूनानी और अरामाइक भाषाओं में है। यह दर्शाता है कि अशोक ने अपने साम्राज्य के पश्चिमी सीमांत क्षेत्र की जनता के लिए उनकी अपनी भाषा-लिपि में धम्म का संदेश पहुँचाया।"
+ },
+ {
+  "n": 18,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "मौर्यकाल में पूर्वी प्रांत की राजधानी 'तोसली' किस क्षेत्र में स्थित थी —",
+  "q_en": "In the Mauryan period, the capital of the eastern province, 'Tosali', was located in which region?",
+  "options_hi": [
+   "ओडिशा (कलिंग क्षेत्र)",
+   "असम",
+   "बंगाल",
+   "आंध्र प्रदेश"
+  ],
+  "options_en": [
+   "Odisha (Kalinga region)",
+   "Assam",
+   "Bengal",
+   "Andhra Pradesh"
+  ],
+  "answer": "A",
+  "exp_hi": "कलिंग विजय के बाद अशोक ने पूर्वी प्रांत का प्रशासनिक केंद्र तोसली (वर्तमान ओडिशा क्षेत्र, धौली के आसपास) बनाया। मौर्य साम्राज्य के अन्य प्रांतीय केंद्र तक्षशिला, उज्जयिनी और सुवर्णगिरि थे।"
+ },
+ {
+  "n": 19,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "'अर्थशास्त्र' के अनुसार मौर्यकाल में टकसाल (सिक्के ढालने का विभाग) का प्रमुख अधिकारी कहलाता था —",
+  "q_en": "According to the 'Arthashastra', the chief officer of the mint in the Mauryan period was called —",
+  "options_hi": [
+   "लक्षणाध्यक्ष",
+   "समाहर्ता",
+   "सन्निधाता",
+   "प्रदेष्टा"
+  ],
+  "options_en": [
+   "Lakshanadhyaksha",
+   "Samaharta",
+   "Sannidhata",
+   "Pradeshta"
+  ],
+  "answer": "A",
+  "exp_hi": "कौटिल्य के अनुसार लक्षणाध्यक्ष टकसाल का अध्यक्ष होता था, जो सिक्कों की ढलाई का कार्य देखता था, जबकि रूपदर्शक सिक्कों की परख करता था। समाहर्ता राजस्व-संग्रह और सन्निधाता कोष का प्रमुख था।"
+ },
+ {
+  "n": 20,
+  "unit": "Unit 2: Ancient Indian History — Prehistoric to Mauryan Period",
+  "q_hi": "अशोक का रुम्मिनदेई स्तंभ लेख किस घटना का उल्लेख करता है —",
+  "q_en": "Ashoka's Rummindei Pillar Inscription records which event?",
+  "options_hi": [
+   "कलिंग विजय",
+   "लुम्बिनी की यात्रा और वहाँ कर में छूट",
+   "धम्म महामात्रों की नियुक्ति",
+   "बोधिवृक्ष की यात्रा"
+  ],
+  "options_en": [
+   "The Kalinga conquest",
+   "His visit to Lumbini and the tax concession granted there",
+   "The appointment of Dhammamahamatras",
+   "His visit to the Bodhi tree"
+  ],
+  "answer": "B",
+  "exp_hi": "रुम्मिनदेई (लुम्बिनी, नेपाल) के स्तंभ लेख में अशोक ने बुद्ध के जन्मस्थान की यात्रा का उल्लेख किया है। उसने वहाँ का भूमि-कर (भाग) घटाकर आठवाँ हिस्सा कर दिया था।"
+ },
+ {
+  "n": 21,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "पुलकेशिन द्वितीय का ऐहोल अभिलेख किस कवि द्वारा रचित है —",
+  "q_en": "The Aihole Inscription of Pulakeshin II was composed by which poet?",
+  "options_hi": [
+   "हरिषेण",
+   "वत्सभट्टि",
+   "रविकीर्ति",
+   "बाणभट्ट"
+  ],
+  "options_en": [
+   "Harishena",
+   "Vatsabhatti",
+   "Ravikirti",
+   "Banabhatta"
+  ],
+  "answer": "C",
+  "exp_hi": "ऐहोल (मेगुती मंदिर) का संस्कृत अभिलेख पुलकेशिन द्वितीय के दरबारी कवि रविकीर्ति ने रचा था। इसमें हर्षवर्धन पर पुलकेशिन की विजय का वर्णन है और रविकीर्ति ने स्वयं को कालिदास और भारवि के समकक्ष बताया है।"
+ },
+ {
+  "n": 22,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "वाकाटक वंश की प्रसिद्ध रानी प्रभावती गुप्ता किस गुप्त सम्राट की पुत्री थी —",
+  "q_en": "Prabhavati Gupta, the famous queen of the Vakataka dynasty, was the daughter of which Gupta emperor?",
+  "options_hi": [
+   "चंद्रगुप्त प्रथम",
+   "चंद्रगुप्त द्वितीय",
+   "समुद्रगुप्त",
+   "कुमारगुप्त प्रथम"
+  ],
+  "options_en": [
+   "Chandragupta I",
+   "Chandragupta II",
+   "Samudragupta",
+   "Kumaragupta I"
+  ],
+  "answer": "B",
+  "exp_hi": "प्रभावती गुप्ता चंद्रगुप्त द्वितीय (विक्रमादित्य) की पुत्री थी, जिसका विवाह वाकाटक नरेश रुद्रसेन द्वितीय से हुआ था। पति की मृत्यु के बाद उसने संरक्षिका के रूप में शासन किया और अपने पिता के वंश का गौरव बनाए रखा।"
+ },
+ {
+  "n": 23,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "प्रसिद्ध संस्कृत कथा-ग्रंथ 'कादंबरी' के रचयिता कौन हैं —",
+  "q_en": "Who is the author of the famous Sanskrit prose work 'Kadambari'?",
+  "options_hi": [
+   "बाणभट्ट",
+   "दंडिन",
+   "सुबंधु",
+   "भवभूति"
+  ],
+  "options_en": [
+   "Banabhatta",
+   "Dandin",
+   "Subandhu",
+   "Bhavabhuti"
+  ],
+  "answer": "A",
+  "exp_hi": "'कादंबरी' हर्षवर्धन के दरबारी कवि बाणभट्ट की अमर कृति है, जिसे उनके पुत्र भूषणभट्ट ने पूर्ण किया। बाण ने 'हर्षचरित' में सम्राट हर्ष का जीवन-वर्णन भी किया है।"
+ },
+ {
+  "n": 24,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "बादामी के चालुक्य वंश की राजधानी कौन-सी थी —",
+  "q_en": "What was the capital of the Chalukyas of Badami?",
+  "options_hi": [
+   "वातापी (बादामी)",
+   "कल्याणी",
+   "मान्यखेट",
+   "वेंगी"
+  ],
+  "options_en": [
+   "Vatapi (Badami)",
+   "Kalyani",
+   "Manyakheta",
+   "Vengi"
+  ],
+  "answer": "A",
+  "exp_hi": "बादामी (प्राचीन नाम वातापी) कर्नाटक में स्थित चालुक्यों की राजधानी थी। कल्याणी पश्चिमी चालुक्यों की, मान्यखेट राष्ट्रकूटों की और वेंगी पूर्वी चालुक्यों की राजधानी थी।"
+ },
+ {
+  "n": 25,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "'गंगैकोंड चोल' की उपाधि किस चोल सम्राट ने धारण की थी —",
+  "q_en": "Which Chola emperor assumed the title 'Gangaikonda Chola'?",
+  "options_hi": [
+   "राजेंद्र प्रथम",
+   "राजराज प्रथम",
+   "राजाधिराज प्रथम",
+   "कुलोत्तुंग प्रथम"
+  ],
+  "options_en": [
+   "Rajendra I",
+   "Rajaraja I",
+   "Rajadhiraja I",
+   "Kulottunga I"
+  ],
+  "answer": "A",
+  "exp_hi": "राजेंद्र प्रथम ने उत्तर भारत के अभियान में गंगा तक विजय प्राप्त कर 'गंगैकोंड चोल' की उपाधि धारण की। इस विजय की स्मृति में उसने गंगैकोंडचोलपुरम नामक नई राजधानी और चोलगंगम झील बनवाई।"
+ },
+ {
+  "n": 26,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "कांचीपुरम का प्रसिद्ध कैलाशनाथ मंदिर किस पल्लव शासक ने बनवाया था —",
+  "q_en": "The famous Kailasanatha temple at Kanchipuram was built by which Pallava ruler?",
+  "options_hi": [
+   "महेंद्रवर्मन प्रथम",
+   "नरसिंहवर्मन द्वितीय (राजसिंह)",
+   "नंदिवर्मन द्वितीय",
+   "सिंहविष्णु"
+  ],
+  "options_en": [
+   "Mahendravarman I",
+   "Narasimhavarman II (Rajasimha)",
+   "Nandivarman II",
+   "Simhavishnu"
+  ],
+  "answer": "B",
+  "exp_hi": "कांचीपुरम का कैलाशनाथ मंदिर पल्लव नरेश नरसिंहवर्मन द्वितीय (राजसिंह) ने आठवीं शताब्दी के आरंभ में बनवाया था। यह द्रविड़ वास्तुकला के प्रारंभिक और उत्कृष्ट उदाहरणों में से एक है।"
+ },
+ {
+  "n": 27,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "अरब यात्री सुलेमान (851 ईस्वी) भारत आया था — वह किस भारतीय शासक के राज्य-काल से संबंधित वर्णन के लिए विशेष रूप से जाना जाता है —",
+  "q_en": "The Arab traveller Sulaiman (851 CE), who visited India, is especially known for his account relating to the reign of which Indian ruler?",
+  "options_hi": [
+   "धर्मपाल",
+   "देवपाल",
+   "अमोघवर्ष",
+   "मिहिरभोज (प्रतिहार)"
+  ],
+  "options_en": [
+   "Dharmapala",
+   "Devapala",
+   "Amoghavarsha",
+   "Mihira Bhoja (Pratihara)"
+  ],
+  "answer": "D",
+  "exp_hi": "अरब व्यापारी सुलेमान ने अपनी यात्रा-वृत्तांत में गुर्जर-प्रतिहार सम्राट मिहिरभोज को भारत का शक्तिशाली शासक बताया और उनकी सेना तथा प्रशासन की प्रशंसा की। उसका वर्णन नौवीं शताब्दी के भारत को समझने का महत्वपूर्ण विदेशी स्रोत है।"
+ },
+ {
+  "n": 28,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "पाल वंश के संस्थापक गोपाल ने किस प्रसिद्ध बौद्ध महाविहार की स्थापना की थी —",
+  "q_en": "Gopala, the founder of the Pala dynasty, founded which famous Buddhist Mahavihara?",
+  "options_hi": [
+   "नालंदा",
+   "विक्रमशिला",
+   "ओदंतपुरी",
+   "सोमपुरा"
+  ],
+  "options_en": [
+   "Nalanda",
+   "Vikramashila",
+   "Odantapuri",
+   "Somapura"
+  ],
+  "answer": "C",
+  "exp_hi": "पाल वंश के संस्थापक गोपाल ने ओदंतपुरी महाविहार (वर्तमान बिहार शरीफ के पास) की स्थापना की। विक्रमशिला धर्मपाल ने और सोमपुरा (पहाड़पुर) भी धर्मपाल के काल से जुड़ा है।"
+ },
+ {
+  "n": 29,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "कन्नड़ साहित्य की प्रारंभिक प्रसिद्ध कृति 'कविराजमार्ग' के रचयिता राष्ट्रकूट शासक कौन थे —",
+  "q_en": "Which Rashtrakuta ruler authored 'Kavirajamarga', the celebrated early work of Kannada literature?",
+  "options_hi": [
+   "कृष्ण प्रथम",
+   "ध्रुव",
+   "इंद्र तृतीय",
+   "अमोघवर्ष"
+  ],
+  "options_en": [
+   "Krishna I",
+   "Dhruva",
+   "Indra III",
+   "Amoghavarsha"
+  ],
+  "answer": "D",
+  "exp_hi": "'कविराजमार्ग' (लगभग 850 ईस्वी) कन्नड़ की उपलब्ध प्राचीनतम साहित्यिक कृति मानी जाती है, जिसकी रचना राष्ट्रकूट सम्राट अमोघवर्ष से जोड़ी जाती है। अमोघवर्ष जैन धर्म के अनुयायी और विद्वानों के संरक्षक थे।"
+ },
+ {
+  "n": 30,
+  "unit": "Unit 3: Ancient Indian History — Gupta to Early Medieval Period",
+  "q_hi": "तक्कोलम का युद्ध (949 ईस्वी) चोलों और किस शक्ति के बीच लड़ा गया था —",
+  "q_en": "The Battle of Takkolam (949 CE) was fought between the Cholas and which power?",
+  "options_hi": [
+   "पल्लव",
+   "राष्ट्रकूट (कृष्ण तृतीय)",
+   "पांड्य",
+   "पश्चिमी चालुक्य"
+  ],
+  "options_en": [
+   "The Pallavas",
+   "The Rashtrakutas (Krishna III)",
+   "The Pandyas",
+   "The Western Chalukyas"
+  ],
+  "answer": "B",
+  "exp_hi": "तक्कोलम के युद्ध में राष्ट्रकूट नरेश कृष्ण तृतीय ने चोल युवराज राजादित्य को पराजित किया, जिसमें राजादित्य वीरगति को प्राप्त हुए। इस विजय से राष्ट्रकूटों का प्रभाव तोंडैमंडलम तक फैल गया।"
+ },
+ {
+  "n": 31,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "दिल्ली की कुतुब मीनार को वर्तमान रूप में पूर्ण किस शासक ने कराया था —",
+  "q_en": "The Qutub Minar of Delhi was completed in its present form by which ruler?",
+  "options_hi": [
+   "इल्तुतमिश",
+   "कुतुबुद्दीन ऐबक",
+   "बलबन",
+   "अलाउद्दीन ख़िलजी"
+  ],
+  "options_en": [
+   "Iltutmish",
+   "Qutbuddin Aibak",
+   "Balban",
+   "Alauddin Khalji"
+  ],
+  "answer": "A",
+  "exp_hi": "कुतुब मीनार का निर्माण ऐबक ने आरंभ किया था, किंतु उसे पूर्ण इल्तुतमिश ने कराया। बाद में फ़िरोज़ शाह तुग़लक़ ने बिजली गिरने से क्षतिग्रस्त ऊपरी मंज़िलों का पुनर्निर्माण कराया।"
+ },
+ {
+  "n": 32,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "बलबन ने राजा को ईश्वर का प्रतिनिधि मानते हुए स्वयं को किस उपाधि से विभूषित किया —",
+  "q_en": "Considering the king as the representative of God, Balban adorned himself with which title?",
+  "options_hi": [
+   "ग़ाज़ी",
+   "अमीर-उल-मोमिनीन",
+   "सिकंदर-ए-सानी",
+   "ज़िल-ए-इलाही (ईश्वर की छाया)"
+  ],
+  "options_en": [
+   "Ghazi",
+   "Amir-ul-Mominin",
+   "Sikandar-i-Sani",
+   "Zil-i-Ilahi (Shadow of God)"
+  ],
+  "answer": "D",
+  "exp_hi": "बलबन ने राजत्व के दैवी सिद्धांत को अपनाकर स्वयं को 'ज़िल-ए-इलाही' अर्थात् ईश्वर की छाया कहा। उसने दरबार में सिजदा और पाबोस जैसी प्रथाएँ चलाकर सुल्तान की प्रतिष्ठा सर्वोच्च स्थापित की।"
+ },
+ {
+  "n": 33,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "अलाउद्दीन ख़िलजी ने कृषि-उपज पर भू-राजस्व की दर कितनी निर्धारित की थी —",
+  "q_en": "What rate of land revenue on agricultural produce was fixed by Alauddin Khalji?",
+  "options_hi": [
+   "उपज का एक-तिहाई",
+   "उपज का दो-तिहाई",
+   "उपज का एक-चौथाई",
+   "उपज का आधा भाग (50 प्रतिशत)"
+  ],
+  "options_en": [
+   "One-third of the produce",
+   "Two-thirds of the produce",
+   "One-fourth of the produce",
+   "One-half of the produce (50 per cent)"
+  ],
+  "answer": "D",
+  "exp_hi": "अलाउद्दीन ख़िलजी ने माप (मसाहत) के आधार पर उपज का आधा भाग भू-राजस्व के रूप में निर्धारित किया। इसके साथ ही उसने घर-कर और चराई-कर जैसे अतिरिक्त कर भी लगाए।"
+ },
+ {
+  "n": 34,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "दिल्ली सल्तनत में सैन्य विभाग 'दीवान-ए-अर्ज़' की स्थापना सर्वप्रथम किसने की थी —",
+  "q_en": "Who first established the military department 'Diwan-i-Arz' in the Delhi Sultanate?",
+  "options_hi": [
+   "इल्तुतमिश",
+   "मुहम्मद बिन तुग़लक़",
+   "अलाउद्दीन ख़िलजी",
+   "बलबन"
+  ],
+  "options_en": [
+   "Iltutmish",
+   "Muhammad bin Tughlaq",
+   "Alauddin Khalji",
+   "Balban"
+  ],
+  "answer": "D",
+  "exp_hi": "बलबन ने सेना के संगठन के लिए पृथक सैन्य विभाग 'दीवान-ए-अर्ज़' स्थापित किया और अर्ज़-ए-मुमालिक नामक अधिकारी नियुक्त किया। इससे सेना की भर्ती और प्रबंधन केंद्र के नियंत्रण में आया।"
+ },
+ {
+  "n": 35,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "फ़िरोज़ शाह तुग़लक़ ने जौनपुर नगर की स्थापना किसकी स्मृति में की थी —",
+  "q_en": "Firoz Shah Tughlaq founded the city of Jaunpur in the memory of whom?",
+  "options_hi": [
+   "अपने पिता की",
+   "अपने गुरु की",
+   "मुहम्मद बिन तुग़लक़ (जौना ख़ान) की",
+   "अपनी माता की"
+  ],
+  "options_en": [
+   "His father",
+   "His preceptor",
+   "Muhammad bin Tughlaq (Jauna Khan)",
+   "His mother"
+  ],
+  "answer": "C",
+  "exp_hi": "फ़िरोज़ शाह तुग़लक़ ने गोमती नदी के किनारे जौनपुर बसाया और उसका नाम अपने चचेरे भाई तथा पूर्ववर्ती सुल्तान मुहम्मद बिन तुग़लक़ के प्रारंभिक नाम 'जौना ख़ान' की स्मृति में रखा। बाद में जौनपुर शर्क़ी राज्य की राजधानी बना।"
+ },
+ {
+  "n": 36,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "जौनपुर के शर्क़ी वंश का संस्थापक कौन था —",
+  "q_en": "Who was the founder of the Sharqi dynasty of Jaunpur?",
+  "options_hi": [
+   "मलिक सरवर (ख़्वाजा जहाँ)",
+   "इब्राहीम शाह",
+   "हुसैन शाह",
+   "मुबारक शाह"
+  ],
+  "options_en": [
+   "Malik Sarwar (Khwaja Jahan)",
+   "Ibrahim Shah",
+   "Husain Shah",
+   "Mubarak Shah"
+  ],
+  "answer": "A",
+  "exp_hi": "फ़िरोज़ शाह तुग़लक़ के मंत्री मलिक सरवर (ख़्वाजा जहाँ) ने 1394 ईस्वी में जौनपुर में स्वतंत्र शर्क़ी राज्य की नींव रखी। शर्क़ी काल में जौनपुर शिक्षा और संस्कृति का प्रसिद्ध केंद्र बना, जिसे 'शिराज़-ए-हिंद' कहा गया।"
+ },
+ {
+  "n": 37,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "इतालवी यात्री निकोलो कोंटी विजयनगर किस शासक के काल में आया था —",
+  "q_en": "The Italian traveller Nicolo Conti visited Vijayanagara during the reign of which ruler?",
+  "options_hi": [
+   "हरिहर द्वितीय",
+   "देवराय द्वितीय",
+   "देवराय प्रथम",
+   "कृष्णदेवराय"
+  ],
+  "options_en": [
+   "Harihara II",
+   "Deva Raya II",
+   "Deva Raya I",
+   "Krishnadevaraya"
+  ],
+  "answer": "C",
+  "exp_hi": "निकोलो कोंटी लगभग 1420 ईस्वी में देवराय प्रथम के काल में विजयनगर आया। उसने नगर की विशालता, बाज़ारों और उत्सवों का जीवंत वर्णन किया है, जो विजयनगर के इतिहास का महत्वपूर्ण विदेशी स्रोत है।"
+ },
+ {
+  "n": 38,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "1347 ईस्वी में बहमनी सल्तनत की स्थापना किसने की थी —",
+  "q_en": "Who founded the Bahmani Sultanate in 1347 CE?",
+  "options_hi": [
+   "हसन गंगू (अलाउद्दीन हसन बहमन शाह)",
+   "मुहम्मद शाह प्रथम",
+   "फ़िरोज़ शाह बहमनी",
+   "महमूद गवाँ"
+  ],
+  "options_en": [
+   "Hasan Gangu (Alauddin Hasan Bahman Shah)",
+   "Muhammad Shah I",
+   "Firoz Shah Bahmani",
+   "Mahmud Gawan"
+  ],
+  "answer": "A",
+  "exp_hi": "मुहम्मद बिन तुग़लक़ के काल में दक्कन के अमीरों के विद्रोह से बहमनी राज्य का उदय हुआ और हसन गंगू 'अलाउद्दीन हसन बहमन शाह' की उपाधि से 1347 ईस्वी में गुलबर्गा में सिंहासन पर बैठा। यह राज्य लगभग दो शताब्दियों तक दक्कन की प्रमुख शक्ति रहा।"
+ },
+ {
+  "n": 39,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "दक्कन के प्रसिद्ध सूफ़ी संत गेसू दराज़ (बंदे नवाज़) किस स्थान पर बसे थे —",
+  "q_en": "The famous Sufi saint of the Deccan, Gesu Daraz (Bande Nawaz), was settled at which place?",
+  "options_hi": [
+   "बीदर",
+   "गुलबर्गा",
+   "बीजापुर",
+   "औरंगाबाद"
+  ],
+  "options_en": [
+   "Bidar",
+   "Gulbarga",
+   "Bijapur",
+   "Aurangabad"
+  ],
+  "answer": "B",
+  "exp_hi": "चिश्ती सिलसिले के संत ख़्वाजा बंदे नवाज़ गेसू दराज़ दिल्ली से आकर गुलबर्गा में बसे और वहीं 1422 ईस्वी में उनका निधन हुआ। उनकी दरगाह आज भी दक्कन का प्रमुख धार्मिक केंद्र है।"
+ },
+ {
+  "n": 40,
+  "unit": "Unit 4: Medieval Indian History — Delhi Sultanate",
+  "q_hi": "'किताब-ए-नौरस' नामक संगीत-विषयक ग्रंथ का श्रेय किस बीजापुर शासक को दिया जाता है —",
+  "q_en": "The musical treatise 'Kitab-i-Nauras' is attributed to which ruler of Bijapur?",
+  "options_hi": [
+   "इब्राहीम आदिल शाह द्वितीय",
+   "यूसुफ़ आदिल शाह",
+   "अली आदिल शाह प्रथम",
+   "मुहम्मद आदिल शाह"
+  ],
+  "options_en": [
+   "Ibrahim Adil Shah II",
+   "Yusuf Adil Shah",
+   "Ali Adil Shah I",
+   "Muhammad Adil Shah"
+  ],
+  "answer": "A",
+  "exp_hi": "'किताब-ए-नौरस' की रचना बीजापुर के शासक इब्राहीम आदिल शाह द्वितीय से जोड़ी जाती है, जिन्हें 'जगद्गुरु' भी कहा गया। वे संगीत और कला के महान संरक्षक थे और ध्रुपद गायन में निपुण माने जाते थे।"
+ },
+ {
+  "n": 41,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "1540 ईस्वी में कन्नौज (बिलग्राम) के युद्ध में हुमायूँ को अंतिम रूप से पराजित करने वाला शासक कौन था —",
+  "q_en": "Who finally defeated Humayun in the Battle of Kannauj (Bilgram) in 1540 CE?",
+  "options_hi": [
+   "शेर शाह सूरी",
+   "इस्लाम शाह",
+   "बहादुर शाह",
+   "हैबत ख़ान"
+  ],
+  "options_en": [
+   "Sher Shah Suri",
+   "Islam Shah",
+   "Bahadur Shah",
+   "Haibat Khan"
+  ],
+  "answer": "A",
+  "exp_hi": "चौसा (1539) के बाद कन्नौज के युद्ध (17 मई 1540) में शेर शाह ने हुमायूँ को निर्णायक रूप से हराया, जिसके बाद हुमायूँ को भारत छोड़कर निर्वासन में जाना पड़ा। इसी के साथ द्वितीय अफ़ग़ान साम्राज्य (सूरी साम्राज्य) की स्थापना हुई।"
+ },
+ {
+  "n": 42,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "अकबर के प्रशासन में सरकार (ज़िले) स्तर पर कानून-व्यवस्था का प्रमुख अधिकारी कौन होता था —",
+  "q_en": "In Akbar's administration, the chief officer responsible for law and order at the level of the Sarkar (district) was —",
+  "options_hi": [
+   "अमलगुज़ार",
+   "क़ाज़ी",
+   "कोतवाल",
+   "फ़ौजदार"
+  ],
+  "options_en": [
+   "Amalguzar",
+   "Qazi",
+   "Kotwal",
+   "Faujdar"
+  ],
+  "answer": "D",
+  "exp_hi": "मुग़ल प्रशासन में सरकार स्तर पर फ़ौजदार कार्यपालिका और कानून-व्यवस्था का प्रमुख होता था, जबकि अमलगुज़ार राजस्व-संग्रह का अधिकारी था। नगर की व्यवस्था कोतवाल देखता था।"
+ },
+ {
+  "n": 43,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "'तुज़ुक-ए-जहाँगीरी' (जहाँगीर की आत्मकथा) मूल रूप से किस भाषा में लिखी गई —",
+  "q_en": "The 'Tuzuk-i-Jahangiri' (memoirs of Jahangir) was originally written in which language?",
+  "options_hi": [
+   "तुर्की",
+   "उर्दू",
+   "अरबी",
+   "फ़ारसी"
+  ],
+  "options_en": [
+   "Turkish",
+   "Urdu",
+   "Arabic",
+   "Persian"
+  ],
+  "answer": "D",
+  "exp_hi": "जहाँगीर ने अपनी आत्मकथा 'तुज़ुक-ए-जहाँगीरी' फ़ारसी में लिखी, जिसमें उसने अपने शासन के सत्रह वर्षों का वर्णन स्वयं किया। बाद का भाग मुतामद ख़ान ने पूर्ण किया।"
+ },
+ {
+  "n": 44,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "जहाँगीर के दरबार का प्रसिद्ध चित्रकार, जो पशु-पक्षियों के यथार्थ चित्रण के लिए विख्यात था —",
+  "q_en": "The famous painter of Jahangir's court, renowned for his realistic studies of animals and birds, was —",
+  "options_hi": [
+   "मंसूर",
+   "अब्दुस्समद",
+   "दसवंत",
+   "बसावन"
+  ],
+  "options_en": [
+   "Mansur",
+   "Abdus Samad",
+   "Daswant",
+   "Basawan"
+  ],
+  "answer": "A",
+  "exp_hi": "उस्ताद मंसूर जहाँगीर के दरबार के सर्वश्रेष्ठ प्रकृति-चित्रकार थे, जिन्हें 'नादिर-उल-अस्र' की उपाधि मिली। उनके बनाए साइबेरियाई सारस और बंगाल के पुष्पों के चित्र मुग़ल चित्रकला की अनुपम धरोहर हैं।"
+ },
+ {
+  "n": 45,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "आगरा के किले में स्थित मोती मस्जिद का निर्माण किस मुग़ल सम्राट ने कराया था —",
+  "q_en": "The Moti Masjid situated in the Agra Fort was built by which Mughal emperor?",
+  "options_hi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगज़ेब"
+  ],
+  "options_en": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "answer": "C",
+  "exp_hi": "आगरा किले की मोती मस्जिद पूरी तरह सफ़ेद संगमरमर से बनी है और इसका निर्माण शाहजहाँ ने कराया था। इसी नाम की एक मस्जिद औरंगज़ेब ने दिल्ली के लाल किले में अपने निजी उपयोग के लिए बनवाई थी।"
+ },
+ {
+  "n": 46,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "1658 ईस्वी में लड़ा गया सामूगढ़ का युद्ध किनके बीच हुआ था —",
+  "q_en": "The Battle of Samugarh, fought in 1658 CE, was fought between —",
+  "options_hi": [
+   "मुराद और शुजा",
+   "शाहजहाँ और औरंगज़ेब",
+   "दारा शिकोह और औरंगज़ेब",
+   "औरंगज़ेब और शिवाजी"
+  ],
+  "options_en": [
+   "Murad and Shuja",
+   "Shah Jahan and Aurangzeb",
+   "Dara Shikoh and Aurangzeb",
+   "Aurangzeb and Shivaji"
+  ],
+  "answer": "C",
+  "exp_hi": "सामूगढ़ (आगरा के पास) के युद्ध में औरंगज़ेब और मुराद की संयुक्त सेना ने शाही सेना के सेनापति दारा शिकोह को पराजित किया। यह विजय उत्तराधिकार-युद्ध का निर्णायक मोड़ सिद्ध हुई।"
+ },
+ {
+  "n": 47,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "1665 ईस्वी की पुरंदर संधि शिवाजी और मुग़लों के बीच किसके माध्यम से हुई थी —",
+  "q_en": "The Treaty of Purandar (1665) between Shivaji and the Mughals was concluded through whom?",
+  "options_hi": [
+   "शाइस्ता ख़ान",
+   "राजा जय सिंह",
+   "अफ़ज़ल ख़ान",
+   "दिलेर ख़ान"
+  ],
+  "options_en": [
+   "Shaista Khan",
+   "Raja Jai Singh",
+   "Afzal Khan",
+   "Diler Khan"
+  ],
+  "answer": "B",
+  "exp_hi": "औरंगज़ेब के सेनापति मिर्ज़ा राजा जय सिंह ने पुरंदर के किले को घेरकर शिवाजी को संधि के लिए विवश किया। संधि के अनुसार शिवाजी ने 23 किले मुग़लों को दिए और पुत्र संभाजी को मुग़ल सेवा में भेजा।"
+ },
+ {
+  "n": 48,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "मराठा साम्राज्य के प्रथम पेशवा कौन थे —",
+  "q_en": "Who was the first Peshwa of the Maratha Empire?",
+  "options_hi": [
+   "बालाजी विश्वनाथ",
+   "बाजीराव प्रथम",
+   "बालाजी बाजीराव",
+   "माधवराव प्रथम"
+  ],
+  "options_en": [
+   "Balaji Vishwanath",
+   "Bajirao I",
+   "Balaji Bajirao",
+   "Madhavrao I"
+  ],
+  "answer": "A",
+  "exp_hi": "छत्रपति शाहू ने 1713 ईस्वी में बालाजी विश्वनाथ को पेशवा नियुक्त किया। उन्हीं के काल से पेशवा पद प्रभावी और वंशानुगत बना तथा मराठा शक्ति का वास्तविक केंद्र सतारा से पुणे की ओर खिसकने लगा।"
+ },
+ {
+  "n": 49,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "मुग़ल प्रशासन में 'मदद-ए-मआश' से क्या तात्पर्य था —",
+  "q_en": "In Mughal administration, what did 'Madad-i-Maash' denote?",
+  "options_hi": [
+   "सैनिकों का वेतन",
+   "शाही कार्यशाला",
+   "व्यापारियों पर लगाया गया कर",
+   "विद्वानों और धार्मिक व्यक्तियों को दी गई कर-मुक्त भूमि"
+  ],
+  "options_en": [
+   "Salary of soldiers",
+   "The imperial workshop",
+   "A tax imposed on traders",
+   "Revenue-free land grants given to scholars and religious persons"
+  ],
+  "answer": "D",
+  "exp_hi": "'मदद-ए-मआश' (सुयूरग़ाल) विद्वानों, संतों और धार्मिक संस्थाओं के भरण-पोषण हेतु दी जाने वाली राजस्व-मुक्त भूमि थी। ऐसे अनुदानों की देखरेख सद्र-उस-सुदूर करता था।"
+ },
+ {
+  "n": 50,
+  "unit": "Unit 5: Medieval Indian History — Mughal Empire",
+  "q_hi": "1724 ईस्वी में हैदराबाद राज्य की स्थापना करने वाले मुग़ल सूबेदार कौन थे —",
+  "q_en": "Which Mughal governor founded the state of Hyderabad in 1724 CE?",
+  "options_hi": [
+   "सआदत ख़ान",
+   "मुर्शिद क़ुली ख़ान",
+   "निज़ाम-उल-मुल्क (आसफ़ जाह)",
+   "अलीवर्दी ख़ान"
+  ],
+  "options_en": [
+   "Saadat Khan",
+   "Murshid Quli Khan",
+   "Nizam-ul-Mulk (Asaf Jah)",
+   "Alivardi Khan"
+  ],
+  "answer": "C",
+  "exp_hi": "निज़ाम-उल-मुल्क (चिन क़िलिच ख़ान) ने 1724 ईस्वी में शकूरखेड़ा के युद्ध में मुग़ल प्रतिनिधि को हराकर दक्कन में स्वतंत्र हैदराबाद राज्य की नींव रखी। मुग़ल साम्राज्य के विघटन से उदय हुए क्षेत्रीय राज्यों में यह प्रमुख था।"
+ },
+ {
+  "n": 51,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "प्रथम आंग्ल-मराठा युद्ध से जुड़ी सूरत की संधि (1775) अंग्रेज़ों और किसके बीच हुई थी —",
+  "q_en": "The Treaty of Surat (1775), associated with the First Anglo-Maratha War, was concluded between the British and whom?",
+  "options_hi": [
+   "नारायणराव",
+   "नाना फड़नवीस",
+   "माधवराव द्वितीय",
+   "रघुनाथराव (राघोबा)"
+  ],
+  "options_en": [
+   "Narayanrao",
+   "Nana Fadnavis",
+   "Madhavrao II",
+   "Raghunathrao (Raghoba)"
+  ],
+  "answer": "D",
+  "exp_hi": "पेशवा बनने की लालसा में रघुनाथराव ने 1775 ईस्वी में बॉम्बे की अंग्रेज़ सरकार से सूरत की संधि की, जिससे प्रथम आंग्ल-मराठा युद्ध (1775–82) छिड़ा। युद्ध का अंत सालबाई की संधि (1782) से हुआ।"
+ },
+ {
+  "n": 52,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "सहायक संधि (Subsidiary Alliance) को सर्वप्रथम स्वीकार करने वाला भारतीय शासक कौन था —",
+  "q_en": "Which Indian ruler was the first to accept the Subsidiary Alliance?",
+  "options_hi": [
+   "टीपू सुल्तान",
+   "अवध का नवाब",
+   "हैदराबाद का निज़ाम",
+   "पेशवा बाजीराव द्वितीय"
+  ],
+  "options_en": [
+   "Tipu Sultan",
+   "The Nawab of Awadh",
+   "The Nizam of Hyderabad",
+   "Peshwa Bajirao II"
+  ],
+  "answer": "C",
+  "exp_hi": "लॉर्ड वेलेज़ली की सहायक संधि को सर्वप्रथम 1798 ईस्वी में हैदराबाद के निज़ाम ने स्वीकार किया। इसके अंतर्गत निज़ाम ने अंग्रेज़ी सेना रखना और उसकी लागत वहन करना स्वीकार किया तथा विदेश-नीति अंग्रेज़ों के अधीन कर दी।"
+ },
+ {
+  "n": 53,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "1793 ईस्वी की 'कॉर्नवालिस संहिता' (Cornwallis Code) का प्रमुख आधार क्या था —",
+  "q_en": "What was the main basis of the 'Cornwallis Code' of 1793 CE?",
+  "options_hi": [
+   "शिक्षा का प्रसार",
+   "सेना का पुनर्गठन",
+   "राजस्व और न्याय प्रशासन का पृथक्करण",
+   "व्यापार का नियमन"
+  ],
+  "options_en": [
+   "Spread of education",
+   "Reorganisation of the army",
+   "Separation of revenue and judicial administration",
+   "Regulation of trade"
+  ],
+  "answer": "C",
+  "exp_hi": "कॉर्नवालिस संहिता ने कलेक्टर के राजस्व और न्यायिक कार्यों को अलग कर प्रशासन में शक्तियों के पृथक्करण का सिद्धांत लागू किया। इसके अंतर्गत ज़िला न्यायालयों की व्यवस्था भी सुव्यवस्थित की गई।"
+ },
+ {
+  "n": 54,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "सिंध का विलय (1843) किस गवर्नर-जनरल के कार्यकाल में हुआ था —",
+  "q_en": "The annexation of Sindh (1843) took place during the tenure of which Governor-General?",
+  "options_hi": [
+   "लॉर्ड ऑकलैंड",
+   "लॉर्ड डलहौज़ी",
+   "लॉर्ड हार्डिंग",
+   "लॉर्ड एलेनबरो"
+  ],
+  "options_en": [
+   "Lord Auckland",
+   "Lord Dalhousie",
+   "Lord Hardinge",
+   "Lord Ellenborough"
+  ],
+  "answer": "D",
+  "exp_hi": "लॉर्ड एलेनबरो के कार्यकाल में सर चार्ल्स नेपियर ने 1843 ईस्वी में मियानी और दाबो के युद्धों में सिंध के अमीरों को हराकर सिंध का विलय किया। समकालीन आलोचकों ने इस विलय को नैतिक दृष्टि से अनुचित बताया था।"
+ },
+ {
+  "n": 55,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "प्रथम आंग्ल-सिख युद्ध (1845–46) का अंत किस संधि से हुआ —",
+  "q_en": "The First Anglo-Sikh War (1845–46) came to an end with which treaty?",
+  "options_hi": [
+   "लाहौर की संधि",
+   "अमृतसर की संधि",
+   "गंडमक की संधि",
+   "सगौली की संधि"
+  ],
+  "options_en": [
+   "Treaty of Lahore",
+   "Treaty of Amritsar",
+   "Treaty of Gandamak",
+   "Treaty of Sugauli"
+  ],
+  "answer": "A",
+  "exp_hi": "1846 ईस्वी की लाहौर की संधि से सिखों को जालंधर दोआब अंग्रेज़ों को देना पड़ा और लाहौर में अंग्रेज़ रेज़िडेंट नियुक्त हुआ। इसके कुछ वर्ष बाद द्वितीय आंग्ल-सिख युद्ध (1849) में पंजाब का पूर्ण विलय हो गया।"
+ },
+ {
+  "n": 56,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "'इनाम आयोग' (1852) की स्थापना किस गवर्नर-जनरल ने लगान-मुक्त भूमियों की जाँच के लिए की थी —",
+  "q_en": "Which Governor-General set up the 'Inam Commission' (1852) to inquire into revenue-free land holdings?",
+  "options_hi": [
+   "लॉर्ड बेंटिंक",
+   "लॉर्ड कैनिंग",
+   "लॉर्ड डलहौज़ी",
+   "लॉर्ड मेयो"
+  ],
+  "options_en": [
+   "Lord Bentinck",
+   "Lord Canning",
+   "Lord Dalhousie",
+   "Lord Mayo"
+  ],
+  "answer": "C",
+  "exp_hi": "लॉर्ड डलहौज़ी ने 1852 ईस्वी में इनाम आयोग गठित कर लगान-मुक्त (इनाम) भूमियों के दावों की जाँच कराई। जाँच के बाद हज़ारों एकड़ भूमि ज़ब्त कर ली गई, जिससे भारतीय समाज में व्यापक असंतोष फैला।"
+ },
+ {
+  "n": 57,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "चार्टर अधिनियम 1853 का महत्वपूर्ण प्रावधान क्या था —",
+  "q_en": "What was the important provision of the Charter Act of 1853?",
+  "options_hi": [
+   "प्रांतीय स्वायत्तता",
+   "भारत में रेलवे की स्वीकृति",
+   "सिविल सेवा में खुली प्रतियोगिता की शुरुआत",
+   "द्वैध शासन"
+  ],
+  "options_en": [
+   "Provincial autonomy",
+   "Approval of railways in India",
+   "Introduction of open competition for the Civil Services",
+   "Dyarchy"
+  ],
+  "answer": "C",
+  "exp_hi": "1853 के चार्टर अधिनियम ने कंपनी की सिविल सेवा में भर्ती के लिए खुली प्रतियोगिता परीक्षा का सिद्धांत स्वीकार किया। इसके बाद मैकाले समिति (1854) की सिफ़ारिशों से परीक्षा-व्यवस्था का ढाँचा तैयार हुआ।"
+ },
+ {
+  "n": 58,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "सगौली की संधि (1816) अंग्रेज़ों और किसके बीच हुई थी, जिससे आंग्ल-नेपाल युद्ध का अंत हुआ —",
+  "q_en": "The Treaty of Sugauli (1816), which ended the Anglo-Nepalese War, was concluded between the British and whom?",
+  "options_hi": [
+   "नेपाल के गोरखा शासक",
+   "मराठों",
+   "सिखों",
+   "बर्मा के राजा"
+  ],
+  "options_en": [
+   "The Gorkha ruler of Nepal",
+   "The Marathas",
+   "The Sikhs",
+   "The King of Burma"
+  ],
+  "answer": "A",
+  "exp_hi": "1814–16 के आंग्ल-नेपाल युद्ध के बाद हुई सगौली की संधि से नेपाल ने सिक्किम, कुमाऊँ और गढ़वाल के क्षेत्र अंग्रेज़ों को दिए। इसके बाद नेपाल में ब्रिटिश रेज़िडेंट नियुक्त हुआ और दोनों के बीच स्थायी संबंध बने।"
+ },
+ {
+  "n": 59,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "'गवर्नर-जनरल ऑफ़ इंडिया' की उपाधि सर्वप्रथम किसे प्राप्त हुई —",
+  "q_en": "Who was the first to receive the title 'Governor-General of India'?",
+  "options_hi": [
+   "वॉरेन हेस्टिंग्स",
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड विलियम बेंटिंक",
+   "लॉर्ड वेलेज़ली"
+  ],
+  "options_en": [
+   "Warren Hastings",
+   "Lord Cornwallis",
+   "Lord William Bentinck",
+   "Lord Wellesley"
+  ],
+  "answer": "C",
+  "exp_hi": "चार्टर अधिनियम 1833 ने बंगाल के गवर्नर-जनरल का पद 'भारत का गवर्नर-जनरल' कर दिया और इस उपाधि के प्रथम धारक लॉर्ड विलियम बेंटिंक बने। वॉरेन हेस्टिंग्स बंगाल के प्रथम गवर्नर-जनरल थे।"
+ },
+ {
+  "n": 60,
+  "unit": "Unit 6: Modern Indian History — Establishment and Expansion of British Rule",
+  "q_hi": "यांडाबू की संधि (1826) किस युद्ध के बाद हुई थी —",
+  "q_en": "The Treaty of Yandabo (1826) was concluded after which war?",
+  "options_hi": [
+   "आंग्ल-नेपाल युद्ध",
+   "प्रथम आंग्ल-अफ़ग़ान युद्ध",
+   "प्रथम आंग्ल-बर्मा युद्ध",
+   "द्वितीय आंग्ल-मराठा युद्ध"
+  ],
+  "options_en": [
+   "Anglo-Nepalese War",
+   "First Anglo-Afghan War",
+   "First Anglo-Burmese War",
+   "Second Anglo-Maratha War"
+  ],
+  "answer": "C",
+  "exp_hi": "यांडाबू की संधि (1826) से प्रथम आंग्ल-बर्मा युद्ध का अंत हुआ और बर्मा ने असम, मणिपुर और अराकान के दावे छोड़ दिए। इस युद्ध से कंपनी का अधिकार भारत के पूर्वोत्तर क्षेत्र तक विस्तृत हुआ।"
+ },
+ {
+  "n": 61,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "1891 ईस्वी के 'सम्मति आयु अधिनियम' (Age of Consent Act) द्वारा लड़कियों के लिए विवाह-सम्मति की आयु कितनी निर्धारित की गई —",
+  "q_en": "The 'Age of Consent Act' of 1891 CE fixed the age of consent for girls at —",
+  "options_hi": [
+   "12 वर्ष",
+   "10 वर्ष",
+   "14 वर्ष",
+   "16 वर्ष"
+  ],
+  "options_en": [
+   "12 years",
+   "10 years",
+   "14 years",
+   "16 years"
+  ],
+  "answer": "A",
+  "exp_hi": "बहरामजी मालाबारी के प्रयासों से पारित 1891 के अधिनियम ने लड़कियों के लिए सम्मति की आयु 10 से बढ़ाकर 12 वर्ष कर दी। बाल गंगाधर तिलक ने सरकारी हस्तक्षेप के आधार पर इस अधिनियम का विरोध किया था।"
+ },
+ {
+  "n": 62,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "कलकत्ता के हिंदू कॉलेज (1817) की स्थापना में राजा राममोहन राय के प्रमुख ब्रिटिश सहयोगी कौन थे —",
+  "q_en": "Who was the chief British associate of Raja Rammohan Roy in founding the Hindu College of Calcutta (1817)?",
+  "options_hi": [
+   "विलियम कैरी",
+   "डेविड हेयर",
+   "अलेक्ज़ेंडर डफ़",
+   "जेम्स प्रिंसेप"
+  ],
+  "options_en": [
+   "William Carey",
+   "David Hare",
+   "Alexander Duff",
+   "James Prinsep"
+  ],
+  "answer": "B",
+  "exp_hi": "स्कॉटिश घड़ी-व्यवसायी डेविड हेयर ने राममोहन राय और राधाकांत देव के साथ मिलकर 1817 ईस्वी में हिंदू कॉलेज की स्थापना की, जो बाद में प्रेसीडेंसी कॉलेज बना। डेविड हेयर भारत में आधुनिक शिक्षा के अग्रदूतों में गिने जाते हैं।"
+ },
+ {
+  "n": 63,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "कोल विद्रोह (1831–32) किस क्षेत्र में हुआ था —",
+  "q_en": "The Kol Rebellion (1831–32) took place in which region?",
+  "options_hi": [
+   "संथाल परगना",
+   "मालाबार",
+   "छोटानागपुर",
+   "ख़ानदेश"
+  ],
+  "options_en": [
+   "Santhal Pargana",
+   "Malabar",
+   "Chota Nagpur",
+   "Khandesh"
+  ],
+  "answer": "C",
+  "exp_hi": "छोटानागपुर के कोल जनजातीय किसानों ने भूमि के बाहरी लोगों (दीकुओं) को हस्तांतरण और पारंपरिक व्यवस्था में हस्तक्षेप के विरुद्ध 1831–32 में विद्रोह किया। बुधु भगत इस विद्रोह के प्रमुख नेताओं में थे।"
+ },
+ {
+  "n": 64,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "भारत में वहाबी आंदोलन के प्रमुख नेता कौन थे —",
+  "q_en": "Who was the chief leader of the Wahabi Movement in India?",
+  "options_hi": [
+   "दादू मियाँ",
+   "हाजी शरीयतुल्लाह",
+   "टीटू मीर",
+   "सैयद अहमद बरेलवी"
+  ],
+  "options_en": [
+   "Dadu Miyan",
+   "Haji Shariatullah",
+   "Titu Mir",
+   "Syed Ahmad Barelvi"
+  ],
+  "answer": "D",
+  "exp_hi": "सैयद अहमद बरेलवी (रायबरेली) ने इस्लाम के शुद्धीकरण हेतु 'तरीक़ा-ए-मुहम्मदिया' आंदोलन चलाया, जिसे वहाबी आंदोलन कहा गया। 1831 ईस्वी में बालाकोट के युद्ध में सिखों से लड़ते हुए वे वीरगति को प्राप्त हुए।"
+ },
+ {
+  "n": 65,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "ईश्वरचंद्र विद्यासागर किस संस्था के प्रधानाचार्य थे, जहाँ से उन्होंने शिक्षा और समाज-सुधार का कार्य किया —",
+  "q_en": "Ishwar Chandra Vidyasagar was the principal of which institution, from where he carried on his work of education and social reform?",
+  "options_hi": [
+   "हिंदू कॉलेज",
+   "एल्फ़िंस्टन कॉलेज",
+   "संस्कृत कॉलेज, कलकत्ता",
+   "मेयो कॉलेज"
+  ],
+  "options_en": [
+   "Hindu College",
+   "Elphinstone College",
+   "Sanskrit College, Calcutta",
+   "Mayo College"
+  ],
+  "answer": "C",
+  "exp_hi": "विद्यासागर कलकत्ता के संस्कृत कॉलेज के प्रधानाचार्य रहे और उन्होंने गैर-ब्राह्मणों के लिए संस्कृत शिक्षा के द्वार खोले। उन्हीं के प्रयासों से 1856 ईस्वी में विधवा पुनर्विवाह अधिनियम पारित हुआ।"
+ },
+ {
+  "n": 66,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "कलकत्ता में बालिकाओं के लिए बेथ्यून स्कूल (1849) की स्थापना किसने की थी —",
+  "q_en": "Who founded the Bethune School (1849) for girls in Calcutta?",
+  "options_hi": [
+   "द्वारकानाथ टैगोर",
+   "लॉर्ड डलहौज़ी",
+   "केशवचंद्र सेन",
+   "जॉन एलियट ड्रिंकवाटर बेथ्यून"
+  ],
+  "options_en": [
+   "Dwarkanath Tagore",
+   "Lord Dalhousie",
+   "Keshab Chandra Sen",
+   "John Elliot Drinkwater Bethune"
+  ],
+  "answer": "D",
+  "exp_hi": "शिक्षा परिषद के अध्यक्ष जॉन एलियट ड्रिंकवाटर बेथ्यून ने 1849 ईस्वी में कलकत्ता में बालिका विद्यालय स्थापित किया, जिसके सचिव ईश्वरचंद्र विद्यासागर थे। बाद में यह बेथ्यून कॉलेज के रूप में विकसित हुआ।"
+ },
+ {
+  "n": 67,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "1857 के विद्रोह में बरेली का नेतृत्व किसने किया था —",
+  "q_en": "Who led the Revolt of 1857 at Bareilly?",
+  "options_hi": [
+   "बख़्त ख़ान",
+   "फ़िरोज़ शाह",
+   "अज़ीमुल्लाह",
+   "ख़ान बहादुर ख़ान"
+  ],
+  "options_en": [
+   "Bakht Khan",
+   "Firoz Shah",
+   "Azimullah",
+   "Khan Bahadur Khan"
+  ],
+  "answer": "D",
+  "exp_hi": "रोहिलखंड के ख़ान बहादुर ख़ान ने बरेली में विद्रोह का नेतृत्व किया और स्वयं को वहाँ का शासक घोषित किया। बख़्त ख़ान बरेली से सेना लेकर दिल्ली आए और वहाँ विद्रोही सेना के प्रमुख सेनापति बने।"
+ },
+ {
+  "n": 68,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "नील विद्रोह (1859–60) के प्रसिद्ध किसान नेता दिगंबर बिस्वास और बिष्णु बिस्वास किस ज़िले से थे —",
+  "q_en": "Digambar Biswas and Bishnu Biswas, the famous peasant leaders of the Indigo Revolt (1859–60), belonged to which district?",
+  "options_hi": [
+   "मिदनापुर (बंगाल)",
+   "चंपारण (बिहार)",
+   "खेड़ा (गुजरात)",
+   "नदिया (बंगाल)"
+  ],
+  "options_en": [
+   "Midnapore (Bengal)",
+   "Champaran (Bihar)",
+   "Kheda (Gujarat)",
+   "Nadia (Bengal)"
+  ],
+  "answer": "D",
+  "exp_hi": "बंगाल के नदिया ज़िले के चौगाचा गाँव से आरंभ हुआ नील विद्रोह शीघ्र ही अन्य ज़िलों में फैल गया। दीनबंधु मित्र के नाटक 'नील दर्पण' ने नील किसानों की दुर्दशा को उजागर किया और सरकार को नील आयोग गठित करना पड़ा।"
+ },
+ {
+  "n": 69,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "ज्योतिबा फुले और सावित्रीबाई फुले ने 1848 ईस्वी में बालिकाओं का पहला विद्यालय कहाँ खोला था —",
+  "q_en": "Where did Jyotiba Phule and Savitribai Phule open the first school for girls in 1848 CE?",
+  "options_hi": [
+   "मुंबई",
+   "नागपुर",
+   "पुणे (भिडे वाडा)",
+   "सतारा"
+  ],
+  "options_en": [
+   "Bombay",
+   "Nagpur",
+   "Pune (Bhide Wada)",
+   "Satara"
+  ],
+  "answer": "C",
+  "exp_hi": "1848 ईस्वी में पुणे के भिडे वाडा में फुले दंपति ने बालिकाओं का पहला विद्यालय खोला, जहाँ सावित्रीबाई फुले शिक्षिका बनीं। यह भारतीय स्त्री-शिक्षा के इतिहास की युगांतरकारी घटना मानी जाती है।"
+ },
+ {
+  "n": 70,
+  "unit": "Unit 7: Modern Indian History — 19th Century Reforms and Revolts",
+  "q_hi": "सिंह सभा आंदोलन (1873) का आरंभ कहाँ से हुआ था —",
+  "q_en": "The Singh Sabha Movement (1873) began from which place?",
+  "options_hi": [
+   "अमृतसर",
+   "लाहौर",
+   "पटियाला",
+   "दिल्ली"
+  ],
+  "options_en": [
+   "Amritsar",
+   "Lahore",
+   "Patiala",
+   "Delhi"
+  ],
+  "answer": "A",
+  "exp_hi": "1873 ईस्वी में अमृतसर में स्थापित सिंह सभा का उद्देश्य सिख धर्म का शुद्धीकरण, गुरुमुखी और पंजाबी भाषा का प्रसार तथा शिक्षा का विस्तार था। बाद में लाहौर में भी इसकी शाखा बनी और यह आंदोलन अकाली आंदोलन की पृष्ठभूमि बना।"
+ },
+ {
+  "n": 71,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "1911 ईस्वी के दिल्ली दरबार में कौन-सी दो महत्वपूर्ण घोषणाएँ की गईं —",
+  "q_en": "Which two important announcements were made at the Delhi Durbar of 1911?",
+  "options_hi": [
+   "बंगाल विभाजन रद्द करना और राजधानी कलकत्ता से दिल्ली स्थानांतरित करना",
+   "कांग्रेस की मान्यता और प्रांतीय चुनाव",
+   "साइमन कमीशन की नियुक्ति और गोलमेज़ सम्मेलन",
+   "द्वैध शासन की शुरुआत और पृथक निर्वाचन"
+  ],
+  "options_en": [
+   "Annulment of the Partition of Bengal and transfer of the capital from Calcutta to Delhi",
+   "Recognition of the Congress and provincial elections",
+   "Appointment of the Simon Commission and the Round Table Conference",
+   "Introduction of Dyarchy and separate electorates"
+  ],
+  "answer": "A",
+  "exp_hi": "सम्राट जॉर्ज पंचम की उपस्थिति में हुए 1911 के दिल्ली दरबार में बंगाल का विभाजन रद्द करने और भारत की राजधानी कलकत्ता से दिल्ली ले जाने की घोषणा हुई। विभाजन-विरोधी स्वदेशी आंदोलन के दबाव को इस निर्णय की पृष्ठभूमि माना जाता है।"
+ },
+ {
+  "n": 72,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "ग़दर पार्टी की स्थापना 1913 ईस्वी में कहाँ हुई थी —",
+  "q_en": "Where was the Ghadar Party founded in 1913 CE?",
+  "options_hi": [
+   "लंदन",
+   "टोक्यो",
+   "बर्लिन",
+   "सैन फ़्रांसिस्को (अमेरिका)"
+  ],
+  "options_en": [
+   "London",
+   "Tokyo",
+   "Berlin",
+   "San Francisco (USA)"
+  ],
+  "answer": "D",
+  "exp_hi": "अमेरिका और कनाडा में बसे भारतीय प्रवासियों ने लाला हरदयाल के नेतृत्व में 1913 ईस्वी में सैन फ़्रांसिस्को में ग़दर पार्टी की स्थापना की। इसका उद्देश्य सशस्त्र क्रांति द्वारा भारत को ब्रिटिश शासन से मुक्त कराना था।"
+ },
+ {
+  "n": 73,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "महात्मा गांधी ने भारत में अपना पहला अनशन (उपवास) किस आंदोलन के दौरान किया था —",
+  "q_en": "During which movement did Mahatma Gandhi undertake his first fast (hunger strike) in India?",
+  "options_hi": [
+   "चंपारण सत्याग्रह (1917)",
+   "अहमदाबाद मिल मज़दूर हड़ताल (1918)",
+   "खेड़ा सत्याग्रह (1918)",
+   "असहयोग आंदोलन (1920)"
+  ],
+  "options_en": [
+   "Champaran Satyagraha (1917)",
+   "Ahmedabad Mill Workers' Strike (1918)",
+   "Kheda Satyagraha (1918)",
+   "Non-Cooperation Movement (1920)"
+  ],
+  "answer": "B",
+  "exp_hi": "1918 ईस्वी की अहमदाबाद मिल मज़दूरों की हड़ताल में मज़दूरों का मनोबल बनाए रखने के लिए गांधी जी ने तीन दिन का अनशन किया, जो भारत में उनका पहला उपवास था। इस विवाद का समाधान उनकी मध्यस्थता से हुआ।"
+ },
+ {
+  "n": 74,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "मोपला विद्रोह (1921) किस क्षेत्र में हुआ था —",
+  "q_en": "The Moplah Rebellion (1921) broke out in which region?",
+  "options_hi": [
+   "मालवा",
+   "मालाबार (केरल)",
+   "छोटानागपुर",
+   "तेलंगाना"
+  ],
+  "options_en": [
+   "Malwa",
+   "Malabar (Kerala)",
+   "Chota Nagpur",
+   "Telangana"
+  ],
+  "answer": "B",
+  "exp_hi": "1921 ईस्वी में केरल के मालाबार क्षेत्र के मोपला (मुस्लिम किसान) समुदाय ने ज़मींदारों और ब्रिटिश शासन के विरुद्ध विद्रोह किया, जो ख़िलाफ़त आंदोलन से भी जुड़ा था। सरकार ने इसे कठोरता से दबाया।"
+ },
+ {
+  "n": 75,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "बारदोली सत्याग्रह (1928) के सफल नेतृत्व के कारण वल्लभभाई पटेल को कौन-सी उपाधि मिली —",
+  "q_en": "Which title did Vallabhbhai Patel earn for his successful leadership of the Bardoli Satyagraha (1928)?",
+  "options_hi": [
+   "लोकमान्य",
+   "सरदार",
+   "देशबंधु",
+   "लौह पुरुष"
+  ],
+  "options_en": [
+   "Lokmanya",
+   "Sardar",
+   "Deshbandhu",
+   "Iron Man"
+  ],
+  "answer": "B",
+  "exp_hi": "गुजरात के बारदोली तालुके में लगान-वृद्धि के विरुद्ध हुए सत्याग्रह का नेतृत्व वल्लभभाई पटेल ने किया और सरकार को वृद्धि वापस लेनी पड़ी। बारदोली की महिलाओं ने उन्हें 'सरदार' की उपाधि दी।"
+ },
+ {
+  "n": 76,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "मेरठ षड्यंत्र मामला (1929) मुख्यतः किसके विरुद्ध चलाया गया था —",
+  "q_en": "The Meerut Conspiracy Case (1929) was directed mainly against whom?",
+  "options_hi": [
+   "क्रांतिकारी आतंकवादियों",
+   "कम्युनिस्ट और मज़दूर नेताओं",
+   "कांग्रेस के नेताओं",
+   "रियासतों के शासकों"
+  ],
+  "options_en": [
+   "Revolutionary terrorists",
+   "Communist and labour leaders",
+   "Congress leaders",
+   "Rulers of princely states"
+  ],
+  "answer": "B",
+  "exp_hi": "1929 ईस्वी में सरकार ने एस. ए. डांगे और मुज़फ़्फ़र अहमद सहित 31 कम्युनिस्ट और मज़दूर नेताओं को ब्रिटिश शासन के विरुद्ध षड्यंत्र के आरोप में गिरफ्तार कर मेरठ में मुकदमा चलाया। इस मामले से कम्युनिस्ट विचारधारा को देशव्यापी प्रचार मिला।"
+ },
+ {
+  "n": 77,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "सांप्रदायिक पंचाट (Communal Award, 1932) की घोषणा किस ब्रिटिश प्रधानमंत्री ने की थी —",
+  "q_en": "The Communal Award of 1932 was announced by which British Prime Minister?",
+  "options_hi": [
+   "विंस्टन चर्चिल",
+   "रैम्ज़े मैकडोनाल्ड",
+   "स्टैनली बॉल्डविन",
+   "लॉर्ड इरविन"
+  ],
+  "options_en": [
+   "Winston Churchill",
+   "Ramsay MacDonald",
+   "Stanley Baldwin",
+   "Lord Irwin"
+  ],
+  "answer": "B",
+  "exp_hi": "अगस्त 1932 में प्रधानमंत्री रैम्ज़े मैकडोनाल्ड ने सांप्रदायिक पंचाट द्वारा दलित वर्गों के लिए भी पृथक निर्वाचन की व्यवस्था की। इसके विरुद्ध गांधी जी ने यरवदा जेल में आमरण अनशन किया, जिसका अंत पूना पैक्ट से हुआ।"
+ },
+ {
+  "n": 78,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "'फ़ॉरवर्ड ब्लॉक' की स्थापना 1939 ईस्वी में किसने की थी —",
+  "q_en": "Who founded the 'Forward Bloc' in 1939 CE?",
+  "options_hi": [
+   "सी. आर. दास",
+   "जयप्रकाश नारायण",
+   "एम. एन. रॉय",
+   "सुभाषचंद्र बोस"
+  ],
+  "options_en": [
+   "C. R. Das",
+   "Jayaprakash Narayan",
+   "M. N. Roy",
+   "Subhas Chandra Bose"
+  ],
+  "answer": "D",
+  "exp_hi": "त्रिपुरी अधिवेशन (1939) के बाद कांग्रेस अध्यक्ष पद से त्यागपत्र देकर सुभाषचंद्र बोस ने फ़ॉरवर्ड ब्लॉक की स्थापना की। इसका उद्देश्य स्वतंत्रता संग्राम की सभी वामपंथी और उग्र शक्तियों को एक मंच पर लाना था।"
+ },
+ {
+  "n": 79,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "आज़ाद हिंद फ़ौज (INA) का प्रथम गठन 1942 ईस्वी में किसके नेतृत्व में हुआ था —",
+  "q_en": "The Indian National Army (INA) was first raised in 1942 CE under the leadership of whom?",
+  "options_hi": [
+   "कैप्टन मोहन सिंह",
+   "सुभाषचंद्र बोस",
+   "रास बिहारी बोस",
+   "लक्ष्मी सहगल"
+  ],
+  "options_en": [
+   "Captain Mohan Singh",
+   "Subhas Chandra Bose",
+   "Rash Behari Bose",
+   "Lakshmi Sahgal"
+  ],
+  "answer": "A",
+  "exp_hi": "सिंगापुर में कैप्टन मोहन सिंह ने जापान की सहायता से 1942 ईस्वी में भारतीय युद्धबंदियों से आज़ाद हिंद फ़ौज का प्रथम गठन किया। बाद में 1943 में सुभाषचंद्र बोस ने इसका पुनर्गठन कर नेतृत्व संभाला।"
+ },
+ {
+  "n": 80,
+  "unit": "Unit 8: Freedom Movement 1885-1947",
+  "q_hi": "भारत विभाजन की 'माउंटबेटन योजना' की घोषणा कब की गई थी —",
+  "q_en": "When was the 'Mountbatten Plan' for the partition of India announced?",
+  "options_hi": [
+   "15 अगस्त 1947",
+   "3 जून 1947",
+   "20 फ़रवरी 1947",
+   "9 दिसंबर 1946"
+  ],
+  "options_en": [
+   "15 August 1947",
+   "3 June 1947",
+   "20 February 1947",
+   "9 December 1946"
+  ],
+  "answer": "B",
+  "exp_hi": "3 जून 1947 को लॉर्ड माउंटबेटन ने योजना घोषित की, जिसमें भारत और पाकिस्तान के रूप में विभाजन तथा दोनों उपनिवेशों (डोमिनियन) को सत्ता हस्तांतरण का प्रस्ताव था। इसी के आधार पर भारतीय स्वतंत्रता अधिनियम 1947 पारित हुआ।"
+ },
+ {
+  "n": 81,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "भाषा के आधार पर गठित होने वाला भारत का प्रथम राज्य (1953) कौन-सा था —",
+  "q_en": "Which was the first state of India to be formed on a linguistic basis (1953)?",
+  "options_hi": [
+   "आंध्र प्रदेश",
+   "केरल",
+   "कर्नाटक",
+   "महाराष्ट्र"
+  ],
+  "options_en": [
+   "Andhra Pradesh",
+   "Kerala",
+   "Karnataka",
+   "Maharashtra"
+  ],
+  "answer": "A",
+  "exp_hi": "पोट्टी श्रीरामुलु के आमरण अनशन और निधन के बाद 1 अक्टूबर 1953 को मद्रास राज्य के तेलुगु-भाषी क्षेत्रों से आंध्र प्रदेश बना। यह भाषायी आधार पर बनने वाला पहला राज्य था, जिसने आगे राज्य पुनर्गठन का मार्ग प्रशस्त किया।"
+ },
+ {
+  "n": 82,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "अफ़्रीकी-एशियाई देशों का प्रसिद्ध बांडुंग सम्मेलन (1955) किस देश में हुआ था —",
+  "q_en": "The famous Bandung Conference (1955) of Afro-Asian nations was held in which country?",
+  "options_hi": [
+   "मिस्र",
+   "इंडोनेशिया",
+   "भारत",
+   "यूगोस्लाविया"
+  ],
+  "options_en": [
+   "Egypt",
+   "Indonesia",
+   "India",
+   "Yugoslavia"
+  ],
+  "answer": "B",
+  "exp_hi": "अप्रैल 1955 में इंडोनेशिया के बांडुंग नगर में 29 अफ़्रीकी-एशियाई देशों का सम्मेलन हुआ, जिसमें जवाहरलाल नेहरू प्रमुख नेता थे। यह सम्मेलन गुटनिरपेक्ष आंदोलन की पृष्ठभूमि तैयार करने में मील का पत्थर सिद्ध हुआ।"
+ },
+ {
+  "n": 83,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "भारत में 14 प्रमुख बैंकों का राष्ट्रीयकरण किस वर्ष किया गया था —",
+  "q_en": "In which year were 14 major banks nationalised in India?",
+  "options_hi": [
+   "1965",
+   "1980",
+   "1975",
+   "1969"
+  ],
+  "options_en": [
+   "1965",
+   "1980",
+   "1975",
+   "1969"
+  ],
+  "answer": "D",
+  "exp_hi": "जुलाई 1969 में इंदिरा गांधी सरकार ने 14 बड़े वाणिज्यिक बैंकों का राष्ट्रीयकरण किया। 1980 ईस्वी में छह और बैंकों का राष्ट्रीयकरण हुआ।"
+ },
+ {
+  "n": 84,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "रूसी क्रांति की 'फ़रवरी क्रांति' (1917) के फलस्वरूप किस शासक को गद्दी छोड़नी पड़ी —",
+  "q_en": "As a result of the 'February Revolution' (1917) in Russia, which ruler had to abdicate?",
+  "options_hi": [
+   "ज़ार निकोलस द्वितीय",
+   "केरेन्स्की",
+   "स्तालिन",
+   "ज़ार अलेक्ज़ेंडर तृतीय"
+  ],
+  "options_en": [
+   "Tsar Nicholas II",
+   "Kerensky",
+   "Stalin",
+   "Tsar Alexander III"
+  ],
+  "answer": "A",
+  "exp_hi": "1917 ईस्वी की फ़रवरी क्रांति (पुराने कैलेंडर के अनुसार) में मज़दूरों और सैनिकों के विद्रोह से ज़ार निकोलस द्वितीय को सिंहासन छोड़ना पड़ा और रूस में अस्थायी सरकार बनी। उसी वर्ष अक्टूबर क्रांति में बोल्शेविकों ने सत्ता हासिल की।"
+ },
+ {
+  "n": 85,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "राष्ट्र संघ (League of Nations) की स्थापना कब हुई थी —",
+  "q_en": "When was the League of Nations established?",
+  "options_hi": [
+   "1919",
+   "1920",
+   "1925",
+   "1945"
+  ],
+  "options_en": [
+   "1919",
+   "1920",
+   "1925",
+   "1945"
+  ],
+  "answer": "B",
+  "exp_hi": "वर्साय संधि के अंतर्गत गठित राष्ट्र संघ 10 जनवरी 1920 से अस्तित्व में आया और इसका मुख्यालय जेनेवा में रखा गया। यह विश्व-शांति के लिए बना पहला अंतरराष्ट्रीय संगठन था, किंतु द्वितीय विश्व युद्ध रोकने में असफल रहा।"
+ },
+ {
+  "n": 86,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "'मार्शल योजना' (1947) अमेरिका द्वारा किस उद्देश्य से घोषित की गई थी —",
+  "q_en": "The 'Marshall Plan' (1947) was announced by the USA for which purpose?",
+  "options_hi": [
+   "युद्ध-क्षतिग्रस्त यूरोप का आर्थिक पुनर्निर्माण",
+   "एशिया में सैन्य विस्तार",
+   "परमाणु हथियारों का विकास",
+   "अफ़्रीका का उपनिवेशीकरण"
+  ],
+  "options_en": [
+   "Economic reconstruction of war-ravaged Europe",
+   "Military expansion in Asia",
+   "Development of nuclear weapons",
+   "Colonisation of Africa"
+  ],
+  "answer": "A",
+  "exp_hi": "अमेरिकी विदेश मंत्री जॉर्ज मार्शल के नाम पर बनी इस योजना के तहत अमेरिका ने द्वितीय विश्व युद्ध से तबाह यूरोपीय देशों को भारी आर्थिक सहायता दी। सोवियत संघ ने इसे अपने विरुद्ध आर्थिक घेराबंदी के रूप में देखा।"
+ },
+ {
+  "n": 87,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "क्यूबा मिसाइल संकट (Cuban Missile Crisis) किस वर्ष हुआ था —",
+  "q_en": "In which year did the Cuban Missile Crisis take place?",
+  "options_hi": [
+   "1956",
+   "1968",
+   "1962",
+   "1973"
+  ],
+  "options_en": [
+   "1956",
+   "1968",
+   "1962",
+   "1973"
+  ],
+  "answer": "C",
+  "exp_hi": "अक्टूबर 1962 में क्यूबा में सोवियत मिसाइलों की तैनाती को लेकर अमेरिका और सोवियत संघ आमने-सामने आ गए और विश्व परमाणु युद्ध के कगार पर पहुँच गया। अंततः ख़्रुश्चेव द्वारा मिसाइलें हटाने पर संकट टला।"
+ },
+ {
+  "n": 88,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "इटली के एकीकरण का प्रमुख शिल्पकार किसे माना जाता है —",
+  "q_en": "Who is regarded as the chief architect of the unification of Italy?",
+  "options_hi": [
+   "मैज़िनी",
+   "गैरीबाल्डी",
+   "विक्टर इमैनुएल द्वितीय",
+   "काउंट कावूर"
+  ],
+  "options_en": [
+   "Mazzini",
+   "Garibaldi",
+   "Victor Emmanuel II",
+   "Count Cavour"
+  ],
+  "answer": "D",
+  "exp_hi": "सार्डीनिया-पीडमॉन्ट के प्रधानमंत्री काउंट कावूर ने कूटनीति और गठबंधनों के माध्यम से इटली के एकीकरण (1861) की भूमिका तैयार की। मैज़िनी ने वैचारिक प्रेरणा दी और गैरीबाल्डी ने सैन्य योगदान किया।"
+ },
+ {
+  "n": 89,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "याल्टा सम्मेलन (1945) में अमेरिका, ब्रिटेन और सोवियत संघ के प्रतिनिधि क्रमशः थे —",
+  "q_en": "At the Yalta Conference (1945), the USA, Britain and the Soviet Union were represented respectively by —",
+  "options_hi": [
+   "विल्सन, लॉयड जॉर्ज और त्रॉत्स्की",
+   "ट्रूमैन, एटली और स्तालिन",
+   "रूज़वेल्ट, चैंबरलेन और लेनिन",
+   "रूज़वेल्ट, चर्चिल और स्तालिन"
+  ],
+  "options_en": [
+   "Wilson, Lloyd George and Trotsky",
+   "Truman, Attlee and Stalin",
+   "Roosevelt, Chamberlain and Lenin",
+   "Roosevelt, Churchill and Stalin"
+  ],
+  "answer": "D",
+  "exp_hi": "फ़रवरी 1945 के याल्टा (क्रीमिया) सम्मेलन में रूज़वेल्ट, चर्चिल और स्तालिन ने युद्धोत्तर यूरोप के निपटारे और संयुक्त राष्ट्र की स्थापना पर निर्णय लिए। पॉट्सडैम सम्मेलन (जुलाई 1945) में अमेरिका का प्रतिनिधित्व ट्रूमैन ने किया था।"
+ },
+ {
+  "n": 90,
+  "unit": "Unit 9: India after Independence and World History",
+  "q_hi": "भारत का संविधान लागू होकर देश गणतंत्र कब बना —",
+  "q_en": "When did India become a Republic with the coming into force of its Constitution?",
+  "options_hi": [
+   "15 अगस्त 1947",
+   "26 जनवरी 1950",
+   "26 नवंबर 1949",
+   "30 जनवरी 1950"
+  ],
+  "options_en": [
+   "15 August 1947",
+   "26 January 1950",
+   "26 November 1949",
+   "30 January 1950"
+  ],
+  "answer": "B",
+  "exp_hi": "संविधान सभा ने 26 नवंबर 1949 को संविधान अंगीकृत किया और 26 जनवरी 1950 से यह लागू हुआ, जिससे भारत संप्रभु लोकतांत्रिक गणराज्य बना। डॉ. राजेंद्र प्रसाद देश के प्रथम राष्ट्रपति बने।"
+ },
+ {
+  "n": 91,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "'तारीख़-ए-रशीदी' नामक ऐतिहासिक ग्रंथ के लेखक कौन हैं —",
+  "q_en": "Who is the author of the historical work 'Tarikh-i-Rashidi'?",
+  "options_hi": [
+   "गुलबदन बेगम",
+   "अब्दुल क़ादिर बदायूँनी",
+   "मिर्ज़ा मुहम्मद हैदर दुग़लत",
+   "ख़्वांद मीर"
+  ],
+  "options_en": [
+   "Gulbadan Begum",
+   "Abdul Qadir Badayuni",
+   "Mirza Muhammad Haidar Dughlat",
+   "Khwand Mir"
+  ],
+  "answer": "C",
+  "exp_hi": "'तारीख़-ए-रशीदी' बाबर के चचेरे भाई मिर्ज़ा मुहम्मद हैदर दुग़लत की फ़ारसी रचना है, जो मध्य एशिया और मुग़ल काल के प्रारंभिक इतिहास का मूल्यवान स्रोत है। उन्होंने कश्मीर पर भी शासन किया था।"
+ },
+ {
+  "n": 92,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "प्रसिद्ध कृति 'द मेडिटरेनियन एंड द मेडिटरेनियन वर्ल्ड इन द एज ऑफ़ फ़िलिप द्वितीय' के लेखक कौन हैं —",
+  "q_en": "Who is the author of the celebrated work 'The Mediterranean and the Mediterranean World in the Age of Philip II'?",
+  "options_hi": [
+   "मार्क ब्लॉक",
+   "फ़र्नां ब्रॉदेल",
+   "लूसियाँ फ़ेव्र",
+   "कार्लो गिंज़बर्ग"
+  ],
+  "options_en": [
+   "Marc Bloch",
+   "Fernand Braudel",
+   "Lucien Febvre",
+   "Carlo Ginzburg"
+  ],
+  "answer": "B",
+  "exp_hi": "फ़र्नां ब्रॉदेल की यह कृति (1949) अनाल परंपरा की महान रचना है, जिसमें उन्होंने भूगोल और दीर्घकालीन संरचनाओं को इतिहास के केंद्र में रखा। उनकी 'दीर्घ अवधि' (लोंग द्यूरे) की अवधारणा इसी चिंतन से जुड़ी है।"
+ },
+ {
+  "n": 93,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "इतिहास-शोध की पद्धति में 'ह्यूरिस्टिक्स' (Heuristics) से क्या तात्पर्य है —",
+  "q_en": "In the methodology of historical research, what does 'Heuristics' mean?",
+  "options_hi": [
+   "स्रोतों की प्रामाणिकता की जाँच",
+   "स्रोतों की खोज और संग्रह की प्रक्रिया",
+   "तथ्यों की व्याख्या",
+   "निष्कर्षों का लेखन"
+  ],
+  "options_en": [
+   "Testing the authenticity of sources",
+   "The process of searching for and collecting sources",
+   "Interpretation of facts",
+   "Writing of conclusions"
+  ],
+  "answer": "B",
+  "exp_hi": "ह्यूरिस्टिक्स ऐतिहासिक शोध का पहला चरण है, जिसमें शोधकर्ता विषय से जुड़े स्रोतों की खोज और संग्रह करता है। इसके बाद बाह्य और आंतरिक आलोचना द्वारा स्रोतों की विश्वसनीयता परखी जाती है।"
+ },
+ {
+  "n": 94,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "'द एट्टीन्थ ब्रूमेयर ऑफ़ लुई बोनापार्ट' नामक ऐतिहासिक विश्लेषण के लेखक कौन हैं —",
+  "q_en": "Who is the author of the historical analysis 'The Eighteenth Brumaire of Louis Bonaparte'?",
+  "options_hi": [
+   "कार्ल मार्क्स",
+   "फ़्रेडरिक एंगेल्स",
+   "एंतोनियो ग्राम्शी",
+   "जार्ज लुकाच"
+  ],
+  "options_en": [
+   "Karl Marx",
+   "Friedrich Engels",
+   "Antonio Gramsci",
+   "Georg Lukacs"
+  ],
+  "answer": "A",
+  "exp_hi": "1852 ईस्वी में प्रकाशित इस रचना में मार्क्स ने फ़्रांस की 1848–51 की घटनाओं का वर्ग-संघर्ष के आधार पर विश्लेषण किया। यह ऐतिहासिक भौतिकवाद के व्यावहारिक प्रयोग का उत्कृष्ट उदाहरण मानी जाती है।"
+ },
+ {
+  "n": 95,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "शाहिद अमीन की प्रसिद्ध कृति 'इवेंट, मेटाफ़र, मेमोरी' मुख्यतः किस घटना पर आधारित है —",
+  "q_en": "Shahid Amin's famous work 'Event, Metaphor, Memory' is based mainly on which event?",
+  "options_hi": [
+   "चंपारण सत्याग्रह (1917)",
+   "जलियाँवाला बाग़ (1919)",
+   "काकोरी कांड (1925)",
+   "चौरी चौरा कांड (1922)"
+  ],
+  "options_en": [
+   "The Champaran Satyagraha (1917)",
+   "Jallianwala Bagh (1919)",
+   "The Kakori case (1925)",
+   "The Chauri Chaura incident (1922)"
+  ],
+  "answer": "D",
+  "exp_hi": "शाहिद अमीन ने इस कृति में चौरी चौरा (1922) की घटना को सरकारी दस्तावेज़ों और जन-स्मृति दोनों के आधार पर परखा है। यह सबाल्टर्न इतिहास-लेखन और स्मृति-अध्ययन की प्रतिनिधि रचना है।"
+ },
+ {
+  "n": 96,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "भारतीय इतिहास कांग्रेस (Indian History Congress) की स्थापना किस वर्ष हुई थी —",
+  "q_en": "In which year was the Indian History Congress founded?",
+  "options_hi": [
+   "1919",
+   "1952",
+   "1947",
+   "1935"
+  ],
+  "options_en": [
+   "1919",
+   "1952",
+   "1947",
+   "1935"
+  ],
+  "answer": "D",
+  "exp_hi": "भारतीय इतिहास कांग्रेस की स्थापना 1935 ईस्वी में हुई और इसका पहला अधिवेशन पूना में हुआ। यह भारत के इतिहासकारों का सबसे बड़ा शैक्षणिक संगठन है, जिसका उद्देश्य वैज्ञानिक इतिहास-लेखन को बढ़ावा देना है।"
+ },
+ {
+  "n": 97,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "भारतीय ऐतिहासिक अनुसंधान परिषद (ICHR) की स्थापना कब हुई थी —",
+  "q_en": "When was the Indian Council of Historical Research (ICHR) established?",
+  "options_hi": [
+   "1962",
+   "1982",
+   "1972",
+   "1956"
+  ],
+  "options_en": [
+   "1962",
+   "1982",
+   "1972",
+   "1956"
+  ],
+  "answer": "C",
+  "exp_hi": "भारत सरकार ने 1972 ईस्वी में नई दिल्ली में भारतीय ऐतिहासिक अनुसंधान परिषद की स्थापना की। इसका उद्देश्य ऐतिहासिक शोध को प्रोत्साहन, समन्वय और वित्तीय सहायता प्रदान करना है।"
+ },
+ {
+  "n": 98,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "पोटैशियम-आर्गन (K-Ar) काल-निर्धारण पद्धति सर्वाधिक उपयोगी है —",
+  "q_en": "The Potassium-Argon (K-Ar) dating method is most useful for —",
+  "options_hi": [
+   "मध्यकालीन पांडुलिपियों के लिए",
+   "लकड़ी के अवशेषों के लिए",
+   "सिक्कों की धातु जाँच के लिए",
+   "अत्यंत प्राचीन चट्टानों और प्रारंभिक मानव जीवाश्मों के लिए"
+  ],
+  "options_en": [
+   "Medieval manuscripts",
+   "Wooden remains",
+   "Testing the metal of coins",
+   "Very ancient rocks and early human fossils"
+  ],
+  "answer": "D",
+  "exp_hi": "पोटैशियम-आर्गन पद्धति ज्वालामुखीय चट्टानों की लाखों-करोड़ों वर्षों की आयु मापने में उपयोगी है, इसलिए पूर्वी अफ़्रीका के प्रारंभिक मानव जीवाश्मों का काल इसी से तय हुआ। रेडियोकार्बन पद्धति केवल लगभग 50 हज़ार वर्ष तक के जैविक अवशेषों पर कार्य करती है।"
+ },
+ {
+  "n": 99,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "इतिहास की 'महापुरुषवादी' (Great Man) व्याख्या के प्रमुख प्रतिपादक कौन माने जाते हैं —",
+  "q_en": "Who is regarded as the chief exponent of the 'Great Man' interpretation of history?",
+  "options_hi": [
+   "वॉल्तेयर",
+   "एडवर्ड गिबन",
+   "थॉमस कार्लाइल",
+   "जॉन स्टुअर्ट मिल"
+  ],
+  "options_en": [
+   "Voltaire",
+   "Edward Gibbon",
+   "Thomas Carlyle",
+   "John Stuart Mill"
+  ],
+  "answer": "C",
+  "exp_hi": "थॉमस कार्लाइल ने अपनी कृति 'ऑन हीरोज़, हीरो-वर्शिप एंड द हीरोइक इन हिस्ट्री' (1841) में कहा कि इतिहास महान व्यक्तियों की जीवनियों का सार है। इस दृष्टिकोण के विपरीत बाद में जन-समूह और संरचनाओं पर बल देने वाले इतिहास-लेखन का विकास हुआ।"
+ },
+ {
+  "n": 100,
+  "unit": "Unit 10: Research in History and Historiography",
+  "q_hi": "इतिहास-लेखन की 'ऐतिहासिक भौतिकवाद' पद्धति का आधारभूत सिद्धांत क्या है —",
+  "q_en": "What is the foundational principle of the 'Historical Materialism' approach to historiography?",
+  "options_hi": [
+   "इतिहास राजाओं के कार्यों से बनता है",
+   "समाज के आर्थिक आधार (उत्पादन-संबंध) ही ऐतिहासिक परिवर्तन की मूल शक्ति हैं",
+   "इतिहास चक्रीय गति से चलता है",
+   "धार्मिक विचार ही इतिहास के नियंता हैं"
+  ],
+  "options_en": [
+   "History is made by the deeds of kings",
+   "The economic base (relations of production) of society is the fundamental force of historical change",
+   "History moves in a cyclic motion",
+   "Religious ideas alone govern history"
+  ],
+  "answer": "B",
+  "exp_hi": "ऐतिहासिक भौतिकवाद के अनुसार किसी युग की उत्पादन-पद्धति और उत्पादन-संबंध ही उसकी सामाजिक-राजनीतिक संरचना और विचारों को निर्धारित करते हैं। भारत में डी. डी. कोसंबी और आर. एस. शर्मा जैसे इतिहासकारों ने इस पद्धति का सर्जनात्मक प्रयोग किया।"
+ }
+]

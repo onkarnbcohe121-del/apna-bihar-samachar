@@ -1,0 +1,508 @@
+[
+ {
+  "n": 1,
+  "unit": "Teaching Aptitude",
+  "q_hi": "छात्रों में आलोचनात्मक चिंतन और तर्क-क्षमता विकसित करने के लिए कौन-सी विधि सबसे उपयुक्त है?",
+  "q_en": "Which method is most suitable for developing critical thinking and reasoning among students?",
+  "options_hi": ["व्याख्यान विधि", "चर्चा विधि", "पाठ्यपुस्तक विधि", "श्रुतिलेख विधि"],
+  "options_en": ["Lecture method", "Discussion method", "Textbook method", "Dictation method"],
+  "answer": "B",
+  "exp_hi": "चर्चा विधि में छात्र प्रश्न पूछते हैं, तर्क देते हैं और दूसरों के विचारों का मूल्यांकन करते हैं, जिससे आलोचनात्मक चिंतन विकसित होता है। व्याख्यान विधि में छात्र अधिकतर निष्क्रिय श्रोता रहता है।"
+ },
+ {
+  "n": 2,
+  "unit": "Teaching Aptitude",
+  "q_hi": "योगात्मक मूल्यांकन (Summative Assessment) सामान्यतः कब किया जाता है?",
+  "q_en": "Summative assessment is generally conducted —",
+  "options_hi": ["शिक्षण शुरू होने से पहले", "शिक्षण के दौरान", "पाठ्यक्रम या इकाई के अंत में", "केवल कमज़ोर छात्रों के लिए"],
+  "options_en": ["Before teaching begins", "During teaching", "At the end of a course or unit", "Only for weak students"],
+  "answer": "C",
+  "exp_hi": "योगात्मक मूल्यांकन पाठ्यक्रम या इकाई की समाप्ति पर किया जाता है, जैसे सत्रांत परीक्षा, ताकि यह जाना जा सके कि छात्र ने कितना सीखा। शिक्षण के दौरान होने वाला मूल्यांकन रचनात्मक (Formative) कहलाता है।"
+ },
+ {
+  "n": 3,
+  "unit": "Teaching Aptitude",
+  "q_hi": "'करके सीखना' (Learning by Doing) का सिद्धांत किसका आधार है?",
+  "q_en": "The principle of 'learning by doing' is the basis of —",
+  "options_hi": ["क्रियाकलाप-आधारित अधिगम", "रटकर याद करना", "व्याख्यान विधि", "पाठ्यपुस्तक पठन"],
+  "options_en": ["Activity-based learning", "Rote memorisation", "Lecture method", "Textbook reading"],
+  "answer": "A",
+  "exp_hi": "क्रियाकलाप-आधारित अधिगम में छात्र स्वयं कार्य करके अनुभव से सीखता है; जॉन ड्यूवी ने 'करके सीखने' पर विशेष बल दिया था। ऐसा ज्ञान अधिक स्थायी होता है।"
+ },
+ {
+  "n": 4,
+  "unit": "Teaching Aptitude",
+  "q_hi": "'दल शिक्षण' (Team Teaching) का अर्थ है —",
+  "q_en": "'Team teaching' means —",
+  "options_hi": ["छात्रों का परस्पर पढ़ाना", "कंप्यूटरों के दल द्वारा शिक्षण", "एक शिक्षक का कई कक्षाओं को एक साथ पढ़ाना", "दो या अधिक शिक्षकों का मिलकर योजना बनाकर एक ही कक्षा को पढ़ाना"],
+  "options_en": ["Students teaching each other only", "Teaching through a team of computers", "One teacher teaching many classes together", "Two or more teachers jointly planning and teaching the same class"],
+  "answer": "D",
+  "exp_hi": "दल शिक्षण में दो या अधिक शिक्षक अपनी-अपनी विशेषज्ञता के अनुसार मिलकर पाठ की योजना बनाते हैं और एक ही समूह को पढ़ाते हैं, जिससे शिक्षण की गुणवत्ता बढ़ती है।"
+ },
+ {
+  "n": 5,
+  "unit": "Teaching Aptitude",
+  "q_hi": "ब्लूम के वर्गीकरण में संज्ञानात्मक क्षेत्र का 'अनुप्रयोग' (Application) स्तर किससे संबंधित है?",
+  "q_en": "In Bloom's taxonomy, the 'Application' level of the cognitive domain refers to —",
+  "options_hi": ["तथ्यों को याद करना", "सीखे हुए ज्ञान का नई परिस्थितियों में प्रयोग करना", "कुछ नया सृजन करना", "किसी सामग्री के मूल्य का निर्णय करना"],
+  "options_en": ["Recalling facts", "Using learned knowledge in new situations", "Creating something new", "Judging the value of material"],
+  "answer": "B",
+  "exp_hi": "अनुप्रयोग स्तर पर छात्र सीखे गए नियमों और अवधारणाओं को नई, अपरिचित परिस्थितियों में प्रयोग करता है। तथ्यों को याद करना 'ज्ञान' स्तर है और नया सृजन सबसे उच्च स्तर है।"
+ },
+ {
+  "n": 6,
+  "unit": "Research Aptitude",
+  "q_hi": "शोध में 'चर' (Variable) क्या होता है?",
+  "q_en": "In research, a 'variable' is —",
+  "options_hi": ["ऐसा गुण या विशेषता जो भिन्न-भिन्न मान ले सकती है", "एक स्थिर स्थिरांक", "अध्ययन का शीर्षक", "प्रश्नावली का एक प्रकार"],
+  "options_en": ["A characteristic that can take different values", "A fixed constant", "The title of the study", "A type of questionnaire"],
+  "answer": "A",
+  "exp_hi": "चर वह गुण है जिसका मान अलग-अलग व्यक्तियों या परिस्थितियों में बदलता है, जैसे आयु, अंक या अभिवृत्ति। शोध में चरों के बीच संबंध का ही अध्ययन किया जाता है।"
+ },
+ {
+  "n": 7,
+  "unit": "Research Aptitude",
+  "q_hi": "मौलिक (आधारभूत) शोध का मुख्य उद्देश्य क्या होता है?",
+  "q_en": "Fundamental (basic) research is mainly aimed at —",
+  "options_hi": ["किसी तात्कालिक स्थानीय समस्या का समाधान", "कक्षा-प्रथा में सुधार", "तात्कालिक व्यावहारिक प्रयोग के बिना ज्ञान का विस्तार", "परियोजना रिपोर्ट तैयार करना"],
+  "options_en": ["Solving an immediate local problem", "Improving classroom practice", "Expanding knowledge without immediate practical application", "Preparing a project report"],
+  "answer": "C",
+  "exp_hi": "मौलिक शोध का उद्देश्य नए सिद्धांतों और ज्ञान की खोज होता है, न कि तुरंत उपयोग। तात्कालिक समस्या के समाधान हेतु किया गया शोध व्यावहारिक (Applied) शोध कहलाता है।"
+ },
+ {
+  "n": 8,
+  "unit": "Research Aptitude",
+  "q_hi": "शोध-प्रतिवेदन में 'ग्रंथसूची' (Bibliography) में मुख्य रूप से क्या होता है?",
+  "q_en": "In a research report, the bibliography mainly contains —",
+  "options_hi": ["शोध-प्रश्नों की सूची", "परामर्श ली गई पुस्तकों और स्रोतों की सूची", "सांख्यिकीय सारणियाँ", "न्यादर्श का विवरण"],
+  "options_en": ["The research questions", "The list of books and sources consulted", "The statistical tables", "The sample details"],
+  "answer": "B",
+  "exp_hi": "ग्रंथसूची में वे सभी पुस्तकें, पत्रिकाएँ और स्रोत दर्ज होते हैं जिनका अध्ययन में प्रयोग या परामर्श किया गया हो। इससे पाठक मूल स्रोतों तक पहुँच सकता है।"
+ },
+ {
+  "n": 9,
+  "unit": "Research Aptitude",
+  "q_hi": "'प्रतिनिधि न्यादर्श' (Representative Sample) वह होता है जो —",
+  "q_en": "A 'representative sample' is one which —",
+  "options_hi": ["सबसे बड़ा संभव न्यादर्श हो", "शोधकर्ता द्वारा व्यक्तिगत रूप से चुना गया हो", "केवल स्वयंसेवकों को शामिल करता हो", "समष्टि की विशेषताओं को सही-सही दर्शाता हो"],
+  "options_en": ["Is the largest possible sample", "Is selected by the researcher personally", "Includes only volunteers", "Truly reflects the characteristics of the population"],
+  "answer": "D",
+  "exp_hi": "प्रतिनिधि न्यादर्श समष्टि (Population) का लघु रूप होता है — उसमें समष्टि की सभी प्रमुख विशेषताएँ उसी अनुपात में पाई जाती हैं, तभी निष्कर्ष पूरी समष्टि पर लागू किए जा सकते हैं।"
+ },
+ {
+  "n": 10,
+  "unit": "Research Aptitude",
+  "q_hi": "शोध में 'डेल्फी तकनीक' (Delphi Technique) का प्रयोग किसके लिए किया जाता है?",
+  "q_en": "The Delphi technique is used in research for —",
+  "options_hi": ["प्रश्नावली के क्रमिक चरणों द्वारा विशेषज्ञों की राय एकत्र करना", "परिकल्पना का सांख्यिकीय परीक्षण", "प्रयोगशाला में व्यवहार का अवलोकन", "ग्रंथसूची तैयार करना"],
+  "options_en": ["Collecting opinions of experts through successive rounds of questionnaires", "Testing hypotheses statistically", "Observing behaviour in a laboratory", "Preparing a bibliography"],
+  "answer": "A",
+  "exp_hi": "डेल्फी तकनीक में विशेषज्ञों से कई चरणों में प्रश्नावली द्वारा राय ली जाती है और प्रत्येक चरण की प्रतिक्रिया साझा करके सर्वसम्मत निष्कर्ष तक पहुँचा जाता है। यह भविष्यवाणी और नीति-निर्माण में उपयोगी है।"
+ },
+ {
+  "n": 11,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, जिज्ञासा क्या है?",
+  "q_en": "According to the passage, curiosity is —",
+  "options_hi": ["कक्षा में एक विघ्न", "समस्त अधिगम का आरंभ", "केवल छोटे बच्चों में पाई जाने वाली आदत", "उत्तर रटने की एक विधि"],
+  "options_en": ["A disturbance in the classroom", "The beginning of all learning", "A habit found only in small children", "A method of memorising answers"],
+  "answer": "B",
+  "exp_hi": "गद्यांश की पहली पंक्ति ही कहती है कि जिज्ञासा समस्त अधिगम का आरंभ है — बच्चे के प्रश्न मन के कार्यरत होने का प्रमाण हैं।",
+  "set": "comprehension",
+  "passage_hi": "जिज्ञासा समस्त अधिगम का आरंभ है। छोटा बच्चा प्रतिदिन सैकड़ों प्रश्न पूछता है — आकाश नीला क्यों है, वर्षा कहाँ से आती है, पक्षी कैसे उड़ते हैं? ये प्रश्न कोई विघ्न नहीं हैं; ये कार्यरत मन का प्रमाण हैं। दुर्भाग्यवश, जैसे-जैसे बच्चे बड़े होते हैं, यह स्वाभाविक जिज्ञासा प्रायः मंद पड़ती जाती है। अनेक कक्षाओं में छात्रों को केवल सही उत्तरों के लिए पुरस्कृत किया जाता है, इसलिए वे धीरे-धीरे गलतियों से डरना सीख जाते हैं और प्रश्न पूछना बंद कर देते हैं। शोध बताते हैं कि जो छात्र जिज्ञासु बने रहते हैं, वे अधिक याद रखते हैं, अधिक गहराई से समझते हैं और अपने अध्ययन का आनंद लेते हैं। जिज्ञासा सूचना को ज्ञान में बदल देती है, क्योंकि तब छात्र परीक्षा के लिए रट नहीं रहा होता, बल्कि अर्थ की खोज कर रहा होता है। शिक्षक हर प्रश्न का स्वागत करके, चर्चा की अनुमति देकर और पाठों को वास्तविक जीवन से जोड़कर जिज्ञासा को जीवित रख सकते हैं। जिस कक्षा में प्रश्नों का मूल्य होता है, वहाँ केवल सफल छात्र ही नहीं, आजीवन सीखने वाले भी तैयार होते हैं।",
+  "passage_en": "Curiosity is the beginning of all learning. A young child asks hundreds of questions every day — why is the sky blue, where does the rain come from, how do birds fly? These questions are not a disturbance; they are the mind at work. Sadly, as children grow older, this natural curiosity often fades. In many classrooms, students are rewarded only for correct answers, so they slowly learn to fear mistakes and stop asking questions. Research shows that learners who remain curious remember more, understand more deeply and enjoy their studies. Curiosity turns information into knowledge, because the learner is no longer memorising for an examination but searching for meaning. Teachers can keep curiosity alive by welcoming every question, allowing discussion and connecting lessons to real life. A classroom where questions are valued produces not just successful students, but lifelong learners."
+ },
+ {
+  "n": 12,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, बच्चों के बड़े होने पर जिज्ञासा क्यों मंद पड़ जाती है?",
+  "q_en": "According to the passage, why does curiosity fade as children grow older?",
+  "options_hi": ["क्योंकि अध्ययन बहुत सरल हो जाता है", "क्योंकि शिक्षक पढ़ाना बंद कर देते हैं", "क्योंकि बच्चे प्रकृति में रुचि खो देते हैं", "क्योंकि उन्हें केवल सही उत्तरों के लिए पुरस्कृत किया जाता है और वे गलतियों से डरने लगते हैं"],
+  "options_en": ["Because studies become too easy", "Because teachers stop teaching", "Because children lose interest in nature", "Because they are rewarded only for correct answers and begin to fear mistakes"],
+  "answer": "D",
+  "exp_hi": "गद्यांश स्पष्ट कहता है कि कक्षाओं में केवल सही उत्तरों को पुरस्कृत करने से छात्र गलतियों से डरने लगते हैं और प्रश्न पूछना बंद कर देते हैं — यही जिज्ञासा मंद पड़ने का कारण है।"
+ },
+ {
+  "n": 13,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश में उल्लिखित शोध के अनुसार, जिज्ञासु छात्र —",
+  "q_en": "According to the research mentioned in the passage, curious learners —",
+  "options_hi": ["केवल परीक्षाओं में अच्छे अंक लाते हैं", "प्रश्न पूछना बंद कर देते हैं", "अधिक याद रखते हैं और अधिक गहराई से समझते हैं", "पुस्तकों की आवश्यकता नहीं रखते"],
+  "options_en": ["Only score well in examinations", "Stop asking questions", "Remember more and understand more deeply", "Do not need books at all"],
+  "answer": "C",
+  "exp_hi": "गद्यांश के अनुसार शोध बताते हैं कि जिज्ञासु बने रहने वाले छात्र अधिक याद रखते हैं, अधिक गहराई से समझते हैं और अध्ययन का आनंद लेते हैं।"
+ },
+ {
+  "n": 14,
+  "unit": "Comprehension",
+  "q_hi": "गद्यांश के अनुसार, शिक्षक जिज्ञासा को जीवित कैसे रख सकते हैं?",
+  "q_en": "According to the passage, how can teachers keep curiosity alive?",
+  "options_hi": ["हर प्रश्न का स्वागत करके, चर्चा की अनुमति देकर और पाठों को वास्तविक जीवन से जोड़कर", "अधिक गृहकार्य देकर", "गलत उत्तरों पर दंड देकर", "केवल परीक्षा-उन्मुख शिक्षण करके"],
+  "options_en": ["By welcoming every question, allowing discussion and connecting lessons to real life", "By giving more homework", "By punishing wrong answers", "By teaching only for examinations"],
+  "answer": "A",
+  "exp_hi": "गद्यांश कहता है कि शिक्षक प्रश्नों का स्वागत, चर्चा की अनुमति और पाठों को वास्तविक जीवन से जोड़कर जिज्ञासा को जीवित रख सकते हैं।"
+ },
+ {
+  "n": 15,
+  "unit": "Comprehension",
+  "q_hi": "इस गद्यांश का सबसे उपयुक्त शीर्षक कौन-सा है?",
+  "q_en": "Which is the most suitable title for this passage?",
+  "options_hi": ["परीक्षा के लिए रटना कैसे सीखें", "जिज्ञासा : अधिगम का हृदय", "बच्चे शिक्षकों से क्यों डरते हैं", "सही उत्तरों का महत्व"],
+  "options_en": ["How to Memorise for Examinations", "Curiosity: The Heart of Learning", "Why Children Fear Teachers", "The Importance of Correct Answers"],
+  "answer": "B",
+  "exp_hi": "पूरा गद्यांश जिज्ञासा के महत्व, उसके मंद पड़ने के कारणों और उसे जीवित रखने के उपायों पर केंद्रित है, इसलिए 'जिज्ञासा : अधिगम का हृदय' ही सबसे उपयुक्त शीर्षक है।"
+ },
+ {
+  "n": 16,
+  "unit": "Communication",
+  "q_hi": "अशाब्दिक संचार में 'प्रॉक्सेमिक्स' (Proxemics) किसका अध्ययन है?",
+  "q_en": "In non-verbal communication, 'Proxemics' is the study of —",
+  "options_hi": ["मुख के भावों का", "हाव-भावों का", "स्थान और दूरी के प्रयोग का", "समय के प्रयोग का"],
+  "options_en": ["Facial expressions", "Gestures", "The use of space and distance", "The use of time"],
+  "answer": "C",
+  "exp_hi": "प्रॉक्सेमिक्स संचार में स्थान और व्यक्तिगत दूरी के प्रयोग का अध्ययन है। समय का अध्ययन क्रोनेमिक्स और शरीर की गतियों का अध्ययन काइनेसिक्स कहलाता है।"
+ },
+ {
+  "n": 17,
+  "unit": "Communication",
+  "q_hi": "निम्नलिखित में से कौन-सा संचार का मनोवैज्ञानिक अवरोध है?",
+  "q_en": "Which of the following is a psychological barrier to communication?",
+  "options_hi": ["पूर्वाग्रह और बंद मन", "दोषपूर्ण अनुवाद", "कमरे में तेज़ शोर", "खराब लिखावट"],
+  "options_en": ["Prejudice and closed mind", "Faulty translation", "Loud noise in the room", "Poor handwriting"],
+  "answer": "A",
+  "exp_hi": "पूर्वाग्रह और बंद मन व्यक्ति की मानसिक स्थिति से जुड़े हैं, इसलिए ये मनोवैज्ञानिक अवरोध हैं। शोर भौतिक अवरोध है और दोषपूर्ण अनुवाद अर्थगत (Semantic) अवरोध है।"
+ },
+ {
+  "n": 18,
+  "unit": "Communication",
+  "q_hi": "संचार में 'पराभाषा' (Paralanguage) से क्या अभिप्राय है?",
+  "q_en": "'Paralanguage' in communication refers to —",
+  "options_hi": ["लिखित प्रतीक", "शारीरिक गतियाँ", "सांकेतिक भाषा", "आवाज़ का स्वर, तारत्व और गति"],
+  "options_en": ["Written symbols", "Body movements", "Sign language", "Tone, pitch and speed of the voice"],
+  "answer": "D",
+  "exp_hi": "पराभाषा में शब्दों के साथ जुड़े आवाज़ के गुण — स्वर, तारत्व, गति और बल — आते हैं। 'क्या कहा गया' के साथ 'कैसे कहा गया' भी अर्थ बदल देता है।"
+ },
+ {
+  "n": 19,
+  "unit": "Communication",
+  "q_hi": "संचार की प्रक्रिया किससे आरंभ होती है?",
+  "q_en": "The process of communication begins with —",
+  "options_hi": ["माध्यम (चैनल) से", "प्रेषक के पास संदेश या विचार होने से", "प्रतिपुष्टि (फीडबैक) से", "प्राप्तकर्ता द्वारा अर्थ निकालने से"],
+  "options_en": ["The channel", "The sender having a message or idea", "The feedback", "The receiver decoding the message"],
+  "answer": "B",
+  "exp_hi": "संचार प्रक्रिया का पहला चरण प्रेषक है — जब उसके मन में कोई विचार या संदेश उत्पन्न होता है, तभी वह उसे कूटबद्ध करके माध्यम से भेजता है और अंत में प्रतिपुष्टि मिलती है।"
+ },
+ {
+  "n": 20,
+  "unit": "Communication",
+  "q_hi": "जनसंचार (Mass Communication) अंतर्वैयक्तिक संचार से मुख्यतः किस प्रकार भिन्न है?",
+  "q_en": "Mass communication differs from interpersonal communication mainly because in mass communication —",
+  "options_hi": ["कोई संदेश नहीं होता", "श्रोता छोटे और परिचित होते हैं", "श्रोता विशाल होते हैं और प्रतिपुष्टि सामान्यतः विलंबित होती है", "किसी माध्यम का प्रयोग नहीं होता"],
+  "options_en": ["There is no message", "The audience is small and known", "The audience is large and feedback is generally delayed", "No medium is used"],
+  "answer": "C",
+  "exp_hi": "जनसंचार में संदेश एक साथ विशाल और फैले हुए श्रोताओं तक पहुँचता है, इसलिए तत्काल प्रतिपुष्टि संभव नहीं होती। अंतर्वैयक्तिक संचार में श्रोता कम होते हैं और प्रतिपुष्टि तुरंत मिलती है।"
+ },
+ {
+  "n": 21,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "श्रृंखला को पूर्ण कीजिए : 3, 9, 27, 81, ?",
+  "q_en": "Complete the series: 3, 9, 27, 81, ?",
+  "options_hi": ["162", "108", "135", "243"],
+  "options_en": ["162", "108", "135", "243"],
+  "answer": "D",
+  "exp_hi": "प्रत्येक संख्या पिछली संख्या की 3 गुनी है — 3×3=9, 9×3=27, 27×3=81; अगली संख्या 81×3 = 243 होगी।"
+ },
+ {
+  "n": 22,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "दो संख्याओं का अनुपात 3 : 5 है और उनका योग 40 है। बड़ी संख्या कौन-सी है?",
+  "q_en": "Two numbers are in the ratio 3 : 5 and their sum is 40. What is the larger number?",
+  "options_hi": ["25", "15", "30", "20"],
+  "options_en": ["25", "15", "30", "20"],
+  "answer": "A",
+  "exp_hi": "अनुपात का योग 3+5 = 8 भाग = 40, अर्थात 1 भाग = 5। बड़ी संख्या = 5 भाग = 5 × 5 = 25।"
+ },
+ {
+  "n": 23,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "12 और 18 का महत्तम समापवर्तक (HCF) क्या है?",
+  "q_en": "What is the HCF of 12 and 18?",
+  "options_hi": ["3", "6", "9", "36"],
+  "options_en": ["3", "6", "9", "36"],
+  "answer": "B",
+  "exp_hi": "12 के गुणनखंड 1, 2, 3, 4, 6, 12 और 18 के 1, 2, 3, 6, 9, 18 हैं; सबसे बड़ा उभयनिष्ठ गुणनखंड 6 है। 36 दोनों का लघुत्तम समापवर्त्य (LCM) है।"
+ },
+ {
+  "n": 24,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "15 सेमी भुजा वाले वर्ग का परिमाप क्या होगा?",
+  "q_en": "What is the perimeter of a square whose side is 15 cm?",
+  "options_hi": ["45 सेमी", "30 सेमी", "60 सेमी", "225 सेमी"],
+  "options_en": ["45 cm", "30 cm", "60 cm", "225 cm"],
+  "answer": "C",
+  "exp_hi": "वर्ग का परिमाप = 4 × भुजा = 4 × 15 = 60 सेमी। 225 वर्ग सेमी उसका क्षेत्रफल होगा, परिमाप नहीं।"
+ },
+ {
+  "n": 25,
+  "unit": "Mathematical Reasoning and Aptitude",
+  "q_hi": "300 का 15% कितना होगा?",
+  "q_en": "What is 15% of 300?",
+  "options_hi": ["30", "35", "40", "45"],
+  "options_en": ["30", "35", "40", "45"],
+  "answer": "D",
+  "exp_hi": "300 का 15% = 300 × 15/100 = 45।"
+ },
+ {
+  "n": 26,
+  "unit": "Logical Reasoning",
+  "q_hi": "कथन : कोई पक्षी मछली नहीं है। सभी गौरैया पक्षी हैं। कौन-सा निष्कर्ष निश्चित रूप से निकलता है?",
+  "q_en": "Statements: No bird is a fish. All sparrows are birds. Which conclusion definitely follows?",
+  "options_hi": ["कोई गौरैया मछली नहीं है", "कुछ गौरैया मछलियाँ हैं", "सभी मछलियाँ गौरैया हैं", "कुछ पक्षी मछलियाँ हैं"],
+  "options_en": ["No sparrow is a fish", "Some sparrows are fish", "All fish are sparrows", "Some birds are fish"],
+  "answer": "A",
+  "exp_hi": "जब कोई पक्षी मछली नहीं है और हर गौरैया एक पक्षी है, तो कोई गौरैया मछली नहीं हो सकती। यही एकमात्र निश्चित निष्कर्ष है।"
+ },
+ {
+  "n": 27,
+  "unit": "Logical Reasoning",
+  "q_hi": "श्रृंखला को पूर्ण कीजिए : Z, X, V, T, ?",
+  "q_en": "Complete the series: Z, X, V, T, ?",
+  "options_hi": ["P", "Q", "R", "S"],
+  "options_en": ["P", "Q", "R", "S"],
+  "answer": "C",
+  "exp_hi": "अक्षर वर्णमाला में 2-2 स्थान पीछे जा रहे हैं — Z(26), X(24), V(22), T(20); अगला अक्षर 18वाँ अर्थात R होगा।"
+ },
+ {
+  "n": 28,
+  "unit": "Logical Reasoning",
+  "q_hi": "सादृश्य पूर्ण कीजिए : पक्षी : घोंसला :: मधुमक्खी : ?",
+  "q_en": "Complete the analogy: Bird : Nest :: Bee : ?",
+  "options_hi": ["वृक्ष", "छत्ता", "फूल", "शहद"],
+  "options_en": ["Tree", "Hive", "Flower", "Honey"],
+  "answer": "B",
+  "exp_hi": "जैसे पक्षी का निवास घोंसला होता है, वैसे मधुमक्खी का निवास छत्ता होता है। संबंध 'जीव और उसका निवास-स्थान' का है।"
+ },
+ {
+  "n": 29,
+  "unit": "Logical Reasoning",
+  "q_hi": "यदि किसी कूट में RAM को 18113 लिखा जाता है (अक्षरों की वर्णमाला-स्थिति के अनुसार), तो उसी कूट में SAM कैसे लिखा जाएगा?",
+  "q_en": "If in a certain code RAM is written as 18113 (according to the alphabetical positions of the letters), how will SAM be written in the same code?",
+  "options_hi": ["18113", "19112", "19913", "19113"],
+  "options_en": ["18113", "19112", "19913", "19113"],
+  "answer": "D",
+  "exp_hi": "R=18, A=1, M=13, इसलिए RAM = 18113। उसी प्रकार S=19, A=1, M=13, इसलिए SAM = 19113।"
+ },
+ {
+  "n": 30,
+  "unit": "Logical Reasoning",
+  "q_hi": "भारतीय तर्कशास्त्र में प्रमाण के रूप में 'उपमान' का अर्थ है —",
+  "q_en": "In Indian logic, 'Upamana' as a pramana means knowledge obtained through —",
+  "options_hi": ["तुलना या सादृश्य", "अनुमान", "प्रत्यक्ष", "शब्द-प्रमाण"],
+  "options_en": ["Comparison or analogy", "Inference", "Perception", "Verbal testimony"],
+  "answer": "A",
+  "exp_hi": "उपमान वह प्रमाण है जिसमें किसी अपरिचित वस्तु का ज्ञान किसी परिचित वस्तु से तुलना द्वारा होता है। अनुमान, प्रत्यक्ष और शब्द इससे भिन्न प्रमाण हैं।"
+ },
+ {
+  "n": 31,
+  "unit": "Data Interpretation",
+  "q_hi": "उपर्युक्त आँकड़ों के अनुसार, पाँचों वर्षों में लगाए गए पौधों की कुल संख्या (हज़ार में) कितनी है?",
+  "q_en": "According to the above data, what is the total number of saplings planted (in thousands) in all five years?",
+  "options_hi": ["280", "290", "300", "320"],
+  "options_en": ["280", "290", "300", "320"],
+  "answer": "C",
+  "exp_hi": "कुल पौधे = 40 + 55 + 50 + 70 + 85 = 300 हज़ार।",
+  "set": "data",
+  "data_hi": "किसी शहर में विभिन्न वर्षों में लगाए गए पौधों की संख्या (हज़ार में) : 2020 - 40; 2021 - 55; 2022 - 50; 2023 - 70; 2024 - 85।",
+  "data_en": "Number of saplings planted (in thousands) in a city in different years: 2020 - 40; 2021 - 55; 2022 - 50; 2023 - 70; 2024 - 85."
+ },
+ {
+  "n": 32,
+  "unit": "Data Interpretation",
+  "q_hi": "2020 की तुलना में 2024 में पौधारोपण में कितने प्रतिशत की वृद्धि हुई?",
+  "q_en": "By what percentage did the plantation increase in 2024 as compared to 2020?",
+  "options_hi": ["100%", "112.5%", "125%", "90%"],
+  "options_en": ["100%", "112.5%", "125%", "90%"],
+  "answer": "B",
+  "exp_hi": "वृद्धि = 85 − 40 = 45 हज़ार। प्रतिशत वृद्धि = 45/40 × 100 = 112.5%।"
+ },
+ {
+  "n": 33,
+  "unit": "Data Interpretation",
+  "q_hi": "वर्ष 2021 और 2023 में लगाए गए पौधों की संख्या का अनुपात क्या है?",
+  "q_en": "What is the ratio of the number of saplings planted in 2021 and 2023?",
+  "options_hi": ["5 : 7", "7 : 11", "11 : 13", "11 : 14"],
+  "options_en": ["5 : 7", "7 : 11", "11 : 13", "11 : 14"],
+  "answer": "D",
+  "exp_hi": "2021 में 55 हज़ार और 2023 में 70 हज़ार पौधे लगे; अनुपात = 55 : 70 = 11 : 14।"
+ },
+ {
+  "n": 34,
+  "unit": "Data Interpretation",
+  "q_hi": "पाँचों वर्षों में प्रति वर्ष लगाए गए पौधों की औसत संख्या (हज़ार में) कितनी है?",
+  "q_en": "What is the average number of saplings planted per year (in thousands) over the five years?",
+  "options_hi": ["60", "55", "65", "58"],
+  "options_en": ["60", "55", "65", "58"],
+  "answer": "A",
+  "exp_hi": "औसत = कुल 300 ÷ 5 वर्ष = 60 हज़ार पौधे प्रति वर्ष।"
+ },
+ {
+  "n": 35,
+  "unit": "Data Interpretation",
+  "q_hi": "पिछले वर्ष की तुलना में पौधारोपण में प्रतिशत वृद्धि किस वर्ष सबसे अधिक थी?",
+  "q_en": "In which year was the percentage increase in plantation, as compared to the previous year, the highest?",
+  "options_hi": ["2021", "2022", "2023", "2024"],
+  "options_en": ["2021", "2022", "2023", "2024"],
+  "answer": "C",
+  "exp_hi": "2021 में वृद्धि 37.5%, 2022 में कमी, 2023 में 50 से 70 अर्थात 40% वृद्धि और 2024 में लगभग 21.4% वृद्धि हुई। अतः सबसे अधिक प्रतिशत वृद्धि 2023 में हुई।"
+ },
+ {
+  "n": 36,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "निम्नलिखित में से कौन-सा एक सर्च इंजन है?",
+  "q_en": "Which of the following is a search engine?",
+  "options_hi": ["एम.एस. वर्ड", "गूगल", "विंडोज़", "फोटोशॉप"],
+  "options_en": ["MS Word", "Google", "Windows", "Photoshop"],
+  "answer": "B",
+  "exp_hi": "गूगल एक सर्च इंजन है जो इंटरनेट पर जानकारी खोजने में प्रयुक्त होता है। एम.एस. वर्ड एक वर्ड-प्रोसेसर, विंडोज़ एक ऑपरेटिंग सिस्टम और फोटोशॉप एक चित्र-संपादन सॉफ्टवेयर है।"
+ },
+ {
+  "n": 37,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "मॉडेम (Modem) का मुख्य कार्य क्या है?",
+  "q_en": "What is the main function of a modem?",
+  "options_hi": ["डेटा को स्थायी रूप से संग्रहीत करना", "दस्तावेज़ छापना", "चित्रों को स्कैन करना", "डिजिटल संकेतों को एनालॉग संकेतों में और एनालॉग को डिजिटल में बदलना"],
+  "options_en": ["To store data permanently", "To print documents", "To scan images", "To convert digital signals into analog signals and vice versa"],
+  "answer": "D",
+  "exp_hi": "मॉडेम कंप्यूटर के डिजिटल संकेतों को टेलीफोन लाइन पर भेजने योग्य एनालॉग संकेतों में बदलता है (मॉड्यूलेशन) और प्राप्त एनालॉग संकेतों को पुनः डिजिटल में बदलता है (डीमॉड्यूलेशन)।"
+ },
+ {
+  "n": 38,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "1 टेराबाइट (TB) किसके बराबर होता है?",
+  "q_en": "1 terabyte (TB) is equal to —",
+  "options_hi": ["1024 GB", "1000 MB", "1024 MB", "100 GB"],
+  "options_en": ["1024 GB", "1000 MB", "1024 MB", "100 GB"],
+  "answer": "A",
+  "exp_hi": "कंप्यूटर स्मृति की इकाइयाँ 1024 के क्रम में बढ़ती हैं — 1 TB = 1024 GB, 1 GB = 1024 MB और 1 MB = 1024 KB।"
+ },
+ {
+  "n": 39,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "एम.एस. एक्सेल की वर्कबुक फ़ाइल किस एक्सटेंशन के साथ सहेजी जाती है?",
+  "q_en": "An MS Excel workbook file is saved with which extension?",
+  "options_hi": [".docx", ".pptx", ".xlsx", ".txt"],
+  "options_en": [".docx", ".pptx", ".xlsx", ".txt"],
+  "answer": "C",
+  "exp_hi": "एम.एस. एक्सेल की फ़ाइल का एक्सटेंशन .xlsx होता है। .docx वर्ड की और .pptx पावरपॉइंट की फ़ाइलों के लिए प्रयुक्त होता है।"
+ },
+ {
+  "n": 40,
+  "unit": "Information and Communication Technology (ICT)",
+  "q_hi": "ई-मेल में 'BCC' का पूर्ण रूप क्या है?",
+  "q_en": "In e-mail, 'BCC' stands for —",
+  "options_hi": ["बेसिक कार्बन कॉपी", "ब्लाइंड कार्बन कॉपी", "ब्लॉक कार्बन कॉपी", "ब्रॉड कार्बन कॉपी"],
+  "options_en": ["Basic Carbon Copy", "Blind Carbon Copy", "Block Carbon Copy", "Broad Carbon Copy"],
+  "answer": "B",
+  "exp_hi": "BCC अर्थात Blind Carbon Copy — इसमें डाले गए प्राप्तकर्ताओं के पते अन्य प्राप्तकर्ताओं को दिखाई नहीं देते, जबकि CC (Carbon Copy) में सभी को पते दिखते हैं।"
+ },
+ {
+  "n": 41,
+  "unit": "People, Development and Environment",
+  "q_hi": "पेरिस समझौता (2015) मुख्य रूप से किससे संबंधित है?",
+  "q_en": "The Paris Agreement (2015) is mainly related to —",
+  "options_hi": ["ओज़ोन परत के संरक्षण से", "आर्द्रभूमियों के संरक्षण से", "जैव-विविधता से", "जलवायु परिवर्तन से"],
+  "options_en": ["Protection of the ozone layer", "Conservation of wetlands", "Biodiversity", "Climate change"],
+  "answer": "D",
+  "exp_hi": "2015 का पेरिस समझौता जलवायु परिवर्तन पर एक अंतरराष्ट्रीय समझौता है, जिसका लक्ष्य वैश्विक तापवृद्धि को 2°C से काफी नीचे, अधिमानतः 1.5°C तक सीमित रखना है।"
+ },
+ {
+  "n": 42,
+  "unit": "People, Development and Environment",
+  "q_hi": "'कार्बन फुटप्रिंट' से क्या अभिप्राय है?",
+  "q_en": "'Carbon footprint' refers to —",
+  "options_hi": ["किसी व्यक्ति, संगठन या गतिविधि द्वारा उत्सर्जित ग्रीनहाउस गैसों की कुल मात्रा", "मिट्टी में कार्बन भंडार का आकार", "कार्बन डेटिंग की एक विधि", "वनों से आच्छादित क्षेत्र"],
+  "options_en": ["The total amount of greenhouse gases emitted by a person, organisation or activity", "The size of carbon deposits in soil", "A method of carbon dating", "The area covered by forests"],
+  "answer": "A",
+  "exp_hi": "कार्बन फुटप्रिंट किसी व्यक्ति, संगठन या गतिविधि के कारण प्रत्यक्ष या अप्रत्यक्ष रूप से उत्सर्जित ग्रीनहाउस गैसों की कुल मात्रा है, जिसे सामान्यतः कार्बन डाइऑक्साइड के समतुल्य में मापा जाता है।"
+ },
+ {
+  "n": 43,
+  "unit": "People, Development and Environment",
+  "q_hi": "भारत का राष्ट्रीय हरित अधिकरण (NGT) किस वर्ष स्थापित किया गया था?",
+  "q_en": "The National Green Tribunal (NGT) of India was established in the year —",
+  "options_hi": ["2005", "2015", "2010", "2000"],
+  "options_en": ["2005", "2015", "2010", "2000"],
+  "answer": "C",
+  "exp_hi": "राष्ट्रीय हरित अधिकरण की स्थापना राष्ट्रीय हरित अधिकरण अधिनियम, 2010 के अंतर्गत 18 अक्टूबर 2010 को हुई थी। यह पर्यावरण संबंधी विवादों के त्वरित निपटारे हेतु बनाया गया है।"
+ },
+ {
+  "n": 44,
+  "unit": "People, Development and Environment",
+  "q_hi": "अंतरराष्ट्रीय जैव-विविधता दिवस कब मनाया जाता है?",
+  "q_en": "International Day for Biological Diversity is observed on —",
+  "options_hi": ["5 जून", "22 मई", "22 अप्रैल", "16 सितंबर"],
+  "options_en": ["5 June", "22 May", "22 April", "16 September"],
+  "answer": "B",
+  "exp_hi": "अंतरराष्ट्रीय जैव-विविधता दिवस प्रतिवर्ष 22 मई को मनाया जाता है। 5 जून को विश्व पर्यावरण दिवस और 22 अप्रैल को पृथ्वी दिवस मनाया जाता है।"
+ },
+ {
+  "n": 45,
+  "unit": "People, Development and Environment",
+  "q_hi": "पृथ्वी शिखर सम्मेलन में अपनाया गया 'एजेंडा 21' किससे संबंधित है?",
+  "q_en": "'Agenda 21', adopted at the Earth Summit, is related to —",
+  "options_hi": ["निरस्त्रीकरण से", "व्यापार उदारीकरण से", "अंतरिक्ष अनुसंधान से", "सतत विकास हेतु कार्य-योजना से"],
+  "options_en": ["Disarmament", "Trade liberalisation", "Space research", "An action plan for sustainable development"],
+  "answer": "D",
+  "exp_hi": "एजेंडा 21, 1992 के रियो पृथ्वी शिखर सम्मेलन में अपनाया गया सतत विकास का एक व्यापक कार्य-कार्यक्रम है, जिसमें 21वीं सदी के लिए पर्यावरण और विकास की कार्य-योजना दी गई है।"
+ },
+ {
+  "n": 46,
+  "unit": "Higher Education System",
+  "q_hi": "भारत का पहला मुक्त विश्वविद्यालय, डॉ. बी. आर. अंबेडकर मुक्त विश्वविद्यालय, किस वर्ष स्थापित हुआ था?",
+  "q_en": "India's first open university, Dr. B. R. Ambedkar Open University, was established in the year —",
+  "options_hi": ["1982", "1985", "1975", "1990"],
+  "options_en": ["1982", "1985", "1975", "1990"],
+  "answer": "A",
+  "exp_hi": "डॉ. बी. आर. अंबेडकर मुक्त विश्वविद्यालय (पूर्व नाम आंध्र प्रदेश मुक्त विश्वविद्यालय) 1982 में स्थापित हुआ — यह भारत का पहला मुक्त विश्वविद्यालय था। IGNOU की स्थापना उसके बाद 1985 में हुई।"
+ },
+ {
+  "n": 47,
+  "unit": "Higher Education System",
+  "q_hi": "MOOC का पूर्ण रूप क्या है?",
+  "q_en": "What is the full form of MOOC?",
+  "options_hi": ["मॉडर्न ऑनलाइन ओपन कोर्स", "मैसिव ओपन ऑनलाइन कोर्स", "मैसिव ऑफ़लाइन ओपन कोर्स", "मल्टिपल ओपन ऑनलाइन सर्टिफिकेट"],
+  "options_en": ["Modern Online Open Course", "Massive Open Online Course", "Massive Offline Open Course", "Multiple Open Online Certificate"],
+  "answer": "B",
+  "exp_hi": "MOOC अर्थात Massive Open Online Course — ये इंटरनेट पर बड़ी संख्या में छात्रों के लिए खुले ऑनलाइन पाठ्यक्रम हैं। भारत में SWAYAM मंच ऐसे ही पाठ्यक्रम उपलब्ध कराता है।"
+ },
+ {
+  "n": 48,
+  "unit": "Higher Education System",
+  "q_hi": "चयन-आधारित क्रेडिट प्रणाली (CBCS) के अंतर्गत छात्र क्या कर सकते हैं?",
+  "q_en": "Under the Choice Based Credit System (CBCS), students are able to —",
+  "options_hi": ["बिना परीक्षा के अध्ययन कर सकते हैं", "एक वर्ष में उपाधि प्राप्त कर सकते हैं", "मूल (कोर), वैकल्पिक (इलेक्टिव) और आधार पाठ्यक्रमों में से चयन कर सकते हैं", "विश्वविद्यालयों के बीच शिक्षकों का स्थानांतरण कर सकते हैं"],
+  "options_en": ["Study without any examination", "Get a degree in one year", "Choose courses from core, elective and foundation options", "Transfer teachers between universities"],
+  "answer": "C",
+  "exp_hi": "CBCS में छात्र निर्धारित मूल पाठ्यक्रमों के साथ-साथ वैकल्पिक और आधार पाठ्यक्रम अपनी रुचि अनुसार चुन सकते हैं और क्रेडिट अर्जित करते हैं। इससे शिक्षा अधिक लचीली और छात्र-केंद्रित बनती है।"
+ },
+ {
+  "n": 49,
+  "unit": "Higher Education System",
+  "q_hi": "प्राचीन शिक्षा-केंद्र तक्षशिला वर्तमान में किस देश में स्थित था?",
+  "q_en": "The ancient centre of learning, Takshashila, was located in present-day —",
+  "options_hi": ["भारत", "नेपाल", "बांग्लादेश", "पाकिस्तान"],
+  "options_en": ["India", "Nepal", "Bangladesh", "Pakistan"],
+  "answer": "D",
+  "exp_hi": "तक्षशिला वर्तमान पाकिस्तान के पंजाब प्रांत में स्थित था और प्राचीन काल में उच्च शिक्षा का प्रसिद्ध केंद्र था, जहाँ चाणक्य जैसे आचार्य जुड़े थे। नालंदा वर्तमान बिहार (भारत) में था।"
+ },
+ {
+  "n": 50,
+  "unit": "Higher Education System",
+  "q_hi": "भारत में केंद्रीय विश्वविद्यालयों के विज़िटर (Visitor) कौन होते हैं?",
+  "q_en": "Who is the Visitor of Central Universities in India?",
+  "options_hi": ["भारत के राष्ट्रपति", "प्रधानमंत्री", "शिक्षा मंत्री", "विश्वविद्यालय अनुदान आयोग के अध्यक्ष"],
+  "options_en": ["The President of India", "The Prime Minister", "The Education Minister", "The Chairman of UGC"],
+  "answer": "A",
+  "exp_hi": "भारत के राष्ट्रपति सभी केंद्रीय विश्वविद्यालयों के विज़िटर होते हैं। उन्हें कुलपति की नियुक्ति और विश्वविद्यालय के कार्यों की जाँच कराने जैसे अधिकार प्राप्त हैं।"
+ }
+]
